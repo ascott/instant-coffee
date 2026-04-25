@@ -12,7 +12,7 @@ Bcc: Digital Art Subscription by Decoy Magazine // April 2018 // Commissioned Ar
 Sabrina Ratt
 
 Subscribe by April 27 to receive a copy of Sabrina Ratt's latest work: 
-http://www.decoymagazine.ca/bcc
+[http://www.decoymagazine.ca/bcc](http://www.decoymagazine.ca/bcc)
 
 Sabrina Ratt lives and works between Montreal and Paris. After a BFA and MFA in 
 Film Production at Concordia University in Montreal, she focused on video as a medium. 
@@ -29,4 +29,4 @@ Center, (Shanghai), Paddles On! 1st Digital Art Auction at Phillips (New York), 
 (Basel), EMPAC (Troy), Museum of the Moving Image (New York), International Digital 
 Arts Biennal - Bian (Montreal), PHI Center (Montreal), Arsenal (Mtl), the Lampo series 
 (Chicago), Atonal Festival (Berlin), Elektra, MUTEK (Mtl, Mexico, Barcelona). She is 
-represented by the Laffy Maffei Gallery in Paris. http://sabrinaratte.com/
+represented by the Laffy Maffei Gallery in Paris. [http://sabrinaratte.com/](http://sabrinaratte.com/)

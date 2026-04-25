@@ -53,4 +53,4 @@ For more information please do not hesitate to contact me.
 Wendy Welch
 Executive Director
 Vancouver Island School of Art
-http://vancouverislandschoolart.com
+[http://vancouverislandschoolart.com](http://vancouverislandschoolart.com)

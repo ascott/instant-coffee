@@ -50,4 +50,4 @@ where you can come and grab cheap and fairly nice lounge furniture - couches, cl
 chairs, picnic tables, ottomans, lamps, space heaters & more. (Wantoo is moving to a 
 new office that is already furnished)
 
-http://vancouver.craigslist.ca/van/fuo/5909825080.html
+[http://vancouver.craigslist.ca/van/fuo/5909825080.html](http://vancouver.craigslist.ca/van/fuo/5909825080.html)

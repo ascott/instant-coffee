@@ -24,7 +24,7 @@ racial justice. His stories will include lessons learned from working with Indig
 communities, of Chinese-Indigenous solidarity, and the impact of COVID-19.
 
 Sign-ups will be necessary, and will be available on Zoom:
-https://us02web.zoom.us/meeting/register/tZcqfumrqT0pGNFpJFcvWare0inY9plk1XcK
+[https://us02web.zoom.us/meeting/register/tZcqfumrqT0pGNFpJFcvWare0inY9plk1XcK](https://us02web.zoom.us/meeting/register/tZcqfumrqT0pGNFpJFcvWare0inY9plk1XcK)
 
 As the discussion will take place in the format of a Zoom Webinar/Meeting, audio
 transcripts will be available upon request.

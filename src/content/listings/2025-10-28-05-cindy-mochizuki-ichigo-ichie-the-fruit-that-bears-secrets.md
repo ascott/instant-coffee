@@ -36,7 +36,7 @@ memory work with Nikkei (Japanese immigrants and their descendants), by visiting
 
 and collecting their stories about the past, many of whom were children at the time.
 
-https://theactmapleridge.org/ichigo-ichie-the-fruit-that-bears-secrets
+[https://theactmapleridge.org/ichigo-ichie-the-fruit-that-bears-secrets](https://theactmapleridge.org/ichigo-ichie-the-fruit-that-bears-secrets)
 
 ACT Art Gallery
 

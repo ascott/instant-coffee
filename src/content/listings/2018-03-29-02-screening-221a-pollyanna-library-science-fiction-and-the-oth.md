@@ -25,4 +25,4 @@ Fiction and the Other, a semester of readings and screenings that consider artic
 of alterity " other beings, other worlds, other forms-of-life " as a speculative method 
 for imagining an otherwise present.
 
-http://polly-anna.ca/activity/sf-and-the-other-kaiba
+[http://polly-anna.ca/activity/sf-and-the-other-kaiba](http://polly-anna.ca/activity/sf-and-the-other-kaiba)

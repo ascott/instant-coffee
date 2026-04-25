@@ -52,7 +52,7 @@ American Art, the National Endowment for the Arts, and the Dedalus
 Foundation. Media sponsor The Georgia Straight. Opening reception sponsored
 by Consulat General de France a Vancouver.
 
-http://moa.ubc.ca
+[http://moa.ubc.ca](http://moa.ubc.ca)
 
 Museum of Anthropology
 at the University of British Columbia

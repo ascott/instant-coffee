@@ -15,7 +15,7 @@ dance collective that was created during a residency at The Polygon in January.
 Two performances take place at 6:00pm and 7:00pm.
 Limited capacity.
 Click here to book your seat:
-https://thepolygon.ca/event/night-is-the-mother-by-dance-novella/
+[https://thepolygon.ca/event/night-is-the-mother-by-dance-novella/](https://thepolygon.ca/event/night-is-the-mother-by-dance-novella/)
 
 About the performance
 The 6 unique performers are challenged to embody

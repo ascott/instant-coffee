@@ -18,7 +18,7 @@ Ybarra.
 
 The SCA MFA Online Fall Show is showing of works-in-progress by the SCA MFA second
 year cohort, presented online at www.sfu.ca/sca/within-outside.html and on the SCA's
-Instagram account (https://www.instagram.com/sfucontemporaryarts/).
+Instagram account ([https://www.instagram.com/sfucontemporaryarts/](https://www.instagram.com/sfucontemporaryarts/)).
 
 Throughout the summer months, we have continued our investigations of sound,
 performance, film, design, and visual arts while renegotiating what it means to keep

@@ -61,4 +61,4 @@ Haida story of the mother bear " which is itself, a story of transformation and
 returning home.
 
 You can learn more on the City of Vancouvers website:
-https://vancouver.ca/platforms
+[https://vancouver.ca/platforms](https://vancouver.ca/platforms)

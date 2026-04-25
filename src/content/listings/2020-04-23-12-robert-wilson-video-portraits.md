@@ -8,7 +8,7 @@ venue: "Robert Wilson"
 summary: "Robert Wilson | Video Portraits"
 ---
 
-http://www.robertwilson.com/video-portraits
+[http://www.robertwilson.com/video-portraits](http://www.robertwilson.com/video-portraits)
 
 VIDEO PORTRAITS
 

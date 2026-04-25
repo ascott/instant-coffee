@@ -13,7 +13,7 @@ Touring Animation Performance (Homecoming)
 Saturday, September 15th - 8pm - Ground Floor Arts Centre 185-288 E. Georgia St.
 
 The last stop of the tour! Join us for a night of live animation with special guest - 
-https://cstric.com/Interactive/
+[https://cstric.com/Interactive/](https://cstric.com/Interactive/)
 
 Loophole is the collaborative project of sound artist Micah Henry and visual artist Anna Firth. 
 The traveling show brings animation and experimental music clockwise across British 
@@ -29,4 +29,4 @@ sweaty cat is repeatedly drawn to slip into an orifice in its own grave. A rabbi
 distorts its body by passing a spatial warp. These cartoonish characters and others hellishly 
 repeat the same gestures in acts of pleasure, amnesia, and indifference.
 
-https://www.facebook.com/events/629488494112781/
+[https://www.facebook.com/events/629488494112781/](https://www.facebook.com/events/629488494112781/)

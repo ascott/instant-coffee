@@ -30,7 +30,7 @@ Sales for this concert will end at 2PM on Thursday, February 7, 2019.
 
 Tickets for the 10:15 concert are available here:
 
-https://western-front.myshopify.com/products/yu-su-repeat-performance
+[https://western-front.myshopify.com/products/yu-su-repeat-performance](https://western-front.myshopify.com/products/yu-su-repeat-performance)
 
 This new electronic music series immerses listeners in a world of surround sound 
 while showcasing Western Fronts brand new 8.2 octophonic speaker system. 

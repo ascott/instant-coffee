@@ -22,7 +22,7 @@ DEADLINE FOR MVS: CURATORIAL STUDIES APPLICATIONS
 FRIDAY, FEBRUARY 29, 2008.
 
 FOR APPLICATION INFORMATION, PLEASE CONSULT THE WEBSITE:
-http://www.art.utoronto.ca/graduates/vis/index_html 
+[http://www.art.utoronto.ca/graduates/vis/index_html](http://www.art.utoronto.ca/graduates/vis/index_html) 
 
 Direct all inquiries to:
 graduate.visualstudies@utoronto.ca 

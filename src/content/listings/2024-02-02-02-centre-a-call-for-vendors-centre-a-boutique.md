@@ -28,5 +28,5 @@ us for the upcoming reopening, details coming soon.
 Space is limited and only select submissions will be contacted.
 
 To submit, please fill out the Boutique Consignment Submission Form:
-https://docs.google.com/forms/d/e/1FAIpQLSdoBCgXmlWjMFvruDvj5kb3siF7MLM_n
+[https://docs.google.com/forms/d/e/1FAIpQLSdoBCgXmlWjMFvruDvj5kb3siF7MLM_n](https://docs.google.com/forms/d/e/1FAIpQLSdoBCgXmlWjMFvruDvj5kb3siF7MLM_n)
 LyA8ymzvun4A48r1w/

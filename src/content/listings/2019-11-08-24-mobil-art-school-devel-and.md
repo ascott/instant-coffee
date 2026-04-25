@@ -24,4 +24,4 @@ Classes: Friday November 15 6:30-9PM & Friday Nov 22 6:30-9PM
 Basic drawing tools and paper will be provided. Feel free to bring your materials of
 choice!
 $55
-https://www.mobil-art.ca/event-info/develop-and-draw-your-story-with-sean-karemaker
+[https://www.mobil-art.ca/event-info/develop-and-draw-your-story-with-sean-karemaker](https://www.mobil-art.ca/event-info/develop-and-draw-your-story-with-sean-karemaker)

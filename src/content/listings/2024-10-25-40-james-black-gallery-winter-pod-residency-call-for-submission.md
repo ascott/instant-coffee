@@ -13,7 +13,7 @@ WINTER POD RESIDENCY
 CALL FOR SUBMISSIONS
 Due October 24th, 2025 11:59PM
 
-https://docs.google.com/forms/d/e/1FAIpQLSerACBSifVuddBMWX2RmVM51SQT1XK
+[https://docs.google.com/forms/d/e/1FAIpQLSerACBSifVuddBMWX2RmVM51SQT1XK](https://docs.google.com/forms/d/e/1FAIpQLSerACBSifVuddBMWX2RmVM51SQT1XK)
 1EdJzhJkymlq3zZKysA/viewform
 
 We are pleased to offer a 40 day residency for one group of local artists (4-6

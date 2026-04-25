@@ -37,5 +37,5 @@ theatre designer, she has been a lifelong student of ceramics and clay. Her curr
 practice finds local landscape, environment and materials encountering myth, story
 and history.
 
-https://www.instagram.com/ilenaleecramer
-https://ilenaleepottery.com/
+[https://www.instagram.com/ilenaleecramer](https://www.instagram.com/ilenaleecramer)
+[https://ilenaleepottery.com/](https://ilenaleepottery.com/)

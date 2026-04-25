@@ -52,7 +52,7 @@ weeks of the deadline.
 Direct your submissions, queries, and questions to INFO@BREACHMAGAZINE.CA
 by March 30 2015.
 
-See http://www.breachmagazine.ca for more information.
+See [http://www.breachmagazine.ca](http://www.breachmagazine.ca) for more information.
 
 31. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.

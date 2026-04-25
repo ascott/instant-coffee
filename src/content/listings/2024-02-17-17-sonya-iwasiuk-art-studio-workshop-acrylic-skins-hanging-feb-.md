@@ -33,7 +33,7 @@ Sonya is a certified GOLDEN Artist Educator and a Mixed Media Master!
 
 Register Here!
 
-https://sonya-iwasiuk-art-studio.square.site/product/artworkshop/8?
+[https://sonya-iwasiuk-art-studio.square.site/product/artworkshop/8](https://sonya-iwasiuk-art-studio.square.site/product/artworkshop/8)?
 cs=true&cst=custom
 
 18.

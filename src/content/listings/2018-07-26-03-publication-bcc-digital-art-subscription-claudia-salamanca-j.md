@@ -12,7 +12,7 @@ Bcc: Digital Art Subscription by Decoy Magazine // July 2018 //
 Commissioned Artist: Claudia Salamanca
 
 Subscribe by July 27 to receive an exclusive copy of Claudia's commissioned
-digital artwork: http://www.decoymagazine.ca/bcc
+digital artwork: [http://www.decoymagazine.ca/bcc](http://www.decoymagazine.ca/bcc)
 
 Claudia Salamanca is a visual artist and theorist working on the
 intersection between the visual and the political. She is assistant

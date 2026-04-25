@@ -18,7 +18,7 @@ Nisgaa from Gingolx on his mothers side and Haida from Massett on his
 fathers side.
 Register on Eventbrite
 
-https://www.eventbrite.ca/e/artist-talk-luke-parnell-tickets-149928350733
+[https://www.eventbrite.ca/e/artist-talk-luke-parnell-tickets-149928350733](https://www.eventbrite.ca/e/artist-talk-luke-parnell-tickets-149928350733)
 
 Supported by the Canada Council for the Arts
 Supported by the Province of British Columbia | British Columbia Arts Council

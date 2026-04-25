@@ -19,7 +19,7 @@ _-_
 The exhibition continues through November 30, open Saturdays, 2"6pm, and by
 appointment.
 
-Write itsjoycewielandthanks@gmail.com or see http://bedroomkitchen.garden/ohce-
+Write itsjoycewielandthanks@gmail.com or see [http://bedroomkitchen.garden/ohce-](http://bedroomkitchen.garden/ohce-)
 echo for more information.
 
 -_-

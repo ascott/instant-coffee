@@ -28,7 +28,7 @@ Hirano and Mark Salvatus (Load na Dito)
 DATES: July 30 - August 13, 2020
 
 Watch HERE:
-https://www.pacificcrossings.ca/
+[https://www.pacificcrossings.ca/](https://www.pacificcrossings.ca/)
 
 Dispatches From Manila asks artists and curators from the region to check-in, offering
 perspectives or creative projects that they have been occupied with during the recent
@@ -48,7 +48,7 @@ connections reveals a rhizomatic network of solidarity and support.
 The program unfolds in three parts:
 
 Dispatches Screening
-https://www.pacificcrossings.ca/lost-frames-screening/
+[https://www.pacificcrossings.ca/lost-frames-screening/](https://www.pacificcrossings.ca/lost-frames-screening/)
 
 Programmed by Lost Frames, this virtual screening follows the collectives regular format
 of a community screening of short videos selected in an open call. Deliberately anti-
@@ -67,7 +67,7 @@ Tanya Villanueva
 Some works will screen in Tagalog or other local dialects, without translation.
 
 Between the Corpse and the Tree
-https://www.pacificcrossings.ca/published-story-by-unnamed-artist/
+[https://www.pacificcrossings.ca/published-story-by-unnamed-artist/](https://www.pacificcrossings.ca/published-story-by-unnamed-artist/)
 
 Remaining anonymous for reasons of safety, this story by an unnamed artist unfolds as a
 spectral life of palpable fear lived under a militarized state. Drawn from lived experience,
@@ -76,7 +76,7 @@ created by the extreme force that state-sanctioned violence exerts on the lived 
 Filipino citizens.
 
 Interview with Load na Dito
-https://www.pacificcrossings.ca/interview-with-load-na-dito/
+[https://www.pacificcrossings.ca/interview-with-load-na-dito/](https://www.pacificcrossings.ca/interview-with-load-na-dito/)
 
 Following their residency with Pacific Crossings in Vancouver in May 2019, this interview
 asks Load na Ditos Mayumi Hirano and Mark Salvatus to elaborate on how their projects
@@ -96,10 +96,10 @@ through interactions of individuals, objects, images and ideas. It creates spati
 situations that address issues of participation and problematize the potential of collective
 production. Load na Dito was initiated by Mayumi Hirano and Mark Salvatus in 2016.
 
-Artist Bios are available online: https://www.pacificcrossings.ca/contributors.
+Artist Bios are available online: [https://www.pacificcrossings.ca/contributors](https://www.pacificcrossings.ca/contributors).
 
 For information about PART I and PART II of Triangulations, please
-visit:https://centrea.org/pacific-crossings/
+visit:[https://centrea.org/pacific-crossings/](https://centrea.org/pacific-crossings/)
 
 --
 Centre A: Vancouver International Centre for Contemporary Asian Art

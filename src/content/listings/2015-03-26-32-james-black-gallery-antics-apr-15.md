@@ -37,5 +37,5 @@ Media artists will be required to come in April 28th in order to plan out
 where the work should be shown in advance. Explorations should be delivered
 by/on April 29th, and the official show will be on May 2nd. Artists can
 pick up their work on Sunday, May 3rd.
-http://www.thejamesblack.gallery/#!call/c4yg
-https://www.facebook.com/events/1567140173528345/
+[http://www.thejamesblack.gallery/#!call/c4yg](http://www.thejamesblack.gallery/#!call/c4yg)
+[https://www.facebook.com/events/1567140173528345/](https://www.facebook.com/events/1567140173528345/)

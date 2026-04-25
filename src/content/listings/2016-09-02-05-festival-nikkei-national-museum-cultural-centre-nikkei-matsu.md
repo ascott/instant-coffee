@@ -26,4 +26,4 @@ This is also the last weekend to catch Arrival by AIMIA/AGO finalist
 Chino Otsuka in the Nikkei National Museum. Gallery tours on the 
 hour from 12noon - 4pm
 
-More details available at http://nikkeimatsuri.nikkeiplace.org/
+More details available at [http://nikkeimatsuri.nikkeiplace.org/](http://nikkeimatsuri.nikkeiplace.org/)

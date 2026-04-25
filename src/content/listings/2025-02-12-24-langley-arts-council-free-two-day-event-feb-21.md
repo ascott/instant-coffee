@@ -16,6 +16,6 @@ These sessions will cover topics such as the journey to
 establishing a professional
 practice, essential best practices for navigating the art world, and much more.
 
-https://langleyarts.ca/events/youth
+[https://langleyarts.ca/events/youth](https://langleyarts.ca/events/youth)
 
 Feb 21-22

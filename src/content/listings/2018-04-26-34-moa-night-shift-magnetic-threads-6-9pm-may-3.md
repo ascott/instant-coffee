@@ -17,6 +17,6 @@ music, dance, and interactive art with Night Shift: Magnetic Threads on Thursday
 Explore our bodies relationship to woven materials with contemporary dance group 
 CoERASGA, who will perform an experimental piece using malong, an Indigenous 
 textile of the Philippines. Free with museum admission. For more information visit: 
-https://moa.ubc.ca/event/night-shift-magnetic-threads/
+[https://moa.ubc.ca/event/night-shift-magnetic-threads/](https://moa.ubc.ca/event/night-shift-magnetic-threads/)
 
 6393 NW Marine Dr, Vancouver, BC

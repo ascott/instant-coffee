@@ -16,12 +16,12 @@ This years festival will be held at Science World.
 
 www.newformsfestival.com
 
-Advance Tickets: Online- https://tickets.newformsfestival.com
+Advance Tickets: Online- [https://tickets.newformsfestival.com](https://tickets.newformsfestival.com)
 Or in Vancouver at Red Cat Records located at 4332 Main St.
-http://www.redcat.ca/
+[http://www.redcat.ca/](http://www.redcat.ca/)
 
 Schedule of performances available here:
-http://2014.newformsfestival.com/new-schedule/
+[http://2014.newformsfestival.com/new-schedule/](http://2014.newformsfestival.com/new-schedule/)
 
 ++++++++++++++++++++++++++++++++++++
 
@@ -30,80 +30,80 @@ September 18th - 21st, 2014
 Music:
 
 22:22 -DJ- (Dipped Recording / King Deluxe)
-https://soundcloud.com/twentytwo22
+[https://soundcloud.com/twentytwo22](https://soundcloud.com/twentytwo22)
 
 Adam Marshall -DJ- (New Kanada)
-http://www.discogs.com/artist/14427-Adam-Marshall
+[http://www.discogs.com/artist/14427-Adam-Marshall](http://www.discogs.com/artist/14427-Adam-Marshall)
 
 Arca
-http://www.arca1000000.com/
+[http://www.arca1000000.com/](http://www.arca1000000.com/)
 
 Bochum Welt -Live- (Rephlex / BMG)
-http://www.bochumwelt.com/
+[http://www.bochumwelt.com/](http://www.bochumwelt.com/)
 
 Clinker -Live-
-http://www.clinkersound.com/
+[http://www.clinkersound.com/](http://www.clinkersound.com/)
 
 Cloudface -Live- (Mood Hut / Going Good / Opal Tapes)
-https://soundcloud.com/dssr
+[https://soundcloud.com/dssr](https://soundcloud.com/dssr)
 
 Cuthead -Live- (Uncanny Valley)
-https://soundcloud.com/cuthead
+[https://soundcloud.com/cuthead](https://soundcloud.com/cuthead)
 
 Davachi / Smith -Live-
-https://soundcloud.com/sarahdavachi
-https://soundcloud.com/ava76
+[https://soundcloud.com/sarahdavachi](https://soundcloud.com/sarahdavachi)
+[https://soundcloud.com/ava76](https://soundcloud.com/ava76)
 
 Deebs -Live- (Pelican Fly)
-http://www.deebsmusic.com/
+[http://www.deebsmusic.com/](http://www.deebsmusic.com/)
 
 DJ Earl -DJ- (Teklife / Hyperdub)
-https://soundcloud.com/djearlteckz
+[https://soundcloud.com/djearlteckz](https://soundcloud.com/djearlteckz)
 
 DJ Fett Burger -DJ- (Sex Tags Mania)
-http://www.discogs.com/artist/1658423-DJ-Fett-Burger
+[http://www.discogs.com/artist/1658423-DJ-Fett-Burger](http://www.discogs.com/artist/1658423-DJ-Fett-Burger)
 
 DJ Sotofett -DJ- (Sex Tags Mania)
-http://djsotofett.com/
+[http://djsotofett.com/](http://djsotofett.com/)
 
 Dresvn -Live- (Acido Records / SUED)
-http://www.discogs.com/artist/1357247-Dreesvn
+[http://www.discogs.com/artist/1357247-Dreesvn](http://www.discogs.com/artist/1357247-Dreesvn)
 
 Dynamo Dreesen -DJ- (Acido Records)
-http://www.discogs.com/artist/221434-Dynamo-Dreesen
+[http://www.discogs.com/artist/221434-Dynamo-Dreesen](http://www.discogs.com/artist/221434-Dynamo-Dreesen)
 
 Finn Johannsen -DJ- (Hardwax / Macro)
-http://finn-johannsen.de/
+[http://finn-johannsen.de/](http://finn-johannsen.de/)
 
 Helena Hauff -DJ- (Werk Discs / PAN / Panzerkreuz Records)
-http://helena-hauff.com/
+[http://helena-hauff.com/](http://helena-hauff.com/)
 
 Hieroglyphic Being -Live- (Mathematics Recordings)
-https://soundcloud.com/somuchnoise2beheard
+[https://soundcloud.com/somuchnoise2beheard](https://soundcloud.com/somuchnoise2beheard)
 
 Inga Copeland -Live-
-http://www.discogs.com/artist/2365200-Inga-Copeland
+[http://www.discogs.com/artist/2365200-Inga-Copeland](http://www.discogs.com/artist/2365200-Inga-Copeland)
 
 Jacob Korn -Live- (Uncanny Valley / Permanent Vacation / Mild Pitch)
-http://www.jacobkorn.com/
+[http://www.jacobkorn.com/](http://www.jacobkorn.com/)
 
 Jared Wilson -Live- (7777)
-http://www.j4r3d.com/
+[http://www.j4r3d.com/](http://www.j4r3d.com/)
 
 Jesse Bru -Live- (Karat / Heart to Heart / We Have Friends)
-https://soundcloud.com/jesse-bru
+[https://soundcloud.com/jesse-bru](https://soundcloud.com/jesse-bru)
 
 Lnrdcroy -Live- (Forbidden Planet / 1080p)
-https://soundcloud.com/lnrdcroy
+[https://soundcloud.com/lnrdcroy](https://soundcloud.com/lnrdcroy)
 
 Madlib -DJ- (Stones Throw)
-http://www.stonesthrow.com/madlib
+[http://www.stonesthrow.com/madlib](http://www.stonesthrow.com/madlib)
 
 Mirage Inc. -Live- (Heart to Heart / Homebreakin)
-https://soundcloud.com/mirage-inc
+[https://soundcloud.com/mirage-inc](https://soundcloud.com/mirage-inc)
 
 Morton Subotnick -Live-
-http://www.mortonsubotnick.com/
+[http://www.mortonsubotnick.com/](http://www.mortonsubotnick.com/)
 
 Murcof + Simon Geilfus [Antivj]
 www.antivj.com/murcof
@@ -112,81 +112,81 @@ Vancouver - We wish to acknowledge and thank them for their support of this
 performance. *
 
 Oneohtrix Point Never -Live- (Software, Warp)
-http://pointnever.com/
+[http://pointnever.com/](http://pointnever.com/)
 
 Scratcha Dva -DJ- (Hyperdub)
-https://soundcloud.com/ScratchaDVA
+[https://soundcloud.com/ScratchaDVA](https://soundcloud.com/ScratchaDVA)
 
 Sinoia Caves -Live-
-http://www.discogs.com/artist/2632713-Sinoia-Caves
+[http://www.discogs.com/artist/2632713-Sinoia-Caves](http://www.discogs.com/artist/2632713-Sinoia-Caves)
 
 SVN -DJ- (SUED)
-http://suedrecords.com/
+[http://suedrecords.com/](http://suedrecords.com/)
 
 Visionist -DJ- (Lost Codes)
-https://soundcloud.com/visionist
+[https://soundcloud.com/visionist](https://soundcloud.com/visionist)
 
 Wen -DJ- (Keysound Recordings)
-http://staypaidbookings.com/artists/wen
+[http://staypaidbookings.com/artists/wen](http://staypaidbookings.com/artists/wen)
 
 Young Braised & Soledad Muñoz -Live- (1080p)
-http://youngbraised.com/
-http://soledadmunoz.com/
+[http://youngbraised.com/](http://youngbraised.com/)
+[http://soledadmunoz.com/](http://soledadmunoz.com/)
 
 Visual Artists:
 
 Brenna Murphy
-http://bmruernpnhay.com/
+[http://bmruernpnhay.com/](http://bmruernpnhay.com/)
 
 Chimerik似不像
-http://chimerik.com/
+[http://chimerik.com/](http://chimerik.com/)
 
 Instant Coffee LIGHT BAR
-http://www.instantcoffee.org/
+[http://www.instantcoffee.org/](http://www.instantcoffee.org/)
 
 Jonny Ã˜strem
-http://cargocollective.com/jostrem/Jonny-Ostrem
+[http://cargocollective.com/jostrem/Jonny-Ostrem](http://cargocollective.com/jostrem/Jonny-Ostrem)
 
 Kevin Beasley
-http://whitney.org/Exhibitions/2014Biennial/KevinBeasley
+[http://whitney.org/Exhibitions/2014Biennial/KevinBeasley](http://whitney.org/Exhibitions/2014Biennial/KevinBeasley)
 
 Krist Wood
-http://www.kristwood.com/
+[http://www.kristwood.com/](http://www.kristwood.com/)
 
 Laura Brothers
-http://out-4-pizza.livejournal.com/http://out-4-pizza.livejournal.com
+[http://out-4-pizza.livejournal.com/http://out-4-pizza.livejournal.com](http://out-4-pizza.livejournal.com/http://out-4-pizza.livejournal.com)
 
 Lis Rhodes
-http://www.tate.org.uk/whats-on/tate-modern-tanks/display/lis-rhodes-light-music
+[http://www.tate.org.uk/whats-on/tate-modern-tanks/display/lis-rhodes-light-music](http://www.tate.org.uk/whats-on/tate-modern-tanks/display/lis-rhodes-light-music)
 
 Lorna Mills
-http://www.digitalmediatree.com/sallymckay/LornaMillsImageDump
+[http://www.digitalmediatree.com/sallymckay/LornaMillsImageDump](http://www.digitalmediatree.com/sallymckay/LornaMillsImageDump)
 
 Nate Boyce
-http://www.nateboyce.net/
+[http://www.nateboyce.net/](http://www.nateboyce.net/)
 
 Nicolas Sassoon
-http://nicolassassoon.com/
+[http://nicolassassoon.com/](http://nicolassassoon.com/)
 
 Pepé
 
 Rick Silva
-http://ricksilva.net/
+[http://ricksilva.net/](http://ricksilva.net/)
 
 Rollin Leonard
-http://rollinleonard.com/
+[http://rollinleonard.com/](http://rollinleonard.com/)
 
 Sara Ludy
-http://www.saraludy.com/
+[http://www.saraludy.com/](http://www.saraludy.com/)
 
 Stan VanDerBeek
-http://www.stanvanderbeek.com/
+[http://www.stanvanderbeek.com/](http://www.stanvanderbeek.com/)
 
 Sylvain Sailly
-http://www.caligrayk.com/sylv1/bnt/bonneteau.htm
+[http://www.caligrayk.com/sylv1/bnt/bonneteau.htm](http://www.caligrayk.com/sylv1/bnt/bonneteau.htm)
 
 USCO
-http://www.intermediafoundation.org/usco/
+[http://www.intermediafoundation.org/usco/](http://www.intermediafoundation.org/usco/)
 
 ++++++++++++++++++++++++++++++++++++
 

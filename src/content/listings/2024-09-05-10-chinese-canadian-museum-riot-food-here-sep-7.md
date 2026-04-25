@@ -25,8 +25,8 @@ demographic groups that were in Vancouver during the time of the Riot (Chinese,
 Japanese, Punjabi, Indigenous, and white), this event explores how food would have
 represented your people, culture, preferences, and biases at the time.
 
-Tickets: https://www.chinesecanadianmuseum.ca/programs/riot-food-here
+Tickets: [https://www.chinesecanadianmuseum.ca/programs/riot-food-here](https://www.chinesecanadianmuseum.ca/programs/riot-food-here)
 Cost: $50/annual pass holder; $55/general admission visitor *GST not included
 
 To learn more about the Chinese Canadian Museum:
-http://https://www.chinesecanadianmuseum.ca/
+[http://https://www.chinesecanadianmuseum.ca/](http://https://www.chinesecanadianmuseum.ca/)

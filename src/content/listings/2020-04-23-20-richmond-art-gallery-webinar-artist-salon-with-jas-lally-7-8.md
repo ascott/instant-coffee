@@ -42,9 +42,9 @@ was the team leader in organizing a graduate led exhibition of drawings from the
 Portrait Gallery, London.
 
 Session is free, but registration is required. Register here:
-https://zoom.us/webinar/register/WN_t2yncNUYSvmWUvRGbSC03Q4
+[https://zoom.us/webinar/register/WN_t2yncNUYSvmWUvRGbSC03Q4](https://zoom.us/webinar/register/WN_t2yncNUYSvmWUvRGbSC03Q4)
 
-More information: http://www.richmondartgallery.org/jas-lally/
+More information: [http://www.richmondartgallery.org/jas-lally/](http://www.richmondartgallery.org/jas-lally/)
 
 Questions: Kathy Tycholis, Education & Public Programs Coordinator @ Richmond Art
 Gallery: ktycholis at richmond dot ca

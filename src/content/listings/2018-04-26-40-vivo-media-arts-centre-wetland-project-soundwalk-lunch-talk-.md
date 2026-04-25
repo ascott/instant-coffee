@@ -14,7 +14,7 @@ with Brady Marks & Mark Timmings
 A co-production between VIVO and Vancouver New Music
 
 FREE REGISTRATION REQUIRED: 
-https://wetland-soundwalk-lunch.eventbrite.ca
+[https://wetland-soundwalk-lunch.eventbrite.ca](https://wetland-soundwalk-lunch.eventbrite.ca)
 
 Sunday, May 6
 11am: Soundwalk
@@ -26,4 +26,4 @@ the audiovisual installation will be running. Lunch will be served. And then the
 talk about the process of creating the work. 
 
 More about the Wetland Project installation:
-http://www.vivomediaarts.com/category/current-exhibitions
+[http://www.vivomediaarts.com/category/current-exhibitions](http://www.vivomediaarts.com/category/current-exhibitions)

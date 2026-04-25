@@ -20,8 +20,8 @@ amateur and professional artists, and to
 display the ethnic and linguistic diversity of
 Canada.
 
-FB EVENT https://www.facebook.com/events/896611097485748/
+FB EVENT [https://www.facebook.com/events/896611097485748/](https://www.facebook.com/events/896611097485748/)
 
-INSTAGRAM https://www.instagram.com/makemusiccanada/
+INSTAGRAM [https://www.instagram.com/makemusiccanada/](https://www.instagram.com/makemusiccanada/)
 
 WEBSITE www.make-music-canada.ca

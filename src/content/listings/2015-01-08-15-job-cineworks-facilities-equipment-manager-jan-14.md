@@ -15,4 +15,4 @@ Application Deadline: Wednesday January 14th, 6pm by post or email
 Years Experience: 2 +
 Salary: $36,400 / year + competitive benefits package
 
-For full job description go to http://cineworks.ca/attend/event/75
+For full job description go to [http://cineworks.ca/attend/event/75](http://cineworks.ca/attend/event/75)

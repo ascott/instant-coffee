@@ -14,4 +14,4 @@ from diverse backgrounds who create critical contemporary art which is relevant 
 local audience. The Gallery pays artists fair fees in accordance with CARFAC. Deadline 
 for submissions is Friday, May 12 at 5:00 pm.
 
-To apply, visit http://www.kootenaygallery.com/submissions/ .
+To apply, visit [http://www.kootenaygallery.com/submissions/](http://www.kootenaygallery.com/submissions/) .

@@ -39,5 +39,5 @@ Feel the weight of the realities experienced by Indigenous peoples and
 recognize the hope in the present and future. Please journey with us through the
 light and the dark.
 
-http://www.thejamesblack.gallery
+[http://www.thejamesblack.gallery](http://www.thejamesblack.gallery)
 144 East 6th, Vancouver BC

@@ -28,4 +28,4 @@ Organized by the Vancouver Art Gallery and guest curated by Pantea Haghighi,
 Independent Curator.
 
 For further information, please visit
-https://www.vanartgallery.bc.ca/exhibitions/parviztanavoli
+[https://www.vanartgallery.bc.ca/exhibitions/parviztanavoli](https://www.vanartgallery.bc.ca/exhibitions/parviztanavoli)

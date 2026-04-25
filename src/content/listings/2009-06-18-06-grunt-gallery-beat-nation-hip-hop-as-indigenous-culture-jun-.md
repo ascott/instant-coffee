@@ -14,7 +14,7 @@ Exhibition Dates: June 26th – August 1st 2009
 
 Grunt Gallery: 116-350 E 2nd
 VIVO: 1965 Main St. 
-http://www.beatnation.org
+[http://www.beatnation.org](http://www.beatnation.org)
 
 Grunt gallery is pleased to present Beat Nation: Hip Hop as Indigenous Culture, June 26, 2009. 
 Co-curated by Tania Willard and Skeena Reece, Beat Nation is a web-based project located at 
@@ -46,4 +46,4 @@ Kinnie Starr, Ostwelve, Ronald Harris, and Peter Morin
 This project was made possible with the support of the Department of Canadian Heritage through 
 Canadian Culture Online.
 
-http://http://www.beatnation.org
+[http://http://www.beatnation.org](http://http://www.beatnation.org)

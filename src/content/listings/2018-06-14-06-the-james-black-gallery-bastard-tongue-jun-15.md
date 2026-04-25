@@ -25,7 +25,7 @@ dour situations. A frequent contributor to galleries across North America,
 Michael graduated from the Alberta College of Art and Design in 2009 and
 resides in Vancouver, British Columbia.
 
-http://www.komboh.com/
+[http://www.komboh.com/](http://www.komboh.com/)
 
 CALL: QUICKIE DUE JUNE 30TH
 

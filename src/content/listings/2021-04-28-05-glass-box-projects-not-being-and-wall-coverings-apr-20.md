@@ -10,7 +10,7 @@ summary: "Glass Box Projects | “Not Being” and “WALL COVERINGS” | APR 20
 
 Poya Razi, exhibition at Glass Box Projects
 April 20th to May 31st
-book your visit via https://www.setarehyasan.net/event-details/pooys-razis-exhibition
+book your visit via [https://www.setarehyasan.net/event-details/pooys-razis-exhibition](https://www.setarehyasan.net/event-details/pooys-razis-exhibition)
 
 Glass Box Projects is pleased to present Not Being and WALL COVERINGS a short
 film and a series of paintings by Tehran based artist Pooya Razi.

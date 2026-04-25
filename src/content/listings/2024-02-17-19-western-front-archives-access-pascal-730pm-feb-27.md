@@ -27,7 +27,7 @@ impactful sojourn in the Canadian contemporary art world.
 
 Admission is free, but registration is recommended.
 
-For more information, visit our website: https://westernfront.ca/events/archives-
+For more information, visit our website: [https://westernfront.ca/events/archives-](https://westernfront.ca/events/archives-)
 access-pascal-one-night-only
 
 Western Front

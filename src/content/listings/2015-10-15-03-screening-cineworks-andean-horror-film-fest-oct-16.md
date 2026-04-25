@@ -23,7 +23,7 @@ Tickets:
 $6 (Concessions)
 $8.50 (Cineworks Members)
 $11 (General Admission)
-Available at the door and in advance at: http://bit.ly/1VHTzAS
+Available at the door and in advance at: [http://bit.ly/1VHTzAS](http://bit.ly/1VHTzAS)
 
 The Andean Horror Film Fest welcomes you to a celebration of folklore,
 fantasy and horror never before seen in Canadian screens. Produced in the
@@ -107,7 +107,7 @@ redefining the arts in Canada. The interdisciplinary MFA program is widely
 recognized internationally as a unique opportunity where graduate students
 can explore connections between art forms and develop their own creative voice.
 
-http://www.sfu.ca/sca/sca/about/history
+[http://www.sfu.ca/sca/sca/about/history](http://www.sfu.ca/sca/sca/about/history)
 
 Cineworks Independent Filmmakers Society (est.1980) is an artist-run
 production and exhibition centre that supports independent filmmakers and

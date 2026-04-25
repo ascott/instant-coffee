@@ -27,7 +27,7 @@ rhythm of smaller places.
 The event itself will be accompanied by a publication & a website.
 An artist fee of Euro 250 [incl. VAT] will be paid per selected artist .
 
-to apply: http://www.s-w-i-t-c-h.org
+to apply: [http://www.s-w-i-t-c-h.org](http://www.s-w-i-t-c-h.org)
 
 deadline for entries: 7th December 2012
 

@@ -33,4 +33,4 @@ audience to lean into the surreal with courage and curiosity, guided by
 ancestral
 knowledge preceding the world as we know it today.
 
-https://openspace.ca/programming/guest-house-residency-chandra-melting-tallow
+[https://openspace.ca/programming/guest-house-residency-chandra-melting-tallow](https://openspace.ca/programming/guest-house-residency-chandra-melting-tallow)

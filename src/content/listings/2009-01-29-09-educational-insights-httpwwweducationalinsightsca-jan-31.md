@@ -15,4 +15,4 @@ playbuilding to investigate bullying; a/r/tographic ritual inquiry; an
 interrupted performance as a site of inquiry; and the ethical challenges of
 arts-based research and representation.
 Issue Editors Lynn Fels and Rita Irwin invite you to visit the journal at:
-http://www.educationalinsights.ca/
+[http://www.educationalinsights.ca/](http://www.educationalinsights.ca/)

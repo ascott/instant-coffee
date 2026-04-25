@@ -21,5 +21,5 @@ LeSage (LeSage Arts Management & Research Lead with Mass Culture on Future of Ar
 Work Project) as moderator to discuss with panelists (TBA) the role of the lawyers on
 boards, examining what works, and what doesnt.
 
-https://www.eventbrite.ca/e/board-table-disruption-lawyers-at-the-board-table-tickets-
+[https://www.eventbrite.ca/e/board-table-disruption-lawyers-at-the-board-table-tickets-](https://www.eventbrite.ca/e/board-table-disruption-lawyers-at-the-board-table-tickets-)
 151893247793

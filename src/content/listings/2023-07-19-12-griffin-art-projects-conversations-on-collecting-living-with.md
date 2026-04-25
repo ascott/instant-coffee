@@ -14,7 +14,7 @@ Sunday, July 23, 2023
 1:00 PM 2:30 PM
 
 Register:
-https://www.eventbrite.ca/e/conversations-on-collecting-with-andrew-booth-ann-
+[https://www.eventbrite.ca/e/conversations-on-collecting-with-andrew-booth-ann-](https://www.eventbrite.ca/e/conversations-on-collecting-with-andrew-booth-ann-)
 webb-and-marshall-webb-tickets-640747622387
 
 With Andrew Booth, Ann and Marshall Webb, moderated by Dr. Karen Tam

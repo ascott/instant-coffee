@@ -10,7 +10,7 @@ summary: "PoMoArts | Kwi Am Choi Exhibition Scholarship 2024 | NOV 12"
 
 Kwi Am Choi Exhibition Scholarship 2024
 
-Application link: https://form.jotform.com/82266566570262
+Application link: [https://form.jotform.com/82266566570262](https://form.jotform.com/82266566570262)
 
 Deadline for Applications: November 12, 2023
 
@@ -47,7 +47,7 @@ Transportation costs for artwork.
 Exhibition installation expenses
 Advertising and marketing costs for the exhibition.
 Opening reception, and related administrative costs.
-For more information, please visit: https://pomoarts.ca/scholarships-residencies and
+For more information, please visit: [https://pomoarts.ca/scholarships-residencies](https://pomoarts.ca/scholarships-residencies) and
 select the Scholarships tab to view the application guidelines.
 
 If you have any questions about this exhibition scholarship opportunity, please email

@@ -24,7 +24,7 @@ contemporary to outsider to exhibitions representing community-
 engaged and social practice methods as well as a diversity of 
 mediums: photography, video, performance art, drawing, 3D, 
 installation, ceramics, textiles and more. For more information on 
-Gachet’s vision and Basis of Unity, please see http://gachet.org/about.
+Gachet’s vision and Basis of Unity, please see [http://gachet.org/about](http://gachet.org/about).
 
 We welcome proposals that challenge mental health stigmas, barriers 
 to full social, cultural, and economic participation; disability art; art for 

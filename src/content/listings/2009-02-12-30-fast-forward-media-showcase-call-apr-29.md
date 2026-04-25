@@ -24,7 +24,7 @@ staffing, and taking down the booth, as well as promotion for your
 production on our web site & emails to our delegates.
 
 You're welcome to check out the booth page on our web site:
-http://www.langara.bc.ca/ffwd/ for more information or to register, and to
+[http://www.langara.bc.ca/ffwd/](http://www.langara.bc.ca/ffwd/) for more information or to register, and to
 contact me if you have questions.
 
 Best,
@@ -35,11 +35,11 @@ w:604-323-5217 f:604-323-5577
 
 Fast Forward Media Showcase
 April 29-30, 2009
-http://www.langara.bc.ca/ffwd/
+[http://www.langara.bc.ca/ffwd/](http://www.langara.bc.ca/ffwd/)
 Library Technician
 Advanced Education Media
 Acquisitions Centre
 Langara College
 100 West 49th Ave
 Vancouver, BC V5Y 2Z6
-http://www.langara.bc.ca/aemac/
+[http://www.langara.bc.ca/aemac/](http://www.langara.bc.ca/aemac/)

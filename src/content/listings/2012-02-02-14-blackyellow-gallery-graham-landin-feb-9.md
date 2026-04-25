@@ -12,9 +12,9 @@ We at Black&Yellow Gallery have an upcoming show for Graham Landin, a
 Vancouver based artist, Curated by Patrick Cruz, opening with us on
 Thursday February 9th - 27th.
 
-http://www.waldorfhotel.com/
+[http://www.waldorfhotel.com/](http://www.waldorfhotel.com/)
 
-http://www.waldorfhotel.com/black-and-yellow/
+[http://www.waldorfhotel.com/black-and-yellow/](http://www.waldorfhotel.com/black-and-yellow/)
 
 1489 East Hastings Street
 Vancouver, B.C.

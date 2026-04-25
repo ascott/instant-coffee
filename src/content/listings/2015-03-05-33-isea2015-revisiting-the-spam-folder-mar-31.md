@@ -27,7 +27,7 @@ workshop.
 How: Deadline for registration March 31th, 2015 by email we@kairus.org
 
 More info:
-http://kairus.org/call-for-participation-revisiting-the-spam-folder-using-419-fiction-for-interactive-storytelling-workshop-at-isea15/
+[http://kairus.org/call-for-participation-revisiting-the-spam-folder-using-419-fiction-for-interactive-storytelling-workshop-at-isea15/](http://kairus.org/call-for-participation-revisiting-the-spam-folder-using-419-fiction-for-interactive-storytelling-workshop-at-isea15/)
 
 34. PLAYingMUSIC/DJing/DANCEing/PARTYing/RELAXing
 1.
@@ -75,11 +75,11 @@ Fox Cabaret
 10:30pm-2:00am
 
 Fox Cabaret Website:
-http://www.foxcabaret.com/event/mainstreeters-dragball/
+[http://www.foxcabaret.com/event/mainstreeters-dragball/](http://www.foxcabaret.com/event/mainstreeters-dragball/)
 Facebook event:
-https://www.facebook.com/events/455067584642647
+[https://www.facebook.com/events/455067584642647](https://www.facebook.com/events/455067584642647)
 Tickets available through Eventbrite:
-https://www.eventbrite.ca/e/mainstreeters-dragball-tickets-15805856743
+[https://www.eventbrite.ca/e/mainstreeters-dragball-tickets-15805856743](https://www.eventbrite.ca/e/mainstreeters-dragball-tickets-15805856743)
 
 35. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.

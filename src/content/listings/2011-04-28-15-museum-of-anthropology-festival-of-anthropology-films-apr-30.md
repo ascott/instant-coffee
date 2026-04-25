@@ -44,7 +44,7 @@ committed to creating a positive future for the next 7 generations.The
 event runs from 1-3 PMFree with Admission - 6393 N.W. Marine 
 Drive, Vancouver BC V6T 1Z2More information can be found at 
 www.moa.ubc.ca/events or on the film's website: 
-http://www.forthenext7generations.com/--------------------Museum of 
+[http://www.forthenext7generations.com/--------------------Museum](http://www.forthenext7generations.com/--------------------Museum) of 
 Anthropology | Through the Artist's Eyes: Jim Hart | May 15thJoin 
 acclaimed Haida artist Jim Hart, Chief 7idansuu, for a tour of the 
 exhibition, Signed without Signature: Works by Charles and Isabella 

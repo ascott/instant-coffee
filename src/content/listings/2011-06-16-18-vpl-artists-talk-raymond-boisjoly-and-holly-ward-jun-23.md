@@ -22,5 +22,5 @@ banners in the concourse of the Central Library. The artists will provide insigh
 into their unique images and processes, as well as share in the challenges and 
 opportunities encountered working in the public sphere.
 City of Vancouver Public Art Program: 
-www.vancouver.ca/publicart<http://www.vancouver.ca/publicart>
-Vancouver Public Library: www.vpl.ca<http://www.vpl.ca>
+www.vancouver.ca/publicart<[http://www.vancouver.ca/publicart](http://www.vancouver.ca/publicart)>
+Vancouver Public Library: www.vpl.ca<[http://www.vpl.ca](http://www.vpl.ca)>

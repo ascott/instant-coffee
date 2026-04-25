@@ -12,7 +12,7 @@ Event Title: Media Hybrids: Lecture/Demonstration
 with Stephen Broomer
 Date & Time: Sunday, November 10th; 11am
 Location: Cineworks, 1131 Howe St | Entrance through back alley
-Tickets: https://www.eventbrite.ca/e/media-hybrids-lecturedemonstration-with-stephen-
+Tickets: [https://www.eventbrite.ca/e/media-hybrids-lecturedemonstration-with-stephen-](https://www.eventbrite.ca/e/media-hybrids-lecturedemonstration-with-stephen-)
 broomer-tickets-77047514189?fbclid
 
 Blurb:

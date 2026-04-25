@@ -12,7 +12,7 @@ ilvs strauss' MFA Project: Peter and the Wolf
 Thursday, October 8, 2020 | 7:00 PM | Online | FREE / RSVP
 TBD: Replay of the stream
 
-RSVP HERE: https://www.eventbrite.ca/e/mfa-ilvs-strauss-graduating-project-peter-and-
+RSVP HERE: [https://www.eventbrite.ca/e/mfa-ilvs-strauss-graduating-project-peter-and-](https://www.eventbrite.ca/e/mfa-ilvs-strauss-graduating-project-peter-and-)
 the-wolf-registration-122481297859
 
 Please join us for ilvs strauss'

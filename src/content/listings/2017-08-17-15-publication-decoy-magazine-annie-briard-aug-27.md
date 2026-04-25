@@ -16,7 +16,7 @@ an exclusive digital copy of her latest work. The subscription fee is only $3/mo
 And the proceeds go directly into the pockets of the featured artists. By signing up, 
 you will receive a new artwork by an established or emerging digital artist every 
 month, right to your email inbox, plus a short curatorial essay from us. 
-http://www.decoymagazine.ca/bcc
+[http://www.decoymagazine.ca/bcc](http://www.decoymagazine.ca/bcc)
 
 Annie Briards practice challenges visual perception through video, photography and 
 installation. Her inspiration is drawn from strange encounters with the visible and a 
@@ -30,4 +30,4 @@ on a video project for the Vancouver Art Gallery and the Burrard Arts Foundation
 is artist in residence at the AC Institute in New York City with support from the BC 
 Arts Council. She holds a BFA from Concordia University, and a Master's from Emily 
 Carr University of Art + Design, where she currently teaches. Her work is 
-represented by Back Gallery Project in Vancouver. http://www.anniebriard.com/
+represented by Back Gallery Project in Vancouver. [http://www.anniebriard.com/](http://www.anniebriard.com/)

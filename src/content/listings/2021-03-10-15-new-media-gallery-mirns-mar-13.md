@@ -19,7 +19,7 @@ Using complex technologies artists from around the world explore the social, phy
 and psychological aspects of mirroring, machine learning, interactive portraiture and
 surveillance.
 
-Book Here : https://newmediagallery.ca/
+Book Here : [https://newmediagallery.ca/](https://newmediagallery.ca/)
 Masks Required
 
 All sorts of things

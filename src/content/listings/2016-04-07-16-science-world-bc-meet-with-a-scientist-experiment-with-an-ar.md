@@ -19,7 +19,7 @@ while they experiment with their art in collaboration with the scientists.
 Date & Time: April 9 and 10, from 10am to 4pm
 Location: TELUS World of Science (1455 Quebec Street, Vancouver)
 Admission: General Science World admission is required to attend this
-event. Visit our Facebook event page (http://bit.ly/ArtSciExperiment) to
+event. Visit our Facebook event page ([http://bit.ly/ArtSciExperiment](http://bit.ly/ArtSciExperiment)) to
 let us know you are coming. Plus, we will be giving out some free Science
 World passes on the page!
 

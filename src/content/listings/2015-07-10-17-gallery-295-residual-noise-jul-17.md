@@ -66,4 +66,4 @@ Back Alley Entrance
 Vancouver, BC
 V5T 1B8
 
-http://www.gallery295.com
+[http://www.gallery295.com](http://www.gallery295.com)

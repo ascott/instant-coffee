@@ -31,5 +31,5 @@ Canadian Military Museum president
 7-8pm " Book launch: The Riveter with author Jack Wang
 Cost: Free
 RSVP: Register here:
-https://chinesecanadianmuseum.ticketing.veevartapp.com/tickets/view/list/book-
+[https://chinesecanadianmuseum.ticketing.veevartapp.com/tickets/view/list/book-](https://chinesecanadianmuseum.ticketing.veevartapp.com/tickets/view/list/book-)
 launch-the-riveter-with-jack-wang

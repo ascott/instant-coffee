@@ -17,7 +17,7 @@ Free
 Zoom Webinar
 Registration required
 Book here
-https://us02web.zoom.us/webinar/register/WN_AkEFmGDtTemKN11QNwQ2lg
+[https://us02web.zoom.us/webinar/register/WN_AkEFmGDtTemKN11QNwQ2lg](https://us02web.zoom.us/webinar/register/WN_AkEFmGDtTemKN11QNwQ2lg)
 Please note the event time is in Pacific Standard Time.
 
 Join Susan Bright and Denise Wolff as they discuss Feast for the Eyes, an exhibition at

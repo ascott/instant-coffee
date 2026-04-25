@@ -72,7 +72,7 @@ Knowledge Systems. - Carlos Coln
 
 curated and moderated by Miret Rodriguez
 
-Register on Zoom: https://us02web.zoom.us/meeting/register/tZUqc-
+Register on Zoom: [https://us02web.zoom.us/meeting/register/tZUqc-](https://us02web.zoom.us/meeting/register/tZUqc-)
 6hqDwuGdWQ9V6deyKFm58AhzE5o9-C
 
-http://https://us02web.zoom.us/meeting/register/tZUqc-6hq
+[http://https://us02web.zoom.us/meeting/register/tZUqc-6hq](http://https://us02web.zoom.us/meeting/register/tZUqc-6hq)

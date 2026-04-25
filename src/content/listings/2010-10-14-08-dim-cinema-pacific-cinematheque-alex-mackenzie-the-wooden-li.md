@@ -16,7 +16,7 @@ The Wooden Lightbox: a secret art of seeing is an exploration and reconfiguratio
 
 ...[Mackenzie's] work often has an otherworldly quality, as if we were seeing images for the first time...his process allows for the re-entry of a sense of wonder, what theorist Walter Benjamin once referred to as the promesse de bonheur, or the utopian promise of technology that can only be reproduced through an artistic reinvestment in the hidden possibilities of a medium. Through his rediscoveries, MacKenzie takes us back to the birth of the moving image... -Chris Kennedy, Strategies of the Medium III: In the Dark, Toronto (LIFT/Pleasuredome).
 
-http://www.alexmackenzie.ca/
+[http://www.alexmackenzie.ca/](http://www.alexmackenzie.ca/)
 
 __________________
 

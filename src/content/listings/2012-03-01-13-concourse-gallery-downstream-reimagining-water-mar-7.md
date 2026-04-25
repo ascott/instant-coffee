@@ -56,5 +56,5 @@ Project Coordinator
 For more information on the Downstream Research Project and 
 information regarding events centered around World Water Day, March 
 21st, please visit our website:
-http://downstream.ecuad.ca/
+[http://downstream.ecuad.ca/](http://downstream.ecuad.ca/)
 reimaginingwater@gmail.com

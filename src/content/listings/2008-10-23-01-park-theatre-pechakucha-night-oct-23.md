@@ -29,4 +29,4 @@ Kierstin de West
 Dick Hardt
 Chris Allen
 
-For more info visit: www.pecha-kucha.org <http://www.pecha-kucha.org>
+For more info visit: www.pecha-kucha.org <[http://www.pecha-kucha.org](http://www.pecha-kucha.org)>

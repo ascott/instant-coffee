@@ -32,9 +32,9 @@ presence—as an instrument played gesturally without actually being
 touched. Whilst it is antique, it still holds a place in our future
 imaginary.
 
-http://www.youtube.com/watch?v=w5qf9O6c20o
-http://www.youtube.com/watch?v=3i2oW5PwAOQ
-http://www.youtube.com/watch?v=7JYF7cwW_cE
+[http://www.youtube.com/watch?v=w5qf9O6c20o](http://www.youtube.com/watch?v=w5qf9O6c20o)
+[http://www.youtube.com/watch?v=3i2oW5PwAOQ](http://www.youtube.com/watch?v=3i2oW5PwAOQ)
+[http://www.youtube.com/watch?v=7JYF7cwW_cE](http://www.youtube.com/watch?v=7JYF7cwW_cE)
 
 ViVo Artists in Residence, Rob Symmers, David Leith and Kate 
 Rissiek, will
@@ -70,14 +70,14 @@ want to
 build and work with.
 
 Examples of the PAiA Theremax use:
-http://www.youtube.com/watch?v=N152NNvVK3w - with synthesizer
-http://www.youtube.com/watch?v=vPjew1S9qkw&NR=1 - with MIDI 
+[http://www.youtube.com/watch?v=N152NNvVK3w](http://www.youtube.com/watch?v=N152NNvVK3w) - with synthesizer
+[http://www.youtube.com/watch?v=vPjew1S9qkw&NR=1](http://www.youtube.com/watch?v=vPjew1S9qkw&NR=1) - with MIDI 
 interface
-http://www.youtube.com/watch?v=Ag9alU2MfKA - with laptop & Pd
+[http://www.youtube.com/watch?v=Ag9alU2MfKA](http://www.youtube.com/watch?v=Ag9alU2MfKA) - with laptop & Pd
 
 MATERIAL COSTS: $40 for a simple kit and $120 for the PAiA 
 Theremax kit
-(http://www.paia.com/theremax.asp). You can pay for your kit in June 
+([http://www.paia.com/theremax.asp](http://www.paia.com/theremax.asp)). You can pay for your kit in June 
 after
 the workshop, and you take home the Theremin you have built. 
 Participants

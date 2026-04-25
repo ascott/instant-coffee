@@ -42,8 +42,8 @@ participation is generously supported by the British Council.
 Entrance to this event is free but space is limited and an RSVP is required. A 
 reading packet will be made available upon request.
 
-RSVP: https://fillip.ca/mkj7
-Become a Fillip member: https://goo.gl/LSrCD9
+RSVP: [https://fillip.ca/mkj7](https://fillip.ca/mkj7)
+Become a Fillip member: [https://goo.gl/LSrCD9](https://goo.gl/LSrCD9)
 
 About the Presenter:
 Grace Ndiritu's work exists between performance, writing, experimental 
@@ -53,4 +53,4 @@ the Museum Modern of Art, Warsaw, and the 51st Venice Biennale. Ndiritu's work
 has also been widely published, including by The Paris Review, Le Journal 
 Laboratoires d'Aubervilliers, Animal Shelter, Metropolis M, and many others.
 
-https://www.facebook.com/events/446415905777404/
+[https://www.facebook.com/events/446415905777404/](https://www.facebook.com/events/446415905777404/)

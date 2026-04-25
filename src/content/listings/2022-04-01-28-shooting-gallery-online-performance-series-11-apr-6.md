@@ -23,7 +23,7 @@ Head to our online store to purchase your by-donation series pass. The week of t
 series, you will receive an email in your inbox each morning with links to the day's
 artistic offerings!
 
-https://shooting-gallery-performance.square.site
+[https://shooting-gallery-performance.square.site](https://shooting-gallery-performance.square.site)
 
 Featuring new performance by:
 

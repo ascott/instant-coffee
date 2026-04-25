@@ -92,12 +92,12 @@ commodities.
 
 More
 
-https://221a.ca/fellows/architects-for-social-housing
+[https://221a.ca/fellows/architects-for-social-housing](https://221a.ca/fellows/architects-for-social-housing)
 
-http://polly-anna.ca/activity/architects-for-social-housing-for-a-socialist-architecture-under-
+[http://polly-anna.ca/activity/architects-for-social-housing-for-a-socialist-architecture-under-](http://polly-anna.ca/activity/architects-for-social-housing-for-a-socialist-architecture-under-)
 capitalism-the-social-2 
 
-http://polly-anna.ca/activity/architects-for-social-housing-for-a-socialist-architecture-under-
+[http://polly-anna.ca/activity/architects-for-social-housing-for-a-socialist-architecture-under-](http://polly-anna.ca/activity/architects-for-social-housing-for-a-socialist-architecture-under-)
 capitalism-the-economic 
 
 Biography

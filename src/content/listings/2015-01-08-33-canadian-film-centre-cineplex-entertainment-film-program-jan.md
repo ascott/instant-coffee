@@ -18,11 +18,11 @@ risks and help them develop and package original content for the global
 entertainment market.
 
 Applications are now available online:
-http://cfccreates.com/programs/1-cineplex-entertainment-film-program
+[http://cfccreates.com/programs/1-cineplex-entertainment-film-program](http://cfccreates.com/programs/1-cineplex-entertainment-film-program)
 Application Deadline: January 26th, 2015
 
 The 2014 CFC Film Program Showcase Reel:
-http://cfccreates.com/programs/1-cineplex-entertainment-film-program?child_id=75#tabs
+[http://cfccreates.com/programs/1-cineplex-entertainment-film-program?child_id=75#tabs](http://cfccreates.com/programs/1-cineplex-entertainment-film-program?child_id=75#tabs)
 
 CFC Film Program Infographic:
-https://twitter.com/cfccreates/status/540177880668336128
+[https://twitter.com/cfccreates/status/540177880668336128](https://twitter.com/cfccreates/status/540177880668336128)

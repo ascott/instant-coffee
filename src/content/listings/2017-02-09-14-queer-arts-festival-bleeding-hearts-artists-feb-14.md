@@ -26,14 +26,14 @@ Tuesday February 14, 8pm
 At the home of Bruce Munro Wright (address available upon RSVP)
 
 Tickets $35
-RSVP: http://www.brownpapertickets.com/ref/22139/event/2791538/
+RSVP: [http://www.brownpapertickets.com/ref/22139/event/2791538/](http://www.brownpapertickets.com/ref/22139/event/2791538/)
 
 Check our event page for more about the silent auction items and Absentee Bidding: 
-http://queerartsfestival.com/event/bleeding-hearts-artists/
+[http://queerartsfestival.com/event/bleeding-hearts-artists/](http://queerartsfestival.com/event/bleeding-hearts-artists/)
 
 Recognized as one of the top 5 festivals of its kind worldwide, the Queer Arts Festival is 
 an annual artist-run multidisciplinary festival at the Roundhouse in Vancouver, BC. This 
 year's festival UnSettled is Two-Spirit curated and developed in collaboration with 
 Indigenous arts organizations and artists. UnSettled runs June 17-29, 2017.
 
-http:// http://queerartsfestival.com/f
+http:// [http://queerartsfestival.com/f](http://queerartsfestival.com/f)

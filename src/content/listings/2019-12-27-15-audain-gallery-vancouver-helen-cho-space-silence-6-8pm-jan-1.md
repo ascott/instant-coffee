@@ -45,7 +45,7 @@ sites and materials of everyday habits.
 
 Curated by cheyanne turions
 
-https://www.sfu.ca/galleries/audain-gallery/HelenCho.html
+[https://www.sfu.ca/galleries/audain-gallery/HelenCho.html](https://www.sfu.ca/galleries/audain-gallery/HelenCho.html)
 
 AUDAIN GALLERY
 SFU Goldcorp Centre for the Arts

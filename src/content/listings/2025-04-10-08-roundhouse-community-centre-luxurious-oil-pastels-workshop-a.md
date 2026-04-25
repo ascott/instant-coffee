@@ -17,7 +17,7 @@ technique, this workshop is designed for all skill levels. Learn about essential
 materials, surfaces, and techniques. Discover exploring texture, layering, and color
 while embracing your creative process with confidence. Immerse yourself in the
 vibrant and tactile world of oil pastels, And most importantly"well have FUN!
-https://anc.ca.apm.activecommunities.com/vancouver/activity/search/detail/558343?
+[https://anc.ca.apm.activecommunities.com/vancouver/activity/search/detail/558343](https://anc.ca.apm.activecommunities.com/vancouver/activity/search/detail/558343)?
 onlineSiteId=0&from_original_cui=true
 
 Roundhouse Community Arts and Recreation Centre, 181 Roundhouse Mew ,

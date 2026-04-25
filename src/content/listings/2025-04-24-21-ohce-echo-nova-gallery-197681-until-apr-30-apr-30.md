@@ -25,7 +25,7 @@ fifty-odd exhibitions that were held at 1972 West 4th Avenue between December
 
 _-_
 
-Please see http://bedroomkitchen.garden/ohce-echo or
-https://capturephotofest.com/exhibitions/nova-gallery-1976-81/ for more information;
+Please see [http://bedroomkitchen.garden/ohce-echo](http://bedroomkitchen.garden/ohce-echo) or
+[https://capturephotofest.com/exhibitions/nova-gallery-1976-81/](https://capturephotofest.com/exhibitions/nova-gallery-1976-81/) for more information;
 OHCE-ECHO is grateful to be included in Capture Photography Festival this year"
-please see https://capturephotofest.com/exhibitions/ for the full program.
+please see [https://capturephotofest.com/exhibitions/](https://capturephotofest.com/exhibitions/) for the full program.

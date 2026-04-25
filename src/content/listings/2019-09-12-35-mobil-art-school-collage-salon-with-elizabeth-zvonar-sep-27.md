@@ -23,5 +23,5 @@ the session
 Sorry, we are unable to accommodate drop-ins. Please pre-register and read our FAQ.
 Drinks available for purchase. No minors, no outside drinks
 $25
-https://www.mobil-art.ca/event-info/collage-salon-with-elizabeth-zvonar-friday-sept-27-
+[https://www.mobil-art.ca/event-info/collage-salon-with-elizabeth-zvonar-friday-sept-27-](https://www.mobil-art.ca/event-info/collage-salon-with-elizabeth-zvonar-friday-sept-27-)
 2019

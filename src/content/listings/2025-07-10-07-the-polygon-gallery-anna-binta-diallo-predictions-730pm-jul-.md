@@ -14,7 +14,7 @@ Opening Celebration
 Reception starts at 7:30pm
 Remarks at 8:00pm
 
-RSVP Here: https://thepolygon.ca/event/anna-binta-diallo-predictions-opening-
+RSVP Here: [https://thepolygon.ca/event/anna-binta-diallo-predictions-opening-](https://thepolygon.ca/event/anna-binta-diallo-predictions-opening-)
 celebration/
 
 Anna Binta Diallo: Predictions is on view in the ground floor gallery July 10 -

@@ -26,7 +26,7 @@ to experimental animation.
 
 Video synopses can be found here:
 
-http://www.vivomediaarts.com/new-additions-11-fresh-feminism/
+[http://www.vivomediaarts.com/new-additions-11-fresh-feminism/](http://www.vivomediaarts.com/new-additions-11-fresh-feminism/)
 
 Further information can be found here:
-https://www.facebook.com/events/267473520271497/
+[https://www.facebook.com/events/267473520271497/](https://www.facebook.com/events/267473520271497/)

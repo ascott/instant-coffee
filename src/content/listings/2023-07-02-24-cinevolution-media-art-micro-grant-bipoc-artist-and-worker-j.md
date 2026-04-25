@@ -18,7 +18,7 @@ We welcome applications from emerging artists of all ages, with priority for tho
 limited access to arts funding and/or based outside urban centres. You do not need formal
 arts training to apply.
 
-For program guidelines and application instructions, visit https://bit.ly/cinemg23
+For program guidelines and application instructions, visit [https://bit.ly/cinemg23](https://bit.ly/cinemg23)
 
 We offer access supports and multiple ways to apply. Contact Sarah Wang at
 submissions@cinevolutionmedia.com or by phone at 778-803-7150, extension 5, or

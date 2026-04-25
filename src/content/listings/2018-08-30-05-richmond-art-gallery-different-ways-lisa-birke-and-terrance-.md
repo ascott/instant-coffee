@@ -18,7 +18,7 @@ August 31 - September 1
 
 Richmond Art Gallery
 
-http://cinevolutionmedia.com/dc2018-featuredartists/
+[http://cinevolutionmedia.com/dc2018-featuredartists/](http://cinevolutionmedia.com/dc2018-featuredartists/)
 
 Different Ways is a collaborative project between Terrance Houle, an
 interdisciplinary artist and member of the Kainai Nation (Blood Tribe) and

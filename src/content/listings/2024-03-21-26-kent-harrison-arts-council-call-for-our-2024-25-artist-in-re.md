@@ -20,4 +20,4 @@ The announcement will be made May 1, 2024 and the new AIR will move in July 1, 2
 
 For more information and application requirements, see our site
 posting:
-http://www.kentharrisonartscouncil.com/artist-in-residence-programs.html
+[http://www.kentharrisonartscouncil.com/artist-in-residence-programs.html](http://www.kentharrisonartscouncil.com/artist-in-residence-programs.html)

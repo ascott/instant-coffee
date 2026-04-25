@@ -50,7 +50,7 @@ underlying interconnected evolution of progress.
 MONTHLY OPEN STUDIOS utilize the VABF Studio to create a platform for artists' 
 and publishers working in or at an intersection with artists' publishing. Help us create 
 this space for artists' to present and self-direct the presentation of their work by 
-BECOMING A MEMBER: http://www.vancouverartbookfair.com/membership
+BECOMING A MEMBER: [http://www.vancouverartbookfair.com/membership](http://www.vancouverartbookfair.com/membership)
 
 DIRECTIONS TO THE EVENT
 Please follow the signs from the front door of 236 E Pender Street and enter around 

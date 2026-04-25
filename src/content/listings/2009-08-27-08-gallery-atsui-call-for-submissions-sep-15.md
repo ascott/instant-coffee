@@ -36,4 +36,4 @@ Any questions should be directed to Todd Nickel, Co-Director, Gallery Atsui by e
 Deadline - due to space constraints, we will select artists' work on a rolling basis, with the final 
 deadline for submissions Sept 15, 2009.
 
-http://www.galleryatsui.com
+[http://www.galleryatsui.com](http://www.galleryatsui.com)

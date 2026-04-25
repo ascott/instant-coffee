@@ -9,7 +9,7 @@ summary: "221A | Part 3: Staging by Willie Brisco | MAR 1"
 ---
 
 Performance: 9:00pm, March 1, 2013
-http://221a.ca/the-part-of-no-part
+[http://221a.ca/the-part-of-no-part](http://221a.ca/the-part-of-no-part)
 
 221A is pleased to present Staging by Willie Brisco, the third part of The Part 
 of No Part, an artwork curated by Dan Starling that invites five artists to each 
@@ -61,9 +61,9 @@ Tickets and Bids by Fax/Email
 Download ticket form .DOC / or .PDF
 Download absentee form .DOC / or .PDF
 
-http://cmagazine.com/auction.htm
-http://facebook.com/cmagazineart
-http://twitter.com/cmagazineart
+[http://cmagazine.com/auction.htm](http://cmagazine.com/auction.htm)
+[http://facebook.com/cmagazineart](http://facebook.com/cmagazineart)
+[http://twitter.com/cmagazineart](http://twitter.com/cmagazineart)
 
 Advance ticket holders receive the C Auction Edition by artist Dean Baldwin. 
 Baldwin's work typically engages gastronomic culture, both the upscale 

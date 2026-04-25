@@ -25,5 +25,5 @@ of audience, artists and community, and your support is crucial to our
 continued vitality.
 
 If your membership has lapsed, please consider renewing! You can also
-become a member by visiting our website: http://accessgallery.ca/membership/
+become a member by visiting our website: [http://accessgallery.ca/membership/](http://accessgallery.ca/membership/)
 Please note that tax receipts will be issued for donations over $20.

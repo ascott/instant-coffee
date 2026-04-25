@@ -8,7 +8,7 @@ venue: "Griffin Art Projects"
 summary: "Griffin Art Projects | The Rage To Live | Film Screenings | JAN 31"
 ---
 
-https://thecinematheque.ca/series/the-rage-to-live-queer-film-legacies-and-the-work-of-
+[https://thecinematheque.ca/series/the-rage-to-live-queer-film-legacies-and-the-work-of-](https://thecinematheque.ca/series/the-rage-to-live-queer-film-legacies-and-the-work-of-)
 david-wojnarowicz-and-marlon-riggs
 
 Griffin Art Projects is partnering with the Morris and Helen Belkin Gallery and The
@@ -20,7 +20,7 @@ Photography and Film, 1978 -1992.
 
 All panels, discussions and keynotes are free. Screenings are $12.00 (General
 Admission 18+) and $10.00 (Senior/Student Admission). Tickets can be purchased at
-https://thecinematheque.ca, see links below for details.
+[https://thecinematheque.ca](https://thecinematheque.ca), see links below for details.
 
 Thursday January 30
 

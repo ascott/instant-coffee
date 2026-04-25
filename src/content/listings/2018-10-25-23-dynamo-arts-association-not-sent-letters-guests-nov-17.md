@@ -40,7 +40,7 @@ is critically explored amongst a diverse plurality of artists and publics. JEREM
 instigates each event as an extension of his ongoing NOT SENT LETTERS project 
 (involving image/text epistolary detours online since 2005, digital shorts, interdisciplinary 
 performance works and cooperatively realized public events): 
-http://notsentlettersproject.com
+[http://notsentlettersproject.com](http://notsentlettersproject.com)
 
 This is the twenty-fifth NOT SENT LETTERS & GUESTS event.
 

@@ -12,4 +12,4 @@ Opening Week of Antimatter Festival!
 
 For full program visit:
 
-http://antimatter.ca/
+[http://antimatter.ca/](http://antimatter.ca/)

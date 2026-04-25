@@ -38,4 +38,4 @@ Submission Deadline: April 1st midnight.
 Exhibition Date: June 7th. 
 
 For More information please visit 
-http://gallery295.com/295/submissions/
+[http://gallery295.com/295/submissions/](http://gallery295.com/295/submissions/)

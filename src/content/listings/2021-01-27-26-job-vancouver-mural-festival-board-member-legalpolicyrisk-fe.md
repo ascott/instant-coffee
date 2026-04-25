@@ -32,4 +32,4 @@ or worked with an arts organization (as a volunteer or employee) and brings with
 broad appreciation of arts programming throughout the Metro Vancouver region. Bonus
 points for having already attended the Vancouver Mural Festival in previous years.
 
-To apply: https://vanmuralfest.ca/joinourteam
+To apply: [https://vanmuralfest.ca/joinourteam](https://vanmuralfest.ca/joinourteam)

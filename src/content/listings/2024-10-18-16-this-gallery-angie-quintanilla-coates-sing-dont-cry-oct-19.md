@@ -34,7 +34,7 @@ light. This body of work is the artists way of singing with colour and shape. It
 an invitation (for anyone who needs it), to get a dose of what she refers to as
 dopamina mexicana.
 
-THIS Website: https://thisgallery.org/
+THIS Website: [https://thisgallery.org/](https://thisgallery.org/)
 
 Artist Website:
-https://www.angieqcoates.com/
+[https://www.angieqcoates.com/](https://www.angieqcoates.com/)

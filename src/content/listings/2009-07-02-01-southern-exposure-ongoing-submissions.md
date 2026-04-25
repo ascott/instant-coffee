@@ -23,6 +23,6 @@ two staff members. Submissions are reviewed on a quarterly basis. There is no de
 applications are received on a rolling basis and are currently being considered for 2010 and 
 beyond.
 To read the full guidelines and download a copy of the application, please go to 
-http://soex.org/exhibitsubmissions.html
+[http://soex.org/exhibitsubmissions.html](http://soex.org/exhibitsubmissions.html)
 
-http://soex.org/exhibitsubmissions.html
+[http://soex.org/exhibitsubmissions.html](http://soex.org/exhibitsubmissions.html)

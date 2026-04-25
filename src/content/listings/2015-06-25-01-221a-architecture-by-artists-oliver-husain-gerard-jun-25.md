@@ -36,7 +36,7 @@ Architecture by Artists
 Hannah Heilmann, Oliver Husain, Gerard & Kelly
 June 6–July 25, 2015
 
-Read more: http://221a.ca/architecture-by-artists
+Read more: [http://221a.ca/architecture-by-artists](http://221a.ca/architecture-by-artists)
 
 221A
 100-221 E Georgia

@@ -8,7 +8,7 @@ venue: "UNIT/PITT [ONLINE]"
 summary: "UNIT/PITT [ONLINE] | I SPY 2021...a disposable camera project | FEB 28"
 ---
 
-Online exhibition: https://unitpitt.ca/i-spy/
+Online exhibition: [https://unitpitt.ca/i-spy/](https://unitpitt.ca/i-spy/)
 
 Now until February 28, 2022
 

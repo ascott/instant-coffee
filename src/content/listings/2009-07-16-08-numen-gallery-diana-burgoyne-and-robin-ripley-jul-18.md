@@ -41,5 +41,5 @@ not exist in the natural world and yet reflect or transmit information about our
 in it.
 
 Artists websites:
-http://www.ecuad.ca/~dburg/main.htm
-http://robinripley.com/
+[http://www.ecuad.ca/~dburg/main.htm](http://www.ecuad.ca/~dburg/main.htm)
+[http://robinripley.com/](http://robinripley.com/)

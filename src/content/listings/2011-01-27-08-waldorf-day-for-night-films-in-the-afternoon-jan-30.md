@@ -11,7 +11,7 @@ summary: "WALDORF | Day for Night | Films in the Afternoon | JAN 30"
 Day for Night | Films in the Afternoon
 Jan. 30th, 2011, 3pm
 
-More information at http://www.waldorfhotel.com/
+More information at [http://www.waldorfhotel.com/](http://www.waldorfhotel.com/)
 
 The Waldorf Hotel (1489 East Hastings, Phone: 604-253-7141)
 
@@ -30,7 +30,7 @@ at least for Colin - but he and his family live in Manhattan. So when
 his espresso-guzzling, retail-worshipping wife Michelle and their
 two-year-old daughter are dragged into the fray, the No Impact 
 Project
-has an unforeseen impact of its own." - http://www.noimpactdoc.com
+has an unforeseen impact of its own." - [http://www.noimpactdoc.com](http://www.noimpactdoc.com)
 
 Preceded by Ryan Larkin's short animated film Walking (1968) 
 made by

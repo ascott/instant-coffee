@@ -25,6 +25,6 @@ legacies of minimalism and abstraction influence his work, as well as ideas abou
 ingenuity and state censorship.
 
 For more information please visit our website, 
-http://www.griffinartprojects.ca/events/2018/denzil-hurley/
+[http://www.griffinartprojects.ca/events/2018/denzil-hurley/](http://www.griffinartprojects.ca/events/2018/denzil-hurley/)
 
 www.griffinartprojects.ca

@@ -11,7 +11,7 @@ summary: "The Gallery George | Christian Soto | 6PM | APR 17"
 CHRISTIAN SOTO EXHIBITION & AUCTION FOR SURREY HOSPICE SERVICES
 4/4/2025 FOR IMMEDIATE RELEASE:
 
-http://www.surreyhospice.com/
+[http://www.surreyhospice.com/](http://www.surreyhospice.com/)
 
 Christian Soto's paintings are up for auction in support of Surrey Hospice Society.
 Enjoy beautiful art and contribute to a good cause.

@@ -46,6 +46,6 @@ Member and Resident Relations
 The Beaumont Studios Artist Resource Society
 
 Non-members tickets:
-https://www.eventbrite.ca/e/finale-fridays-tickets-55923004211?ref=eios&aff=efbeventtix
+[https://www.eventbrite.ca/e/finale-fridays-tickets-55923004211?ref=eios&aff=efbeventtix](https://www.eventbrite.ca/e/finale-fridays-tickets-55923004211?ref=eios&aff=efbeventtix)
 Members tickets:
 Thebeaumontstudios.org

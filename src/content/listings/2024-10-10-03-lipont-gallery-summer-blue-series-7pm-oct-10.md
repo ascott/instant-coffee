@@ -56,4 +56,4 @@ Free reserved parking is on the south and north sides of the building.
 
 Transit: Canada Line Aberdeen Station
 
-Please visit https://www.lipontgallery.ca/ for more details.
+Please visit [https://www.lipontgallery.ca/](https://www.lipontgallery.ca/) for more details.

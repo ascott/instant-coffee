@@ -28,7 +28,7 @@ will have a fun cup ramen bar, sweet treats and some hot & cold drinks for guest
 enjoy.
 
 Visit our website to explore more: Click here:
-http://centre.nikkeiplace.org/exhibits/umami-savouring-artistic-nikkei-identity/
+[http://centre.nikkeiplace.org/exhibits/umami-savouring-artistic-nikkei-identity/](http://centre.nikkeiplace.org/exhibits/umami-savouring-artistic-nikkei-identity/)
 
 Nikkei National Museum & Cultural Centre
 6688 Southoaks Crescent, Burnaby BC V5E 4M7

@@ -29,5 +29,5 @@ rummaging through magazines
 Class 2 (Nov 20): begin defining motifs and subject matter
 Class 3 (Nov 27): create finished individual or a series of works
 $75
-https://www.mobil-art.ca/event-info/collage-fundamentals-with-elizabeth-zvonar-
+[https://www.mobil-art.ca/event-info/collage-fundamentals-with-elizabeth-zvonar-](https://www.mobil-art.ca/event-info/collage-fundamentals-with-elizabeth-zvonar-)
 wednesdays-nov-13-20-27

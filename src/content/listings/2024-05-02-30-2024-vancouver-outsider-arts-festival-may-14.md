@@ -24,4 +24,4 @@ applicant to meet their needs and make their
 experience at the festival as comfortable as possible. If you would like to request
 assistance with your application, please reach out at voaf@cacv.ca or 604-682-0010.
 
-Application Guide and Form online here --> https://voaf.ca/2024-applications/
+Application Guide and Form online here --> [https://voaf.ca/2024-applications/](https://voaf.ca/2024-applications/)

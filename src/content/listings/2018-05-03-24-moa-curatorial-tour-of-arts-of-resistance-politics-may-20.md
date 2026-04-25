@@ -25,4 +25,4 @@ realities in Latin America.
 Cost: Free with museum admission
 
 URL:
-https://moa.ubc.ca/event/curatorial-tour-of-arts-of-resistance-politics-and-the-past-in-latin-america/
+[https://moa.ubc.ca/event/curatorial-tour-of-arts-of-resistance-politics-and-the-past-in-latin-america/](https://moa.ubc.ca/event/curatorial-tour-of-arts-of-resistance-politics-and-the-past-in-latin-america/)

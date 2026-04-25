@@ -29,7 +29,7 @@ Please join us on Thursday, March 31, 2022, 7:00pm - 9:00pm. Proof of vaccinatio
 
 * Cash bar available.
 
-Learn more: https://www.burnaby.ca/recreation-and-arts/arts-and-culture-
+Learn more: [https://www.burnaby.ca/recreation-and-arts/arts-and-culture-](https://www.burnaby.ca/recreation-and-arts/arts-and-culture-)
 facilities/burnaby-art-gallery/exhibitions/dan-starling-unsettled-histories
 
-http://https://www.burnaby.ca/recreation-and-arts/arts-an
+[http://https://www.burnaby.ca/recreation-and-arts/arts-an](http://https://www.burnaby.ca/recreation-and-arts/arts-an)

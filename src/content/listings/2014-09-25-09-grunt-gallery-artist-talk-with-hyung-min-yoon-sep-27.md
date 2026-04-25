@@ -17,9 +17,9 @@ This event is a part of BC Culture Days and is free to the public.
 Read the following texts on Min Yoon's exhibition here:
 
 >>Exhibition Essay by Lorna Brown
-http://grunt.ca/bookofjests_lornabrown/
+[http://grunt.ca/bookofjests_lornabrown/](http://grunt.ca/bookofjests_lornabrown/)
 
 >>Article by Michael Turner
-http://canadianart.ca/reviews/2014/09/16/hyung-min-yoon/
+[http://canadianart.ca/reviews/2014/09/16/hyung-min-yoon/](http://canadianart.ca/reviews/2014/09/16/hyung-min-yoon/)
 
 grunt: www.grunt.ca | 116-350 East 2nd Ave, Vancouver, BC, V5T4R8

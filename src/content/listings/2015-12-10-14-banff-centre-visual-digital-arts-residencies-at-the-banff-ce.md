@@ -10,26 +10,26 @@ summary: "Banff Centre | Visual + Digital Arts Residencies at The Banff Cen | FE
 
 Open for Application: Visual + Digital Arts Residencies at The Banff
 Centre
-https://www.banffcentre.ca/programs/all/visual--digital-arts
+[https://www.banffcentre.ca/programs/all/visual--digital-arts](https://www.banffcentre.ca/programs/all/visual--digital-arts)
 
 Banff Research in Culture: On Energy
-https://www.banffcentre.ca/programs/banff-research-culture-
+[https://www.banffcentre.ca/programs/banff-research-culture-](https://www.banffcentre.ca/programs/banff-research-culture-)
 energy/201605
 Apply by: December 16
 Program Dates: May 30 - June 24, 2016
 
 BAiR Text
-https://www.banffcentre.ca/programs/bair-text/201604
+[https://www.banffcentre.ca/programs/bair-text/201604](https://www.banffcentre.ca/programs/bair-text/201604)
 Apply by: January 20, 2016
 Program Dates: April 25 - May 20, 2016
 
 Critical Art Writing
-https://www.banffcentre.ca/programs/critical-art-writing/201604
+[https://www.banffcentre.ca/programs/critical-art-writing/201604](https://www.banffcentre.ca/programs/critical-art-writing/201604)
 Apply by: January 20, 2016
 Program Dates: April 25 - May 20, 2016
 
 Kiln Raising
-https://www.banffcentre.ca/programs/kiln-raising/201605
+[https://www.banffcentre.ca/programs/kiln-raising/201605](https://www.banffcentre.ca/programs/kiln-raising/201605)
 Apply by: February 3, 2016
 Program Dates: May 30 - June 24, 2016
 

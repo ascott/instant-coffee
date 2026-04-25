@@ -15,7 +15,7 @@ Lecture Title: Towards a History of Artist-Run Archives in Canada:
 Traditional and Non-Traditional Forms, A Lecture by Kristie MacDonald.
 Date: Wednesday June 19, 2013. 7pm.
 Location: VIVO Media Arts Centre,1965 Main Street, Vancouver, BC V5T 3C1
-URL: http://grunt.ca/archives-lecture-by-kristie-macdonald-june-19/
+URL: [http://grunt.ca/archives-lecture-by-kristie-macdonald-june-19/](http://grunt.ca/archives-lecture-by-kristie-macdonald-june-19/)
 
 Vancouver, BC – grunt gallery, Western Front and VIVO Media Arts Centre are
 pleased to announce that Kristie MacDonald will be presenting a talk on
@@ -52,4 +52,4 @@ recently presented at the Association of Canadian Archivists Annual
 Conference (2012, 2013) and the Independent Media Arts Alliance Summit
 (2012). Kristie holds a BFA from York University specializing in Visual
 Arts, and an MI from the University of Toronto specializing in Archives and
-Records Management. http://kristiemacdonald.com/
+Records Management. [http://kristiemacdonald.com/](http://kristiemacdonald.com/)

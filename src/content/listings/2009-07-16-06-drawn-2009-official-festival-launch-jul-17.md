@@ -25,4 +25,4 @@ Tell your friends, and be prepared to mark it up!
 RSVP: launch@drawnfestival.ca or 604-685-1934
 
 Cash bar (proceeds benefit the Vancouver Drawing Festival Society)
-http://www,drawnfestival.ca
+[http://www,drawnfestival.ca](http://www,drawnfestival.ca)

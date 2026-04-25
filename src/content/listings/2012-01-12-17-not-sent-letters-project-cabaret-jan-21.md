@@ -36,7 +36,7 @@ SAVE THE DATE!
 
 Admission is by donation.
 
-http://www.notsentlettersproject.com
+[http://www.notsentlettersproject.com](http://www.notsentlettersproject.com)
 
 Not Sent Letters is an ongoing series of epistolary detours by Jeremy Todd (
 an entanglement with the politics of representation, technologies of the self and 
@@ -57,4 +57,4 @@ event:
 jeremytodd@shaw.ca
 
 For notifications and news "like" the project facebook page:
-https://www.facebook.com/pages/Not-Sent-Letters-Project/1478
+[https://www.facebook.com/pages/Not-Sent-Letters-Project/1478](https://www.facebook.com/pages/Not-Sent-Letters-Project/1478)

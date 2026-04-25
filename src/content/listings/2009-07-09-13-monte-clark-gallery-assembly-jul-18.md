@@ -57,4 +57,4 @@ Canada V6H 3G4
 Tel + 1 604 730 5000
 Fax + 1 604 730 5050
 www.monteclarkgallery.com
-http://www.monteclarkgallery.com
+[http://www.monteclarkgallery.com](http://www.monteclarkgallery.com)

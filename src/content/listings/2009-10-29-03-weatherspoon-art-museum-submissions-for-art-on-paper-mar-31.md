@@ -19,4 +19,4 @@ Submissions Deadline: March 31, 2010
 
 A downloadable PDF of the Art on Paper 2010 artist prospectus is posted on our website: 
 
-http://weatherspoon.uncg.edu/.
+[http://weatherspoon.uncg.edu/](http://weatherspoon.uncg.edu/).

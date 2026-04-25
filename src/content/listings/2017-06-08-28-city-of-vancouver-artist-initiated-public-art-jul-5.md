@@ -28,11 +28,11 @@ Eligible applicants are professional artists that connect to or live in Vancouve
 How to Apply
 For more information and application procedures, please read through the Artist-
 Initiated invitation:
-http://vancouver.ca/files/cov/public-art-program-invitation-to-artists-to-propose-
+[http://vancouver.ca/files/cov/public-art-program-invitation-to-artists-to-propose-](http://vancouver.ca/files/cov/public-art-program-invitation-to-artists-to-propose-)
 public-artworks.pdf
 
 All proposals must be submitted through the online application form: 
-https://vanculture.fluidreview.com/
+[https://vanculture.fluidreview.com/](https://vanculture.fluidreview.com/)
 
 Submission Deadline
 3pm, Wednesday, July 5, 2017

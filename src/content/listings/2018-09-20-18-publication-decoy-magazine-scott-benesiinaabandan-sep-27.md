@@ -12,7 +12,7 @@ Bcc: Digital Art Subscription by Decoy Magazine // September 2018 // Commissione
 Scott Benesiinaabandan
 
 Subscribe by September 27th to receive an exclusive copy of Benesiinaabanadan's 
-commissioned digital artwork: http://www.decoymagazine.ca/bcc 
+commissioned digital artwork: [http://www.decoymagazine.ca/bcc](http://www.decoymagazine.ca/bcc) 
 
 Scott Benesiinaabandan is an Anishinabe intermedia artist who works primarily in photography, 
 printmaking, and video. He has completed international residencies at Parramatta Artist Studios 
@@ -25,4 +25,4 @@ perspective. More broadly, it seeks to addresses a continuing development and cr
 deeper personal cosmology, the impact of relationships and familial/communal ties, non-
 conventional ways of knowing (ie. dreaming, intuition, blood memory), underlying threats and 
 danger inherent in searching for truth, and how these impacts radiate out into wider 
-communities. http://www.benesiinaabandan.com/
+communities. [http://www.benesiinaabandan.com/](http://www.benesiinaabandan.com/)

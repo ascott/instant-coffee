@@ -120,12 +120,12 @@ pnwong2@yahoo.ca
 
 
 2.
-Tent Shop | Now Open: http://thetentshop.ca/
+Tent Shop | Now Open: [http://thetentshop.ca/](http://thetentshop.ca/)
 This is an online store that I created.
 
 Please have a look sometime:
 
-http://thetentshop.ca/
+[http://thetentshop.ca/](http://thetentshop.ca/)
 
 Open 24 hours
 7 days a week!

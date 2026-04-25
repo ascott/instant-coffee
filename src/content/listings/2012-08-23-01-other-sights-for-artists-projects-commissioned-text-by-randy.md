@@ -18,7 +18,7 @@ Other Sights for Artists’ Projects is pleased to announce a recent addition to
 our Commissioned Texts series: “Informal Communities: Celestial, Terrestrial 
 and Subterranean Movements”  by Randy Lee Cutler.
 
-http://www.othersights.ca/informal-communities-pdf
+[http://www.othersights.ca/informal-communities-pdf](http://www.othersights.ca/informal-communities-pdf)
 
 Between May and October 2011, Holly Schmidt's Grow project brought 
 together different interest groups, creative practitioners and publics to address 

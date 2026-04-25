@@ -16,7 +16,7 @@ and there is a bar and several glamorous reception spots
 for lounging and talking afterwards.
 
 Video-vite is below. Just click.
-http://vimeo.com/44635224
+[http://vimeo.com/44635224](http://vimeo.com/44635224)
 
 best to buy tickets AHEAD by phoning 604-247-8300
 

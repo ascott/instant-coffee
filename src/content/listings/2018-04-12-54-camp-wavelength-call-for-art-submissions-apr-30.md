@@ -23,7 +23,7 @@ Submission Deadline: April 30, 2018.
 
 NO SUBMISSION FEE! 
 
-You can find the submission form here: https://bit.ly/2Gu40WH
+You can find the submission form here: [https://bit.ly/2Gu40WH](https://bit.ly/2Gu40WH)
 FUN FINDS A WAY: CAMP WAVELENGTH FINDS A NEW HOME!
 
 Save the Date for August 18-19, 2018 as the fourth annual Camp Wavelength Music 

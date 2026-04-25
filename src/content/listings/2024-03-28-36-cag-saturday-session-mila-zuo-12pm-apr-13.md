@@ -27,4 +27,4 @@ theories of gender, sexuality, and race and ethnicity. In addition to her schola
 Zuo writes, directs, and produces narrative films, visual essays, documentaries, and
 music videos.
 
-https://cagvancouver.org/event/saturday-session-mila-zuo
+[https://cagvancouver.org/event/saturday-session-mila-zuo](https://cagvancouver.org/event/saturday-session-mila-zuo)

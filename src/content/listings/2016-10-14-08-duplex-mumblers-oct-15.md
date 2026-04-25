@@ -50,4 +50,4 @@ This project is generously supported by ArtStarts.
 
 To register or for more information, please e-mail us at kdhkct@gmail.com
 and check out our gallery website to learn more about our space
-http://projectduplex.ca/
+[http://projectduplex.ca/](http://projectduplex.ca/)

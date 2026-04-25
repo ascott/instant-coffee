@@ -40,5 +40,5 @@ the SFU Art Collection.
 Unpacking Art is free and open to everyone. No advance preparation or registration 
 is necessary. Bring your lunch.
 
-For more information, http://www.sfu.ca/galleries/sfu-gallery/Unpacking-
+For more information, [http://www.sfu.ca/galleries/sfu-gallery/Unpacking-](http://www.sfu.ca/galleries/sfu-gallery/Unpacking-)
 Art/Unpacking-SteveDodge.html

@@ -30,4 +30,4 @@ East Hastings, Vancouver.
 Curated by Roger Larry, Julie Lee, and John Goldsmith.
 
 More information:
-https://www.gallery881.com/slidenight
+[https://www.gallery881.com/slidenight](https://www.gallery881.com/slidenight)

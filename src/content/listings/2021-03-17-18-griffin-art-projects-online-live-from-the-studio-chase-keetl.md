@@ -13,7 +13,7 @@ Live from the studio: Chase Keetley, Saturday, March 20, 1pm
 Griffin Art Projects
 www.griffinartprojects.ca
 
-Zoom link: https://zoom.us/webinar/register/WN_-5iWONDQTM-HRhsyESjUuQ
+Zoom link: [https://zoom.us/webinar/register/WN_-5iWONDQTM-HRhsyESjUuQ](https://zoom.us/webinar/register/WN_-5iWONDQTM-HRhsyESjUuQ)
 
 Join Griffins current artist-in-residence, Chase Keetley, for an artist talk live over zoom
 to learn more about what he has been up to throughout his time at Griffin Art Projects!

@@ -24,11 +24,11 @@ show lifes mercurial stages, the importance of perseverance, and
 the sumptuous
 beauty throughout it all.
 
-THIS Gallery Website: https://thisgallery.org/
+THIS Gallery Website: [https://thisgallery.org/](https://thisgallery.org/)
 
-Artist website: https://www.kirkgower.com/
+Artist website: [https://www.kirkgower.com/](https://www.kirkgower.com/)
 
-Artwork preview: https://thethisgallery.com/collections/kirk-gower
+Artwork preview: [https://thethisgallery.com/collections/kirk-gower](https://thethisgallery.com/collections/kirk-gower)
 
 THIS Gallery is open Fridays and Saturdays noon to 5pm. We are located on the
 Lower Ground Level of the Sun Wah Centre at 268 Keefer Street, Vancouver, BC.

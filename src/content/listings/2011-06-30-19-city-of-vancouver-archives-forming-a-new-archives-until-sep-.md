@@ -53,13 +53,13 @@ into the fabric of city life.
 Exhibit run: Tuesday, June 14, 2011 – Friday, September 2, 
 2011
 
-Ductal, Lafarge Press Release: http://www.ductal-
+Ductal, Lafarge Press Release: [http://www.ductal-](http://www.ductal-)
 lafarge.com/Press_Release_-_Cascading_Biospheres_-
 _A_Living_Wall_Wins_Ductal_Design_Competition.pdf
 
 City of Vancouver Archives hours: M-F; 9am-5pm
 
-http://vancouver.ca/ctyclerk/archives/
+[http://vancouver.ca/ctyclerk/archives/](http://vancouver.ca/ctyclerk/archives/)
 
 City of Vancouver Archives
 

@@ -60,7 +60,7 @@ He has participated in numerous group exhibitions, notably Muestra de Arte Joven
 century (Madrid, 2002), Imago Mundi. Spain Identity / Modernity. Luciano Benetton
 Collection (Venice, 2015), and XIII Premio de Videoarte (Astillero, Spain, 2020).
 
-http://www.josevicentemartin.com
+[http://www.josevicentemartin.com](http://www.josevicentemartin.com)
 
 Presented as part of the Distinguished Visiting Artist Program in the Department of Art
 History, Visual Art and Theory at The University of British Columbia and the Destino

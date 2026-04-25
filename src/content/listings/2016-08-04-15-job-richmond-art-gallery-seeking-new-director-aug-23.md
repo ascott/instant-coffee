@@ -25,4 +25,4 @@ and the RAGA Board to set the direction and overall vision for the RAG, and
 to set goals to attain this vision. The Director of the Richmond Art
 Gallery is responsible for directing the activities and operation of the RAG.
 
-http://www.richmond.ca/careers/ourcareers/city-opportunities/currentpostings.htm
+[http://www.richmond.ca/careers/ourcareers/city-opportunities/currentpostings.htm](http://www.richmond.ca/careers/ourcareers/city-opportunities/currentpostings.htm)

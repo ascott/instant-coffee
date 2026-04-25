@@ -25,7 +25,7 @@ Monday - Friday, 9:00 AM - 12:00 PM
 March 21 - 25
 
 Fee: $140.00
-Register: 604.515.3834 or https://bit.ly/36iWZGX
+Register: 604.515.3834 or [https://bit.ly/36iWZGX](https://bit.ly/36iWZGX)
 
 New Media Gallery
 3rd Floor Anvil Centre

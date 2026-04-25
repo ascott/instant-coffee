@@ -17,7 +17,7 @@ Thursday, August 7, 2025
 Richmond Art Gallery, 7700 Minoru Gate
 
 $ 5.00 includes ALL art materials and tools.
-Limited seating, register here: https://www.eventbrite.ca/e/rag-collage-club-august-
+Limited seating, register here: [https://www.eventbrite.ca/e/rag-collage-club-august-](https://www.eventbrite.ca/e/rag-collage-club-august-)
 session-tickets-1407893590629
 
 Get together with friends to make some art at our social Collage Club for adults!

@@ -37,5 +37,5 @@ Henderson.
 "Inherit" is on view at the Art Gallery at Evergreen from February 12"April 24, 2022.
 Zoom link will be provided upon registration. Live captioning will be available.
 
-REGISTER HERE: https://www.eventbrite.ca/e/inherit-panel-discussion-tickets-
+REGISTER HERE: [https://www.eventbrite.ca/e/inherit-panel-discussion-tickets-](https://www.eventbrite.ca/e/inherit-panel-discussion-tickets-)
 276072067987

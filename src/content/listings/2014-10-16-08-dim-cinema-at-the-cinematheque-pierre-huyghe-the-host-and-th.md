@@ -35,4 +35,4 @@ www.thecinematheque.ca/dim
 
 Contact: Michèle Smith, programming@dimcinema.ca
 For updates and more information, visit us on Facebook
-(http://www.facebook.com/dimcinema/) and/or subscribe to our newsletter
+([http://www.facebook.com/dimcinema/](http://www.facebook.com/dimcinema/)) and/or subscribe to our newsletter

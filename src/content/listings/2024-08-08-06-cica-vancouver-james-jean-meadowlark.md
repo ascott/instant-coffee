@@ -25,4 +25,4 @@ Weds " Sat, 11 AM " 6 PM; Sun 12 " 6 PM
 
 CICA Vancouver (228 Abbott Street, Vancouver, BC V6B 1C8)
 
-LinkinBio: https://cicavancouver.com/product/buy-ticket/
+LinkinBio: [https://cicavancouver.com/product/buy-ticket/](https://cicavancouver.com/product/buy-ticket/)

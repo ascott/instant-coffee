@@ -18,4 +18,4 @@ Visit the link to
 submit a vendor application or learn more. Any questions can be sent to
 dani@openspace.ca
 
-http://openspace.ca/
+[http://openspace.ca/](http://openspace.ca/)

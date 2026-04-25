@@ -17,7 +17,7 @@ expanded format featuring Vancouver artists in galleries across the city from
 June 5 - 8, in partnership with the popular music festival, Music Waste. 
 Submissions opened February 1, 2014 and artists of different mediums and 
 varying levels of experience are encouraged to enter at: 
-http://artwaste.tumblr.com 
+[http://artwaste.tumblr.com](http://artwaste.tumblr.com) 
 
 To celebrate the opening of submissions, Art Waste will be hosting a Preview 
 Show on February 13, 2014 at the Red Gate Gallery (855 E Hastings) from 

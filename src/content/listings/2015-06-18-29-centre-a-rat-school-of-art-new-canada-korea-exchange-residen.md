@@ -79,7 +79,7 @@ While playing an active role in community enlivenment and conviviality,
 Centre A is a culturally productive local and trans-national community
 building apparatus that acts as a conduit for the contest of ideas and a
 site for the contemplation of issues of contemporary concern.
-(http://www.centrea.org)
+([http://www.centrea.org](http://www.centrea.org))
 
 The RAT school of ART offers a master class certificate along with a one of
 its kind study program in Korea. It believes that Seoul is a great city for
@@ -90,7 +90,7 @@ since 2009 and taught classes as visiting professor at Lasalle College of
 the Arts (Singapore) and Emily Carr University (Vancouver). Other exchange
 programs of the RAT school of ART include a unique collaboration with
 Frankfurt’s’ Städelschule coordinated by renowned artists Tobias Rehberger
-and Philippe Pirotte. (http://www.ratschoolofart.com/)
+and Philippe Pirotte. ([http://www.ratschoolofart.com/](http://www.ratschoolofart.com/))
 
 30. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.
@@ -196,7 +196,7 @@ thebakeryonfranklinst@gmail.com
 
 And include a little description about yourself.
 
-For images and floor plan go to https://www.facebook.com/thebakeryonfranklinst
+For images and floor plan go to [https://www.facebook.com/thebakeryonfranklinst](https://www.facebook.com/thebakeryonfranklinst)
 
 6.
 
@@ -221,5 +221,5 @@ Amenities include:
 - 24 hour access
 - $245 per 100 square feet
 
-Visit us at http://thephoenixgallery.ca/
+Visit us at [http://thephoenixgallery.ca/](http://thephoenixgallery.ca/)
 email us at vancouverphoenix@gmail.com

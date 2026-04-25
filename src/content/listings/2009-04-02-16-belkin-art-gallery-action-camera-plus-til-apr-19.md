@@ -46,7 +46,7 @@ to May 10, 2009
 
 Walter C. Koerner Library, Main floor, 1958 Main Mall, University of BC
 Library hours: Mon - Fri 8am - 11pm, Sat - Sun 10am - 11pm
-<http://www.library.ubc.ca/koerner>
+<[http://www.library.ubc.ca/koerner](http://www.library.ubc.ca/koerner)>
 
 "Threshold (cont.)" by Lorna Brown is part of on ongoing inquiry into the
 topic of "boredom" that she began in 2000. Within various fields of

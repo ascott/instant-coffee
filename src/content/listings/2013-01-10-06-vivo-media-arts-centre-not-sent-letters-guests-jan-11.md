@@ -58,7 +58,7 @@ an extension of his NOT SENT LETTERS PROJECT, an ongoing
 entanglement with the production of meaning, self and cultural memory, 
 involving online image/text posts (since 2005), digital film shorts, 
 interdisciplinary performance works and cooperatively realized public events: 
-http://notsentlettersproject.com
+[http://notsentlettersproject.com](http://notsentlettersproject.com)
 
 interdisciplinary contributions:
 
@@ -105,10 +105,10 @@ Absence), PIETRO SAMMARCO (To The Oldest Tree In Europe) & RINA
 LIDDLE (To Twitter Silence).
 
 EXPLORE previous Not Sent Letters & Guests events here:
-http://notsentlettersproject.com/category/events
+[http://notsentlettersproject.com/category/events](http://notsentlettersproject.com/category/events)
 
 FOR NOTIFICATIONS and news join the project facebook page:
-https://www.facebook.com/pages/Not-Sent-Letters-Project/147882091946917
+[https://www.facebook.com/pages/Not-Sent-Letters-Project/147882091946917](https://www.facebook.com/pages/Not-Sent-Letters-Project/147882091946917)
 
 EMAIL Jeremy to HOST or CONTRIBUTE to a future Not Sent Letters & 
 Guests event: jeremytodd@notsentlettersproject.com

@@ -15,5 +15,5 @@ is Fri, April 17, 2020. Here is the link:
 
 ECCS COVID-19 Visual Artist Impact Survey
 
-https://docs.google.com/forms/d/e/1FAIpQLSehd8IuGDmMh1IbjU9D2c-
+[https://docs.google.com/forms/d/e/1FAIpQLSehd8IuGDmMh1IbjU9D2c-](https://docs.google.com/forms/d/e/1FAIpQLSehd8IuGDmMh1IbjU9D2c-)
 fnG2rq3X9D9HqXQKmUJ_TbzclEw/viewform

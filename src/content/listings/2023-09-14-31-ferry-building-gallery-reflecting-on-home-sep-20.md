@@ -26,6 +26,6 @@ Storytelling, and Art, will be taking place inside the gallery presented by reno
 Skwxwu7mesh xwumixw (Squamish) artist and educator Splash (Aaron Nelson
 Moody). He will introduce a story of living with heart while encouraging participants to
 work with their hands on a colouring page to enhance their learning. To register and
-learn more go to https://ferrybuildinggallery.ca/programs/special-events
+learn more go to [https://ferrybuildinggallery.ca/programs/special-events](https://ferrybuildinggallery.ca/programs/special-events)
 
 ferrybuildinggallery.ca

@@ -29,4 +29,4 @@ Arduinos will also be available for purchase during the workshop.
 
 Register at:
 
-http://www.artsassembly.ca
+[http://www.artsassembly.ca](http://www.artsassembly.ca)

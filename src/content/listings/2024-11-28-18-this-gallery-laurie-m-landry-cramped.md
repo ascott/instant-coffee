@@ -48,6 +48,6 @@ art practice.
 
 Saturday, November 30 is the final day to visit the exhibition.
 
-THIS Website: https://thisgallery.org/
-Exhibition preview: https://thethisgallery.com/collections/cramped-laurie-m-landry
-Artist website: https://laurielandry.com/
+THIS Website: [https://thisgallery.org/](https://thisgallery.org/)
+Exhibition preview: [https://thethisgallery.com/collections/cramped-laurie-m-landry](https://thethisgallery.com/collections/cramped-laurie-m-landry)
+Artist website: [https://laurielandry.com/](https://laurielandry.com/)

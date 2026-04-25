@@ -33,4 +33,4 @@ Eligibility: Artists residing in Richmond
 Deadline: Thursday, May 22, 2025
 
 For more information and to apply:
-https://www.richmond.ca/culture/howartworks/publicart/artist-calls.htm
+[https://www.richmond.ca/culture/howartworks/publicart/artist-calls.htm](https://www.richmond.ca/culture/howartworks/publicart/artist-calls.htm)

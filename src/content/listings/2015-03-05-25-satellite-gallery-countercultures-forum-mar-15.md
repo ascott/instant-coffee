@@ -55,4 +55,4 @@ Produced in conjunction with the exhibition Mainstreeters: Taking Advantage
 1972 -1982.
 
 For more information please see our website:
-http://presentationhousegallery.org/event/countercultures
+[http://presentationhousegallery.org/event/countercultures](http://presentationhousegallery.org/event/countercultures)

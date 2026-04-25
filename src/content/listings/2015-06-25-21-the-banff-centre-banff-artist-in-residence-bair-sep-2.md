@@ -28,16 +28,16 @@ residency you will be part of a community of artists, curators, and
 creative practitioners, each committed to their practice. Walter Phillips
 Gallery curator and 2017 Alberta Biennial co-curator Peta Rake, will be on
 hand to provide consultation and curatorial insights through studio visits.
-http://www.banffcentre.ca/programs/program.aspx?id=1601
+[http://www.banffcentre.ca/programs/program.aspx?id=1601](http://www.banffcentre.ca/programs/program.aspx?id=1601)
 
 BAiR Late Winter Intensive
 Program Dates February 29 – March 25, 2016
 Apply by September 30
-http://www.banffcentre.ca/programs/program.aspx?id=1596
+[http://www.banffcentre.ca/programs/program.aspx?id=1596](http://www.banffcentre.ca/programs/program.aspx?id=1596)
 
 Throughout a period of four weeks, participants will benefit from the
 insight and consultation of guest curator Naomi Potter (Esker Foundation
-[insert http://eskerfoundation.com/]) through studio visits,
+[insert [http://eskerfoundation.com/](http://eskerfoundation.com/)]) through studio visits,
 participant-driven critique, artist presentations, and demonstrations in
 visual art production techniques. Scheduled programming is light and
 designed to allow for ample time to work on individual self-directed

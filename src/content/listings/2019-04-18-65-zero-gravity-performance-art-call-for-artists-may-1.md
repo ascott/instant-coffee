@@ -20,7 +20,7 @@ Presenter: Mile Zero Dance
 
 Co-Presenter: dc3 Art Projects
 
-Website: http://milezerodance.com/2017/call-for-applications-workshop/
+Website: [http://milezerodance.com/2017/call-for-applications-workshop/](http://milezerodance.com/2017/call-for-applications-workshop/)
 
 This 8-day International Performance Art Workshop, co-facilitated by Beau Coleman 
 (Canada), Dagmar I. Glausnitzer-Smith (Germany), Francesco Kiais (Italy " Greece), 
@@ -67,7 +67,7 @@ APPLICATION DEADLINE: ROLLING BASIS until May 1, 2019
 
 For More Info and Co-Facilitarors' Working Processes and Artist Bios: 
 
-http://milezerodance.com/2017/call-for-applications-workshop/
+[http://milezerodance.com/2017/call-for-applications-workshop/](http://milezerodance.com/2017/call-for-applications-workshop/)
 
 Questions and inquiries welcome. We are able to provide letters of acceptance, should 
 you wish to apply for funds from other sources.

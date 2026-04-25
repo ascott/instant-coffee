@@ -25,13 +25,13 @@ So They Print.
 This exhibition is taking place solely online through our Instagram page, Facebook
 page, and our newly constructed official Hatch Art Gallery website.
 
-https://www.hatchartgallery.com
+[https://www.hatchartgallery.com](https://www.hatchartgallery.com)
 
-https://www.instagram.com/hatch_artgallery/
+[https://www.instagram.com/hatch_artgallery/](https://www.instagram.com/hatch_artgallery/)
 
-https://www.facebook.com/hatchgalleryubc
+[https://www.facebook.com/hatchgalleryubc](https://www.facebook.com/hatchgalleryubc)
 
-https://www.facebook.com/events/4296320457076355/
+[https://www.facebook.com/events/4296320457076355/](https://www.facebook.com/events/4296320457076355/)
 
 Curated
 by Margaret Joba-Woodruff
@@ -200,8 +200,8 @@ support to fund the cost of our Zine project.
 
 Website:
 
-https://utown.ubc.ca/discovering-utownubc/utownubc-community-programs/community-
+[https://utown.ubc.ca/discovering-utownubc/utownubc-community-programs/community-](https://utown.ubc.ca/discovering-utownubc/utownubc-community-programs/community-)
 caring-grants
 
 
-http:// https://www.hatchartgallery.com
+http:// [https://www.hatchartgallery.com](https://www.hatchartgallery.com)

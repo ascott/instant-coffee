@@ -37,4 +37,4 @@ them in new and unexpected ways, could also describe the way Fee works with pain
 simple and direct way, trying to express honestly.
 
 Link (Arts Council / Gallery): www.acnw.ca/gallery
-Link (Artist): https://www.robertfee.com/
+Link (Artist): [https://www.robertfee.com/](https://www.robertfee.com/)

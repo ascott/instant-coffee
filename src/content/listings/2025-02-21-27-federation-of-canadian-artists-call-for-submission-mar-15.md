@@ -19,5 +19,5 @@ anything commercially recognized as paper serves as an open-ended substrate for
 creative exploration.
 
 Find more information regarding the submission guidelines here:
-https://artists.ca/content/item/download/8062/119
-Submit through this link: https://artists.ca/submissions/view/id/2058
+[https://artists.ca/content/item/download/8062/119](https://artists.ca/content/item/download/8062/119)
+Submit through this link: [https://artists.ca/submissions/view/id/2058](https://artists.ca/submissions/view/id/2058)

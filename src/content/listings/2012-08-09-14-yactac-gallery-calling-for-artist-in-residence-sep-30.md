@@ -70,9 +70,9 @@ towards funding project(s) for your “Final Exhibition” .
 to project funding
 
 For terms and condition about the residency, please go to:
-http://www.yactac.com/index.php?/gallery/the-yactac-house-residency-program/
+[http://www.yactac.com/index.php?/gallery/the-yactac-house-residency-program/](http://www.yactac.com/index.php?/gallery/the-yactac-house-residency-program/)
 
 >>To apply or ask questions, please e-mail us @yactacgallery@gmail.com.
 
-http://www.yactac.com/
+[http://www.yactac.com/](http://www.yactac.com/)
 Yactac Gallery | 7206 Ontario Street | Vancouver BC | V5X3B7

@@ -22,7 +22,7 @@ HR MacMillan Space Centre, Lecture Hall
 
 Members-only reception to follow
 
-For further info, please visit: http://www.casv.ca
+For further info, please visit: [http://www.casv.ca](http://www.casv.ca)
 -- 
 www.casv.ca
 info@casv.ca

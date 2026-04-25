@@ -29,4 +29,4 @@ Registration Deadline: 08 July 2009
 Registration: Please call 604.685.3841 or send an electronic message to
 Leanne at info@cineworks.ca. Or, for more information please go to our
 website at www/cineworks.ca
-http://www/cineworks.ca
+[http://www/cineworks.ca](http://www/cineworks.ca)

@@ -27,7 +27,7 @@ in collaboration with Off the Tracks, Liberty Distillery, Artisan Sakemaker, amo
 others
 
 in support of United Way BC's Kapwa Strong Fund, for victims of the Lapu Lapu
-Festival 2025, Vancouver: https://uwbc.ca/lapu/
+Festival 2025, Vancouver: [https://uwbc.ca/lapu/](https://uwbc.ca/lapu/)
 
 tender. is a DJ whose sets blend the soulful pulse of house music with the nostalgic
 charm of 80s/90s R&B and pop, the smooth stylings of yacht rock, and the rich

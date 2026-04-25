@@ -47,7 +47,7 @@ become members ($25 for annual membership).
 
 APPLY ONLINE:
 
-https://www.seymourartgallery.com/exhibitions/calls-for-artists/
+[https://www.seymourartgallery.com/exhibitions/calls-for-artists/](https://www.seymourartgallery.com/exhibitions/calls-for-artists/)
 
 SUBMISSION DEADLINE: Friday April 30, 2019
 

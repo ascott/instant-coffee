@@ -31,4 +31,4 @@ accessed website, a max of 5 minutes will be reviewed by selection committee
 When applying, please consider:
 -Works involving sound must be played through headphones.
 -Your work will be for sale; artist fees are therefore not applicable.
--A map of the space can be found at: http://www.aceart.org/facilities
+-A map of the space can be found at: [http://www.aceart.org/facilities](http://www.aceart.org/facilities)

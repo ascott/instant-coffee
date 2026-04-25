@@ -19,11 +19,11 @@ Doors at 7:00 p.m. / Readings at 7:30 p.m.
 Free Admission
 
 To attend in-person at Western Front, RSVP on Eventbrite here:
-https://www.eventbrite.ca/e/dear-friends-junie-desil-tawhida-tanya-evanson-isabella-
+[https://www.eventbrite.ca/e/dear-friends-junie-desil-tawhida-tanya-evanson-isabella-](https://www.eventbrite.ca/e/dear-friends-junie-desil-tawhida-tanya-evanson-isabella-)
 wang-tickets-695000333707?aff=oddtdtcreator)
 
 Attend virtually by livestream here:
-https://vimeo.com/event/3621737
+[https://vimeo.com/event/3621737](https://vimeo.com/event/3621737)
 
 Western Front and The Capilano Review are pleased to invite you to the next
 reading in our new monthly reading series, Dear Friends &. Please join us for an

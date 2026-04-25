@@ -268,7 +268,7 @@ the manifestations that animate the historical heart of the city. The group
 includes artist-run centres, a fashion artist, an architecture studio, a
 commercial gallery, and a magazine.
 
-More information: http://bright-light.ca/
+More information: [http://bright-light.ca/](http://bright-light.ca/)
 
 Come have a cup of tea!
 

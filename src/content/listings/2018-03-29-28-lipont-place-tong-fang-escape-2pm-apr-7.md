@@ -27,5 +27,5 @@ people have flashes from the subconscious where they want to escape from their
 daily bonds and cares"not to run away, but to break free. We can call it dissociating 
 by drifting away, creating an instantaneous sense of freedom, but then returning to 
 realism with a better sense of harmony.
-http://capturephotofest.com/exhibitions/escape/
-https://www.facebook.com/events/2032596173665245/
+[http://capturephotofest.com/exhibitions/escape/](http://capturephotofest.com/exhibitions/escape/)
+[https://www.facebook.com/events/2032596173665245/](https://www.facebook.com/events/2032596173665245/)

@@ -67,7 +67,7 @@ Government of Canada. She recently spent a year living on the west coast of
 Sweden in Göteborg studying contemporary Scandinavian art and her 
 heritage.
 
-http://monikaloevenmark.com/
+[http://monikaloevenmark.com/](http://monikaloevenmark.com/)
 
 //Liz Toohey-Wiese//
 

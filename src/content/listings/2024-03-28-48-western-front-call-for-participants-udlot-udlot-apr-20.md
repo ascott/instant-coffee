@@ -21,5 +21,5 @@ Wainborn Park, Vancouver.
 
 Registration is open until April 20, 2024, or until all positions are filled.
 
-For more information, visit our website: https://westernfront.ca/events/call-for-
+For more information, visit our website: [https://westernfront.ca/events/call-for-](https://westernfront.ca/events/call-for-)
 participants-udlot-udlot

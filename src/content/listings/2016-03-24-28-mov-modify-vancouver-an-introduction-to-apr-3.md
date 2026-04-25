@@ -12,7 +12,7 @@ Modify Vancouver, hosted by the Vancouver Design Nerds, will introduce
 participants to Design Fiction through the research of guest speaker Ian
 Wojtowicz.
 
-http://www.museumofvancouver.ca/content/design-sundays-april-3
+[http://www.museumofvancouver.ca/content/design-sundays-april-3](http://www.museumofvancouver.ca/content/design-sundays-april-3)
 
 This workshop will spark creativity, collaboration and a method for
 generating conceptual ideas as they pertain to local issues around
@@ -34,7 +34,7 @@ Date: April 3, 2:30-5:00pm
 
 Admission: $15 Adults; $13 Students/Seniors; $10 MOV Members
 
-Tickets: http://www.museumofvancouver.ca/content/design-sundays-april-3
+Tickets: [http://www.museumofvancouver.ca/content/design-sundays-april-3](http://www.museumofvancouver.ca/content/design-sundays-april-3)
 
 Workshop Leaders:
 

@@ -19,7 +19,7 @@ The exhibition opens on Thursday July 4th from 7:00pm to 9:00pm at Lipont Galler
 The exhibition will be on view from July 4th to 25th Mondayto Friday 10am to 5pm
 with extended hours to 8pm on Tuesdays. Admission is free.
 
-Please visit https://www.lipontgallery.ca/ for details.
+Please visit [https://www.lipontgallery.ca/](https://www.lipontgallery.ca/) for details.
 
 Exhibition:
 

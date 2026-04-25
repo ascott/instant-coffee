@@ -17,4 +17,4 @@ out our space, try out some demo stations, or just to get to know us and our tea
 little more! Kids most welcome! For those of you who have seen the spectacular plant 
 display at Mobil Art, there may be a few rare gems available for grabs as well! 
 FREE 
-https://www.mobil-art.ca/event-info/open-house-at-mobil-art-school
+[https://www.mobil-art.ca/event-info/open-house-at-mobil-art-school](https://www.mobil-art.ca/event-info/open-house-at-mobil-art-school)

@@ -25,7 +25,7 @@ Willard. Brunt's new look is cleaner and sparser and responds to the
 comments made by you, the readers. You still get the same larger images and
 excellent writing by many of Vancouver's best writers. This new issue is
 over 50 pages. Enjoy! And take some time to view the site:
-http://www.bruntmag.com/issue4/index.html and see more images, videos, and
+[http://www.bruntmag.com/issue4/index.html](http://www.bruntmag.com/issue4/index.html) and see more images, videos, and
 writing. Interviews with Rolande Souliere, Greg Staats, and Heloise Audy. A
 compilation by Elisha Burrows on the performance art in HIVE 2. Learn!
 

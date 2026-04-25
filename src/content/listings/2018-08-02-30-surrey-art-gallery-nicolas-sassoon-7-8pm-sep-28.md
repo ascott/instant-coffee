@@ -21,4 +21,4 @@ new digital art projects from local young artists.
 
 Free event.
 
-https://www.surrey.ca/culture-recreation/27400.aspx
+[https://www.surrey.ca/culture-recreation/27400.aspx](https://www.surrey.ca/culture-recreation/27400.aspx)

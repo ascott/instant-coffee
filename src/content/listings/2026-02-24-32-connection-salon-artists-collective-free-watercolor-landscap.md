@@ -25,4 +25,4 @@ Community Centre, and the British Columbia Arts Council.
 Thank you,
 Connection Salon Artists Collective
 connectionsalon9@gmail.com
-https://connectionsalon.ca/
+[https://connectionsalon.ca/](https://connectionsalon.ca/)

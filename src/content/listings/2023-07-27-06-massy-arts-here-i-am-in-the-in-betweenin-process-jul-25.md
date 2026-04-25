@@ -43,5 +43,5 @@ Vancouver.
 
 The gallery is open Wednesday to Sunday, 12pm to 5pm.
 
-https://massyarts.com/event/at-the-gallery-here-i-am-in-the-in-between-in-process-by-
+[https://massyarts.com/event/at-the-gallery-here-i-am-in-the-in-between-in-process-by-](https://massyarts.com/event/at-the-gallery-here-i-am-in-the-in-between-in-process-by-)
 kyla-gilbert-otilia-sabina/

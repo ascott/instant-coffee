@@ -17,5 +17,5 @@ can use to make anything from printed cards and t-shirts to fine art prints. In 
 you will learn how to choose the right gouge on your lino cutter and use the tool safely, how to
 transfer your design onto your printing block, how to carve out your design and how to pull a
 successful print without the need for a printing press!
-https://www.mobil-art.ca/event-info/introduction-to-relief-printing
+[https://www.mobil-art.ca/event-info/introduction-to-relief-printing](https://www.mobil-art.ca/event-info/introduction-to-relief-printing)
 $59

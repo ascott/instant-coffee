@@ -32,5 +32,5 @@ as an artist, researcher, educator, and programmer can be understood as
 interconnected and whole; they all revolve around a passion for cinema.
 
 **
-For more information visit http://grunt.ca/spark-fireside-artist-talk-series/ or contact 
+For more information visit [http://grunt.ca/spark-fireside-artist-talk-series/](http://grunt.ca/spark-fireside-artist-talk-series/) or contact 
 Tarah Hogue, tarah@grunt.ca.

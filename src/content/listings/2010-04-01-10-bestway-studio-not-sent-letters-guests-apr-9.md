@@ -70,7 +70,7 @@ an online archive of digital film shorts based on these "letters", and
 multi-media reading performances. This will be the fourth selection of
 "letters" for a performance by Jeremy, involving projected images and
 improvised electronic music by GRAHAM MEISNER. Visit the project here:
-http://www.notsentletters.blogspot.com
+[http://www.notsentletters.blogspot.com](http://www.notsentletters.blogspot.com)
 
 Previous Not Sent Letters & Guests contributors have included Matilda
 Aslizadeh, Margaret Dragu, Donato Mancini, Graham Meisner and Spartacus Books.

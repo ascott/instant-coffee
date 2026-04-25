@@ -50,7 +50,7 @@ free hospitality to a selection of young international artists during the
 most important contemporary art events worldwide.
 
 The project was conceived by the Italian art group CONIGLIOVIOLA
-(http://coniglioviola.com) and it involves a network of international
+([http://coniglioviola.com](http://coniglioviola.com)) and it involves a network of international
 artist-run spaces.
 
 Following Coniglioviola PIRATE ATTACK TO THE BIENNALE IN VENICE, performed

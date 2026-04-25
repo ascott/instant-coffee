@@ -14,7 +14,7 @@ Wednesday March 5, 2014 @ 7-9pm
 Preview the works in Western Front's 41st Anniversary Auction. All welcome to 
 attend!
 View the full catalogue here:
-http://westernfrontauction2014.tumblr.com/
+[http://westernfrontauction2014.tumblr.com/](http://westernfrontauction2014.tumblr.com/)
 
 For more information about the Gala Dinner, please contact 604-876-9343 or 
 development@front.bc.ca.

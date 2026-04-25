@@ -37,6 +37,6 @@ descriptions, and a 15 minute break. If you have any access needs, please contac
 Accessibility Coordinator Regan Shrumm at regan@cinevolutionmedia.com or 778-
 803-7150 x 5.
 
-For more details or to register for Part 1, visit http://bit.ly/cinedrt1
+For more details or to register for Part 1, visit [http://bit.ly/cinedrt1](http://bit.ly/cinedrt1)
 For more details
-or to register for Part 2, visit http://bit.ly/cinedrt2
+or to register for Part 2, visit [http://bit.ly/cinedrt2](http://bit.ly/cinedrt2)

@@ -15,7 +15,7 @@ separately. Bring money.
 $15 Advance Tickets, $20 at the door (with PWYC option)
 
 Tickets:
-https://www.eventbrite.com/e/fmera-festival-tickets-667900988837?aff=oddtdtcreator
+[https://www.eventbrite.com/e/fmera-festival-tickets-667900988837?aff=oddtdtcreator](https://www.eventbrite.com/e/fmera-festival-tickets-667900988837?aff=oddtdtcreator)
 
 the des hume initiative is a for-profit organization dedicated to researching utopian
 social dynamics. Operating on the principles of The Founder, a musician and

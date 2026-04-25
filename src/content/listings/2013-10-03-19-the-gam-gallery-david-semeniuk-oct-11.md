@@ -47,7 +47,7 @@ have influenced the production of photographic objects, the construction of
 meaning in photographic images, and the exhibition of photographic works. 
 He has exhibited his work in solo and group shows in BC and Nevada.
 
-http://davidsemeniuk.com/
+[http://davidsemeniuk.com/](http://davidsemeniuk.com/)
 
 This exhibition is presented in conjunction with Capture Photography Festival 
 and has been graciously sponsored by Steam Whistle Brewing.
@@ -56,5 +56,5 @@ and has been graciously sponsored by Steam Whistle Brewing.
 The Gam Gallery
 110 E Hastings St. Vancouver BC, Canada, V6A 1N4
 thegam@live.com
-http://www.gamgallery.com
+[http://www.gamgallery.com](http://www.gamgallery.com)
 Fri & Sat 1 - 5 pm and by appointment

@@ -24,6 +24,6 @@ Grosvenor Ambleside
 West Vancouver, BC 
 
 Tickets: $65 
-https://curated-tastes-art-and-scotch-west-vancouver-event.eventbrite.ca
+[https://curated-tastes-art-and-scotch-west-vancouver-event.eventbrite.ca](https://curated-tastes-art-and-scotch-west-vancouver-event.eventbrite.ca)
 
-For more information visit: https://www.curatedtastes.art/
+For more information visit: [https://www.curatedtastes.art/](https://www.curatedtastes.art/)

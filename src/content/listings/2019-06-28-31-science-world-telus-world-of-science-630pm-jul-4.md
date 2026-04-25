@@ -25,5 +25,5 @@ Networking with cash bar @ 8 pm
 This event is FREE but registration is encouraged. For details, and to RSVP, please visit 
 one of the following links: 
 
-https://www.facebook.com/events/2104837756480570/
-https://artthescience.com/events/re-composition/
+[https://www.facebook.com/events/2104837756480570/](https://www.facebook.com/events/2104837756480570/)
+[https://artthescience.com/events/re-composition/](https://artthescience.com/events/re-composition/)

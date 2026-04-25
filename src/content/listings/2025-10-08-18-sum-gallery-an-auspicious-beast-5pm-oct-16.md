@@ -24,7 +24,7 @@ members of our community, from 5 - 6 pm, the Opening Reception will be mask-
 mandatory; from 6 pm to closing, the reception will be mask-recommended. Masks and
 hand sanitizer will be provided at the reception desk.
 
-To register for the opening reception: https://www.eventbrite.ca/e/an-auspicious-beast-
+To register for the opening reception: [https://www.eventbrite.ca/e/an-auspicious-beast-](https://www.eventbrite.ca/e/an-auspicious-beast-)
 opening-reception-registration-1749240378059?aff=oddtdtcreator
 
 ABOUT MAKOTO CHI

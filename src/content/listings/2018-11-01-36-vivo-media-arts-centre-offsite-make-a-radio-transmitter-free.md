@@ -12,7 +12,7 @@ Make a Radio Transmitter: Free Show & Tell
 
 Free, but space is limited.
 
-SIGN UP: https://radiotransmitter-show_and_tell.eventbrite.ca
+SIGN UP: [https://radiotransmitter-show_and_tell.eventbrite.ca](https://radiotransmitter-show_and_tell.eventbrite.ca)
 
 A few weeks ago, media artist Bobbi Kozinuk led a workshop in which participants 
 built low-power FM transmitters.

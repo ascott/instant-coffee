@@ -24,4 +24,4 @@ Funds raised support facility and technical upgrades at VIVO. Our goal is to be
 B.C.'s most well-equipped and comprehensive media arts centre run by and for 
 artists.
 
-FOR MORE INFO OR TO PURCHASE: http://www.vivomediaarts.com/fundraiser
+FOR MORE INFO OR TO PURCHASE: [http://www.vivomediaarts.com/fundraiser](http://www.vivomediaarts.com/fundraiser)

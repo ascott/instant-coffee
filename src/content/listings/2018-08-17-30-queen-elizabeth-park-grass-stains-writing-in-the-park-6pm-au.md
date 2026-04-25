@@ -20,7 +20,7 @@ This event is free and open to the public. Organized by SPIT on the occasion of 
 It's difficult to put a painting in the mailbox: Toward new models of artists' publishing currently 
 on until September 16 at Libby Leshgold Gallery and READ Books. 
 
-Directions: https://goo.gl/maps/sLxcDm6iEMq 
+Directions: [https://goo.gl/maps/sLxcDm6iEMq](https://goo.gl/maps/sLxcDm6iEMq) 
 *duck pond is the large body of water opposite Little Mountain Baseball Club House 
 
 Contact spitcomms@gmail.com or readbooks@ecuad.ca for any further questions. 

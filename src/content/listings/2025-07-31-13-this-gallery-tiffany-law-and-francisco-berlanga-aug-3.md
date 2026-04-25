@@ -26,6 +26,6 @@ new material offerings, crafted in an attempt to echo the emotional gravity of t
 predecessors. What emerges is a shrine to a shrine: a quiet, unresolved reaching
 toward understanding through ritual, repetition, and care.
 
-https://thisgallery.org/project/candle-smoke-with-a-long-draw/
+[https://thisgallery.org/project/candle-smoke-with-a-long-draw/](https://thisgallery.org/project/candle-smoke-with-a-long-draw/)
 
 THIS Gallery | 108 E Broadway (alley), Vancouver, BC | thisgallery.org

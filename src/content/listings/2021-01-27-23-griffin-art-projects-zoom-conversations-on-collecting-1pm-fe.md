@@ -18,7 +18,7 @@ Griffin Art Projects
 
 www.griffinartprojects.ca
 
-Zoom link: https://zoom.us/webinar/register/WN_wHtxcWQ4Qa-mKmbw6KTpZA
+Zoom link: [https://zoom.us/webinar/register/WN_wHtxcWQ4Qa-mKmbw6KTpZA](https://zoom.us/webinar/register/WN_wHtxcWQ4Qa-mKmbw6KTpZA)
 
 Join three Canadian Collectors live over Zoom for an intimate look into their personal
 collections and the narratives they reveal surrounding Chinese Canadian cultures,

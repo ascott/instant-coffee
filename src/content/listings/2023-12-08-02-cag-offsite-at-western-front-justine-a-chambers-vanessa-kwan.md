@@ -46,4 +46,4 @@ and culture, and since 2017 have been producing residency projects across the
 Pacific Rim (Vancouver, Seoul, Melbourne and Sydney) exploring artist-led creative
 exchange.
 
-https://cagvancouver.org/event/timelines-talk-justine-a-chambers-and-vanessa-kwan
+[https://cagvancouver.org/event/timelines-talk-justine-a-chambers-and-vanessa-kwan](https://cagvancouver.org/event/timelines-talk-justine-a-chambers-and-vanessa-kwan)

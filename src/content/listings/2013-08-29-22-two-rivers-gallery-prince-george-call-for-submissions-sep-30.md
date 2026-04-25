@@ -33,4 +33,4 @@ T. 250 614 7800 ext.492
 Toll Free. 1 888 221 1155
 F. 250 563 3211
 E. maeve@tworiversgallery.ca
-FTP: https://dropbox.yousendit.com/TwoRiversGallery
+FTP: [https://dropbox.yousendit.com/TwoRiversGallery](https://dropbox.yousendit.com/TwoRiversGallery)

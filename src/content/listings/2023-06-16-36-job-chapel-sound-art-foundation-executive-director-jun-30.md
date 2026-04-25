@@ -29,7 +29,7 @@ financial management, operational planning, record-keeping and filing. The Execu
 Director will also support and facilitate the organizations upcoming archival and
 succession planning initiatives.
 
-For the full job description and application instructions, visit: https://bit.ly/3NjWGi4
+For the full job description and application instructions, visit: [https://bit.ly/3NjWGi4](https://bit.ly/3NjWGi4)
 
 Recruitment for this position is being led by Cinevolution Media Arts Society. If you
 have questions or would like to discuss individualized application support, please email

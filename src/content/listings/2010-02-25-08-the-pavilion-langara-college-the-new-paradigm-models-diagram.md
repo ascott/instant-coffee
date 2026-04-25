@@ -37,7 +37,7 @@ The Pavilion is located at Langara College, on the front lawn
 Vancouver, BC
 
 for more information and updates, please visit:
-http://hollywardpavilion.blogspot.com/
+[http://hollywardpavilion.blogspot.com/](http://hollywardpavilion.blogspot.com/)
 
 Also, The Langara College Centre for Art in Public Spaces invites you to
 attend the Public Art Speakers Series, featuring artist Ken Lum. Lum will
@@ -48,4 +48,4 @@ Langara College
 100 West 49th Avenue, Vancouver
 Room A136a
 for more information, please visit
-http://www.langara.bc.ca/events/2010/100303-ken-lum.html
+[http://www.langara.bc.ca/events/2010/100303-ken-lum.html](http://www.langara.bc.ca/events/2010/100303-ken-lum.html)

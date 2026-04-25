@@ -36,7 +36,7 @@ artworks completed in Askevold's historic class or new works that operate
 within the same conceptualist spirit.
 
 The full set of 1969 projects can be viewed at:
-http://www.ccca.ca/resources/searches/event_detail.html?languagePref=en&vk=7539.
+[http://www.ccca.ca/resources/searches/event_detail.html?languagePref=en&vk=7539](http://www.ccca.ca/resources/searches/event_detail.html?languagePref=en&vk=7539).
 
 Instructions for artworks must be considerate of time (occurring in a
 duration that is within the two month period of the exhibition) with

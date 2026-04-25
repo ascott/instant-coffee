@@ -58,4 +58,4 @@ Capilano University
 
 --
 
-http://www.capilanocreativewriting.blogspot.com
+[http://www.capilanocreativewriting.blogspot.com](http://www.capilanocreativewriting.blogspot.com)

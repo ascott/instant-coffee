@@ -25,4 +25,4 @@ Saturday, October 17
 12pm PST / 3pm EST / 9pm CET
 
 Register via Zoom:
-https://us02web.zoom.us/webinar/register/WN_w6ZToSFvQGSm-YoOjq5RSg
+[https://us02web.zoom.us/webinar/register/WN_w6ZToSFvQGSm-YoOjq5RSg](https://us02web.zoom.us/webinar/register/WN_w6ZToSFvQGSm-YoOjq5RSg)

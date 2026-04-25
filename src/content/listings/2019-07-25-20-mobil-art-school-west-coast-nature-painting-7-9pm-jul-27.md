@@ -22,4 +22,4 @@ brushes, canvas, paper or board.
 
 Please contact us at info@mobil-art.ca if you have any questions regarding materials. $45
 
-https://www.mobil-art.ca/event-info/west-coast-nature-painting-with-sean-karemaker
+[https://www.mobil-art.ca/event-info/west-coast-nature-painting-with-sean-karemaker](https://www.mobil-art.ca/event-info/west-coast-nature-painting-with-sean-karemaker)

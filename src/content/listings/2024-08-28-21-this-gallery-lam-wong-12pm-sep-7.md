@@ -37,8 +37,8 @@ The artist will be in attendance. Simultaneously, there is an opening reception 
 Wong's curatorial project featuring work by Marian Penner Bancroft down the hall at
 Canton-Sardine. Wong will be present at both events.
 
-Visit the THIS Website to learn more: https://thisgallery.org/
+Visit the THIS Website to learn more: [https://thisgallery.org/](https://thisgallery.org/)
 
-THIS Instagram: https://www.instagram.com/this_______________________/
+THIS Instagram: [https://www.instagram.com/this_______________________/](https://www.instagram.com/this_______________________/)
 
-Artist website: https://www.lamwong.com/
+Artist website: [https://www.lamwong.com/](https://www.lamwong.com/)

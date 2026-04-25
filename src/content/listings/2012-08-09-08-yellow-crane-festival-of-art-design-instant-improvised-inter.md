@@ -44,7 +44,7 @@ there for a long time.
 
 Part of the Yellow Crane Festival of Art & Design
 
-http://yellowcranefestival.ca
+[http://yellowcranefestival.ca](http://yellowcranefestival.ca)
 Wednesday, August 15th
 
 Granville Island

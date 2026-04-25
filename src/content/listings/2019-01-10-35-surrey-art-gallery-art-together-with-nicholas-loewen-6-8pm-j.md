@@ -30,7 +30,7 @@ Free drop-in, everyone welcome.
 For more information, contact Gallery Engagement Facilitator, Simranpreet Anand at 
 artgallery@surrey.ca
 
-To learn more about Collette Urbans Gambler visit: https://www.surrey.ca/culture-
+To learn more about Collette Urbans Gambler visit: [https://www.surrey.ca/culture-](https://www.surrey.ca/culture-)
 recreation/28251.aspx
 
 About Surrey Art Gallery

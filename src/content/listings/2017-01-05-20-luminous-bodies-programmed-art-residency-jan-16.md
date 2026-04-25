@@ -43,4 +43,4 @@ bathrooms, laundry facilities and wireless Internet. AGP is a barrier free and
 inclusive environment. The Toronto city core is just a 15-minute ferry ride away. 
 
 For details and to apply visit: 
-http://artscapegibraltarpoint.ca/programmed-residency/luminous-bodies-2017/
+[http://artscapegibraltarpoint.ca/programmed-residency/luminous-bodies-2017/](http://artscapegibraltarpoint.ca/programmed-residency/luminous-bodies-2017/)

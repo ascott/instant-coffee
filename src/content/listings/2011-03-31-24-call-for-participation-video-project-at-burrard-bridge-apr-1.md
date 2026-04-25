@@ -39,5 +39,5 @@ participate in the project and for more information please send your
 name/group to Josh Hite at joshdhite@gmail.com.
 
 More information can also be found at:
-http://pricetags.wordpress.com/2011/03/15/burrard-bridge-stairwell-
+[http://pricetags.wordpress.com/2011/03/15/burrard-bridge-stairwell-](http://pricetags.wordpress.com/2011/03/15/burrard-bridge-stairwell-)
 project/

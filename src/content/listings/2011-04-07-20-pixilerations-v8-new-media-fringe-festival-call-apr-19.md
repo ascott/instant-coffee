@@ -82,7 +82,7 @@ and DJs. Pixilerations [v.8] seeks work that broadly explores these
 identity questions of art/not art, new/old. We invite artists, musicians, 
 performers, film/video makers, and new media practitioners to 
 submit their work for Pixilerations [v.8] to the following website:
-http://pixilerations.org/2011/submission.html.
+[http://pixilerations.org/2011/submission.html](http://pixilerations.org/2011/submission.html).
 
 DEADLINE FOR SUBMISSIONS EXTENDED TO APRIL 19, 2011.
 Questions about the submission process and Pixilerations should 

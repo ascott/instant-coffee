@@ -16,7 +16,7 @@ Wednesday, January 26, 2022
 
 12:00 p.m., PST
 
-Register in advance: https://ubc.zoom.us/webinar/register/WN_bGsD9bjIT9yze-0-
+Register in advance: [https://ubc.zoom.us/webinar/register/WN_bGsD9bjIT9yze-0-](https://ubc.zoom.us/webinar/register/WN_bGsD9bjIT9yze-0-)
 itL5Zw
 
 The artistic production of medieval Dalmatia has long been interpreted as the outcome

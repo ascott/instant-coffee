@@ -69,5 +69,5 @@ interested in intuitive processes with an emphasis on methods of making in
 relation to practice, technique and materials.
 
 THE BAKERY www.thebakeryonfranklin.com
-FB EVENT https://www.facebook.com/events/1647496185508043/
+FB EVENT [https://www.facebook.com/events/1647496185508043/](https://www.facebook.com/events/1647496185508043/)
 1670 FRANKLIN STREET, VANCOUVER, B.C.

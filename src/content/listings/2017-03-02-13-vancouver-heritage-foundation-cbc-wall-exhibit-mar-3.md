@@ -13,7 +13,7 @@ building in downtown Vancouver.
 
 Here's the link to the official call:
 
-http://www.vancouverheritagefoundation.org/projects/the-wall/
+[http://www.vancouverheritagefoundation.org/projects/the-wall/](http://www.vancouverheritagefoundation.org/projects/the-wall/)
 
 The deadline to submit ideas for a 2D public artwork is March 3, 2017. The
 compensation to the artist is $5,000. As a theme, artists are encouraged to consider 

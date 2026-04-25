@@ -16,7 +16,7 @@ Griffin Art Projects
 
 To register, please visit:
 
-https://zoom.us/meeting/register/tJEvde6orTgjG9wM2k2d8sjk76-DqCCu6BHj
+[https://zoom.us/meeting/register/tJEvde6orTgjG9wM2k2d8sjk76-DqCCu6BHj](https://zoom.us/meeting/register/tJEvde6orTgjG9wM2k2d8sjk76-DqCCu6BHj)
 
 Join guest-curator David MacWilliam in conversation with internationally renowned artists
 Teresa Hubbard / Alexander Birchler.
@@ -50,4 +50,4 @@ and Birchler are faculty members at the European Graduate School in Saas-Fee,
 Switzerland. Birchler is an Associate Professor of Practice at the University of Texas at
 Austin and Hubbard holds the William and Bettye Nowlin Endowed Professorship in
 Photography in the Department of Art and Art History at the University of Texas at Austin.
-http://www.griffinartprojects.ca
+[http://www.griffinartprojects.ca](http://www.griffinartprojects.ca)

@@ -34,4 +34,4 @@ Dani Gal's work Failed to Bind (2013) is on view now in Aporia (Notes to a Mediu
 (11 January-14 April 2024) and in the exhibition Historical Records at the Polygon
 Gallery (9 March-14 July 2024).
 
-https://belkin.ubc.ca/events/radio-art-dani-gal/
+[https://belkin.ubc.ca/events/radio-art-dani-gal/](https://belkin.ubc.ca/events/radio-art-dani-gal/)

@@ -15,7 +15,7 @@ Opening Reception, Friday, July 13, 6 to 9pm at Satellite Gallery
 
 Satellite Gallery
 560 Seymour Street, 2nd Floor
-http://www.satellitegallery.ca
+[http://www.satellitegallery.ca](http://www.satellitegallery.ca)
 604-681-8425
 info@satellitegallery.ca
 

@@ -42,7 +42,7 @@ as well as compensation for a group public engagement event
 (workshop, talk, etc). Total compensation is approximately $950 CAD.
 
 More information on the NOW, NEVER residency is available in the full open call:
-https://accessgallery.ca/news/now-never-residency-open-call
+[https://accessgallery.ca/news/now-never-residency-open-call](https://accessgallery.ca/news/now-never-residency-open-call)
 
 If for any reason you are unable to complete the submission form, please
 contact

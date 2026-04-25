@@ -13,7 +13,7 @@ Part 4: Choreography
 8:00pm, May 31, 2013
 Lief Hall
 
-http://221a.ca/the-part-of-no-part
+[http://221a.ca/the-part-of-no-part](http://221a.ca/the-part-of-no-part)
 
 The Part of No Part is an artwork curated by Dan Starling that invites
 five artists to each design a part of a performance by concentrating on

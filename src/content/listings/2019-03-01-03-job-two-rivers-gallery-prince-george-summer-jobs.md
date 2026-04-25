@@ -11,4 +11,4 @@ summary: "JOB | Two Rivers Gallery | Prince George Summer Jobs"
 Two Rivers Gallery is hiring 5 summer positions for young Canadians. 
 Please find job positing here:
 
-http://www.tworiversgallery.ca/discover-us/employment-opportunities/
+[http://www.tworiversgallery.ca/discover-us/employment-opportunities/](http://www.tworiversgallery.ca/discover-us/employment-opportunities/)

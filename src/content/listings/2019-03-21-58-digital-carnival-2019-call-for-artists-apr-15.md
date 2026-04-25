@@ -12,7 +12,7 @@ We are so excited to be launching the Call for Artists for Digital Carnival 2019
 help us spread the word!
 
 Applications are being accepted online NOW until April 15, 11:59pm PST. 
-https://goo.gl/forms/7xtL3ecmvPoymbmO2
+[https://goo.gl/forms/7xtL3ecmvPoymbmO2](https://goo.gl/forms/7xtL3ecmvPoymbmO2)
 
 Digital Carnival has been making media art accessible by bringing cutting-edge projects 
 by diverse artists into public spaces since 2012. We welcome the full range of 
@@ -24,7 +24,7 @@ and curated by Cinevolution with Guest Curator Wynne Palmer.
 We are grateful to the BC Arts Council, the City of Richmond, and Richmond World 
 Festival for their generous support.
 
-https://www.facebook.com/cinevolution
+[https://www.facebook.com/cinevolution](https://www.facebook.com/cinevolution)
 
 More About Digital Carnival
 Since its inception in 2012, Digital Carnival has been a platform for promoting public 

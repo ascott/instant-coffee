@@ -45,7 +45,7 @@ weeks.
 Promotes artistic and creative engagement through play and experimentation.
 Work can be previously created or made specifically for this call.
 
-For more information, and to apply: https://theactmapleridge.org/open-call
+For more information, and to apply: [https://theactmapleridge.org/open-call](https://theactmapleridge.org/open-call)
 
 Renumeration: Artists will be paid a fee in line with CARFAC Category I Group
 Exhibition. The final amount of the fee will be dependent upon the number of selected

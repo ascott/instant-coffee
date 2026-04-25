@@ -58,6 +58,6 @@ Hannah Jickling and Helen Reed | Mid-September
 TBA
 
 Webpage:
-http://www.burnaby.ca/Things-To-Do/Arts-and-Heritage/Burnaby-Art-Gallery/Exhibitions/KIOSK.html
+[http://www.burnaby.ca/Things-To-Do/Arts-and-Heritage/Burnaby-Art-Gallery/Exhibitions/KIOSK.html](http://www.burnaby.ca/Things-To-Do/Arts-and-Heritage/Burnaby-Art-Gallery/Exhibitions/KIOSK.html)
 
-Follow us on Tumblr for Kiosk features: http://burnabyartgallery.tumblr.com/
+Follow us on Tumblr for Kiosk features: [http://burnabyartgallery.tumblr.com/](http://burnabyartgallery.tumblr.com/)

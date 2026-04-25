@@ -31,7 +31,7 @@ Saturday*
 12-5PM
 *(Artist will be present)
 
-See https://srs.ubc.ca/covid-19/ubc-campus-rules-guidance-documents/ for information on
+See [https://srs.ubc.ca/covid-19/ubc-campus-rules-guidance-documents/](https://srs.ubc.ca/covid-19/ubc-campus-rules-guidance-documents/) for information on
 masks, daily health assessments, and what to expect when visiting the AHVA Gallery.
 When you arrive, follow posted signage and the guidance of gallery staff so everyone can
 enjoy a safe visit.

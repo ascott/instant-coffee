@@ -23,7 +23,7 @@ legacies of urban renewal and their erasure from the official historical narrati
 Hogans Alley Society
 
 For more information on Hogan's Alley Society, please visit their website:
-https://www.hogansalleysociety.org/
+[https://www.hogansalleysociety.org/](https://www.hogansalleysociety.org/)
 
 Please note: Or Gallery and Bookstore is open Tues-Sat, 12-5pm.
 When visiting the gallery, please keep in mind that our capacity is 4 people. Please do

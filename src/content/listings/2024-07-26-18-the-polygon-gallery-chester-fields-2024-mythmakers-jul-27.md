@@ -14,7 +14,7 @@ Reception at 1:00pm
 Remarks and awards announced at 1:30pm
 RSVPs are helpful
 RSVP Here:
-https://thepolygon.ca/event/chester-fields-2024-opening-celebration/
+[https://thepolygon.ca/event/chester-fields-2024-opening-celebration/](https://thepolygon.ca/event/chester-fields-2024-opening-celebration/)
 Chester Fields: Mythmakers is on view at The Polygon July 27 " September 8.
 About the Exhibition
 Chester Fields is a professionally juried photography exhibition for high school students.

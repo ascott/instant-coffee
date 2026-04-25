@@ -8,7 +8,7 @@ venue: "Ann Arbor Film Festival"
 summary: "Ann Arbor Film Festival | Livestream of Screenings | MARCH 24-29th | MAR 24"
 ---
 
-https://www.aafilmfest.org/live-stream-schedule
+[https://www.aafilmfest.org/live-stream-schedule](https://www.aafilmfest.org/live-stream-schedule)
 
 The 58th Ann Arbor Film Festival (AAFF) will be presented as a free live-streamed six-day
 event March 24-March 29, 2020! We made the decision to suspend all in-person events for the

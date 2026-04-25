@@ -15,6 +15,6 @@ temporary public spaces that are created through the closure of select roadway
 on a 24-hour basis for an extended duration, ranging from weeks to months.
 
 Stay tuned to Vancouver.ca/Block51 for updates, but find the RFEOI posted 
-here: http://former.vancouver.ca/fs/bid/bidopp/EOI/RFEOI-PS20130049.htm
+here: [http://former.vancouver.ca/fs/bid/bidopp/EOI/RFEOI-PS20130049.htm](http://former.vancouver.ca/fs/bid/bidopp/EOI/RFEOI-PS20130049.htm)
 
 publicart-online@list.vancouver.ca

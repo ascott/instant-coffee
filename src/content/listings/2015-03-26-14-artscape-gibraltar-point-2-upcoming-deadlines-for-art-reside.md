@@ -67,10 +67,10 @@ artscape.wufoo.eu/forms/online-application-for-artscape-gibraltar-point/
 
 Website: LuminousBodies.com
 
-LINK: https://www.scribd.com/doc/121127507/Luminous-Bodies#fullscreen=1
+LINK: [https://www.scribd.com/doc/121127507/Luminous-Bodies#fullscreen=1](https://www.scribd.com/doc/121127507/Luminous-Bodies#fullscreen=1)
 
 APPLY:
-http://artscape.wufoo.eu/forms/online-application-for-artscape-gibraltar-point/
+[http://artscape.wufoo.eu/forms/online-application-for-artscape-gibraltar-point/](http://artscape.wufoo.eu/forms/online-application-for-artscape-gibraltar-point/)
 
 ~~~~~~~~~~~
 Unlearning Practices
@@ -150,7 +150,7 @@ Practices Residency, contact Zoe and Catherine at:
 unlearningweekenders@gmail.com. Submissions are accepted until March 31st.
 
 LINK:
-http://www.torontoartscape.org/artscape-gibraltar-point/residencies#unlearning-practices
+[http://www.torontoartscape.org/artscape-gibraltar-point/residencies#unlearning-practices](http://www.torontoartscape.org/artscape-gibraltar-point/residencies#unlearning-practices)
 
 APPLY:
-http://artscape.wufoo.eu/forms/online-application-for-artscape-gibraltar-point/
+[http://artscape.wufoo.eu/forms/online-application-for-artscape-gibraltar-point/](http://artscape.wufoo.eu/forms/online-application-for-artscape-gibraltar-point/)

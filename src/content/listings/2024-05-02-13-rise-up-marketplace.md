@@ -27,5 +27,5 @@ Apertures, on view at Or Gallery from March 7 to July 6, 2024.
 
 This program is free and open to all. Registration is recommended but not required.
 
-Register here: https://orgallery.org/events/sustaining-apertures-artist-talk/?
+Register here: [https://orgallery.org/events/sustaining-apertures-artist-talk/](https://orgallery.org/events/sustaining-apertures-artist-talk/)?
 preview_id=5575&preview_nonce=34d1852eb0&preview=true

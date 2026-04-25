@@ -62,7 +62,7 @@ FRAC Nord-Pas de Calais
 930 avenue de Rosendaël
 59240 Dunkerque (France)
 Tel. 03 28 65 84 20
-http://www.fracnpdc.fr
+[http://www.fracnpdc.fr](http://www.fracnpdc.fr)
 h-teerlinck@fracnpdc.fr
 
 Lumi Tan (US), the second curator to be awarded the H+F Curatorial Grant,

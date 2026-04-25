@@ -13,7 +13,7 @@ Artist Talk with Stan Denniston and Erdem Tasdelen
 Wednesday, 6 April, 2022, 7 PM
 
 Pre-registration on Eventbrite is required. Register at the link below:
-https://bit.ly/36CNpi8
+[https://bit.ly/36CNpi8](https://bit.ly/36CNpi8)
 
 This online artist talk will take place over Zoom. If you have any accessibility requests
 or need assistance navigating Zoom, please email virtual@oakvillegalleries.com.
@@ -71,7 +71,7 @@ concerned with self-presentation, narratology, and language.
 
 Two Truths and a Lie is drawn primarily from the permanent collection of Oakville
 Galleries.
-https://www.oakvillegalleries.com/digital-archives/details/170/Two-Truths-and-a-Lie
+[https://www.oakvillegalleries.com/digital-archives/details/170/Two-Truths-and-a-Lie](https://www.oakvillegalleries.com/digital-archives/details/170/Two-Truths-and-a-Lie)
 
 OAKVILLE GALLERIES
 
@@ -83,7 +83,7 @@ At Centennial Square | Tuesday to Saturday, 12 - 5 PM
 
 Please visit our website for Health and Safety Protocols before visiting Oakville
 Galleries.
-https://www.oakvillegalleries.com/contact-us
+[https://www.oakvillegalleries.com/contact-us](https://www.oakvillegalleries.com/contact-us)
 
 Admission is always free, donations are always welcome.
 905.844.4402 | info@oakvillegalleries.com | www.oakvillegalleries.com |

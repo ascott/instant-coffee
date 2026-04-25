@@ -29,7 +29,7 @@ membership). In additi¬on, for each for 4hour shift work you will receive
 hours will receive a festival pass.
 
 Please let us know when and how you would like to help out by completing
-a short questionnaire at http://spreadsheets.google.com/viewform?
+a short questionnaire at [http://spreadsheets.google.com/viewform](http://spreadsheets.google.com/viewform)?
 hl=en&formkey=cHNyenNUMlp6a2RKMUZrRDJtdnoxTGc6MA.
 
 VIVO Media Arts Centre presents the ninth annual Signal + Noise Media Art

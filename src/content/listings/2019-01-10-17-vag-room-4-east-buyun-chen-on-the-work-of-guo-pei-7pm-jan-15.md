@@ -21,4 +21,4 @@ East Asia at Pennsylvanias Swathmore College.
 
 Tickets: $15 for Non-members, $12 for Members, $10 for Students/Seniors
 
-Purchase tickets here: https://etickets.vanartgallery.bc.ca/Info.aspx?EventID=12
+Purchase tickets here: [https://etickets.vanartgallery.bc.ca/Info.aspx?EventID=12](https://etickets.vanartgallery.bc.ca/Info.aspx?EventID=12)

@@ -36,4 +36,4 @@ Unearthed Artifacts invites viewers to consider not only the imaginative worlds 
 objects imply, but also the cultural, technological, and ecological narratives embedded in
 the material practices of our time.
 
-Artist Statement: https://thisgallery.org/project/wilson-makgawinata-unearthed-artifacts/
+Artist Statement: [https://thisgallery.org/project/wilson-makgawinata-unearthed-artifacts/](https://thisgallery.org/project/wilson-makgawinata-unearthed-artifacts/)

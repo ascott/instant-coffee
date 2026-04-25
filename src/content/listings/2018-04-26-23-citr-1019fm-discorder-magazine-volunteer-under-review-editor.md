@@ -55,4 +55,4 @@ to the Editor-In-Chief near the end of every month
 Discorder events and initiatives
 
 To see the full job description and for information on how to apply, visit 
-http://www.citr.ca/2018/04/19/be-the-next-under-review-editor-84804/
+[http://www.citr.ca/2018/04/19/be-the-next-under-review-editor-84804/](http://www.citr.ca/2018/04/19/be-the-next-under-review-editor-84804/)

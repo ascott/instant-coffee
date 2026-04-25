@@ -23,11 +23,11 @@ audiences in participatory processes. Professional (CARFAC)
 exhibition and artist presentation fees are paid for selected proposals.
 
 For information on how to apply please refer to the submission
-guidelines on the website: http://www.oxygenartcentre.org/exhibitions-
+guidelines on the website: [http://www.oxygenartcentre.org/exhibitions-](http://www.oxygenartcentre.org/exhibitions-)
 residencies/submissions/
 
 To view artists who have shown at Oxygen in the past link here and
-click on the artist's name: http://www.oxygenartcentre.org/exhibitions-
+click on the artist's name: [http://www.oxygenartcentre.org/exhibitions-](http://www.oxygenartcentre.org/exhibitions-)
 residencies/
 
 Submissions are accepted on an ongoing basis however to meet the

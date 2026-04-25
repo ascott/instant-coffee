@@ -27,4 +27,4 @@ and technical support for making your edits.
 
 You can find out more about the
 Edit-a-thon workshops happening this month here:
-https://centrea.org/2022/02/centre-a-edit-a-thon-2022/
+[https://centrea.org/2022/02/centre-a-edit-a-thon-2022/](https://centrea.org/2022/02/centre-a-edit-a-thon-2022/)

@@ -30,6 +30,6 @@ been like this, ten thousand times and one hundred more, Family Dinner, Family D
 The Lexicon, Semi-precious: the faceting of a gemstone only appears complete and
 critical; Enters and Exits and COPY.
 
-TO SIGN UP: https://www.eventbrite.com/.../see-sounds-listening-party...
+TO SIGN UP: [https://www.eventbrite.com/.../see-sounds-listening-party](https://www.eventbrite.com/.../see-sounds-listening-party)...
 For more about Justine
-Please visit her website at: https://justineachambers.com/
+Please visit her website at: [https://justineachambers.com/](https://justineachambers.com/)

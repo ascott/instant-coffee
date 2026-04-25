@@ -26,4 +26,4 @@ art and technology education community through roundtables, workshops, and
 mentorship. Now in its third iteration, INTER/MEDIATEs event will be held at a series
 of venues throughout the city including Atelier 254 and VIVO Media Arts Center.
 
-If interested, please register here: https://forms.gle/D9QnExbHb8AUFV2U7
+If interested, please register here: [https://forms.gle/D9QnExbHb8AUFV2U7](https://forms.gle/D9QnExbHb8AUFV2U7)

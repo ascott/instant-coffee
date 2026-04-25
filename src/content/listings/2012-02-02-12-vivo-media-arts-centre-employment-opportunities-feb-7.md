@@ -9,7 +9,7 @@ summary: "VIVO Media Arts Centre | Employment Opportunities | FEB 7"
 ---
 
 Employment Opportunities at VIVO Media Arts Centre
-Please see: http://vivomediaarts.com/about/people for more information
+Please see: [http://vivomediaarts.com/about/people](http://vivomediaarts.com/about/people) for more information
 
 1: Fundraising+Development Coordinator. Deadline: Feb 7, 2012
 
@@ -49,4 +49,4 @@ maintain the general management of volunteers, membership, workshops and
 studio bookings.
 
 For full details on these employment opportunities, please visit us at: 
-http://vivomediaarts.com/about/people
+[http://vivomediaarts.com/about/people](http://vivomediaarts.com/about/people)

@@ -20,7 +20,7 @@ If interested in submitting please send an email with a youtube or
 vimeo link of the video to kingaltfilm@gmail.com
 
 Deadline: June 20th, 2013
-http://kingsteetaltfilmfest.blogspot.ca
+[http://kingsteetaltfilmfest.blogspot.ca](http://kingsteetaltfilmfest.blogspot.ca)
 
 20. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.
@@ -44,7 +44,7 @@ Thanx Frank
 You can get me at 604 379-5900
 jeepcj786@gmail.com
 
-http://vancouver.en.craigslist.ca/pml/bfs/3707411603.html
+[http://vancouver.en.craigslist.ca/pml/bfs/3707411603.html](http://vancouver.en.craigslist.ca/pml/bfs/3707411603.html)
 
 Roland FJ 500 54" Printer. High Fi Jet Pro 8 Colour Indoor Printer.
 

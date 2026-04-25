@@ -18,7 +18,7 @@ Classification: 19+
 Cineworks members: $9 (only with promo code online)
 Concessions: $9
 Non-members: $11
-Tickets: http://bit.ly/1LBPMLz
+Tickets: [http://bit.ly/1LBPMLz](http://bit.ly/1LBPMLz)
 
 Saturday 31 October; 10:00pm
 VIFF Vancity Theatre
@@ -33,7 +33,7 @@ consumerism. Far-fetched? Tell that to Donald Trump!
 See also Ghost Materialities, Thurs 29 October – a presentation addressing
 this film and John Hillcoat's Ghosts... Of The Civil Dead (both released in
 1988) as searing critiques of Reaganomics / Neoliberalism:
-http://bit.ly/1OGRKAj
+[http://bit.ly/1OGRKAj](http://bit.ly/1OGRKAj)
 
 Screening here in tribute to the late Roddy Piper, who passed away this
 summer.
@@ -43,7 +43,7 @@ is a not-for-profit cultural organization that operates the internationally
 acclaimed Vancouver International Film Festival (VIFF), the annual VIFF
 Industry Conference and the year-round programming of the Vancity Theatre
 at the Vancouver International Film Centre.
-http://www.viff.org/
+[http://www.viff.org/](http://www.viff.org/)
 
 Cineworks Independent Filmmakers Society (est.1980) is an artist-run
 production and exhibition centre that supports independent filmmakers and

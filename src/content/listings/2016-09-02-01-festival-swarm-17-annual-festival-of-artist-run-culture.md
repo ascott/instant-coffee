@@ -54,4 +54,4 @@ towards the benefit of the practicing artist, within the context of
 artists' self-determination. PAARC counts over 20 member centres 
 (located in Vancouver, Victoria, Kelowna, Kamloops, and Nelson) 
 and represents them regionally, provincially, and nationally. For 
-more information visit: http://www.paarc.ca
+more information visit: [http://www.paarc.ca](http://www.paarc.ca)

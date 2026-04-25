@@ -40,7 +40,7 @@ heads. Mancinis poetic feet do all the talking, sidestepping one-size-fits-all m
 the sediment of measures called history."
 
 Read more about SAME DIFF, and/or order a copy here: 
-http://talonbooks.com/books/same-diff
+[http://talonbooks.com/books/same-diff](http://talonbooks.com/books/same-diff)
 
 Books will be available for purchase at the event. 
 Some new print works designed and produced in collaboration with Eli Horn, Stephane 
@@ -55,4 +55,4 @@ ever book launch in Vancouver.
 The group launch for all of Talon's poetry titles this season is on Thursday April 27th at 
 the Western Front. 7:30 pm. Featured authors: Nancy Shaw, Jnna Kirton, R. Kolewe, 
 Donato Mancini.
-http://talonbooks.com/events/talonbooks-spring-poetry-launch
+[http://talonbooks.com/events/talonbooks-spring-poetry-launch](http://talonbooks.com/events/talonbooks-spring-poetry-launch)

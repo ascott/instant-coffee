@@ -16,7 +16,7 @@ Richmond Art Gallery
 Calling all comic book enthusiasts and artists! Meet other artists, sketch some 
 comics, and view a live performance at our Drink and Draw social. Please pre-
 register for this event with a RSVP ticket at Eventbrite. 
-https://www.eventbrite.ca/e/drink-and-draw-at-omnis-temporalis-tickets-
+[https://www.eventbrite.ca/e/drink-and-draw-at-omnis-temporalis-tickets-](https://www.eventbrite.ca/e/drink-and-draw-at-omnis-temporalis-tickets-)
 31615556982
 
 This free event is for comic book artists, illustrators, cartoonists, sketchers and 

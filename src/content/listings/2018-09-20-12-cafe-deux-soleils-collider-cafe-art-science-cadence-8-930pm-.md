@@ -11,8 +11,8 @@ summary: "Cafe Deux Soleils | Collider Cafe: Art. Science. Cadence. | 8-930PM | 
 Collider Cafe: Art. Science. Cadence.
 When: Wednesday, September 26, 8-9:30pm (doors open at 7:30pm)
 Where: Cafe Deux Soleils (2096 Commercial Drive, Vancouver, BC V5N 4B2)
-Event info: http://bit.ly/ArtScienceCadence
-Website: https://curiositycollider.org/events/collider-cafe-art-science-cadence/
+Event info: [http://bit.ly/ArtScienceCadence](http://bit.ly/ArtScienceCadence)
+Website: [https://curiositycollider.org/events/collider-cafe-art-science-cadence/](https://curiositycollider.org/events/collider-cafe-art-science-cadence/)
 
 #ColliderCafe is a space for artists, scientists, makers, and anyone interested in art+science. 
 Meet. Discover. Connect. Create.

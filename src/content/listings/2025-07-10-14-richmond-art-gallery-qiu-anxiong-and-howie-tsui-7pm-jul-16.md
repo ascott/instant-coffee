@@ -14,7 +14,7 @@ Wednesday, July 16, 2025
 7:00 PM - 8:15 PM
 
 Register -
-https://us02web.zoom.us/webinar/register/WN_qYiodRWJTmmw_uiUUbZivQ
+[https://us02web.zoom.us/webinar/register/WN_qYiodRWJTmmw_uiUUbZivQ](https://us02web.zoom.us/webinar/register/WN_qYiodRWJTmmw_uiUUbZivQ)
 
 Join artists Qiu Anxiong and Howie Tsui, along with guest curator Rebecca Wang for
 an artist talk on the exhibition Qiu Anxiong & Howie Tsui: The Roaming Peach

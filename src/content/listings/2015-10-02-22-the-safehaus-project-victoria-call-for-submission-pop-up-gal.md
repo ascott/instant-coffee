@@ -33,4 +33,4 @@ Run as a co-op each artist pays a fee: this goes to pay for space,
 insurance, and the countless other small parts that go into putting on a 
 three day show
 
-https://www.facebook.com/Safehaus-project-52942029
+[https://www.facebook.com/Safehaus-project-52942029](https://www.facebook.com/Safehaus-project-52942029)

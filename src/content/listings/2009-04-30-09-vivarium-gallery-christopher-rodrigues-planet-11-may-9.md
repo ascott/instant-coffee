@@ -42,5 +42,5 @@ and wheelchair accessible.
 VIVARIUM GALLERY
 2130 Yew Street
 Vancouver, BC 11217-1506
-http://www.vivariumgallery.com
+[http://www.vivariumgallery.com](http://www.vivariumgallery.com)
 vivariumgallery@gmail.com

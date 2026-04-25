@@ -13,7 +13,7 @@ Thanks to funding from Metro Vancouver, the Nikkei National Museum has been able
 turn Ann Gomer Sunahara's seminal but now out-of-print book Politics of Racism that
 helped support the Japanese Canadian Redress movement in the 80s, into an e-book.
 Available for free reading soon on several platforms including
-https://centre.nikkeiplace.org/research/, www.japanesecanadianhistory.ca, Amazon, and
+[https://centre.nikkeiplace.org/research/](https://centre.nikkeiplace.org/research/), www.japanesecanadianhistory.ca, Amazon, and
 Kindle.
 
 And thanks to funding from Library & Archives Canada, we've been able to

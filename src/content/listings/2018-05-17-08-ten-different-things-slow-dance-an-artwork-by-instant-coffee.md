@@ -36,7 +36,7 @@ Drive), Third Beach (Stanley Park), Robson Square (800 Robson Street), and
 NO FUN RADIO (30 E Cordova St).
 
 Playlist by Nicole Lefaivre. Tune in on NO FUN RADIO to Call Home (slow
-dance music hour) http://www.nofunradio.com/
+dance music hour) [http://www.nofunradio.com/](http://www.nofunradio.com/)
 
 Instant Coffee is a service-oriented artist and curatorial collective based
 in Winnipeg, Vancouver, and Seoul, South Korea. Established in 2000 Instant
@@ -69,4 +69,4 @@ Ten Different Things is produced on the traditional unceded Territories of
 the Musqueam, Squamish and Tsleil-Waututh First Nations.
 
 karmstrong@ecuad.ca us@instantcoffee.org
-http://tendifferentthings.ecuad.ca/ http://instantcoffee.org/
+[http://tendifferentthings.ecuad.ca/](http://tendifferentthings.ecuad.ca/) [http://instantcoffee.org/](http://instantcoffee.org/)

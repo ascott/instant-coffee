@@ -13,7 +13,7 @@ Video Out New Acquisitions: Tricky Eyes
 Thursday October 5, 7pm PT
 FREE
 
-https://www.vivomediaarts.com/programming/tricky-eyes-new-acquisitions-screening
+[https://www.vivomediaarts.com/programming/tricky-eyes-new-acquisitions-screening](https://www.vivomediaarts.com/programming/tricky-eyes-new-acquisitions-screening)
 
 For our latest call-for-submissions, Video Out, in partnership with IFF Animation,
 invited works that address and play with the conventions of animation. The result is a

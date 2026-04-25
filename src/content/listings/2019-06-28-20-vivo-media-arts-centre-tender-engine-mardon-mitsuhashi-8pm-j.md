@@ -21,10 +21,10 @@ Four-part performance:
 8pm Thursday June 27
 8pm Friday June 28
 
-Advance tickets at Eventbrite - https://www.eventbrite.ca/e/tender-engine-mardon-
+Advance tickets at Eventbrite - [https://www.eventbrite.ca/e/tender-engine-mardon-](https://www.eventbrite.ca/e/tender-engine-mardon-)
 mitsuhashi-tickets-61954048226
 
-Facebook event: https://www.facebook.com/events/349768205677055/ 
+Facebook event: [https://www.facebook.com/events/349768205677055/](https://www.facebook.com/events/349768205677055/) 
 
 Admission $10 - NO ONE TURNED AWAY FOR LACK OF FUNDS
 

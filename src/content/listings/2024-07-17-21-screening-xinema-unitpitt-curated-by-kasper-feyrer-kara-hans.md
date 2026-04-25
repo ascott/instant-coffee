@@ -37,6 +37,6 @@ Limited pay-what-you-can ($15 suggested donation) tickets available.
 
 Please email info@unitpitt.ca if you need financial or physical accommodation.
 
-For accessibility notes please visit https://www.unitpitt.ca/about/.
+For accessibility notes please visit [https://www.unitpitt.ca/about/](https://www.unitpitt.ca/about/).
 
 In the case if inclement weather the screening will be moved inside The Gallery.

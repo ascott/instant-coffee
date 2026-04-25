@@ -11,8 +11,8 @@ summary: "MUSIC | art rock? no. 25 | NOV 25"
 art rock? no. 25
 
 featuring:
-JERK JAILS: https://soundcloud.com/jerk-jails
-SHITLORD FUCKERMAN: https://shitlordfuckerman.bandcamp.com/
+JERK JAILS: [https://soundcloud.com/jerk-jails](https://soundcloud.com/jerk-jails)
+SHITLORD FUCKERMAN: [https://shitlordfuckerman.bandcamp.com/](https://shitlordfuckerman.bandcamp.com/)
 DMB BSTRDS: \_()_/\_()_/
 +
 DJ Merlot

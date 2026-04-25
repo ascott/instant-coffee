@@ -32,4 +32,4 @@ will receive an honorarium between $100 and $300.
 The deadline to apply is Thursday, September 28, 2023.
 
 For more information and to apply:
-https://www.richmond.ca/culture/publicart/opportunities.htm
+[https://www.richmond.ca/culture/publicart/opportunities.htm](https://www.richmond.ca/culture/publicart/opportunities.htm)

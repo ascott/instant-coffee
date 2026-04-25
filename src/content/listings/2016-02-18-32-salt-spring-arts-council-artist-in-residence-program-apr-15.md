@@ -29,7 +29,7 @@ artistic merit.
 Applications for the AiR program can be submitted before April 15th 
 and the first artist residencies on Salt Spring Island will take place 
 between October 2016 and April 2017. Application information is 
-available at http://ssartscouncil.com/artist-in-residence/
+available at [http://ssartscouncil.com/artist-in-residence/](http://ssartscouncil.com/artist-in-residence/)
 
 SSAC and the AiR steering committee are also pleased to announce 
 the first Salt Spring National Art Prize (SSNAP) residency. Winnipeg 

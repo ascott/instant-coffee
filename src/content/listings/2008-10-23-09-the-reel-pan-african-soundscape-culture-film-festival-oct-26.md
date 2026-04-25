@@ -11,7 +11,7 @@ summary: "The Reel Pan-AfriCAN SoundsCAPE | Culture & Film Festival | OCT 26"
 The Reel Pan-AfriCAN SoundsCAPE
 Interactive Experience with Canada's
 Vancouver Pan-African Arts, Culture & Film Festival (www.vpaff.org
-<http://www.vpaff.org> )
+<[http://www.vpaff.org](http://www.vpaff.org)> )
 Date: Sunday, Oct. 26, 2008
 Time: 10:00 pm - 12:00 am Cape Town &
 1:00 - 3:00 pm Vancouver

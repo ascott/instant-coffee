@@ -35,5 +35,5 @@ illustrated books. This exhibition explores the imagery, stories, lands and wate
 heart of his work.
 
 For more information, please visit:
-https://www.burnaby.ca/recreation-and-arts/arts-and-culture-facilities/burnaby-art-
+[https://www.burnaby.ca/recreation-and-arts/arts-and-culture-facilities/burnaby-art-](https://www.burnaby.ca/recreation-and-arts/arts-and-culture-facilities/burnaby-art-)
 gallery/exhibitions/roy-henry-vickers

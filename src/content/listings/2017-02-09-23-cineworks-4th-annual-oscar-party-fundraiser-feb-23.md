@@ -16,7 +16,7 @@ The Imperial, 319 Main Street, Vancouver
 General Admission: $80 + service fee
 Member admission: $50 + service fee 
 
-Tickets: http://cineworks2017.brownpapertickets.com/
+Tickets: [http://cineworks2017.brownpapertickets.com/](http://cineworks2017.brownpapertickets.com/)
 
 Cineworks requests the pleasure of your company at The 4th Annual Oscar Party 
 Fundraiser.
@@ -38,4 +38,4 @@ and our work is based. We also gratefully acknowledge the support of Canada Coun
 for the Arts, British Columbia Arts Council, The Province of British Columbia and the 
 City of Vancouver.
 
-http://cineworks.ca
+[http://cineworks.ca](http://cineworks.ca)

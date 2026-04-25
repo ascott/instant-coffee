@@ -21,7 +21,7 @@ the month-long celebration allows visitors to virtually criss-cross the country 
 the unexpected intersections of creative collaboration.
 
 Info at: culturedays.ca/bc
-http://culturedays.ca/bc
+[http://culturedays.ca/bc](http://culturedays.ca/bc)
 
 38. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.

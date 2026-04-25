@@ -23,4 +23,4 @@ Films will be screened twice: once at 8:15, and again for latecomers at approxim
 Curated by Francesca Bennett.
 Goonies, 108 east Hastings (at Columbia)
 
-http://goonies.ca
+[http://goonies.ca](http://goonies.ca)

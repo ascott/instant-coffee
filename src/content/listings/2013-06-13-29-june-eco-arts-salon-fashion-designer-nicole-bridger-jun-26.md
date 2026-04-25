@@ -13,7 +13,7 @@ June Eco-Arts Salon: Fashion designer Nicole Bridger
 When: Wednesday, June 26, 2013 from 7-9:00pm
 Where: Roundhouse Community Centre, 181 Roundhouse Mews (Drake and
 Pacific), Vancouver, BC V6Z 2W3
-RSVP at http://eco-arts-june-2013.eventbrite.com
+RSVP at [http://eco-arts-june-2013.eventbrite.com](http://eco-arts-june-2013.eventbrite.com)
 Admission: FREE
 
 Join us for an exciting evening with Nicole Bridger! This local

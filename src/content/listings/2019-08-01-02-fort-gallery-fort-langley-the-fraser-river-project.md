@@ -20,4 +20,4 @@ encourage a wide range of responses to the theme, including but not limited to
 environmental, cultural, social, economic, historical, indigenous perspectives on the 
 Fraser River.
 
-For complete information: http://www.fortgallery.ca/the-fraser-river-project.html
+For complete information: [http://www.fortgallery.ca/the-fraser-river-project.html](http://www.fortgallery.ca/the-fraser-river-project.html)

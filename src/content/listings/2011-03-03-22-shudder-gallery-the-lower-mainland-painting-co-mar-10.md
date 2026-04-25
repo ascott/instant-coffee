@@ -37,7 +37,7 @@ and thinking. In addition to this work, the LMPC will be hosting a series
 of regular calendar events:
 
 Thursdays | 7pm | Public Presentations - A series of public presentations
-by the LMPC and other local artworkers (see http://www.lmpc.ca or visit
+by the LMPC and other local artworkers (see [http://www.lmpc.ca](http://www.lmpc.ca) or visit
 Shudder Gallery for details)
 
 Fridays | 5pm-9pm | Happy Hour at the Artworkers Hall - The LMPC will
@@ -49,10 +49,10 @@ Saturdays | 12pm | M1 Art Strike Coalition - All are invited to participate
 in an open planning meeting concerning a proposed Art Strike to take place
 in the Lower Mainland on May 1st, 2011. The LMPC is offering their space at
 Shudder Gallery to the Coalition and endorses the Coalition's work. For
-more information visit http://artstrike.wordpress.com/
+more information visit [http://artstrike.wordpress.com/](http://artstrike.wordpress.com/)
 
 For more information about the Lower Mainland Painting Co. visit
-http://www.lmpc.ca or email them directly at info@lmpc.ca
+[http://www.lmpc.ca](http://www.lmpc.ca) or email them directly at info@lmpc.ca
 
 ** For these purposes, an Artworker is generally self-identified (if you
 think you are one then you probably are) but can include artists, curators,

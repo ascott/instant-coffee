@@ -42,4 +42,4 @@ viewpoints, and artists whose work is underrepresented within the Vancouver arts
 community.
 
 For further information, please visit
-https://www.facebook.com/shootinggalleryperformance/
+[https://www.facebook.com/shootinggalleryperformance/](https://www.facebook.com/shootinggalleryperformance/)

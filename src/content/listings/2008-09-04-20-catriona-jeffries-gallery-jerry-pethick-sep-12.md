@@ -80,4 +80,4 @@ V5T 1A6 Canada
 t: (01) 604 736 1554
 f: (01) 604 736 1054
 e: cat_jeffries_gallery@telus.net
-www.catrionajeffries.com <http://www.catrionajeffries.com/
+www.catrionajeffries.com <[http://www.catrionajeffries.com/](http://www.catrionajeffries.com/)

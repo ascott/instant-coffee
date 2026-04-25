@@ -30,7 +30,7 @@ Kutlug Ataman, Ayman Baalbaki, Ali Banisadr, Taysir Batniji, Mona Hatoum,
 Susan Hefuna, Raafat Ishak, Y.Z. Kami, Farhad Moshiri, Youssef Nabil, 
 Hamed Sahihi, Mitra Tabrizian, and Parviz Tanavoli.
 
-http://www.moa.ubc.ca/
+[http://www.moa.ubc.ca/](http://www.moa.ubc.ca/)
 
 Adult Admission: $16.75; Students & Seniors $14.50
 

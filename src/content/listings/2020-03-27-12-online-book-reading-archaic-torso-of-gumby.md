@@ -12,7 +12,7 @@ ARCHAIC TORSO OF GUMBY
 A book of short stories by Geoffrey Morrison and Matthew Tomkinson
 
 Book reading:
-https://www.youtube.com/watch?v=JPANCZ-L2Xc
+[https://www.youtube.com/watch?v=JPANCZ-L2Xc](https://www.youtube.com/watch?v=JPANCZ-L2Xc)
 
 Order now at: gordonhillpress.com
 

@@ -31,6 +31,6 @@ recommendations on paper, ink and equipment
 Take home kit included in ticket (pen, nib, ink, worksheets)
 
 Buy Tickets:
-https://www.eventbrite.ca/e/modern-calligraphy-workshop-for-
+[https://www.eventbrite.ca/e/modern-calligraphy-workshop-for-](https://www.eventbrite.ca/e/modern-calligraphy-workshop-for-)
 beginners-in-vancouver-with-lauren-welland-tickets-73748452607?
 utm_term=eventurl_text

@@ -26,10 +26,10 @@ In 2017, as we enter Canada's 150th year, and the 75th anniversary of the
 internment of Japanese Canadians, this exhibit imagines the complexity of 
 history through a transpacific, speculative fiction.
 
-https://www.rockpaperscissors-project.com/
+[https://www.rockpaperscissors-project.com/](https://www.rockpaperscissors-project.com/)
 
 Limited edition of 50 exhibit lunches available. Pre-order recommended. $10.
-http://centre.nikkeiplace.org/rps-lunch-order/
+[http://centre.nikkeiplace.org/rps-lunch-order/](http://centre.nikkeiplace.org/rps-lunch-order/)
 
 Artist Talk
 Saturday, February 18, 2017. 2pm. Admission free.

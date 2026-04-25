@@ -39,4 +39,4 @@ filmmakers who are indigenous, people of colour and people across the spectrums 
 gender, sexuality and abilities.
 
 For more details, and to access the application form, please visit the VIFF webpage.
-https://viff.org/online/mentorship
+[https://viff.org/online/mentorship](https://viff.org/online/mentorship)

@@ -18,4 +18,4 @@ estimation required 5152 stitches, 35,000 beads and almost 7 animal hides. The w
 contemplative, a reclamation of traditional skills and values and a delicate offering from
 Adele to her larger community still struggling with this colonial legacy. Her work will be
 installed on transit shelters throughout the city until August 13th. You can learn more on
-the City of Vancouvers website: https://vancouver.ca/platforms
+the City of Vancouvers website: [https://vancouver.ca/platforms](https://vancouver.ca/platforms)

@@ -43,4 +43,4 @@ DIM CINEMA
 The Cinematheque
 1131 Howe St. Vancouver BC
 Canada. V6Z 2L7
-advance tickets: http://www.thecinematheque.ca
+advance tickets: [http://www.thecinematheque.ca](http://www.thecinematheque.ca)

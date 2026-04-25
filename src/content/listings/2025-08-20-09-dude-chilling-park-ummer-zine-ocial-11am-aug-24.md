@@ -24,12 +24,12 @@ scorching or low air quality. Keep an eye here or on insta for updates on any
 changes
 
 MORE INFO + RSVP HERE:
-https://docs.google.com/document/d/1gmQQHJ3G0jH9IPLk40IDLIV9VeWLy2tiq1aq
+[https://docs.google.com/document/d/1gmQQHJ3G0jH9IPLk40IDLIV9VeWLy2tiq1aq](https://docs.google.com/document/d/1gmQQHJ3G0jH9IPLk40IDLIV9VeWLy2tiq1aq)
 G5we_j0/edit?usp=sharing
 " We would love for you to let everyone know you plan on participating by posting
 the RSVP promo square on your social media! (Bonus: tag us for a repost boost)
 
-FACEBOOK EVENT: https://www.facebook.com/share/1D7DnoHHmA/
+FACEBOOK EVENT: [https://www.facebook.com/share/1D7DnoHHmA/](https://www.facebook.com/share/1D7DnoHHmA/)
 
 SETUP (for participants)
 " starts at 11am (or come anytime up until 5pm! NO EARLY BIRDS please)

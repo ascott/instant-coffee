@@ -21,7 +21,7 @@ body in a larger context of cosmos.
 
 The performance will be located at Devonian Park on Saturday April 
 13th from 6:56 to 8:12 rain or shine. Dress for the weather. See you 
-then. http://www.wildnewterritories.com/
+then. [http://www.wildnewterritories.com/](http://www.wildnewterritories.com/)
 
 Dana Claxton works in film, video, photography, single and multi 
 channel video installation and performance art. Her practice 

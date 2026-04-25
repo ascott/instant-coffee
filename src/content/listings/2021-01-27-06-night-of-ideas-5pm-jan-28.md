@@ -21,4 +21,4 @@ technology in our societies, which shapes more than ever our relationship to the
 theme Close(r) also invites us to question the evolution of our contemporary modes of
 sociality, and more than ever our relationship with others.
 
-https://vancouver.consulfrance.org/Nightoftheideas-2021
+[https://vancouver.consulfrance.org/Nightoftheideas-2021](https://vancouver.consulfrance.org/Nightoftheideas-2021)

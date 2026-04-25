@@ -38,7 +38,7 @@ and aural stimuli as a method for processing environmental sensitivity brought o
 her anxiety disorder. By focusing on aural triggers, shes been exploring how 
 emphatic, intentional breathing and sounds of human presence can amplify or 
 subdue manifestations of environmental overstimulation.
-Website: https://soundcloud.com/whitney-brennan
+Website: [https://soundcloud.com/whitney-brennan](https://soundcloud.com/whitney-brennan)
 
 IFIGENIA MCGOWAN PAPADATOU
 Papadatou Ifigenia (b. 1990 in Athens, Greece) graduated in 2015 from the 

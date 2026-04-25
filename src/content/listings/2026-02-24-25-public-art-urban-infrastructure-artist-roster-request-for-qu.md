@@ -23,4 +23,4 @@ Deadline: March 5, 2026
 Duration: April 2026 to April 2028
 
 For more information and to apply:
-https://www.richmond.ca/culture/howartworks/publicart/artist-calls.htm
+[https://www.richmond.ca/culture/howartworks/publicart/artist-calls.htm](https://www.richmond.ca/culture/howartworks/publicart/artist-calls.htm)

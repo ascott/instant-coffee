@@ -17,6 +17,6 @@ classical traditions.
 
 Doors 7:00pm, Show at 7:30pm
 Advance Tickets:
-https://www.showpass.com/radical-traditions-new-music-for-gamelan
+[https://www.showpass.com/radical-traditions-new-music-for-gamelan](https://www.showpass.com/radical-traditions-new-music-for-gamelan)
 
 Presented by Publik Secrets

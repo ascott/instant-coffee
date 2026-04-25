@@ -20,4 +20,4 @@ specifications. Or if your green thumb is crap and you might be making this as a
 neglected succulent: anything goes! Just be prepared to get youre hands dirty! Age 10+ 
 welcome! 
 $63
-https://www.mobil-art.ca/event-info/make-a-ceramic-planter
+[https://www.mobil-art.ca/event-info/make-a-ceramic-planter](https://www.mobil-art.ca/event-info/make-a-ceramic-planter)

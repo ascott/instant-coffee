@@ -11,7 +11,7 @@ summary: "Illingworth Kerr Gallery [ONLINE] | HEATHER IGLOLIORTE | 4PM | MAR 24"
 Wednesday March 24, 2021
 Time 5PM MST
 Virtual Artist Talk : MS Teams Link
-http://www.ikgallery.ca/va_heather-igloliorte/
+[http://www.ikgallery.ca/va_heather-igloliorte/](http://www.ikgallery.ca/va_heather-igloliorte/)
 
 Dr. Heather Igloliorte is theUniversity Research Chair in Indigenous Circumpolar Arts
 atConcordia UniversityinTiohti:ke/ Montreal, where she alsoleads theInuit Futures in

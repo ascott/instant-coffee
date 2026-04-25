@@ -24,7 +24,7 @@ This auxiliary position provides a competitive salary of $24.97 - $29.20 per hou
 12% in lieu of vacation, public holidays, and benefits.
 
 The posting closes on July 21, 2025. View the full position details and submit an
-application on our website at http://www.delta.ca/jobs
+application on our website at [http://www.delta.ca/jobs](http://www.delta.ca/jobs)
 
 At the City of Delta, we are committed to recruiting and retaining a diverse workforce
 that is representative of our community, providing equal opportunity and fostering an

@@ -25,15 +25,15 @@ band in all directions at once. Although Zen Finger is a young band
 the members all hail from Vancouver's various punk, avant-garde, 
 jazz and electronic music scenes, joining forces to amalgamate a 
 non-genre specific musical singularity. 
-https://youtu.be/sXpNuXZkTfQ?t=4m36s
+[https://youtu.be/sXpNuXZkTfQ?t=4m36s](https://youtu.be/sXpNuXZkTfQ?t=4m36s)
 
 HAZY
 hazy is the solo project of KC Wei (Late Spring, agonyklub, art 
 rock?). Her music is naive, complex, vulnerable, mysterious. She 
 recently released her debut album, x.o. Virgo Ox, out on Agony 
 Klub Records, and will embark on her first European tour this fall. 
-https://hazyhazyhaze.bandcamp.com/
-https://www.youtube.com/watch?v=T4oobN7ym8k
+[https://hazyhazyhaze.bandcamp.com/](https://hazyhazyhaze.bandcamp.com/)
+[https://www.youtube.com/watch?v=T4oobN7ym8k](https://www.youtube.com/watch?v=T4oobN7ym8k)
 
 Proceeds go to help UNIT / PITT Projects continue to operate as a 
 non-profit artist run centre dedicated to the promotion of 

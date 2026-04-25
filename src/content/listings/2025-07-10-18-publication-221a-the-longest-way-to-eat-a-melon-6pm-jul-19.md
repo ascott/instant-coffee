@@ -16,7 +16,7 @@ Vancouver
 V6Z 1C3
 
 RSVP to Attend:
-https://www.addevent.com/event/iD26105933
+[https://www.addevent.com/event/iD26105933](https://www.addevent.com/event/iD26105933)
 
 221A is delighted to host the launch of The Longest Way to Eat a Melon, a new
 collection of fictions by Vancouver-based writer Jacquelyn Zong-Li Ross on

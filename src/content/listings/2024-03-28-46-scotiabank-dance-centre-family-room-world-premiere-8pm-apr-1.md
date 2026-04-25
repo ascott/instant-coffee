@@ -14,7 +14,7 @@ Family Room (world premiere)
 Friday-Saturday April 19-20, 2024 | 8pm
 Scotiabank Dance Centre, 677 Davie St, Vancouver
 Tickets $28/$22 students, seniors
-Details and tickets: https://thedancecentre.ca/event/the-falling-company/
+Details and tickets: [https://thedancecentre.ca/event/the-falling-company/](https://thedancecentre.ca/event/the-falling-company/)
 
 A new dance theatre piece choreographed by Marissa Wong, Family Room explores
 immigrant life and cultural identity - and the complexities of her own Chinese-

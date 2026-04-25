@@ -138,5 +138,5 @@ genders, LGBT2Q+ and persons with disabilities are encouraged to apply.
 Accommodations will be provided upon request during the selection process. Learn
 more about our commitment to diversity and inclusion.
 
-Apply here: https://jobs.vancouver.ca/job/Vancouver-Community-Arts-Programmer-Brit-
+Apply here: [https://jobs.vancouver.ca/job/Vancouver-Community-Arts-Programmer-Brit-](https://jobs.vancouver.ca/job/Vancouver-Community-Arts-Programmer-Brit-)
 V6A-4K6/832234500/

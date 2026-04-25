@@ -18,11 +18,11 @@ be considered for the January 2014 to December 2014 programming season.
 
 For complete submission guidelines visit:
 
-http://www.kiac.ca/oddgallery/submissions/
+[http://www.kiac.ca/oddgallery/submissions/](http://www.kiac.ca/oddgallery/submissions/)
 
-http://www.kiac.ca/artistinresidence/apply/
+[http://www.kiac.ca/artistinresidence/apply/](http://www.kiac.ca/artistinresidence/apply/)
 
-http://www.naturalmanufactured.com
+[http://www.naturalmanufactured.com](http://www.naturalmanufactured.com)
 
 ODD GALLERY
 

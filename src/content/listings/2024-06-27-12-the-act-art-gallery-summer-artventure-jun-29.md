@@ -10,7 +10,7 @@ summary: "The ACT Art Gallery | Summer ARTventure | JUN 29"
 
 Summer ARTventure " Exhibition for Children and Families
 
-https://theactmapleridge.org/summer-artventure
+[https://theactmapleridge.org/summer-artventure](https://theactmapleridge.org/summer-artventure)
 
 June 29, 2024 " August 24, 2024
 

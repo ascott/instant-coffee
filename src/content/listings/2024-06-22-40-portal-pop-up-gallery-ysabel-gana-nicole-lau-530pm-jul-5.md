@@ -10,7 +10,7 @@ summary: "PORTAL POP-UP GALLERY | Ysabel Gana + Nicole Lau | 530PM | JUL 5"
 
 PORTAL POP-UP GALLERY
 
-https://portalpopupgallery.square.site/
+[https://portalpopupgallery.square.site/](https://portalpopupgallery.square.site/)
 
 407 W. Cordova St.,
 Vancouver BC

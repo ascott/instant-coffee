@@ -37,4 +37,4 @@ Goldcorp Centre for the Arts
 149 W Hastings Street
 Vancouver, British Columbia V6B 1H4
 
-More info and registration: https://creativemornings.com/talks/carys-cragg
+More info and registration: [https://creativemornings.com/talks/carys-cragg](https://creativemornings.com/talks/carys-cragg)

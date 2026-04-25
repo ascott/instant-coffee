@@ -119,7 +119,7 @@ street parking
 The Bakery also has a project/gallery space which provides an intimate
 environment for new art and artists to showcase engaging art that combines
 artistry with experimentation and investigation.
-http://thebakeryonfranklin.tumblr.com
+[http://thebakeryonfranklin.tumblr.com](http://thebakeryonfranklin.tumblr.com)
 
 If our space is something that your interested in contact us at
 info@thebakeryonfranklin.com to set up a viewing and include a little
@@ -146,5 +146,5 @@ Amenities include:
 - 24 hour access
 - $245 per 100 square feet
 
-Visit us at http://thephoenixgallery.ca/
+Visit us at [http://thephoenixgallery.ca/](http://thephoenixgallery.ca/)
 email us at vancouverphoenix@gmail.com

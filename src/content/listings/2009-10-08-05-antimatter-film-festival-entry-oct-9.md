@@ -48,8 +48,8 @@ University of Victoria (Visual Arts Building, Main Concourse).
 
 Antimatter features over 20 programs of short and feature length films organised by festival and 
 guest curators, screening at Open Space Arts Centre and Cinecenta.
-Complete festival information can be found at http://www.antimatter.ws or in program guides 
+Complete festival information can be found at [http://www.antimatter.ws](http://www.antimatter.ws) or in program guides 
 available at the venues and at all south island Serious Coffee outlets.
 
 
-http://antimatter.ws
+[http://antimatter.ws](http://antimatter.ws)

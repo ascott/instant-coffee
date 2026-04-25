@@ -25,6 +25,6 @@ conversation with writer and editor Jayne Wilkinson. Blas will discuss his most 
 work, CULTUS, the second in a trilogy of queer science-fiction installations addressing
 the beliefs, fantasies and histories that are influential to the contemporary tech industry.
 
-https://belkin.ubc.ca/events/reading-group-aporia/
+[https://belkin.ubc.ca/events/reading-group-aporia/](https://belkin.ubc.ca/events/reading-group-aporia/)
 
-https://belkin.ubc.ca/events/artist-talk-zach-blas-with-jayne-wilkinson/
+[https://belkin.ubc.ca/events/artist-talk-zach-blas-with-jayne-wilkinson/](https://belkin.ubc.ca/events/artist-talk-zach-blas-with-jayne-wilkinson/)

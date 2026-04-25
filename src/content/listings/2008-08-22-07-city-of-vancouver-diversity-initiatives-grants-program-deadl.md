@@ -21,7 +21,7 @@ cross-cultural artistic projects and cross-cultural artistic
 residencies. For information and guidelines on this grant program,
 please go to:
 
-http://vancouver.ca/commsvcs/oca/grants/cultgrants.htm#diversity.
+[http://vancouver.ca/commsvcs/oca/grants/cultgrants.htm#diversity](http://vancouver.ca/commsvcs/oca/grants/cultgrants.htm#diversity).
 
 Please note that previously funded projects must be completed
 and a report submitted to our office before a new application can be

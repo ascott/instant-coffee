@@ -41,7 +41,7 @@ extension of his ongoing Not Sent Letters Project, an entanglement with the
 production of meaning, self and cultural memory, involving image/text
 epistolary detours online (since 2005), digital shorts, interdisciplinary
 performance works and cooperatively realized public events:
-http://notsentlettersproject.com/
+[http://notsentlettersproject.com/](http://notsentlettersproject.com/)
 This is the sixteenth NOT SENT LETTERS & GUESTS event (occurring after a
 nine month hiatus).
 
@@ -84,13 +84,13 @@ JEREMY TODD presents a new NOT SENT LETTERS SET featuring ELIZABETH MILTON
 & RICK CLARK. The work incorporates performance, projections, live scoring,
 reading and play, with letters to Henry Georgeson, The Noises Our New Home
 Makes and This Hatred Of The Homeless, all selected from the project
-archive: http://notsentlettersproject.com/category/letters
+archive: [http://notsentlettersproject.com/category/letters](http://notsentlettersproject.com/category/letters)
 
 EXPLORE previous Not Sent Letters & Guests events here:
-http://notsentlettersproject.com/category/events
+[http://notsentlettersproject.com/category/events](http://notsentlettersproject.com/category/events)
 
 FOR NOTIFICATIONS and news join the project facebook page:
-https://www.facebook.com/pages/Not-Sent-Letters-Project/147882091946917
+[https://www.facebook.com/pages/Not-Sent-Letters-Project/147882091946917](https://www.facebook.com/pages/Not-Sent-Letters-Project/147882091946917)
 
 EMAIL Jeremy to host or contribute to a future Not Sent Letters & Guests
 event: jeremytodd@notsentlettersproject.com

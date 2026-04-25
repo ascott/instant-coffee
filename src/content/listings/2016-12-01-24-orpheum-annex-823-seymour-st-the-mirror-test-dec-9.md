@@ -14,4 +14,4 @@ by Kevin Kokoska
 Playing Dec 9 th 8pm*, 10th 2pm AND 8pm
 
 Tickets $20 visit
-http://www.kokoska.co/mirror
+[http://www.kokoska.co/mirror](http://www.kokoska.co/mirror)

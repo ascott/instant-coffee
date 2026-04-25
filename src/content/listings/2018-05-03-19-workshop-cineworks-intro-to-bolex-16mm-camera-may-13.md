@@ -44,7 +44,7 @@ goo.gl/qHpfgR
 Discounts
 Please note: access to membership discounts can be obtained with a
 Cineworks General Membership ($40 annually). Please call 604-685-3841 for
-details, or see http://cineworks.ca/connect#join
+details, or see [http://cineworks.ca/connect#join](http://cineworks.ca/connect#join)
 
 Accessibility: this venue is wheelchair accessible, but we apologize that
 it has no accessible washroom. An accessible washroom is available at Breka

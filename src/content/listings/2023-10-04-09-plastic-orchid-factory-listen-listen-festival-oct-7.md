@@ -24,8 +24,8 @@ dumpling-making workshop on Oct 7.
 Limited capacity, please reserve in advance.
 Tickets on a sliding scale are $0-$50.
 
-https://plasticorchidfactory.ca/listen-listen.html
-https://improvisedarts.ca/listen-listen-festival-2023/
+[https://plasticorchidfactory.ca/listen-listen.html](https://plasticorchidfactory.ca/listen-listen.html)
+[https://improvisedarts.ca/listen-listen-festival-2023/](https://improvisedarts.ca/listen-listen-festival-2023/)
 
 tags
 @orchidfactory

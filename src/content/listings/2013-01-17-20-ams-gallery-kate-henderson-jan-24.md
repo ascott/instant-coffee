@@ -27,4 +27,4 @@ Opening Reception: Thursday January 24, 6-9 PM
 
 University of British Columbia Department of Art History, Visual Art & Theory
 
-http://www.ahva.ubc.ca/
+[http://www.ahva.ubc.ca/](http://www.ahva.ubc.ca/)

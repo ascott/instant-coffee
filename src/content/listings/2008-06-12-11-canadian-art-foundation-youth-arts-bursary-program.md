@@ -27,7 +27,7 @@ To date, the Youth Arts Bursary has been awarded to visual art institutions and 
 organizations in Winnipeg, Windsor, Ottawa, Halifax, Toronto, Vancouver and Kamloops.
 
 The application deadline is Friday, August 1, 2008. For application guidelines, visit 
-http://www.canadianart.ca/yab
+[http://www.canadianart.ca/yab](http://www.canadianart.ca/yab)
 
 For more information, please contact Sara Graham, Development/Administrative Coordinator, 
 Canadian Art Foundation, at (416) 368-8854 ext. 111 or sgraham@canadianart.ca.

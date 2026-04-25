@@ -84,4 +84,4 @@ culture in Vancouver, British Columbia and Canada are beyond question and will
 be shared by everyone. We are visual arts professionals; artists, critics, art 
 writers, educators, curators, gallery workers and gallerists, we feel it is time our 
 opinion was heard. If you are a visual arts professional and want to see a new 
-Vancouver Art Gallery, add your name to the list: http://www.newvag.ca/
+Vancouver Art Gallery, add your name to the list: [http://www.newvag.ca/](http://www.newvag.ca/)

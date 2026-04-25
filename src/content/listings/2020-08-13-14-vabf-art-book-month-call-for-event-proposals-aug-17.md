@@ -22,7 +22,7 @@ to register your event!
 Registration deadline: August 17, 2020
 Dates: October 1 2020 to October 31 2020
 
-REGISTER HERE: https://forms.gle/QbixqFYXHn6ZkmB68
+REGISTER HERE: [https://forms.gle/QbixqFYXHn6ZkmB68](https://forms.gle/QbixqFYXHn6ZkmB68)
 
 Questions? Contact coordinator@vancouverartbookfair.com
 WWW.VANCOUVERARTBOOKFAIR.COM

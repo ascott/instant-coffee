@@ -68,4 +68,4 @@ Vancouver and her work has been published in Ciel Variable magazine. In
 addition to her art practice, she is studying for a master's degree in
 landscape architecture at the university of British Columbia.
 
-https://www.facebook.com/events/387962031401715/
+[https://www.facebook.com/events/387962031401715/](https://www.facebook.com/events/387962031401715/)

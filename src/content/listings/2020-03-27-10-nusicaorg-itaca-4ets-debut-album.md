@@ -20,7 +20,7 @@ and Nick Fraser.
 
 Attached you can find the info sheet + artwork.
 At the following link you can listen and download the album -->
-https://www.dropbox.com/sh/714b25oqhyz7wof/AAA65rtmcrVR3a5cdWa9SB2ia?
+[https://www.dropbox.com/sh/714b25oqhyz7wof/AAA65rtmcrVR3a5cdWa9SB2ia](https://www.dropbox.com/sh/714b25oqhyz7wof/AAA65rtmcrVR3a5cdWa9SB2ia)?
 dl=0
 
 We would love to receive a feedback from you!
@@ -32,4 +32,4 @@ All the best,
 Bianca Baumberger
 ________________________
 nusica.org
-http://www.nusica.org/web/
+[http://www.nusica.org/web/](http://www.nusica.org/web/)

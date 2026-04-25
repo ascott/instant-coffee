@@ -28,4 +28,4 @@ One application will be chosen
 The decision is final
 
 Große Elbstr. 36, 3.OG, 22767 Hamburg
-www.caribicresidency.com <http://www.caribicresidency.com/>
+www.caribicresidency.com <[http://www.caribicresidency.com/](http://www.caribicresidency.com/)>

@@ -58,7 +58,7 @@ p.s. valentines day gift. Limited collection call 604-839-5780 to reserve
 yours.
 
 Check out some of the designs at
-http://www.facebook.com/group.php?gid=36658492992&amp;ref=ts#/group.php?gid=36658492992&amp;ref=ts
+[http://www.facebook.com/group.php?gid=36658492992&amp;ref=ts#/group.php?gid=36658492992&amp;ref=ts](http://www.facebook.com/group.php?gid=36658492992&amp;ref=ts#/group.php?gid=36658492992&amp;ref=ts)
 
 AND ALSO THAT NIGHT: So excited!!!!
 
@@ -100,7 +100,7 @@ This is going to be a wonderful night. I can just feel it.
 xo
 Rachey
 www.grace-gallery.com
-http://www.facebook.com/event.php?eid=63749607505
+[http://www.facebook.com/event.php?eid=63749607505](http://www.facebook.com/event.php?eid=63749607505)
 
 -- 
 Rachel Zottenberg, Director

@@ -40,7 +40,7 @@ you to explore and find the answers for:
 - Tiny Cinema
 
 Description of works with artists’ bios at www.vivomediaarts.com
-<http://www.vivomediaarts.com/>
+<[http://www.vivomediaarts.com/](http://www.vivomediaarts.com/)>
 The SLAB is a Studio LAB and a community of practice for electronic media
 artists and technology enthusiasts. We foster experimentation and provide
 artists with the means and motivation to develop their art unconstrained by
@@ -59,13 +59,13 @@ and Emma Hendrix of VIVO.
 
 VIVO Media Arts Centre
 1965 Main St Vancouver BC
-www.vivomediaarts.com <http://www.vivomediaarts.com>
+www.vivomediaarts.com <[http://www.vivomediaarts.com](http://www.vivomediaarts.com)>
 Contact: Dinka Pignon, 604.872.8337, education@vivomediaarts.com
 ï¿¼
 -- 
 vox +1.604.727.1325
 vid skype:furiousgreencloud
 msg aol/ichat: furiousgrncloud
-web http://furiousgreencloud.blogspot.com/
-cal http://www.icalx.com/html/furiousgreencloud/month.php?cal=Events
+web [http://furiousgreencloud.blogspot.com/](http://furiousgreencloud.blogspot.com/)
+cal [http://www.icalx.com/html/furiousgreencloud/month.php?cal=Events](http://www.icalx.com/html/furiousgreencloud/month.php?cal=Events)
 webcal://icalx.com/public/furiousgreencloud/Events.ics

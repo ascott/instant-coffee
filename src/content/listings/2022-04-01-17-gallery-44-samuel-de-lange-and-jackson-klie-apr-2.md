@@ -34,5 +34,5 @@ performativity of images and archives, his multidisciplinary practice highlights
 slippery nature of identity. He received an MFA in Studio Art from the University of
 Guelph in 2019, and a BFA in Photography Studies from Ryerson University in 2013.
 
-Register here: https://www.gallery44.org/events/a-conversation-with-samuel-de-lange-
+Register here: [https://www.gallery44.org/events/a-conversation-with-samuel-de-lange-](https://www.gallery44.org/events/a-conversation-with-samuel-de-lange-)
 and-jackson-klie

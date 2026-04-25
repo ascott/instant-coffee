@@ -14,7 +14,7 @@ Thursday, July 31, 2025
 6:00 PM - 9:00 PM
 Location: Theatre Under the Stairs, Richmond Cultural Centre, 7700 Minoru Gate
 
-RSVP: https://www.eventbrite.ca/e/film-screening-and-conversation-the-swordsman-
+RSVP: [https://www.eventbrite.ca/e/film-screening-and-conversation-the-swordsman-](https://www.eventbrite.ca/e/film-screening-and-conversation-the-swordsman-)
 1990-tickets-1409269927289
 
 Doors open at 5:30 PM.
@@ -51,7 +51,7 @@ been published in Chinese Martial Arts and Media Culture and HKU Journal of
 Chinese Studies, among others. She is currently working on her second monograph
 which explores the representation and transformation of jianghu (rivers and lakes) in
 cinema, literature, and other art forms.
-Profile: https://asia.ubc.ca/profile/helena-wu/
+Profile: [https://asia.ubc.ca/profile/helena-wu/](https://asia.ubc.ca/profile/helena-wu/)
 
 Rebecca Wang is a curator and artist working between her hometown of Hangzhou,
 China, and the unceded territories of the Musqueam, Squamish, and Tsleil-Waututh

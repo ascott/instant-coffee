@@ -33,4 +33,4 @@ First Nations and Indigenous communities are encouraged to apply.
 Closing date and time: 3:00:00 pm (Local Vancouver Time), Tuesday, August
 30, 2016
 
-http://bids.vancouver.ca/bidopp/RFA/RFA-PS20161129.htm
+[http://bids.vancouver.ca/bidopp/RFA/RFA-PS20161129.htm](http://bids.vancouver.ca/bidopp/RFA/RFA-PS20161129.htm)

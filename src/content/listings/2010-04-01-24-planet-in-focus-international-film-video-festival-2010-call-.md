@@ -27,7 +27,7 @@ oceans, and food security as examples. The 2010 spotlight is Biodiversity.
 Films may be submitted directly to Planet in Focus or through
 withoutabox.com. Visit our website for details
 www.planetinfocus.org/festival/submissions
-<http://www.planetinfocus.org/festival/submissions>
+<[http://www.planetinfocus.org/festival/submissions](http://www.planetinfocus.org/festival/submissions)>
 416 531-1769
 
 -- 

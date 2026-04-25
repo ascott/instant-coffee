@@ -21,7 +21,7 @@ stories ofconnection and empowerment inspired by themes in the exhibitionRISE:
 Sandeep Johal and
 Sara Khan.
 
-Free. Register here: https://www.eventbrite.ca/e/south-asian-artist-gathering-tickets-
+Free. Register here: [https://www.eventbrite.ca/e/south-asian-artist-gathering-tickets-](https://www.eventbrite.ca/e/south-asian-artist-gathering-tickets-)
 714905330087?aff=oddtdtcreator
 
 Refreshments provided. Ages 12+. This event is wheelchair accessible.
@@ -49,4 +49,4 @@ British Columbia.
 RISE: Sandeep Johal and Sara Khan is on view at the Art Gallery at Evergreen
 from September 16"November 26, 2023 .
 
-Website: https://evergreenculturalcentre.ca/exhibit/
+Website: [https://evergreenculturalcentre.ca/exhibit/](https://evergreenculturalcentre.ca/exhibit/)

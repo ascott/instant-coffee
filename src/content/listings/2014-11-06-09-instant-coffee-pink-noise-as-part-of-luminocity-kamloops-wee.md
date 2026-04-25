@@ -59,7 +59,7 @@ The Enchanter Persuaded is released on Jagjaguwar along with the
 recently released soundtrack album for the science fiction film Beyond 
 The Black Rainbow.
 
-http://www.youtube.com/watch?v=vRmsMyiBN8k
+[http://www.youtube.com/watch?v=vRmsMyiBN8k](http://www.youtube.com/watch?v=vRmsMyiBN8k)
 
 Johan Björck
 
@@ -67,7 +67,7 @@ Johan Björck is a Swedish visual artists and musician whose
 performance for Pink Noise will combine euro-funk, poetry and jazz-
 keyboard
 
-http://soundcloud.com/johanbjorck
+[http://soundcloud.com/johanbjorck](http://soundcloud.com/johanbjorck)
 
 Ronan McGrath
 
@@ -75,7 +75,7 @@ Kamloop’s Ronan McGrath will perform The Rose Tree an articulation of
 his fixation on pink noise. As well as his guitar/sampler oriented tracks 
 from his current 'No Spectrum' project.
 
-http://allmyevils.bandcamp.com/album/the-rose-tree
+[http://allmyevils.bandcamp.com/album/the-rose-tree](http://allmyevils.bandcamp.com/album/the-rose-tree)
 
 Saturday, November 8: the finale 9pm
 
@@ -85,7 +85,7 @@ Pink Eraser
 The Pink Erasers are a shoegazing grunge band from Kamloops. They 
 are soon to release taped recordings in late 2014.
 
-http://bollokscraftrecords.bandcamp.com/track/tba-may-8th-2
+[http://bollokscraftrecords.bandcamp.com/track/tba-may-8th-2](http://bollokscraftrecords.bandcamp.com/track/tba-may-8th-2)
 
 The Pink Lincolns
 (Mitch Charron, Dan Colussi, Laura Piasta, Dave Pullmer and Jennifer 
@@ -97,6 +97,6 @@ ditch), between falling apart and falling into place. They come off as kind
 of lazy but do not doubt their capacity to legitimately shred. They call 
 themselves The Pink Lincolns and they come from Vancouver BC.
 
-https://thepinklincolns.bandcamp.com/releases
+[https://thepinklincolns.bandcamp.com/releases](https://thepinklincolns.bandcamp.com/releases)
 
-http://vimeo.com/110599036
+[http://vimeo.com/110599036](http://vimeo.com/110599036)

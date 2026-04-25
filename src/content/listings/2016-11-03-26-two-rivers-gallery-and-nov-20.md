@@ -52,7 +52,7 @@ self-addressed envelope stamped with sufficient return postage. Stamps only.
 A completed and signed entry form. 
 
 An entry form can be downloaded from the Two Rivers Gallery website: 
-http://www.tworiversgallery.ca/experience-art/exhibition-proposals/
+[http://www.tworiversgallery.ca/experience-art/exhibition-proposals/](http://www.tworiversgallery.ca/experience-art/exhibition-proposals/)
 
 ** Packages that do not include the above may be deemed incomplete and 
 disqualified.

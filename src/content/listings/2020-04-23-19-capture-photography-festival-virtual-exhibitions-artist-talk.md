@@ -10,7 +10,7 @@ summary: "Capture Photography Festival | Virtual Exhibitions Artist Talk | 4-5PM
 
 Virtual Exhibitions Artist Talk with Adad Hannah, Rydel Cerezo and Maegan Hill-Carroll
 
-https://capturephotofest.com/events/virtual-exhibitions-artist-talk-with-adad-hannah-rydel-
+[https://capturephotofest.com/events/virtual-exhibitions-artist-talk-with-adad-hannah-rydel-](https://capturephotofest.com/events/virtual-exhibitions-artist-talk-with-adad-hannah-rydel-)
 cerezo-and-maegan-hill-carroll/
 
 Join Capture for artist talks by the three artists participating in Captures Virtual Exhibitions

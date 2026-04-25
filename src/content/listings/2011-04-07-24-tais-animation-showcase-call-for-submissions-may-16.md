@@ -31,7 +31,7 @@ Toronto Animated Image Society TAIS Showcase 2011
 Toronto, Ontario M6K 1X9 
 CANADA
 Please include the completed submission form (downloadable at 
-http://www.tais.ca/animationshowcase_submissionform.pdf) , an 
+[http://www.tais.ca/animationshowcase_submissionform.pdf](http://www.tais.ca/animationshowcase_submissionform.pdf)) , an 
 artist bio and two film stills (tiff or jpg @ 300 dpi – 2 x 3). 
 Description, bio, contact info and download links may be emailed to 
 tais@bellnet.ca or included in mailed submission package. Please 

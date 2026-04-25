@@ -25,7 +25,7 @@ are accepting proposals for general exhibitions in 2013 as well as
 proposals towards our yearly thematic project The Natural & The 
 Manufactured. The ODD Gallery supports CARFAC-recommended 
 exhibition and artist talk fee rates, and offers shipping support. Please 
-visit http://www.kiac.ca/oddgallery/submissions/ for more information.
+visit [http://www.kiac.ca/oddgallery/submissions/](http://www.kiac.ca/oddgallery/submissions/) for more information.
 
 2. ARTIST IN RESIDENCE – Klondike Institute of Art & Culture, 
 Dawson City, Yukon
@@ -37,7 +37,7 @@ a shared living space and kitchen. We are accepting proposals for
 general residencies, as well as two specific residencies: our Dawson 
 City International Short Film Festival Residency and our yearly 
 thematic The Natural & The Manufactured Residency. Please visit: 
-http://www.kiac.ca/artistinresidence/ for more information.
+[http://www.kiac.ca/artistinresidence/](http://www.kiac.ca/artistinresidence/) for more information.
 
 Contact: Tara Rudnickas, ODD Gallery and Residency Program 
 Director

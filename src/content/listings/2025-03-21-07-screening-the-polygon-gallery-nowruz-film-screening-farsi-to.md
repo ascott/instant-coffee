@@ -26,5 +26,5 @@ Director in attendance for a post-film Q&A.
 
 RSVPs are helpful
 
-RSVP here: https://thepolygon.ca/event/nowruz-farsi-tour-film-screening-of-one-must-
+RSVP here: [https://thepolygon.ca/event/nowruz-farsi-tour-film-screening-of-one-must-](https://thepolygon.ca/event/nowruz-farsi-tour-film-screening-of-one-must-)
 wash-eyes/

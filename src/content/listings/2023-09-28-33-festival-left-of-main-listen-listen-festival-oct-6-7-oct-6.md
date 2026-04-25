@@ -14,7 +14,7 @@ OCT 6-7, 2023
 Main Series at Left of Main [map]
 Late Night Series at Toast at Doris [map]
 More info + tickets:
-https://www.plasticorchidfactory.ca//listen-listen.html
+[https://www.plasticorchidfactory.ca//listen-listen.html](https://www.plasticorchidfactory.ca//listen-listen.html)
 
 A two-day multidisciplinary festival celebrating improvised arts sparked from joyful
 spontaneous play. This year features main series programming, a dumpling-making

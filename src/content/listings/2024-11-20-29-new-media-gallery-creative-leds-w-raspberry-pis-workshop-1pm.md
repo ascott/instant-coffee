@@ -15,7 +15,7 @@ interactivity.
 
 Saturday November 30, 1:00 am - 4:00 pm (Art + Technology LAB, Anvil Centre)
 Ages 18+
-Registration Link: https://bit.ly/4gW1GGq
+Registration Link: [https://bit.ly/4gW1GGq](https://bit.ly/4gW1GGq)
 Registration Fee: $45.00
 Instructor: Chris Jung
 P: 604 515 3834 | E: education@newmediagallery.ca | W:

@@ -58,7 +58,7 @@ the performative nature of truth, simulation and reality. Forsythe
 graduated from Städelschule in 2012. He lives and works in Frankfurt 
 am Main.
 
-http://221a.ca/the-part-of-no-part/
+[http://221a.ca/the-part-of-no-part/](http://221a.ca/the-part-of-no-part/)
 
 100-221 E Georgia
 Vancouver, BC

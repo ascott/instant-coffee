@@ -14,7 +14,7 @@ Exhibition Title: Eraser Street
 Opening Reception: Thursday, April 9, 2015 (7pm - 10pm)
 Exhibition Dates: April 9 - May 16, 2015
 Location: grunt gallery, 116-350 East 2nd Ave, Vancouver, BC
-URL: http://grunt.ca/exhibitions/eraser-street/
+URL: [http://grunt.ca/exhibitions/eraser-street/](http://grunt.ca/exhibitions/eraser-street/)
 
 Eraser Street – Hubris, Humility and Humanity in the Making of a City! is
 an exhibition that mixes Robideau’s newest and oldest photographs of

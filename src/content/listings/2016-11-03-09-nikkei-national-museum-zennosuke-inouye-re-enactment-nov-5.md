@@ -22,7 +22,7 @@ Special performance of moments from the life of a Nikkei First World War veteran
 Lee** & Writer/Director Yvette Dudley-Neuman**. This theatrical presentation is 
 part of the City of Surrey's Heritage Re-Enactmentprogram: 
 
-http://www.surrey.ca/culture-recreation/11469.aspx
+[http://www.surrey.ca/culture-recreation/11469.aspx](http://www.surrey.ca/culture-recreation/11469.aspx)
 
 **The participation of these Artists are arranged by permission of Canadian 
 Actors' Equity Association.
@@ -45,4 +45,4 @@ Nikkei National Museum
 Burnaby BC V5E4M7
 
 
-http://centre.nikkeiplace.org/wwi-exhibit/
+[http://centre.nikkeiplace.org/wwi-exhibit/](http://centre.nikkeiplace.org/wwi-exhibit/)

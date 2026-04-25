@@ -29,7 +29,7 @@ design, production, installation and administrative costs.
 The deadline for Expressions of Interest is 4 p.m. Pacific Time on Monday,
 February 2, 2015.
 For more information and submission guidelines:
-http://www.victoria.ca/EN/main/departments/parks-rec-culture/culture/art-culture/public-art/call-to-artists-public-art-for-johnson-street-parkade.html
+[http://www.victoria.ca/EN/main/departments/parks-rec-culture/culture/art-culture/public-art/call-to-artists-public-art-for-johnson-street-parkade.html](http://www.victoria.ca/EN/main/departments/parks-rec-culture/culture/art-culture/public-art/call-to-artists-public-art-for-johnson-street-parkade.html)
 
 For questions regarding the submission requirements or process, contact the
 City of Victoria by email at culture@victoria.ca.

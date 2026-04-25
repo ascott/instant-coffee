@@ -40,5 +40,5 @@ Franklin Furnace Archive, Inc.
 Brooklyn, NY 11217-1506
 T 718 398 7255
 F 718 398 7256
-http://www.franklinfurnace.org
+[http://www.franklinfurnace.org](http://www.franklinfurnace.org)
 mail@franklinfurnace.org

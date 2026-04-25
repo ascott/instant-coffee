@@ -53,4 +53,4 @@ Artists of local, national and international
 provenance are encouraged to apply.
 
 View full details and submission guidelines here:
-http://www.watershedplus.ca/residency/res-call01.pdf
+[http://www.watershedplus.ca/residency/res-call01.pdf](http://www.watershedplus.ca/residency/res-call01.pdf)

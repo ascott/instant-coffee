@@ -20,7 +20,7 @@ France.
 It is aimed at a Canadian artist based in British-Columbia and exploring the
 intersections between arts and quantum sciences.
 The call will end on April 21st.
-More information here: https://francecanadaculture.org/arts-sciences-cross-
+More information here: [https://francecanadaculture.org/arts-sciences-cross-](https://francecanadaculture.org/arts-sciences-cross-)
 residency-quantum-studio-paris/
 
 -

@@ -26,7 +26,7 @@ analyzing and working with conflict grounded in a trauma sensitive, abolition-ba
 approach.
 
 Sign-up will be necessary, and will be available on Zoom:
-https://us02web.zoom.us/meeting/register/tZ0kc-6oqT0tHNXYBZE-
+[https://us02web.zoom.us/meeting/register/tZ0kc-6oqT0tHNXYBZE-](https://us02web.zoom.us/meeting/register/tZ0kc-6oqT0tHNXYBZE-)
 hwnxAbpacUaedDwG
 Our last registration reached full capacity, and seats fill up quickly, so make sure to
 snag one while you can!

@@ -49,4 +49,4 @@ Performers include Nina Davies, Torien Cafferata, Kevyn Hu, Rebecca Margolick, a
 Simran Sachar.
 
 Admission is free, with tickets required. To learn more, visit
-https://westernfront.ca/events/contacting-image-worlds
+[https://westernfront.ca/events/contacting-image-worlds](https://westernfront.ca/events/contacting-image-worlds)

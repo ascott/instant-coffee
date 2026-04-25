@@ -25,7 +25,7 @@ pandemic, which will then be compiled as an audio record of this strange time.
 Technology requirements: Participants will need to have a way to record audio files (a
 smartphone/tablet or laptop) and will need to have access to a computer or tablet that
 they can use to edit their audio. This workshop will cover basic audio editing using
-audacity (free download: https://www.audacityteam.org/download/) or Garage Band. If
+audacity (free download: [https://www.audacityteam.org/download/](https://www.audacityteam.org/download/)) or Garage Band. If
 you are uncertain about your technology please get in touch with Lou prior
 to the
 workshop.

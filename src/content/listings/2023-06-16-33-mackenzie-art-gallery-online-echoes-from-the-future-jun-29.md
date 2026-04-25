@@ -39,5 +39,5 @@ digital platforms.
 
 Learn more by visiting the Digital Exhibition page.
 
-Link to the online opening: https://mackenzie.art/event/online-opening-echoes-from-
+Link to the online opening: [https://mackenzie.art/event/online-opening-echoes-from-](https://mackenzie.art/event/online-opening-echoes-from-)
 the-future-speculative-creatures-post-human-botanicals/

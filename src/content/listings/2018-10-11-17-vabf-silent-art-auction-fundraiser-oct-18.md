@@ -64,4 +64,4 @@ donation you help support VABF, a non-profit society, as a critical piece
 of Canadian cultural infrastructure that benefits artists locally and
 nationally.
 
-FB Event: https://www.facebook.com/events/2155049064764484/
+FB Event: [https://www.facebook.com/events/2155049064764484/](https://www.facebook.com/events/2155049064764484/)

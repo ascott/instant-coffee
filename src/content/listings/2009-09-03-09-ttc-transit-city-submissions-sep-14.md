@@ -78,7 +78,7 @@ Stage 1 of the Competition.
 An electronic copy of the Pre-Qualification Statement Artists is available
 by visiting the TTC¹s Materials and Procurement Website accessed at
 www.ttc.ca under "Business with the TTC" or go directly to
-http://www2.ttc.ca/html/frameset.htm , then choose ³Current Tenders², then
+[http://www2.ttc.ca/html/frameset.htm](http://www2.ttc.ca/html/frameset.htm) , then choose ³Current Tenders², then
 double click R14PG09808 under the ŒTender/Proposal No. field¹.
 
 Hard Copy of Pre-Qualification Statement Artists can be picked up at:

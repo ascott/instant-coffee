@@ -56,4 +56,4 @@ The STAG
 Vancouver BC
 diademdiscos@gmail.com
 
-http://thestrathconaartgallery.tumblr.com/
+[http://thestrathconaartgallery.tumblr.com/](http://thestrathconaartgallery.tumblr.com/)

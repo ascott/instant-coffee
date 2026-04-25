@@ -13,5 +13,5 @@ soon as possible in 2017.
 
 Curator posting link:
 
-http://www.contemporaryartgallery.ca/wp-content/uploads/2016/10/CAG_Curator-
+[http://www.contemporaryartgallery.ca/wp-content/uploads/2016/10/CAG_Curator-](http://www.contemporaryartgallery.ca/wp-content/uploads/2016/10/CAG_Curator-)
 2016-posting.pdf

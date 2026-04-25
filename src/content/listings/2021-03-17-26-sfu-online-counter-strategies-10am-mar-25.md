@@ -13,7 +13,7 @@ In Conversation: Heba Y. Amin, Sabine Bitter, Anthony Downey, Claudette Lauzon,
 Gillian Russell (Digital Democracies Institute), and SFU visual art students
 March 25, 2021 | 10:00 AM (PST) / 6:00 PM (GMT) | FREE | Zoom
 
-RSVP HERE https://www.eventbrite.ca/e/counter-strategies-digital-methodologies-and-
+RSVP HERE [https://www.eventbrite.ca/e/counter-strategies-digital-methodologies-and-](https://www.eventbrite.ca/e/counter-strategies-digital-methodologies-and-)
 practice-based-research-registration-145948486853
 
 How can we develop counter-strategies for image production and circulation in a post-

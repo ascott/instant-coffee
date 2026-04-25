@@ -44,11 +44,11 @@ your mark on this special day)
 
 Craft Pride Procession 
 
-http://textilegroupvan.blogspot.com/
+[http://textilegroupvan.blogspot.com/](http://textilegroupvan.blogspot.com/)
 August 6, 2011 | 12pm
 Thornton Park (Main + Terminal)
 
-Facebook Event found at: http://www.facebook.com/event.php?eid=205263922857071
+Facebook Event found at: [http://www.facebook.com/event.php?eid=205263922857071](http://www.facebook.com/event.php?eid=205263922857071)
 
 Garland
 c/o Textile group

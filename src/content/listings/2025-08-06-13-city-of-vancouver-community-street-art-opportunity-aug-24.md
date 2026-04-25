@@ -8,7 +8,7 @@ venue: "City of Vancouver"
 summary: "City of Vancouver | Community Street Art Opportunity | AUG 24"
 ---
 
-The URL is: https://vancouver.ca/parks-recreation-culture/call-for-artists-community-
+The URL is: [https://vancouver.ca/parks-recreation-culture/call-for-artists-community-](https://vancouver.ca/parks-recreation-culture/call-for-artists-community-)
 street-art.aspx
 
 The text description can be as follows:

@@ -42,10 +42,10 @@ Only Animal and its communities. Attendees will interact with plants, human-made
 materials, and each other to call attention to the natural rhythms of the Winter
 season.
 
-To register: https://www.eventbrite.ca/e/slow-social-club-winter-tickets-
+To register: [https://www.eventbrite.ca/e/slow-social-club-winter-tickets-](https://www.eventbrite.ca/e/slow-social-club-winter-tickets-)
 1144926569189?aff=oddtdtcreator
 
-More about The Only Animal here: https://www.theonlyanimal.com/
+More about The Only Animal here: [https://www.theonlyanimal.com/](https://www.theonlyanimal.com/)
 
 This work is made possible through The
 Only Animal's supporters, including The City

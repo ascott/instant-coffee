@@ -11,8 +11,8 @@ summary: "Paneficio Studios | Exhibition and Open Studios | DEC 2"
 Paneficio
 Studios will be open December 2, Noon to Five for www.firstsaturday.ca OPEN
 STUDIOS.
-Four artists including http://www.valeriearntzen.com/ http://www.danacromie.ca/
-https://rayophoff.com/ www.arntzenarntzen.com
+Four artists including [http://www.valeriearntzen.com/](http://www.valeriearntzen.com/) [http://www.danacromie.ca/](http://www.danacromie.ca/)
+[https://rayophoff.com/](https://rayophoff.com/) www.arntzenarntzen.com
 Mediums include oil painting, mixed media, assemblage, collage and photography,
 functional sculpture, furniture.
 800 Keefer Street

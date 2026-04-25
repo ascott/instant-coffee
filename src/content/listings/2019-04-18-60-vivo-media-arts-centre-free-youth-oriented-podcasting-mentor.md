@@ -15,7 +15,7 @@ Free youth-oriented podcasting mentorship
 ALT+SPACE+CONTROL: Vancouver Housing Stories
 
 Call for Participation
-SIGN UP & MORE INFO: http://www.vivomediaarts.com/ASC
+SIGN UP & MORE INFO: [http://www.vivomediaarts.com/ASC](http://www.vivomediaarts.com/ASC)
 
 Application closes April 30, 2019
 

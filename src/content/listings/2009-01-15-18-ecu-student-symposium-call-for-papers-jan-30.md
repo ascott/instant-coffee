@@ -11,7 +11,7 @@ summary: "ECU Student Symposium | Call For Papers | JAN 30"
 Call For Papers
 Deadline: 4:30pm January 30, 2009
 Writing/art: The Emily Carr University Student Symposium
-http://writingart.ecuad.ca
+[http://writingart.ecuad.ca](http://writingart.ecuad.ca)
 
 The inaugural Emily Carr Student Symposium: writing/art will take place on
 March 5 & 6, 2009. We are inviting college and university students from the
@@ -47,6 +47,6 @@ Emily Carr University
 Vancouver, BC
 V6H 3R9
 
-http://writingart.ecuad.ca
+[http://writingart.ecuad.ca](http://writingart.ecuad.ca)
 **please note: if you are submitting in person, the reception desk closes
 at 4:30pm

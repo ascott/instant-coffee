@@ -28,6 +28,6 @@ Pitt Meadows Art Gallery, will take place virtually from July 25th- September 6t
 "Together We Art" features over 90 works by a number of our very talented artists.
 You can view the exhibition through the Pitt Meadows Website:
 www.pittmeadows.ca/virtualgallery
-More info about the show: https://www.mapleridgenews.com/entertainment/vicua-art-
+More info about the show: [https://www.mapleridgenews.com/entertainment/vicua-art-](https://www.mapleridgenews.com/entertainment/vicua-art-)
 studio-to-hold-virtual-exhibition-at-pitt-meadows-gallery/
-More Info about Vicuna Art Studio: https://www.vicunaartstudio.com/
+More Info about Vicuna Art Studio: [https://www.vicunaartstudio.com/](https://www.vicunaartstudio.com/)

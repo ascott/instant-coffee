@@ -14,7 +14,7 @@ Griffin Art Projects
 
 www.griffinartprojects.ca
 
-Zoom link: https://zoom.us/webinar/register/WN_9wQpC7zWTNWE0H6pQLiubQ
+Zoom link: [https://zoom.us/webinar/register/WN_9wQpC7zWTNWE0H6pQLiubQ](https://zoom.us/webinar/register/WN_9wQpC7zWTNWE0H6pQLiubQ)
 
 In the Shadows of Gold Mountain features filmmaker Karen Cho as she travels from
 Montreal to Vancouver to uncover stories from the last survivors of the Chinese Head Tax

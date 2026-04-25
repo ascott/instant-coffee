@@ -11,7 +11,7 @@ summary: "http://spooxmagazine.org | | AUG 11"
 SPOOX'D 8 !
 
 spooxmand8.jpg
-http://spooxmagazine.org
+[http://spooxmagazine.org](http://spooxmagazine.org)
 
 01 Shane Munro - 1 2 1
 02 Jeremy Todd - Hey Now!

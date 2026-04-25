@@ -32,7 +32,7 @@ At UW-Madison Kris teaches interdisciplinary-oriented courses in urban and econo
 initiatives on campus. Kris' research focuses on urban and regional change, as well as the globalization of the services industries. He recently completed a three year role on the Advisory Board for the Centre on Housing Rights and Evictions (COHRE) now landmark 2007 report titled Fair Play for Housing Rights: Mega-Events, Olympic Games and Housing Rights (Geneva: COHRE and GIAN). Kris has been conducting research on the housing impacts of mega-events since 1986.
 
 In Paris Kris is currently conducting research on two projects related to the global geopolitics and geoeconomics of higher education restructuring. His publications include numerous articles and chapters, as well as the following books: Globalization and the Asia-Pacific: Contested Territories (Routledge, 1999); The Globalization of Chinese Business Firms (Macmillan/St.Martin's Press, 2000); and Globalization and Urban Change: Capital, Culture, and Pacific Rim Mega-Projects (Oxford University Press, 2001/2002). He also recently founded a new research-based blog called
-GlobalHigherEd blog (available athttp://globalhighered.wordpress.com/).
+GlobalHigherEd blog (available at[http://globalhighered.wordpress.com/](http://globalhighered.wordpress.com/)).
 
 The event is co-sponsored by the Impact on Communities Coalition and SFU's City Program.
 

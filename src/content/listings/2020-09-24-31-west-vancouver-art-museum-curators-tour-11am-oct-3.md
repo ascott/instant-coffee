@@ -17,4 +17,4 @@ artistic media to elude fixed forms. This tour requires pre-registration and att
 capped is at 8 attendees. To register please call 604-925-7270 and quote course
 number 77254.
 
-http://westvancouverartmuseum.ca
+[http://westvancouverartmuseum.ca](http://westvancouverartmuseum.ca)

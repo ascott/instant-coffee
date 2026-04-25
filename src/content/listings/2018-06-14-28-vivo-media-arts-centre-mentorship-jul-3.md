@@ -14,7 +14,7 @@ Call for participation, ages 14-24
 
 Deadline to Apply: July 3, 2018
 
-SIGN UP & MORE INFO: http://vivomediaarts.com/stillcreeksalmonsounds
+SIGN UP & MORE INFO: [http://vivomediaarts.com/stillcreeksalmonsounds](http://vivomediaarts.com/stillcreeksalmonsounds)
 
 Still Creek Salmon Sounds is a mentorship project providing technical and
 conceptual support to create a sound-based installation artwork that

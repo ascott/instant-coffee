@@ -45,4 +45,4 @@ conducted by Guillermo Gómez-Peña, Saul Garcia Lopez, Open Space
 Arts Society, contact 250-383-8833 to register.
 
 Full program schedule and ticket information: 
-http://www.openspace.ca/stories-from-the-edge
+[http://www.openspace.ca/stories-from-the-edge](http://www.openspace.ca/stories-from-the-edge)

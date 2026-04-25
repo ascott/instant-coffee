@@ -30,5 +30,5 @@ North Vancouver
 In conjunction with the exhibition "the poets have always preceded," Griffin Art 
 Projects and The Capilano Review have teamed up to host a Poets Theatre 
 Workshop with Dodie Bellamy and Kevin Killian. Sign up at 
-https://thecapilanoreview.com/workshop/ 
+[https://thecapilanoreview.com/workshop/](https://thecapilanoreview.com/workshop/) 
 (spots are limited!)

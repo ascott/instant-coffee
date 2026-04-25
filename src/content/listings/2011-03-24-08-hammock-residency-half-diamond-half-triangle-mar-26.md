@@ -38,7 +38,7 @@ Balcone and Hammock Residency gratefully acknowledges the support of the
 Province of British Columbia and the Assembly of British Columbia Arts
 Councils for the presentation of this project.
 
-http://www.balcone.org
-http://www.hammockresidency.com
+[http://www.balcone.org](http://www.balcone.org)
+[http://www.hammockresidency.com](http://www.hammockresidency.com)
 
-http://www.heidi-nagtegaal.com
+[http://www.heidi-nagtegaal.com](http://www.heidi-nagtegaal.com)

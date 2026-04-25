@@ -81,7 +81,7 @@ Location: 281 Industrial Avenue, Vancouver
 Interested? Please contact us at studio@artsfactorysociety.ca to schedule a viewing. 
 
 
-http://www.artsfactorysociety.ca
+[http://www.artsfactorysociety.ca](http://www.artsfactorysociety.ca)
 
 3.
 The Bakery | STUDIO AVAILABLE | JAN 1

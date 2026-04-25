@@ -10,7 +10,7 @@ summary: "WORKSHOP | VIVO | Make a Mozzi Theremin | JUN 13"
 
 Make a Mozzi Theremin
 
-SIGN UP & MORE INFO: https://mozzi-theremin.eventbrite.ca
+SIGN UP & MORE INFO: [https://mozzi-theremin.eventbrite.ca](https://mozzi-theremin.eventbrite.ca)
 
 Create your own Arduino-based electronic synthesizer with artist Chris Jung!
 

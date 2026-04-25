@@ -24,7 +24,7 @@ Saturday September 30 - 2:15pm & 3:15pm
 
 Venue: Hastings Park, Livestock Building nr. Hastings Racecourse (follow signage 
 from Renfrew Street North Parking Lot/Gate 6)
-Tickets: https://www.eventbrite.com/e/japanese-problem-tickets-36465809217
+Tickets: [https://www.eventbrite.com/e/japanese-problem-tickets-36465809217](https://www.eventbrite.com/e/japanese-problem-tickets-36465809217)
 Twitter: @LTDUniversal
 Instagram: @universallimitedtheatre
 Facebook: Universal Limited Theatre 

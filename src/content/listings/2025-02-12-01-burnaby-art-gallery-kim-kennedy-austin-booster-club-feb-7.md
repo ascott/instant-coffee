@@ -50,5 +50,5 @@ Hours:
 Tuesday - Friday: 10:00 am-4:30 pm
 Saturday - Sunday: 12:00 pm-5:00 pm
 
-https://www.burnaby.ca/recreation-and-arts/arts-and-culture-facilities/burnaby-art-
+[https://www.burnaby.ca/recreation-and-arts/arts-and-culture-facilities/burnaby-art-](https://www.burnaby.ca/recreation-and-arts/arts-and-culture-facilities/burnaby-art-)
 gallery/exhibitions/kim-kennedy-austin-booster-club

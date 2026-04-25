@@ -16,4 +16,4 @@ Victoria BC.
 Keynote Speaker, Anthony Keindl June 9th 7:30-8:30, Young 216 Lansdowne
 starts off 3 days of discussions that includes the Victoria Off the Grid
 Art Crawl. 
-Please visit http://artfoundations21.wordpress.com/ to register
+Please visit [http://artfoundations21.wordpress.com/](http://artfoundations21.wordpress.com/) to register

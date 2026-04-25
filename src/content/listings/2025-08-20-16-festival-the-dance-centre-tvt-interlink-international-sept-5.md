@@ -29,4 +29,4 @@ MacCaull, Sammy Chien-MacCaull ", Wen Huang, Andrea Nann, Fangas
 Nayaw, Heidi Strauss and "- Su PinWen.
 
 For more information, please visit:
-https://www.vanartgallery.bc.ca/events/tvt-interlink-symposium-2025/
+[https://www.vanartgallery.bc.ca/events/tvt-interlink-symposium-2025/](https://www.vanartgallery.bc.ca/events/tvt-interlink-symposium-2025/)

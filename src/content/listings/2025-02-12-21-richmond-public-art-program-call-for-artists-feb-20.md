@@ -28,4 +28,4 @@ Deadline: February 20, 2025
 Duration: Spring/Fall 2025 " Spring/Fall 2026
 
 For more information and to apply:
-https://www.richmond.ca/culture/howartworks/publicart/artist-calls.htm
+[https://www.richmond.ca/culture/howartworks/publicart/artist-calls.htm](https://www.richmond.ca/culture/howartworks/publicart/artist-calls.htm)

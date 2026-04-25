@@ -33,4 +33,4 @@ Richmond Cultural Centre
 7700 Minoru Gate, Richmond, BC V6Y 1R8
 
 Website
-https://culturedays.ca/en/hubs/2d4c5e58-c048-4892-984e-3f4084fc9c9a
+[https://culturedays.ca/en/hubs/2d4c5e58-c048-4892-984e-3f4084fc9c9a](https://culturedays.ca/en/hubs/2d4c5e58-c048-4892-984e-3f4084fc9c9a)

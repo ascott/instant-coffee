@@ -26,11 +26,11 @@ artist will be in attendance.
 
 Artist website: www.feliciafraser.com
 
-Artist Instagram: https://www.instagram.com/hotdogsanddinosaurs/
+Artist Instagram: [https://www.instagram.com/hotdogsanddinosaurs/](https://www.instagram.com/hotdogsanddinosaurs/)
 
-Gallery web page: https://thisgallery.org/project/felicia-fraser-make-believe/
+Gallery web page: [https://thisgallery.org/project/felicia-fraser-make-believe/](https://thisgallery.org/project/felicia-fraser-make-believe/)
 
-Online shop: https://thethisgallery.com/collections/felicia-fraser
+Online shop: [https://thethisgallery.com/collections/felicia-fraser](https://thethisgallery.com/collections/felicia-fraser)
 
 THIS Gallery
 Lower Ground Level

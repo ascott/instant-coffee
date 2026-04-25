@@ -48,4 +48,4 @@ Yactac Gallery
 Vancouver BC V5X 3B7
 
 Twitter: www.twitter.com/yactac
-Facebook: http://www.facebook.com/pages/Yactac/219495644734594
+Facebook: [http://www.facebook.com/pages/Yactac/219495644734594](http://www.facebook.com/pages/Yactac/219495644734594)

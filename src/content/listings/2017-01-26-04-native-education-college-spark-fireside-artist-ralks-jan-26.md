@@ -34,6 +34,6 @@ and 2015 Jessie Award for Monster Theatre's production of The Little Prince. He 
 of the co-founders of the Vancouver International Puppet Festival, which had it's 
 inaugural debut this past October to a resounding success.
 
-For more information about the Spark series, visit http://grunt.ca/spark-fireside-artist-
+For more information about the Spark series, visit [http://grunt.ca/spark-fireside-artist-](http://grunt.ca/spark-fireside-artist-)
 talk-series/ or contact Tarah Hogue, Curator/Communications Director, grunt gallery, at 
 tarah@grunt.ca

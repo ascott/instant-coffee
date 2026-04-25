@@ -19,13 +19,13 @@ Friday, April 30, 2021
 1 PM PST
 
 Please Register for the Live Stream
-(https://us02web.zoom.us/webinar/register/WN_JWOQdIWdTT-LLgEFZeXN0w)
+([https://us02web.zoom.us/webinar/register/WN_JWOQdIWdTT-LLgEFZeXN0w](https://us02web.zoom.us/webinar/register/WN_JWOQdIWdTT-LLgEFZeXN0w))
 
 
 As part of Christina Battle's Fellowship with 221A, titled
 Imagining New Systems of
-Exchange (https://221a.ca/fellows/christina-battle-fellowship), we would like to invite
-you to a talk by Stephanie Wakefield (https://stephaniewakefield.com/) . Throughout
+Exchange ([https://221a.ca/fellows/christina-battle-fellowship](https://221a.ca/fellows/christina-battle-fellowship)), we would like to invite
+you to a talk by Stephanie Wakefield ([https://stephaniewakefield.com/](https://stephaniewakefield.com/)) . Throughout
 Christina's fellowship, we have learned from Wakefields writing, especially their
 articulation of the Back Loop, a concept from ecology that describes the phases of
 release and reorganisation, times of collapse, creative destruction and renewal
@@ -51,7 +51,7 @@ information.
 
 About
 
-221A (http://221a.ca) is a nonprofit organization that works with Artists & Designers to
+221A ([http://221a.ca](http://221a.ca)) is a nonprofit organization that works with Artists & Designers to
 research and develop cultural, social and ecological infrastructure. 221A envisions a
 pluralistic society in which all people have the means to access and make culture.
 

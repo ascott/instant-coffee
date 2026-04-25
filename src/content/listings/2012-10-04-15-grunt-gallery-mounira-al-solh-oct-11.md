@@ -47,7 +47,7 @@ gruntKitchen Media Lab.
 The exhibition will run at grunt gallery from October 11th to November 17th, 
 2012. This exhibition is a part of the Institutions by Artists week; Vancouver 
 artist-run centres and community partners will present special projects that 
-link to the themes of the Convention. (http://arcpost.ca/events/festival)
+link to the themes of the Convention. ([http://arcpost.ca/events/festival](http://arcpost.ca/events/festival))
 
 Bio:
 Mounira Al Solh studied painting at the Lebanese University in Beirut (LB), 
@@ -63,7 +63,7 @@ Galerie Nord, Kunstverein Tiergarten, Berlin; and the 11th International
 Istanbul Biennial in 2009. Her video Rawane's Song received the 2007 jury 
 prize at VideoBrasil. Her video installation As If I Don't Fit There was part of 
 the first Lebanese Pavilion at the Venice Biennale in 2007. 
-(http://www.mouniraalsolh.com)
+([http://www.mouniraalsolh.com](http://www.mouniraalsolh.com))
 
 Grunt is a non-profit society (The Visible Art Society) run by a board of 
 working artists. Our mandate is to maintain a space accessible to artists and 

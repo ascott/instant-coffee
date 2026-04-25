@@ -33,7 +33,7 @@ Zealand, and Canada. She holds a BA in Visual Arts (Vancouver), Human
 Geography (Vancouver) and Urbanism at AHK (Amsterdam). She collaborates
 with writers, musicians, filmmakers and dancers. She often works under the
 name Modern Catalyst, with a focus on designing cross-disciplined artists.
-http://modercatalyst.ca/
+[http://modercatalyst.ca/](http://modercatalyst.ca/)
 
 Ronan K. Nanning-Watson is a filmmaker, writer and artist from British
 Columbia. His work ranges in scope, medium, and aesthetic, but is

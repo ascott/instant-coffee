@@ -112,7 +112,7 @@ several times, "its hard to get in my system."
 01:03 min.)
 
 ADDITIONAL INFO:
-http://www.vivomediaarts.com/syntheticsound-video-screening-from-the-archive/
+[http://www.vivomediaarts.com/syntheticsound-video-screening-from-the-archive/](http://www.vivomediaarts.com/syntheticsound-video-screening-from-the-archive/)
 
 _
 

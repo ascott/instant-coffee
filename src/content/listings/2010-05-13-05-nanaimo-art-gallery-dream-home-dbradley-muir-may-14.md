@@ -27,4 +27,4 @@ continues to explore our relationship with the constructed landscape,
 however, the works focus more closely on the desires of middleclass leisure
 typified through a critical consideration of regional landscapes in
 relation to what has been coined in the past as, Beautiful British Columbia.
-http://www.nanaimoartgallery.com/
+[http://www.nanaimoartgallery.com/](http://www.nanaimoartgallery.com/)

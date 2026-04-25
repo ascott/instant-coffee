@@ -15,25 +15,25 @@ the theme/format of the t-shirt.
 
 Featuring local artists:
 
-Don Pottie > http://donpottie.tumblr.com/
+Don Pottie > [http://donpottie.tumblr.com/](http://donpottie.tumblr.com/)
 
-Kristin Wolf > http://gypsywolfclothing.tumblr.com/
+Kristin Wolf > [http://gypsywolfclothing.tumblr.com/](http://gypsywolfclothing.tumblr.com/)
 
-Marissa Chow > http://www.facebook.com/profile.php?
+Marissa Chow > [http://www.facebook.com/profile.php](http://www.facebook.com/profile.php)?
 id=653485472
 
-Heidi Nagtagaal > http://www.heidi-nagtegaal.com/
+Heidi Nagtagaal > [http://www.heidi-nagtegaal.com/](http://www.heidi-nagtegaal.com/)
 
-Shawna McLellan > http://shawnamariemclellan.tumblr.com/
+Shawna McLellan > [http://shawnamariemclellan.tumblr.com/](http://shawnamariemclellan.tumblr.com/)
 
-Cheyenne Golding > http://www.facebook.com/profile.php?
+Cheyenne Golding > [http://www.facebook.com/profile.php](http://www.facebook.com/profile.php)?
 id=757423153
 
-Heather Martin > http://www.monoclothing.ca/
+Heather Martin > [http://www.monoclothing.ca/](http://www.monoclothing.ca/)
 
-Johnny Kasiuk > http://pussy42.tumblr.com/
+Johnny Kasiuk > [http://pussy42.tumblr.com/](http://pussy42.tumblr.com/)
 
-Aja Rose Bond > http://diademdiscos.wordpress.com/aja-
+Aja Rose Bond > [http://diademdiscos.wordpress.com/aja-](http://diademdiscos.wordpress.com/aja-)
 rose/artworks/
 
 Opening night July 1st, 7:00 pm followed by a dance party with 

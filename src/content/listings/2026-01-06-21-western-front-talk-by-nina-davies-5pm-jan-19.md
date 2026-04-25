@@ -23,4 +23,4 @@ digital platforms, and rethinking dances of today as traditional dances of the f
 between the use of fiction and non-fiction, her work helps build new critical frameworks for
 engaging with dance practices.
 
-To learn more, visit https://westernfront.ca/events/talk-by-nina-davies
+To learn more, visit [https://westernfront.ca/events/talk-by-nina-davies](https://westernfront.ca/events/talk-by-nina-davies)

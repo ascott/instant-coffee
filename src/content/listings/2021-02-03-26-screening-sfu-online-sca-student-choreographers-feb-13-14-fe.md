@@ -11,7 +11,7 @@ summary: "SCREENING | SFU [ONLINE] | SCA Student Choreographers | FEB 13 & 14 | 
 SCA Student Choreographers: In the meantime...
 February 13 & 14, 2021
 | FREE | Vimeo
-https://www.sfu.ca/sca/events---news/events/sca-student-choreographers--in-the-
+[https://www.sfu.ca/sca/events---news/events/sca-student-choreographers--in-the-](https://www.sfu.ca/sca/events---news/events/sca-student-choreographers--in-the-)
 meantime---.html
 
 We are proud to present a two-part show from SCA student choreographers. Amidst a

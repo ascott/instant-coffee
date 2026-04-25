@@ -13,7 +13,7 @@ Thursday, Oct 2 5-8pm
 
 Please join us for the opening celebration of Fireline Kinship by Taylor Baptiste on
 Thursday October 2, 2025. This program is free and open to all. See here for details
-about the celebration: https://orgallery.org/events/fireline-kinship-opening-
+about the celebration: [https://orgallery.org/events/fireline-kinship-opening-](https://orgallery.org/events/fireline-kinship-opening-)
 celebration/
 
 Fireline Kinship by Taylor Baptiste of the Osoyoos Indian Band, and Syilx Okanagan

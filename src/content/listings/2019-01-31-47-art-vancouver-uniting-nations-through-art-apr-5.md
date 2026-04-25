@@ -61,5 +61,5 @@ days of 10th " 16th of April 2019.
 
 For further information about the context please email Bea - bea@artvancouver.net
 For more information about ART VANCOUVER please visit 
-https://www.artvancouver.net/blog/art-vancouver-competition-artist-call-for-participation-
+[https://www.artvancouver.net/blog/art-vancouver-competition-artist-call-for-participation-](https://www.artvancouver.net/blog/art-vancouver-competition-artist-call-for-participation-)
 in-art-contest-uniting-nations-through-art

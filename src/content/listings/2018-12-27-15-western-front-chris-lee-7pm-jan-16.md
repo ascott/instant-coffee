@@ -61,4 +61,4 @@ Pompidou in Paris. He is currently co-guest-editing issue 141 of C magazine on t
 theme of Graphic Design.
 
 Link(s):
-http://cairolexicon.com/
+[http://cairolexicon.com/](http://cairolexicon.com/)

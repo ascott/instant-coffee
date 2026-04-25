@@ -10,7 +10,7 @@ summary: "Papirmasse Postcard Issue | CALL FOR ARTISTS AND WRITERS! | JUL 31"
 
 CALL FOR ARTISTS AND WRITERS! Papirmasse Postcard Issue
 
-Visit http://papirmasse.com/art/?p=1428 for more information.
+Visit [http://papirmasse.com/art/?p=1428](http://papirmasse.com/art/?p=1428) for more information.
 What Did you do on your Summer Vacation?
 
 Deadline: postmarked July 31 2011

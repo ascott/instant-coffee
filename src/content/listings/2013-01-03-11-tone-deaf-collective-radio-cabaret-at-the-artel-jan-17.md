@@ -28,7 +28,7 @@ The Tone Deaf Collective's Art's Birthday Radio Cabaret begins at the Artel at
 8pm and will feature streaming audio and video from celebrations across the 
 globe, along with live performances by local artists Lisa Aalders, 
 Decomposing Pianos, Habits, Fire Moss and AOTH/TOWR. Proceedings will 
-be broadcast on CFRC 101.9fm / http://cfrc.ca. Cake will be served and 
+be broadcast on CFRC 101.9fm / [http://cfrc.ca](http://cfrc.ca). Cake will be served and 
 admission is by donation.
 
 Blow out some candles (and possibly speakers) with us! This event is made 
@@ -43,7 +43,7 @@ info@tone-deaf.org
 
 TONE DEAF COLLECTIVE
 Email: info@tone-deaf.org
-Web: http://tone-deaf.org
+Web: [http://tone-deaf.org](http://tone-deaf.org)
 Twitter: @tonedeaf11
 Facebook: tone deaf kingston
 Tumblr: tonedeafkingston

@@ -12,14 +12,14 @@ DATE: Saturday, March 18th
 TIME: 7-11pm
 PLACE: Lipont Art Centre, 4211 No. 3 Road, Richmond (Aberdeen Station)
 Entrance by donation (suggested $5) Advance tix - 
-https://www.eventbrite.ca/e/converge-lit-art-music-videogames-tickets-
+[https://www.eventbrite.ca/e/converge-lit-art-music-videogames-tickets-](https://www.eventbrite.ca/e/converge-lit-art-music-videogames-tickets-)
 30230301646
 
 ICOAAT (The International Centre of Arts and Technology) icoaat.com presents 
 Converge, a new art, literature, music and videogame event at Lipont Art Centre 
 in Richmond! 
 
-FB Event Page - https://www.facebook.com/events/758882180925779/
+FB Event Page - [https://www.facebook.com/events/758882180925779/](https://www.facebook.com/events/758882180925779/)
 
 Please join us as Dominion Reading Series Lucky #8 goes on the road with ten 
 great writers for the evening: Jane Shi, Danielle LaFrance, Raoul Fernandes, 

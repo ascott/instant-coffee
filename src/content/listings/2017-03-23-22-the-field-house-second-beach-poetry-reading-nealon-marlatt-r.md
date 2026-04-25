@@ -50,6 +50,6 @@ This reading is also in recognition of the poet Jamie Reid, who, along with his 
 partner Carol Reid, organized the initial Human Be-In in the park on March 26, 1967 " 
 almost 50 years to the day of this reading.
 
-http://www.cbc.ca/archives/entry/hippie-youth-vancouvers-human-be-in
+[http://www.cbc.ca/archives/entry/hippie-youth-vancouvers-human-be-in](http://www.cbc.ca/archives/entry/hippie-youth-vancouvers-human-be-in)
 
 Come and be with other humans.

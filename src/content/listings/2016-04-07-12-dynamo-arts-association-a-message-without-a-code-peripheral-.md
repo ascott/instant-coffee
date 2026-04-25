@@ -70,7 +70,7 @@ Vancouver art scene as well as enabling access for both emerging and
 established writers.
 
 If you are interested in submitting for Peripheral Review website follow
-this link: http://peripheralreview.com/contact-ussubmissions/
+this link: [http://peripheralreview.com/contact-ussubmissions/](http://peripheralreview.com/contact-ussubmissions/)
 
 -
 Accessibility info 

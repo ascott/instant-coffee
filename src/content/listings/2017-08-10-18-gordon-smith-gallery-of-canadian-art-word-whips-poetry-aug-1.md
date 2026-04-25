@@ -25,4 +25,4 @@ creative responses to the exhibition. The event is hosted by Fran Bourassa of Pa
 Collective and will feature original poetry by Lindsay Kwan, David Geary, Alan Girling,
 Angela Rebrec, and Timothy Shay.
 
-For more information, please visit our webpage: https://goo.gl/EpdvoC
+For more information, please visit our webpage: [https://goo.gl/EpdvoC](https://goo.gl/EpdvoC)

@@ -13,7 +13,7 @@ Art and Climate Crisis: A Conversation with Sanaz Mazinani, Leigh Joseph (Styawa
 and Glen MacDonald
 Thursday, October 8 | 4:30 PM
 
-Register today at https://bit.ly/32N7Apj!
+Register today at [https://bit.ly/32N7Apj](https://bit.ly/32N7Apj)!
 
 Stay home. Stay safe. Stay connected with our new series of online gatherings, Art
 Connects!
@@ -35,7 +35,7 @@ notes from the future-past" (2018) at Offsite by Diana Freundl, Interim Chief Cu
 and will be moderated by Stephanie Bokenfohr, Public Programs Coordinator. Register
 today at
 
-https://bit.ly/32N7Apj
+[https://bit.ly/32N7Apj](https://bit.ly/32N7Apj)
 
 GET INVOLVED! Submit your questions during the Zoom presentation using the Q&A
 function. You can also engage with panelists and your fellow attendees in the Zoom

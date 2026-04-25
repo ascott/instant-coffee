@@ -11,7 +11,7 @@ summary: "UNIVERSITY OF CALIFORNIA | Visual Arts | seeking MEDIA ARTIST"
 MEDIA ARTIST
 
  UNIVERSITY OF CALIFORNIA, SAN DIEGO - Visual Arts Department
- <http://visarts.ucsd.edu/html/splash.html>http://visarts.ucsd.edu/html/splash.html
+ <[http://visarts.ucsd.edu/html/splash.html](http://visarts.ucsd.edu/html/splash.html)>[http://visarts.ucsd.edu/html/splash.html](http://visarts.ucsd.edu/html/splash.html)
 
 Assistant Professor, tenure-track, to Associate Professor, tenured, beginning July 1, 2008. Rank and salary commensurate with qualifications and experience and based upon UC pay scales. We seek an artist with a significant exhibition record whose work exhibits an in-depth understanding of film, video, and/or installation practice and its relationship to contemporary art and media discourses. UCSD is a research university that actively promotes and supports creative work in media within a broadly interdisciplinary	arts department that includes studio, computing, art history, theory and criticism. Teaching will include both graduate seminars and undergraduate courses, large and small. The candidate will actively participate in the ongoing development of curriculum and facilities. MFA or equivalency and teaching experience required. Applicants are welcome to include in their cover letters a personal statement summarizing teaching experience and leadership efforts and/or contributions to
 diversity
@@ -19,7 +19,7 @@ diversity
 COMPUTER ARTIST
 UNIVERSITY OF CALIFORNIA, SAN DIEGO - Visual Arts Department
 
- http://visarts.ucsd.edu/html/splash.html
+ [http://visarts.ucsd.edu/html/splash.html](http://visarts.ucsd.edu/html/splash.html)
 
  Assistant Professor, tenure-track to Associate Professor, tenured, beginning July 1, 2008. Salary commensurate with qualifications and experience and based upon UC pay scales. We seek an artist with a proven exhibition record whose work exhibits an in-depth understanding of computing and its relationship to contemporary art and its discourses.  UCSD is a research university that actively promotes and supports creative work and advanced research in computing within a broadly interdisciplinary arts department that includes studio, media, and art history, theory and criticism. Opportunities for developing research include grants, state-of-the-art facilities including CRCA (Center for Research in Computing and the Arts), San Diego Supercomputer Center, California Institute for Telecommunications and Information Technology (www.calit2.net), and cross-campus collaborations. Teaching will include both graduate seminars and undergraduate courses, including courses in an Interdisciplinary
 Computing and the Arts Major with the department of Music.
@@ -31,8 +31,8 @@ Adriene Jenik Associate Professor, Computer & Media Arts
 Visual Arts Dept., University of California, San Diego
 9500 Gilman Dr., La Jolla, CA 92093-0084
 tel. 858 822-2059	fax 858 534-7976
-http://www.adrienejenik.net
-http://www.specflic.net
+[http://www.adrienejenik.net](http://www.adrienejenik.net)
+[http://www.specflic.net](http://www.specflic.net)
 
 10. Subletor(s) wanted for Shared Loft Live/Work Studio
 Subletor(s) wanted for Shared Loft Live/Work Studio. $970 plus utilities. Wireless Internet and Hydro (50$ per month average.) We are located on the edge of Downtown and Stathcona near Hastings and Glen @ 1009 east Cordova in a well kept, secure industrial multipurpose zoned building with private entrance.
@@ -52,7 +52,7 @@ Please contact Michael for questions
 
 Pics can be seen at:
 
-http://vancouverclownoatmeal.wordpress.com/
+[http://vancouverclownoatmeal.wordpress.com/](http://vancouverclownoatmeal.wordpress.com/)
 
 Thank you 
 

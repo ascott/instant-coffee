@@ -30,10 +30,10 @@ catching up, which erroneously implies she is behind. She is, and this is
 fortunate for us, an artist out of time.
 
 [continue reading...]
-http://artspeak.cmail1.com/t/j-l-dtctjt-zlkuukki-r/
+[http://artspeak.cmail1.com/t/j-l-dtctjt-zlkuukki-r/](http://artspeak.cmail1.com/t/j-l-dtctjt-zlkuukki-r/)
 
 Artspeak,
 233 Carrall Street
 Vancouver, BC, V6B 2J2
 Tuesday–Saturday, 12–5pm
-http://artspeak.ca
+[http://artspeak.ca](http://artspeak.ca)

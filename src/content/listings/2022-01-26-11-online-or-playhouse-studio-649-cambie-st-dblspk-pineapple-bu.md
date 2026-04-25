@@ -35,4 +35,4 @@ A free public showing of a 20-minute excerpt will be held on January 29th, 4 p.m
 Playhouse Studio, and there will be a post-show discussion after the performance.
 
 Register for free in-person/online ticket here:
-https://riceandbeanstheatre.com/pineapplebun
+[https://riceandbeanstheatre.com/pineapplebun](https://riceandbeanstheatre.com/pineapplebun)

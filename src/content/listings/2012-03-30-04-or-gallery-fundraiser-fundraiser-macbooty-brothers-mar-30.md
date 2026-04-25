@@ -18,7 +18,7 @@ Please call 604 683 7395 for more information!
 
 Limited tickets available! Buy online!
 To order tickets online, please visit 
-http://www.orgallery.org/scotchtasting
+[http://www.orgallery.org/scotchtasting](http://www.orgallery.org/scotchtasting)
 
 The Or Gallery and Friends of the Or Gallery present as tasting of 
 premium single malt whiskies, with accompanying elucidation and 

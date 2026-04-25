@@ -25,4 +25,4 @@ exhibition opportunities.
 Applications for Visual and Performing Outsider Artists Open Now thru May 31, 2021.
 
 For more info and to apply please visit
-http://www.cacv.ca/vancouver-outsider-arts-festival-2021/
+[http://www.cacv.ca/vancouver-outsider-arts-festival-2021/](http://www.cacv.ca/vancouver-outsider-arts-festival-2021/)

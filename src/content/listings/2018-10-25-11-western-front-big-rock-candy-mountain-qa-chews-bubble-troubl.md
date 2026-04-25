@@ -68,6 +68,6 @@ Program. Big Rock Candy Mountain is supported by Other Sights For Artists Projec
 with additional support from the British Columbia Arts Council and the Vancouver School 
 Board.
 
-https://www.facebook.com/events/267836397203659/
+[https://www.facebook.com/events/267836397203659/](https://www.facebook.com/events/267836397203659/)
 
-https://www.facebook.com/events/2167516623571456/
+[https://www.facebook.com/events/2167516623571456/](https://www.facebook.com/events/2167516623571456/)

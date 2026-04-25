@@ -10,7 +10,7 @@ summary: "[ONLINE] SFU | Dylan Robinson: On Listening Positionality | 12PM | FEB
 
 Dylan Robinson: On Listening Positionality
 February 24, 2021 | 12:00 PM " 1:00 PM (PST) | Free | Zoom
-RSVP LINK: https://www.sfu.ca/sca/events---news/events/dylan-robinson--on-listening-
+RSVP LINK: [https://www.sfu.ca/sca/events---news/events/dylan-robinson--on-listening-](https://www.sfu.ca/sca/events---news/events/dylan-robinson--on-listening-)
 positionality.html
 How do we see, hear, and sense the materialization of colonialism in institutional and more
 quotidian daily structures of relation? Within the context of settler colonialism, perception is

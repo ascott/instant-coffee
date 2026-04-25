@@ -28,4 +28,4 @@ Between the jackets, they will also be working on various drawing projects, prep
 sketches and inking pages for an upcoming comic anthology centred around mental
 health and assembling adjacent zine projects.
 
-FMI: https://www.openspace.ca/programming/guest-house-residency-whess-harman
+FMI: [https://www.openspace.ca/programming/guest-house-residency-whess-harman](https://www.openspace.ca/programming/guest-house-residency-whess-harman)

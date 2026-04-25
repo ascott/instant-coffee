@@ -24,4 +24,4 @@ GALLERY HOURS: Wed - Sat, 12 - 6 PM
 Performances are pay-what-you-choose tickets at $10/$20/$30.
 
 Tickets available here:
-https://www.zeffy.com/en-CA/ticketing/technicowlour
+[https://www.zeffy.com/en-CA/ticketing/technicowlour](https://www.zeffy.com/en-CA/ticketing/technicowlour)

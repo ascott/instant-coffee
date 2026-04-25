@@ -36,4 +36,4 @@ Join us on Thursday, January 25th, for the screening and a conversation.
 
 Please check our website for more info:
 
-https://www.vivomediaarts.com/programming/korespandens
+[https://www.vivomediaarts.com/programming/korespandens](https://www.vivomediaarts.com/programming/korespandens)

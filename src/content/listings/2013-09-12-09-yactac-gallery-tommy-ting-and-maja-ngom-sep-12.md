@@ -44,12 +44,12 @@ September 2013. Ngom is studying MA Photography at the Royal College of
 Arts in London, UK.
 
 Unearthly Waters is part of SWARM 2013
-http://www.paarc.ca/swarm14/events-2
+[http://www.paarc.ca/swarm14/events-2](http://www.paarc.ca/swarm14/events-2)
 
 Yactac Gallery
 7206 Ontario Street (@ E 56th) 
 Vancouver BC V5X 3B7
 yactacgallery@gmail.com
-http://www.yactac.com
-http://www.twitter.com/yactac
-http://www.facebook.com/Yactac
+[http://www.yactac.com](http://www.yactac.com)
+[http://www.twitter.com/yactac](http://www.twitter.com/yactac)
+[http://www.facebook.com/Yactac](http://www.facebook.com/Yactac)

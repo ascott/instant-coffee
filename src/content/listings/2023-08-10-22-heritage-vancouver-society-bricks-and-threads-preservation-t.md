@@ -10,7 +10,7 @@ summary: "Heritage Vancouver Society | Bricks and Threads: Preservation, Transfo
 
 Bricks and Threads: Preservation, Transformation and Contestation
 Saturday, August 19 10:00 AM - 12:00 PM PDT
-https://www.eventbrite.ca/e/bricks-and-threads-preservation-transformation-and-
+[https://www.eventbrite.ca/e/bricks-and-threads-preservation-transformation-and-](https://www.eventbrite.ca/e/bricks-and-threads-preservation-transformation-and-)
 contestation-tickets-689705356287?aff=oddtdtcreator
 Location
 To be announced
@@ -41,7 +41,7 @@ Wed, Aug 23, 2023 5:30 PM - 7:30 PM PDT
 Location
 To be announced
 
-https://www.eventbrite.ca/e/the-era-of-heritage-and-megaprojects-tickets-
+[https://www.eventbrite.ca/e/the-era-of-heritage-and-megaprojects-tickets-](https://www.eventbrite.ca/e/the-era-of-heritage-and-megaprojects-tickets-)
 689728345047?aff=oddtdtcreator
 
 On this tour, we will be looking at heritage and historic buildings in the era of

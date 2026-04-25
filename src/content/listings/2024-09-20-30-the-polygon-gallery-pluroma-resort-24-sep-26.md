@@ -25,7 +25,7 @@ Special music performance by Sophia Stel.
 Outdoor performance at 8pm
 Runway show starts at 9pm
 Purchase tickets here:
-https://store.thepolygon.ca/products/pluroma
+[https://store.thepolygon.ca/products/pluroma](https://store.thepolygon.ca/products/pluroma)
 About Liquidation World
 Liquidation World is an art collective formed in 2021 with the intention of producing
 and showcasing experimental artworks and performances. Projects the collective

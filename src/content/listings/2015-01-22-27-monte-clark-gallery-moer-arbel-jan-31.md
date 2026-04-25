@@ -56,4 +56,4 @@ House (London) and a public space in Vancouver’s downtown core.
 MONTE CLARK GALLERY
 105, 525 Great Northern Way
 Vancouver, BC V5T 1E1
-http://monteclarkgallery.com
+[http://monteclarkgallery.com](http://monteclarkgallery.com)

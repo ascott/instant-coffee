@@ -51,4 +51,4 @@ products)
 
 Sharing Science is a UBC AMS club dedicated to promoting understanding and
 appreciation of science across disciplines. Learn more:
-http://ubcsharingscience.org
+[http://ubcsharingscience.org](http://ubcsharingscience.org)

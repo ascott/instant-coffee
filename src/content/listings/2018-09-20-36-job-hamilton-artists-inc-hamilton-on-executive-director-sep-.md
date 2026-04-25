@@ -89,4 +89,4 @@ board@theinc.ca with Executive Director Applicant in the subject line by
 contacted by October 3rd.)
 
 For full job description and more details please visit:
-http://www.theinc.ca/job-opportunity-executive-director/
+[http://www.theinc.ca/job-opportunity-executive-director/](http://www.theinc.ca/job-opportunity-executive-director/)

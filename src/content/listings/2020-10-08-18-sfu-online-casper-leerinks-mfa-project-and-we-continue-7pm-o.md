@@ -8,7 +8,7 @@ venue: "SFU [ONLINE]"
 summary: "SFU [ONLINE] | Casper Leerink's MFA Project: and we continue | 7PM | OCT 15"
 ---
 
-Access link: https://and-we-continue.herokuapp.com/
+Access link: [https://and-we-continue.herokuapp.com/](https://and-we-continue.herokuapp.com/)
 
 October 15 @ 7PM
 October 16 @ 11AM

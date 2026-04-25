@@ -83,7 +83,7 @@ Amenities include:
 - Alarmed
 - prices starting at $245
 
-http://www.thephoenixgallery.ca
+[http://www.thephoenixgallery.ca](http://www.thephoenixgallery.ca)
 
 2.
 

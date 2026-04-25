@@ -64,4 +64,4 @@ we’re old hats in school, we’re pretty fresh meat out here in this
 rocky/wooded/prairie/desert home and native land. We will continue. We will
 show you our make and measure. And then we will go to fucking Hawaii.
 
-http://www.facebook.com/event.php?eid=217016511660351
+[http://www.facebook.com/event.php?eid=217016511660351](http://www.facebook.com/event.php?eid=217016511660351)

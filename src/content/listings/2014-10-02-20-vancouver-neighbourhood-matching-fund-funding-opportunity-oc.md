@@ -24,17 +24,17 @@ Application deadlines: April 15 and October 15
 
 Find program guidelines and the online application in the Apply for funding
 by visiting:
-http://vancouver.ca/people-programs/neighbourhood-matching-fund.aspx
+[http://vancouver.ca/people-programs/neighbourhood-matching-fund.aspx](http://vancouver.ca/people-programs/neighbourhood-matching-fund.aspx)
 [X]
 CULTURAL SERVICES
-Visit us online: http://vancouver.ca/culture
+Visit us online: [http://vancouver.ca/culture](http://vancouver.ca/culture)
 Like us on Facebook:
-facebook.com/vanculture<https://www.facebook.com/vanculture>
-Follow us on Twitter: @VanCultureBC<http://twitter.com/VanCultureBC>
-Peruse the Public Art Archive: http://ourcityourart.wordpress.com/
+facebook.com/vanculture<[https://www.facebook.com/vanculture](https://www.facebook.com/vanculture)>
+Follow us on Twitter: @VanCultureBC<[http://twitter.com/VanCultureBC](http://twitter.com/VanCultureBC)>
+Peruse the Public Art Archive: [http://ourcityourart.wordpress.com/](http://ourcityourart.wordpress.com/)
 
 Subscribe to the
-listserv<http://vancouver.ca/parks-recreation-culture/subscribe-to-an-arts-and-culture-mailing-list.aspx>
+listserv<[http://vancouver.ca/parks-recreation-culture/subscribe-to-an-arts-and-culture-mailing-list.aspx](http://vancouver.ca/parks-recreation-culture/subscribe-to-an-arts-and-culture-mailing-list.aspx)>
 to receive notifications of cultural news & opportunities
 
 You're receiving this email because you are subscribed to our newsletter

@@ -22,4 +22,4 @@ grappling with the issues revealed
 by the COVID-19 pandemic. Emerging artists and
 those new to working in the public realm are encouraged to apply.
 
-Learn more: https://vancouver.ca/parks-recreation-culture/platforms-public-works.aspx
+Learn more: [https://vancouver.ca/parks-recreation-culture/platforms-public-works.aspx](https://vancouver.ca/parks-recreation-culture/platforms-public-works.aspx)

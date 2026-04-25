@@ -35,4 +35,4 @@ What We Hold Close will present a range of perspectives, stimulating conversatio
 around belonging, memory, and identity.
 
 Deadline to submit artwork is Thursday, October 30,2025 at 5pm PST
-Submit here: https://form-can.keela.co/what-we-hold-close-open-call-for-artwork
+Submit here: [https://form-can.keela.co/what-we-hold-close-open-call-for-artwork](https://form-can.keela.co/what-we-hold-close-open-call-for-artwork)

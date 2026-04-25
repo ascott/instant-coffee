@@ -28,4 +28,4 @@ educator within the Canadian art community. Mackenzie has been on the
 faculty of the Emily Carr Institute of Art + Design in Vancouver since 1986
 and has studios in Vancouver and Prince Edward Island.
 
-http://www.landonmackenzie.com/
+[http://www.landonmackenzie.com/](http://www.landonmackenzie.com/)

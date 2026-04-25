@@ -20,7 +20,7 @@ The series will also delve into Western Fronts archives, unearthing recordings o
 early years, with raw, unedited sound files. 
 
 More information on the Listening Party here:
-https://front.bc.ca/events/listening-party/
+[https://front.bc.ca/events/listening-party/](https://front.bc.ca/events/listening-party/)
 
 Western Front New Music gratefully acknowledges the support of our funders, sponsors and 
 partners:

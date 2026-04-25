@@ -19,7 +19,7 @@ and includes admission to Lee Miller: A Photographer at Work (1932 " 1945).
 
 RSVPs are helpful
 
-RSVP here: https://thepolygon.ca/event/lee-film-screening/
+RSVP here: [https://thepolygon.ca/event/lee-film-screening/](https://thepolygon.ca/event/lee-film-screening/)
 
 Oscar winner Kate Winslet stars in this fascinating portrait of Lee Miller, whose
 singular talent and ferocious tenacity gave us some of the 20th centurys most

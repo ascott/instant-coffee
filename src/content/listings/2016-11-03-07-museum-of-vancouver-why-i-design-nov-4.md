@@ -23,4 +23,4 @@ Alinker about their three-wheeled walking bike designed to help people stay acti
 Tickets: Adults: $18.00 in advance, $23.00 at the door; Members/Students: $15.00 
 in advance, $20.00 at the door. 
 
-http://museumofvancouver.ca/wid2016
+[http://museumofvancouver.ca/wid2016](http://museumofvancouver.ca/wid2016)

@@ -23,7 +23,7 @@ workshop and must be picked up 2 weeks after the class.
 
 With support from The Clay Warehouse
 
-Register here: https://evergreenculturalcentre.my.salesforce-
+Register here: [https://evergreenculturalcentre.my.salesforce-](https://evergreenculturalcentre.my.salesforce-)
 sites.com/ticket/#/events/a0SOK000000qIvZ2AU
 
 About the Artist:

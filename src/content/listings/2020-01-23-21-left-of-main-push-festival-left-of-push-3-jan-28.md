@@ -13,8 +13,8 @@ January 28, 29, 30 > 5pm + February 6 > 9:30pm + February 7 > 5pm
 Left of Main, 211 Keefer Street, Historic Chinatown
 Tickets on a sliding scale $15-$25 **capacity is limited, advanced reservation is
 recommended**
-https://squareup.com/store/plastic-orchid-factory
-More info: http://www.plasticorchidfactory.com
+[https://squareup.com/store/plastic-orchid-factory](https://squareup.com/store/plastic-orchid-factory)
+More info: [http://www.plasticorchidfactory.com](http://www.plasticorchidfactory.com)
 
 A platform for experiments-in-process showing during the PuSh International Performing
 Arts Festival. Now in its 3rd incarnation, Left of PuSh #3 offers 3 mixed bills by local and
@@ -71,7 +71,7 @@ Left of PuSh was designed with a self-curated PuSh experience in mind. We encour
 you to check out PuSh Festival's offerings and make a whole day of it. One needs to
 stay out of the rain somehow!
 
-A plastic orchid factory initiative. http://www.plasticorchidfactory.com
+A plastic orchid factory initiative. [http://www.plasticorchidfactory.com](http://www.plasticorchidfactory.com)
 
 2019/20 Season
 Announced!

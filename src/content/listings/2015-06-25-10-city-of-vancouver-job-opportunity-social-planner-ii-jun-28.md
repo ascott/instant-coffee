@@ -31,4 +31,4 @@ public.
 
 For more information and how to apply: Job Posting - Social Planner II
 (Signature Projects Site
-Planner)<https://vanfep.city.vancouver.bc.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTU4MTBDMjlEQjU1MDY4MEUxMDA4MDAwQUMxQTAzODUmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=453&sap-language=EN>
+Planner)<[https://vanfep.city.vancouver.bc.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTU4MTBDMjlEQjU1MDY4MEUxMDA4MDAwQUMxQTAzODUmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=453&sap-language=EN](https://vanfep.city.vancouver.bc.ca/sap/bc/webdynpro/sap/hrrcf_a_posting_apply?PARAM=cG9zdF9pbnN0X2d1aWQ9NTU4MTBDMjlEQjU1MDY4MEUxMDA4MDAwQUMxQTAzODUmY2FuZF90eXBlPUVYVA%3d%3d&sap-client=453&sap-language=EN)>

@@ -49,7 +49,7 @@ Fee: $ 185
 
 Please click here to register:
 
-https://www.newleafeditions.com/tickets-checkout/?tec-tc-cookie=6j9Li4vchrE4
+[https://www.newleafeditions.com/tickets-checkout/?tec-tc-cookie=6j9Li4vchrE4](https://www.newleafeditions.com/tickets-checkout/?tec-tc-cookie=6j9Li4vchrE4)
 
 New Leaf Editions
 Tel/Fax: 604-689-9918

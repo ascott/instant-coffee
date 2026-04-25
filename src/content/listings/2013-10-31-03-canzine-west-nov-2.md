@@ -32,4 +32,4 @@ first served.
 The winner of the pitch gets bragging rights and a Broken Pencil prize pack 
 worth $200
 To learn more about this year’s Canzine West please visit: 
-http://www.brokenpencil.com/canzine-vancouver
+[http://www.brokenpencil.com/canzine-vancouver](http://www.brokenpencil.com/canzine-vancouver)

@@ -11,13 +11,13 @@ summary: "Positive Negative Gallery | Kuh Del Rosario | JAN 17"
 Stuffed & Hung
 New works by Kuh Del Rosario
 
-@Positive Negative Gallery http://www.positivenegativegallery.com/STUFFED-
+@Positive Negative Gallery [http://www.positivenegativegallery.com/STUFFED-](http://www.positivenegativegallery.com/STUFFED-)
 HUNG
 436 Columbia Street Vancouver, BC
 Exhibition Runs from Jan18-Feb2 1pm-4pm
 
 Opening Reception Thursday, January 17, 2013 7pm-11pm
-http://www.facebook.com/events/401333013282203/
+[http://www.facebook.com/events/401333013282203/](http://www.facebook.com/events/401333013282203/)
 
 Stuffed and Hung features new sculptural works by Kuh Del Rosario. 
 Constructed from a variety of found objects and salvaged materials, Del 

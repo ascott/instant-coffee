@@ -25,9 +25,9 @@ this day, it remains profoundly unique; in it’s inimitably eerie sound and its
 uncanny physical presence—as an instrument played gesturally without actually 
 being touched. Whilst it is antique, it still holds a place in our future imaginary.
 
-http://www.youtube.com/watch?v=w5qf9O6c20o
-http://www.youtube.com/watch?v=3i2oW5PwAOQ
-http://www.youtube.com/watch?v=7JYF7cwW_cE
+[http://www.youtube.com/watch?v=w5qf9O6c20o](http://www.youtube.com/watch?v=w5qf9O6c20o)
+[http://www.youtube.com/watch?v=3i2oW5PwAOQ](http://www.youtube.com/watch?v=3i2oW5PwAOQ)
+[http://www.youtube.com/watch?v=7JYF7cwW_cE](http://www.youtube.com/watch?v=7JYF7cwW_cE)
 
 THE WORKSHOP
 Participants will build their own Theremins to take home, experiment with the 
@@ -41,7 +41,7 @@ to explore – you are welcome!
 
 TECHNICAL INFO
 We are going to work with PAiA Theremax kits 
-<http://www.paia.com/theremax.asp> that have a wide range of controls (Pitch, 
+<[http://www.paia.com/theremax.asp](http://www.paia.com/theremax.asp)> that have a wide range of controls (Pitch, 
 Volume, Velocity) and Gate/Trigger outputs for use with other gear and external 
 filters and processors. A rather complex instrument, it takes a long time to build, 
 but then you've got yourself a Real Theremin! The participants will also build 
@@ -49,9 +49,9 @@ their own theremin enclosures. The PAiA Theremax kits will be provided in the
 workshop, for the cost of $170 (including taxes and shipping).
 
 Examples of the PAiA Theremax use:
-http://www.youtube.com/watch?v=N152NNvVK3w - with synthesizer
-http://www.youtube.com/watch?v=vPjew1S9qkw&NR=1 - with MIDI interface
-http://www.youtube.com/watch?v=Ag9alU2MfKA - with laptop & Pd
+[http://www.youtube.com/watch?v=N152NNvVK3w](http://www.youtube.com/watch?v=N152NNvVK3w) - with synthesizer
+[http://www.youtube.com/watch?v=vPjew1S9qkw&NR=1](http://www.youtube.com/watch?v=vPjew1S9qkw&NR=1) - with MIDI interface
+[http://www.youtube.com/watch?v=Ag9alU2MfKA](http://www.youtube.com/watch?v=Ag9alU2MfKA) - with laptop & Pd
 
 SCHEDULE
 Wed November 2, 6-9 pm

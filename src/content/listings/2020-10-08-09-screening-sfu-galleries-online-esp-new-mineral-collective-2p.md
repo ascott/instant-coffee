@@ -13,7 +13,7 @@ SAT, OCT 10 / 2PM PDT
 Presented on Zoom
 Registration required
 
-https://www.eventbrite.com/e/esp-new-mineral-collective-tickets-120465079295?
+[https://www.eventbrite.com/e/esp-new-mineral-collective-tickets-120465079295](https://www.eventbrite.com/e/esp-new-mineral-collective-tickets-120465079295)?
 aff=ebdssbonlinesearch&utm_source=Email_marketing&utm_campaign=Wednesday_
 October_30_2019_-_1&cmp=1&utm_medium=HTMLEmail
 

@@ -16,7 +16,7 @@ Museum is an installation that plays with the conventions of museum
 display, yet eludes them by continually changing shape through a series of
 performances and interventions by the artist, who makes visible the Tahltan
 knowledge that guides him. It is organized by the Museum of Anthropology.
-READ MORE http://satellitegallery.ca/events.html
+READ MORE [http://satellitegallery.ca/events.html](http://satellitegallery.ca/events.html)
 
 If you are unable to attend, the event will be streamed live online.
 Contact us at 604-681-8425 or info@satellitegallery.ca for details.

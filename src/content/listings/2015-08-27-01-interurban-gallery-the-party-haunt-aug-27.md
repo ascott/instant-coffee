@@ -85,11 +85,11 @@ The Party
 
 9pm (djs)
 // Big Bird aka Ramzi
-https://soundcloud.com/phoebeguillemot/lm061-ramzi-presents-big-
+[https://soundcloud.com/phoebeguillemot/lm061-ramzi-presents-big-](https://soundcloud.com/phoebeguillemot/lm061-ramzi-presents-big-)
 bird-mix
 // TEEN SPIRIT
 
 HAUNT is a non-profit arts platform that embraces inventive and
 transitory venues, producing exhibitions, performances, special
 projects and public events in Western Canada and beyond.
-http://www.hauntgallery.ca/
+[http://www.hauntgallery.ca/](http://www.hauntgallery.ca/)

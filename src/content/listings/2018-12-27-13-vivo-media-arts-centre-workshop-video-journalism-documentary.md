@@ -13,7 +13,7 @@ Perspectives | JAN 15
 
 Video Journalism + Documentary Perspectives
 
-SIGN UP & MORE INFO: https://videojournalism-
+SIGN UP & MORE INFO: [https://videojournalism-](https://videojournalism-)
 documentaryperspectives.eventbrite.ca/
 
 3 sessions, 9 hours total // $117, or $85 with any VIVO Producer Membership 
@@ -31,4 +31,4 @@ and fact checking, and building trust with interview subjects. Participants may 
 VIVOs video cameras, or bring their own.
 
 One Extended Subsidy is available for this workshop:
-https://goo.gl/forms/U2c4KSRNEk6LM7GX2
+[https://goo.gl/forms/U2c4KSRNEk6LM7GX2](https://goo.gl/forms/U2c4KSRNEk6LM7GX2)

@@ -53,7 +53,7 @@ Craft Parlour Application by Oct 6, 2023 at 11:59 p.m. PDT. Successful
 applicants
 will be notified by Oct 13, 2023.
 
-For more information visit: https://westernfront.ca/announcements/call-for-
+For more information visit: [https://westernfront.ca/announcements/call-for-](https://westernfront.ca/announcements/call-for-)
 participants
 
 Presented with the support of Peripheral Review.

@@ -37,4 +37,4 @@ Following the June 25th Deadline, notified participants will then have until Jul
 aside from your cost to ship your work once selected. Bric-à-brac studio will 
 cover the cost of returning to you a new work.
 
-Blog: http://bric-a-brac-studio.tumblr.com
+Blog: [http://bric-a-brac-studio.tumblr.com](http://bric-a-brac-studio.tumblr.com)

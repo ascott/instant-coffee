@@ -11,5 +11,5 @@ summary: "Outsiders and Others | Other Ways of Knowing | MAR 31"
 Call for BC artists with lived experience with mental health +/- or substance use issues.
 
 Deadline to apply: March 31st. Artists will be notified of the curators decision by April 8th.
-Please visit https://www.outsidersandothers.com/news for more details about the call
+Please visit [https://www.outsidersandothers.com/news](https://www.outsidersandothers.com/news) for more details about the call
 and how to apply.

@@ -20,4 +20,4 @@ poems from (old) song lyrics that bear no visible relationship to their source.
 Participants are asked to bring to class the lyrics of between three to five songs of their
 choosing (preferably popular songs from the 1950s to the present).
 $45
-https://www.mobil-art.ca/event-info/poetry-workshop-with-michael-turner
+[https://www.mobil-art.ca/event-info/poetry-workshop-with-michael-turner](https://www.mobil-art.ca/event-info/poetry-workshop-with-michael-turner)

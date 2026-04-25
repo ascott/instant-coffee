@@ -29,7 +29,7 @@ Reserve at: communications@carfac.ca or call 604-681-3535 ext 208.
 Pre-registration is required. 
 
 Martha Rans is the Legal Director of the Artists Legal Outreach program of the Alliance for Arts 
-and Culture (http://www.allianceforarts.com/artists-legal-outreach.html). She has been practicing
+and Culture ([http://www.allianceforarts.com/artists-legal-outreach.html](http://www.allianceforarts.com/artists-legal-outreach.html)). She has been practicing
 law in British Columbia since 1997, and works extensively with arts organizations, not-for-profit
 societies and visual artists. 
 

@@ -29,6 +29,6 @@ TouchDesigner visuals. Thank you for tuning in.
 Live-chat will be
 enabled if you would like to say Hello.
 
-Tune-in here, https://youtu.be/pWucG3jYtmo
+Tune-in here, [https://youtu.be/pWucG3jYtmo](https://youtu.be/pWucG3jYtmo)
 www.nanotopia.net
 @nanotopia_net

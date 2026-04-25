@@ -52,5 +52,5 @@ To attend the artist talks, meet just outside the entrance to the
 garden near the bicycle racks and totem poles. Admission is charged to
 enter the garden.
 
-Please visit http://www.secondsitecollective.net/ for more details.
-http://http://www.secondsitecollective.net/
+Please visit [http://www.secondsitecollective.net/](http://www.secondsitecollective.net/) for more details.
+[http://http://www.secondsitecollective.net/](http://http://www.secondsitecollective.net/)

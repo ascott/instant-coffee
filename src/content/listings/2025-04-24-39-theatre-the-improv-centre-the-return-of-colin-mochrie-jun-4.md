@@ -49,6 +49,6 @@ general public on Thursday, April 24 at 10am PT at www.theimprovcentre.ca. TIC
 newsletter subscribers will have access to presale tickets and VIP meet and greet
 packages on Wednesday, April 23 at 10am PT.
 
-Media can download publicity images at https://tinyurl.com/2h5mz3uc.
+Media can download publicity images at [https://tinyurl.com/2h5mz3uc](https://tinyurl.com/2h5mz3uc).
 
 For more information on The Improv Centre, please visit www.theimprovcentre.ca

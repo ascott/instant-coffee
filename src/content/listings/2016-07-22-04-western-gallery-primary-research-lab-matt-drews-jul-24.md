@@ -54,7 +54,7 @@ Weekly tours, performances, events, lectures and screenings will
 be scheduled for this space to create a dynamic environment to 
 engage with this survey. For more information about these weekly 
 events please contact the gallery or visit the website. 
-http://westerngallery.wwu.edu/primaryresearchlab.shtml
+[http://westerngallery.wwu.edu/primaryresearchlab.shtml](http://westerngallery.wwu.edu/primaryresearchlab.shtml)
 
 Western Gallery
 Western Washington University

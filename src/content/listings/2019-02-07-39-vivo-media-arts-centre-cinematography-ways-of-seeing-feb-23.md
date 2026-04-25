@@ -11,7 +11,7 @@ summary: "VIVO Media Arts Centre | Cinematography: Ways of Seeing | FEB 23"
 Cinematography: Ways of Seeing
 
 SIGN UP & MORE INFO: 
-https://cinemat-devan.eventbrite.ca/
+[https://cinemat-devan.eventbrite.ca/](https://cinemat-devan.eventbrite.ca/)
 
 Ignite your own visual storytelling style with cinematographer Devan Scott!
 
@@ -25,4 +25,4 @@ Session 1: Sat, Feb 23, 12pm-6pm
 Session 2: Sun, Feb 24, 12pm-6pm
 
 One extended subsidy for this workshop available:
-https://goo.gl/forms/Sfpqz2Agn50vE1Rm2
+[https://goo.gl/forms/Sfpqz2Agn50vE1Rm2](https://goo.gl/forms/Sfpqz2Agn50vE1Rm2)

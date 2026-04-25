@@ -36,7 +36,7 @@ the body located within these produced spaces become part of this fractured
 landscape of memory, where the body is also a snapshot, existing in relation 
 to our constructed domesticity. 
 
-http://www.serrahrussell.com/
+[http://www.serrahrussell.com/](http://www.serrahrussell.com/)
 
 __________________________________________________________
 
@@ -68,11 +68,11 @@ work. People are the main driving force behind her photographs. With the
 majority of her work stemming from a personal place, she finds inspiration 
 from the individuals closest to her.
 
-http://www.laurendzbarsky.com/
+[http://www.laurendzbarsky.com/](http://www.laurendzbarsky.com/)
 
 --
 The Gam Gallery
 110 E Hastings St. Vancouver BC, Canada, V6A 1N4
 thegam@live.com
-http://www.gamgallery.com
+[http://www.gamgallery.com](http://www.gamgallery.com)
 Fri & Sat 1 - 5 pm and by appointment

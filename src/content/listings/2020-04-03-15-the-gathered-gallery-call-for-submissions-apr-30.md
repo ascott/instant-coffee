@@ -25,4 +25,4 @@ the discovery of unique contemporary practices, and creates opportunities for ga
 perspectives. The Gathered Gallery aims to contribute to the Canadian and International art
 communities and add its voice to the conversation surrounding contemporary art practices.
 
-https://www.thegatheredgallery.com/submit
+[https://www.thegatheredgallery.com/submit](https://www.thegatheredgallery.com/submit)

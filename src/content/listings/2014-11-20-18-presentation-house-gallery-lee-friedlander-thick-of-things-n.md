@@ -53,4 +53,4 @@ Presentation House Gallery
 333 Chesterfield Avenue
 North Vancouver, British Columbia
 T: 604.986.1351
-http://presentationhousegallery.org
+[http://presentationhousegallery.org](http://presentationhousegallery.org)

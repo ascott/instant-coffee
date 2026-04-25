@@ -16,7 +16,7 @@ Sarphatistraat 470
 1018 GW AMSTERDAM
 The Netherlands
 
-http://www.rijksakademie.nl
+[http://www.rijksakademie.nl](http://www.rijksakademie.nl)
 
 The Rijksakademie Residency in Amsterdam is an international research and
 production place for emerging, professional artists from all continents.
@@ -44,4 +44,4 @@ Each year approximately twenty-five artists are invited for a residency.
 Artists can apply for a residency from January to December 2010 by using
 the online application form. The deadline for application is 1 February 2009.
 
-Information: http://www.rijksakademie.nl
+Information: [http://www.rijksakademie.nl](http://www.rijksakademie.nl)

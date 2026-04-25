@@ -95,5 +95,5 @@ Number of participants is limited to 10.
 
 Registration deadline: April 13, 2012
 
-http://www.vivomediaarts.com/education/workshops/slab-6-expanding-
+[http://www.vivomediaarts.com/education/workshops/slab-6-expanding-](http://www.vivomediaarts.com/education/workshops/slab-6-expanding-)
 theremin

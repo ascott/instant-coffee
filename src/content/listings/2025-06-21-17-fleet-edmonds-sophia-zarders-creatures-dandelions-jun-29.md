@@ -41,4 +41,4 @@ currently resides in the unceded, ancestral land of the Musqueam, Squamish, and
 Tsleil-Waututh peoples (Vancouver, British Columbia) and teaches at Emily Carr
 University of Art + Design and Langara College.
 
-https://www.fleetstudios.org/program/creatures-dandelions
+[https://www.fleetstudios.org/program/creatures-dandelions](https://www.fleetstudios.org/program/creatures-dandelions)

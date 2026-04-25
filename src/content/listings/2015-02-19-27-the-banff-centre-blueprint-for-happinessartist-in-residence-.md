@@ -13,7 +13,7 @@ Banff Centre
 Program dates: July 13, 2015 - August 21, 2015
 Application deadline: March 4, 2015
 
-http://www.banffcentre.ca/programs/program.aspx?id=1563
+[http://www.banffcentre.ca/programs/program.aspx?id=1563](http://www.banffcentre.ca/programs/program.aspx?id=1563)
 
 Blueprint for Happiness is a residency for artists engaged in exploring
 creative practice outside of the gallery and in the public realm. In this
@@ -24,7 +24,7 @@ CALL | Banff Artist in Residence Summer | Visual Arts at The Banff Centre
 Program dates: July 13, 2015 - August 21, 2015
 Application deadline: March 4, 2015
 
-http://www.banffcentre.ca/programs/program.aspx?id=1560
+[http://www.banffcentre.ca/programs/program.aspx?id=1560](http://www.banffcentre.ca/programs/program.aspx?id=1560)
 
 Be surrounded by a community of artistic peers, attend inspiring talks and
 performances by world-renowned visiting artists, and enjoy a spectacular

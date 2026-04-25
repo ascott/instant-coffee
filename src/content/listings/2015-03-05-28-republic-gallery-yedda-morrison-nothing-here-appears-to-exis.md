@@ -43,4 +43,4 @@ Bay Area.
 
 Republic Gallery
 Tel: 604-632-1590
-http://republicgallery.com
+[http://republicgallery.com](http://republicgallery.com)

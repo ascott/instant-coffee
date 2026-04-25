@@ -43,4 +43,4 @@ FREE!
 
 Looking forward to playing for you & yours again soon,
 jeremy (& rob & nat)
-http://paydaymillionaire.com
+[http://paydaymillionaire.com](http://paydaymillionaire.com)

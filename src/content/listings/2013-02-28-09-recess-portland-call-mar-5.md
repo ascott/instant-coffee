@@ -22,7 +22,7 @@ Thank You,
 Tori Abernathy
 Director/Co-curator
 RECESS
-http://recessart.com
+[http://recessart.com](http://recessart.com)
 
 /////
 

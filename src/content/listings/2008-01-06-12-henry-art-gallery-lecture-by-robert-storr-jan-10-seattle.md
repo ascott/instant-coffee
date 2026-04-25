@@ -12,4 +12,4 @@ University Art Institute: Keynote Lecture by Robert Storr
 Thursday, January 10, 7 PM
 Roethke Auditorium in Kane Hall, University of Washington Campus
 $10 members / $15 general / $12 students and seniors 
-http://www.henryart.org/programs
+[http://www.henryart.org/programs](http://www.henryart.org/programs)

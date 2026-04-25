@@ -19,7 +19,7 @@ Kuhns talk will be followed by a book signing with the artist.
 
 This event is organized in partnership with the 2019 Capture Photography Festival.
 
-https://thepolygon.ca/event/mona-kuhn-artist-talk-and-book-signing/
+[https://thepolygon.ca/event/mona-kuhn-artist-talk-and-book-signing/](https://thepolygon.ca/event/mona-kuhn-artist-talk-and-book-signing/)
 
 The Polygon Gallery
 101 Carrie Cates Ct, North Vancouver, BC

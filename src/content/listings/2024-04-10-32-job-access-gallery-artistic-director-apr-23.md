@@ -19,4 +19,4 @@ Vacation: 42 hours + Paid December closure.
 Deadline for applications
 Reviewing applications starting April 23 open until filled.
 
-https://www.accessgallery.ca/news/employment-opportunity-artistic-director
+[https://www.accessgallery.ca/news/employment-opportunity-artistic-director](https://www.accessgallery.ca/news/employment-opportunity-artistic-director)

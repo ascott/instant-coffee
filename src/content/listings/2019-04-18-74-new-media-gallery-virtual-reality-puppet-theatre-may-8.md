@@ -25,7 +25,7 @@ is developing and leading this awesome project.
 Course ID 00023614
 Age Restriction 9 to 13
 
-For information on how to register: https://anvilcentre.com/events/virtual-reality-puppet-
+For information on how to register: [https://anvilcentre.com/events/virtual-reality-puppet-](https://anvilcentre.com/events/virtual-reality-puppet-)
 theatre/
 New Media Gallery
 Learning Lab - Anvil Centre

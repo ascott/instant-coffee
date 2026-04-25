@@ -39,4 +39,4 @@ address contemporary art while speaking in active, critical voice.
 
 Proposals, papers, and projects can be sent to submissions@kapsula.ca by
 May 15, 2015. Find the full call and submission guidelines at
-http://www.kapsula.ca.
+[http://www.kapsula.ca](http://www.kapsula.ca).

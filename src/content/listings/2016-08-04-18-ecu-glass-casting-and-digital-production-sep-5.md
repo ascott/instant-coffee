@@ -18,4 +18,4 @@ architecture, ceramics, product design and sculpture. Register early -
 space is very limited.
 
 Learn more:
-http://www.ecuad.ca/glass
+[http://www.ecuad.ca/glass](http://www.ecuad.ca/glass)

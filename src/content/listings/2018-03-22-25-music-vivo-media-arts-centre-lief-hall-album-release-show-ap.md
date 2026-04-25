@@ -26,9 +26,9 @@ installation, video, multimedia performance and choreography. Her interdisciplin
 installation and performance works explore themes of nature, technology and the body 
 as they relate to mythology, mysticism and the posthuman voice.
 
-http://liefhall.com/
-https://soundcloud.com/lief-hall
-https://www.facebook.com/liefhallmusic
+[http://liefhall.com/](http://liefhall.com/)
+[https://soundcloud.com/lief-hall](https://soundcloud.com/lief-hall)
+[https://www.facebook.com/liefhallmusic](https://www.facebook.com/liefhallmusic)
 
 ----
 
@@ -41,9 +41,9 @@ package known as rock and roll. In 2015 Mourning Coup released one full length L
 No Sun Recordings to the pleasure of a handful of music bloggers. Their mascot is a 
 scorpion, red is the color of my true loves history.
 
-https://mourningcoup.bandcamp.com/
-https://soundcloud.com/mourningcoup
-https://www.facebook.com/mourningcoup/
+[https://mourningcoup.bandcamp.com/](https://mourningcoup.bandcamp.com/)
+[https://soundcloud.com/mourningcoup](https://soundcloud.com/mourningcoup)
+[https://www.facebook.com/mourningcoup/](https://www.facebook.com/mourningcoup/)
 
 ----
 
@@ -64,7 +64,7 @@ collaborations at Esker Foundation (Calgary) with Vanessa Brown, and at Malik
 (Hamburg) with Alison Yip. Her tape, All the Little Objectiles, will be released in the 
 spring of 2018 via IsLa.
 
-https://soundcloud.com/bombyx_mori
+[https://soundcloud.com/bombyx_mori](https://soundcloud.com/bombyx_mori)
 
 ----
 Gabi Dao
@@ -80,4 +80,4 @@ recordings set a tableau for an interview between Bina48 (a humanoid AI robot
 developed by Hanson Robotics) and the 'real', transhumanist Bina Rothblatt. The piece 
 will play between sets.
 
-http://gabidao.tumblr.com/
+[http://gabidao.tumblr.com/](http://gabidao.tumblr.com/)

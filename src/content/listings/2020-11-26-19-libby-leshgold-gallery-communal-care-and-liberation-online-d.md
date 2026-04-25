@@ -15,7 +15,7 @@ conversation, moderated by Emmy Catedral
 Thursday, December 3, 2020, 2pm - 4pm Pacific Time
 An online event. Free to attend.
 
-Registration required at: https://www.eventbrite.ca/e/communal-care-and-liberation-
+Registration required at: [https://www.eventbrite.ca/e/communal-care-and-liberation-](https://www.eventbrite.ca/e/communal-care-and-liberation-)
 publishing-for-radical-futures-tickets-129803514807
 
 Hosted by the Libby Leshgold Gallery and Wendy's Subway

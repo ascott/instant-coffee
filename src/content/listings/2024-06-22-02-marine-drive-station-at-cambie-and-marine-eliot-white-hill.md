@@ -32,4 +32,4 @@ today.
 
 You can see this work at this location from now until June of 2025. To learn more
 about this artwork and the other Platforms projects, please visit
-https://vancouver.ca/platforms.
+[https://vancouver.ca/platforms](https://vancouver.ca/platforms).

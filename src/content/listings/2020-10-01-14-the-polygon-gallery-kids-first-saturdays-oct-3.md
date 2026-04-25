@@ -18,4 +18,4 @@ Advance registration for Kids First programming can be done by emailing
 s.bernard@thepolygon.ca. Please state the time preference in your email: 11:00am -
 12:00pm, 12:30pm - 1:30pm, and 2:00pm " 3:00pm.
 
-Find out more: https://thepolygon.ca/event/kids-first/
+Find out more: [https://thepolygon.ca/event/kids-first/](https://thepolygon.ca/event/kids-first/)

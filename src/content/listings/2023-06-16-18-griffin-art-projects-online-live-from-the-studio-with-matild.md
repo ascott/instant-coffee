@@ -10,7 +10,7 @@ summary: "Griffin Art Projects [ONLINE] | Live from the Studio with Matilda Asli
 
 Griffin Art Projects
 
-http://griffinartprojects.ca/
+[http://griffinartprojects.ca/](http://griffinartprojects.ca/)
 
 Live from the Studio with Studio Award Winner Matilda Aslizadeh: June 18, 1PM
 
@@ -29,5 +29,5 @@ experience. Her work has been exhibited internationally in galleries and festiva
 including exhibitions at the Vancouver Art Gallery, AC Institute (New York) and the
 Museum of Contemporary Art, Toronto.
 
-More Info: https://www.griffinartprojects.ca/events/live-from-the-studio-with-north-shore-
+More Info: [https://www.griffinartprojects.ca/events/live-from-the-studio-with-north-shore-](https://www.griffinartprojects.ca/events/live-from-the-studio-with-north-shore-)
 winner-matilda-aslizadeh

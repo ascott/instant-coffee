@@ -10,7 +10,7 @@ summary: "Capture Photography Festival 2017 | Call for Submissions | NOV 15"
 
 SUBMISSIONS DUE November 15, 2016 at 11:59pm
 
-To submit please visit http://capturephotofest.com/submissions/
+To submit please visit [http://capturephotofest.com/submissions/](http://capturephotofest.com/submissions/)
 
 The 4th annual Capture Photography Festival will take place April 1-28,
 2017 around Metro Vancouver and parts of the Lower Mainland.
@@ -64,9 +64,9 @@ There are NO submission fees for events.
 HOW TO APPLY:
 
 For more information, please visit:
-http://capturephotofest.com/submissions/faq/
+[http://capturephotofest.com/submissions/faq/](http://capturephotofest.com/submissions/faq/)
 
-To apply, please visit: http://capturephotofest.com/submissions/
+To apply, please visit: [http://capturephotofest.com/submissions/](http://capturephotofest.com/submissions/)
 
 If you have further questions, please contact Katherine Neil at
 programming@capturephotofest.com

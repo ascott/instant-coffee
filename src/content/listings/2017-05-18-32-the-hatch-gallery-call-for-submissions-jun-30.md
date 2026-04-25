@@ -20,5 +20,5 @@ For questions or inquiries e-mail sacart@ams.ubc.ca
 The Hatch Gallery is part of the AMS Student Society of Vancouver and is located at 
 the Nest on UBC Vancouver Campus. 
 
-http://hatchgalleryubc.tumblr.com/post/144510964893/hatch-gallery-submission-
+[http://hatchgalleryubc.tumblr.com/post/144510964893/hatch-gallery-submission-](http://hatchgalleryubc.tumblr.com/post/144510964893/hatch-gallery-submission-)
 application-2017-2018-the

@@ -16,7 +16,7 @@ needed.
 
 Sept 22 & 23, Friday 6-8pm and Saturday 10am
 2 Eastside Atelier, 1310 William Street
-More details and register through eventbrite: https://www.eventbrite.ca/e/learn-to-
+More details and register through eventbrite: [https://www.eventbrite.ca/e/learn-to-](https://www.eventbrite.ca/e/learn-to-)
 weave-cloth-for-beginners-tickets-681706140417?aff=oddtdtcreator
 
 ABOUT THE CLASS

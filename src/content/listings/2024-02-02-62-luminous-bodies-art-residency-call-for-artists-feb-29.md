@@ -104,4 +104,4 @@ out to oliver@cloudscapecomics.com.
 
 To learn more about Cloudscape Comics Society,
 their website can be found here:
-https://www.cloudscapecomics.com/
+[https://www.cloudscapecomics.com/](https://www.cloudscapecomics.com/)

@@ -13,7 +13,7 @@ Any artists out there who want to do a residency in Gwaii Haanas?
 The deadline for proposals to the Artist Residency Program in Gwaii Haanas
 is March 11, 2011:
 
-http://www.haidanation.ca/Pages/Splash/Public_Notices/artist_residency.html
+[http://www.haidanation.ca/Pages/Splash/Public_Notices/artist_residency.html](http://www.haidanation.ca/Pages/Splash/Public_Notices/artist_residency.html)
 
 22. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.

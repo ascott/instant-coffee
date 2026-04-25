@@ -28,7 +28,7 @@ The Show runs for 1 hour
 Hosted and transmitted by WGXC Radio at Wave Farm
 Broadcast at:
 
-https://conduction.wavefarm.org/
+[https://conduction.wavefarm.org/](https://conduction.wavefarm.org/)
 3pm Fri. 1/17, EST New York
 6pm Fri. 1/17, PST Vancouver
 

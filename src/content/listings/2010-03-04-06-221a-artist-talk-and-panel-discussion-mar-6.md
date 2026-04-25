@@ -39,4 +39,4 @@ Gallery Hours:¨Thursday & Friday 4:00pm 8:00pm¨Saturday 12:00pm
 *Hours are in effect only during exhibitions.
 221A ARTIST RUN CENTRE221 E. GEORGIA ST. UNIT #100 (AT MAIN)¨VANCOUVER,
 BC. CANADA V6A 1Z6T: 604 568 0812E: hello@221a.ca
-W: http://221a.ca
+W: [http://221a.ca](http://221a.ca)

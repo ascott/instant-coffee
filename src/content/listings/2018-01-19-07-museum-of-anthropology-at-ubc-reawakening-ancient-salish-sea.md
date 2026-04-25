@@ -19,4 +19,4 @@ Carriere and Croes will also launch their new publication, Reawakening Ancient S
 Sea Basketry.
 
 Free with Museum Admission. For more information visit:
-http://moa.ubc.ca/portfolio_page/salish-seabasketry
+[http://moa.ubc.ca/portfolio_page/salish-seabasketry](http://moa.ubc.ca/portfolio_page/salish-seabasketry)

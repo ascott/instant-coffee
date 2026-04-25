@@ -24,4 +24,4 @@ Cross!
 We DO NOT CHARGE A SUBMISSION FEE, and encourage short and 
 feature length local, national, international, and student submissions. 
 
-Animators can submit online at: http://giraffest.ca/submissions/
+Animators can submit online at: [http://giraffest.ca/submissions/](http://giraffest.ca/submissions/)

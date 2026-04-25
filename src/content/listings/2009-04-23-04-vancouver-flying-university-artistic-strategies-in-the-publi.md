@@ -84,9 +84,9 @@ Centrum für Gegenwartskunst, Linz. In 2005 and 2006 he took part in shows in th
 Dresden where he will be showing new work in 2010 as part of the series of exhibitions Notes on 
 the Empire.
 
-http://remappingmozart.mur.at/
-http://www.lislponger.com/
-http://www.timsharp.at
+[http://remappingmozart.mur.at/](http://remappingmozart.mur.at/)
+[http://www.lislponger.com/](http://www.lislponger.com/)
+[http://www.timsharp.at](http://www.timsharp.at)
 
 Vancouver Flying University
 Initiated by independent journalist Am Johal in collaboration with

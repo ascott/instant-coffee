@@ -38,6 +38,6 @@ This talk will be held in English, via Zoom with captioning, and will be recorde
 documentation for inclusion on the Recollective website where a commissioned response
 by Christian Vistan will also be launched over the forthcoming weeks.
 
-Zoom link here: https://zoom.us/j/96984635623 Webinar ID: 969 8463 5623
+Zoom link here: [https://zoom.us/j/96984635623](https://zoom.us/j/96984635623) Webinar ID: 969 8463 5623
 
-https://archivesweek.ca/events/how-to-survive-life-and-its-disasters
+[https://archivesweek.ca/events/how-to-survive-life-and-its-disasters](https://archivesweek.ca/events/how-to-survive-life-and-its-disasters)

@@ -15,7 +15,7 @@ January 7-February 3, 2024 (visit thedancecentre.ca for the detailed schedule)
 Scotiabank Dance Centre, 677 Davie St, Vancouver
 Free admission, drop in and stay as long as you want
 Presented with PuSh International Performing Arts Festival
-https://thedancecentre.ca/event/nellie-gossen/
+[https://thedancecentre.ca/event/nellie-gossen/](https://thedancecentre.ca/event/nellie-gossen/)
 
 Dance, labour and garment fabrication converge in Returns, Nellie Gossen's unique
 installation performance examining the standard 30-day retail return policy. Taking apart

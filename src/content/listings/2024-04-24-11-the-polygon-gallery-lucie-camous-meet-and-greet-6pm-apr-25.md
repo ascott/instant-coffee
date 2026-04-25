@@ -17,7 +17,7 @@ Doors at 6:00pm
 Talk at 6:30pm
 Reception from 7:00 - 7:30pm
 RSVPs are helpful
-RSVP here: https://thepolygon.ca/event/lucie-camous-meet-and-greet/
+RSVP here: [https://thepolygon.ca/event/lucie-camous-meet-and-greet/](https://thepolygon.ca/event/lucie-camous-meet-and-greet/)
 
 About Lucie Camous
 In Camous artistic and curatorial practice, they adopt a political perspective and
@@ -106,7 +106,7 @@ Reception: April 26, 2024, 6 to 8 pm
 
 Free for the public to attend at the Kelowna Art Gallery
 
-https://kelownaartgallery.com/what-is-fragile/
+[https://kelownaartgallery.com/what-is-fragile/](https://kelownaartgallery.com/what-is-fragile/)
 
 Kelowna Art Gallery
 1315 Water Street, Kelowna, BC V1Y 9R3

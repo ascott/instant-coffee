@@ -28,4 +28,4 @@ At Artspeaks Tent next to the Ferry Building Gallery
 You can find more information on the events website including the registration link
 here
 
-https://harmonyarts.ca/event/art-and-stewardship-creating-cyanotypes-fabric
+[https://harmonyarts.ca/event/art-and-stewardship-creating-cyanotypes-fabric](https://harmonyarts.ca/event/art-and-stewardship-creating-cyanotypes-fabric)

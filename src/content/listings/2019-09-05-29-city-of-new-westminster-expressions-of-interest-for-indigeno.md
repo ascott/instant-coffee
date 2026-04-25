@@ -33,7 +33,7 @@ is recognized as a professional by his or her peers (artists working in the same
 tradition)
 is committed to devoting more time to artistic activity, if possible financially
 has a history of public presentation or publication.
-https://canadacouncil.ca/glossary/professional-artist
+[https://canadacouncil.ca/glossary/professional-artist](https://canadacouncil.ca/glossary/professional-artist)
 
 City of New Westminster Council, staff, the Citys Public Art Advisory Committee
 members, selection panel members, project personnel and immediate family members
@@ -60,7 +60,7 @@ aquatic centre is scheduled to be operational early 2022.
 
 MORE INFORMATION
 To download the full document and supporting material, please go to
-https://www.newwestcity.ca/business-and-economy/doing-business-with-the-
+[https://www.newwestcity.ca/business-and-economy/doing-business-with-the-](https://www.newwestcity.ca/business-and-economy/doing-business-with-the-)
 city/request-for-bids-and-proposals-open.php
 
 Submissions Deadline

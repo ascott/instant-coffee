@@ -99,7 +99,7 @@ Basbaum’s NBP (New Bases for Personality) object? You just have to accept
 to use the NBP, for up to one week, for performing a solitary or collective
 experience. The object can be signed out with the gallery sitter. If you
 document the experience through text, photography, video or audio, you can
-add your records to the NBP public archive at http://www.nbp.pro.br, and
+add your records to the NBP public archive at [http://www.nbp.pro.br](http://www.nbp.pro.br), and
 submit them to the Audain Gallery (at audaingallery@sfu.ca) for inclusion
 in the exhibition’s archive display.
 

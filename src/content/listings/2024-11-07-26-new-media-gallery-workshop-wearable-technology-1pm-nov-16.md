@@ -16,7 +16,7 @@ sewing is necessary
 Saturday
 November 16, 1:00 am - 4:00 pm (Art + Technology LAB, Anvil Centre)
 Ages 18+
-Registration Link: https://bit.ly/4dIJ4Hi
+Registration Link: [https://bit.ly/4dIJ4Hi](https://bit.ly/4dIJ4Hi)
 Registration Fee: $45.00
 Instructor: Jae Lew
 P: 604 515 3834 | E: education@newmediagallery.ca | W:

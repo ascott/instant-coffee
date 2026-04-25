@@ -17,15 +17,15 @@ feeling across time and space and practicing dancer ESP inspire solo, an experim
 devised and performed by Deanna Peters/Mutable Subject in collaboration with Ziyian 
 Kwan and Lorenz Santos, with a set designed and built by Stuart Sproule.
 
-BUY TICKETS: http://bit.ly/solo-tickets
+BUY TICKETS: [http://bit.ly/solo-tickets](http://bit.ly/solo-tickets)
 
 Aug 28, 7pm - SOLD OUT
 Aug 29, 7pm - SOLD OUT
 Aug 30, 7pm - NEW SHOW ADDED
 Aug 30, 9pm - SOLD OUT
-Aug 30, 10pm - Party HD: http://bit.ly/PartyHD, a FREE dance party with great DJs 
+Aug 30, 10pm - Party HD: [http://bit.ly/PartyHD](http://bit.ly/PartyHD), a FREE dance party with great DJs 
 playing house + disco all hot night long :)
 
 Gold Saucer: 211"B, 207 W. Hastings St.
 
-BUY TICKETS: http://bit.ly/solo-tickets
+BUY TICKETS: [http://bit.ly/solo-tickets](http://bit.ly/solo-tickets)

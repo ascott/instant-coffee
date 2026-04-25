@@ -18,7 +18,7 @@ This unique artist residency is a chance to hike the historic Chilkoot
 Trail from Alaska into Canada and make art.
 
 Artists are encouraged to apply online at:
-http://yukonartscentre.com/programs/chilkoot_trail_artist_residency_program
+[http://yukonartscentre.com/programs/chilkoot_trail_artist_residency_program](http://yukonartscentre.com/programs/chilkoot_trail_artist_residency_program)
 
 The deadline is fast approaching! All submissions must arrive by February
 1st, 2015.

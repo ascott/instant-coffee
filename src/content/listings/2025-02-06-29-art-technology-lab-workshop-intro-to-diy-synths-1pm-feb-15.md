@@ -18,7 +18,7 @@ Location: Art + Technology LAB, Anvil Centre | New Westminster, BC
 
 Ages: 18+
 
-Registration: https://bit.ly/40LU8Qs
+Registration: [https://bit.ly/40LU8Qs](https://bit.ly/40LU8Qs)
 
 Registration Fee: $45.00
 

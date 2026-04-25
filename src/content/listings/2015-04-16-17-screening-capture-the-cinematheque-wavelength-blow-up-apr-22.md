@@ -34,4 +34,4 @@ public art projects throughout the month of April with the participation of
 over 50 cultural institutions across Metro Vancouver. For more information,
 visit capturephotofest.com
 
-http://www.thecinematheque.ca/wavelength-and-blowup
+[http://www.thecinematheque.ca/wavelength-and-blowup](http://www.thecinematheque.ca/wavelength-and-blowup)

@@ -26,9 +26,9 @@ HOURS:
 TUESDAY - SATURDAY, 1 - 4 PM
 OR BY APPOINTMENT
 FOR MORE INFORMATION CONTACT: conduitgallery165@gmail.com
-WEB: https://www.facebook.com/Conduitgallery165/
+WEB: [https://www.facebook.com/Conduitgallery165/](https://www.facebook.com/Conduitgallery165/)
 
-ARTIST WEBSITE: https://jameskm.wordpress.com
+ARTIST WEBSITE: [https://jameskm.wordpress.com](https://jameskm.wordpress.com)
 With special thanks to Joe Clare, Patron of the Arts and Humanity
 
 PYRAMIDS

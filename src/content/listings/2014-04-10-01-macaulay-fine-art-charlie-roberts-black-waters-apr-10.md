@@ -39,4 +39,4 @@ Amsterdam, Holland (2012, 2008, 2007), Galleri Magnus Karlsson, Stockholm
 (2008, 2007)
 
 mfineart.ca
-https://www.facebook.com/events/1404538739818430/
+[https://www.facebook.com/events/1404538739818430/](https://www.facebook.com/events/1404538739818430/)

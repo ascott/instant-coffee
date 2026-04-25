@@ -25,7 +25,7 @@ helpful to have a sense of the type of artwork that is central to your practice,
 together with any pertinent experience that would indicate your comfort in 
 discussing your practice on camera.
 
-Dossiers will be evaluated by the team ( http://loststories.ca/about/ ) directing the 
+Dossiers will be evaluated by the team ( [http://loststories.ca/about/](http://loststories.ca/about/) ) directing the 
 Lost Stories Project, which includes individuals with a wide array of experience in 
 presenting stories about the past in public space. Short lists will be created in 
 late November, with interviews (most likely by Skype) to follow. Final decisions will 
@@ -50,10 +50,10 @@ Applications must be received by midnight on 25 November 2016.
 
 For more information on the individual stories, follow the links below:
 
-http://loststories.ca/stories/stolo-boys/
-http://loststories.ca/stories/sheldrake-island/
-http://loststories.ca/stories/southway-inn/
-http://loststories.ca/stories/yee-clun/
+[http://loststories.ca/stories/stolo-boys/](http://loststories.ca/stories/stolo-boys/)
+[http://loststories.ca/stories/sheldrake-island/](http://loststories.ca/stories/sheldrake-island/)
+[http://loststories.ca/stories/southway-inn/](http://loststories.ca/stories/southway-inn/)
+[http://loststories.ca/stories/yee-clun/](http://loststories.ca/stories/yee-clun/)
 
 42. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.

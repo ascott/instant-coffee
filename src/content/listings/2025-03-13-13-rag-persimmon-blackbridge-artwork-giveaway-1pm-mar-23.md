@@ -13,7 +13,7 @@ Sunday, March 23, 2025
 Persimmon Blackbridge Artwork Giveaway + Exhibition Closing Party
 Richmond Art Gallery, 7700 Minoru Gate, Richmond BC
 
-RSVP HERE - https://www.eventbrite.ca/e/persimmon-blackbridge-artwork-give-
+RSVP HERE - [https://www.eventbrite.ca/e/persimmon-blackbridge-artwork-give-](https://www.eventbrite.ca/e/persimmon-blackbridge-artwork-give-)
 away-tickets-1271058864279
 
 Don't miss this special opportunity to own one of Persimmon Blackbridge's hand-

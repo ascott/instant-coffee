@@ -36,7 +36,7 @@ wonder; any day now, an escape.
 
 Back Gallery Project will present associated programing for “Any Day Now” 
 including a 3D viewing and artist talk. More information:
-http://capturephotofest.com/public-installations/any-day-now/
+[http://capturephotofest.com/public-installations/any-day-now/](http://capturephotofest.com/public-installations/any-day-now/)
 
 About the artist
 Annie Briard is a Vancouver-based artist from Montréal challenging visual

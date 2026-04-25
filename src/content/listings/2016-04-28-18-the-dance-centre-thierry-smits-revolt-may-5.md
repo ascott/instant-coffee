@@ -24,4 +24,4 @@ and emotional commitment powers a tightly-wound essay on the
 necessity of revolt, the breach to be found, and the freedom to be won.
 
 Info and video trailer:
-http://www.thedancecentre.ca/compagnie_thor_thierry_smits_revolt
+[http://www.thedancecentre.ca/compagnie_thor_thierry_smits_revolt](http://www.thedancecentre.ca/compagnie_thor_thierry_smits_revolt)

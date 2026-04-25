@@ -14,7 +14,7 @@ Apokalypsis Curator Elliott Ramsey.
 6:30 pm - Doors
 7:00pm - Conversation
 RSVPs are helpful
-RSVP Here: https://thepolygon.ca/event/martine-gutierrez-in-conversation/
+RSVP Here: [https://thepolygon.ca/event/martine-gutierrez-in-conversation/](https://thepolygon.ca/event/martine-gutierrez-in-conversation/)
 About Anti-Icon: Apokalypsis
 What does it mean to be an icon and who, or what, becomes iconic? Icons carry
 authority, in their highly symbolic and instant recognisability. The new, landmark

@@ -61,5 +61,5 @@ desired, this is one place where it is to be found.
 
 ==============----------------------------
 
-http://diademdiscos.wordpress.com/aja-rose/
-http://www.hammockresidency.com
+[http://diademdiscos.wordpress.com/aja-rose/](http://diademdiscos.wordpress.com/aja-rose/)
+[http://www.hammockresidency.com](http://www.hammockresidency.com)

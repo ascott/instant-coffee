@@ -32,8 +32,8 @@ and creative processes. Residency fellowship funding for travel, room and
 board, are now available in exchange for hosting an educational workshop
 during the residency. Deadlines are rolling every other month; the deadline
 for fellowships is January 31 2010. Read more and download a brochure
-at http://elsewhereelsewhere.org/programs/residencies
-<http://www.elsewhereelsewhere.org/programs/residencies>
+at [http://elsewhereelsewhere.org/programs/residencies](http://elsewhereelsewhere.org/programs/residencies)
+<[http://www.elsewhereelsewhere.org/programs/residencies](http://www.elsewhereelsewhere.org/programs/residencies)>
 
 -- 
 danna rooth
@@ -44,4 +44,4 @@ residencies@elsewhereelsewhere.org
 elsewhere artist collaborative
 606 & 608 south elm street
 greensboro, north carolina 27406
-http://elsewhereelsewhere.org/
+[http://elsewhereelsewhere.org/](http://elsewhereelsewhere.org/)

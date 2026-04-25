@@ -12,7 +12,7 @@ VIVO Media Arts Centre
 Video Bar: The Future Was Wide Open
 Friday, March 29, 8PM-12AM
 1965 Main St. Vancouver
-http://www.vivomediaarts.com/event/video-bar-future-was-wide-open
+[http://www.vivomediaarts.com/event/video-bar-future-was-wide-open](http://www.vivomediaarts.com/event/video-bar-future-was-wide-open)
 Ambient social. Free
 
 Programmed by Cranfield & Slade

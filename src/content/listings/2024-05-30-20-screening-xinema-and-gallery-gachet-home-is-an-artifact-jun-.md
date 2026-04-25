@@ -19,7 +19,7 @@ VIFF CENTRE // VANCITY THEATRE
 1181 SEYMOUR STREET
 
 VISIT
-https://viff.org/whats-on/xinema-home-artifact/ FOR TICKETS!
+[https://viff.org/whats-on/xinema-home-artifact/](https://viff.org/whats-on/xinema-home-artifact/) FOR TICKETS!
 
 Collectively entitled " , part one showcases works by a
 cohort of local artists: Kaila Bhullar, Luis Andrs Serrano, Monica Cheema and

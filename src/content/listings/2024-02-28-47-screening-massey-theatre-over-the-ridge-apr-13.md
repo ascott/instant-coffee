@@ -117,4 +117,4 @@ Spot available March 1st.
 
 Contact us at -- info@thephoenixgallery.ca
 
-http://thephoenixgallery.ca/
+[http://thephoenixgallery.ca/](http://thephoenixgallery.ca/)

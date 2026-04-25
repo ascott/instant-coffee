@@ -55,9 +55,9 @@ estate economy.”
 
 [1]RBC. “Vancouver’s housing market: moderation in store but vulnerable to a 
 harsher outcome.”  April 2012. Page 6. 
-http://www.rbc.com/economics/market/pdf/vancouverhouse.pdf
+[http://www.rbc.com/economics/market/pdf/vancouverhouse.pdf](http://www.rbc.com/economics/market/pdf/vancouverhouse.pdf)
 [2]Demographia. “9th Annual Demographia International Housing Affordability 
-Survery: 2013” . Page 2. http://www.demographia.com/dhi.pdf
+Survery: 2013” . Page 2. [http://www.demographia.com/dhi.pdf](http://www.demographia.com/dhi.pdf)
 Image Credit: Everybody works but the vacant lot, Henry George as quoted by 
 Fay Lewis.
 

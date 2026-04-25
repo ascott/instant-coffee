@@ -10,7 +10,7 @@ summary: "Here and Elsewhere | http://hereelsewhere.com/subscribe/"
 
 Here and Elsewhere is a Vancouver-based on-line publication featuring 
 what to see, eat, drink and do, near and far. Subscribe at 
-http://hereelsewhere.com/subscribe/ and we will email you weekly with 
+[http://hereelsewhere.com/subscribe/](http://hereelsewhere.com/subscribe/) and we will email you weekly with 
 new finds both locally and father afield. Recent arts reviews have 
 included Robert Orchardson at the Contemporary Art Gallery 
 (Vancouver), Paul P. at Blanket Gallery (Vancouver), Gerhard Richter at 

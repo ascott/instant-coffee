@@ -82,4 +82,4 @@ Producer, Dusty Flowerpot Cabaret
 
 _______________________________________________ DustyFlowerpot mailing list
 DustyFlowerpot@lists.worklessparty.org
-http://lists.worklessparty.org/listinfo.cgi/dustyflowerpot-worklessparty.org
+[http://lists.worklessparty.org/listinfo.cgi/dustyflowerpot-worklessparty.org](http://lists.worklessparty.org/listinfo.cgi/dustyflowerpot-worklessparty.org)

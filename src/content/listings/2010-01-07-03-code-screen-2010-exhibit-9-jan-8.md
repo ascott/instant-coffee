@@ -31,4 +31,4 @@ and Media Arts in 2000), Beth Howe, Paul de Guzman, Christian Bok, Michah
 Lexier, Roula Partheniou, Hadley+Maxwell and Brian Joseph Davis
 
 Connect with CODE Screen 2010 >>>
-http://www.vancouver2010.com/more-2010-information/cultural-festivals-and-events/code-connect-create-collaborate/code-screen-2010/
+[http://www.vancouver2010.com/more-2010-information/cultural-festivals-and-events/code-connect-create-collaborate/code-screen-2010/](http://www.vancouver2010.com/more-2010-information/cultural-festivals-and-events/code-connect-create-collaborate/code-screen-2010/)

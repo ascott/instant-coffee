@@ -31,7 +31,7 @@ Apply online at arts gabriola.ca
 47. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.
 Studios for Rent | Coming in Spring 2025
-https://www.alliancefrancaise.ca/en/community/artists-studios/
+[https://www.alliancefrancaise.ca/en/community/artists-studios/](https://www.alliancefrancaise.ca/en/community/artists-studios/)
 
 For more than 120 years, our non-profit organisation has been committed to the
 local artistic community. Alliance Franaise Vancouver (AFV) is taking a new step by

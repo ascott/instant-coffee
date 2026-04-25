@@ -20,7 +20,7 @@ door of 236 and enter around back in the alley. Knock loudly to be let
 in.
 
 BECOME A MEMBER OF PROJECT SPACE:
-http://www.projectspace.ca/membership
+[http://www.projectspace.ca/membership](http://www.projectspace.ca/membership)
 
 Join Project Space for our Monthly Open Studio: Art Games Night.
 Four local artists have come together to explore the game as an artistic

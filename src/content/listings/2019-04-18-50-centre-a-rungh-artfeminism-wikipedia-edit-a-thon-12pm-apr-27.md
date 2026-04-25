@@ -31,5 +31,5 @@ The edit-a-thon will begin with our free tutorial led by Simranpreet Anand on Ap
 12pm. Participants will learn how to begin their research, edit and create Wikipedia pages, 
 and keep them online. 
 
-For More Information http://centrea.org/programs-events/centre-a-x-rungh-art-feminism-
+For More Information [http://centrea.org/programs-events/centre-a-x-rungh-art-feminism-](http://centrea.org/programs-events/centre-a-x-rungh-art-feminism-)
 wikipedia-edit-a-thon/

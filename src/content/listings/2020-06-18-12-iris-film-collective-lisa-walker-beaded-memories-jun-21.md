@@ -15,8 +15,8 @@ heartfelt beaded art pieces about childhood memories
 
 National Indigenous Peoples Day
 ONLINE!*
-https://www.lisabeading.com/
-https://www.instagram.com/lisa.beading/
+[https://www.lisabeading.com/](https://www.lisabeading.com/)
+[https://www.instagram.com/lisa.beading/](https://www.instagram.com/lisa.beading/)
 Sunday June 21, 2020
 
 beaded memories is a heartfelt and personal series of beaded expressive art
@@ -38,8 +38,8 @@ this project was made possible by funds from the first peoples cultural council.
 original viewing was scheduled, Sunday June 21 National Indigenous Peoples
 Day in the afternoon.
 
-Please check my website https://www.lisabeading.com/ and my social media
-https://www.instagram.com/lisa.beading/
+Please check my website [https://www.lisabeading.com/](https://www.lisabeading.com/) and my social media
+[https://www.instagram.com/lisa.beading/](https://www.instagram.com/lisa.beading/)
 thank you and my apologies for any inconvenience!
 
 lisa walker is a mixed first nations (haisla/british)

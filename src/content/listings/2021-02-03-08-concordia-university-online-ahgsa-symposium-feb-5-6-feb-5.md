@@ -28,21 +28,21 @@ For full programming details, see attached poster or visit our Instagram
 Friday, February 5th, 2021
 Opening Keynote: Dr. Lauren Fournier (6-7h30pm EST), moderated by Dr. Rebecca
 Duclos.
-https://concordia-ca.zoom.us/webinar/register/WN_ozM561I1SfmHP6XaUJEf4A
+[https://concordia-ca.zoom.us/webinar/register/WN_ozM561I1SfmHP6XaUJEf4A](https://concordia-ca.zoom.us/webinar/register/WN_ozM561I1SfmHP6XaUJEf4A)
 
 Saturday, February 6th, 2021
 Panel 1: Empathy and the Archive (10am-11:30am EST), moderated by Christa
 Nemnom.
-https://concordia-ca.zoom.us/webinar/register/WN_MEld_RtMTs2IPelIHHSkTQ
+[https://concordia-ca.zoom.us/webinar/register/WN_MEld_RtMTs2IPelIHHSkTQ](https://concordia-ca.zoom.us/webinar/register/WN_MEld_RtMTs2IPelIHHSkTQ)
 
 Panel 2: Alternatives and the Futurity of Empathy (12:30pm-2pm EST), moderated by
 Maegan Gaudette.
-https://concordia-ca.zoom.us/webinar/register/WN_XQCqOOXERUeclc1qqds6og
+[https://concordia-ca.zoom.us/webinar/register/WN_XQCqOOXERUeclc1qqds6og](https://concordia-ca.zoom.us/webinar/register/WN_XQCqOOXERUeclc1qqds6og)
 
 Panel 3: Technological Iterations of Empathy (2:30pm-4pm EST), moderated by
 Serena Desaulniers.
-https://concordia-ca.zoom.us/webinar/register/WN_AbCAn2M7RbeOfQRB6JQQWQ
+[https://concordia-ca.zoom.us/webinar/register/WN_AbCAn2M7RbeOfQRB6JQQWQ](https://concordia-ca.zoom.us/webinar/register/WN_AbCAn2M7RbeOfQRB6JQQWQ)
 
 Closing Keynote: Kosisochukwu Nnebe
 (5pm-6h30pm EST), moderated by Ojo Agi.
-https://concordia-ca.zoom.us/webinar/register/WN_v0psa8YSQgacRXSNRwAEkw
+[https://concordia-ca.zoom.us/webinar/register/WN_v0psa8YSQgacRXSNRwAEkw](https://concordia-ca.zoom.us/webinar/register/WN_v0psa8YSQgacRXSNRwAEkw)

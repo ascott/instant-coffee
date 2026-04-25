@@ -40,8 +40,8 @@ from diverse communities and cultural backgrounds including Black, Indigenous, P
 LGBTQQIP2SAA. 
 
 FOR MORE INFORMATION PLEASE SEE THE FULL CALL FOR SUBMISSIONS AT 
-http://tangledarts.org/programs/call-for-submissions/ or on our Facebook page at 
-https://www.facebook.com/events/169401213569083/
+[http://tangledarts.org/programs/call-for-submissions/](http://tangledarts.org/programs/call-for-submissions/) or on our Facebook page at 
+[https://www.facebook.com/events/169401213569083/](https://www.facebook.com/events/169401213569083/)
 
 APPLICATIONS MUST INCLUDE:
 A completed application form
@@ -59,7 +59,7 @@ in person.
 INFO SESSION " March 21, 2017 at Tangled Art Gallery, 5:30 - 7 PM EST 
 To learn more, please attend the info session. More information about this session can 
 be found at the events Facebook page at 
-https://www.facebook.com/events/1653163671647060/
+[https://www.facebook.com/events/1653163671647060/](https://www.facebook.com/events/1653163671647060/)
 
 Completed applications can be sent by mail to:
 Tangled Art + Disability

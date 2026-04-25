@@ -16,8 +16,8 @@ and engage in meaningful dialogue with the audience. Drop by and
 mingle with artists in our community while watching great work. Get 
 ready to be inspired. Open to the general public Free event. 
 
-https://www.facebook.com/events/587424844632791/
-http://www.cineworks.ca/events/day/2013/10/23/
+[https://www.facebook.com/events/587424844632791/](https://www.facebook.com/events/587424844632791/)
+[http://www.cineworks.ca/events/day/2013/10/23/](http://www.cineworks.ca/events/day/2013/10/23/)
 
 Zachary D. KerrHolden will showcase: “Power Man”
 Zachary is a filmmaker from Northern Ontario. Zachary has spent most 

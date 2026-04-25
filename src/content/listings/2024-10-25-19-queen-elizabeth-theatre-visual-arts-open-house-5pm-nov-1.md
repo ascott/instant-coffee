@@ -34,5 +34,5 @@ iconic and subjects transform and reveal depths of self not previously seen.
 
 Learn more and register at vancouvercivictheatres.com.
 
-(Link: https://vancouvercivictheatres.com/events/vct-visual-arts-open-house-nov-1-
+(Link: [https://vancouvercivictheatres.com/events/vct-visual-arts-open-house-nov-1-](https://vancouvercivictheatres.com/events/vct-visual-arts-open-house-nov-1-)
 2024/)

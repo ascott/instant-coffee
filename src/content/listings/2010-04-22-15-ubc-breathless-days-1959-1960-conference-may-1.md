@@ -40,7 +40,7 @@ University), Regis Michel (Louvre), Tom McDonough (SUNY, Binghamton), Ann
 Reynolds (University of Texas, Austin), and Tyler Stovall (UC Berkeley).
 
 For a full schedule of speakers visit the conference website at
-http://breathlessdays1959-1960.wikispaces.com/.
+[http://breathlessdays1959-1960.wikispaces.com/](http://breathlessdays1959-1960.wikispaces.com/).
 
 To reserve seating for the conference please email
 conf5960@interchange.ubc.ca. Include your full name and the days you will be
@@ -56,9 +56,9 @@ include:
 Experiment," at the Morris and Helen Belkin Art Gallery (April 16- June 2)
 ’¢ Film screening of Jean-Luc Godard's "A Bout de Souffle" (1960) and
 Alfred Hitchcock's "Psycho" (1960) in their original 35mm format at Pacific
-Cinematheque (May 2 - 3, 7:00pm), http://www.cinematheque.bc.ca/
+Cinematheque (May 2 - 3, 7:00pm), [http://www.cinematheque.bc.ca/](http://www.cinematheque.bc.ca/)
 Online collaborative project (2009-2010) open to the public,
-students and of this period, http://breathlessdays1959-1960.wikispaces.com/
+students and of this period, [http://breathlessdays1959-1960.wikispaces.com/](http://breathlessdays1959-1960.wikispaces.com/)
 Permanent website archiving the conference and related initiatives
 (2010-2015)
 

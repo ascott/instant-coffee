@@ -14,7 +14,7 @@ Eternal Gestures
 October 9 & 10, 2025 at 8pm
 Scotiabank Dance Centre, 677 Davie St, Vancouver
 
-Info and tickets: https://thedancecentre.ca/event/co-erasga-2025/
+Info and tickets: [https://thedancecentre.ca/event/co-erasga-2025/](https://thedancecentre.ca/event/co-erasga-2025/)
 
 The Dance Centre presents a visionary world premiere from Co.ERASGA: Eternal
 Gestures is a trilogy of evocative solo works commissioned from Indigenous Coast

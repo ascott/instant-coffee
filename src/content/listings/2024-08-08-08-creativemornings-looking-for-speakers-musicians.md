@@ -17,6 +17,6 @@ CreativeMorninbgs is the largest face-to-face creative community on the planet. 
 believe that by gathering in person to connect with others wrestling with creativity, we
 genuinely enhance community and build the capacity of Vancouvers creative economy.
 
-For more information, please visit https://creativemornings.com/cities/VAN or
+For more information, please visit [https://creativemornings.com/cities/VAN](https://creativemornings.com/cities/VAN) or
 email
 vancouver@creativemornings.com

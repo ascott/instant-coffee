@@ -14,7 +14,7 @@ Use the latest tools in FCPX to make your older video works look their best, wit
 and digitization expert Clark Henderson.
 
 SIGN UP & MORE INFO:
-https://remastering-video.eventbrite.ca
+[https://remastering-video.eventbrite.ca](https://remastering-video.eventbrite.ca)
 
 4 hours total over 1 session, online // $45 (+GST)
 or BY DONATION for VIVO Producer Members

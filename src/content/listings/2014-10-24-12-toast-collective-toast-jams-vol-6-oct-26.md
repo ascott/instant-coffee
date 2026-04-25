@@ -24,7 +24,7 @@ _______________________________________________
 The Music: 
 
 The Phobic Trust
-https://soundcloud.com/thephobictrust
+[https://soundcloud.com/thephobictrust](https://soundcloud.com/thephobictrust)
 
 The Phobic Trust is a collective of musicians making experimental drone/ 
 musique concrète/ ambient/ found sound/ minimal soundscapes.
@@ -45,7 +45,7 @@ The Toast Collective is a collection of collectives that operate, The Toast-
 an art, event and food-centric space in East Vancouver. The Toast is a DIY, 
 flexible and community located place for artists, events and workshops.
 
-THE TOAST COLLECTIVE http://thetoast.org/, sign up for our *new* 
+THE TOAST COLLECTIVE [http://thetoast.org/](http://thetoast.org/), sign up for our *new* 
 newsletter
 
 The Toast Collective is a store front with the following measurements:

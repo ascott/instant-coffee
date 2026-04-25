@@ -8,7 +8,7 @@ venue: "SCREENING"
 summary: "SCREENING | The Polygon | One Must Wash Eyes @ The Polygon | 6PM | MAR 20"
 ---
 
-https://thepolygon.ca/event/nowruz-farsi-tour-film-screening-of-one-must-wash-eyes/
+[https://thepolygon.ca/event/nowruz-farsi-tour-film-screening-of-one-must-wash-eyes/](https://thepolygon.ca/event/nowruz-farsi-tour-film-screening-of-one-must-wash-eyes/)
 
 HAPPENING March 20, 2025 at 6:00 PM TO 9:00 PM
 Nowruz: Farsi Tour + Film Screening Of One Must Wash Eyes

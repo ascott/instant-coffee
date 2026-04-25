@@ -57,4 +57,4 @@ Currently, we have participants from Toronto, Vancouver and Winnipeg!
 Across Canada!
 
 More information at
-http://oaag.org/
+[http://oaag.org/](http://oaag.org/)

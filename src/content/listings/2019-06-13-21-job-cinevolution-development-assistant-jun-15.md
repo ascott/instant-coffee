@@ -21,4 +21,4 @@ Cinevolutions programs through a combination of outreach events, marketing
 campaigns, online engagement, and media outreach. 
 
 Link to full job posting:
-http://cinevolutionmedia.com/job-description-development-assistant/
+[http://cinevolutionmedia.com/job-description-development-assistant/](http://cinevolutionmedia.com/job-description-development-assistant/)

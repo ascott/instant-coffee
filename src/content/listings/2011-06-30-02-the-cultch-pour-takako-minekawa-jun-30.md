@@ -18,7 +18,7 @@ Vancouver BC
 
 Tickets at the door: $20 / $10 (students, seniors, artists)
 Or available online through the Cultch:
-http://www.thecultch.com/component/option,com_eventcal/task,
+[http://www.thecultch.com/component/option,com_eventcal/task](http://www.thecultch.com/component/option,com_eventcal/task),
 event/date,1309446000/eventid,269/Itemid,239/catid,/
 
 This co-production between Redshift and the Powell Street 

@@ -24,7 +24,7 @@ courageous humans as they answered five questions, and now, supported by an
 incredible team of artists, we bring the work into space and time. We look forward to
 welcoming you!
 
-Tickets on a sliding scale $10-$50 available at http://plasticorchidfactory.ca/door-
+Tickets on a sliding scale $10-$50 available at [http://plasticorchidfactory.ca/door-](http://plasticorchidfactory.ca/door-)
 project.html
 June 23 at 7 PM
 June 24 at 4 PM

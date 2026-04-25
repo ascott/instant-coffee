@@ -81,4 +81,4 @@ the labour force
 
 For more details about the Job Creation Program:
 
-http://www.novascotia.ca/employmentnovascotia/programs/job-creation-partnerships.asp
+[http://www.novascotia.ca/employmentnovascotia/programs/job-creation-partnerships.asp](http://www.novascotia.ca/employmentnovascotia/programs/job-creation-partnerships.asp)

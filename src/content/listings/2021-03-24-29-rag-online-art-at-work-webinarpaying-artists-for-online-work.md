@@ -14,7 +14,7 @@ SATURDAY, APRIL 10, 2021
 1:00 - 2:30 PM
 
 Registration link for free webinar:
-https://us02web.zoom.us/webinar/register/WN_14Kpj8sTT8Kpy_tXhFnjkw
+[https://us02web.zoom.us/webinar/register/WN_14Kpj8sTT8Kpy_tXhFnjkw](https://us02web.zoom.us/webinar/register/WN_14Kpj8sTT8Kpy_tXhFnjkw)
 
 As most arts organizations
 shut down temporarily and moved their work online during the
@@ -61,7 +61,7 @@ and coordination of advocacy efforts, including CARFACs Artists Resale Right cam
 She assists with negotiating collective agreements for visual and media artists under the
 Status of the Artist Act, as well as other national voluntary agreements with presenters.
 
-Richmond Art Gallery: https://www.richmondartgallery.org/art-at-work-paying-artists-for-
+Richmond Art Gallery: [https://www.richmondartgallery.org/art-at-work-paying-artists-for-](https://www.richmondartgallery.org/art-at-work-paying-artists-for-)
 online-work
 
 Art At Work is a series of professional development workshops for working artists and

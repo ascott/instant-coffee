@@ -16,10 +16,10 @@ Opening: Thurs Sept 12, 7-10pm
 
 Exhibition Dates: Thurs Sept 12- Sept 15
 
-URL: http://grunt.ca/exhibitions/dynamo-lines/
+URL: [http://grunt.ca/exhibitions/dynamo-lines/](http://grunt.ca/exhibitions/dynamo-lines/)
 
 Note: Dynamo Lines also coincides with SWARM 2013, read here for more 
-info on this annual artist-run centre festival. http://www.paarc.ca/swarm14/
+info on this annual artist-run centre festival. [http://www.paarc.ca/swarm14/](http://www.paarc.ca/swarm14/)
 
 grunt gallery and New Forms Festival present Dynamo Lines, a video, sound 
 and live performance by Josephin Böttger and Sergej Tolksdorf, and Trapez 
@@ -62,12 +62,12 @@ Dynamo Lines installation and performance. The installation will be viewable in
 the Media Lab until September 15th, 2013. www.grunt.ca
 
 Attend New Forms Festival to view Trapez, which will be taking place at the 
-festival site. http://2013.newformsfestival.com/
+festival site. [http://2013.newformsfestival.com/](http://2013.newformsfestival.com/)
 
 Trapez will also be viewable at the Surrey Urban Screen from Sept 6–15, 
 2013. Surrey Urban Screen is an outreach venue of the Surrey Art Gallery and 
 located on the west wall of the Chuck Bailey Recreation Centre. 
-http://www.surrey.ca/culture-recreation/7315.aspx
+[http://www.surrey.ca/culture-recreation/7315.aspx](http://www.surrey.ca/culture-recreation/7315.aspx)
 
 grunt gallery
 350 E 2nd Ave - Unit 116 Vancouver, BC V5T 4R8 

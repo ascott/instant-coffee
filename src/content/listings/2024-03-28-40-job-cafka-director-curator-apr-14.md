@@ -171,7 +171,7 @@ For additional information or questions, please contact: board@cafka.org
 Contemporary Art Forum Kitchener +
 Area
 Unit #7 " 141 Whitney Place, Kitchener, ON
-https://www.cafka.org/
+[https://www.cafka.org/](https://www.cafka.org/)
 (519) 744-5123
 
 Instagram @cafkabiennial

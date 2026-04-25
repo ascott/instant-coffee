@@ -10,7 +10,7 @@ summary: "KAPSULA Magazine | call for papers | MAR 7"
 
 KAPSULA Magazine's current call for papers. We are seeking papers that 
 speak to 'Art That Makes Us Angry'. Deadline March 07 2014.
-This is the full call as it appears on our website http://kapsula.ca/ :
+This is the full call as it appears on our website [http://kapsula.ca/](http://kapsula.ca/) :
 
 "The iconoclastic gesture that produces the modernist artwork functions, of 
 course, not simply as a manifestation of artistic subjectivity understood as 

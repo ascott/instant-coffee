@@ -40,6 +40,6 @@ exhibited at The Confederation Arts Centre, Charlottetown; SFU Gallery,
 Burnaby; and The Vancouver Art Gallery, with screenings at Images Festival, 
 Toronto; Kassel Dokfest; and Chicago Underground Film Festival.
 
-http://www.dynamoarts.ca
-http://www.cineworks.ca/
-https://www.facebook.com/events/1815307748706937/
+[http://www.dynamoarts.ca](http://www.dynamoarts.ca)
+[http://www.cineworks.ca/](http://www.cineworks.ca/)
+[https://www.facebook.com/events/1815307748706937/](https://www.facebook.com/events/1815307748706937/)

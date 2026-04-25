@@ -18,7 +18,7 @@ Left of Main, 211 Keefer Street, 2nd floor
 All the performances are by donation at the door. 
 Bar and snacks available. 
 Box office opens 1 hour prior to event. 
-For more info: http://www.plasticorchidfactory.com/left-of-push/ 
+For more info: [http://www.plasticorchidfactory.com/left-of-push/](http://www.plasticorchidfactory.com/left-of-push/) 
 
 JANUARY 26 AT 4PM 
 JANUARY 27 AT 7PM
@@ -86,4 +86,4 @@ acknowledge the rights of indigenous peoples.
 ++++++++++++ 
 
 Be sure to check out the PuSh Festival offerings. So much great live performance to see 
-in January! https://pushfestival.ca
+in January! [https://pushfestival.ca](https://pushfestival.ca)

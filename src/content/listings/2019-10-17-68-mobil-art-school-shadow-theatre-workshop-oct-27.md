@@ -22,5 +22,5 @@ that play at the intersection of puppetry, visual arts, clowning & music. They h
 award-winning shows across Canada, USA, and Taiwan. As artistic collaborators, they are
 interested in exploring beyond the boundaries of traditional theatre; and creating magical
 immersive experiences for their audiences and workshop participants.
-https://www.mobil-art.ca/event-info/shadow-theatre-workshop-with-mind-of-a-snail
+[https://www.mobil-art.ca/event-info/shadow-theatre-workshop-with-mind-of-a-snail](https://www.mobil-art.ca/event-info/shadow-theatre-workshop-with-mind-of-a-snail)
 $30

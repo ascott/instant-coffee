@@ -20,9 +20,9 @@ political antagonism.
 Entrance is free but an RSVP is required. A reading packet will be made available upon 
 request. 
 
-RSVP: https://goo.gl/forms/INW01lJhoY1fuMoH3
+RSVP: [https://goo.gl/forms/INW01lJhoY1fuMoH3](https://goo.gl/forms/INW01lJhoY1fuMoH3)
 
-Become a member: https://goo.gl/LSrCD9
+Become a member: [https://goo.gl/LSrCD9](https://goo.gl/LSrCD9)
 
 Nathan Crompton is a writer based in Vancouver, where he works as a housing 
 organizer and an Editor at the The Mainlander. He is currently completing his PhD in 

@@ -26,9 +26,9 @@ Join our free inclusive art spaces and experiences tailored for neurodivergent
 individuals! We will provide art supplies. You are also welcome to bring your own
 supplies and/or projects to work on. Come meet our members, who will be working
 with various artistic mediums!
-All info + RSVP for the hangouts: https://forms.gle/LTWckWv94hrkdRhk7
+All info + RSVP for the hangouts: [https://forms.gle/LTWckWv94hrkdRhk7](https://forms.gle/LTWckWv94hrkdRhk7)
 
 Closing Day Celebration
 Sunday February 9, 3-7 pm
 All info + RSVP for the show:
-https://NAC-interplay.eventbrite.com
+[https://NAC-interplay.eventbrite.com](https://NAC-interplay.eventbrite.com)

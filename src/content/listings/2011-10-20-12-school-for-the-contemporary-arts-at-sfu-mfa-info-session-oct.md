@@ -36,4 +36,4 @@ School for the Contemporary Arts at Goldcorp Center for the Arts
 149 West Hastings St. (Please enter via Cordova Courtyard Entrance)
 World Art Studio, 2nd floor.
 
-more info at: http://cgi.sfu.ca/~scahome/?q=mfa
+more info at: [http://cgi.sfu.ca/~scahome/?q=mfa](http://cgi.sfu.ca/~scahome/?q=mfa)

@@ -13,7 +13,7 @@ A Forum on New Futures.
 Thursday, November December 3 at 4:00 PM PST via Zoom
 Free & Open to All
 
-Eventbrite Link: https://www.eventbrite.ca/e/critical-transformations-a-forum-on-new-
+Eventbrite Link: [https://www.eventbrite.ca/e/critical-transformations-a-forum-on-new-](https://www.eventbrite.ca/e/critical-transformations-a-forum-on-new-)
 futuresinstitutional-reformatting-tickets-128275107299
 Whether developing new and unexpected exhibition platforms such as Other Sights or
 collective research and development teams as in NAVELs Assemblies program, these
@@ -37,7 +37,7 @@ Curated by Ceci Moss and hosted by the Shumka Centre at Emily Carr University, C
 Transformations is a monthly series of online roundtable conversations that invites visionary
 artists, curators, activists, designers, architects, and arts organizers around the globe to
 discuss their work in creating groundbreaking new models for the arts sector.
-http://shumka.ecuad.ca
+[http://shumka.ecuad.ca](http://shumka.ecuad.ca)
 
 21. EXHIBITION |
 Outsiders and Others | John Procter - Fantastical | DEC 4
@@ -74,4 +74,4 @@ only. PPE and social distancing
 is required upon visiting in person. Exhibitions are also viewable online.
 
 Outsiders and Others Art Society gallery location: 716 East Hastings Street, Vancouver
-http://www.outsidersandothers.com
+[http://www.outsidersandothers.com](http://www.outsidersandothers.com)

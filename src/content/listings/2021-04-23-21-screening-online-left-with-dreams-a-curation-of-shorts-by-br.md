@@ -9,7 +9,7 @@ summary: "SCREENING | [ONLINE] | Left with Dreams: A curation of shorts by Britt
 ---
 
 Left with Dreams: A curation of shorts by Brittney Appleby
-April 15-25 || FREE streaming || https://vucavu.com/en/leftwithdreams/
+April 15-25 || FREE streaming || [https://vucavu.com/en/leftwithdreams/](https://vucavu.com/en/leftwithdreams/)
 
 Curated by Brittney Appleby in partnership with Capture Photography Festival 2021 and
 Cineworks Independent Filmmakers Society.

@@ -29,4 +29,4 @@ cultural consumption.
 
 The discussion will be held in English.
 
-RSVP https://www.alliancefrancaise.ca/community/event-rsvp/?event_id=396
+RSVP [https://www.alliancefrancaise.ca/community/event-rsvp/?event_id=396](https://www.alliancefrancaise.ca/community/event-rsvp/?event_id=396)

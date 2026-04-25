@@ -29,7 +29,7 @@ for the opening session of the Rent Strike! Study Group.
 To register and receive access to the reading materials, please email 
 librarian@polly-anna.ca or complete this online form:
 
-https://docs.google.com/forms/d/e/1FAIpQLScQk1nzJk-
+[https://docs.google.com/forms/d/e/1FAIpQLScQk1nzJk-](https://docs.google.com/forms/d/e/1FAIpQLScQk1nzJk-)
 zwOqYkabA2O0M8RFMIsq86SQuixQgUg0JyKhSlw/viewform?
 usp=pp_url&entry.587728212=Yes
 
@@ -39,7 +39,7 @@ Readings:
 "For a Radical Right to Housing," from In Defense of Housing (2016), David 
 Madden and Peter Marcuse 
 "The Tenant Movement in B.C. from 1968 to 1978," Bruce Yorke 
-(http://themainlander.com/2012/11/09/the-tenant-movement-in-b-c-from-1968-to-
+([http://themainlander.com/2012/11/09/the-tenant-movement-in-b-c-from-1968-to-](http://themainlander.com/2012/11/09/the-tenant-movement-in-b-c-from-1968-to-)
 1978/)
 
 For more information about 221A please contact us at hello@221a.ca or +1 604 568 
@@ -59,7 +59,7 @@ Acknowledgments
 221A thanks its supporting patrons, businesses, foundations and governments for 
 their in-kind and financial contributions towards the society's facilities, resources and 
 programs. Find out more about our areas of need and become a donor today. 
-http://221a.ca/donate
+[http://221a.ca/donate](http://221a.ca/donate)
 
 Access
 

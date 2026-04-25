@@ -19,7 +19,7 @@ Journey with us through the curated brilliance of the Glass Series installations
 and drawings and take a glimpse of the monumental Roden Crater Initiative.
 
 The exhibition runs until February 17, 2024. Please book in advance as slots are timed
-and limited: https://cicavancouver.com/product/buy-ticket/.
+and limited: [https://cicavancouver.com/product/buy-ticket/](https://cicavancouver.com/product/buy-ticket/).
 
 11 AM - 6 PM, Weds - Sat, Sun. by appointment only
 

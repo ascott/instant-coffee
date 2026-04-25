@@ -24,7 +24,7 @@ would nevertheless pass, ever since the advent of the medium.
 6pm: Doors
 6:30pm " 7:15pm: Lecture followed by Q&A
 RSVPs are helpful
-RSVP here: https://thepolygon.ca/event/a-by-product-of-our-production-with-
+RSVP here: [https://thepolygon.ca/event/a-by-product-of-our-production-with-](https://thepolygon.ca/event/a-by-product-of-our-production-with-)
 vanessa-r-schwartz/
 
 About Vanessa R. Schwartz

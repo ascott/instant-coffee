@@ -32,4 +32,4 @@ closely at his artwork will take you on a personal visit to some of his
 many worlds...,”  says local artist and art historian Gary Sim.
 
 An appreciation of Jack Wise by Sim can be found on the Burnaby Art Gallery
-website: http://bit.ly/1GwnWhm.
+website: [http://bit.ly/1GwnWhm](http://bit.ly/1GwnWhm).

@@ -78,4 +78,4 @@ Please call 604-872-8337 to schedule.
 
 TO REGISTER: Please call 604-872-8337 or email education@vivomediaarts.com
 
-http://www.vivomediaarts.com/workshops
+[http://www.vivomediaarts.com/workshops](http://www.vivomediaarts.com/workshops)

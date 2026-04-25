@@ -18,5 +18,5 @@ Gallery's board members, Jennifer Dickieson and Megan Jenkins, for a cozy night 
 critiques!
 
 This is a members-only event. Please sign up here
-https://docs.google.com/forms/d/e/1FAIpQLSc0jaaewPvSyzLGq4J9hHXeC9JG07TMSU
+[https://docs.google.com/forms/d/e/1FAIpQLSc0jaaewPvSyzLGq4J9hHXeC9JG07TMSU](https://docs.google.com/forms/d/e/1FAIpQLSc0jaaewPvSyzLGq4J9hHXeC9JG07TMSU)
 quAsVaF_cclYxYgw/viewform

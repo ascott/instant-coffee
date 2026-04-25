@@ -15,7 +15,7 @@ accentuate our love of pop, media and bright stars, we open the Gallery to
 a night of extravagant plastics. Join us, and let's make everything be
 anything together. Guest curated by Veda Hille.
 
-http://www.vanartgallery.bc.ca/events_and_programs/fuse.html
+[http://www.vanartgallery.bc.ca/events_and_programs/fuse.html](http://www.vanartgallery.bc.ca/events_and_programs/fuse.html)
 
 FUSE Admission: Online advance ticket: $20 (+tax)
 FREE for Members or with Gallery admission.

@@ -58,7 +58,7 @@ Note: This position is funded with assistance from the Young Canada Works at Bui
 Careers in Heritage (YCWBCH) Program, and all applicants must meet the Programs
 eligibility requirements.
 
-For more information about eligibility, please visit: https://www.canada.ca/en/canadian-
+For more information about eligibility, please visit: [https://www.canada.ca/en/canadian-](https://www.canada.ca/en/canadian-)
 heritage/services/funding/young-canada-works/students-graduates/careers-heritage-
 graduates.html
 

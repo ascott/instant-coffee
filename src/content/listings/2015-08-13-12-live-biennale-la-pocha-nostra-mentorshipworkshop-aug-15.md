@@ -36,7 +36,7 @@ of and sensitive to First Nations, visible minorities, sexual orientations,
 gender identities, and people of different histories and beliefs.
 
 info@livebiennale.ca
-http://www.livebiennale.ca
-http://www.pochanostra.com
+[http://www.livebiennale.ca](http://www.livebiennale.ca)
+[http://www.pochanostra.com](http://www.pochanostra.com)
 
 This opportunity is sponsored by the British Columbia Arts Council.

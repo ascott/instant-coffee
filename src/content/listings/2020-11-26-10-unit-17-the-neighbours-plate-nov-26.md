@@ -45,4 +45,4 @@ All spaces and surfaces are cleaned regularly.
 
 The Neighbour's Plate would like to acknowledge the support of the BC Arts Council and
 the Canada Council for the Arts.
-http://www.unit17.org
+[http://www.unit17.org](http://www.unit17.org)

@@ -29,4 +29,4 @@ we encourage artists to interpret these themes as creatively as they wish. Works
 bear a strong demonstrable connection to the Museums mandate and Montreals 
 Jewish experiences are of particular interest, though not always necessary.
 
-For complete guidelines: https://tinyurl.com/MJMExhibitionProposal
+For complete guidelines: [https://tinyurl.com/MJMExhibitionProposal](https://tinyurl.com/MJMExhibitionProposal)

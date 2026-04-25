@@ -35,6 +35,6 @@ Successful candidates will also receive artist fees of $426 plus a small
 materials budget.
 
 For more information, and to apply please visit:
-http://reginadowntown.ca/experience/pop-up-downtown
+[http://reginadowntown.ca/experience/pop-up-downtown](http://reginadowntown.ca/experience/pop-up-downtown)
 
 Please direct any questions to Amber: artist@downtownregina.ca

@@ -29,7 +29,7 @@ Session 1 - September 7
 2:00 - 3:30 pm
 Picturing the West Coast: Ice Age to Now
 Sean Alward
-Tickets at: https://www.eventbrite.ca/e/art-history-series-canadian-landscape-inside-out-
+Tickets at: [https://www.eventbrite.ca/e/art-history-series-canadian-landscape-inside-out-](https://www.eventbrite.ca/e/art-history-series-canadian-landscape-inside-out-)
 session-1-tickets-64681431904
 
 We will look at how the West Coast of Canada has been pictured in art, photography, and

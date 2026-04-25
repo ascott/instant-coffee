@@ -24,7 +24,7 @@ Hall, 13450 104 Avenue), followed by the event at 8:30pm at UrbanScreen
 (west wall of Chuck Bailey Recreation Centre, 13458 107A Avenue). These are
 free public events and refreshments will be served.
 
-http://www.surrey.ca/culture-recreation/17598.aspx
+[http://www.surrey.ca/culture-recreation/17598.aspx](http://www.surrey.ca/culture-recreation/17598.aspx)
 
 More details about the panelists:
 - Artist, arts-based researcher, and founder of LocoMotoArt Laura Lee Coles

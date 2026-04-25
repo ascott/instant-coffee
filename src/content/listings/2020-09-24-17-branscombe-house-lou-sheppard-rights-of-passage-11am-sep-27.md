@@ -36,4 +36,4 @@ Branscombe House or arrange transportation from the Gulf of Georgia Cannery Nati
 Historic Site.
 
 For more information, visit:
-https://www.lousheppard.com/branscombe/rights-of-passage-river-dance-1
+[https://www.lousheppard.com/branscombe/rights-of-passage-river-dance-1](https://www.lousheppard.com/branscombe/rights-of-passage-river-dance-1)

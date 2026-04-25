@@ -24,4 +24,4 @@ Council.
 
 If you need to know accessibility information, please email communications@grunt.ca or 
 call 604-875-9516 or go to our Facebook Event page here:
-https://www.facebook.com/events/208419566368167/
+[https://www.facebook.com/events/208419566368167/](https://www.facebook.com/events/208419566368167/)

@@ -22,7 +22,7 @@ Successful submissions are grounded in lived personal experience and treat the t
 point of departure rather than a destination. We are seeking work that moves beyond the
 prompt and becomes distinctly its own, with a clear and defined perspective.
 
-For details please visit: https://koltonprocter.net/open-call
+For details please visit: [https://koltonprocter.net/open-call](https://koltonprocter.net/open-call)
 
 Located in Coast Salish Territories, Found You Magazine is a print publication showcasing
 inspired, unconventional work by emerging and established writers and artists.

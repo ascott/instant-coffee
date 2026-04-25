@@ -20,7 +20,7 @@ When: Friday, December 12 (7:00-late)
 Where: UNIT/PITT Projects 236 East Pender St, Vancouver / Unceded Coast
 Salish Territories
 
-Facebook Event: https://www.facebook.com/events/797200380342202/
+Facebook Event: [https://www.facebook.com/events/797200380342202/](https://www.facebook.com/events/797200380342202/)
 
 What do you do when a multinational energy corporation sues a handful of
 citizens for $5M? …. You throw a party and you have a bake sale!
@@ -58,9 +58,9 @@ for purchase.
 All proceeds from the evening will go towards the following legal defense
 funds:
 
-https://www.indiegogo.com/projects/broke-against-big-oil
+[https://www.indiegogo.com/projects/broke-against-big-oil](https://www.indiegogo.com/projects/broke-against-big-oil)
 
-http://www.gofundme.com/gkxn9o
+[http://www.gofundme.com/gkxn9o](http://www.gofundme.com/gkxn9o)
 
 Hosted by: Mariane Bourcheix-Laporte & Gabriel Saloman * Poetry by: Jordan
 Abel; Colin Browne; Stephen Collis; Reg Johansen; Christine Leclerc;

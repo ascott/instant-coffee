@@ -60,4 +60,4 @@ or Essentials Certificate from Emily Carr University of Art + Design.
 University staff and full-time faculty, as well as previous Leeway Studio 
 Residency recipients are not eligible to apply.
 
-More information: http://www.ecuad.ca/programs/cs/theleeway
+More information: [http://www.ecuad.ca/programs/cs/theleeway](http://www.ecuad.ca/programs/cs/theleeway)

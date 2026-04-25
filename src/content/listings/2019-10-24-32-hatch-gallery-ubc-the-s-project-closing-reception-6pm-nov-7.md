@@ -69,7 +69,7 @@ experience of parenthood and the subsequent re-evaluation of domestic space, tra
 personal location and isolation.
 
 The collaboration evolved from Gudrun Filipskas Arts Territory Exchange project
-(https://artsterritoryexchange.com/), a
+([https://artsterritoryexchange.com/](https://artsterritoryexchange.com/)), a
 global network of connected topographies, particularly
 focused on those in isolated places and addressing the problems and opportunities of
 remoteness.
@@ -85,7 +85,7 @@ lada (the live art development agency) the Arts Council and Jersey Arts Trust. S
 exhibited her work internationally and is also the founder of the Arts Territory Exchange, an
 organization which
 facilitates creative collaborative exchange across borders and fosters
-ideas of ecology and sustainable practice: http://www.gudrunfilipska.com/
+ideas of ecology and sustainable practice: [http://www.gudrunfilipska.com/](http://www.gudrunfilipska.com/)
 
 CARLY BUTLER is an interdisciplinary artist who lives and works on Vancouver Island,
 British Columbia. Her practice reinterprets nautical knowledge around navigation and
@@ -95,7 +95,7 @@ Nova Scotia College of Art and Design and was a finalist for the RBC Canadian Pa
 Competition in 2014. Recent exhibitions include Bedlam and Balance at ArtYard in
 Frenchtown, New Jersey and Anywhere Else at Campbell River Art Gallery. She is currently
 completing a course in celestial navigation and is basing a new body of work on this
-process: http://carlybutler.com/
+process: [http://carlybutler.com/](http://carlybutler.com/)
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~

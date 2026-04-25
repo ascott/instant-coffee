@@ -28,7 +28,7 @@ Exhibition Dates: September 19 to December 12, 2020
 Guest Curator: David MacWilliam
 
 Registration link:
-https://www.eventbrite.ca/e/now-bulletin-special-opening-preview-weekend-tickets-
+[https://www.eventbrite.ca/e/now-bulletin-special-opening-preview-weekend-tickets-](https://www.eventbrite.ca/e/now-bulletin-special-opening-preview-weekend-tickets-)
 116251785219?utm-medium=discovery&utm-campaign=social&utm-
 content=attendeeshare&aff=escb&utm-source=cp&utm-term=listing
 

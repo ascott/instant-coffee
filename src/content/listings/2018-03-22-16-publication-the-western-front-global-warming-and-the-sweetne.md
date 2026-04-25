@@ -12,7 +12,7 @@ Vancouver Book Launch - Global Warming and the Sweetness of Life: A Tar Sands Ta
 (MIT Press, 2018)
 
 Grand Luxe Hall, Western Front, 7pm, March 28th: 
-https://www.facebook.com/events/170511907059985/
+[https://www.facebook.com/events/170511907059985/](https://www.facebook.com/events/170511907059985/)
 
 Confounded by global warming and in search of an affirmative politics that links ecology 
 with social change, Matt Hern and Am Johal set off on a series of road trips to the tar 
@@ -37,7 +37,7 @@ with decolonization and that confronting global warming requires a politics that
 to a different way of being in the world " a reconstituted understanding of the 
 sweetness of life.
 
-https://mitpress.mit.edu/books/global-warming-and-sweetness-life
+[https://mitpress.mit.edu/books/global-warming-and-sweetness-life](https://mitpress.mit.edu/books/global-warming-and-sweetness-life)
 
 About the Authors
 

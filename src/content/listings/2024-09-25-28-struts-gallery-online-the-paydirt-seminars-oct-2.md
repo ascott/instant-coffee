@@ -16,4 +16,4 @@ resource extraction. These
 talks are part of the exhibition One Hand Washes the Other by Joshua Schwebel at
 Struts Gallery. Interested people are invited to attend via the zoomlinks below:
 
-https://www.strutsgallery.ca/post/schedule-the-paydirt-seminars-1
+[https://www.strutsgallery.ca/post/schedule-the-paydirt-seminars-1](https://www.strutsgallery.ca/post/schedule-the-paydirt-seminars-1)

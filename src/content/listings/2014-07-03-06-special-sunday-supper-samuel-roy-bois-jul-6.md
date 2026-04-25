@@ -57,7 +57,7 @@ Curated by Sydney Southam and co-presented by Iris Film Collective.
 This event was made possible with the support of the Neighborhood
 Small Grants and the City of Vancouver.
 
-http://samuelroybois.com/
+[http://samuelroybois.com/](http://samuelroybois.com/)
 
 specialsundaysupper.tumblr.com
 

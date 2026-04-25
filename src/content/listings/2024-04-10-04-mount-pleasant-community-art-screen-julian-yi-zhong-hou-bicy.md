@@ -15,7 +15,7 @@ Monday - Friday, 8 pm - 10 pm
 Saturday, 9 am - 11 pm, Sunday, 9 am - 10 pm
 
 Please see the Mount Pleasant Community Art Screen screening schedule here:
-https://www.mpcas.ca/screening-schedule/
+[https://www.mpcas.ca/screening-schedule/](https://www.mpcas.ca/screening-schedule/)
 
 Julian Yi-Zhong Hous Bicycle Moon (Blue Light) weaves together themes of gender
 performance, Chinese and Western cultural symbolism, and fashion creating a video

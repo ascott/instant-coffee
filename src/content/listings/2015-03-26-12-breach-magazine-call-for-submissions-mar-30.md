@@ -66,6 +66,6 @@ aesthetics pertains to all off-shoots of colonialism that propagate the
 imperial agenda—capitalism, legacies of the slave trade, and environmental
 degradation, to name but a few.
 
-Complete submission details can be found at http://www.breachmagazine.ca.
+Complete submission details can be found at [http://www.breachmagazine.ca](http://www.breachmagazine.ca).
 
 Direct submissions and queries to info@breachmagazine.ca by March 30 2015.

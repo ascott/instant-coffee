@@ -49,7 +49,7 @@ artists, and the community. The integration of visiting professionals,
 collaborative exploration, and learning opportunities makes the 
 program unique in Canada. For updates on Nothing Blank Forever and 
 Langara’s free public art lecture series, visit 
-http://www.langara.bc.ca/departments/centre-for-art-in-public-
+[http://www.langara.bc.ca/departments/centre-for-art-in-public-](http://www.langara.bc.ca/departments/centre-for-art-in-public-)
 spaces/index.html
 
 Originally from Quebec City, Samuel currently resides in Vancouver. He 

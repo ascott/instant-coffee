@@ -24,7 +24,7 @@ Free with museum admission
 
 info@moa.ubc.ca
 604.822.5087 
-http://moa.ubc.ca/experience/program_details.php?id=1111
+[http://moa.ubc.ca/experience/program_details.php?id=1111](http://moa.ubc.ca/experience/program_details.php?id=1111)
 
 Museum of Anthropology at UBC
 6393 N.W. Marine Drive

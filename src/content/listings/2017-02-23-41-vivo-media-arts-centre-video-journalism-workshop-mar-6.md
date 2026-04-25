@@ -19,7 +19,7 @@ Session 2: Thursday, March 9, 6pm-9pm
 Winter Thaw Special Rates!
 Two sessions, 6 hours total | $50, or $40 with VIVO Extended Producer Membership
 
-Buy tickets online @ Eventbrite: https://video-journalism-with-flick-harrison.eventbrite.ca
+Buy tickets online @ Eventbrite: [https://video-journalism-with-flick-harrison.eventbrite.ca](https://video-journalism-with-flick-harrison.eventbrite.ca)
 
 Learn documentary shooting techniques, on-camera reporting, off-camera interview 
 skills, journalistic writing, and documentary editing. Develop a documentary concept, or 
@@ -27,4 +27,4 @@ bring one, and shoot footage to be analyzed and edited over two workshop session
 Participants may use VIVO's video cameras, or bring their own.
 
 Visit VIVO Education for many more details: 
-http://www.vivomediaarts.com/education/upcoming-workshops
+[http://www.vivomediaarts.com/education/upcoming-workshops](http://www.vivomediaarts.com/education/upcoming-workshops)

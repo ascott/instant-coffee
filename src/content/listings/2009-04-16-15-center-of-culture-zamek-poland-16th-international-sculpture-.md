@@ -20,8 +20,8 @@ Center of Culture "Zamek"
 ul. &#346;w. Marcin 80/82
 61-809 POZNA&#323;, POLAND
 
-http://www.zamek.poznan.pl
-http://www.triennale.artproduct.com.pl
+[http://www.zamek.poznan.pl](http://www.zamek.poznan.pl)
+[http://www.triennale.artproduct.com.pl](http://www.triennale.artproduct.com.pl)
 
 Culture Centre "Zamek", organizer of Pozna&#324; 2009 16th International
 Sculpture Triennial, announces that submission of works for Pozna&#324;
@@ -55,7 +55,7 @@ Committee of the selection exhibition.
 The postmark submission deadline is May 10, 2009
 
 Application forms and participation conditions can be found at:
-http://www.triennale.artproduct.com.pl
+[http://www.triennale.artproduct.com.pl](http://www.triennale.artproduct.com.pl)
 
 Application forms shall be sent to the following address:
 XVI MI&#280;DZYNARODOWE TRIENNALE RZE&#377;BY, POZNA&#323; 2009
@@ -100,4 +100,4 @@ City of Pozna&#324;.
 
 For more information on Poznan 16th International Sculpture Triennial
 and the selection exhibition please visit:
-http://www.triennale.artproduct.com.pl
+[http://www.triennale.artproduct.com.pl](http://www.triennale.artproduct.com.pl)

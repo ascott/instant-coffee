@@ -13,7 +13,7 @@ Intro to 3d Printing
 3 hours $36 + GST (non-members) or $30 +GST for members.
 
 Tuesday, June 21st, 7-10pm - Register via Eventbrite.
-https://www.eventbrite.ca/e/intro-to-3d-printing-tickets-25384631115
+[https://www.eventbrite.ca/e/intro-to-3d-printing-tickets-25384631115](https://www.eventbrite.ca/e/intro-to-3d-printing-tickets-25384631115)
 
 Interested in 3D printing but don't know where to start? Not sure how it
 could fit into your design projects? Overwhelmed by the choices out there

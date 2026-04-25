@@ -8,4 +8,4 @@ venue: "plastic orchid factory"
 summary: "plastic orchid factory | 24/25 is LIVE! | SEP 22"
 ---
 
-https://plasticorchidfactory.ca/
+[https://plasticorchidfactory.ca/](https://plasticorchidfactory.ca/)

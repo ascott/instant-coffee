@@ -55,8 +55,8 @@ accessible festival platform for story-driven XR content.
 
 Submissions are now open for all sections of the Festival:
 features, documentaries, short films, and VIFF Immersed. More info can be found at
-http://goviff.org/submissions. Projects can be submitted via FilmFreeway at
-https://filmfreeway.com/VIFF.
+[http://goviff.org/submissions](http://goviff.org/submissions). Projects can be submitted via FilmFreeway at
+[https://filmfreeway.com/VIFF](https://filmfreeway.com/VIFF).
 
 Submissions Deadlines
 Canadian and International Features, Documentaries, and Shorts, and VIFF Immersed

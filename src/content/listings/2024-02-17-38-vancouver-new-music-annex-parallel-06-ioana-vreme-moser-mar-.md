@@ -14,7 +14,7 @@ workshop-performance
 Saturday, March 16, 2024; 8pm
 ANNEX (823 Seymour St., 2nd Floor)
 Sliding Scale
-Get Tickets: https://www.showpass.com/vancouver-new-music-parallel-06-ioana-
+Get Tickets: [https://www.showpass.com/vancouver-new-music-parallel-06-ioana-](https://www.showpass.com/vancouver-new-music-parallel-06-ioana-)
 vreme-moser/
 
 The Parallels series returns in spring 2024 with guest artist Ioana Vreme Moser, a
@@ -37,4 +37,4 @@ toxicity. This lecture-performance is enhanced by a collaborative installment-st
 performance featuring participants from Sizzling Semiconductors, a 3-day workshop
 taking place in advance of the concert.
 
-More info: https://newmusic.org/parallel-06-ioana-vreme-moser/
+More info: [https://newmusic.org/parallel-06-ioana-vreme-moser/](https://newmusic.org/parallel-06-ioana-vreme-moser/)

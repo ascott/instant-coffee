@@ -18,8 +18,8 @@ $75 + taxes (General Admission)
 Price includes materials and workbook
 Instructor: Jesse Andrewartha
 
-Registration: http://ow.ly/106SDC
-Share: https://www.facebook.com/events/194529780920681/
+Registration: [http://ow.ly/106SDC](http://ow.ly/106SDC)
+Share: [https://www.facebook.com/events/194529780920681/](https://www.facebook.com/events/194529780920681/)
 
 A hands-on workshop in the art and craft of stills film processing, for
 anyone with an interest in analogue image making. For participants who have

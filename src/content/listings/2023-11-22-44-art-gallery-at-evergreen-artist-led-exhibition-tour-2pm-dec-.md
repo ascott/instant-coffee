@@ -46,4 +46,4 @@ The artist would like to acknowledge the BC Arts Council with support from the
 Province of British Columbia.
 
 Mark you calendars for the exhibition reception on January 20, 2024.
-https://evergreenculturalcentre.ca/upcoming-exhibition/
+[https://evergreenculturalcentre.ca/upcoming-exhibition/](https://evergreenculturalcentre.ca/upcoming-exhibition/)

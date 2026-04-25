@@ -43,4 +43,4 @@ initial gallery
 2339 granville st
 604.428.4248
 info@initialgallery.com
-http://initialgallery.com
+[http://initialgallery.com](http://initialgallery.com)

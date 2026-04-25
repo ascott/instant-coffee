@@ -41,9 +41,9 @@ Gallery Hours: Tue- Sat, 11-6pm, Closed on Sun, Mon and Holiday
 Place: Centre A: 2 West Hastings
 
 MORE INFO
-Website: http://marayaprojects.com, http://www.centrea.org
-Twitter: http://twitter.com/MarayaProjects
-Facebook: http://www.facebook.com/pages/Maraya-Project/275392745828402
+Website: [http://marayaprojects.com](http://marayaprojects.com), [http://www.centrea.org](http://www.centrea.org)
+Twitter: [http://twitter.com/MarayaProjects](http://twitter.com/MarayaProjects)
+Facebook: [http://www.facebook.com/pages/Maraya-Project/275392745828402](http://www.facebook.com/pages/Maraya-Project/275392745828402)
 
 ARTIST BIOS
 Jean Routhier has an audio leaning art production. Routhier is an audio wrapper,

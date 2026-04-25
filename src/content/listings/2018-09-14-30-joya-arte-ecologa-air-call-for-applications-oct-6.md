@@ -35,6 +35,6 @@ transport system. Residencies often last 1-2 weeks, though longer periods
 may also be arranged. Joyas working languages are English and Spanish.
 
 Further details and application form is available online here:
-https://joya-air.org/apply/
+[https://joya-air.org/apply/](https://joya-air.org/apply/)
 
 Questions and inquiries can be addressed to Juliane: admin@joya-air.org

@@ -19,10 +19,10 @@ Curator, Capture Photography Festival. The artists will present slides of their 
 and jointly discuss their approach to documenting, shaping, and playing with time in
 their photographs.
 
-Event information here: https://capturephotofest.com/events/featured-exhibition-on-
+Event information here: [https://capturephotofest.com/events/featured-exhibition-on-](https://capturephotofest.com/events/featured-exhibition-on-)
 time-moderated-by-jeff-hamada/
 
-Registration here: https://us02web.zoom.us/webinar/register/WN_CSo-
+Registration here: [https://us02web.zoom.us/webinar/register/WN_CSo-](https://us02web.zoom.us/webinar/register/WN_CSo-)
 KQjXQYm72mLbovOWAA
 On Time is organized by Capture Photography Festival in
 partnership with

@@ -19,7 +19,7 @@ courtesy of BMO Financial Group, and includes
 access to the Gallerys summer
 exhibitions.
 
-Read more about the films here: https://thepolygon.ca/news/deckchair-cinema-2024-
+Read more about the films here: [https://thepolygon.ca/news/deckchair-cinema-2024-](https://thepolygon.ca/news/deckchair-cinema-2024-)
 lineup/
 
 Deckchair Cinema 2024 Schedule

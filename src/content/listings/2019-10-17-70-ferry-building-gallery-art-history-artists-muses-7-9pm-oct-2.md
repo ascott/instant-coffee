@@ -19,7 +19,7 @@ Maar, must of Picasso. Presenter: Sandra Seekins, MA, art historian, Capilano Un
 Cost: $15
 
 Register at 604-925-7270 (course # 60220 ) or register online at
-https://ca.apm.activecommunities.com/westvanrec/Activity_Search/57186
+[https://ca.apm.activecommunities.com/westvanrec/Activity_Search/57186](https://ca.apm.activecommunities.com/westvanrec/Activity_Search/57186)
 
 Ferry
 Building Gallery

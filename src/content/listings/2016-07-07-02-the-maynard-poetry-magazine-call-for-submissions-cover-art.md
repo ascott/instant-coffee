@@ -22,6 +22,6 @@ We're also accepting poetry submissions.
 
 Send us your best and boldest original work to 
 submissions@themaynard.org or check out our submission guidelines 
-here: http://www.themaynard.org/submissions.html
+here: [http://www.themaynard.org/submissions.html](http://www.themaynard.org/submissions.html)
 
 --

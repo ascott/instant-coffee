@@ -25,7 +25,7 @@ and expansive brainstorm. Freshly reflected, spacious chords of
 gusty,
 switched up social critique with charm to spare. -- Lissa Wolsak"
 
-http://www.cuebooks.ca/
+[http://www.cuebooks.ca/](http://www.cuebooks.ca/)
 
 "In Mannequin Rising, Miki describes a world of consumerism, and 
 answers
@@ -36,7 +36,7 @@ he sees
 all
 around him."
 
-http://www.newstarbooks.com/book.php?book_id=1554200563
+[http://www.newstarbooks.com/book.php?book_id=1554200563](http://www.newstarbooks.com/book.php?book_id=1554200563)
 
 --
 Capilano University Editions
@@ -49,4 +49,4 @@ CANADA V7J 3H5
 tel: 604-984-1712
 fax: 604-990-7837
 
-http://www.cuebooks.ca
+[http://www.cuebooks.ca](http://www.cuebooks.ca)

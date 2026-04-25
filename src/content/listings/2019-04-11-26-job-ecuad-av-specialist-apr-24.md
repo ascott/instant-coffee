@@ -84,4 +84,4 @@ Excellent verbal and written English skills, with the ability to communicate cle
 and professionally.
 Application Closing date: 04/24/2019 
 
-Apply on ECUAD website: https://ecuad.peopleadmin.ca/postings/1093
+Apply on ECUAD website: [https://ecuad.peopleadmin.ca/postings/1093](https://ecuad.peopleadmin.ca/postings/1093)

@@ -13,7 +13,7 @@ Casey Wei: Vater und Sohn/Father and Son/父与子
 Monday, April 14, 2014 - 7:30pm 
 1131 Howe Street Vancouver 
 Tix:$11/$9 +$3 membership
-http://www.dimcinema.ca / http://www.thecinematheque.ca
+[http://www.dimcinema.ca](http://www.dimcinema.ca) / [http://www.thecinematheque.ca](http://www.thecinematheque.ca)
 
 Using E. O. Plauen's comic strip of the same name as an entry point, Vater 
 und Sohn/Father and Son/父与子 is a video essay in which Vancouver-

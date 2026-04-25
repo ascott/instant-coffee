@@ -23,4 +23,4 @@ or for any questions contact Lesley Bullard (GPAG Director/Curatorial Committee)
 lesleypacific@gmail.com. Please note that we will not accept applications made by
 email.
 
-https://gpag.ca/black-history-month-2026/
+[https://gpag.ca/black-history-month-2026/](https://gpag.ca/black-history-month-2026/)

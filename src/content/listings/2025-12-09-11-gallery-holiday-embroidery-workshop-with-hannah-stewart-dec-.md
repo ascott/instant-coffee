@@ -25,5 +25,5 @@ a range of mediums, including painting, carving, printmaking, and textile work. 
 draws from the intersections of identity and the deep inspiration they find in the coastal
 landscapes they grew up around.
 
-Find Out More: https://www.billreidgallery.ca/blogs/public-programs/holiday-embroidery-
+Find Out More: [https://www.billreidgallery.ca/blogs/public-programs/holiday-embroidery-](https://www.billreidgallery.ca/blogs/public-programs/holiday-embroidery-)
 workshop-with-hannah-stewart

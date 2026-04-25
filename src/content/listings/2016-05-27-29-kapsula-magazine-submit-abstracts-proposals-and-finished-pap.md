@@ -39,4 +39,4 @@ by June 30th, 2016.
 As always, we strongly encourage you to view both our archive and our
 guidelines prior to submission.
 
-http://kapsula.ca
+[http://kapsula.ca](http://kapsula.ca)

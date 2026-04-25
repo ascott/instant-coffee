@@ -19,11 +19,11 @@ Roundhouse Community Arts & Recreation Centre
 
 181 Roundhouse Mews
 
-Register EVENTBRITE https://www.eventbrite.ca/e/1005582242557?aff=oddtdtcreator
+Register EVENTBRITE [https://www.eventbrite.ca/e/1005582242557?aff=oddtdtcreator](https://www.eventbrite.ca/e/1005582242557?aff=oddtdtcreator)
 
 Walk through pre-contact, treaty-making, colonization and resistance, Talking Circles,
 role play and the experience of Turtle Island as one of the original people.
 
 "Reconciliation is about forging and maintaining respectful relationships. There are no
-shortcuts." - Justice Murray Sinclair http://www.trc.ca/websites/trcinstitution/index.php?
+shortcuts." - Justice Murray Sinclair [http://www.trc.ca/websites/trcinstitution/index.php](http://www.trc.ca/websites/trcinstitution/index.php)?
 p=3

@@ -27,7 +27,7 @@ additionally be an opportunity to see their current exhibit Primes, showing work
 Nicole Andre.
 
 Tickets are limited, reserve your spot now:
-https://www.eventbrite.ca/e/678159432117
+[https://www.eventbrite.ca/e/678159432117](https://www.eventbrite.ca/e/678159432117)
 
 PITT's 2022-23 AGM. Consider swinging by earlier in the evening to support
 UNIT/PITT's operations. Details below.

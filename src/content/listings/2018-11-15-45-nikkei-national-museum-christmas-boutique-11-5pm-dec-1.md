@@ -22,4 +22,4 @@ Free admission.
 6688 Southaoks Crescent, Burnaby, BC 
 (corner of Kingsway & Sperling Ave)
 www.nikkeiplace.org
-event website: http://centre.nikkeiplace.org/events/christmas-boutique/
+event website: [http://centre.nikkeiplace.org/events/christmas-boutique/](http://centre.nikkeiplace.org/events/christmas-boutique/)

@@ -39,4 +39,4 @@ This opportunity is suitable for artists who:
 · Reside in Vancouver or the Lower Mainland
 
 Link to Call:
-http://vancouver.ca/parks-recreation-culture/artist-call-for-strathcona-branch-library.aspx
+[http://vancouver.ca/parks-recreation-culture/artist-call-for-strathcona-branch-library.aspx](http://vancouver.ca/parks-recreation-culture/artist-call-for-strathcona-branch-library.aspx)

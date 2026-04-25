@@ -12,7 +12,7 @@ Applicants are now invited to apply for the position of Registrar at The Polygon
 At this regular, part-time position the Registrar will typically work 20 hours a week. Visit
 The Polygon's website to view the full posting and learn how to apply:
 
-https://thepolygon.ca/news/registrar/
+[https://thepolygon.ca/news/registrar/](https://thepolygon.ca/news/registrar/)
 
 Priority will be given to applicants with Registrar experience. That said, if you dont
 meet 100% of the above qualifications, but believe you could excel in this role, we

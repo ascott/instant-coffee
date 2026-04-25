@@ -23,7 +23,7 @@ that exhibits local emerging artists.
 Curated by Colleen Heslin.
 
 The Crying Room Projects, 157 East Cordova Street, Vancouver BC.
-http://www.thecryingroom.org/ Mural Projects Presents:
+[http://www.thecryingroom.org/](http://www.thecryingroom.org/) Mural Projects Presents:
 
 Vanessa Brown
 Heavy Metal Flowers
@@ -38,4 +38,4 @@ that exhibits local emerging artists.
 Curated by Colleen Heslin.
 
 The Crying Room Projects, 157 East Cordova Street, Vancouver BC.
-http://www.thecryingroom.org/
+[http://www.thecryingroom.org/](http://www.thecryingroom.org/)

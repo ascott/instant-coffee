@@ -63,4 +63,4 @@ Surrey Art Gallery is located at 13750 - 88 Avenue, Surrey, BC, Canada.
 604-501-5566
 
 
-http://www.surrey.ca/arts
+[http://www.surrey.ca/arts](http://www.surrey.ca/arts)

@@ -29,7 +29,7 @@ organizations.
 
 For more information and how to apply: Job Posting - Social Planner I
 (Cultural Planner)
-<https://vanfep.city.vancouver.bc.ca/sap/bc/webdynpro/sap/hrrcf_a_po
+<[https://vanfep.city.vancouver.bc.ca/sap/bc/webdynpro/sap/hrrcf_a_po](https://vanfep.city.vancouver.bc.ca/sap/bc/webdynpro/sap/hrrcf_a_po)
 sting_apply_int?
 param=cG9zdF9pbnN0X2d1aWQ9NTYyRTgzMDE1OTNEMDhBMEUx
 MDA4MDAwQUMxQTAzODUmY2FuZF90eXBlPUlOVA%3d%3d&sap-
@@ -66,7 +66,7 @@ to the City of Surrey, please apply online at:
 
 * www.surrey.ca/careers
 
-* http://www.surrey.ca/city-government/6541.aspx
+* [http://www.surrey.ca/city-government/6541.aspx](http://www.surrey.ca/city-government/6541.aspx)
 
 ________________________________
 
@@ -77,8 +77,8 @@ Thurston County - Olympia, Washington, USA
 
 The Washington State Arts Commission (ArtsWA) is seeking a
 seasoned arts administrator to oversee the implementation of My
-Public Art Portal<https://urldefense.proofpoint.com/v1/url?
-u=http://www.arts.wa.gov/pages/category.php?page_name%3Dmy-
+Public Art Portal<[https://urldefense.proofpoint.com/v1/url](https://urldefense.proofpoint.com/v1/url)?
+u=[http://www.arts.wa.gov/pages/category.php?page_name%3Dmy-](http://www.arts.wa.gov/pages/category.php?page_name%3Dmy-)
 public-art-
 portal&k=EWEYHnIvm0nsSxnW5y9VIw%3D%3D%0A&r=0h4X64%2B
 Ti%2FBwkVGdhG9APoeXygdAOFd4C28%2BSG8ok%2FU%3D%0A&

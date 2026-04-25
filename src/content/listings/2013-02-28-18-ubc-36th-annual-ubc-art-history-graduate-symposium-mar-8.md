@@ -80,4 +80,4 @@ History, Visual Art and Theory (UBC), Department of History (UBC), Faculty
 of Graduate Studies Dean’s Office (UBC), First Nations Studies Program 
 (UBC), Morris and Helen Belkin Art Gallery, Museum of Anthropology (UBC).
 
-For more information please visit http://www.ahva.ubc.ca
+For more information please visit [http://www.ahva.ubc.ca](http://www.ahva.ubc.ca)

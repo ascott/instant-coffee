@@ -62,7 +62,7 @@ office by 4:30 pm on November 14, 2017, addressed to the attention of Francesca
 Turrell, Human Resources Advisor.
 
 Please follow the application instructions at: 
-http://www.sfu.ca/hr/prospective_employees/HowToApply.html.
+[http://www.sfu.ca/hr/prospective_employees/HowToApply.html](http://www.sfu.ca/hr/prospective_employees/HowToApply.html).
 
 We thank all applicants for their interest; however, only those selected for interviews will 
 be contacted.

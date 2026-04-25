@@ -22,7 +22,7 @@ activity. Our programming will feature performances for the camera, performances
 for new/social media platforms and a live streamed international performance 
 event that can accommodate artists and audiences with limited mobility (e.g. 
 those who find it difficult to travel because they are living in remote locations, 
-living with disabilities, constrained by domestic obligations, etc.). http://7a-
+living with disabilities, constrained by domestic obligations, etc.). [http://7a-](http://7a-)
 11d.ca/
 
 *Performance for the Camera - Pre-recorded (Max. 10 min)

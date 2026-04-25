@@ -24,10 +24,10 @@ reach our goal of paying fair contributor fees and disseminating our publishing 
 from now into the future, allowing us to continue to represent, and give space for,
 accessible and experimental critical dialogue on art, artists, and spaces considered
 underrepresented, or otherwise in the periphery.
-The link to the auction is here: https://www.peripheralreview.com/product-
+The link to the auction is here: [https://www.peripheralreview.com/product-](https://www.peripheralreview.com/product-)
 category/auction/
 The 2023 auction catalogue is available to download here:
-https://www.peripheralreview.com/wp-content/uploads/2023/09/PR-2023-Auction-
+[https://www.peripheralreview.com/wp-content/uploads/2023/09/PR-2023-Auction-](https://www.peripheralreview.com/wp-content/uploads/2023/09/PR-2023-Auction-)
 Preview.pdf
 2023 Auction Participating Artists:
 Brit Bachmann | Amanda Boulos | Cookie Brunel | Hannah Busse | Yan Wen Chang |

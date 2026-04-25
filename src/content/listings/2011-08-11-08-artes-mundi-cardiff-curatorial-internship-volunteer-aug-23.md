@@ -32,7 +32,7 @@ arts/industries. It would be particularly beneficial to an individual with
 an interest in curating contemporary visual art.
 
 Please download a full role description here. (link to doc: 
-http://www.artesmundi.org/wp-content/uploads/2011/08/Curatorial-
+[http://www.artesmundi.org/wp-content/uploads/2011/08/Curatorial-](http://www.artesmundi.org/wp-content/uploads/2011/08/Curatorial-)
 Intern-Job-description.pdf)
 
 Deadline for applications: Tuesday 23 August 2011

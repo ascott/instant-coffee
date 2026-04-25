@@ -38,7 +38,7 @@ Art Museum at the University of Toronto, the Audain Gallery (Vancouver), Gallery
 published widely, including with Afterall, the Banff Centre, Canadian Art, C Magazine, 
 Hyperallergic and the Vera List Center. In 2017, she participated in documenta 14. She is 
 currently the Director of Education and Public Programs at the Vancouver Art Gallery, and 
-sits on the board of directors for 221A. https://noreadingaftertheinternet.wordpress.com/
+sits on the board of directors for 221A. [https://noreadingaftertheinternet.wordpress.com/](https://noreadingaftertheinternet.wordpress.com/)
 
 thepolygon.ca
 The Polygon Gallery, 

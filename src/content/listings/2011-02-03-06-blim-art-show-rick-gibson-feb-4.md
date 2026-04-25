@@ -23,7 +23,7 @@ to the gallery will not need to wear special glasses to appreciate his art
 works.
 Thematically, Gibson has used this technology to pay homage to six
 prominent religious leaders.
-http://www.rickgibson.net/
+[http://www.rickgibson.net/](http://www.rickgibson.net/)
 Art Opening - Friday, February 4 from 8-midnite
 Blimited: Limited Edition Screen printed shirt by Rick Gibson available at
 Blim for month of February.

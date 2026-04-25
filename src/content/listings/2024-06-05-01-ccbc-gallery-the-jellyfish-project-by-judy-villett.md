@@ -32,4 +32,4 @@ consumption. In this
 interconnected web of life, not every creature is endangered by
 climate change. Some are thriving on and under the pollution.
 
-Webpage: https://craftcouncilbc.ca/the-jellyfish-project-2/
+Webpage: [https://craftcouncilbc.ca/the-jellyfish-project-2/](https://craftcouncilbc.ca/the-jellyfish-project-2/)

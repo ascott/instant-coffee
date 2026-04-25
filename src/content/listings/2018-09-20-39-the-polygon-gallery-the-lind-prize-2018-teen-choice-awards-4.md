@@ -27,7 +27,7 @@ peers.
 Following this event, participants will have an opportunity to contribute their thoughts on 
 future teen programming at The Polygon Gallery.
 
-https://thepolygon.ca/event/lind-prize-2018-teen-choice-awards/
+[https://thepolygon.ca/event/lind-prize-2018-teen-choice-awards/](https://thepolygon.ca/event/lind-prize-2018-teen-choice-awards/)
 
 thepolygon.ca
 Admision is by donation, courtesy of BMO Financial Group

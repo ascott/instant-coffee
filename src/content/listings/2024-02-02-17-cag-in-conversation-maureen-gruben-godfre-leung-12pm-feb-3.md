@@ -18,4 +18,4 @@ Godfre Leung on the occasion of Gruben's exhibition The land that used to be.
 RSVP
 Registration for this event is required. Secure your place here.
 
-https://cagvancouver.org/event/in-conversation-maureen-gruben-godfre-leung
+[https://cagvancouver.org/event/in-conversation-maureen-gruben-godfre-leung](https://cagvancouver.org/event/in-conversation-maureen-gruben-godfre-leung)

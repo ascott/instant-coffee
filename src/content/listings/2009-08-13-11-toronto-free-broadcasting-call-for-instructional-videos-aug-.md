@@ -50,7 +50,7 @@ Please submit video(s) and accompanying text document(s) along the following gui
 3. Contact information, email or surface mail address (optional)
 
 • For those interested in licensing their videos, we encourage the use of Creative Commons 
-licenses. (Information about Creative Commons can be found here: http://creativecommons.org/ )
+licenses. (Information about Creative Commons can be found here: [http://creativecommons.org/](http://creativecommons.org/) )
 
 Sending and Uploading Video Files:
 
@@ -58,8 +58,8 @@ Sending and Uploading Video Files:
 providing us with a link (which we'll use to embed on the TFB website)
 • Files being sent through the net should be in any of the following formats: MOV, .AVI, .MPG, 
 .M4V, .MP4
-• Yousendit: http://www.yousendit.com . It's free for up to 100 mb files
-• Pando: http://www.pando.com. It's free, but your computer has to be on for us to download it
+• Yousendit: [http://www.yousendit.com](http://www.yousendit.com) . It's free for up to 100 mb files
+• Pando: [http://www.pando.com](http://www.pando.com). It's free, but your computer has to be on for us to download it
 • Files sent via Pando or Yousendit should be directed to info@torontofreebroadcasting.net 
 • Ftp (also free, you need an ftp program like cyberduck, etc.). For ftp login info please email:
 info@torontofreebroadcasting.net 

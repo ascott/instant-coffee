@@ -12,4 +12,4 @@ SCREENING
 DIM Cinema
 The Motion of the Image
 April 3
-https://thecinematheque.ca/films/2024/motion-image
+[https://thecinematheque.ca/films/2024/motion-image](https://thecinematheque.ca/films/2024/motion-image)

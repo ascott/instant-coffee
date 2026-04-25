@@ -33,7 +33,7 @@ This curatorial tour is open to the public, and is included with the cost of adm
 or membership. Space is limited - register for your
 spot at the link below:
 
-https://www.eventbrite.ca/e/gathie-falk-revelations-curatorial-tour-with-sarah-milroy-
+[https://www.eventbrite.ca/e/gathie-falk-revelations-curatorial-tour-with-sarah-milroy-](https://www.eventbrite.ca/e/gathie-falk-revelations-curatorial-tour-with-sarah-milroy-)
 tickets-754838501277?aff=oddtdtcreator&utm_campaign=5beab9ba80-
 novemberupdate1&utm_term=0_488cf2cedc-5beab9ba80-
 447725649&utm_source=Master+Mailing+List&utm_medium=email&mc_eid=e7797

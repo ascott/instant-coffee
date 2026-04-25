@@ -20,7 +20,7 @@ Budget: $10,000, all inclusive
 Installation: September 2012
 Deadline for Submissions: Tuesday, January 24, 2012 @ 2:00 pm
 Find the Call and other details on how to submit on our Call to Artist 
-<http://www.richmond.ca/culture/publicart/opportunities.htm> webpage
+<[http://www.richmond.ca/culture/publicart/opportunities.htm](http://www.richmond.ca/culture/publicart/opportunities.htm)> webpage
 City of Richmond Public Art Program
 Arts, Culture and Heritage Services
 Community Services
@@ -28,4 +28,4 @@ City of Richmond
 Tel: 604-204-8671
 publicart@richmond.ca<mailto:publicart@richmond.ca>
 Mail: 6911 No. 3 Road, Richmond, BC V6Y 2C1
-On-line: http://www.richmond.ca/culture/publicart/program.htm
+On-line: [http://www.richmond.ca/culture/publicart/program.htm](http://www.richmond.ca/culture/publicart/program.htm)

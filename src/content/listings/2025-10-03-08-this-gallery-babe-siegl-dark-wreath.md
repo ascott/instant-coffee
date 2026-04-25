@@ -17,4 +17,4 @@ Dark Wreath blends digital shimmer with painterly depth. Babe Siegls surreal can
 explore contemporary queer identity through bold colour, uncanny imagery, and playful,
 avatar-like figures that hover between humour and hope.
 
-https://thisgallery.org/project/babe-siegl-dark-wreath/
+[https://thisgallery.org/project/babe-siegl-dark-wreath/](https://thisgallery.org/project/babe-siegl-dark-wreath/)

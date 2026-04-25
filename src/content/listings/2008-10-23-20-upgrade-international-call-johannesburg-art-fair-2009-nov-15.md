@@ -40,8 +40,8 @@ communication of ideas."
 
 -Art Logic, 2008
 
-The Johannesburg Art Fair (http://www.joburgartfair.co.za) is an annual art
-fair operated by Art Logic (http://www.artlogic.co.za )
+The Johannesburg Art Fair ([http://www.joburgartfair.co.za](http://www.joburgartfair.co.za)) is an annual art
+fair operated by Art Logic ([http://www.artlogic.co.za](http://www.artlogic.co.za) )
 The First Joburg Art Fair took place in the heart of the Sandton Central
 Management District (SCMD) in April 2008. 22 Major galleries sold work in a
 traditional art fair set up covering 5000 square meters of the Sandton
@@ -55,7 +55,7 @@ and the Talks form part of Artlogic's Joburg Art Week.
 Upgrade Vancouver launched in 2003 with a successful program of discussions
 and presentations at the intersection of art and technology, happening
 monthly and supported by social gatherings. The series is part of Upgrade!
-International (http://theupgrade.net ), and collaborates to produce
+International ([http://theupgrade.net](http://theupgrade.net) ), and collaborates to produce
 publications, exhibitions and processes of exchange between 30 cities.
 
 The pavillion is a project of Upgrade Johannesburg in partnership with
@@ -65,4 +65,4 @@ To apply, please send a URL, a bio, and a short description of the work to
 Kate Armstrong: kate@katearmstrong.com by November 15, 2008.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-http://www.katearmstrong.com/upgrade/vancouver/
+[http://www.katearmstrong.com/upgrade/vancouver/](http://www.katearmstrong.com/upgrade/vancouver/)

@@ -36,4 +36,4 @@ and/or chairing a Board Committee (Governance, Finance and Risk Management,
 Human Resources, Development and Fundraising).
 
 For more details,
-please go to https://centrea.org/opportunities/
+please go to [https://centrea.org/opportunities/](https://centrea.org/opportunities/)

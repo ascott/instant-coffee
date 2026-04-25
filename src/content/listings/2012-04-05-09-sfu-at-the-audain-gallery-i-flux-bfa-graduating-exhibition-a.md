@@ -42,5 +42,5 @@ Hastings Street
 Vancouver, BC, Canada
 
 Contact: info@audaingallery.ca
-Website: http://www.audaingallery.ca
+Website: [http://www.audaingallery.ca](http://www.audaingallery.ca)
 Twitter: @SFU_Arts

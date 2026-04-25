@@ -30,4 +30,4 @@ Belonging (2007)
 
 For access to study materials please email librarian@polly-anna.ca.
 
-http://polly-anna.ca/activity/judith-butler-4
+[http://polly-anna.ca/activity/judith-butler-4](http://polly-anna.ca/activity/judith-butler-4)

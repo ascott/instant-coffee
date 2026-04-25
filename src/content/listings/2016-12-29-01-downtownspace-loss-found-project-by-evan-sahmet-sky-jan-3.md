@@ -29,4 +29,4 @@ Together, loss can be found or mourned.
 DOWNTOWNSPACE is a new vending and exhibition site for creative 
 propositions about public space and social exchange. Based in a street vending 
 location in downtown Vancouver, we trade in objects and ideas that tackle the 
-urban context. http://downtownspace.ca .
+urban context. [http://downtownspace.ca](http://downtownspace.ca) .

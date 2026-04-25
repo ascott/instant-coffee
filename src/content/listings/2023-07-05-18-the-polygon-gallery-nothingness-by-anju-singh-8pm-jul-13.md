@@ -22,7 +22,7 @@ Followed by the Deckchair Cinema screening of What We Do In The Shadows at
 9:15pm.
 
 RSVPs are helpful
-RSVP here: https://thepolygon.ca/event/nothingness-by-anju-singh/
+RSVP here: [https://thepolygon.ca/event/nothingness-by-anju-singh/](https://thepolygon.ca/event/nothingness-by-anju-singh/)
 
 About Anju Singh
 Anju Singh is a composer, musician, sound artist and media artist based in

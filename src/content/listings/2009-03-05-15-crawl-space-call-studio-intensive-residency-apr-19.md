@@ -57,7 +57,7 @@ descriptions if relevant)
 $15 entry fee
 
 Payments can be made on Shunpike (Crawl Space fiscal sponsor) secure online
-site: https://co.clickandpledge.com/advanced/default.aspx?wid=20709 or with
+site: [https://co.clickandpledge.com/advanced/default.aspx?wid=20709](https://co.clickandpledge.com/advanced/default.aspx?wid=20709) or with
 a cheque written out to Shunpike and sent to: 504 E. Denny Way #1 Seattle
 WA 98122
 

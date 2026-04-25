@@ -98,4 +98,4 @@ of Vancouver " Chinatown Transformation Team.
 
 If you have any questions, please email submissions@chinatown.today, and we will be
 more than happy to get back to you as soon as possible!
-http://https://www.chinatown.today/guide/submit/
+[http://https://www.chinatown.today/guide/submit/](http://https://www.chinatown.today/guide/submit/)

@@ -21,7 +21,7 @@ Deckchair Cinema is by donation, courtesy of BMO Financial Group ($10 per guest 
 recommended), and includes access to the Gallerys summer exhibition Jeremy Shaw:
 Phase Shifting Index.
 
-Find out more: https://thepolygon.ca/news/deckchair-cinema-2023/
+Find out more: [https://thepolygon.ca/news/deckchair-cinema-2023/](https://thepolygon.ca/news/deckchair-cinema-2023/)
 
 Schedule
 6/29 " Fantastic Planet

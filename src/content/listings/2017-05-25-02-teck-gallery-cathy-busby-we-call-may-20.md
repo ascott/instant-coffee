@@ -48,5 +48,5 @@ of Visual Art at UBC.
 
 Curated by Amy Kazymerchyk
 
-For more information, http://www.sfu.ca/galleries/teck-gallery/CathyBusby-WE-
+For more information, [http://www.sfu.ca/galleries/teck-gallery/CathyBusby-WE-](http://www.sfu.ca/galleries/teck-gallery/CathyBusby-WE-)
 CALL.html

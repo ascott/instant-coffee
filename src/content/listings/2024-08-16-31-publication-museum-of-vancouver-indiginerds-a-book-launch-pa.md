@@ -27,4 +27,4 @@ early as the Museum closes at 8:00pm that day.
 
 Date: Friday, August 30, 2024 Time: 5:00-8:00pm Location:
 1100 Chestnut St, Vancouver, BC Tickets: $15-25 (plus fees and taxes)
-https://museumofvancouver.ca/indiginerds-book-launch
+[https://museumofvancouver.ca/indiginerds-book-launch](https://museumofvancouver.ca/indiginerds-book-launch)

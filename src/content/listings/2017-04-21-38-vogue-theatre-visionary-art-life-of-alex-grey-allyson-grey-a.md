@@ -30,4 +30,4 @@ Balcony seating: $30 + service fees
 Orchestra level seating: $40 + service fees
 Premium Meet & Greet package*: $90 + service fees
 
-https://www.facebook.com/events/722686777895697/
+[https://www.facebook.com/events/722686777895697/](https://www.facebook.com/events/722686777895697/)

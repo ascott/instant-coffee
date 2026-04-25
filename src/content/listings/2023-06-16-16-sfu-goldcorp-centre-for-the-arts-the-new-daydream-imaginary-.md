@@ -60,7 +60,7 @@ Eldritch Priest, Emily Scherzinger, Sharon Sliwinski, and Tania Willard. Plus sc
 of Jalal Toufic's trilogy The Matrix for AI et Al (2018).
 
 More HERE:
-https://www.sfu.ca/sca/events---news/events/the-new-daydream-
+[https://www.sfu.ca/sca/events---news/events/the-new-daydream-](https://www.sfu.ca/sca/events---news/events/the-new-daydream-)
 imaginary--on-the-ethico-aesthetics-of-spontane.html
 
 Jalal Toufic: The Matrix for AI et Al trilogy
@@ -88,5 +88,5 @@ The
 Matrix for Radical Simulationists (aka How to Read The Matrix as a Cypher) (72
 hours and 36 minutes, 2018)
 
-More HERE: https://www.sfu.ca/sca/events---news/events/jalal-toufic--the-matrix-for-ai-
+More HERE: [https://www.sfu.ca/sca/events---news/events/jalal-toufic--the-matrix-for-ai-](https://www.sfu.ca/sca/events---news/events/jalal-toufic--the-matrix-for-ai-)
 et-al-trilogy.html

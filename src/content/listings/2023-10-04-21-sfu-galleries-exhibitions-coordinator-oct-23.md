@@ -89,8 +89,8 @@ Please include your cover letter and resume in one attachment.
 
 Job posting closes October 23, 2023
 
-Job description PDF: http://www.sfu.ca/content/dam/sfu/human-resources/current-job-
+Job description PDF: [http://www.sfu.ca/content/dam/sfu/human-resources/current-job-](http://www.sfu.ca/content/dam/sfu/human-resources/current-job-)
 descriptions/2023/00108134.pdf
 
-Apply Here: https://tre.tbe.taleo.net/tre01/ats/careers/v2/viewRequisition?
+Apply Here: [https://tre.tbe.taleo.net/tre01/ats/careers/v2/viewRequisition](https://tre.tbe.taleo.net/tre01/ats/careers/v2/viewRequisition)?
 org=SIMOFRAS&cws=37&rid=5499

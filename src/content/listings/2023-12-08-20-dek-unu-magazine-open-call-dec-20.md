@@ -14,7 +14,7 @@ we would be grateful if you could include us again in your next list of calls!
 
 No fee.
 Deadline: December 20, 2023
-Details: https://www.dekunumag.com
+Details: [https://www.dekunumag.com](https://www.dekunumag.com)
 
 Thanks for your help,
 Roger Leege
@@ -28,8 +28,8 @@ that provides respectable, respectful publication and promotion to one artist pe
 month online and in print.
 
 Deadline for submissions: 5:00 PM US Eastern, December 20, 2023
-Current edition: https://www.dekunumag.com
-Complete submission guidelines: https://www.dekunumag.com/submit
+Current edition: [https://www.dekunumag.com](https://www.dekunumag.com)
+Complete submission guidelines: [https://www.dekunumag.com/submit](https://www.dekunumag.com/submit)
 
 Always solo-format, always open theme, and Dek Unu never charges a fee to artists
 to submit.

@@ -46,7 +46,7 @@ berlebenskuns.klub (Haus der Kulturen der Welt, Berlin). She completed a MFA in
 Public Art at the Bauhaus University Weimar, and co-founded the Berlin based artist 
 collective Process Institute. She is currently based in Vancouver and teaches Social 
 Practice at Emily Carr University.
-http://zoekreye.com
+[http://zoekreye.com](http://zoekreye.com)
 
 Guadalupe Martinez is an Argentine-Canadian artist based in Vancouver. She holds a 
 BFA from IUNA and an MFA from UBC. With the support of a BC Arts Councils Early 
@@ -57,7 +57,7 @@ been shown locally and internationally, including at Latitude 53, Access Gallery
 Commons, Satellite Gallery, and grunt gallery in Vancouver; Palais de Glace, Museo del 
 Grabado, Centro Cultural San Martin and Centro Cultural Borges in Buenos Aires, as 
 well as in Mexico, US, and Italy.
-http://www.guadalupemartinez.com/
+[http://www.guadalupemartinez.com/](http://www.guadalupemartinez.com/)
 
 *
 
@@ -79,4 +79,4 @@ writers, curators, and activists. Adding to this exciting program, we have launc
 artist-in-residence series to provide space and time to artists interested in addressing 
 questions of the foreshore.
 
-http://www.theforeshore.org/
+[http://www.theforeshore.org/](http://www.theforeshore.org/)

@@ -38,7 +38,7 @@ For more information please contact READ Books at 604-630-7411 or
 at readbooks@ecuad.ca
 
 For information about Dialectic of Failure please visit 
-http://westvancouvermuseum.ca
+[http://westvancouvermuseum.ca](http://westvancouvermuseum.ca)
 
 ***
 Charles H. Scott Gallery | Emily Carr University of Art + Design

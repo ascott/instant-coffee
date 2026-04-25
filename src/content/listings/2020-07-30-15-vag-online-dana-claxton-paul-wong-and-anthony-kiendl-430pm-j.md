@@ -27,4 +27,4 @@ artist-centred decision-making and to bringing about radical institutional trans
 decolonization.
 
 Pre-register for Art Connects at:
-https://zoom.us/webinar/register/WN_ca60XFdhSmu3BvCKFZ08Ag
+[https://zoom.us/webinar/register/WN_ca60XFdhSmu3BvCKFZ08Ag](https://zoom.us/webinar/register/WN_ca60XFdhSmu3BvCKFZ08Ag)

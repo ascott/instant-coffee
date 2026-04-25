@@ -48,6 +48,6 @@ Vancouver BC Canada V6G 2T3
 T 604.682.1234 or 1.800.663.8071
 E bmg@buschlenmowatt.com
 
-http://www.buschlenmowatt.com/
+[http://www.buschlenmowatt.com/](http://www.buschlenmowatt.com/)
 
-http://tonilatour.com/FamilyProject.htm
+[http://tonilatour.com/FamilyProject.htm](http://tonilatour.com/FamilyProject.htm)

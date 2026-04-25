@@ -12,7 +12,7 @@ VIVO Media Arts Centre
 DESTROY VANCOUVER V: Chris Corsano
 Saturday March 2 8.30PM-1AM
 1965 Main St. Vancouver
-http://www.vivomediaarts.com/event/destroy-vancouver-v
+[http://www.vivomediaarts.com/event/destroy-vancouver-v](http://www.vivomediaarts.com/event/destroy-vancouver-v)
 Admission: $ 15
 
 Chris Corsano, Black Leather Jesus, Psychic Tuberculosis, The Rita/Mass 

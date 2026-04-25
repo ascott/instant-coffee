@@ -23,4 +23,4 @@ Kreye, Arvo Leo, Katie Lyle, Damian Moppett, Les Ramsay, Jacquelyn
 Ross, Erin Siddall, Holly Ward, Elizabeth Zvonar, and many more!
 
 More information on the Gala & Auction (Feb 27th) here:
-http://front.bc.ca/events/anniversary-gala-dinner-art-auction/
+[http://front.bc.ca/events/anniversary-gala-dinner-art-auction/](http://front.bc.ca/events/anniversary-gala-dinner-art-auction/)

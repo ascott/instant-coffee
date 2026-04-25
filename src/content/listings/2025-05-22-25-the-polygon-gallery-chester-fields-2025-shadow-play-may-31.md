@@ -12,7 +12,7 @@ Join The Polygon Gallery on Saturday, May 31 for the Chester Fields 2025 Opening
 Celebration.
 Doors at 1:00pm
 Remarks and winners announced at 1:30pm
-RSVP Here: https://thepolygon.ca/event/chester-fields-2025-opening-celebration/
+RSVP Here: [https://thepolygon.ca/event/chester-fields-2025-opening-celebration/](https://thepolygon.ca/event/chester-fields-2025-opening-celebration/)
 
 Chester Fields 2025: Shadow Play is on view at The Polygon May 25 " June 29.
 

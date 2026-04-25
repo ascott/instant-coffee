@@ -47,4 +47,4 @@ famous Chinese legend, Madame White Snake.
 VIVO Media Arts
 2625 Kaslo Street
 
-facebook event: https://www.facebook.com/events/716383155207042/
+facebook event: [https://www.facebook.com/events/716383155207042/](https://www.facebook.com/events/716383155207042/)

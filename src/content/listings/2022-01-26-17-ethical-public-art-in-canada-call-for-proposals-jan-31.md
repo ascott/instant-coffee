@@ -22,10 +22,10 @@ modifying, revitalizing and reinventing art practices outside of the gallery and
 We are accepting proposals until January 31st, 2022. All the details about the
 submission modalities are detailed in the call that you can find on the Department of
 Art History and Film Studies of the Universit de Montrals website:
-https://histart.umontreal.ca/departement/evenements/evenement/news/detail/News/un-
+[https://histart.umontreal.ca/departement/evenements/evenement/news/detail/News/un-](https://histart.umontreal.ca/departement/evenements/evenement/news/detail/News/un-)
 art-public-ethique-perspectives-canadiennes-ethical-public-art-in-canada/
 
 Facebook:
-https://www.facebook.com/EthicalPublicArtinCanada/posts/125795776606422
+[https://www.facebook.com/EthicalPublicArtinCanada/posts/125795776606422](https://www.facebook.com/EthicalPublicArtinCanada/posts/125795776606422)
 
-Instagram: https://www.instagram.com/ethical_public_art_in_canada/
+Instagram: [https://www.instagram.com/ethical_public_art_in_canada/](https://www.instagram.com/ethical_public_art_in_canada/)

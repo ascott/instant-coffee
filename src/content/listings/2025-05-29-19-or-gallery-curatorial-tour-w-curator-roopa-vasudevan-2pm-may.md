@@ -29,7 +29,7 @@ OR GALLERY
 
 xmkym, Swxw7mesh, and slilwta Territory
 
-https://orgallery.org
+[https://orgallery.org](https://orgallery.org)
 
 236 East Pender, Vancouver, BC Canada V6A 1T7
 +1 (604) 683-7395 | operations@orgallery.org

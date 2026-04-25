@@ -27,7 +27,7 @@ DEADLINE
 
 Applications must be received by September 5th, 2014
 
-For more information visit http://vancouver.ca/artist-studio or phone 3-1-1
+For more information visit [http://vancouver.ca/artist-studio](http://vancouver.ca/artist-studio) or phone 3-1-1
 
 You're receiving this email because you are subscribed to our newsletter 
 with vancouver@instantcoffee.org.

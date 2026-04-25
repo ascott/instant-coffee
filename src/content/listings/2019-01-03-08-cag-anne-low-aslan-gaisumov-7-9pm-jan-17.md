@@ -31,4 +31,4 @@ Diyan Achjadi, Patrick Cruz, Rolande Souliere, Erdem Tadelen, Anna Torma
 
 No reservation required. Simply just turn up!
 
-Find out more about the exhibitions at https://www.contemporaryartgallery.ca/whats-on/
+Find out more about the exhibitions at [https://www.contemporaryartgallery.ca/whats-on/](https://www.contemporaryartgallery.ca/whats-on/)

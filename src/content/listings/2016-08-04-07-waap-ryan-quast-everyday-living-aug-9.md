@@ -49,4 +49,4 @@ vocabulary of his daily life as a caretaker. The art reveals the
 relationship of maker to object, as well as the aesthetic of work and labour.
 
 Quast was featured in a recent Magenta Magazine by Bill Clarke, linked as
-follows: http://www.magentafoundation.org/magazine/perceiving-paint/
+follows: [http://www.magentafoundation.org/magazine/perceiving-paint/](http://www.magentafoundation.org/magazine/perceiving-paint/)

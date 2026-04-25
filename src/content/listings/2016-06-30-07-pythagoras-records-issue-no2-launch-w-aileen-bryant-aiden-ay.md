@@ -21,10 +21,10 @@ Featuring a record listening station and live performances by:
 Aileen Bryant & Aiden Ayers
 
 SP Davis
-https://soundcloud.com/s-p-davis-1
+[https://soundcloud.com/s-p-davis-1](https://soundcloud.com/s-p-davis-1)
 
 HICK
-https://vimeo.com/119519059
+[https://vimeo.com/119519059](https://vimeo.com/119519059)
 
 Installation and staging by Nick Howe & Aileen Bryant
 

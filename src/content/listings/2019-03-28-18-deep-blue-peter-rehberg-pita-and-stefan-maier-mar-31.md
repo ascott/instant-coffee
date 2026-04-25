@@ -13,9 +13,9 @@ Deep Blue
 255 East 2nd Ave
 Doors @ 8pm
 
-Tickets: https://leisure.events/aaron-dilloway-charmaine-lee-pita-stefan-
+Tickets: [https://leisure.events/aaron-dilloway-charmaine-lee-pita-stefan-](https://leisure.events/aaron-dilloway-charmaine-lee-pita-stefan-)
 maier
-Facebook: https://www.facebook.com/events/1900108550117781/
+Facebook: [https://www.facebook.com/events/1900108550117781/](https://www.facebook.com/events/1900108550117781/)
 
 Peter Rehberg, who performs under the pseudonym Pita, is the 
 founder of Editions Mego. His music borders between noise, industrial, 
@@ -26,7 +26,7 @@ artists such as Heather Leigh, Klara Lewis, Kevin Drumm, Thomas
 Brinkmann, Florian Hecker, Bernard Parmegiani, Russell Haswell, 
 Iannis Xenakis, Oren Ambarchi, Bill Orcutt, Mark Fell and many more. 
 
-https://pitaemego.bandcamp.com 
+[https://pitaemego.bandcamp.com](https://pitaemego.bandcamp.com) 
 
 Stefan Maier is a composer based in Vancouver, Canada. His 
 compositions, installations, and performances examine emergent and 
@@ -36,7 +36,7 @@ New Music, Forecast Festival, SPOR, Musik der Jahrhunderte, IAC
 Malm, Experimental Studio SWR, G(o)ng Tomorrow, and Haus der 
 Kulturen der Welt. 
 
-https://soundcloud.com/stefanemaier 
-http://stefanmaier.studio 
+[https://soundcloud.com/stefanemaier](https://soundcloud.com/stefanemaier) 
+[http://stefanmaier.studio](http://stefanmaier.studio) 
 
-Sign up for Deep Blue's newsletter at: http://deepbluestudios.org/
+Sign up for Deep Blue's newsletter at: [http://deepbluestudios.org/](http://deepbluestudios.org/)

@@ -56,7 +56,7 @@ material science, alternative energy systems, corporate responsibility,
 co-operatives and microfinance, biodiversity conservation, preservation of
 indigenous knowledge, and the culture of consumption.
 
-Please make a submission on our website http://www.subtletechnologies.comÂ 
+Please make a submission on our website [http://www.subtletechnologies.comÂ](http://www.subtletechnologies.comÂ) 
 by January 9 2010.
 Subtle Technologies is grateful for the support of Canada Council for the
 Arts, Toronto Arts Council, Ontario Arts Council and the Ontario Trillium

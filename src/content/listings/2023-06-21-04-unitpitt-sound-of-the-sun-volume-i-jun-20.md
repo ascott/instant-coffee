@@ -24,7 +24,7 @@ July 04 " 8PM"10PM: Radio broadcast on CJSF 90.1FM with Marisa + Catherine
 
 July 20 " Cassette launch event TBD
 
-Listen now and through the summer at: https://soundcloud.com/user-
+Listen now and through the summer at: [https://soundcloud.com/user-](https://soundcloud.com/user-)
 929382892/sets/sun
 
 Recording (tracks 1 & 4), mastering, and project support from Nick Short

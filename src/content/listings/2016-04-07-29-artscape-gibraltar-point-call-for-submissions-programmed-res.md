@@ -13,5 +13,5 @@ Join us on Toronto Island Aug 8-18,
 2016 to explore Alchemy: the intersection of artistic practice in any 
 medium and the
 growing, cooking and sharing of food from our gardens. Link here for
-more information: http://artscapegibraltarpoint.ca/programmed-
+more information: [http://artscapegibraltarpoint.ca/programmed-](http://artscapegibraltarpoint.ca/programmed-)
 residency/alchemy-exploring-the-intersections-between-art-food/

@@ -70,7 +70,7 @@ Campus (515 West Hastings). The talk is free and open to the public -
 there is no charge & no advance registration.
 
 Images of Farah Nosh’s photography may be seen at: 
-http://farahnosh.com/
+[http://farahnosh.com/](http://farahnosh.com/)
 
 Teck Gallery | SFU Vancouver Campus | 515 West Hastings
 778-782-4266 | sfu.ca/gallery | gallery@sfu.ca | Open daily during 

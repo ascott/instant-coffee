@@ -64,4 +64,4 @@ February
 
 Gallery Hours: 12-6pm 
 
-More information at http://nomadsapien.blogspot.com/
+More information at [http://nomadsapien.blogspot.com/](http://nomadsapien.blogspot.com/)

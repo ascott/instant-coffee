@@ -12,6 +12,6 @@ The Polygon Podcast: Episode 2 with Dave Gunawan
 On the second episode of The Polygon Podcast, the Gallerys Director Reid Shier is in
 conversation with chef Dave Gunawan of Ubuntu Canteen.
 
-You can listen here: https://thepolygon.ca/news/the-polygon-podcast-episode-2-
+You can listen here: [https://thepolygon.ca/news/the-polygon-podcast-episode-2-](https://thepolygon.ca/news/the-polygon-podcast-episode-2-)
 featuring-dave-gunawan/
 Or on iTunes, Spotify, and Google Podcasts.

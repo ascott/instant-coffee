@@ -31,5 +31,5 @@ Selected works should challenge the boundary between image and object,
 encouraging viewers to engage with photography in new ways.
 Deadline to Submit: September 15, 2025
 
-Submit here: https://northvanarts.ca/events-exhibitions/call-for-entry-image-object-
+Submit here: [https://northvanarts.ca/events-exhibitions/call-for-entry-image-object-](https://northvanarts.ca/events-exhibitions/call-for-entry-image-object-)
 photosculpture/

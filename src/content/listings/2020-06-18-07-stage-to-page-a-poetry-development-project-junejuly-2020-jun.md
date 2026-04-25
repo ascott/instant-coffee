@@ -24,5 +24,5 @@ Selected poets will participate in a live stream event, where a panel of publish
 authors, writers, and performers can support their work, fine tune their editing, and
 provide insight to all viewers on the editing and publishing process.
 
-To submit please visit: http://www.cacv.ca/stage-to-page/
+To submit please visit: [http://www.cacv.ca/stage-to-page/](http://www.cacv.ca/stage-to-page/)
 Submission deadline: Friday, June 19, 2020

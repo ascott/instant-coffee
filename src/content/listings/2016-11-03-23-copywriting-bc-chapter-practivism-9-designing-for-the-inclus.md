@@ -23,4 +23,4 @@ Trust, NYC) on creating social justice, design education and environmentally
 sustainable public space
 
 To find out more, visit practivism.ca
-http://practivism.ca
+[http://practivism.ca](http://practivism.ca)

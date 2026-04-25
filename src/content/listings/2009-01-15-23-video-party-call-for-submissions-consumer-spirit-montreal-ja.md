@@ -26,7 +26,7 @@ poetic films about connecting with your spiritual side, critical docs about
 organized religion, intimate portraits of your Priest, Rabbi or Imam and
 hidden camera exposés from your last scientology meeting.
 
-Details online at: http://www.videoparty.info/submissions.html
+Details online at: [http://www.videoparty.info/submissions.html](http://www.videoparty.info/submissions.html)
 
 Mail your DVDs to:
 Video Party

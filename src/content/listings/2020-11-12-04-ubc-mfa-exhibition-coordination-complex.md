@@ -41,7 +41,7 @@ Extended viewing hours: November 20, 3-6 p.m.
 
 All events free and open to the public
 
-Planning your visit: https://ahva.ubc.ca/ahva-gallery-home/hours-and-contact/
+Planning your visit: [https://ahva.ubc.ca/ahva-gallery-home/hours-and-contact/](https://ahva.ubc.ca/ahva-gallery-home/hours-and-contact/)
 
 AHVA Gallery
 

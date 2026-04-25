@@ -14,4 +14,4 @@ The City of Vancouver Public Art program is excited to announce the March artwor
 "Upstream" on the VanLive! video screen and collaborative works by Lucien Durey and
 Katie Kozak presented on transit shelters across the city. The commissioned works
 present strong ideas that reflect the complexities of the pandemic and encourage critical
-dialogue and engagement. Visit our website to learn more: https://vancouver.ca/platforms
+dialogue and engagement. Visit our website to learn more: [https://vancouver.ca/platforms](https://vancouver.ca/platforms)

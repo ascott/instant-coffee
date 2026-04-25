@@ -19,8 +19,8 @@ Artist Fee: $400 artist fee
 Materials Fee: Artists are paid a flat fee of $150 for materials
 
 SEE FULL CALL HERE
-https://drive.google.com/file/d/1jd1dX7g08-cxgWZfbzHcWvUJpQr3q9EU/view?
+[https://drive.google.com/file/d/1jd1dX7g08-cxgWZfbzHcWvUJpQr3q9EU/view](https://drive.google.com/file/d/1jd1dX7g08-cxgWZfbzHcWvUJpQr3q9EU/view)?
 usp=sharing
 
 APPLY HERE
-https://forms.gle/85Pn89LfcUQnNsNk8
+[https://forms.gle/85Pn89LfcUQnNsNk8](https://forms.gle/85Pn89LfcUQnNsNk8)

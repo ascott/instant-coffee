@@ -31,7 +31,7 @@ Time: 5:30-7:30 pm EST
 
 Location: Online using Zoom
 
-Register for free at https://www.communityfacilitation.ca/
+Register for free at [https://www.communityfacilitation.ca/](https://www.communityfacilitation.ca/)
 
 If you have access needs you would like to share or have difficulty registering, please
 contact pecep.research@utoronto.ca.

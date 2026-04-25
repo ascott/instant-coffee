@@ -14,7 +14,7 @@ from October 18 to November 12, 2023, at the Ferry Building Gallery.
 Delve into the world of dreams and imagination of two local artists, Lan Yao and Li
 Tung. Through their paintings of fantastical realms and science fiction landscapes.
 
-visit: https://ferrybuildinggallery.ca/exhibitions/dreamscapes
+visit: [https://ferrybuildinggallery.ca/exhibitions/dreamscapes](https://ferrybuildinggallery.ca/exhibitions/dreamscapes)
 
 Opening Reception: Wednesday, October 18, 6-8 p.m.
 Meet the Artists: Saturday, October 21, 2-3 p.m.

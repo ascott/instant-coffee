@@ -53,5 +53,5 @@ Placemaking (Sept 28-Nov 29); Creating Strategic Plans (Sep 28-Nov
 29); Festivals, Events and Eventful Communities (Sept 28-Nov 29).
 
 For more information about the program and other professional
-development opportunities offered, visit http://cstudies.ubc.ca/cultural-
+development opportunities offered, visit [http://cstudies.ubc.ca/cultural-](http://cstudies.ubc.ca/cultural-)
 planning-and-development/courses.html

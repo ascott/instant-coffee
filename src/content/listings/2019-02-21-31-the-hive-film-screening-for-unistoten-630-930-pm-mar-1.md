@@ -19,4 +19,4 @@ Helen Haig-Browns 19th-century epic is a nod to the grand storytelling tradition
 the big screen. The fact that its the first narrative scripted and shot in two dialects of the 
 endangered Haida language"which has only 20-odd fluent speakers left"also certifies it as a 
 landmark work of cinema. A silent auction featuring art and other items will follow the screening. 
-Sliding scale tickets and details available at: https://bit.ly/2U04kjq
+Sliding scale tickets and details available at: [https://bit.ly/2U04kjq](https://bit.ly/2U04kjq)

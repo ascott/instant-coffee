@@ -20,4 +20,4 @@ which creates an image that is in-between being 2D and 3D.
 To this course bring a drawing/image of your choice (that you can get dirty) - no larger 
 than 10in x 10in- to turn into a bas-relief. Level: Beginner; Age 10+, 
 $98 for 2 sessions
-https://www.mobil-art.ca/event-info/ceramics-cretate-clay-tile-wall-hangings-bas-relief
+[https://www.mobil-art.ca/event-info/ceramics-cretate-clay-tile-wall-hangings-bas-relief](https://www.mobil-art.ca/event-info/ceramics-cretate-clay-tile-wall-hangings-bas-relief)

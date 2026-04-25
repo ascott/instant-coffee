@@ -13,7 +13,7 @@ art exhibition by Taiwanese-Canadian artist Johnny (Tiger) Tai, now open at The 
 Gallery in Richmond.
 
 Exhibition Info:
-https://www.richmondartgallery.org/zodiac-crossroads
+[https://www.richmondartgallery.org/zodiac-crossroads](https://www.richmondartgallery.org/zodiac-crossroads)
 
 This groundbreaking show reimagines the twelve zodiac signs through a unique
 hands-on art style invented by the artist himself, designed to be felt as well as seen.

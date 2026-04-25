@@ -22,7 +22,7 @@ publication of artistic works when the artist is no longer present, and
 the cultural implications of a collaboration between an independent 
 music label and a French national institution.
 
-Recollection GRM : http://editionsmego.com/releases/recollection-grm/
+Recollection GRM : [http://editionsmego.com/releases/recollection-grm/](http://editionsmego.com/releases/recollection-grm/)
 
 Peter Rehberg, who performs under the pseudonym Pita, is the 
 founder of Editions Mego. His music borders between noise, industrial, 
@@ -33,4 +33,4 @@ artists such as Heather Leigh, Klara Lewis, Kevin Drumm, Thomas
 Brinkmann, Florian Hecker, Bernard Parmegiani, Russell Haswell, 
 Iannis Xenakis, Oren Ambarchi, Bill Orcutt, Mark Fell and many more.
 
-https://pitaemego.bandcamp.com
+[https://pitaemego.bandcamp.com](https://pitaemego.bandcamp.com)

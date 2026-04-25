@@ -32,4 +32,4 @@ W2 Media Cafe, 111 W Hastings Street, Vancouver
 Digital Painting Event October 12, 11 pm - 1 am
 Installation Open to the Public October 12, 6 pm - October 13, 7pm
 
-More information: http://www.goethe.de/satellite
+More information: [http://www.goethe.de/satellite](http://www.goethe.de/satellite)

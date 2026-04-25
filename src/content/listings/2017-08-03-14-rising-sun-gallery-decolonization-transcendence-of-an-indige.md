@@ -27,4 +27,4 @@ inaccurate generalizations. It is through a self-reflective practice that Manuel
 to identify his oppression and resist these stereotypes. This exhibition is an 
 opportunity for indigenous people to begin decolonizing themselves. 
 
-https://www.facebook.com/events/1263211943806759
+[https://www.facebook.com/events/1263211943806759](https://www.facebook.com/events/1263211943806759)

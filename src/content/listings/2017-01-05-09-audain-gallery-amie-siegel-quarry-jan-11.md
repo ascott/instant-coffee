@@ -67,5 +67,5 @@ Her films have screened at the Cannes, Berlin, Toronto and New York Film
 Festivals. She has been a fellow of the DAAD Berliner Kunstlerprogramm and the 
 Guggenheim Foundation.
 
-For more information, http://www.sfu.ca/galleries/audain-gallery/amiesiegel-
+For more information, [http://www.sfu.ca/galleries/audain-gallery/amiesiegel-](http://www.sfu.ca/galleries/audain-gallery/amiesiegel-)
 quarry.html

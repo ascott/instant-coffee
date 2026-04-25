@@ -62,7 +62,7 @@ For more information contact:
 Karen Benbassat
 tel: 604-681-8425, karen@satellitegallery.ca
 
-http://www.satellitegallery.ca 
+[http://www.satellitegallery.ca](http://www.satellitegallery.ca) 
 
 Satellite Gallery is a Michael O'Brian Family Foundation project with partners 
 the Morris and Helen Belkin Art Gallery and the Museum of Anthropology at 

@@ -38,7 +38,7 @@ pulling of it, invokes the spectre of labour — purposeful walking as a form
 of resistance to readily consumed images of idealized leisure — and the
 Sisyphean weight of this vision.
 
-Read more: http://221a.ca/maraya
+Read more: [http://221a.ca/maraya](http://221a.ca/maraya)
 
 221A
 221 E Georgia St

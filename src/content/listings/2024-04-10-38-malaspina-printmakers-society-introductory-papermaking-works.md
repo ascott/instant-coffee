@@ -17,7 +17,7 @@ Price: $397
 All materials included, no
 prior experience necessary
 
-Register through our website: https://www.malaspinaprintmakers.com/introductory-
+Register through our website: [https://www.malaspinaprintmakers.com/introductory-](https://www.malaspinaprintmakers.com/introductory-)
 papermaking-saturdays-in-april-and-ma.html
 
 About the workshop:

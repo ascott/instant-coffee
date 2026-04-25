@@ -24,4 +24,4 @@ between life death and the body, and finally to let go
 
 Franc Gallery I 1654 Franklin Street I Vancouver, BC
 
-http://francgallery.com I 604-428-4248
+[http://francgallery.com](http://francgallery.com) I 604-428-4248

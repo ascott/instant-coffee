@@ -33,4 +33,4 @@ This touring exhibition closes this Friday, October 18th; last chance to see it 
 
 More information
 on this project can be found here.
-https://wamp.ca/northern-sights-360/
+[https://wamp.ca/northern-sights-360/](https://wamp.ca/northern-sights-360/)

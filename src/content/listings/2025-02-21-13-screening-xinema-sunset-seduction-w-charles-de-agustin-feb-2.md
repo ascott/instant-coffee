@@ -23,7 +23,7 @@ Sunday, February 23, 7pm @ 5050 Wales St, Norquay Park Field House
 
 $15 suggested donation, NOTAFLOF
 
-Get a ticket here: https://www.eventbrite.com/e/xinema-sunset-seduction-the-
+Get a ticket here: [https://www.eventbrite.com/e/xinema-sunset-seduction-the-](https://www.eventbrite.com/e/xinema-sunset-seduction-the-)
 screening-with-charles-de-agustin-nyc-tickets-1235627698709?
 aff=oddtdtcreator&utm-source=cp&utm-campaign=social&utm-
 content=attendeeshare&utm-medium=discovery&utm-term=listing
@@ -56,13 +56,13 @@ charlesdeagustin.com
 To apply to be a part of NAVIGATING COMMUNITY & LABOUR IN VANCOUVER
 ARTS/CULTURE SPACES (the "Discussion"), taking place on February 19, 2025
 from 6 to 8pm, please fill out this brief application by February 15:
-https://docs.google.com/forms/d/e/1FAIpQLSca1zZgqiyLnUBy-
+[https://docs.google.com/forms/d/e/1FAIpQLSca1zZgqiyLnUBy-](https://docs.google.com/forms/d/e/1FAIpQLSca1zZgqiyLnUBy-)
 TS3ZLfR5MP0cXuSR3cwJwSbdIHqwZFq7A/viewform. Status results will be notified
 by February 16.
 
 To attend EXPERIMENTAL CONTRACTS & SUBVERSIVE ADMINISTRATION (the
 "Workshop"), taking place on February 22, 2025 from 2 to 5pm, please register here:
-https://www.eventbrite.com/e/xinema-experimental-contracts-subversive-
+[https://www.eventbrite.com/e/xinema-experimental-contracts-subversive-](https://www.eventbrite.com/e/xinema-experimental-contracts-subversive-)
 administration-the-workshop-tickets-1235497388949?aff=oddtdtcreator&utm-
 source=cp&utm-campaign=social&utm-content=attendeeshare&utm-
 medium=discovery&utm-term=listing. Capacity is very limited so we encourage you
@@ -92,4 +92,4 @@ film scene.
 
 xinema.ca
 
-https://www.instagram.com/xin3ma/
+[https://www.instagram.com/xin3ma/](https://www.instagram.com/xin3ma/)

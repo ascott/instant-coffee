@@ -19,7 +19,7 @@ learning program delivered 100% online.
 
 Online Workshop: Resourceful Design Innovation by Re-Imagining Existing
 Urban Assets
-https://cstudies.ubc.ca/courses/online-workshop-resourceful-design-innovation-re-imagining-existing-urban-assets/uc014
+[https://cstudies.ubc.ca/courses/online-workshop-resourceful-design-innovation-re-imagining-existing-urban-assets/uc014](https://cstudies.ubc.ca/courses/online-workshop-resourceful-design-innovation-re-imagining-existing-urban-assets/uc014)
 
 Three scheduled online sessions. Thu Sept 10, 17 & 24 from 12noon-2pm
 Pacific Time
@@ -56,4 +56,4 @@ of Urban Change (Sept 9-21); Digital Culture and Cultural Policy (Oct
 
 For more information about the program and other professional development
 opportunities offered, visit
-http://cstudies.ubc.ca/cultural-planning-and-development/courses.html
+[http://cstudies.ubc.ca/cultural-planning-and-development/courses.html](http://cstudies.ubc.ca/cultural-planning-and-development/courses.html)

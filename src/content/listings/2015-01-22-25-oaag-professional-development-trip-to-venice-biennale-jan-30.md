@@ -10,7 +10,7 @@ summary: "OAAG | Professional Development Trip To Venice Biennale | JAN 30"
 
 REGISTER NOW: 2015 VENICE-FLORENCE-ROME EXCHANGE
 Developed and presented by the Ontario Association of Art Galleries (OAAG)
-More information at http://oaag.org/programs/#2015Venice.
+More information at [http://oaag.org/programs/#2015Venice](http://oaag.org/programs/#2015Venice).
 
 This two and a half week exchange is an immersive, intensive program in
 Venice, Florence, and Rome in Italy from May 4 to 20, 2015. It has been

@@ -16,7 +16,7 @@ Join us for learning and discussion with 221A Fellow Lauren Crazybull based on t
 artists previous work. This is an invitation to get to know the artist and her practice as
 she begins her 18-month residency, and dreams of her work in community.
 
-Free Admission by RSVP: https://221a.ca/event/221a-fellowship-talks-lauren-crazybull/
+Free Admission by RSVP: [https://221a.ca/event/221a-fellowship-talks-lauren-crazybull/](https://221a.ca/event/221a-fellowship-talks-lauren-crazybull/)
 - Childminding for 18mo"6yrs by RA/ECEA childcare workers through Pacific
 Immigrant Resources Society; please let us know by November 11
 - Food and drink provided

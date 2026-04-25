@@ -48,4 +48,4 @@ Satellite Gallery
 560 Seymour Street 2nd Floor, Vancouver
 604 681 8425
 info@satellitegallery.ca
-http://satellitegallery.ca
+[http://satellitegallery.ca](http://satellitegallery.ca)

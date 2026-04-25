@@ -53,5 +53,5 @@ gallery. After engaging in self-directed writing time, participants will have th
 opportunity to share what theyve written and observed. No writing experience
 required.
 
-Register at: https://evergreenculturalcentre.my.salesforce-
+Register at: [https://evergreenculturalcentre.my.salesforce-](https://evergreenculturalcentre.my.salesforce-)
 sites.com/ticket/#/instances/a0FOK000002RmnN2AS

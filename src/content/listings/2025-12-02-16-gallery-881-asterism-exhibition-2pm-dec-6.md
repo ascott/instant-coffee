@@ -112,5 +112,5 @@ Gallery 881: Lens-Based Contemporary Art Gallery
 Website: gallery881.com
 Email: info@gallery881.com
 
-Subscribe to our Newsletter: https://www.gallery881.com/subscribe
-Become a Member: https://www.gallery881.com/membership
+Subscribe to our Newsletter: [https://www.gallery881.com/subscribe](https://www.gallery881.com/subscribe)
+Become a Member: [https://www.gallery881.com/membership](https://www.gallery881.com/membership)

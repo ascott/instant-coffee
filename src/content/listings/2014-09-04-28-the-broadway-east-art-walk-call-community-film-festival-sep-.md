@@ -13,7 +13,7 @@ Festival happening Saturday, October 11, 2014 6:30-9:30pm at 303 8th Ave.
 There are two categories for short films made in Vancouver: under 5 minutes
 and 5-15 minutes. The deadline to submit is September 27, 2014 at 6pm.
 There is no cost to submit a film or attend the event. More information at:
-http://www.broadwayeastartwalk.com/?page_id=527
+[http://www.broadwayeastartwalk.com/?page_id=527](http://www.broadwayeastartwalk.com/?page_id=527)
 
 Regards,
 

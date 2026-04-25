@@ -17,7 +17,7 @@ with works from the collection
 Opening reception, Saturday May 31, 1 to 3 pm
 
 VIEW VIDEO CLIPS OF THE ARTISTS AT
-http://www.belkin.ubc.ca/special/video-podcast
+[http://www.belkin.ubc.ca/special/video-podcast](http://www.belkin.ubc.ca/special/video-podcast)
 
 
 On the 40th anniversary of May 1968, the Belkin Art Gallery is presenting three exhibitions that address aspects of that revolutionary decade.	

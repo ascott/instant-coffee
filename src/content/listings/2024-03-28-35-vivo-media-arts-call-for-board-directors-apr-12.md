@@ -45,7 +45,7 @@ How do I become a VIVO Board member?
 
 - Please complete the Application Form before midnight on April 12, 2024. We will
 not share your contact information.
-https://docs.google.com/forms/d/e/1FAIpQLSfyZ6eetXmsQ1ImWnY5q7ZbVwL-
+[https://docs.google.com/forms/d/e/1FAIpQLSfyZ6eetXmsQ1ImWnY5q7ZbVwL-](https://docs.google.com/forms/d/e/1FAIpQLSfyZ6eetXmsQ1ImWnY5q7ZbVwL-)
 JR7n4Zp6OcFiGV1ZVJJhuA/viewform
 
 - Please send in an updated CV via the Application Form or call 604.872.8337 ext 1
@@ -81,8 +81,8 @@ people, women, formerly incarcerated or institutionalized people, and migrant an
 working-class people. We also understand that applicants may experience several of
 these identities simultaneously in ways that reinforce and nuance their experience.
 
-More info here: https://www.vivomediaarts.com/news/call-for-board-directors-2024
+More info here: [https://www.vivomediaarts.com/news/call-for-board-directors-2024](https://www.vivomediaarts.com/news/call-for-board-directors-2024)
 
 To submit your candidacy, fill out the Application Form and Questionnaire here:
-https://docs.google.com/forms/d/e/1FAIpQLSfyZ6eetXmsQ1ImWnY5q7ZbVwL-
+[https://docs.google.com/forms/d/e/1FAIpQLSfyZ6eetXmsQ1ImWnY5q7ZbVwL-](https://docs.google.com/forms/d/e/1FAIpQLSfyZ6eetXmsQ1ImWnY5q7ZbVwL-)
 JR7n4Zp6OcFiGV1ZVJJhuA/viewform

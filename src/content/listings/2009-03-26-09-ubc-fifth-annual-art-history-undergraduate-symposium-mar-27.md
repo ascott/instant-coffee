@@ -32,4 +32,4 @@ Everyone Welcome!
 UBC Department of Art History, Visual Art, & Theory
 403 - 633 Memorial Rd., Vancouver, B.C. Canada V6T 1Z2
 Phone: 604.822.2757 Fax: 604.822.9003 Email: ahva@interchange.ubc.ca
-http://www.ahva.ubc.ca
+[http://www.ahva.ubc.ca](http://www.ahva.ubc.ca)

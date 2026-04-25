@@ -29,4 +29,4 @@ info@csaspace.ca
 
 Web page: jasonfitzpatrick.ca
 Phone: 7788932053
-Blog: http://jasonfitzpatrick.ca/studio/category/twenty-eight-days
+Blog: [http://jasonfitzpatrick.ca/studio/category/twenty-eight-days](http://jasonfitzpatrick.ca/studio/category/twenty-eight-days)

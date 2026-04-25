@@ -64,7 +64,7 @@ Doors at 6:30pm
 Conversation at 7:00pm
 Signing at 8:00pm
 
-RSVP here: https://thepolygon.ca/event/book-launch-yaniya-lee/
+RSVP here: [https://thepolygon.ca/event/book-launch-yaniya-lee/](https://thepolygon.ca/event/book-launch-yaniya-lee/)
 About the speakers
 Yaniya Lee is the author of Selected Writing on Black Canadian Art (2024, figure
 ground), and Buseje Bailey: Reasons Why We Have to Disappear Every Once in a

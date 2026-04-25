@@ -20,7 +20,7 @@ Doors at 8:30 PM
 Show at 9:30 PM
 
 Advance tickets $10 on Eventbrite, $15 at the door
-http://www.vivomediaarts.com/vivo-presents-paal-nilssen-love-and-ken-vandermark
+[http://www.vivomediaarts.com/vivo-presents-paal-nilssen-love-and-ken-vandermark](http://www.vivomediaarts.com/vivo-presents-paal-nilssen-love-and-ken-vandermark)
 
 “The high impact duo of Paal Nilssen-Love (drums) and Ken Vandermark
 (reeds) has been working together at an accelerated rate since 2002, and

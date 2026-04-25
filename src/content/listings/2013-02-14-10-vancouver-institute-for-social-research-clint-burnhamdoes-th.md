@@ -22,8 +22,8 @@ choice. The seminars are free to the public and all professors are offering thei
 services on a voluntary basis.
 
 Facebook page with complete schedule: 
-https://www.facebook.com/events/495903313795700/
-Readings: http://visrfreeschool.wordpress.com/
+[https://www.facebook.com/events/495903313795700/](https://www.facebook.com/events/495903313795700/)
+Readings: [http://visrfreeschool.wordpress.com/](http://visrfreeschool.wordpress.com/)
 
 Mon, Feb. 18th – Clint Burnham - Does the Internet have an Unconscious?
 

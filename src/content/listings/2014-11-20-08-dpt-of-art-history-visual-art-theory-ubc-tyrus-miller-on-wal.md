@@ -36,4 +36,4 @@ This event is free to the public and co-sponsored with the Department of
 Central, Eastern and Northern European Studies.
 
 For more information please visit:
-http://http://www.ahva.ubc.ca/events
+[http://http://www.ahva.ubc.ca/events](http://http://www.ahva.ubc.ca/events)

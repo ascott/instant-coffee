@@ -16,7 +16,7 @@ Musqueam, Squamish or Tsleil-Waututh First Nations. The grants offer
 100% funding for small projects, up to $1,000. Creative Spark 
 Vancouver is disbursed by ArtStarts in Schools and funded by the City 
 of Vancouver. Apply by December 15, 2016 at 
-http://artstarts.com/creativesparkvancouver
+[http://artstarts.com/creativesparkvancouver](http://artstarts.com/creativesparkvancouver)
 
 19. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.

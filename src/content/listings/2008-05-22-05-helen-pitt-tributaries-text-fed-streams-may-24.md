@@ -28,8 +28,8 @@ Sliding scale: $5-$10
  
 URLS: 
  
-Tributaries & Text- Fed Streams: http://tributaries.thecapilanoreview.ca/
-The Capilano Review: http://www.thecapilanoreview.ca/
-TCR Issue 2-50 : “Artifice and Intelligence”: http://www.thecapilanoreview.ca/archive.php?id=series2/2_50
-J.R. Carpenter: http://luckysoap.com/
-Turbulence: http://www.turbulence.org
+Tributaries & Text- Fed Streams: [http://tributaries.thecapilanoreview.ca/](http://tributaries.thecapilanoreview.ca/)
+The Capilano Review: [http://www.thecapilanoreview.ca/](http://www.thecapilanoreview.ca/)
+TCR Issue 2-50 : “Artifice and Intelligence”: [http://www.thecapilanoreview.ca/archive.php?id=series2/2_50](http://www.thecapilanoreview.ca/archive.php?id=series2/2_50)
+J.R. Carpenter: [http://luckysoap.com/](http://luckysoap.com/)
+Turbulence: [http://www.turbulence.org](http://www.turbulence.org)

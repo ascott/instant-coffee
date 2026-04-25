@@ -25,7 +25,7 @@ Vancouver, BC
 Canada V6Z 2H7
 tel: 604.662.4719/ fax: 604.682.1086
 
-http://www.vanartgallery.bc.ca
+[http://www.vanartgallery.bc.ca](http://www.vanartgallery.bc.ca)
 
 Rebecca Belmore: Rising to the Occasion, on view at the Vancouver Art Gallery from June 7 to October 5, 2008, will be the first large-scale survey of artwork by the renowned Canadian artist.
 Comprising 20 works, the exhibition includes key examples of Belmore’s practice from the past two decades, including a new sculptural installation specifically created for the exhibition and the North American premiere of the celebrated video installation Fountain, first presented at the 2005 

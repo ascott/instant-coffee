@@ -21,11 +21,11 @@ Thursday Evening, November 13, 2014, 7:30pm
 @ VIVO Media Arts Centre, 2625 Kaslo Street, Vancouver
 
 Please click HERE for the list of works, synopses & artist bios:
-http://cts.vresp.com/c/?
+[http://cts.vresp.com/c/](http://cts.vresp.com/c/)?
 VIVOMediaArtsCentre/ce4a99620e/TEST/143a456037
 
 Click HERE to read conversations with the featured artist-producers:
-http://cts.vresp.com/c/?
+[http://cts.vresp.com/c/](http://cts.vresp.com/c/)?
 VIVOMediaArtsCentre/ce4a99620e/TEST/ad2d24f715
 
 7:30pm:

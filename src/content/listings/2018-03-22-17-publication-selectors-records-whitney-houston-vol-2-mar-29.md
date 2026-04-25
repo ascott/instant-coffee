@@ -29,4 +29,4 @@ Multiple Authors (ed. Casey Wei)
 paperback, 71 pgs " $15
 ISBN: 978-1-927385-54-8
 
-https://agonyklub.com/
+[https://agonyklub.com/](https://agonyklub.com/)

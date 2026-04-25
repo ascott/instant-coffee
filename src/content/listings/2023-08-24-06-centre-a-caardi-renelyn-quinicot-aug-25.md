@@ -22,6 +22,6 @@ Time: 12 " 2 PM PDT
 Location: Online (Zoom)
 
 Sign-ups will be necessary, and will be available on Zoom:
-https://us02web.zoom.us/meeting/register/tZUrd-2srT4jHtxBHrmWyV0blO60mmvg0LRc
+[https://us02web.zoom.us/meeting/register/tZUrd-2srT4jHtxBHrmWyV0blO60mmvg0LRc](https://us02web.zoom.us/meeting/register/tZUrd-2srT4jHtxBHrmWyV0blO60mmvg0LRc)
 
 Head over to our website for more details!

@@ -21,7 +21,7 @@ Villenpromenade 11
 Germany
 info@balmoral.de
 
-http://www.balmoral.de/english/balmoralscholarships/index.html
+[http://www.balmoral.de/english/balmoralscholarships/index.html](http://www.balmoral.de/english/balmoralscholarships/index.html)
 
 I. International Residence Scholarships
 
@@ -99,7 +99,7 @@ theoretical work. The names of the jurors will be published after the
 selection.
 
 Additional information and PDF application forms will be available on our
-homepage http://www.balmoral.de.
+homepage [http://www.balmoral.de](http://www.balmoral.de).
 
 Applications must be made with these application forms. Other applications
 will not be taken into consideration.

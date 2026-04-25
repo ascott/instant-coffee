@@ -37,4 +37,4 @@ contractors. In this role, we seek a board member who can provide a depth of kno
 and experience specific to the growth and maturity of a non-profit organization and can
 guide the team with a seasoned and strategic perspective.
 
-To apply: https://vanmuralfest.ca/joinourteam
+To apply: [https://vanmuralfest.ca/joinourteam](https://vanmuralfest.ca/joinourteam)

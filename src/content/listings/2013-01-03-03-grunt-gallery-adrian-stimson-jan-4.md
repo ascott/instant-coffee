@@ -13,7 +13,7 @@ Artist: Adrian Stimson
 Opening: Friday January 4, 7–10pm at grunt gallery
 Exhibition Dates: Fri., 4 January 2013 – Sat., 16 February 2013
 
-http://grunt.ca/programming/holding-our-breath-adrian-stimson/
+[http://grunt.ca/programming/holding-our-breath-adrian-stimson/](http://grunt.ca/programming/holding-our-breath-adrian-stimson/)
 
 Please note: The artist will be in attendance at the reception. Also, there will 
 be a forthcoming essay in relation to this exhibition. 
@@ -46,4 +46,4 @@ Boy" as well as the "Shaman Exterminator", who seeks to explore the myths,
 falsehoods and realities of Shamanic being. He lives and works in Saskatoon, 
 Saskatchewan. 
 
-http://adrianstimson.com/
+[http://adrianstimson.com/](http://adrianstimson.com/)

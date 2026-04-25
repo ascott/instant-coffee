@@ -17,4 +17,4 @@ manual controls on your digital camera. Learn the basics - from shutter speed, a
 ISO, to controlling exposure and white balance.
 
 Students must have access to a digital SLR or mirrorless camera. $70
-https://www.mobil-art.ca/event-info/learn-how-to-use-your-digital-slr-camera
+[https://www.mobil-art.ca/event-info/learn-how-to-use-your-digital-slr-camera](https://www.mobil-art.ca/event-info/learn-how-to-use-your-digital-slr-camera)

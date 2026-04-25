@@ -28,7 +28,7 @@ $5,000 monetary award. The remaining four finalists each receive a $1,000 award.
 
 If youre an emerging digital artist based in Canada, apply to the EDAA by 
 completing an online application. The call will remain open until July 10, 2017.
-http://edaa.equitablebank.ca/pages/en/application.html
+[http://edaa.equitablebank.ca/pages/en/application.html](http://edaa.equitablebank.ca/pages/en/application.html)
 
 Learn more about the EDAA and eligibility by visiting our website, following us on 
 Twitter

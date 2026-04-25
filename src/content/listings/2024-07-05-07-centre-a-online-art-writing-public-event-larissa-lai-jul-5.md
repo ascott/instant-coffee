@@ -11,7 +11,7 @@ summary: "Centre A [ONLINE] | Art Writing Public Event: Larissa Lai | JUL 5"
 Friday, July 5, 2024
 2 - 3:30 PM PT
 Zoom
-RSVP: https://us02web.zoom.us/meeting/register/tZ0sc-
+RSVP: [https://us02web.zoom.us/meeting/register/tZ0sc-](https://us02web.zoom.us/meeting/register/tZ0sc-)
 mspzgrH9HJsJckSMfXl2AMewsb8B_z#/registration
 
 Join us on July 5 for Larissa Lais virtual talk, Archive and Utopia: Art and Literary

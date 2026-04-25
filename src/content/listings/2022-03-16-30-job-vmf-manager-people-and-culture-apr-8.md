@@ -17,4 +17,4 @@ LOCATION: Vancouver, BC.
 Combination of office and at home work options.
 REPORTING TO: Executive Director
 COMPENSATION: F/T, $6O-$72K commensurate with experience
-LEARN MORE + APPLY: https://vanmuralfest.ca/jobs
+LEARN MORE + APPLY: [https://vanmuralfest.ca/jobs](https://vanmuralfest.ca/jobs)

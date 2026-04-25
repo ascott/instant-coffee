@@ -41,4 +41,4 @@ by these examples; experimental ideas are encouraged.
 (...)
 
 Full version of Call:
-http://art.berkeley.edu/files/2015/07/Speculative-Lecture-Open-Call-for-Proposals.pdf
+[http://art.berkeley.edu/files/2015/07/Speculative-Lecture-Open-Call-for-Proposals.pdf](http://art.berkeley.edu/files/2015/07/Speculative-Lecture-Open-Call-for-Proposals.pdf)

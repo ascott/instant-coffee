@@ -27,8 +27,8 @@ Mundaneum FOMU, Ars Electronica, Athens Digital Art Festival, Art Soutterain, ST
 festival Heidelberger, Kunstverein. He has given talks for MoMA, TEDx Brussels
 ,SXSW Austin, Chanel Adidas, Mutek Montreal, KIKK-festival, STRP festival, ETH
 Zrich, Internet Week Denmark, Web2Day, Night By Us.
-https://driesdepoorter.be/
-https://newmediagallery.ca/
+[https://driesdepoorter.be/](https://driesdepoorter.be/)
+[https://newmediagallery.ca/](https://newmediagallery.ca/)
 New Media Gallery
 Artist Talk - Zoom
 Dries Depoorter (Belgium)

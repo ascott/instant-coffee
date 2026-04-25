@@ -14,4 +14,4 @@ in Social and Environmental Justice in the Arts. The Department of Visual Arts s
 numerous projects committed to social and environmental justice and would welcome
 the successful candidates input and/or collaboration in these areas.
 
-Full details can be found at https://uwo.ca/visarts/ourresearch/CiR.html.
+Full details can be found at [https://uwo.ca/visarts/ourresearch/CiR.html](https://uwo.ca/visarts/ourresearch/CiR.html).

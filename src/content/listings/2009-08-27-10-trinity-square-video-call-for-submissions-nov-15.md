@@ -99,4 +99,4 @@ M5V 3A8
 
 TSV gratefully acknowledges the generous support of the Canada Council for
 the Arts, Ontario Arts Council and Toronto Arts Council.
-http://www.trinitysquarevideo.com
+[http://www.trinitysquarevideo.com](http://www.trinitysquarevideo.com)

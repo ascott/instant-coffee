@@ -26,7 +26,7 @@ can enhance the play experience universally, highlighting the importance of
 play as a mechanism for learning and strengthening social interconnection.
 
 For more information and submission guidelines:
-http://www.richmond.ca/__shared/assets/capstanvillage41767.pdf
+[http://www.richmond.ca/__shared/assets/capstanvillage41767.pdf](http://www.richmond.ca/__shared/assets/capstanvillage41767.pdf)
 
 For questions regarding the submission requirements or process, contact
 Emily Nixon via email at Emily@dkl.bc.ca<mailto:Emily@dkl.bc.ca>.
@@ -75,7 +75,7 @@ Amenities include:
 - 24 hour access
 - $245 per 100 square feet
 
-Visit us at http://thephoenixgallery.ca/
+Visit us at [http://thephoenixgallery.ca/](http://thephoenixgallery.ca/)
 Email us at info@thephoenixgallery.ca
 
 Follow us on Facebook at VancouverPhoenix for upcoming events!

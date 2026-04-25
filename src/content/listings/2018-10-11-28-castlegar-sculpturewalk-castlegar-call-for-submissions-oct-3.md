@@ -15,4 +15,4 @@ arts events in BC, earning Castlegar the trademark The Sculpture Capital of
 Canada.
 
 Application guidelines and online application form:
-http://www.sculpturewalkcastlegar.com/call-for-entries/
+[http://www.sculpturewalkcastlegar.com/call-for-entries/](http://www.sculpturewalkcastlegar.com/call-for-entries/)

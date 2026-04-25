@@ -13,7 +13,7 @@ Water Witching Workshop with Alana Bartol
 Saturday, October 31st, 2015
 2:00 PM
 
-https://www.facebook.com/events/1001380883226670/
+[https://www.facebook.com/events/1001380883226670/](https://www.facebook.com/events/1001380883226670/)
 
 Far Away So Close: Part III exhibiting artist Alana Bartol will lead an
 exploration of the history, use, and tools of dowsing or “water-witching”

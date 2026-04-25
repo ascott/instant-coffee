@@ -20,7 +20,7 @@ Devan Scott!
 Session 1: Sun Feb 4, 1pm-5:30pm
 Session 2: Sun Feb 11, 1pm-5:30pm
 
-Sign up: https://blackmagic-colourcorrection.eventbrite.ca/
+Sign up: [https://blackmagic-colourcorrection.eventbrite.ca/](https://blackmagic-colourcorrection.eventbrite.ca/)
 
 This workshop covers The Blackmagic Cinema Camera, one of VIVO's most 
 extraordinary production tools, as well as its free colour correction software, Davinci 
@@ -30,4 +30,4 @@ work! Learn how to use them through practical demonstrations and hands-on
 exercises, using footage you shoot and colour correct over two sessions.
 
 Visit VIVO Education for many more details: 
-http://www.vivomediaarts.com/education/upcoming-workshops
+[http://www.vivomediaarts.com/education/upcoming-workshops](http://www.vivomediaarts.com/education/upcoming-workshops)

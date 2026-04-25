@@ -46,7 +46,7 @@ Event ticket includes FREE admission to our feature exhibitions Wild Things: The
 of Nature in our Lives, There is Truth Here, Haida Now and c"sna"m, the city before 
 the city (reg. $19). Consider arriving early with your event ticket to view exhibits.
 
-Website: https://museumofvancouver.ca/toad-people
+Website: [https://museumofvancouver.ca/toad-people](https://museumofvancouver.ca/toad-people)
 
-Tickets: https://www.eventbrite.ca/e/doxa-documentary-film-festival-screening-mov-toad-
+Tickets: [https://www.eventbrite.ca/e/doxa-documentary-film-festival-screening-mov-toad-](https://www.eventbrite.ca/e/doxa-documentary-film-festival-screening-mov-toad-)
 people-tickets-59978044947

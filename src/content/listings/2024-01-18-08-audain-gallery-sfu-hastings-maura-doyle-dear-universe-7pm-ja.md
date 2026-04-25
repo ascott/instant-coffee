@@ -102,5 +102,5 @@ Thu, Jan 18, 2024 2:00 PM - 5:00 PM PST
 We look forward to welcoming you to this event.
 
 Please register below:
-https://lipont.us14.list-manage.com/track/click?
+[https://lipont.us14.list-manage.com/track/click](https://lipont.us14.list-manage.com/track/click)?
 u=0bbf1c36149e461435d5357cd&id=f52a0f4657&e=d1beec27a3

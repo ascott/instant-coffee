@@ -30,4 +30,4 @@ Gallery hours: January 20th, 21st, 27th, and 28th, 1-5 PM.
 To request a viewing outside gallery hours please inquire at: 
 dynamo.arts.assoc@gmail.com
 
-http://www.dynamoarts.ca
+[http://www.dynamoarts.ca](http://www.dynamoarts.ca)

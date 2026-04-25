@@ -65,7 +65,7 @@ participants receive a copy of Cultivating Canada.
 Registration and Program
 
 Pre-registration is required and free at
-https://sites.google.com/site/thelandweare/. Full program 
+[https://sites.google.com/site/thelandweare/](https://sites.google.com/site/thelandweare/). Full program 
 information is
 also available at this site.
 

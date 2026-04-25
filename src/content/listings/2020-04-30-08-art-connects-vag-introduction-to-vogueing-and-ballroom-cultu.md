@@ -29,4 +29,4 @@ confidence. Even during this time of physical distance, Ballroom continues to th
 virtual spaces, bringing communities together.
 
 More Information/ Tickets:
-http://www.vanartgallery.bc.ca/events/art-connects-vogueing-and-ballroom-culture
+[http://www.vanartgallery.bc.ca/events/art-connects-vogueing-and-ballroom-culture](http://www.vanartgallery.bc.ca/events/art-connects-vogueing-and-ballroom-culture)

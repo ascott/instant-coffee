@@ -42,4 +42,4 @@ Duration:
 January " December 2024
 
 For more information and to apply:
-https://www.richmond.ca/culture/publicart/opportunities.htm
+[https://www.richmond.ca/culture/publicart/opportunities.htm](https://www.richmond.ca/culture/publicart/opportunities.htm)

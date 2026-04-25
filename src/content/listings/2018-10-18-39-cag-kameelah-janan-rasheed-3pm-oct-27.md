@@ -20,4 +20,4 @@ works on view at CAG and off-site at the Yaletown-Roundhouse Canada Line Station
 No reservation required, simply just turn up!
 
 Find out more about the exhibition at 
-https://www.contemporaryartgallery.ca/exhibitions/kameelah-janan-rasheed/
+[https://www.contemporaryartgallery.ca/exhibitions/kameelah-janan-rasheed/](https://www.contemporaryartgallery.ca/exhibitions/kameelah-janan-rasheed/)

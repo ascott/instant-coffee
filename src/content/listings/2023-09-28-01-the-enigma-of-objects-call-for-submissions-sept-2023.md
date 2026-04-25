@@ -31,7 +31,7 @@ enigmaofobjects@gmail.com:
 
 2 photos of an object from your personal collection against a neutral backdrop. More
 photo guidelines here:
-https://prachikhandekar.com/The-Enigma-of-Objects
+[https://prachikhandekar.com/The-Enigma-of-Objects](https://prachikhandekar.com/The-Enigma-of-Objects)
 
 A short text on its significance and how it speaks to the theme. Limit of 200 words.
 Your name and city. You may use a pseudonym if you wish to stay anonymous.

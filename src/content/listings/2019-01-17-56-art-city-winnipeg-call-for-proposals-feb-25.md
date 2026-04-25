@@ -47,4 +47,4 @@ no additional artist fees are available (i.e. artists must share fees).
 Submission Deadline: Monday, February 25, 2019
 
 For more information and how to apply, please download the application package by 
-visit our website: http://www.artcityinc.com/get-involved/
+visit our website: [http://www.artcityinc.com/get-involved/](http://www.artcityinc.com/get-involved/)

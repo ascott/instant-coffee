@@ -11,11 +11,11 @@ summary: "VIVO Media Arts Centre | Photoshop Retouching & Compositing | JUN 25"
 Photoshop Retouching & Compositing with John Mutter
 
 SIGN UP & MORE INFO:
-https://photo-retouch-composite.eventbrite.ca
+[https://photo-retouch-composite.eventbrite.ca](https://photo-retouch-composite.eventbrite.ca)
 
 Not your average Photoshop workshop! VFX artist John Mutter will demo some
 rather painterly techniques for blending different images and creating effects, like
-this: https://youtu.be/jLz9KQVjmLA.
+this: [https://youtu.be/jLz9KQVjmLA](https://youtu.be/jLz9KQVjmLA).
 
 Super affordable!
 

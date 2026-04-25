@@ -21,7 +21,7 @@ Artists are  invited to do a residency with Knock on Woods for a minimum of 4 an
 
 Proposals are being accepted from now until June 1st 2008 for anyone  interested in participating in an international artist residency in Knock on  Woods. Proposals can be very, very short: Describe what you want to do, how much time you may need (4-24 hours), and a preferred date. 
 
-For more information on the background for this project, the artist, and a  link to Knock on Woods, please visit http://thisneckofthewoods.net/ 
+For more information on the background for this project, the artist, and a  link to Knock on Woods, please visit [http://thisneckofthewoods.net/](http://thisneckofthewoods.net/) 
 
 Please contact the Helen Pitt Gallery at pittg@telus.net / 604.681.6740 for  more information or to submit proposals. 
 

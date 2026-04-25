@@ -17,4 +17,4 @@ performances and events over 20 days, including 22 Main Stage shows, three
 weeks of performances at Club PuSh, networking events at the PuSh Assembly,
 the free PuSh Film series, dinner/theatre experiences with Dine Out
 Vancouver, and many artist talks and other ancillary events. Details at
-http://pushfestival.ca
+[http://pushfestival.ca](http://pushfestival.ca)

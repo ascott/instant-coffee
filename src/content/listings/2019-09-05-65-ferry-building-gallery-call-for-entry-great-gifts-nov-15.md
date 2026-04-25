@@ -103,7 +103,7 @@ Thanks for your interest! First come, first serve.
 Setting up viewings immediately
 Please state your needs, and the type of work you do!
 
-PHOTOS/LISTING: https://vancouver.craigslist.org/van/ats/d/vancouver-space-available-in-
+PHOTOS/LISTING: [https://vancouver.craigslist.org/van/ats/d/vancouver-space-available-in-](https://vancouver.craigslist.org/van/ats/d/vancouver-space-available-in-)
 shared/6968922211.html
 
 CONTACT: gibson.randy@gmail.com

@@ -32,5 +32,5 @@ be available for sale. Neidich is the director of the Saas-Fee Summer Institute 
 and he will be exhibiting artwork at Gallery Gachet in July.
 
 Review in Zerodeux:
-(EN) https://www.zerodeux.fr/en/reviews-en/warren-neidich-2/
-(FR) https://www.zerodeux.fr/reviews/warren-neidich/
+(EN) [https://www.zerodeux.fr/en/reviews-en/warren-neidich-2/](https://www.zerodeux.fr/en/reviews-en/warren-neidich-2/)
+(FR) [https://www.zerodeux.fr/reviews/warren-neidich/](https://www.zerodeux.fr/reviews/warren-neidich/)

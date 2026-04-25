@@ -27,7 +27,7 @@ regional relevance, cross-discipline work and work that engages audiences
 in participatory processes. Professional (CARFAC) exhibition and artist 
 presentation fees are paid for selected programming. Please refer to the 
 submission guidelines on the website for information on how to apply:
-http://www.oxygenartcentre.org/exhibitions-residencies/submissions/
+[http://www.oxygenartcentre.org/exhibitions-residencies/submissions/](http://www.oxygenartcentre.org/exhibitions-residencies/submissions/)
 
 Deadline: received by 5pm, August 1, 2014
 (email submissions accepted)

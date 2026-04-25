@@ -45,7 +45,7 @@ drawing performance, trading words and shapes between each other
 and the audience. This work is presented in conjunction with THE 
 DRAWING SALON, a traveling program of drawing workshops founded 
 by Jill Henderson and Hannah Hughes and led by artists: 
-http://thedrawingsalon.org Michael Drebert is an interdisciplinary artist 
+[http://thedrawingsalon.org](http://thedrawingsalon.org) Michael Drebert is an interdisciplinary artist 
 from the Lower Mainland who led the Drawing Salon workshop 
 "Mountain" in 2011.
 
@@ -69,10 +69,10 @@ WEEKEND LEISURE occupy the VIVO VIDEO BAR all night long!
 
 Weekend Leisure is an art/karaoke/comedy/video collective based in 
 Vancouver. Members include CHRISTY NYIRI, CURTIS GRAHAUER and 
-PIETRO SAMMARCO: http://weekendleisure.ca
+PIETRO SAMMARCO: [http://weekendleisure.ca](http://weekendleisure.ca)
    
 A new NOT SENT LETTERS SET selected from 
-http://notsentlettersproject.com includes letters to Willing Conflators of 
+[http://notsentlettersproject.com](http://notsentlettersproject.com) includes letters to Willing Conflators of 
 Henry David Thoreau and Jeremy Todd, Northern Ontario Towns, and 
 My Newsfeed, with readings, video and projections by JEREMY TODD, 
 performance by MARGARET DRAGU and live scores by ZUZIA 
@@ -84,10 +84,10 @@ image/text posts (since 2005), digital film shorts, interdisciplinary
 performance works and cooperatively realized public events.
 
 EXPLORE previous Not Sent Letters & Guests events here:
-http://notsentlettersproject.com/category/events   
+[http://notsentlettersproject.com/category/events](http://notsentlettersproject.com/category/events)   
 
 FOR NOTIFICATIONS and news join the project facebook page:
-https://www.facebook.com/pages/Not-Sent-Letters-
+[https://www.facebook.com/pages/Not-Sent-Letters-](https://www.facebook.com/pages/Not-Sent-Letters-)
 Project/147882091946917    
 
 EMAIL Jeremy to host or contribute to a future Not Sent Letters & 

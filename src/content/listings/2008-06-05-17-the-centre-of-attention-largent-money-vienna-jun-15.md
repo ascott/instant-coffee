@@ -34,7 +34,7 @@ exhibition L'Argent (Money) curated by Elisabeth Lebovici and
 Caroline Bourgeois. This payment constitutes the work.
 
 For statement, exhibition details, artist list etc: 
-http://www.thecentreofattention.org/exhibitions/argent.html
+[http://www.thecentreofattention.org/exhibitions/argent.html](http://www.thecentreofattention.org/exhibitions/argent.html)
 
 ..............................
 

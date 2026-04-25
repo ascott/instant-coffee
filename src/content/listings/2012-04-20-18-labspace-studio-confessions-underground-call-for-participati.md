@@ -40,10 +40,10 @@ come clean? Would we even want to?
 Currently we’re seeking brave collaborators willing to offer us their 
 confessions for public consumption. If you’re interested in this project 
 (or would like to know more), please visit 
-http://confessionsunderground.com.
+[http://confessionsunderground.com](http://confessionsunderground.com).
 
 Confessions Underground is a Labspace Studio project, produced in 
 association with PattisonOneStop
 
 info@confessionsunderground.com
-http://confessionsunderground.com
+[http://confessionsunderground.com](http://confessionsunderground.com)

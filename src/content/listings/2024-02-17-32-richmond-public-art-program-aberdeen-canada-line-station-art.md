@@ -21,4 +21,4 @@ Eligibility: Open to Professional Artists
 
 Exhibition Duration: May 2024 - March 2025
 
-Link: https://www.richmond.ca/culture/howartworks/publicart/artist-calls.htm
+Link: [https://www.richmond.ca/culture/howartworks/publicart/artist-calls.htm](https://www.richmond.ca/culture/howartworks/publicart/artist-calls.htm)

@@ -17,4 +17,4 @@ arts.
 Ukrainian Cultural Centre. 
 805 East Pender St.
 $2 at the door.
-http://iheartcraftsbazaar.blogspot.com/
+[http://iheartcraftsbazaar.blogspot.com/](http://iheartcraftsbazaar.blogspot.com/)

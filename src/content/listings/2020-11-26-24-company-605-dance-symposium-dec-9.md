@@ -22,4 +22,4 @@ between all attending participants / artists.
 Co-Presented by SFU Woodwards Cultural Services in association with SFU School for the
 Contemporary Arts
 In Partnership with Raven Spirit Dances IndigenousGround Training
-http://company605.ca/winterintensiveonline2020/
+[http://company605.ca/winterintensiveonline2020/](http://company605.ca/winterintensiveonline2020/)

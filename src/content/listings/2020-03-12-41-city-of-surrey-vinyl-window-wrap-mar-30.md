@@ -13,7 +13,7 @@ Window Wrap
 
 Call for Concept Proposals for Cloverdale Field House Creative Vinyl Window Wrap
 
-- Download all details at https://www.surrey.ca/culture-recreation/30782.aspx
+- Download all details at [https://www.surrey.ca/culture-recreation/30782.aspx](https://www.surrey.ca/culture-recreation/30782.aspx)
 
 - Deadline to
 Apply: Monday, March 30, 2020 at 4pm

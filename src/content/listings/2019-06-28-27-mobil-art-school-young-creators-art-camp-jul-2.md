@@ -20,4 +20,4 @@ the week by displaying their work in an exhibition in our beautiful space and be
 invite parents and friends to come and appreciate the work! We guarantee a safe, fun 
 environment.
 Ages: 10-14, Dates: Jul through August, $280/week
-https://www.mobil-art.ca/event-info/young-creators-art-camp-july-2-5-2019
+[https://www.mobil-art.ca/event-info/young-creators-art-camp-july-2-5-2019](https://www.mobil-art.ca/event-info/young-creators-art-camp-july-2-5-2019)

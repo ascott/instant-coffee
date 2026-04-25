@@ -19,7 +19,7 @@ also welcomes guests Morgan Brayton and The Legion of Flying
 Monkeys. 
 
 February 27-7pm at The Anza Club, 3 West 8th Avenue, Vancouver 
-Map: http://goo.gl/maps/LLX8Z Tickets: 
-http://www.brownpapertickets.com/event/567720 More: 
-http://classicchic.ca/ Facebook: 
-https://www.facebook.com/events/257639827737105
+Map: [http://goo.gl/maps/LLX8Z](http://goo.gl/maps/LLX8Z) Tickets: 
+[http://www.brownpapertickets.com/event/567720](http://www.brownpapertickets.com/event/567720) More: 
+[http://classicchic.ca/](http://classicchic.ca/) Facebook: 
+[https://www.facebook.com/events/257639827737105](https://www.facebook.com/events/257639827737105)

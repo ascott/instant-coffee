@@ -15,4 +15,4 @@ Burnaby) on Friday, August 30 from 4pm-10pm, Saturday, August 31 and Sunday,
 September 1 from 11am-7pm. Admission is free for those under 18 and over 65, and
 members. $10 ($8 advance) admission for adults.
 
-https://nikkeimatsuri.nikkeiplace.org/
+[https://nikkeimatsuri.nikkeiplace.org/](https://nikkeimatsuri.nikkeiplace.org/)

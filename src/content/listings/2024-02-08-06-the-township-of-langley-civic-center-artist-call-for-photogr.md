@@ -91,12 +91,12 @@ These resources should help you to achieve that.
 
 "How to Photograph a Painting, Step by Step" by Artists Network Staff
 
-https://www.artistsnetwork.com/art-mediums/oil-painting/how-to-photograph-a-painting-
+[https://www.artistsnetwork.com/art-mediums/oil-painting/how-to-photograph-a-painting-](https://www.artistsnetwork.com/art-mediums/oil-painting/how-to-photograph-a-painting-)
 step-by-step/
 
 "How to Document Your Artwork with Jannette Maedel" by the Surrey Art Gallery
 
-https://www.youtube.com/watch?v=cOAAmoZp_kg&feature=youtu.be
+[https://www.youtube.com/watch?v=cOAAmoZp_kg&feature=youtu.be](https://www.youtube.com/watch?v=cOAAmoZp_kg&feature=youtu.be)
 
 Insurance
 The Langley Arts Council insurance policy does not provide coverage for exhibiting
@@ -117,7 +117,7 @@ Please contact galleries@langleyarts.ca.
 
 To Apply
 
-To Apply Visit: https://www.langleyarts.ca/submit/photography-
+To Apply Visit: [https://www.langleyarts.ca/submit/photography-](https://www.langleyarts.ca/submit/photography-)
 
 $7 Fee for non-members, free for LAC Members and Youth under 18.
 
@@ -135,4 +135,4 @@ semyame (Semiahmoo) First Nations.
 
 Your donation today provides bold, accessible, and inclusive programming that meets
 the needs of artists and arts audiences of all ages in Langley! Donate now at
-https://www.langleyarts.ca/donate-
+[https://www.langleyarts.ca/donate-](https://www.langleyarts.ca/donate-)

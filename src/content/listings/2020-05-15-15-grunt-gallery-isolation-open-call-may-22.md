@@ -16,7 +16,7 @@ members to send in their responses to communications[at]grunt[dot]ca or tag us i
 social media posts - selected
 submissions will be featured on the MPCAS!
 
-Details and submission guidelines can be found at https://www.mpcas.ca/programming/
+Details and submission guidelines can be found at [https://www.mpcas.ca/programming/](https://www.mpcas.ca/programming/)
 
 Our Latest Community Diary Calls:
 Homeschool confidential - Confessions, highs and lows, cute moments, rants, raves for

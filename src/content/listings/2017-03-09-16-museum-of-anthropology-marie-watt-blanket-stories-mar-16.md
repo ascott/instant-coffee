@@ -41,4 +41,4 @@ is something to be said for gathering in such an ordinary and neighbourly way.
 Free with museum admission
 
 Learn more: 
-http://moa.ubc.ca/programs
+[http://moa.ubc.ca/programs](http://moa.ubc.ca/programs)

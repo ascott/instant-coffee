@@ -18,13 +18,13 @@ THIS WEEK
 Thursday, February 18: Light Lecture: RAYMOND W. LAM, MD, Professor of
 Psychiatry at UBC and Director of the Mood Disorders Centre at UBC
 Hospital, lectures on light, its relationship to SAD and Non-SAD
-Conditions, www.UBCsad.ca <http://www.UBCsad.ca> , 8pm followed by an
+Conditions, www.UBCsad.ca <[http://www.UBCsad.ca](http://www.UBCsad.ca)> , 8pm followed by an
 Instant Coffee light show.
 
 Friday, February 19: Book Launch: Lateral Learning by Vantage Art
 Projects, an exhibition-in-print project Vol.1 guest curated by Paul Butler
 with essays by Dr. Jeanne Randolph and Mark Clintberg,
-http://www.vantageartprojects.com, 8pm.
+[http://www.vantageartprojects.com](http://www.vantageartprojects.com), 8pm.
 
 Saturday, February 20: Rooftop Special: hosted by LUCAS GRANITO, DANIEL
 HELLMANN AND KELVIN BEAUDETTE. Inspired by the sunny daytime parties at WMC
@@ -55,5 +55,5 @@ fourteen arts organizations from Vancouver's Downtown Eastside. Bright
 Light is commissioned by the City of Vancouver through its Olympic and
 Paralympic Public Art Program, www.bright-light.ca
 
-See www.instantcoffee.org <http://www.instantcoffee.org> for a growing list
+See www.instantcoffee.org <[http://www.instantcoffee.org](http://www.instantcoffee.org)> for a growing list
 of events, and for other information contact us@instantcoffee.org

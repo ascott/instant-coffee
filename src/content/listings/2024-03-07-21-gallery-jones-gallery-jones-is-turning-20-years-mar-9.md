@@ -37,7 +37,7 @@ When: Saturday, March 9 at 2pm - 3:20pm
 What: Black Every Day of the Year: a special discussion panel featuring A Generosity of
 Abundance artists Valrie d. Walker, Addena Sumter-Freitag, and April Sumter-Freitag.
 Cost: FREE
-Tickets: https://www.eventbrite.ca/e/black-every-day-of-the-year-artist-panel-tickets-
+Tickets: [https://www.eventbrite.ca/e/black-every-day-of-the-year-artist-panel-tickets-](https://www.eventbrite.ca/e/black-every-day-of-the-year-artist-panel-tickets-)
 853078590027?aff=oddtdtcreator
 Blurb: Join us at SUM gallery on Saturday, March 9 at 2pm for Black Every Day of the
 Year: a special discussion panel featuring A Generosity of Abundance artists Valrie d.

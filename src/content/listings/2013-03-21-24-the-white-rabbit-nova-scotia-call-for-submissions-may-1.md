@@ -74,7 +74,7 @@ Would you like to contribute to DOXA?
 
 We are currently looking for volunteers for the 2013 festival. To apply, 
 please follow this link to sign up and to find more information 
-https://doxafestival.wufoo.eu/forms/volunteer-form/ 
+[https://doxafestival.wufoo.eu/forms/volunteer-form/](https://doxafestival.wufoo.eu/forms/volunteer-form/) 
 
 We look forward to hearing from you!
 

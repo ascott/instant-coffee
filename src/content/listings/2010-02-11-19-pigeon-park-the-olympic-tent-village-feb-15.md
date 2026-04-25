@@ -48,5 +48,5 @@ We want:
 3. End discriminatory ticketing, police harassment, and all forms of
 criminalization of poverty.
 
-On Facebook: http://www.facebook.com/event.php?eid=291013281952&ref=ts
-Website: http://olympictentvillage.wordpress.com/
+On Facebook: [http://www.facebook.com/event.php?eid=291013281952&ref=ts](http://www.facebook.com/event.php?eid=291013281952&ref=ts)
+Website: [http://olympictentvillage.wordpress.com/](http://olympictentvillage.wordpress.com/)

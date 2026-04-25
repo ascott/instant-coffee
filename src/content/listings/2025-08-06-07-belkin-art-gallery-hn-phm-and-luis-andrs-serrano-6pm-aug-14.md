@@ -39,4 +39,4 @@ assurances of innocence and reconciliation. This definition asks us to expand ou
 formal understanding of hauntings and what they tell us about life lived and the
 histories we emerge from.
 
-https://belkin.ubc.ca/events/artist-talk-han-pham-and-luis-andres-serrano/
+[https://belkin.ubc.ca/events/artist-talk-han-pham-and-luis-andres-serrano/](https://belkin.ubc.ca/events/artist-talk-han-pham-and-luis-andres-serrano/)

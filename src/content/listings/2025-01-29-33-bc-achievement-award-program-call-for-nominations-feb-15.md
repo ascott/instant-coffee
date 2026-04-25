@@ -36,7 +36,7 @@ and actions that make our communities thrive.
 
 How to Nominate:
 
-Visit https://bcachievement.com/recognize-remarkable/
+Visit [https://bcachievement.com/recognize-remarkable/](https://bcachievement.com/recognize-remarkable/)
 Select the program you are submitting a nomination for.
 Fill out the nomination form with details about your nominee.
 

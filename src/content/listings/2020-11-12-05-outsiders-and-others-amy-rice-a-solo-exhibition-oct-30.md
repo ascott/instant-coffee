@@ -54,4 +54,4 @@ www.outsidersandothers.com
 Facebook: facebook.com/outsidersandothers
 Instagram: @outsidersandothers
 Twitter: @AndOutsiders
-http://www.outsidersandothers.com
+[http://www.outsidersandothers.com](http://www.outsidersandothers.com)

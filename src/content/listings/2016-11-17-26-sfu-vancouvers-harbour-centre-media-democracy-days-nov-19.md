@@ -15,6 +15,6 @@ SFU Vancouver's Harbour Centre Campus
 515 West Hastings St, Vancouver
 
 Find the full list of films and artists at
-http://mediademocracyproject.ca/media-democracy-days-2016/mdd-2016-film-exhibit/
+[http://mediademocracyproject.ca/media-democracy-days-2016/mdd-2016-film-exhibit/](http://mediademocracyproject.ca/media-democracy-days-2016/mdd-2016-film-exhibit/)
 
 Find our full program at 2016.mediademocracydays.ca

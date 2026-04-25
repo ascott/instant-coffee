@@ -25,7 +25,7 @@ curator-led tours of MOAs current exhibitions, Culture at the Centre and
 Arts of Resistance: Politics and the Past in Latin America.
 
 $30"50. For more information visit:
-https://moa.ubc.ca/event/where-the-musqueam-and-maya-meet
+[https://moa.ubc.ca/event/where-the-musqueam-and-maya-meet](https://moa.ubc.ca/event/where-the-musqueam-and-maya-meet)
 
 27. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.

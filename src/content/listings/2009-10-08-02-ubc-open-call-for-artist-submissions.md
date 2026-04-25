@@ -18,4 +18,4 @@ projects for the exhibition Sights/Sites of Spectacle, to take place at UBC in V
 January 29th – February 11th, 2010.
 
 For details please visit:
-http://www.ahva.ubc.ca/infoDisplay.cfm?Keyword=Graduate%20Symposium
+[http://www.ahva.ubc.ca/infoDisplay.cfm?Keyword=Graduate%20Symposium](http://www.ahva.ubc.ca/infoDisplay.cfm?Keyword=Graduate%20Symposium)

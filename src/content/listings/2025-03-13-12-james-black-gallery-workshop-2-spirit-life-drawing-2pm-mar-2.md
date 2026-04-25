@@ -20,5 +20,5 @@ No prior experience is needed-whether youre an experienced artist or just starti
 out, this is a space for exploration
 and expression.
 
-https://www.zeffy.com/en-CA/ticketing/eyes-of-the-other-2-spirit-life-drawing-with-theo-
+[https://www.zeffy.com/en-CA/ticketing/eyes-of-the-other-2-spirit-life-drawing-with-theo-](https://www.zeffy.com/en-CA/ticketing/eyes-of-the-other-2-spirit-life-drawing-with-theo-)
 rhetical

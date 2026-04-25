@@ -10,7 +10,7 @@ summary: "WORKSHOP | VIVO | Make a Mozzi Theremin | JUN 13"
 
 Make a Mozzi Theremin
 
-SIGN UP & MORE INFO: https://mozzi-theremin.eventbrite.ca
+SIGN UP & MORE INFO: [https://mozzi-theremin.eventbrite.ca](https://mozzi-theremin.eventbrite.ca)
 
 Don't delay: Registration closes Monday June 5
 
@@ -23,7 +23,7 @@ Session 1: Wed, June 13, 6:30pm - 9:30pm
 Session 2: Wed, June 20, 6:30pm - 9:30pm
 
 One extended subsidy is available for this workshop:
-https://goo.gl/forms/hdlddtPHu7ixwGHG2
+[https://goo.gl/forms/hdlddtPHu7ixwGHG2](https://goo.gl/forms/hdlddtPHu7ixwGHG2)
 
 Learn how to use Arduino to make a Theremin " a fun and weird musical
 instrument played without even touching it. Make haunting electronic sounds

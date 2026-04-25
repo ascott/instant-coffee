@@ -16,4 +16,4 @@ No previous experience required. In this extended workshop, you will learn all o
 wheel basics from wedging, throwing to glazing. All tools and clay needed for this
 workshop will be provided.
 
-https://www.vancouverceramics.com/workshops/p/wheel
+[https://www.vancouverceramics.com/workshops/p/wheel](https://www.vancouverceramics.com/workshops/p/wheel)

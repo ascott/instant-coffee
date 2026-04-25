@@ -27,4 +27,4 @@ Additionally, TNG provides both accommodations and financial
 resources to aid artists in managing shipping and travel costs. Details 
 of this budget are determined on a case-by-case basis.
 
-http://www.thenewgallery.org/submit/mainspace/
+[http://www.thenewgallery.org/submit/mainspace/](http://www.thenewgallery.org/submit/mainspace/)

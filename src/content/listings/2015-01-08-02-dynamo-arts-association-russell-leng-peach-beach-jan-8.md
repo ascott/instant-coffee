@@ -60,4 +60,4 @@ Hunted Projects, Canadian Art Magazine, and Vice Magazine.
 Dynamo Arts Association
 Suite 103 - 30 East 6th Avenue
 Vancouver, British Columbia V5T 1J4
-http://dynamoarts.ca/
+[http://dynamoarts.ca/](http://dynamoarts.ca/)

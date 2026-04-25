@@ -48,5 +48,5 @@ former Vedic monk whose ethereal soundscapes form a core component of the
 work's DNA. Death, Resurrection, Ascension will mark Aurora and Khe's
 second public collaboration.
 
-Facebook event https://www.facebook.com/events/784912815037584/
+Facebook event [https://www.facebook.com/events/784912815037584/](https://www.facebook.com/events/784912815037584/)
 www.deathresurrectionascension.com

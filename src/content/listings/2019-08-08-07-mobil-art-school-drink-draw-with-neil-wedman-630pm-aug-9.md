@@ -20,4 +20,4 @@ There will be music, drinks for a fee. Cash Bar, 19+ only, No Minors $10
 
 Sorry, we are unable to accommodate drop-ins. Please pre-register and read our FAQ.
 
-https://www.mobil-art.ca/event-info/drink-draw-friday-aug-9-2019
+[https://www.mobil-art.ca/event-info/drink-draw-friday-aug-9-2019](https://www.mobil-art.ca/event-info/drink-draw-friday-aug-9-2019)

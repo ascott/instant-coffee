@@ -10,7 +10,7 @@ summary: "SFU, PHG, SAG and Maillardville | Field Trip | OCT 25"
 
 Field Trip
 Sat, 25 Oct 2014 11:00 AM – 9:00 PM
-$10. Tickets at https://www.eventbrite.ca/e/field-trip-tickets-13419731779
+$10. Tickets at [https://www.eventbrite.ca/e/field-trip-tickets-13419731779](https://www.eventbrite.ca/e/field-trip-tickets-13419731779)
 
 Field Trip is an invitation to explore the art that lies beyond Vancouver’s 
 borders by creating a convenient transportation option to shuttle art 

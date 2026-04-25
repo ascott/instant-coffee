@@ -9,4 +9,4 @@ summary: "NOMAD Gallery | CALL | JUL 20"
 ---
 
 more info here:
-http://www.nomadsapien.com/2011/07/open-call-for-artists-another-wonderful.html
+[http://www.nomadsapien.com/2011/07/open-call-for-artists-another-wonderful.html](http://www.nomadsapien.com/2011/07/open-call-for-artists-another-wonderful.html)

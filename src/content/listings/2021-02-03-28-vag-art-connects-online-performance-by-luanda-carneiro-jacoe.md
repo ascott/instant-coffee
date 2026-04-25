@@ -16,4 +16,4 @@ Register in advance for this webinar
 After registering, you will receive a confirmation email containing information about
 joining the webinar.
 
-https://zoom.us/webinar/register/WN_gtX0qMnzRTiwTdUVwEMr4Q
+[https://zoom.us/webinar/register/WN_gtX0qMnzRTiwTdUVwEMr4Q](https://zoom.us/webinar/register/WN_gtX0qMnzRTiwTdUVwEMr4Q)

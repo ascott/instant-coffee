@@ -32,5 +32,5 @@ protection), and consent to having their temperature checked at the front door. 
 kindly ask that if you are showing any symptoms, that you stay home. Thank you
 kindly.
 
-Register at: https://www.eventbrite.ca/e/workshop-displacing-mythologies-with-cynthia-
+Register at: [https://www.eventbrite.ca/e/workshop-displacing-mythologies-with-cynthia-](https://www.eventbrite.ca/e/workshop-displacing-mythologies-with-cynthia-)
 dewi-oka-hari-alluri-tickets-271373985897

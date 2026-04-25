@@ -23,7 +23,7 @@ working in the artistic disciplines of environmental and performing arts.
 
 For full details on the artist studio residency program and submission 
 requirements go to:
-http://vancouver.ca/parks-recreation-culture/studio-residencies-in-community-
+[http://vancouver.ca/parks-recreation-culture/studio-residencies-in-community-](http://vancouver.ca/parks-recreation-culture/studio-residencies-in-community-)
 centres.aspx
 
 Applications are due at 4:00pm on March 27, 2013 (PST).
@@ -33,13 +33,13 @@ danita.noyes@vancouver.ca<mailto:danita.noyes@vancouver.ca>
 
 .............................................................................
 Additional sources of Public Art call information include:
-[ ] Akimbo - http://www.akimbo.ca/submissions/ - providing information from 
+[ ] Akimbo - [http://www.akimbo.ca/submissions/](http://www.akimbo.ca/submissions/) - providing information from 
 Toronto to national and international artists
-[ ] Cafe - https://www.callforentry.org - A US-based resource that includes 
+[ ] Cafe - [https://www.callforentry.org](https://www.callforentry.org) - A US-based resource that includes 
 opportunities for Canadian and international artists
-[ ] The Public Art Directory - http://www.public-art-directory.com/page_service-
+[ ] The Public Art Directory - [http://www.public-art-directory.com/page_service-](http://www.public-art-directory.com/page_service-)
 home.html - A UK based service listing public art calls
-[ ] Public Art Online - http://www.publicartonline.org.uk/ - information and 
+[ ] Public Art Online - [http://www.publicartonline.org.uk/](http://www.publicartonline.org.uk/) - information and 
 knowledge on an international scale.
 
 PLEASE NOTE: The City of Vancouver is providing this notification as a 
@@ -49,5 +49,5 @@ opportunities originating from the City of Vancouver's Public Art program, we
 are unable to guarantee the accuracy of information and functioning of all 
 links. For more detail about a particular call, please use the contact 
 information provided. For your convenience, all calls distributed through this 
-list are posted online, until their expiry, at http://vancouver.ca/parks-
+list are posted online, until their expiry, at [http://vancouver.ca/parks-](http://vancouver.ca/parks-)
 recreation-culture/calls-for-artists.aspx.

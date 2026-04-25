@@ -15,7 +15,7 @@ Indigenous Residency
 Guest Faculty: Candice Hopkins, others to be announced
 Program Dates: January 11 – February 12, 2016
 Apply by September 2
-http://www.banffcentre.ca/programs/program.aspx?id=1602
+[http://www.banffcentre.ca/programs/program.aspx?id=1602](http://www.banffcentre.ca/programs/program.aspx?id=1602)
 
 This self-led residency invites Indigenous visual artists, curators,
 writers, and cultural producers from all nations around the world to come

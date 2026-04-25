@@ -31,4 +31,4 @@ Shortlisted artists will be encouraged to bring forward concepts and proposals i
 media,
 including sculpture and installation, that leave a legacy for the site.
 
-https://www.collectionsandresearchbuilding.ca/call-for-artists/
+[https://www.collectionsandresearchbuilding.ca/call-for-artists/](https://www.collectionsandresearchbuilding.ca/call-for-artists/)

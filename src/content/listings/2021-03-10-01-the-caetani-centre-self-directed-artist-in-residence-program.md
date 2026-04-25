@@ -82,6 +82,6 @@ Residents are expected to maintain their studio spaces and rooms, shared common 
 of the kitchen, bathroom and other common areas in a clean, tidy and orderly manner, with
 respect for the other residents using the space.
 
-https://www.caetani.org/self-directed-residencies-for-artists-and-writers/
+[https://www.caetani.org/self-directed-residencies-for-artists-and-writers/](https://www.caetani.org/self-directed-residencies-for-artists-and-writers/)
 
 Applications are accepted on-line only.

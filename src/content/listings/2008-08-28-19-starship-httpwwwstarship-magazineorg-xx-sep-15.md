@@ -41,7 +41,7 @@ Gunter Reski, Nicolas Siepen, Stephanie Wurster, Judith Hopf, Gürsoy
 Dogtas, Sebastian Bodirsky, Francesca Lacatena, Florian Zeyfang,
 Henrik Olesen.
 
-http://www.starship-magazine.org
+[http://www.starship-magazine.org](http://www.starship-magazine.org)
 
 Starship
 Skalitzer StraÃ&#65533;e 138

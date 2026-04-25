@@ -29,7 +29,7 @@ Associate Artists, Sharona Franklin, Tiziana La Melia, Ron Tran, and Christian V
 well as a multi-player online game currently under development by DOMA: Maksym 
 Rokmaniko, Francesco Sebregondi and Francis Tseng.
 
-Read More @ http://polly-anna.ca/activity/blockchains-cultural-padlocks-research-showcase
+Read More @ [http://polly-anna.ca/activity/blockchains-cultural-padlocks-research-showcase](http://polly-anna.ca/activity/blockchains-cultural-padlocks-research-showcase)
 
 Supported by the Canada Council for the Arts Digital Strategy Fund
 

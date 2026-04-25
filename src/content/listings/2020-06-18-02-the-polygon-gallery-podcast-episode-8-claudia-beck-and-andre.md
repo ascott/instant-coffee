@@ -15,5 +15,5 @@ community in Vancouver for almost 50 years, a span of time during which they've
 played vital roles"as art dealers, patrons, and curators"promoting the importance
 and understanding of photography.
 
-Listen here: https://thepolygon.ca/news/the-polygon-podcast-episode-8-featuring-
+Listen here: [https://thepolygon.ca/news/the-polygon-podcast-episode-8-featuring-](https://thepolygon.ca/news/the-polygon-podcast-episode-8-featuring-)
 claudia-beck-and-andrew-gruft/

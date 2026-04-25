@@ -28,7 +28,7 @@ support independent filmmakers, is thrilled to announce the upcoming Internation
 Uranium Film Festival (IUFF) and Atomic Photographers Guild Exhibition, Plutonium &
 Silver" in Vancouver. As part of our commitment to fostering film awareness and
 knowledge, Cineworks is proud to host these events from April 8 to April 12, 2024. The
-full program can be found on the Cineworks website: https://cineworks.ca/.
+full program can be found on the Cineworks website: [https://cineworks.ca/](https://cineworks.ca/).
 
 Founded in 2010, the International Uranium Film Festival is dedicated to exploring a
 wide array of topics related to the nuclear fuel chain, including mining, nuclear waste,

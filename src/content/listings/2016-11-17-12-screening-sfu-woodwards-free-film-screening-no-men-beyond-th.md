@@ -24,7 +24,7 @@ invent the Internet) and the patriarchy (ineffectual male revolutionaries depend
 the female state to cook their meals). Patrick Gilmore excels as the youngest man 
 on Earth, a quiet, unassuming 37-year-old nanny/housekeeper named Andrew 
 Myers who finds himself at the center of a battle to keep men from going extinct. 
-Trailer: https://vimeo.com/158348071\
+Trailer: [https://vimeo.com/158348071\](https://vimeo.com/158348071\)
 
-Further details: http://www.sfu.ca/sfuwoodwards/events/events1/2016-2017-
+Further details: [http://www.sfu.ca/sfuwoodwards/events/events1/2016-2017-](http://www.sfu.ca/sfuwoodwards/events/events1/2016-2017-)
 fall/NoMenBeyondThisPoint.html.

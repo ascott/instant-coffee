@@ -24,4 +24,4 @@ THE ARTBANK
 Vancouver, BC
 9pm to 2am
 Door by donation / Drinks in the back
-http://www.heidi-nagtegaal.com
+[http://www.heidi-nagtegaal.com](http://www.heidi-nagtegaal.com)

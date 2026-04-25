@@ -22,4 +22,4 @@ Vancouver, BC
 V6H 3G5
 Canada
 
-http://marionscottgallery.com/portfolio-item/event-mark-igloliorte-talk/
+[http://marionscottgallery.com/portfolio-item/event-mark-igloliorte-talk/](http://marionscottgallery.com/portfolio-item/event-mark-igloliorte-talk/)

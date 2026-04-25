@@ -21,7 +21,7 @@ pace where our readers can actually still visit the exhibitions being
 discussed. Our call for exhibition review submissions will be ongoing,
 with no deadlines.
 
-For more info, visit: http://kapsula.ca/submissions/index.html
+For more info, visit: [http://kapsula.ca/submissions/index.html](http://kapsula.ca/submissions/index.html)
 
 2. Call for cover images - Ongoing call
 
@@ -33,7 +33,7 @@ for feature article submissions.
 So, if you've got some work you would like published into our magazine,
 submit to: submissions@kapsula.ca
 
-For additional information, visit: http://kapsula.ca
+For additional information, visit: [http://kapsula.ca](http://kapsula.ca)
 
 
 

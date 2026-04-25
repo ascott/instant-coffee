@@ -11,7 +11,7 @@ summary: "VIVO Media Arts Centre | Intro to Camera & Lighting for Women | MAR 3"
 Intro to Camera & Lighting for Women
 
 SIGN UP & MORE INFO: 
-https://camera-lighting-women.eventbrite.ca
+[https://camera-lighting-women.eventbrite.ca](https://camera-lighting-women.eventbrite.ca)
 
 For self-identified women and non-binary people: learn to shoot stunning videos with 
 the help of cinematographer Paige Smith!
@@ -24,7 +24,7 @@ Session 2: Sun Mar 10, 11am-4pm
 Session 3: Sun Mar 17, 11am-4pm
 
 Two extended subsidies available for this workshop:
-https://goo.gl/forms/7jGepbsnhIUWISI22
+[https://goo.gl/forms/7jGepbsnhIUWISI22](https://goo.gl/forms/7jGepbsnhIUWISI22)
 
 No experience necessary. All equipment provided.
 

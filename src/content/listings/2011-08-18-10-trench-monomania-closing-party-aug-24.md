@@ -26,7 +26,7 @@ Finally,since starting on June 23rd Monomania has become
 increasingly popular and of course now with the review by Robin 
 Laurence in last weeks Georgia Straight things are getting 
 downright out of hand!
-http://www.straight.com/article-419557/vancouver/monomania-
+[http://www.straight.com/article-419557/vancouver/monomania-](http://www.straight.com/article-419557/vancouver/monomania-)
 celebrates-vancouver-art So to ensure everyone has a chance to 
 see the show we have decided to extend it by one week. 
 Monomania's new closing date is now September 10th! 

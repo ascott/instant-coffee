@@ -24,4 +24,4 @@ Saturday, Nov 29 | Noon " 6pm
 Where: Emily Carr University Campus, 520 E 1st Ave, Vancouver, BC, V5T 0H2
 
 For more information please visit:
-https://www.ecuad.ca/events/the-legendary-student-art-sale-returns-2025
+[https://www.ecuad.ca/events/the-legendary-student-art-sale-returns-2025](https://www.ecuad.ca/events/the-legendary-student-art-sale-returns-2025)

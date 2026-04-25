@@ -41,4 +41,4 @@ randomness versus control. Summer Preamble 415 is an invitation to the viewer to
 become absorbed in the fine details, to examine what emotions arise, and to
 consider their relationship with nature.
 
-https://portalpopupgallery.square.site/
+[https://portalpopupgallery.square.site/](https://portalpopupgallery.square.site/)

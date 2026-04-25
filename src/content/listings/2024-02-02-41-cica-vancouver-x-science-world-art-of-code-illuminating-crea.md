@@ -40,5 +40,5 @@ World
 
 -: 15 families (2 adults and 2 children over the age of 10, per family)
 
-RSVP Now: https://www.eventbrite.ca/e/cica-x-science-world-art-of-code-
+RSVP Now: [https://www.eventbrite.ca/e/cica-x-science-world-art-of-code-](https://www.eventbrite.ca/e/cica-x-science-world-art-of-code-)
 illuminating-creativity-with-microbits-tickets-795650019627?aff=oddtdtcreator

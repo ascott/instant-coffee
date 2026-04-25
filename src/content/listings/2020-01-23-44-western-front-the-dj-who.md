@@ -20,7 +20,7 @@ mind. Some songs will get a laugh, some may provoke a tear or two; as for the st
 the gamut from entertaining anecdotes to accounts of epiphany.
 
 For more information, visit:
-https://pushfestival.ca/shows/the-dj-who-gave-too-much-information/
+[https://pushfestival.ca/shows/the-dj-who-gave-too-much-information/](https://pushfestival.ca/shows/the-dj-who-gave-too-much-information/)
 
 Western Front
 303 E 8th Ave, Vancouver, British Columbia

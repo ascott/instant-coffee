@@ -16,7 +16,7 @@ Where: Roundhouse Community Art and Recreation Centre Room B
 
 Admission - FREE
 
-Rita Wong (http://blogs.eciad.ca/ritawong/) is the author of sybil unrest (Line 
+Rita Wong ([http://blogs.eciad.ca/ritawong/](http://blogs.eciad.ca/ritawong/)) is the author of sybil unrest (Line 
 Books, 2008, with Larissa Lai), forage (Nightwood, short-listed for the Asian 
 American Literary Award for Poetry in 2008), and monkeypuzzle (Press Gang, 
 1998). Wong's book, forage, won the 2011 Canada Reads Poetry competition. 
@@ -27,7 +27,7 @@ Rita Wong will discuss her projects related to water, including the project
 Downstream: researching the poetics of water.
 
 This event is part of our 2011 Eco-Arts Salon series 
-(http://communityarts.ning.com/events) – we will be hosting a salon every fourth 
+([http://communityarts.ning.com/events](http://communityarts.ning.com/events)) – we will be hosting a salon every fourth 
 Wednesday of every month from 7-9pm at the Roundhouse Community Centre. 
 Each salon will feature an environmental artist who will present their work - 
 stimulating discussion around questions such as ‘What does it mean to be an 

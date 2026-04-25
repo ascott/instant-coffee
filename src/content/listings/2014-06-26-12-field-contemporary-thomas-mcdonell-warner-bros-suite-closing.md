@@ -24,7 +24,7 @@ Field Contemporary invites you to July 4, a summer bbq and closing for
  Please join us on July 4 in the gallery, and back alley, from 6pm till late. 
  Food provided with drinks available for purchase.
 
- https://www.facebook.com/events/578389448948914/?
+ [https://www.facebook.com/events/578389448948914/](https://www.facebook.com/events/578389448948914/)?
  context=create&source=49
 
  Best,

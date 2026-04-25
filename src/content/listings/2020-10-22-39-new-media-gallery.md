@@ -18,7 +18,7 @@ workshop well be grouping kids together so they learn to work like real animator
 sharing their visions, ideas and opinions with each other, taking on different roles, and
 learning to create amazing animations as part of a team. Invite your friends to
 participate for a fun group project!
-Video Tutorials: https://vimeo.com/showcase/7701543
+Video Tutorials: [https://vimeo.com/showcase/7701543](https://vimeo.com/showcase/7701543)
 
 Week 1 Focus on Stop-Motion animation. (Using the Stop Motion App)
 Week 2 Emphasis on group creativity. Kids discuss works as a group, exchanging
@@ -31,6 +31,6 @@ Virtual Learning Lab - Zoom + Videos
 Ages 7 to 14
 Saturdays, November 07, 14, 21
 2:00pm - 3:00pm
-45841 - https://bit.ly/3h8pk2B
+45841 - [https://bit.ly/3h8pk2B](https://bit.ly/3h8pk2B)
 Registration Fee $15 (3 classes)
 Instructor: Chris Jung

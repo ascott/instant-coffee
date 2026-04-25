@@ -16,7 +16,7 @@ www.vivomediaarts.com
 
 Ambient social. Last Friday of the month. Free.
 
-connect_icut | http://connect-icut.com/
+connect_icut | [http://connect-icut.com/](http://connect-icut.com/)
 Sparse improvisations on a virtual Fender Rhodes, sampled live and 
 arranged using custom-built generative music software. Dreamy and 
 disorientating, if all goes to plan.

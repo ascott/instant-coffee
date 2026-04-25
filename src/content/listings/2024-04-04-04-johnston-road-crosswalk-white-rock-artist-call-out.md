@@ -20,4 +20,4 @@ location is at the heart of White Rocks Uptown mixed residential and commercial 
 which looks down towards the sea. The art will add vibrancy to the area, bringing art into
 the daily lives of residents and welcoming visitors to White Rock.
 
-Details about the call out can be found here https://www.whiterockcity.ca/369/Public-Art
+Details about the call out can be found here [https://www.whiterockcity.ca/369/Public-Art](https://www.whiterockcity.ca/369/Public-Art)

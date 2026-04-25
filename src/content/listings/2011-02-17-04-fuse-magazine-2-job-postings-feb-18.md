@@ -44,7 +44,7 @@ of the Board of Directors.
 
 To view the complete list of qualifications for both positions and 
 details on how to apply, please visit 
-http://fusemagazine.org/opportunities.
+[http://fusemagazine.org/opportunities](http://fusemagazine.org/opportunities).
 
 Looking Forward
 In upcoming years, our goal is to reach increasing numbers of 

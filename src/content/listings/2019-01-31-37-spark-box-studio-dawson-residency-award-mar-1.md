@@ -31,4 +31,4 @@ offering in memory of their dear friend and artist Donald Dawson.
 
 Deadline: March 1, 2019 at midnight
 
-More information and application form: https://sparkboxstudio.com/dawson-award/
+More information and application form: [https://sparkboxstudio.com/dawson-award/](https://sparkboxstudio.com/dawson-award/)

@@ -48,6 +48,6 @@ of the Coast Salish Peoples, including the territories of the Musqueam, Squamish
 and Tsleil-Waututh Nations.
 
 For more information please contact events [AT] vivomediaarts [DOT] com
-Facebook event: https://www.facebook.com/events/272487346940185/
+Facebook event: [https://www.facebook.com/events/272487346940185/](https://www.facebook.com/events/272487346940185/)
 
 Free Admission

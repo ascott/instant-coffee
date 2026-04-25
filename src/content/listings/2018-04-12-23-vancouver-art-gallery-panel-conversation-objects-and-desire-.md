@@ -39,7 +39,7 @@ drive them to collect and details about an important acquisition in their own pe
 collections.
 
 For more information, please visit 
-http://www.vanartgallery.bc.ca/events_and_programs/lectures_talks.html
+[http://www.vanartgallery.bc.ca/events_and_programs/lectures_talks.html](http://www.vanartgallery.bc.ca/events_and_programs/lectures_talks.html)
 
 Vancouver Art Gallery
 750 Hornby Street Vancouver BC

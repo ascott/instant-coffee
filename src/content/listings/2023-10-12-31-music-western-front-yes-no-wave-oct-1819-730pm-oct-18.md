@@ -36,7 +36,7 @@ in spite of nominal government support and funding.
 Admission is by donation, but registration is required for in-person attendance. The
 performance on Oct 18, 2023 will be available to virtual audiences by livestream.
 
-For more information, visit: https://westernfront.ca/events/yes-no-wave-music
+For more information, visit: [https://westernfront.ca/events/yes-no-wave-music](https://westernfront.ca/events/yes-no-wave-music)
 
 Curated by Wok the Rock and Aki Onda.
 

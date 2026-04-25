@@ -28,7 +28,7 @@ tell your friends!
 CURRENT 312 ONLINE VIDEO
 Feb. 2 - 29, 2008 / Nomi Talisman, excerpt from “The Last Thing before the
 Last”
-View at: http://www.312.ca/312online.htm
+View at: [http://www.312.ca/312online.htm](http://www.312.ca/312online.htm)
 (A high-speed connection is recommended for viewing 312 online videos.)
 
 “The Last Thing before the Last” (2006- present), explores connections to
@@ -54,7 +54,7 @@ considered. This is a year-round open call. We’re flexible. 312 welcomes
 submissions from emerging and established artists.
 
 For more info on submitting a video, go to:
-http://www.312.ca/artistsubmissions_312online.htm
+[http://www.312.ca/artistsubmissions_312online.htm](http://www.312.ca/artistsubmissions_312online.htm)
 
 Cheers,
 Mark Prier

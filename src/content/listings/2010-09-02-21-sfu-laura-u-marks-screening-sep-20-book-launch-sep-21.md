@@ -12,7 +12,7 @@ All are welcome to two events to celebrate the arrival of Enfoldment and
 Infinity: An Islamic Genealogy of New Media Art by Laura U. Marks. It’s a
 solid, handsome book, richly illustrated and excitingly written. Here’s the
 page at MIT Press:
-http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=12257
+[http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=12257](http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&tid=12257)
 
 Screening
 September 20, 7:30 p.m.

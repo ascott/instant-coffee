@@ -31,7 +31,7 @@ within an exhibition, the project examines the ways in which
 narrative is 
 obscured through the process of making.
 
-http://221a.ca/dirt-and-not-copper/
+[http://221a.ca/dirt-and-not-copper/](http://221a.ca/dirt-and-not-copper/)
 
 100-221 E Georgia
 Vancouver, BC

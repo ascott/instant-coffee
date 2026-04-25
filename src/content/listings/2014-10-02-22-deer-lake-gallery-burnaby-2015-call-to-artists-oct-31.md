@@ -21,7 +21,7 @@ dynamic artists to showcase a diverse selection of all mediums.
 Exhibitions change approximately every 3 weeks.
 
 For further information and application please go to our website:
-http://burnabyartscouncil.org/apply-2015-call/
+[http://burnabyartscouncil.org/apply-2015-call/](http://burnabyartscouncil.org/apply-2015-call/)
 
 Regards,
 

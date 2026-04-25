@@ -15,7 +15,7 @@ currently accepting proposals for The LAB 11.0 Series which begins April
 2011. Submission requirements, floorplan and budget worksheet are available
 on our website at:
 
-http://aggv.bc.ca/the+lab.aspx
+[http://aggv.bc.ca/the+lab.aspx](http://aggv.bc.ca/the+lab.aspx)
 
 The LAB
 
@@ -72,7 +72,7 @@ Questions? Know of anything? Please feel free to contact us!
 
 My paintings can be seen here...
 
-http://www.flickr.com/mgoudge/sets
+[http://www.flickr.com/mgoudge/sets](http://www.flickr.com/mgoudge/sets)
 
 Cheers,
 

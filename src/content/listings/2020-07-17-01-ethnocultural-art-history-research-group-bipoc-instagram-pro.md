@@ -54,4 +54,4 @@ For
 more information, please contact us at ethnoculturalarts@gmail.com
 
 To learn more about EAHR, please visit our website: :
-https://www.ethnoculturalarts.com/
+[https://www.ethnoculturalarts.com/](https://www.ethnoculturalarts.com/)

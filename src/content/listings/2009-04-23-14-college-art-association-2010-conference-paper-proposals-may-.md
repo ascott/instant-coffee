@@ -31,7 +31,7 @@ economic and/or political theory is of particular interest.
 
 Proposals must include:
 1. Completed session participation form, located as a PDF on the CAA website at 
-http://conference.collegeart.org/2010/
+[http://conference.collegeart.org/2010/](http://conference.collegeart.org/2010/)
 2. Preliminary abstract of one to two double-spaced, typed pages.
 3. Letter explaining speaker's interest, expertise in the topic, and CAA membership status.(To 
 participate in the conference you need to be or become a member of CAA)

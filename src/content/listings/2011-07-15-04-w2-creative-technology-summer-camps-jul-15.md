@@ -33,4 +33,4 @@ any young people who show an interest in learning.
 
 To sign up email: education@creativetechnology.org
 Or visit:
-http://www.creativetechnology.org/events/w2-creative-technology-summer
+[http://www.creativetechnology.org/events/w2-creative-technology-summer](http://www.creativetechnology.org/events/w2-creative-technology-summer)

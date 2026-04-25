@@ -28,4 +28,4 @@ way the city represents and negotiates its complex social reality.
 
 Show runs from February 12 to March 21, 2010 (24 Hours)
 
-Helen Pitt: http://www.helenpittgallery.org/
+Helen Pitt: [http://www.helenpittgallery.org/](http://www.helenpittgallery.org/)

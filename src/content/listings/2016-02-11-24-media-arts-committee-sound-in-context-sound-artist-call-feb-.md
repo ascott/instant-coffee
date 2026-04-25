@@ -34,4 +34,4 @@ may not respond to all applicants but you are welcome to request
 information about your application status after the deadline date.
 
 Applications can be submitted via our webpage at
-http://mediaartscommittee.org/artist-calls
+[http://mediaartscommittee.org/artist-calls](http://mediaartscommittee.org/artist-calls)

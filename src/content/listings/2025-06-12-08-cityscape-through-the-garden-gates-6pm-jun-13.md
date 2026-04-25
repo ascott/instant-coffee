@@ -15,7 +15,7 @@ June 14 - July 18, 2025
 Exhibition Opening, June 13, 6pm-8pm
 
 CityScape Community ArtSpace, 335 Lonsdale Ave, North Vancouver, BC V7M 2G3
-https://northvanarts.ca/events-exhibitions/through-the-garden-gates/
+[https://northvanarts.ca/events-exhibitions/through-the-garden-gates/](https://northvanarts.ca/events-exhibitions/through-the-garden-gates/)
 Natures beauty surrounds us"not just in towering mountains or along the shore, but
 right in our own backyards.
 In tandem with Arts in the Garden this year, North Van Arts invites you to step Through

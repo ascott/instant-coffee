@@ -76,4 +76,4 @@ Reading Group: Kate Hennessy on Maps and Dreams
 Saturday, July 15, 2pm
 Audain Gallery
 
-For more information, http://www.sfu.ca/galleries/audain-gallery/Maps-and-Dreams.html
+For more information, [http://www.sfu.ca/galleries/audain-gallery/Maps-and-Dreams.html](http://www.sfu.ca/galleries/audain-gallery/Maps-and-Dreams.html)

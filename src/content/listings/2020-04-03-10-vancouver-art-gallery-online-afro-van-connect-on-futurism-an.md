@@ -9,7 +9,7 @@ summary: "Vancouver Art Gallery (Online) | Afro Van Connect on Futurism and Free
 ---
 
 FRIDAY, APRIL 3 | 4:30 PM
-REGISTER ONLINE AT http://www.vanartgallery.bc.ca/events/art-connects-afro-van-
+REGISTER ONLINE AT [http://www.vanartgallery.bc.ca/events/art-connects-afro-van-](http://www.vanartgallery.bc.ca/events/art-connects-afro-van-)
 connect
 
 In conjunction with the exhibition The Tin Man Was a Dreamer: Allegories, Poetics and

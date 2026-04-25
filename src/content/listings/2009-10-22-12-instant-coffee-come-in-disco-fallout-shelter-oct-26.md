@@ -60,4 +60,4 @@ them into a DFS
 
 www.livebiennale.ca
 
-http://www.instantcoffee.org
+[http://www.instantcoffee.org](http://www.instantcoffee.org)

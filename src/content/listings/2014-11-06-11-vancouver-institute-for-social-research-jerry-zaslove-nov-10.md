@@ -178,7 +178,7 @@ Contact - visrvancouver@gmail.com
 Venue is wheelchair accessible
 
 The readings will be on our Wordpress site:
-http://visrfreeschool.wordpress.com/
+[http://visrfreeschool.wordpress.com/](http://visrfreeschool.wordpress.com/)
 
-Past seminars on Youtube: http://www.youtube.com/channel/UCK-Wfiov-
+Past seminars on Youtube: [http://www.youtube.com/channel/UCK-Wfiov-](http://www.youtube.com/channel/UCK-Wfiov-)
 HIfIJqpYbQoshg/videos

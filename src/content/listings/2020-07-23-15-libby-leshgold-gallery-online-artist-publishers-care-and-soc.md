@@ -13,7 +13,7 @@ Online talks and discussion
 Thursday, July 30, 4pm - 6pm Pacific time
 Free to participate, registration required
 Register at:
-https://www.eventbrite.ca/e/artist-publishers-care-and-social-action-tickets-
+[https://www.eventbrite.ca/e/artist-publishers-care-and-social-action-tickets-](https://www.eventbrite.ca/e/artist-publishers-care-and-social-action-tickets-)
 114487763984
 
 To mark the beginning of an online residency by artist-run publisher and archive
@@ -70,7 +70,7 @@ Presented by the Libby Leshgold Gallery at Emily Carr University of Art + Design
 READ Books.
 
 Libby Leshgold Gallery Emily Carr University of Art + Design, 520 East 1st Avenue,
-Vancouver BC V5T 0H2 Canada | http://libby.ecuad.ca
+Vancouver BC V5T 0H2 Canada | [http://libby.ecuad.ca](http://libby.ecuad.ca)
 
 The Libby Leshgold Gallery gratefully acknowledges the financial support of the Canada
 Council for the Arts.

@@ -35,4 +35,4 @@ collaboratively with artists and writers to produce small editions of
 books, zines and print ephemera. monikerpress.ca
 
 Directions + event details: 
-https://www.facebook.com/events/400106503886517/
+[https://www.facebook.com/events/400106503886517/](https://www.facebook.com/events/400106503886517/)

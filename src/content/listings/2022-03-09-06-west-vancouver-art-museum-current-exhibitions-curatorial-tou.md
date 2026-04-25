@@ -13,5 +13,5 @@ exhibitions, Rebecca Bair: Deep Conditioning, and Lon Coupey: My Dearest Kate.
 Please note: We will be checking for proof of vaccination and ID for this tour. Registration
 is required; please follow the link to register.
 
-https://anc.ca.apm.activecommunities.com/westvanrec/activity/search/detail/115069?
+[https://anc.ca.apm.activecommunities.com/westvanrec/activity/search/detail/115069](https://anc.ca.apm.activecommunities.com/westvanrec/activity/search/detail/115069)?
 onlineSiteId=0&from_original_cui=true.

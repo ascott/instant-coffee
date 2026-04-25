@@ -17,5 +17,5 @@ BC. Since 1989 the Alternator has shown the work of emerging Canadian and
 international artists with an experimental approach, particularly those engaged in social 
 and cultural issues.
 
-For more information or to apply, visit: https://www.alternatorcentre.com/submissions-
+For more information or to apply, visit: [https://www.alternatorcentre.com/submissions-](https://www.alternatorcentre.com/submissions-)
 maingallery/

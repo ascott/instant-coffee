@@ -26,4 +26,4 @@ This event will include a short introduction to the project by editors Leigh Ten
 Steven Cottingham, a selection of free-to-take zines, and a celebration marking efforts 
 made by all contributors.
 
-http://www.qoqqoon.com
+[http://www.qoqqoon.com](http://www.qoqqoon.com)

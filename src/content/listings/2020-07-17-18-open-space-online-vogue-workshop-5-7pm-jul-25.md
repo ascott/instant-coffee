@@ -25,4 +25,4 @@ social media if comfortable!
 Please note: advance registration is required to attend! Email office@openspace.ca.
 
 Find out more about the Vogue project and Kimmortals workshop here:
-https://openspace.ca/programming/messages-resistance-visual-art-workshop
+[https://openspace.ca/programming/messages-resistance-visual-art-workshop](https://openspace.ca/programming/messages-resistance-visual-art-workshop)

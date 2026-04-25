@@ -38,5 +38,5 @@ get their hands on.
 Mystery Ecology, Gabriel Saloman | 2009 | 55mins | dv
 Human Masks, Sam Gould | 2009 | 50mins | dv
 
-www.an-archivist.org/ytssp/ | www.red76.com/ | http://robbyherbst.com/
+www.an-archivist.org/ytssp/ | www.red76.com/ | [http://robbyherbst.com/](http://robbyherbst.com/)
 Co-Presented with VIVO Media Arts Centre and ARTSPEAK

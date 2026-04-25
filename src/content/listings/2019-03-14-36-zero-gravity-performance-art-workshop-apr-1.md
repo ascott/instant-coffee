@@ -59,7 +59,7 @@ Processes and Artist Bios)
 
 Please click the LINK below:
 
-http://milezerodance.com/2017/call-for-applications-workshop/
+[http://milezerodance.com/2017/call-for-applications-workshop/](http://milezerodance.com/2017/call-for-applications-workshop/)
 
 APPLICATION DEADLINE: April 1, 2019
 

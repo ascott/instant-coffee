@@ -20,7 +20,7 @@ borrowing one.
 Saturday April 20, 1:00 am - 4:00 pm (Art + Technology LAB, Anvil Centre)
 Sunday April 21, 9:05am Ferry to Bowen Island, 3:30pm Return
 Ages 18+
-Registration Link: https://bit.ly/3Tfh45C
+Registration Link: [https://bit.ly/3Tfh45C](https://bit.ly/3Tfh45C)
 Registration Fee: $150.00 / 2 days. (does note include travel fees)
 Instructor: Mark Nazemi
 P: 604 515 3834 | E: education@newmediagallery.ca | W: newmediagallery.ca/programs

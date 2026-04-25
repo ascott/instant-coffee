@@ -13,7 +13,7 @@ Museums current exhibition,
 Rabbit Lane: Douglas Coupland. Registration is not
 required. Visitors are welcome to drop in to this tour.
 
-https://westvancouverartmuseum.ca/event/tour/rabbit-lane-douglas-coupland
+[https://westvancouverartmuseum.ca/event/tour/rabbit-lane-douglas-coupland](https://westvancouverartmuseum.ca/event/tour/rabbit-lane-douglas-coupland)
 
 Click to see more events:
-https://westvancouverartmuseum.ca/events
+[https://westvancouverartmuseum.ca/events](https://westvancouverartmuseum.ca/events)

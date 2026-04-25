@@ -54,7 +54,7 @@ exhibition contract.
 
 Visit the Art Gallery of Guelph’s website for more information, including a
 floor plan:
-http://www.artgalleryofguelph.ca/3rd-annual-middlebrook-prize-young-canadian-curators
+[http://www.artgalleryofguelph.ca/3rd-annual-middlebrook-prize-young-canadian-curators](http://www.artgalleryofguelph.ca/3rd-annual-middlebrook-prize-young-canadian-curators)
 
 Important Dates
 Call for Submissions: March 31 – May 1, 2015

@@ -22,4 +22,4 @@ Market – A UBC Student Exhibit
 Admission $15.68 Adults; $13.44 Students & Seniors 65+ / 6393 N.W. Marine
 Drive, Vancouver BC V6T 1Z2
 
-More information can be found at http://www.moa.ubc.ca/exhibits.
+More information can be found at [http://www.moa.ubc.ca/exhibits](http://www.moa.ubc.ca/exhibits).

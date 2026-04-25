@@ -73,6 +73,6 @@ info@oxygenartcentre.org
 
 Submission Call Links:
 
-Website: https://oxygenartcentre.org/exhibitions-residencies/submissions/
+Website: [https://oxygenartcentre.org/exhibitions-residencies/submissions/](https://oxygenartcentre.org/exhibitions-residencies/submissions/)
 
-On Facebook: https://www.facebook.com/events/164851544172578/
+On Facebook: [https://www.facebook.com/events/164851544172578/](https://www.facebook.com/events/164851544172578/)

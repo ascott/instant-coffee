@@ -37,7 +37,7 @@ will investigate sites and develop a permanent artwork that acknowledges
 both the history and current presence of local tribes.
 
 For the full description of the project, go to:
-https://www.callforentry.org/festivals_unique_info.php?ID=2097
+[https://www.callforentry.org/festivals_unique_info.php?ID=2097](https://www.callforentry.org/festivals_unique_info.php?ID=2097)
 
 For questions regarding the submission requirements or process, contact The
 Seattle Office of Arts & Culture by email at ruri.yampolsky@seattle.gov

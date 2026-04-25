@@ -19,7 +19,7 @@ Tickets start at $29.50 and are available online at www.theimprovcentre.ca, by
 phone at 604.738.7013, or in person at the
 TIC Box Office (1502 Duranleau Street).
 
-Media can download publicity images at https://tinyurl.com/2s45da47.
+Media can download publicity images at [https://tinyurl.com/2s45da47](https://tinyurl.com/2s45da47).
 
 Welcome to the mansion, Vancouver! Get your fill of flirty, dramatic, and soap opera-
 esque ridiculousness with this 90 minute show in which a TIC bachelor or

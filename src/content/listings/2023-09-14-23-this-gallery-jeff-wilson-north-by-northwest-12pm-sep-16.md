@@ -31,4 +31,4 @@ legacy unique to this part of BC.
 
 Opening Reception: Saturday, September 16, noon - 4PM
 
-https://thisgallery.org/
+[https://thisgallery.org/](https://thisgallery.org/)

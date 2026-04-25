@@ -52,5 +52,5 @@ and learning.
 
 To learn more about Grow contact Holly Schmidt or visit
 
-http://othersights.ca/
-http://www.grow-urbanagricultureproject.ca/
+[http://othersights.ca/](http://othersights.ca/)
+[http://www.grow-urbanagricultureproject.ca/](http://www.grow-urbanagricultureproject.ca/)

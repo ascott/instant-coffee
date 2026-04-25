@@ -35,4 +35,4 @@ alternative ways.
 Emily Carr's Library Window Gallery faces Johnston Street, in Granville
 Island. You don't need access to the library to see the display.
 
-Artist's website: http://laurabucci.com
+Artist's website: [http://laurabucci.com](http://laurabucci.com)

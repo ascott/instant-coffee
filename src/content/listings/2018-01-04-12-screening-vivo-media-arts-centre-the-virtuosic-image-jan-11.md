@@ -11,7 +11,7 @@ summary: "SCREENING | VIVO Media Arts Centre | THE VIRTUOSIC IMAGE | JAN 11"
 VIVO Media Arts and Video Out are pleased to invite you to join us for The Virtuosic 
 Image, a screening of newly accessioned video work from our last call-for-
 submissions in 2017
-(http://www.vivomediaarts.com/call-for-submissions-the-virtuosic-image/). 
+([http://www.vivomediaarts.com/call-for-submissions-the-virtuosic-image/](http://www.vivomediaarts.com/call-for-submissions-the-virtuosic-image/)). 
 
 Video producers were invited to submit works that explore how an image might be 
 regarded as virtuosic in our present age. 
@@ -42,5 +42,5 @@ Our washroom has a 33 wide door, toilet has an 11 clearance on the leftside with
 handrail. Washrooms are gender inclusive.
 
 *
-See our next call: http://www.vivomediaarts.com/call-for-submissions-anniversary-
+See our next call: [http://www.vivomediaarts.com/call-for-submissions-anniversary-](http://www.vivomediaarts.com/call-for-submissions-anniversary-)
 time/

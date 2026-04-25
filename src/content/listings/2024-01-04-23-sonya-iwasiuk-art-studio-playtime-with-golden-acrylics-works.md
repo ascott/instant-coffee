@@ -33,7 +33,7 @@ Sonya is a GOLDEN Artist Educator and a Mixed Media Master!
 
 Space is limited and advanced
 registration is required:
-https://sonya-iwasiuk-art-studio.square.site/product/workshop-playtime-with-golden-
+[https://sonya-iwasiuk-art-studio.square.site/product/workshop-playtime-with-golden-](https://sonya-iwasiuk-art-studio.square.site/product/workshop-playtime-with-golden-)
 acrylics-2-days-/9?si=true
 
 24. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing

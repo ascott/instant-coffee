@@ -46,13 +46,13 @@ performance at 7:30 PM opening night, followed by a talk-back session with Stina
 Visit grunt's instagram page for further details!
 
 Stina Baudins Website:
-https://stinabaudin.com/
+[https://stinabaudin.com/](https://stinabaudin.com/)
 
-Stina Baudins Instagram: https://www.instagram.com/ssteenaa/
+Stina Baudins Instagram: [https://www.instagram.com/ssteenaa/](https://www.instagram.com/ssteenaa/)
 
-Markus Floats Bandcamp: https://markusfloats.bandcamp.com/music
+Markus Floats Bandcamp: [https://markusfloats.bandcamp.com/music](https://markusfloats.bandcamp.com/music)
 
-Markus Floats Instagram: https://www.instagram.com/markus.floats
+Markus Floats Instagram: [https://www.instagram.com/markus.floats](https://www.instagram.com/markus.floats)
 
 grunt gallery.
 

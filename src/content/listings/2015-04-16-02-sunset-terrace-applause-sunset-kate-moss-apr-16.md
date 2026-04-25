@@ -36,7 +36,7 @@ straight from the beach.
 —Laura Piasta
 
 applause @ sunset trailer by Johan Bjorck:
-https://www.youtube.com/watch?v=pWT0O6Za3WI
+[https://www.youtube.com/watch?v=pWT0O6Za3WI](https://www.youtube.com/watch?v=pWT0O6Za3WI)
 
 Sunset Terrace
 2028 Clark Drive

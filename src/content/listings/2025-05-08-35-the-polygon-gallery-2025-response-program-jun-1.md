@@ -34,7 +34,7 @@ Eligibility
 " Commit to attending a minimum of four out of six workshops. Sessions take place
 on Saturday mornings in July and August.
 " Priority is reserved for emerging artists.
-Apply here: https://thepolygon.ca/news/call-for-indigenous-artists-the-2025-
+Apply here: [https://thepolygon.ca/news/call-for-indigenous-artists-the-2025-](https://thepolygon.ca/news/call-for-indigenous-artists-the-2025-)
 response-program/
 If you have questions please contact response@thepolygon.ca.
 Applications close Sunday, June 1, 2025.

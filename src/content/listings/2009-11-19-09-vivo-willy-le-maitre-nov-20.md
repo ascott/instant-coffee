@@ -17,7 +17,7 @@ Opening Friday, November 20, 8:00pm with live narration by the artist
 at 10:00pm
 Nov 20-Dec 12, 2009 | Wed-Sat, 12pm-6pm
 1965 Main Street, Vancouver
-http://vivomediaarts.com
+[http://vivomediaarts.com](http://vivomediaarts.com)
 
 Edia is a real-time narrated media presentation by Willy Le Maitre
 displayed in stereographic format.
@@ -56,4 +56,4 @@ Victoriaville Quebec., ICMC in Banff, Canada, and ISEA. His work has
 received numerous grants and awards including LIFE 3.0 competition for
 artificial life artworks in Madrid and The Telefilm Canada prize at
 the Images Festival of Independent Film, 2000, Toronto.
-http://www.w----e.net/
+[http://www.w----e.net/](http://www.w----e.net/)

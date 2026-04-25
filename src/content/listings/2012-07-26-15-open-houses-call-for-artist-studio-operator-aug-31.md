@@ -16,12 +16,12 @@ interested in leasing City-owned industrial spaces that Proponents
 would convert and operate as multiple, affordable, accessible artist 
 studios and production spaces. Please refer to the Artist Studios 
 Operator 
-Call<http://vancouver.ca/commsvcs/cultural/facilities/documents/Artist-
+Call<[http://vancouver.ca/commsvcs/cultural/facilities/documents/Artist-](http://vancouver.ca/commsvcs/cultural/facilities/documents/Artist-)
 Studio-Space-Operator-Call-2012.pdf> (400kb) for details.
 
 This call is not intended for individual artists seeking a studio space. 
 Artists interested in studio space can sign up to the VanCulture Email 
-List<http://vancouver.ca/commsvcs/cultural/lists/index.htm> to receive 
+List<[http://vancouver.ca/commsvcs/cultural/lists/index.htm](http://vancouver.ca/commsvcs/cultural/lists/index.htm)> to receive 
 updates on this project.
 
 Open Houses
@@ -32,7 +32,7 @@ Submission deadline
 August 31, 2012
 
 Website
-http://vancouver.ca/commsvcs/cultural/facilities/Artist-Studios-Operator-
+[http://vancouver.ca/commsvcs/cultural/facilities/Artist-Studios-Operator-](http://vancouver.ca/commsvcs/cultural/facilities/Artist-Studios-Operator-)
 Call.htm
 
 Inquiries
@@ -49,7 +49,7 @@ We want a 2 bedroom+ place for us and all our shadow puppets.
 We are a creative and responsible couple that have been together for 9 
 years.
 We run our theatre company like a small business: 
-http://www.facebook.com/mindofasnail
+[http://www.facebook.com/mindofasnail](http://www.facebook.com/mindofasnail)
 We've got great references from previous landlords, good credit etc.
 We are ready to move anytime from now to October and are looking to 
 spend about $1000/month.

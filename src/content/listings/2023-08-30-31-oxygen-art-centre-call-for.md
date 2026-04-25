@@ -36,7 +36,7 @@ Note: The window is secured by a lock. It does not feature electricity or lighti
 
 Applicants can submit proposals via Google form.
 
-https://docs.google.com/forms/d/e/1FAIpQLSfYutUnTuSHWEOZmA329s3r2Kh68yQl
+[https://docs.google.com/forms/d/e/1FAIpQLSfYutUnTuSHWEOZmA329s3r2Kh68yQl](https://docs.google.com/forms/d/e/1FAIpQLSfYutUnTuSHWEOZmA329s3r2Kh68yQl)
 bc1UDkgNP1wZvyiE-g/viewform?
 ct=t(EMAIL_CAMPAIGN_3_3_2023_8_29_COPY_01)&mc_cid=6a97e22f58&mc_ei
 d=2c8923aa58&pli=1

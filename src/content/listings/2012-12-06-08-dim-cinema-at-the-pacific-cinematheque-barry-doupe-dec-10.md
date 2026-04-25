@@ -13,7 +13,7 @@ Barry Doupe's The Colors that Combine to Make White are Important
 Monday December 10, 7:30pm
 Tix: $10.50/$9 + $3 membership
 1131 Howe St. Vancouver
-http://www.dimcinema.ca
+[http://www.dimcinema.ca](http://www.dimcinema.ca)
 
 DIRECTOR BARRY DOUPÃ‰ IN ATTENDANCE! ► In The Colors that 
 Combine to Make White are Important, Vancouver animator Barry Doupé 

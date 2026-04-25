@@ -8,7 +8,7 @@ venue: "Henry Art Gallery"
 summary: "Henry Art Gallery | Youtube channel talks"
 ---
 
-https://www.youtube.com/user/henryartgallery/videos
+[https://www.youtube.com/user/henryartgallery/videos](https://www.youtube.com/user/henryartgallery/videos)
 
 The Henry Art Gallery
 

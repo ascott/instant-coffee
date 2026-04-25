@@ -20,4 +20,4 @@ Programs Coordinator Christina Jones and/or a
 local artist, who will share inspiring artworks and demonstrate imaginative activities that
 you can make from home!
 
-https://www.vanartgallery.bc.ca/exhibitions/spring-into-art
+[https://www.vanartgallery.bc.ca/exhibitions/spring-into-art](https://www.vanartgallery.bc.ca/exhibitions/spring-into-art)

@@ -16,7 +16,7 @@ Cineworks Annex, Ironworks, 235 Alexander Street
 (basement, lane entrance: please ring the bell to the right of the gate)
 
 General Admission: $20 | Cineworks members: $15 (plus taxes)
-Advance booking required: https://darkroom-safety.eventbrite.ca/
+Advance booking required: [https://darkroom-safety.eventbrite.ca/](https://darkroom-safety.eventbrite.ca/)
 
 A two-hour lab workshop designed to introduce participants to the roles of
 chemicals in photographic work: their risks, their benefits and the
@@ -42,4 +42,4 @@ media artists. We engage our membership and the broader community through
 initiatives and services that foster dialogue and experimentation with the
 moving image.
 
-http://cineworks.ca
+[http://cineworks.ca](http://cineworks.ca)

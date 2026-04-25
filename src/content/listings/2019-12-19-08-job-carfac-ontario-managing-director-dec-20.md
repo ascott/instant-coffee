@@ -35,7 +35,7 @@ They often fulfill a motivational capacity in addition to office-based work to l
 the
 organization in all development areas.
 
-For more information and how to apply please visit https://www.carfacontario.ca/job-
+For more information and how to apply please visit [https://www.carfacontario.ca/job-](https://www.carfacontario.ca/job-)
 managing-director
 
 Deadline for Applications Extended to Friday, December 20, 2019.

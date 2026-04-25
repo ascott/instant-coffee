@@ -18,7 +18,7 @@ Talk: 7:00 PM " 8:30 PM (Djavad Mowafaghian Cinema, SFU Goldcorp Centre for the
 Arts: 149 W Hastings St, Vancouver, BC V6B 1H7)
 Reception: 9:00 " 10:00 PM (Roundhouse Community Arts & Recreation Centre: 181
 Roundhouse Mews, Vancouver, BC V6Z 2W3)
-Tickets: From $20, purchase at https://indiansummerfest.ca/isfevents/rajni-perera-in-
+Tickets: From $20, purchase at [https://indiansummerfest.ca/isfevents/rajni-perera-in-](https://indiansummerfest.ca/isfevents/rajni-perera-in-)
 conversation-with-devyani-saltzman/
 
 Short Description:

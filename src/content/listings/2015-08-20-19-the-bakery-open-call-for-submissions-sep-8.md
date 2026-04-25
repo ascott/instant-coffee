@@ -23,4 +23,4 @@ you for your interest, only those considered will be contacted.
 
 To view a floor plan of our gallery space go to:
 
-http://thebakeryonfranklin.tumblr.com
+[http://thebakeryonfranklin.tumblr.com](http://thebakeryonfranklin.tumblr.com)

@@ -20,5 +20,5 @@ the Future Exhibition at the SFU Audain Gallery
 Nov. 17, 2011 - Feb. 25, 2012 www.sfuwoodwards.ca
 
 Audain Gallery, Goldcorp Centre for the Arts, 149 West Hastings Street
-http://sfuwoodwards.ca/index.php/events/details/mapping-the-everyday-
+[http://sfuwoodwards.ca/index.php/events/details/mapping-the-everyday-](http://sfuwoodwards.ca/index.php/events/details/mapping-the-everyday-)
 neighbourhood-claims-for-the-future

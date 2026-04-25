@@ -86,4 +86,4 @@ University of British Columbia
 1825 Main Mall, Vancouver, B.C. Canada V6T 1Z2
 (t) 604 822 3640
 (f) 604 822 6689
-http://www.belkin.ubc.ca
+[http://www.belkin.ubc.ca](http://www.belkin.ubc.ca)

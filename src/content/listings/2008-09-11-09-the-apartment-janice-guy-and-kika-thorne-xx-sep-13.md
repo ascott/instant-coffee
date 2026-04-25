@@ -87,4 +87,4 @@ The Apartment
 1450 Chestnut St, Apt. 506
 Vancouver, British Columbia
 
-www.theapt.ca <http://www.theapt.ca>
+www.theapt.ca <[http://www.theapt.ca](http://www.theapt.ca)>

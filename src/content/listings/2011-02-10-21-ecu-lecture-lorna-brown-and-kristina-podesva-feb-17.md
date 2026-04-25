@@ -25,9 +25,9 @@ digital archive of images, film, essays and artists projects
 (www.vancouverartinthesixties.com). Brown was the Director/Curator of
 Artspeak Gallery from 1999 to 2004. Recent exhibitions of her visual art
 include The Chatter of Culture, Artspeak, Vancouver; Threshold (cont.) at
-the Koerner Library at UBC (http://www.belkin.ubc.ca/past/lorna-brown), and
+the Koerner Library at UBC ([http://www.belkin.ubc.ca/past/lorna-brown](http://www.belkin.ubc.ca/past/lorna-brown)), and
 AdmIndex, an online artwork commissioned by the Audain Gallery at SFU
-Woodwards (http://audaingallery.ca/coming-soon). Her interview with Anne
+Woodwards ([http://audaingallery.ca/coming-soon](http://audaingallery.ca/coming-soon)). Her interview with Anne
 Pasternak, Director of New Yorks Creative Time is included in Fillip 12,
 Fall 2010.
 

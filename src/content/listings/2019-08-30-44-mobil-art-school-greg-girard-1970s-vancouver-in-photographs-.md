@@ -18,4 +18,4 @@ Limited Seating! Sorry, we are unable to accommodate drop-ins. Please pre-regist
 and read our FAQ.
 Cash Bar, 19+ only, No Minors, No Outside Drinks.
 $5
-https://www.mobil-art.ca/event-info/artist-talk-with-greg-girard
+[https://www.mobil-art.ca/event-info/artist-talk-with-greg-girard](https://www.mobil-art.ca/event-info/artist-talk-with-greg-girard)

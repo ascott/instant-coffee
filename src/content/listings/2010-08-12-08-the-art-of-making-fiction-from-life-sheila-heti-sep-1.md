@@ -33,7 +33,7 @@ Price: $50 (includes a one-year sub­scrip­tion to Geist for your­self
 or a friend.)
 
 To reg­is­ter for this work­shop click here
-(http://www.geist.com/workshops/art-making-fiction-life), or call us
+([http://www.geist.com/workshops/art-making-fiction-life](http://www.geist.com/workshops/art-making-fiction-life)), or call us
 at 604681-9161.
 
 

@@ -18,4 +18,4 @@ Brynn McNab, a recursive neural network named UXIE and performers Elissa Hanson 
 Zahra Shahab. Tender Engine plays the line between intimate storytelling and highly 
 performative false expertise, examining our relationship to language, technology, and meaning
 
-https://www.facebook.com/events/349768205677055/
+[https://www.facebook.com/events/349768205677055/](https://www.facebook.com/events/349768205677055/)

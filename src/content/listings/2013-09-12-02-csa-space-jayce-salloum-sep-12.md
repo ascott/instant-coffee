@@ -18,7 +18,7 @@ continues to Sun. Oct. 13, 2013
 downstairs)
 #5-2414 Main St.
 Vancouver
-http://csaspace.blogspot.com
+[http://csaspace.blogspot.com](http://csaspace.blogspot.com)
 
 Part photo-array, sculptures of disused materials, and objects, this 
 installation reprises and coalesces fragments of several projects made 
@@ -55,7 +55,7 @@ opening Fri. Oct. 25, 7:00 – 9pm
 continues to Sat. Nov. 30, 2013
 #116-350 East 2nd Ave.
 Vancouver
-http://grunt.ca
+[http://grunt.ca](http://grunt.ca)
 
 This new installation of photographs continues my engagement in the 
 visualization of the nature of the 'natural' and constructed environments, their 

@@ -21,4 +21,4 @@ tours, the month-long celebration allows visitors to virtually criss-cross the c
 the unexpected intersections of creative collaboration.
 
 Info at: culturedays.ca/bc
-http://culturedays.ca/bc
+[http://culturedays.ca/bc](http://culturedays.ca/bc)

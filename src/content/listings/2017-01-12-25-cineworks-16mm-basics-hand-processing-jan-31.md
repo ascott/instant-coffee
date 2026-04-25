@@ -17,7 +17,7 @@ $40 + taxes | General Admission
 $35 + taxes | Concession
 $30 + taxes | Member Admission
 
-REGISTER:http://bit.ly/2iHs898
+REGISTER:[http://bit.ly/2iHs898](http://bit.ly/2iHs898)
 
 A 3 hour entry-level workshop introducing participants to the principles and practice of 
 processing 16mm black and white film by hand.

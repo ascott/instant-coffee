@@ -40,4 +40,4 @@ gallerygachet
 88 east cordova street, vancouver
 ph: 604.687.2468 hours: Wed-Sun 12-6
 
-http://www.gachet.org
+[http://www.gachet.org](http://www.gachet.org)

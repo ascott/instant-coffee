@@ -38,4 +38,4 @@ Openness to process, thoughtful reflection, and collaboration
 Finance, fundraising, and HR experience an asset
 Eligible candidates will be contacted by August 19th.
 
-https://www.unitpitt.ca/updates/2024-agm-call-for-board-members/
+[https://www.unitpitt.ca/updates/2024-agm-call-for-board-members/](https://www.unitpitt.ca/updates/2024-agm-call-for-board-members/)

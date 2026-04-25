@@ -58,4 +58,4 @@ Dr. Ann-Barbara Graff, Office of Academic Affairs and Research
 NSCAD University
 5163 Duke Street, Halifax, Nova Scotia, B3J 3J6
 Fax: 902 425 4664 or careers@nscad.ca
-For more information about NSCAD University please visit http://nscad.ca
+For more information about NSCAD University please visit [http://nscad.ca](http://nscad.ca)

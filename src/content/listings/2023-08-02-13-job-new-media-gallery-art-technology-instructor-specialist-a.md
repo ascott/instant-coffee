@@ -32,5 +32,5 @@ Closing Date: 8/9/23
 
 Please apply with your resume and cover letter in one document.
 For more information and/or to apply, click here:
-https://tre.tbe.taleo.net/tre01/ats/careers/v2/viewRequisition?
+[https://tre.tbe.taleo.net/tre01/ats/careers/v2/viewRequisition](https://tre.tbe.taleo.net/tre01/ats/careers/v2/viewRequisition)?
 org=Q8Z9AA&cws=37&rid=255

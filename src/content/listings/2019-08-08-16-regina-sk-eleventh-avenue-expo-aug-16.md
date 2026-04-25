@@ -27,4 +27,4 @@ Miner, Sheila Nadimi, Julie Oh, Sophia Oppel, Claire Paquet, Amber PB, Zo Schnei
 Shit Fireplace, Emma Welch, Jon Vaughn, and more!
 
 IG @eleventhavenueexpo
-Facebook: https://www.facebook.com/events/949122128763387/
+Facebook: [https://www.facebook.com/events/949122128763387/](https://www.facebook.com/events/949122128763387/)

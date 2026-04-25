@@ -33,7 +33,7 @@ assessments and will short-list up to 12 artists for interviews. As a result of 
 up to five artists will be selected for individual 6-week residency slots.
 
 Submission deadline: February 24th, 2020, 3pm PST
-Full details at https://thebluecabin.ca/current-residency-call/
+Full details at [https://thebluecabin.ca/current-residency-call/](https://thebluecabin.ca/current-residency-call/)
 
 32. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.

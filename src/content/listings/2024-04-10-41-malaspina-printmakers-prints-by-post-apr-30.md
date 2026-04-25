@@ -23,7 +23,7 @@ Medium: Must include at least one printmaking medium
 Deadline: April 30th 2024
 
 For more information, and to submit your prints, see our website at:
-https://www.malaspinaprintmakers.com/prints-by-post/
+[https://www.malaspinaprintmakers.com/prints-by-post/](https://www.malaspinaprintmakers.com/prints-by-post/)
 
 How does this print exchange and fundraiser work?
 

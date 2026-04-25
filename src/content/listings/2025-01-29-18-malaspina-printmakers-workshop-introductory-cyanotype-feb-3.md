@@ -34,5 +34,5 @@ Level: Beginner
 Materials:
 included
 
-https://www.malaspinaprintmakers.com/copy-of-introductory-cyanotype-saturdays-in-
+[https://www.malaspinaprintmakers.com/copy-of-introductory-cyanotype-saturdays-in-](https://www.malaspinaprintmakers.com/copy-of-introductory-cyanotype-saturdays-in-)
 septem.html

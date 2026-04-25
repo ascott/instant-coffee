@@ -46,12 +46,12 @@ Submit your application on our Google form below in addition to all relevant
 support materials
 by: June 26, 2020 at 11:59 PM.
 
-https://hatchart.gallery/callforsubmissions
+[https://hatchart.gallery/callforsubmissions](https://hatchart.gallery/callforsubmissions)
 
 The link to the form is also listed on:
 
 Instagram: @hatch_artgallery
 
-Facebook Page: https://www.facebook.com/hatchgalleryubc/
+Facebook Page: [https://www.facebook.com/hatchgalleryubc/](https://www.facebook.com/hatchgalleryubc/)
 
 Questions? Please email: hatch@ams.ubc.ca

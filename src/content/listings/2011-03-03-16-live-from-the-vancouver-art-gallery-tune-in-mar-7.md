@@ -62,7 +62,7 @@ Fri March 11:
 
 1pm – 2pm: Animal Voices (animal rights programming)
 
-Listen live on air CFRO 102.7FM or online http://www.coopradio.org/
+Listen live on air CFRO 102.7FM or online [http://www.coopradio.org/](http://www.coopradio.org/)
 
 Tune in and support community radio programming.
 

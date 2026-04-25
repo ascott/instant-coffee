@@ -43,5 +43,5 @@ Burnaby Art Gallery
 BC Canada
 V5G 2J3
 
-https://www.burnaby.ca/recreation-and-arts/arts-and-culture-facilities/burnaby-art-
+[https://www.burnaby.ca/recreation-and-arts/arts-and-culture-facilities/burnaby-art-](https://www.burnaby.ca/recreation-and-arts/arts-and-culture-facilities/burnaby-art-)
 gallery/exhibitions/golden-hour

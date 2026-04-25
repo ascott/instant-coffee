@@ -27,7 +27,7 @@ with your work while it resides in our community.
 
 HOW TO APPLY
 
-Please visit our submissions page: http://support-imarts.com/submit-gallery
+Please visit our submissions page: [http://support-imarts.com/submit-gallery](http://support-imarts.com/submit-gallery)
 Application Deadline: 23:59 PT, August 15th, 2023.
 
 Our Application form is the preferred method of application submission, but please let

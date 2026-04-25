@@ -24,7 +24,7 @@ auctioning unique disposable camera prints in addition to these non-visual artis
 offerings.
 
 Place your bids online from September 10 to 24 by visiting
-https://www.biddingforgood.com/gruntgallery/40thanniversaryfundraiser . Or bid LIVE
+[https://www.biddingforgood.com/gruntgallery/40thanniversaryfundraiser](https://www.biddingforgood.com/gruntgallery/40thanniversaryfundraiser) . Or bid LIVE
 at grunt's 40th Anniversary Party on September
 20. By bidding, you not only acquire
 an inside look into daily moments that inspire creativity in your favourite artists' lives.
@@ -38,7 +38,7 @@ Taylor Fearing, Moroti George, Rebecca Belmore, Michelle Sound, Valerie Walker,
 Jen Yakamovich, Paul Wong, Glenn Gear, Derya Akay, and Syrus Marcus Ware.
 
 Link to our Facebook event page:
-https://www.facebook.com/share/fy3v7Yjx29zmVaRw/
+[https://www.facebook.com/share/fy3v7Yjx29zmVaRw/](https://www.facebook.com/share/fy3v7Yjx29zmVaRw/)
 
-Link to our Instagram post: https://www.instagram.com/p/C_OE1_vvjj6/?
+Link to our Instagram post: [https://www.instagram.com/p/C_OE1_vvjj6/](https://www.instagram.com/p/C_OE1_vvjj6/)?
 img_index=1

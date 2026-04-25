@@ -11,7 +11,7 @@ summary: "SFU School for the CA [ONLINE] | VISUAL ART FORUM: Tanya Lukin Linklat
 Tuesday, November 24, 2020 | 9:30 AM | Zoom
 
 RSVP HERE:
-https://www.eventbrite.ca/e/visual-art-forum-tanya-lukin-linklater-registration-
+[https://www.eventbrite.ca/e/visual-art-forum-tanya-lukin-linklater-registration-](https://www.eventbrite.ca/e/visual-art-forum-tanya-lukin-linklater-registration-)
 120877344391
 
 Please join us for a FREE talk by Tanya Lukin Linklater, presented as part of the Fall

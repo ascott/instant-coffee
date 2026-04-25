@@ -15,4 +15,4 @@ Great Rides invite you on a cycle tour that will take you along some of Vancouve
 beaches and parks to explore the monumental outdoor sculptures of the Vancouver Biennale. For 
 more information visit www.greatrides.ca or 
 
-http://www.vancouverbiennale.com
+[http://www.vancouverbiennale.com](http://www.vancouverbiennale.com)

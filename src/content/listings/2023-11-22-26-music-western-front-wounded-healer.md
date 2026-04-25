@@ -32,7 +32,7 @@ bereft of attachment.
 Presented in partnership with Second Spring, and with the support of the
 Government of Canada and SOCAN Foundation.
 
-To learn more, visit our website: https://westernfront.ca/events/wounded-healer-
+To learn more, visit our website: [https://westernfront.ca/events/wounded-healer-](https://westernfront.ca/events/wounded-healer-)
 without-dependency
 
 Western Front

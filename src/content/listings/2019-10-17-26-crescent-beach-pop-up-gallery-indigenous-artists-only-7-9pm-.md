@@ -49,7 +49,7 @@ at Deer Lake Gallery. She holds a BA in Political Science and Gender, Sexuality,
 Women's Studies from SFU, a diploma in Fine Arts from Langara
 College,
 and is
-currently finishing her BFA at Kwantlen University. https://freebleed.com/
+currently finishing her BFA at Kwantlen University. [https://freebleed.com/](https://freebleed.com/)
 
 LACIE BURNING is a Kanien'keh:ka and Onondaga multi-disciplinary artist and curator
 born in Brantford and raised on Six Nations of the Grand River reserve in Southern
@@ -67,7 +67,7 @@ Canadian Art
 Magazines 2018
 winter issue, titled LAND/BODY/RECIPROCITY. They
 were also long-listed for some prize for emerging artists working with photography, film,
-and video in 2018 and in 2019. https://burning.live/
+and video in 2018 and in 2019. [https://burning.live/](https://burning.live/)
 
 WHESS HARMAN (they/them) is mixed race, trans/non-binary queer/2SQ artist from the
 Carrier Wit'at Nation and a graduate of Emily Carr Universitys bachelor of fine arts
@@ -83,7 +83,7 @@ of
 reciprocal engagement and aim
 to subvert and confront the assumptions made in
 consuming Indigenous voices and work by pointing to contradictions and humorous
-oppositions. https://www.whessharman.com/
+oppositions. [https://www.whessharman.com/](https://www.whessharman.com/)
 
 ATHEANA PICHA is a Coast Salish multimedia artist from the Kwantlen First Nation
 currently working with ceramics, carving, and painting. A two-time recipient of the YVR
@@ -96,7 +96,7 @@ and community art.
 From her experiences growing up and learning about her culture, Atheana Picha works
 within the tradition of Coast Salish art to depict the natural environment using vivid
 colour palettes and gracefully balanced design elements. *she/her pronouns.
-https://www.instagram.com/atheanapicha/
+[https://www.instagram.com/atheanapicha/](https://www.instagram.com/atheanapicha/)
 
 KELSEY
 SPARROW is an artist, Musqueam on her Fathers side of the family and
@@ -104,4 +104,4 @@ White Fish River on her Mothers. Currently a student, she is working across disc
 with a focus on ceramics. Land/territory, family history, and the positionality of
 indigenous identity in pop culture and academia are themes that emerge in her
 work.Most recently, she was featured in the exhibit "Staring in Coast Salish" at KPU
-Arbutus Gallery. *she/her pronouns. https://www.instagram.com/ectoplastic/
+Arbutus Gallery. *she/her pronouns. [https://www.instagram.com/ectoplastic/](https://www.instagram.com/ectoplastic/)

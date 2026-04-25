@@ -46,7 +46,7 @@ Todd instigates each event as an extension of his ongoing Not Sent
 Letters Project, an entanglement with the production of meaning, self 
 and cultural memory, involving image/text epistolary detours online 
 (since 2005), digital shorts, interdisciplinary performance works and 
-cooperatively realized public events: http://notsentlettersproject.com 
+cooperatively realized public events: [http://notsentlettersproject.com](http://notsentlettersproject.com) 
 This is the nineteenth NOT SENT LETTERS & GUESTS event.
 
 DAMLA TAMER (an artist interested in the artistic-political stakes of 
@@ -121,7 +121,7 @@ And Jeremy Todd, and All Other Accidental Bohemians, selected from
 the project archive. 
 
 EXPLORE previous Not Sent Letters & Guests events here: 
-http://notsentlettersproject.com/category/events 
+[http://notsentlettersproject.com/category/events](http://notsentlettersproject.com/category/events) 
 
 Please email Jeremy Todd to host or contribute to a future Not Sent 
 Letters & Guests event: jeremytodd@notsentlettersproject.com

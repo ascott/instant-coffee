@@ -22,4 +22,4 @@ States, as well as the connective histories of Indigenous peoples in a global co
 
 Tickets: $15 for Non-members, $12 for Members, $10 for Students/Seniors
 
-Purchase tickets here: https://etickets.vanartgallery.bc.ca/Info.aspx?EventID=12
+Purchase tickets here: [https://etickets.vanartgallery.bc.ca/Info.aspx?EventID=12](https://etickets.vanartgallery.bc.ca/Info.aspx?EventID=12)

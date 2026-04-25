@@ -40,7 +40,7 @@ and is the Director of the International Centre for Arts in Peacebuilding.
 Her latest co-edited book The Choreography of Resolution - Conflict,
 Movement and Neuroscience has just been released.
 
-http://www.sfu.ca/sfuwoodwards/events/events1/2014-2015-fall/performing-home--enacting-a-new-choreography-of-belonging---a-le.html
+[http://www.sfu.ca/sfuwoodwards/events/events1/2014-2015-fall/performing-home--enacting-a-new-choreography-of-belonging---a-le.html](http://www.sfu.ca/sfuwoodwards/events/events1/2014-2015-fall/performing-home--enacting-a-new-choreography-of-belonging---a-le.html)
 
 200+ public events per year, 35+ cultural & community partnerships.
 What's on next? Sign up for our newsletter at sfuwoodwards.ca .

@@ -60,7 +60,7 @@ out both
 the gallery application form and residency package.
 
 For more information and to apply:
-http://www.artscentre.ca/artists/colonyandresidency.html
+[http://www.artscentre.ca/artists/colonyandresidency.html](http://www.artscentre.ca/artists/colonyandresidency.html)
 
 Mail your submissions to:
 Colony Director

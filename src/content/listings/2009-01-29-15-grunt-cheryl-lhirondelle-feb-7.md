@@ -21,7 +21,7 @@ Cheryl L'Hirondelle's commissioned project with grunt, Nikamon Ohci Askiy
 It all culminates with a final concert performance and DVD launch on
 Saturday, February 7, 2 p.m. @ Celebration Hall, Mountainview Cemetery
 (5445 Fraser Street)
-in conjunction with this year's PUSH Festival: http://pushfestival.ca
+in conjunction with this year's PUSH Festival: [http://pushfestival.ca](http://pushfestival.ca)
 
 Cheryl
 
@@ -32,5 +32,5 @@ a Cree world view as a template for a work that combines music with
 performance art and new media. Kevin Griffin, Vancouver Sun
 
 Learn more about Cheryl's project here:
-http://vancouversonglines.blogspot.com
-http://vancouversonglines.ca
+[http://vancouversonglines.blogspot.com](http://vancouversonglines.blogspot.com)
+[http://vancouversonglines.ca](http://vancouversonglines.ca)

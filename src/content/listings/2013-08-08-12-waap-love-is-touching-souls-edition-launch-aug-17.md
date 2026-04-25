@@ -8,7 +8,7 @@ venue: "WAAP"
 summary: "WAAP | Love Is Touching Souls Edition Launch | AUG 17"
 ---
 
-http://us5.campaign-archive2.com/?
+[http://us5.campaign-archive2.com/](http://us5.campaign-archive2.com/)?
 u=b6b3f91d4664834215b521c0d&id=9f90ea830e&e=97427c5ab0
 
 Roselina Hung

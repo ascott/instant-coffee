@@ -24,10 +24,10 @@ Mark Nazemi, PhD. works at the intersection of sound, technology, education and
 well-being. He is a faculty member of Simon Fraser University, School of Interactive
 Arts and Technology and Senior Sound Instructor with New Media Gallery.
 
-More info: https://newmediagallery.ca/extinction-soundscapes/
+More info: [https://newmediagallery.ca/extinction-soundscapes/](https://newmediagallery.ca/extinction-soundscapes/)
 
 Saturday, April 27 | 10:00AM - 11:00AM PDT
 Online via Zoom
 Registration:
-https://us06web.zoom.us/meeting/register/tZcscOGgpjIuH92UUy2JuteBkyBIAZz5FD
+[https://us06web.zoom.us/meeting/register/tZcscOGgpjIuH92UUy2JuteBkyBIAZz5FD](https://us06web.zoom.us/meeting/register/tZcscOGgpjIuH92UUy2JuteBkyBIAZz5FD)
 6Z

@@ -13,7 +13,7 @@ International Dance Day Events
 April 27 + 29, 2025
 Scotiabank Dance Centre, 677 Davie St + 800 Robson Plaza
 Events are free admission or ticketed on a sliding scale $0-$25
-Info and tickets: https://thedancecentre.ca/event/international-dance-day-2025/
+Info and tickets: [https://thedancecentre.ca/event/international-dance-day-2025/](https://thedancecentre.ca/event/international-dance-day-2025/)
 
 The Dance Centre presents a program of vibrant events celebrating the art of dance
 for International Dance Day. Highlights include Vanessa Goodmans innovative

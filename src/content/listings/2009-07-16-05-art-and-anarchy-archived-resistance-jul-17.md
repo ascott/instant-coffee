@@ -14,7 +14,7 @@ Gallery open Weds-Sun: 5:30  8:30
 {please contact for daytime showings}
 16 E. Hastings. Occupied Coast Salish Territories.
 
-check it out at: http://artandanarchy.wordpress.com/
+check it out at: [http://artandanarchy.wordpress.com/](http://artandanarchy.wordpress.com/)
 
 * Anarchist Insurrection! * Indigenous Uprisings! * Prisoner Liberation! *
 
@@ -38,4 +38,4 @@ happenings. To find out when these take place check out this site or
 email artandanarchy2010@gmail.com
 
 
-http://http://artandanarchy.wordpress.com/
+[http://http://artandanarchy.wordpress.com/](http://http://artandanarchy.wordpress.com/)

@@ -48,7 +48,7 @@ info@chianticom.com
 ~~
 NEW: You can manage your subscription to this mailing list and join
 others by visiting Cultural Services online at:
-http://vancouver.ca/commsvcs/cultural/lists/index.htm
+[http://vancouver.ca/commsvcs/cultural/lists/index.htm](http://vancouver.ca/commsvcs/cultural/lists/index.htm)
 Please feel free to forward or direct others towards this link as well!
 
 PLEASE NOTE: While the City of Vancouver is providing this notification
@@ -60,4 +60,4 @@ of information and functioning of all links. For more detail about a
 particular call, please use the contact information provided. For your
 convenience, all calls distributed through this list are posted online,
 until their expiry, at
-http://vancouver.ca/commsvcs/oca/PublicArt/artistopp.htm.
+[http://vancouver.ca/commsvcs/oca/PublicArt/artistopp.htm](http://vancouver.ca/commsvcs/oca/PublicArt/artistopp.htm).

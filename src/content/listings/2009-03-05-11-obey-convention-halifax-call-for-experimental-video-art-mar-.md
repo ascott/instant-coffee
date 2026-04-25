@@ -24,4 +24,4 @@ Canada
 Submissions must be received by Friday, March 27th.
 
 email: stacey.ho@gmail.com for more information
-festival info: http://www.divorcerecords.ca/mainpages/obey.html
+festival info: [http://www.divorcerecords.ca/mainpages/obey.html](http://www.divorcerecords.ca/mainpages/obey.html)

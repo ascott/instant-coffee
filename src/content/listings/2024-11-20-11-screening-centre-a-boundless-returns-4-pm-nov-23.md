@@ -28,5 +28,5 @@ December 14, with an official screening held on November 23 followed by a
 conversation with Basel and Ruanne.
 
 RSVPs are encouraged. Please register using this link:
-https://www.eventbrite.ca/e/film-screening-boundless-returns-tickets-
+[https://www.eventbrite.ca/e/film-screening-boundless-returns-tickets-](https://www.eventbrite.ca/e/film-screening-boundless-returns-tickets-)
 1077781376109?aff=erelexpmlt

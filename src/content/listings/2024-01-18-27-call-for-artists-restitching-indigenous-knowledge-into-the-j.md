@@ -96,7 +96,7 @@ Selected artists will be notified by February 16, 2024, and workshops will comme
 by March 18, 2024. For inquiries, please
 contact Adele at metiscaron@gmail.com
 Submissions can be completed through this link:
-https://forms.gle/bLdpPJDzPTcigfvh9
+[https://forms.gle/bLdpPJDzPTcigfvh9](https://forms.gle/bLdpPJDzPTcigfvh9)
 
 About the
 Artist:

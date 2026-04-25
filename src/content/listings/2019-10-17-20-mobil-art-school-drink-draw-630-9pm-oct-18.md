@@ -21,4 +21,4 @@ music and drinks available for purchase.
 Sorry, we are unable to accommodate drop-ins. Please pre-register and read our FAQ.
 Cash Bar, 19+ only, No Minors, No Outside Drinks.
 $10
-https://www.mobil-art.ca/event-info/drink-draw-friday-october-18
+[https://www.mobil-art.ca/event-info/drink-draw-friday-october-18](https://www.mobil-art.ca/event-info/drink-draw-friday-october-18)

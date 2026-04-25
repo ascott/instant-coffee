@@ -24,8 +24,8 @@ mentoring and studio visits from critically acclaimed artists and curators.
 The application deadline, June 1, is fast approaching. Please forward the call for 
 applicants! Details about the The Intergenerational LGBT Artist Residency and the 
 application form can be accessed through our website 
-(http://www.queerartistresidency.ca/) or our Facebook Page 
-(https://www.facebook.com/ILGBTArtistResidency).
+([http://www.queerartistresidency.ca/](http://www.queerartistresidency.ca/)) or our Facebook Page 
+([https://www.facebook.com/ILGBTArtistResidency](https://www.facebook.com/ILGBTArtistResidency)).
 
 The Intergenerational LGBT Artist Residency will take place August 21 to September 
 4, with the support of the Ontario Arts Council and Canada Council for the Arts. The 
@@ -78,7 +78,7 @@ archive will henceforth be housed and maintained by the CLGA, the largest
 independent LGBTQ archive in the world. Thank you to the CLGA for elevating our 
 ongoing endeavour to support the practices and study of LGBTQ2 artists in Canada! 
 Please specify your donations for 'Intergenerational LGBT Artist Residency' at this 
-link: https://clga.ca/donate/donation-options/
+link: [https://clga.ca/donate/donation-options/](https://clga.ca/donate/donation-options/)
 
 By exploring Canadian LGBTQ2 art history and artistic practice, while supporting 
 artists and art production, we could foster communication across generational lines. 
@@ -89,7 +89,7 @@ Thank you for your continued solidarity and belief in this project! We look forw
 seeing you on the island!
 
 Find us: www.queerartistresidency.ca
-Facebook: https://www.facebook.com/ILGBTArtistResidency
-Tumblr: http://queerartistresidency.tumblr.com/
+Facebook: [https://www.facebook.com/ILGBTArtistResidency](https://www.facebook.com/ILGBTArtistResidency)
+Tumblr: [http://queerartistresidency.tumblr.com/](http://queerartistresidency.tumblr.com/)
 Donations: www.queerartistresidency.ca
 Media contact: ilgbtresidency@gmail.com

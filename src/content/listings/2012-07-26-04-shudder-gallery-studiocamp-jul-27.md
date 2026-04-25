@@ -35,6 +35,6 @@ Exhibition runs July 27th - August 4th
 www.studiocamp.ca
 www.shuddergallery.com
 
-event link: http://www.facebook.com/events/336782239736272/
+event link: [http://www.facebook.com/events/336782239736272/](http://www.facebook.com/events/336782239736272/)
 
 follow us on twitter! @ShudderGallery

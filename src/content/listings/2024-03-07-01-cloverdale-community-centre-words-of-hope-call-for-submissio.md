@@ -18,4 +18,4 @@ is open to all ages but we are particularly interested in applicants from older 
 
 Deadline: March 18
 
-https://www.surrey.ca/arts-culture/community-art/community-art-artist-calls
+[https://www.surrey.ca/arts-culture/community-art/community-art-artist-calls](https://www.surrey.ca/arts-culture/community-art/community-art-artist-calls)

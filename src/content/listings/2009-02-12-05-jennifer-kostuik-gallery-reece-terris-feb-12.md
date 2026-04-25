@@ -71,4 +71,4 @@ V6B 2W9 Canada
 
 Tel. 604.737.3969
 info@kostuikgallery.com
-http://www.kostuikgallery.com
+[http://www.kostuikgallery.com](http://www.kostuikgallery.com)

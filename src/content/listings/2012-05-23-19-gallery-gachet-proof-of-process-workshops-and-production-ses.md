@@ -46,9 +46,9 @@ on Sat. June 9, from 8-10 pm
 Where: Gallery Gachet, 88 E. Cordova, Vancouver, BC
 
 For more information or to register for workshops and production 
-sessions, please visit the Proof-of-Process web site: http://proof-of-
+sessions, please visit the Proof-of-Process web site: [http://proof-of-](http://proof-of-)
 process.dprime.org/
 
 Proof-of-Process is a production of DPrime Research, a nonprofit 
 research institution specializing in cultural production informed by the 
-intersection of technology, research and the arts. http://dprime.org
+intersection of technology, research and the arts. [http://dprime.org](http://dprime.org)

@@ -33,7 +33,7 @@ His upcoming collaboration with Robert Cram, Wreck to the Seamen, Tempest
 to the Field will be part of Fort McMurrey’s igNIGHT temporary public art
 festival in October 2015.
 
-https:/https://www.facebook.com/events/1659604510943188/?fref=ts
+https:/[https://www.facebook.com/events/1659604510943188/?fref=ts](https://www.facebook.com/events/1659604510943188/?fref=ts)
 
 The Toast Collective is located at 648 Kingsway
 
@@ -41,7 +41,7 @@ The Toast Collective is a collection of collectives that operate, The
 Toast-an art, event and food-centric space in East Vancouver. The Toast is
 a DIY, flexible and community located place for artists, events and workshops.
 
-THE TOAST COLLECTIVE http://thetoast.org/
+THE TOAST COLLECTIVE [http://thetoast.org/](http://thetoast.org/)
 
 The Toast Collective is a store front with the following measurements:
 Front Door 40 inches across

@@ -15,7 +15,7 @@ We are enthralled with Slash Forward, the second commissioned work in the
 
 Slash Forward by Michael Turner punctuates public space beginning May 16th
 on the Canada Line subway video screens and runs to May 31. Also follow
-http://www.youtube.com/offonmain+http://www.facebook.com/pages/On-Main/200712499969520/.
+[http://www.youtube.com/offonmain+http://www.facebook.com/pages/On-Main/200712499969520/](http://www.youtube.com/offonmain+http://www.facebook.com/pages/On-Main/200712499969520/).
 
 Slash Forward was designed to be placed amidst commercial ads/public
 service announcements/breaking news. 100,000 commuters come/go,
@@ -23,10 +23,10 @@ arrive/depart and stand/walk past these info screens daily. Slash Forward
 is repeated every 2 minutes, 24/7.
 
 Derived from the forward-slash, Slash Forward is the third stage in what
-began as a concretist device on Turner’s blog http://mtwebsit.blogspot.com/
+began as a concretist device on Turner’s blog [http://mtwebsit.blogspot.com/](http://mtwebsit.blogspot.com/)
 and was later adapted to 140 slashes in the Twitter-driven Digital Natives
 LED billboard presentation on the Burrard Street Bridge
-http://digitalnatives.othersights.ca/tag/vancouver/. Is Slash Forward a
+[http://digitalnatives.othersights.ca/tag/vancouver/](http://digitalnatives.othersights.ca/tag/vancouver/). Is Slash Forward a
 message, a warning? 140 bright white slashes appear graphically on deep
 red field, presenting the illusion of forward/backward motion.
 

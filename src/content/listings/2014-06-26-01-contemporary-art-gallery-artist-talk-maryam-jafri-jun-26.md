@@ -75,7 +75,7 @@ Contemporary Art Gallery, Vancouver
 
  Read more here:
 
- http://www.contemporaryartgallery.ca/exhibitions/the-act-of-seeing-with-
+ [http://www.contemporaryartgallery.ca/exhibitions/the-act-of-seeing-with-](http://www.contemporaryartgallery.ca/exhibitions/the-act-of-seeing-with-)
 
  ones-own-eyes/
 

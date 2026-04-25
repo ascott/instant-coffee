@@ -54,14 +54,14 @@ Where: The Shop (at Renegade Productions)
 125 East 2nd Avenue, Vancouver, BC, V5T 1B4
 Located between Quebec and Main Street
 Tickets: $8 in advance / $12 at the door
-http://spacemelt2016.brownpapertickets.com/
+[http://spacemelt2016.brownpapertickets.com/](http://spacemelt2016.brownpapertickets.com/)
 Drinks: Cash Bar open throughout the evening, starting at 8pm
 Facebook Event Page:
-https://www.facebook.com/events/1091196950910724/
+[https://www.facebook.com/events/1091196950910724/](https://www.facebook.com/events/1091196950910724/)
 
-Follow SpaceMelt on Facebook: https://www.facebook.com/spacemelt
+Follow SpaceMelt on Facebook: [https://www.facebook.com/spacemelt](https://www.facebook.com/spacemelt)
 
 See videos of our previous performances:
-2014 at Sideshow Studios - https://youtu.be/_Dv1h7fTm8w
-2013 at China Cloud - https://youtu.be/x_z8L7n8OeU
-2010 at Toast Collective - https://youtu.be/y3oIwDd3UVw
+2014 at Sideshow Studios - [https://youtu.be/_Dv1h7fTm8w](https://youtu.be/_Dv1h7fTm8w)
+2013 at China Cloud - [https://youtu.be/x_z8L7n8OeU](https://youtu.be/x_z8L7n8OeU)
+2010 at Toast Collective - [https://youtu.be/y3oIwDd3UVw](https://youtu.be/y3oIwDd3UVw)

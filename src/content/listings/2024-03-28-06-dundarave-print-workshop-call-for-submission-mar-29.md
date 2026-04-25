@@ -27,4 +27,4 @@ The selected artworks will be featured and on display at the Dundarave Print
 Workshop gallery on Granville Island, Vancouver, BC, from April 11, 2024 to May 5,
 2024. The opening party will be held on April 11, 6"9pm. Mark your calendars!
 
-Apply here: https://www.dundaraveprintworkshop.com/opencall
+Apply here: [https://www.dundaraveprintworkshop.com/opencall](https://www.dundaraveprintworkshop.com/opencall)

@@ -37,4 +37,4 @@ Victoria BC
 V8R2J9
 
 
-http://ministryofcasualliving.ca
+[http://ministryofcasualliving.ca](http://ministryofcasualliving.ca)

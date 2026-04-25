@@ -28,6 +28,6 @@ collaborative exploration, and learning opportunities make the program
 unique in Canada.
 
 For more information on the application process visit:
-http://www.bcbid.gov.bc.ca/open.dll/showDisplayDocument?sessionID=25030183&disID=19562390&docType=Tender&dis_version_nos=0&doc_search_by=Tend&docTypeQual=TN
+[http://www.bcbid.gov.bc.ca/open.dll/showDisplayDocument?sessionID=25030183&disID=19562390&docType=Tender&dis_version_nos=0&doc_search_by=Tend&docTypeQual=TN](http://www.bcbid.gov.bc.ca/open.dll/showDisplayDocument?sessionID=25030183&disID=19562390&docType=Tender&dis_version_nos=0&doc_search_by=Tend&docTypeQual=TN)
 
 --

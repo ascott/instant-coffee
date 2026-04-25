@@ -17,4 +17,4 @@ Pyramid Power requires critical writing and interviews. If you've got something 
 Deadline = March 21st.
 
 for more on the magazine go to:
-http://www.pyramidpower.ca
+[http://www.pyramidpower.ca](http://www.pyramidpower.ca)

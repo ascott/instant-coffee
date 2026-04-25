@@ -19,16 +19,16 @@ sessions, baked goods, textiles and more!
 Vendor List (check out their stuff on Instagram!)
 Hina Yunus (Yupo paper cards, acrylic painting)
 @art_by_hina_yunus
-https://art-by-hina-yunus.square.site/
+[https://art-by-hina-yunus.square.site/](https://art-by-hina-yunus.square.site/)
 Slime Studio (Ceramics, prints, stickers)
 @slime____studio
-https://slime-studio.square.site/
+[https://slime-studio.square.site/](https://slime-studio.square.site/)
 Goopy Makes (Handmade pouches)
 @goopymakes
 Christa Yang (Handmade embroidery)
 @tenderpup
 Anna Ugolkova (Jewelry)
-https://ugalkava.com/
+[https://ugalkava.com/](https://ugalkava.com/)
 @ugalkava
 Cklooart (Adult/kid painting/art jamming session)
 @cklooart_artjamming
@@ -38,7 +38,7 @@ Riesgo de Incendio (Prints)
 Alyanna Muyot Boquiren (Tattoo artist)
 @linesby_shadowwing
 DanevaD (Baked goods, table linens and photographic prints)
-https://danevad.com/
+[https://danevad.com/](https://danevad.com/)
 @daneva_d
 Isabelle & Tiffany & Crystal
 (Holiday cards, miniature, stickers and sun catchers)

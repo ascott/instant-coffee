@@ -11,7 +11,7 @@ summary: "Capulet Art Gallery | NFT Art & Music Fundraiser | 6PM | APR 8"
 NFT Art & Music Fundraiser
 
 Capulet Art Gallery
-https://capuletart.com
+[https://capuletart.com](https://capuletart.com)
 
 150-2288 No.5 Rd Richmond, BC V6X 2T1
 
@@ -19,7 +19,7 @@ Twitch and VR Livestream: Lunifty, the moons first virtual gallery
 
 Blue Rhapsody live rock, pop, jazz, and original music
 
-http://www.reverbnation.com/open_graph/song/33155533
+[http://www.reverbnation.com/open_graph/song/33155533](http://www.reverbnation.com/open_graph/song/33155533)
 
 $5 Raffle Tickets: 100% matching donations up to $350 to support The Red Cross
 humanitarian aid in Ukraine
@@ -41,4 +41,4 @@ restaurants and offices. The lucky cat or money cat is mainly used as a wealth a
 prosperity cure, as well as to attract good luck. Buy one or more for good fortune In
 the Year of the Cat! '
 
-Learn more at https://theartparty.org/events/
+Learn more at [https://theartparty.org/events/](https://theartparty.org/events/)

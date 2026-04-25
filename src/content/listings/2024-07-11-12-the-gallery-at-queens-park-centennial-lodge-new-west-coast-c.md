@@ -8,7 +8,7 @@ venue: "The Gallery at Queens Park (Centennial Lodge), New"
 summary: "The Gallery at Queens Park (Centennial Lodge), New | West Coast Creatives Salon | JUL 14"
 ---
 
-RSVP Here: https://westcoastcreativessalon.com/salons/
+RSVP Here: [https://westcoastcreativessalon.com/salons/](https://westcoastcreativessalon.com/salons/)
 
 Join contemporary composer Brandon Chow as he presents a recording of his
 recent work, Aura soave, which was performed at the Academie Domaine Forget
@@ -53,4 +53,4 @@ Time: 1-3pm PT
 Location: The Gallery at Queens Park (Centennial Lodge), New Westminster
 RSVP in link above
 
-http:// https://westcoastcreativessalon.com/salons/
+http:// [https://westcoastcreativessalon.com/salons/](https://westcoastcreativessalon.com/salons/)

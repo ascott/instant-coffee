@@ -40,7 +40,7 @@ and is the Director of the International Centre for Arts in Peacebuilding.
 Her latest co-edited book The Choreography of Resolution - Conflict,
 Movement and Neuroscience has just been released.
 
-http://www.sfu.ca/sfuwoodwards/events/events1/2014-2015-fall/performing-home--enacting-a-new-choreography-of-belonging---a-le.html
+[http://www.sfu.ca/sfuwoodwards/events/events1/2014-2015-fall/performing-home--enacting-a-new-choreography-of-belonging---a-le.html](http://www.sfu.ca/sfuwoodwards/events/events1/2014-2015-fall/performing-home--enacting-a-new-choreography-of-belonging---a-le.html)
 
 ......
 200+ public events per year, 35+ cultural & community partnerships.
@@ -81,4 +81,4 @@ gathering, learning, and making. He holds an MFA from the University of
 Windsor and he is currently an Assistant Professor in the Faculty of
 Culture + Community at Emily Carr University of Art and Design.
 
-http://www.sfu.ca/sfuwoodwards/events/events1/2014-2015-fall/justin-a--langlois---uselessness---antagonism--suggestions-for-a.html
+[http://www.sfu.ca/sfuwoodwards/events/events1/2014-2015-fall/justin-a--langlois---uselessness---antagonism--suggestions-for-a.html](http://www.sfu.ca/sfuwoodwards/events/events1/2014-2015-fall/justin-a--langlois---uselessness---antagonism--suggestions-for-a.html)

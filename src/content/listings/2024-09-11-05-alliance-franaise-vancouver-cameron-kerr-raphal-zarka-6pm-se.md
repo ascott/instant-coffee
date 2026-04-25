@@ -34,4 +34,4 @@ curated by Patrik Andersson, Associate Professor in Critical +
 Cultural Studies at Emily Carr University.
 
 More Info:
-http://https://www.alliancefrancaise.ca/
+[http://https://www.alliancefrancaise.ca/](http://https://www.alliancefrancaise.ca/)

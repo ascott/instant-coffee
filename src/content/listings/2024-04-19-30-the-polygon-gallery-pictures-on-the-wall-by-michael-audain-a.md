@@ -18,7 +18,7 @@ Doors at 6pm
 Talk at 6:30pm
 Book signing at 7:15pm
 Complimentary admission with RSVP
-RSVP here: https://thepolygon.ca/event/book-launch-pictures-on-the-wall-by-
+RSVP here: [https://thepolygon.ca/event/book-launch-pictures-on-the-wall-by-](https://thepolygon.ca/event/book-launch-pictures-on-the-wall-by-)
 michael-audain/
 
 About Pictures on Wall: Building a Canadian Art Collection
@@ -61,7 +61,7 @@ Doors at 6:00pm
 Talk at 6:30pm
 Reception from 7:00 - 7:30pm
 RSVPs are helpful
-RSVP here: https://thepolygon.ca/event/lucie-camous-meet-and-greet/
+RSVP here: [https://thepolygon.ca/event/lucie-camous-meet-and-greet/](https://thepolygon.ca/event/lucie-camous-meet-and-greet/)
 
 About Lucie Camous
 In Camous artistic and curatorial practice, they adopt a political perspective and

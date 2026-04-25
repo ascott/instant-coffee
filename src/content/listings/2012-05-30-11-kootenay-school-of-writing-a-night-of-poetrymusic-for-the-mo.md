@@ -53,7 +53,7 @@ to find out more on how to make donations and lend your support.
 
 Join us for a celebration of resistance and solidarity!
 
-http://www.kswnet.org/ 
+[http://www.kswnet.org/](http://www.kswnet.org/) 
 *
 
 La Classe's full Call for Support:

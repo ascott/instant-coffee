@@ -36,6 +36,6 @@ prizes.
 
 For more information, visit us or email at:
 
-http://indigitaltech.ca
+[http://indigitaltech.ca](http://indigitaltech.ca)
 indigenous@creativetechnology.org 
 604-689-9896

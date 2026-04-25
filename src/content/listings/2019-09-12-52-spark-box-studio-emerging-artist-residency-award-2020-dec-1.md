@@ -38,4 +38,4 @@ Please be advised that the award is for 7 consecutive days.
 
 Emerging Artist Award is valued at $480.00 per person.
 
-For more details and to apply visit: http://sparkboxstudio.com/residencyaward/
+For more details and to apply visit: [http://sparkboxstudio.com/residencyaward/](http://sparkboxstudio.com/residencyaward/)

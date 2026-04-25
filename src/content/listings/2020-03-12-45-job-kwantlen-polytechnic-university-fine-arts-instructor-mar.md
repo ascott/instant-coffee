@@ -25,7 +25,7 @@ contemporary art within a diverse and supportive liberal arts environment. This 
 program focuses on the integration of studio work with theory and research. Our
 graduates are prepared with the necessary skills to pursue advanced Fine Arts studies,
 enter related fields, or pursue a contemporary professional practice. For more about our
-department and programs, please visit our website at: https://www.kpu.ca/arts/fine-arts
+department and programs, please visit our website at: [https://www.kpu.ca/arts/fine-arts](https://www.kpu.ca/arts/fine-arts)
 
 We are seeking individuals who meet the following qualifications:
 
@@ -45,7 +45,7 @@ asset. Courses may be scheduled in three terms during the contract year, at the 
 campus.
 
 Those applicants interested in applying can find further information on our department
-and courses at: https://www.kpu.ca/arts/fine-arts.
+and courses at: [https://www.kpu.ca/arts/fine-arts](https://www.kpu.ca/arts/fine-arts).
 
 The successful candidate will have an MFA with a concentration in Print Media, a
 current exhibition record and experience in post-secondary teaching. Applicants will

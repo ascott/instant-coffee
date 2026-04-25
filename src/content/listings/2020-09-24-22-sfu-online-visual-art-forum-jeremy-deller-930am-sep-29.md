@@ -11,7 +11,7 @@ summary: "SFU [ONLINE] | VISUAL ART FORUM: Jeremy Deller | 930AM | SEP 29"
 VISUAL ART FORUM: Jeremy Deller
 Tuesday, September 29, 2020 | 9:30 AM | Zoom
 
-RSVP HERE: http://www.sfu.ca/sca/events---news/events/visual-art-forum--jeremy-
+RSVP HERE: [http://www.sfu.ca/sca/events---news/events/visual-art-forum--jeremy-](http://www.sfu.ca/sca/events---news/events/visual-art-forum--jeremy-)
 deller.html
 
 Please join us for a FREE talk by Jeremy Deller, presented as part of the Fall 2020 Visual
@@ -48,7 +48,7 @@ Charles Gaines
 Samson Young
 Tanya Lukin Linklater
 
-More information here: http://www.sfu.ca/sca/projects---activities/audain-visual-artist-in-
+More information here: [http://www.sfu.ca/sca/projects---activities/audain-visual-artist-in-](http://www.sfu.ca/sca/projects---activities/audain-visual-artist-in-)
 residence/VISUAL-ART-FORUM.html
 
 The Audain Visual Artist in Residence program brings artists and practitioners to

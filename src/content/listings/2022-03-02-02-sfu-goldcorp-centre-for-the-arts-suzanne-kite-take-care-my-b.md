@@ -12,7 +12,7 @@ Suzanne Kite: Take Care, My Boy
 Wednesday, March 2, 2022 | 6:00 PM | Fei & Milton Wong Experimental Theatre
 
 RSVP
-RSVP HERE: https://www.sfu.ca/sca/events---news/events/suzanne-kite--take-care--
+RSVP HERE: [https://www.sfu.ca/sca/events---news/events/suzanne-kite--take-care--](https://www.sfu.ca/sca/events---news/events/suzanne-kite--take-care--)
 my-boy.html
 
 Please join us for a free performance by Oglla Lakta performance artist, visual

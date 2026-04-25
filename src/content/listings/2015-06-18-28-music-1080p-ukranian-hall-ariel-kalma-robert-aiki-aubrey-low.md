@@ -10,11 +10,11 @@ summary: "MUSIC | 1080p @ Ukranian Hall | Ariel Kalma + Robert Aiki Aubrey Lowe 
 
 Live ambient music at sunset in Strathcona: 9pm - 11pm
 
-TICKETS: http://bit.ly/1GtXeJw
-FACEBOOK EVENT: http://on.fb.me/1TfCElq
+TICKETS: [http://bit.ly/1GtXeJw](http://bit.ly/1GtXeJw)
+FACEBOOK EVENT: [http://on.fb.me/1TfCElq](http://on.fb.me/1TfCElq)
 
 Ariel Kalma & Robert Aiki Aubrey Lowe
-LISTEN: http://bit.ly/1FSMiAp
+LISTEN: [http://bit.ly/1FSMiAp](http://bit.ly/1FSMiAp)
 Four decades since Ariel Kalma’s debut album, the French-born musician has
 circulated corners of culture now legend with his entrancing naturalism,
 linking recently with fellow electronic synth voyagers Robert Aiki Aubrey
@@ -24,7 +24,7 @@ Each Other Somehow, the twelfth volume of NYC-based label RVNG Intl.'s
 FRKWYS series celebrating intergenerational collaboration.
 
 Sarah Davachi
-LISTEN: http://bit.ly/1MpttJZ Vancouver electroacoustic producer Sarah
+LISTEN: [http://bit.ly/1MpttJZ](http://bit.ly/1MpttJZ) Vancouver electroacoustic producer Sarah
 Davachi explores a lush, euphoric and psychoactive topography of spectrally
 immersive textures and aural environments with her unique set up of analog
 and modular electronics. Davachi's releases on Important Records, Students
@@ -34,4 +34,4 @@ meditations.
 Saturday August 1
 $21
 The Ukrainian Hall - 805 East Pender St
-http://www.auucvancouver.ca/
+[http://www.auucvancouver.ca/](http://www.auucvancouver.ca/)

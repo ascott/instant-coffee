@@ -46,7 +46,7 @@ honorariums are provided.
 See application guidelines for Full Details
 
 Apply Here:
-https://docs.google.com/forms/d/1OWnBW9P7CCQXdLmdK07bpDypC4_CdXLclq-
+[https://docs.google.com/forms/d/1OWnBW9P7CCQXdLmdK07bpDypC4_CdXLclq-](https://docs.google.com/forms/d/1OWnBW9P7CCQXdLmdK07bpDypC4_CdXLclq-)
 puGgZQS4/viewform?edit_requested=true&pli=1
 
 Contact:

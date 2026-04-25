@@ -20,4 +20,4 @@ Tuesday, July 3
 Vancity Theatre, 1181 Seymour Street, Vancouver, B.C. V6B 3M7
 $13 each movie or $20 for double bill.
 Adults 19+ only
-http://www.carnavaldelsol.ca/latinfilmnight
+[http://www.carnavaldelsol.ca/latinfilmnight](http://www.carnavaldelsol.ca/latinfilmnight)

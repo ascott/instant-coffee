@@ -54,4 +54,4 @@ V6B 2J1
 access@vaarc.ca
 
 
-http://www.vaarc.ca
+[http://www.vaarc.ca](http://www.vaarc.ca)

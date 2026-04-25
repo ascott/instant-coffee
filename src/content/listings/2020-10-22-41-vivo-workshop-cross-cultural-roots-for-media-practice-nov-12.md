@@ -12,7 +12,7 @@ Workshop: Cross-Cultural Roots for Media Practice: Persianate & Islamicate
 Genologies
 
 More info and sign up at:
-https://crosscultural-with-farshid.eventbrite.ca/
+[https://crosscultural-with-farshid.eventbrite.ca/](https://crosscultural-with-farshid.eventbrite.ca/)
 
 Inspire your media art practice with non-Western history, art, science, and philosophy
 with media theorist Farshid Kazemi.

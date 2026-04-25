@@ -24,5 +24,5 @@ printmaking experience is required.
 
 Visit our website or call 604-297-4422 to register or learn more!
 
-https://anc.ca.apm.activecommunities.com/burnaby/activity/search/detail/3459?
+[https://anc.ca.apm.activecommunities.com/burnaby/activity/search/detail/3459](https://anc.ca.apm.activecommunities.com/burnaby/activity/search/detail/3459)?
 onlineSiteId=0&from_original_cui=true

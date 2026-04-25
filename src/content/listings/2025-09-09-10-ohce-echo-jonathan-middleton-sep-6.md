@@ -34,7 +34,7 @@ All welcome at the closing celebration on Saturday, September 27, evening.
 
 -_-
 
-Please see http://bedroomkitchen.garden/ohce-echo or write
+Please see [http://bedroomkitchen.garden/ohce-echo](http://bedroomkitchen.garden/ohce-echo) or write
 itsjoycewielandthanks@gmail.com for more information or to make an appointment
 outside of Saturday hours.
 

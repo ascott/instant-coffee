@@ -11,7 +11,7 @@ summary: "VIVO Media Arts Centre | Plug In: synthesizer showcase for youth | OCT
 VIVO
 2625 Kaslo St, Vancouver, BC
 
-SIGN UP & MORE INFO: https://plug-in-showcase.eventbrite.ca
+SIGN UP & MORE INFO: [https://plug-in-showcase.eventbrite.ca](https://plug-in-showcase.eventbrite.ca)
 
 Plug In: synthesizer showcase for youth (7 yrs - 14 yrs)
 

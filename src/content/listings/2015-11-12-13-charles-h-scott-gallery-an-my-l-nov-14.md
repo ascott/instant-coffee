@@ -8,7 +8,7 @@ venue: "Charles H. Scott Gallery"
 summary: "Charles H. Scott Gallery | An-My Lê | NOV 14"
 ---
 
-https://www.facebook.com/events/1634547750127280/
+[https://www.facebook.com/events/1634547750127280/](https://www.facebook.com/events/1634547750127280/)
 
 An-My Lê
 November 14, 2015 to January 10, 2016

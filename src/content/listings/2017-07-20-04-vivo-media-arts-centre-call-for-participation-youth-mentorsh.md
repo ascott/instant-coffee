@@ -12,7 +12,7 @@ Reorganized Organ youth mentorship project
 
 Call for participation | Deadline: July 20, 2017
 
-APPLY HERE: http://www.vivomediaarts.com/education/reorganized-organ-application
+APPLY HERE: [http://www.vivomediaarts.com/education/reorganized-organ-application](http://www.vivomediaarts.com/education/reorganized-organ-application)
 
 Are you an artist, musician, hacker, tinkerer, or generally a curious person, between 18 
 and 24 years? Want to get involved with Vancouvers media art community to 

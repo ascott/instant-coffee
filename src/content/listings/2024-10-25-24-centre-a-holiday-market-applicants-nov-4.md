@@ -15,7 +15,7 @@ auction.
 
 The deadline
 for both submission forms is November 4, 2024 at 11:59 PM. Learn more
-via this link: https://centrea.org/opportunities/
+via this link: [https://centrea.org/opportunities/](https://centrea.org/opportunities/)
 
 Opening: November 30, 4 - 7 PM
 Exhibition/Sale Period: November 30 - December 14

@@ -64,10 +64,10 @@ Please see below for the links to view Pine Street, Now and Again, and follow th
 recommended Viewing Instructions to experience the work at home. This work is
 closed-captioned in English and Traditional Chinese.
 
-View Channel 1 https://vimeo.com/400707405/2601200946.
+View Channel 1 [https://vimeo.com/400707405/2601200946](https://vimeo.com/400707405/2601200946).
 
-View Channel 2 https://vimeo.com/400717901/47c50c760f.
+View Channel 2 [https://vimeo.com/400717901/47c50c760f](https://vimeo.com/400717901/47c50c760f).
 
-Download the Viewing Instructions https://centrea.org/wp-
+Download the Viewing Instructions [https://centrea.org/wp-](https://centrea.org/wp-)
 content/uploads/2020/04/Centre-A_Pine-Street_Images-Festival-2020_Viewing-
 Instructions.pdf.

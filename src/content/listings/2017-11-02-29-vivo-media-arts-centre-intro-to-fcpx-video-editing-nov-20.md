@@ -13,7 +13,7 @@ presented by VIVO Media Arts Centre & Media Democracy Day 2017
 
 Kick-start your video editing skills with award-winning media artist Flick Harrison!
 
-Sign up and more info here: https://fcpx-with-flick.eventbrite.ca
+Sign up and more info here: [https://fcpx-with-flick.eventbrite.ca](https://fcpx-with-flick.eventbrite.ca)
 
 1 session, 3 hours total
 Monday, Nov 20, 6pm-9pm

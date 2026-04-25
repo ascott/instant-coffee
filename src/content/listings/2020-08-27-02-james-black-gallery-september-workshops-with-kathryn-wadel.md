@@ -14,7 +14,7 @@ Sunday, September 13th, 2020
 The dirty pour painting technique brings a whole new " and oddly satisfying " meaning
 to the phrase watching paint dry".
 Registration required.
-Eventbrite link: https://www.eventbrite.com/e/dirty-pour-acrylic-painting-tickets-
+Eventbrite link: [https://www.eventbrite.com/e/dirty-pour-acrylic-painting-tickets-](https://www.eventbrite.com/e/dirty-pour-acrylic-painting-tickets-)
 117875044431
 
 =============================================================
@@ -24,7 +24,7 @@ Saturday, September 19th, 2020
 3pm-6pm
 Turn your favourite photos into original paintings!
 Registration required.
-Eventbrite link: https://www.eventbrite.com/e/guided-painting-tickets-118387892373
+Eventbrite link: [https://www.eventbrite.com/e/guided-painting-tickets-118387892373](https://www.eventbrite.com/e/guided-painting-tickets-118387892373)
 
 =============================================================
 
@@ -33,4 +33,4 @@ Sunday, September 20th, 2020
 1pm-3pm
 Turn your favourite photos into original paintings!
 Registration required.
-Eventbrite link: https://www.eventbrite.com/e/guided-painting-tickets-118390223345
+Eventbrite link: [https://www.eventbrite.com/e/guided-painting-tickets-118390223345](https://www.eventbrite.com/e/guided-painting-tickets-118390223345)

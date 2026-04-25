@@ -22,7 +22,7 @@ workshop is for BEGINNER crocheters. All workshop materials will be available fo
 pickup at the gallery on Saturdays from October 24th - November 7th from noon - 5pm.
 
 To register, please visit:
-https://zoom.us/meeting/register/tJApduyoqT4qG9OygzrB2pLP5WrP_36whOPM
+[https://zoom.us/meeting/register/tJApduyoqT4qG9OygzrB2pLP5WrP_36whOPM](https://zoom.us/meeting/register/tJApduyoqT4qG9OygzrB2pLP5WrP_36whOPM)
 
 Edmonton's - Harbin Gate was dismantled for LRT construction on November 4,
 2017. In response, aiya"', an intergenerational group of Edmonton-based artists and

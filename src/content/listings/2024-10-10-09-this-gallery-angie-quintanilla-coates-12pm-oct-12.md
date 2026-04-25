@@ -50,5 +50,5 @@ Time: 6:00 pm " 7:00 pm
 Place: THIS Gallery
 
 Latin Expressions Festival Eventbrite tickets:
-https://www.eventbrite.ca/e/sing-dont-cry-exhibition-visit-with-angie-quintanilla-and-
+[https://www.eventbrite.ca/e/sing-dont-cry-exhibition-visit-with-angie-quintanilla-and-](https://www.eventbrite.ca/e/sing-dont-cry-exhibition-visit-with-angie-quintanilla-and-)
 miret-rodriguez-tickets-1007953765847

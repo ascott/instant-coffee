@@ -17,7 +17,7 @@ artist and pop culture figure."
 
 Part of Kibatsu Cinema, a partnership between Powell Street Festival Society and Pacific 
 Cinematheque.
-for details: http://www.cinematheque.bc.ca/kibatsu-cinema-eccentricity-popular-culture-and-
+for details: [http://www.cinematheque.bc.ca/kibatsu-cinema-eccentricity-popular-culture-and-](http://www.cinematheque.bc.ca/kibatsu-cinema-eccentricity-popular-culture-and-)
 contemporary-japanese-film
 
 Centre A

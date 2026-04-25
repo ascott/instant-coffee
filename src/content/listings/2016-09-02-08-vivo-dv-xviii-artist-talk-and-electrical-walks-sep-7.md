@@ -40,7 +40,7 @@ Walk 3: 7pm
 Free Admission. RSVP necessary.
 Please note that we only register one ticket per person. Group 
 bookings are not allowed and individuals can attend one soundwalk 
-only. (https://www.eventbrite.ca/e/electrical-walks-w-christina-
+only. ([https://www.eventbrite.ca/e/electrical-walks-w-christina-](https://www.eventbrite.ca/e/electrical-walks-w-christina-)
 kubisch-tickets-27086866547)
 
 *Electrical Walks (2003-ongoing)
@@ -57,7 +57,7 @@ Electrical Walks is a work in progress. It is a public walk with
 special, sensitive wireless headphones through which the acoustic 
 qualities of the aboveground and underground electromagnetic 
 fields become amplified and audible. 
-(http://www.christinakubisch.de/en/works/electrical_walks)
+([http://www.christinakubisch.de/en/works/electrical_walks](http://www.christinakubisch.de/en/works/electrical_walks))
 
 CHRISTINA KUBISCH was born in Bremen, Germany and studied 
 painting, music and electronics in Hamburg, Graz, Zrich and 

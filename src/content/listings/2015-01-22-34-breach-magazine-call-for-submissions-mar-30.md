@@ -52,7 +52,7 @@ weeks of the deadline.
 Direct your submissions, queries, and questions to INFO@BREACHMAGAZINE.CA
 by March 30 2015.
 
-See http://www.breachmagazine.ca for more information.
+See [http://www.breachmagazine.ca](http://www.breachmagazine.ca) for more information.
 
 35. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.
@@ -61,7 +61,7 @@ Beautiful shared studio space available Feb 1st @ 236 E Pender (UNIT/PITT)
 I like to keep the space open and flexible, but I'm open to artists in any
 medium.
 $125 for 75sqft, $250 for 150sqft.
-http://www.helenpittgallery.org/about/studio-spaces/
+[http://www.helenpittgallery.org/about/studio-spaces/](http://www.helenpittgallery.org/about/studio-spaces/)
 Contact: edspenceart@gmail.com
 My work: edspence.tumblr.com
 __

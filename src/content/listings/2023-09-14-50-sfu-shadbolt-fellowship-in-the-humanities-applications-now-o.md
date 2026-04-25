@@ -29,5 +29,5 @@ Learn more & apply: www.sfu.ca/fass/shadbolt
 Interested? Join the online Q&A info session on Sept 13 (Wed) to learn more about
 the application process and hear firsthand from a former Shadbolt Fellow about their
 experience. Register at
-https://www.eventbrite.ca/e/jack-and-doris-shadbolt-fellowship-in-the-humanities-qa-
+[https://www.eventbrite.ca/e/jack-and-doris-shadbolt-fellowship-in-the-humanities-qa-](https://www.eventbrite.ca/e/jack-and-doris-shadbolt-fellowship-in-the-humanities-qa-)
 info-session-tickets-705614892137

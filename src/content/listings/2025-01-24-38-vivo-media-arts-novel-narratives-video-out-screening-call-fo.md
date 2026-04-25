@@ -38,7 +38,7 @@ committed to
 compensating artists with a screening fee based on the IMAA
 (Independent Media Arts Alliance) suggested fee schedule.
 
-Submission Form: https://forms.gle/b2ibS9PJucYC3VsS8
+Submission Form: [https://forms.gle/b2ibS9PJucYC3VsS8](https://forms.gle/b2ibS9PJucYC3VsS8)
 
 
 39. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
@@ -49,11 +49,11 @@ libraries and the experience of sharing space with friends at school. Writers, e
 graphic and interaction designers, industrial designers, architects and engineers, arts
 administrators, students and researchers: we welcome you to join us!
 
-Book a tour with our Membership & Events Coordinator via https://221a.ca/housing-
+Book a tour with our Membership & Events Coordinator via [https://221a.ca/housing-](https://221a.ca/housing-)
 studios-and-work-spaces/coworking/, or feel free to email us at coworking@221a.ca.
 
 Keep artists in the city. Donate to 221A.
-https://221a.ca/donate/
+[https://221a.ca/donate/](https://221a.ca/donate/)
 
 2.
 MAIN STREET | 2 STUDIOS AVAILABLE

@@ -34,7 +34,7 @@ will form pavilions for international projects. At our symposia smoke may
 get in your eyes. We don't have a PA system, but we may be able to offer
 you a marshmallow. Enjoy.
 
-See http://www.chilliwackbiennial.org for updated information.
+See [http://www.chilliwackbiennial.org](http://www.chilliwackbiennial.org) for updated information.
 
 Park: Cultus Lake Provincial Park
 Campground: Delta Grove

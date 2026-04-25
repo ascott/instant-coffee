@@ -19,7 +19,7 @@ Subject line: QET Gallery Proposal " Your Name
 Please zip all documents in one folder
 
 For Proposal Info:
-https://vancouvercivictheatres.com/about-us/visual-arts/
+[https://vancouvercivictheatres.com/about-us/visual-arts/](https://vancouvercivictheatres.com/about-us/visual-arts/)
 
 Timeline:
 

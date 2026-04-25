@@ -21,7 +21,7 @@ Members Only Reception 7.30-8.30PM
 JOIN US for a MEMBERS ONLY RECEPTION at VIDEO BAR November 22nd. 
 VIVO members are invited to join us (7:30-8:30PM) for great food, complimentary beverage, and event preview with the artist.
 Not a member? Just join us before the 22nd or at the door. Supporting memberships ($15) available online -
-http://vivomediaarts.com/getinvolved/membership
+[http://vivomediaarts.com/getinvolved/membership](http://vivomediaarts.com/getinvolved/membership)
 ---
 
 The Woōds is a handmade stop-motion installation explored by the viewer via mobile devices and Kinect, in 'choose your own adventure'
@@ -34,12 +34,12 @@ University (2013). Focusing on moving-image, installation and interactivity to e
 in interpreting physical and internal worlds, she has exhibited her work in solo shows, festivals and screenings across Canada and
 internationally, and participated in residencies including White Rabbit Arts, the Banff Centre, and WEYA in England. She is an active
 arts organizer and member of the board for Montreal-based Studio XX and Art Contraste, and Vancouver's Access Gallery. She is represented
-by Joyce Yahouda Gallery in Montreal. http://www.anniebriard.com/
+by Joyce Yahouda Gallery in Montreal. [http://www.anniebriard.com/](http://www.anniebriard.com/)
 
 ORCANA is a Vancouver based project by Zelda Yake and K.L. Rattray. These artists have been collaborating since 2011, regularly
 experimenting and creating improvised noise and soundscapes. Orcana's work comes from the creative exploration of electroacoustic sampling
 and the rudimentary manipulation of electric and acoustic instruments, centered around the aging and limited technology of the Casio SK-1.
-http://orcana.bandcamp.com/
+[http://orcana.bandcamp.com/](http://orcana.bandcamp.com/)
 
 --
 Elisa Ferrari

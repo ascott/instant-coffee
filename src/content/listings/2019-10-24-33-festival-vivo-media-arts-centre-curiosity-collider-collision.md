@@ -40,5 +40,5 @@ Katrina Wong.
 Curated by Char Hoyt, Creative Director of Curiosity Collider
 
 Get your tickets here
-https://www.eventbrite.ca/e/collisions-festival-invasive-systems-art-science-festival-tickets-
+[https://www.eventbrite.ca/e/collisions-festival-invasive-systems-art-science-festival-tickets-](https://www.eventbrite.ca/e/collisions-festival-invasive-systems-art-science-festival-tickets-)
 64220207369?aff=ebapi

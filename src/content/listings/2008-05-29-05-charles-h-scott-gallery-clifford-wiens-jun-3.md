@@ -33,4 +33,4 @@ Gallery Hours are Weekdays: 12 - 5 pm and Weekends: 10 am - 5 pm
 Admission is free
 
 Charles H. Scott Gallery, Emily Carr Institute, 1399 Johnston Street, Vancouver, BC,
-phone 604.844.3809, http://chscottgallery.eciad.ca
+phone 604.844.3809, [http://chscottgallery.eciad.ca](http://chscottgallery.eciad.ca)

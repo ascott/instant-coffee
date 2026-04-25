@@ -49,6 +49,6 @@ to be more mindful, empathetic, loving and playful in their daily lives.
 There will be an opening reception on Saturday, August 17 from noon to 4pm. The
 artist will be in attendance.
 
-THIS Website: https://thisgallery.org/
+THIS Website: [https://thisgallery.org/](https://thisgallery.org/)
 
-Artist website: http://www.shannonpawliw.com/
+Artist website: [http://www.shannonpawliw.com/](http://www.shannonpawliw.com/)

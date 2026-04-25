@@ -19,9 +19,9 @@ Regular exhibition dates
 
 August 19 to October 6 2018
 
-Facebook event: https://www.facebook.com/events/2181993608712244/?ref=br_rs
+Facebook event: [https://www.facebook.com/events/2181993608712244/?ref=br_rs](https://www.facebook.com/events/2181993608712244/?ref=br_rs)
 
-http://spare-room.ca/
+[http://spare-room.ca/](http://spare-room.ca/)
 
 Spare Room presents Is Evaporation Emotion? A solo exhibition by Tegan Moore - Moore will 
 present an alternative climatic chamber that looks to reinterpret the the comfort index based on 

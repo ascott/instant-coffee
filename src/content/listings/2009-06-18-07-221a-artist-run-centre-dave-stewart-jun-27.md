@@ -41,12 +41,12 @@ With the kind of rhythmic timing that Angus Young would have
 applauded, Hackett looked at me and said, YOU'VE BEEN....THUNDERSTRUCK.
 
 more information:
-http://221a.ca/?p=621
-http://dave-stewart.ca/
+[http://221a.ca/?p=621](http://221a.ca/?p=621)
+[http://dave-stewart.ca/](http://dave-stewart.ca/)
 
 221A Artist Run Centre
 221E. GEORGIA ST. UNIT 100 (AT MAIN)
 VANCOUVER, BC. CANADA V6A 1Z6
 T: 604 568 0812
 E: hello@221a.ca
-W: http://221a.ca
+W: [http://221a.ca](http://221a.ca)

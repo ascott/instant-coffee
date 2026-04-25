@@ -25,4 +25,4 @@ Culture (ARC) in partnership with the Roundhouse Society, hosted on the unceded,
 ancestral territories of the xmky"m (Musqueam), Swxw7mesh (Squamish)
 and slilwta (Tsleil-Waututh) Nations.
 
-https://www.eventbrite.ca/e/artists-and-culture-info-session-tickets-1005587628667
+[https://www.eventbrite.ca/e/artists-and-culture-info-session-tickets-1005587628667](https://www.eventbrite.ca/e/artists-and-culture-info-session-tickets-1005587628667)

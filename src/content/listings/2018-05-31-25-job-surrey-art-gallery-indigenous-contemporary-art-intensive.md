@@ -64,7 +64,7 @@ eligibility requirements, including: are legally entitled to work in
 Canada; will be between 16 and 30 years of age at the start of employment;
 and have been a full-time college, CEGEP, or university student (as defined
 by their educational institution) in the semester preceding the YCW work
-assignment. To find out more, visit: http://canada.pch.gc.ca/eng/1459433313024.
+assignment. To find out more, visit: [http://canada.pch.gc.ca/eng/1459433313024](http://canada.pch.gc.ca/eng/1459433313024).
 
 Surrey Art Gallery is an equal opportunity employer and encourages
 applications from all qualified candidates, and especially individuals who
@@ -131,7 +131,7 @@ student (as defined by their educational institution) in the semester
 preceding the YCW work assignment; and
 - intend to return to full-time studies in the semester following the
 YCW work assignment.
-To find out more, visit: http://canada.pch.gc.ca/eng/1459433313024.
+To find out more, visit: [http://canada.pch.gc.ca/eng/1459433313024](http://canada.pch.gc.ca/eng/1459433313024).
 
 Surrey Art Gallery is an equal opportunity employer and encourages
 applications from all qualified candidates, and especially individuals who

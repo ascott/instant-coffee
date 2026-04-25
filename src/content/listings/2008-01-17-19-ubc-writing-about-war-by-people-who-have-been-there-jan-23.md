@@ -19,7 +19,7 @@ the challenges involved in writing about them. All three are
 contributors to an anthology entitled Outside the Wire: The War in
 Afghanistan in the Words of its Participants, just released by Random
 House, with a foreword by Romeo Dallaire.  Visit
-http://outsidethewire.ca/ for more information about the book.
+[http://outsidethewire.ca/](http://outsidethewire.ca/) for more information about the book.
 
 Issues: Where does reportage end and propaganda begin? How much
 cooperation with the military is too much cooperation? Is it still
@@ -33,7 +33,7 @@ Afghanistan? Is there only one true story?
 Time & Place: Wednesday, January 23/08, 12:30PM - 2:00PM, in the Main
 Lecture Room of the UBC School of Journalism, Sing Tao Building, 6388
 Crescent Road, next to the Freddy Wood Theatre.  For a map, please
-visit http://www.maps.ubc.ca/PROD/index_detail.php?show=y,n,n,n,n,y&bldg2Search=n&locat1=212&locat2=
+visit [http://www.maps.ubc.ca/PROD/index_detail.php?show=y,n,n,n,n,y&bldg2Search=n&locat1=212&locat2=](http://www.maps.ubc.ca/PROD/index_detail.php?show=y,n,n,n,n,y&bldg2Search=n&locat1=212&locat2=)
 
 Bag lunches may be eaten during the event.
 

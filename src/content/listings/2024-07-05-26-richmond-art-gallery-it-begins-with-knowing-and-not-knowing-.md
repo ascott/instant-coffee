@@ -36,5 +36,5 @@ members and Indigenous communities. Ximena Velzquez (La PosmoBaby)
 nurtures ties to her mother country Mexico through the cooking of her great
 grandmothers recipes.
 
-More info: https://www.richmondartgallery.org/it-begins-with-knowing-and-not-
+More info: [https://www.richmondartgallery.org/it-begins-with-knowing-and-not-](https://www.richmondartgallery.org/it-begins-with-knowing-and-not-)
 knowing

@@ -25,7 +25,7 @@ Following a land acknowledgement and welcome from Chief Jim Hornbrook of
 Hwlitsum First Nation, those in attendance will participate in the self-guided walk
 along the dike through this Key Biodiversity Area. Please bring your cell phone, as
 you will be able to access videos and readings along the route at our website,
-https://walkquietly.ca. A booklet will be available for sale in print form, or for free in
+[https://walkquietly.ca](https://walkquietly.ca). A booklet will be available for sale in print form, or for free in
 PDF format.
 
 Along the way, visitors will be able to access recordings of Hulquminum words for

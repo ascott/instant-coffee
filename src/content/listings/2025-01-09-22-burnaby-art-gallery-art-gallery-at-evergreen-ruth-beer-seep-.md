@@ -59,7 +59,7 @@ Ruth Beer, Seep | Swell is co-produced between the Art Gallery at Evergreen and
 the Burnaby Art Gallery,
 curated by Katherine Dennis and Jennifer Cane.
 
-https://www.burnaby.ca/recreation-and-arts/arts-and-culture-facilities/burnaby-art-
+[https://www.burnaby.ca/recreation-and-arts/arts-and-culture-facilities/burnaby-art-](https://www.burnaby.ca/recreation-and-arts/arts-and-culture-facilities/burnaby-art-)
 gallery/exhibitions/ruth-beer-seep-swell
 
 
@@ -86,4 +86,4 @@ All sessions are free, drop-in, no registration required. You may stop in anytim
 during the session and can participate in any or all workshops. Materials will be
 provided, but feel free to bring any extra produce bags you have lying around.
 
-https://www.fleetstudios.org/program/artist-workshops-with-bianca-del-rio-kodato
+[https://www.fleetstudios.org/program/artist-workshops-with-bianca-del-rio-kodato](https://www.fleetstudios.org/program/artist-workshops-with-bianca-del-rio-kodato)

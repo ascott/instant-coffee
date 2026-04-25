@@ -17,7 +17,7 @@ Webster McDonald & Nikloli Attai: Gender Roles and Black Performativity in Jamai
 Dancehall
 
 ZOOM LINK:
-https://sfu.zoom.us/j/62264460726pwd=eE5LUzVrVjgvNXh3MXRWM3Vsb3Z1dz09
+[https://sfu.zoom.us/j/62264460726pwd=eE5LUzVrVjgvNXh3MXRWM3Vsb3Z1dz09](https://sfu.zoom.us/j/62264460726pwd=eE5LUzVrVjgvNXh3MXRWM3Vsb3Z1dz09)
 
 Webster McDonald is a Jamaican theatre practitioner and educator. He received a
 B.F.A. in Theatre Arts from The Edna Manley College of the Visual and Performing Arts

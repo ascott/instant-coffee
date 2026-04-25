@@ -21,7 +21,7 @@ collaboration with SFU Galleries.
 
 Free for Members or with Gallery Admission. Registration is recommended. 
 
-Register here: https://etickets.vanartgallery.bc.ca/Info.aspx?EventID=12
+Register here: [https://etickets.vanartgallery.bc.ca/Info.aspx?EventID=12](https://etickets.vanartgallery.bc.ca/Info.aspx?EventID=12)
 
 The Vancouver Art Gallery presents BuYun Chen on the work of Guo Pei and the 
 globalization of Chinese Fashion
@@ -35,4 +35,4 @@ fashion in modern East Asia at Pennsylvanias Swathmore College.
 
 Tickets: $15 for Non-members, $12 for Members, $10 for Students/Seniors
 
-Purchase tickets here: https://etickets.vanartgallery.bc.ca/Info.aspx?EventID=12
+Purchase tickets here: [https://etickets.vanartgallery.bc.ca/Info.aspx?EventID=12](https://etickets.vanartgallery.bc.ca/Info.aspx?EventID=12)

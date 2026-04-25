@@ -55,5 +55,5 @@ is supported through the BC Arts Council’s Arts-Based Community
 Development Program and by the Hamber Foundation.
 
 For more information on the project: 
-http://www.helenpittgallery.org/exhibitions/current-and-upcoming/collective-
+[http://www.helenpittgallery.org/exhibitions/current-and-upcoming/collective-](http://www.helenpittgallery.org/exhibitions/current-and-upcoming/collective-)
 walksspaces-of-contestation/

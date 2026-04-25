@@ -16,7 +16,7 @@ Time: 10:00 A.M. - 1:00 P.M.
 Location: Zoom
 
 Register: Registration link here:
-https://us06web.zoom.us/meeting/register/tZYlfuiqpjgoGteHn8HlFyO-
+[https://us06web.zoom.us/meeting/register/tZYlfuiqpjgoGteHn8HlFyO-](https://us06web.zoom.us/meeting/register/tZYlfuiqpjgoGteHn8HlFyO-)
 1RerPIHvpTaN#/registration
 
 Do you know a family member with a compelling life story? Have your life
@@ -48,7 +48,7 @@ and senior annual pass holders
 *GST not included
 
 Register: Registration link here:
-https://chinesecanadianmuseum.ticketing.veevartapp.com/tickets/view/list/chinese-
+[https://chinesecanadianmuseum.ticketing.veevartapp.com/tickets/view/list/chinese-](https://chinesecanadianmuseum.ticketing.veevartapp.com/tickets/view/list/chinese-)
 canadian-convos-with-elwin-xie
 
 As The Paper Trail to 1923 Exclusion Act exhibition draws to a close, Elwin Xie,
@@ -80,7 +80,7 @@ and senior annual pass holders
 *GST not included
 
 Register: Registration link here:
-https://chinesecanadianmuseum.ticketing.veevartapp.com/tickets/view/list/chinese-
+[https://chinesecanadianmuseum.ticketing.veevartapp.com/tickets/view/list/chinese-](https://chinesecanadianmuseum.ticketing.veevartapp.com/tickets/view/list/chinese-)
 canadian-convos-with-don-kwan
 
 Explore how Don Kwans art connects historical and contemporary experiences by

@@ -24,4 +24,4 @@ Admission by donation; pay what you can.
 The Toast Collective is located at 684 Kingsway. Entrance is around the back -- keep an 
 eye out for the coloured xmas lights.
 
-event page: https://www.facebook.com/events/1753011091393020/
+event page: [https://www.facebook.com/events/1753011091393020/](https://www.facebook.com/events/1753011091393020/)

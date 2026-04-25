@@ -26,4 +26,4 @@ JADE YUMANG
 September 8-13 | Gallery Hours 2-6pm
 Reception | Thursday, September 10 | 8-11pm
 GNW Studios | 555 Great Northern Way
-http://http://thedeadtwo.blogspot.com/
+[http://http://thedeadtwo.blogspot.com/](http://http://thedeadtwo.blogspot.com/)

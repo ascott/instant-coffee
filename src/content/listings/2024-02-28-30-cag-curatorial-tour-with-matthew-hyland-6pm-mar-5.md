@@ -16,4 +16,4 @@ current exhibitions Diane Severin Nguyen: If I hadnt created my own world, I wou
 have died in someone elses and Maureen Gruben: The land that used to be. No
 advance registration required.
 
-https://cagvancouver.org/event/curatorial-tour-march-5-2024
+[https://cagvancouver.org/event/curatorial-tour-march-5-2024](https://cagvancouver.org/event/curatorial-tour-march-5-2024)

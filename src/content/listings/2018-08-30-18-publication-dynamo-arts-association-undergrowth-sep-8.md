@@ -31,7 +31,7 @@ environments, and relationships within those environments. Nestler holds a
 BFA (painting) and BS (Biology & Society) from Arizona State University and
 a MFA from Emily Carr University.
 
-http://www.megaspora.space
+[http://www.megaspora.space](http://www.megaspora.space)
 
 This event was coordinated by Print Ready Events. Print Ready was started
 in order to promote the work of artists experimenting with self-publishing

@@ -21,4 +21,4 @@ The Celebrate 125 Vancouver Mural Program has been established to celebrate Vanc
 The program is intended to support between five and ten mural projects, large and small, that offer new perspectives on Vancouver and represent a range of Vancouver's diverse cultural communities, artistic practices and neighbourhoods.
 
 More information:
-Visit http://vancouver.ca/commsvcs/cultural/publicart/artistopp.htm to download the Request for Proposals
+Visit [http://vancouver.ca/commsvcs/cultural/publicart/artistopp.htm](http://vancouver.ca/commsvcs/cultural/publicart/artistopp.htm) to download the Request for Proposals

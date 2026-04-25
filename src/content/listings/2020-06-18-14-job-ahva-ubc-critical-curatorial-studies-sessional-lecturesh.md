@@ -32,4 +32,4 @@ course online.
 The current salary is $2,551.02 per credit, based off a nine credit term.
 Therefore, this 6-credit course would be remunerated at $15,306.12.
 
-Full details here: https://ahva.ubc.ca/2020-2021-ccst-sessional-lectureship/
+Full details here: [https://ahva.ubc.ca/2020-2021-ccst-sessional-lectureship/](https://ahva.ubc.ca/2020-2021-ccst-sessional-lectureship/)

@@ -30,4 +30,4 @@ $40 Indigenous People
 
 $20 Youth (17 and under)
 
-https://museumofvancouver.ca/coast-salish-painting
+[https://museumofvancouver.ca/coast-salish-painting](https://museumofvancouver.ca/coast-salish-painting)

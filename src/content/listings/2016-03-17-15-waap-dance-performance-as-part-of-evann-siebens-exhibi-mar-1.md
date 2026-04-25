@@ -117,7 +117,7 @@ Electric Company Theatre, The Dance Centre, The New Forms Festival, The
 Vancouver Art gallery and SFU Woodwards. In 2008, the late Lola Maclaughlin
 nominated James and his wife Natalie for the City of Vancouver's Mayor's
 Arts Award for Dance.
-http://plasticorchidfactory.com/
+[http://plasticorchidfactory.com/](http://plasticorchidfactory.com/)
 
 NATALIE LEFEBVRE GNAM is an award-winning dance artist, educator, mother
 and the artistic producer of Vancouver-based interdisciplinary performance
@@ -129,7 +129,7 @@ produces the work of plastic orchid factory. She also teaches classes and
 workshops across BC, is chair of the Training Society of Vancouver and
 works as an associate with Vancouver-based theatre companies, Fight With a
 Stick and Thtre la Seizime.
-http://plasticorchidfactory.com/
+[http://plasticorchidfactory.com/](http://plasticorchidfactory.com/)
 
 -
 The Indexical Dance-a-Thon! Performance
@@ -154,7 +154,7 @@ the Trap Door and Gallery 295, Vancouver. Evann recently won the
 ID/Identities Istanbul Best Video Prize and presented work at ISEA
 Vancouver 2015. Evann has also been working on MIMMiC: a commission from On
 Main Gallery and Paul Wong Projects, and will be in residence at Unit/Pitt
-Projects for An Exact Vertigo in April. http://evannsiebens.com/
+Projects for An Exact Vertigo in April. [http://evannsiebens.com/](http://evannsiebens.com/)
 
 Lighting Design by James Proudfoot
 

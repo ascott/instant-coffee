@@ -15,7 +15,7 @@ Lavery and a guest host for a discussion on a reading selected by the host. Talk
 be hosted at a park, weather-permitting, RSVP'ing in advance is required. If you have
 any accommodation inquiries or requests let us know at peripheralreview@gmail.com
 
-https://peripheralreview.com/events-programming/
+[https://peripheralreview.com/events-programming/](https://peripheralreview.com/events-programming/)
 ~~~
 On Sunday August 9th from 2 - 4 pm, join Toronto-based writer and curator Dallas Fellini
 and editor Lauren Lavery at Dufferin Grove Park for the second week of the reading

@@ -18,7 +18,7 @@ infrastructure.
 
 Opening reception, November 6 at 7pm
 
-Read more: http://221a.ca/big-beige-eyes
+Read more: [http://221a.ca/big-beige-eyes](http://221a.ca/big-beige-eyes)
 
 221A
 100-221 E Georgia

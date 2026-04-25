@@ -35,7 +35,7 @@ Time: 6:30 - 7:30pm
 Location: Under the Heatley Ave. overpass, just north of Alexander St., 
 Vancouver
 Performers: Bronwen Besso-Smith, Jordan Miller, Alana Prochuk
-FB Event: https://www.facebook.com/events/571737749697430/
+FB Event: [https://www.facebook.com/events/571737749697430/](https://www.facebook.com/events/571737749697430/)
 
 Artists Leah Weinstein and prOphecy sun will present Public livingROOM, a one-
 day social sculpture created for Happenstance. Taking place inside of the 
@@ -50,4 +50,4 @@ Date: Saturday February 11th
 Time: 12-5pm, Artist Talk at 2pm
 Location: Ceperley Park parking lot near Second Beach in Stanley Park, 
 Vancouver
-FB Event: https://www.facebook.com/events/1769708479950189/
+FB Event: [https://www.facebook.com/events/1769708479950189/](https://www.facebook.com/events/1769708479950189/)

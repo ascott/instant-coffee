@@ -32,7 +32,7 @@ Enquiries or questions please contact me (Wei Cheng) at
 weicstudio@gmail.com
 
 Online form submit:
-https://docs.google.com/forms/d/e/1FAIpQLSfksvJ20_Pc7K1p4Bd3Uj6
+[https://docs.google.com/forms/d/e/1FAIpQLSfksvJ20_Pc7K1p4Bd3Uj6](https://docs.google.com/forms/d/e/1FAIpQLSfksvJ20_Pc7K1p4Bd3Uj6)
 PE-U4Lkh6fGD5cC5Qec9RQ_R1rA/viewform?usp=pp_url
 
 
@@ -87,7 +87,7 @@ No live music or instruments, only speakers at a medium volume
 
 Please email: gibson.randy@gmail.com
 
-Photos/Listing: https://vancouver.craigslist.org/van/ats/d/vancouver-
+Photos/Listing: [https://vancouver.craigslist.org/van/ats/d/vancouver-](https://vancouver.craigslist.org/van/ats/d/vancouver-)
 multiple-spaces-in-shared/6840667621.html
 
 Thank you!

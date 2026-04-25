@@ -37,7 +37,7 @@ Saturday and Sunday 9am-5pm
 
 For more information please contact Angeles Hernandez Correa in the Office
 of Graduate Studies ahernandezcorrea@ecuad.ca or visit the
-http://uponoccasion.wordpress.com/ website.
+[http://uponoccasion.wordpress.com/](http://uponoccasion.wordpress.com/) website.
 
 For assistance with webmail, please visit the ITS homepage or email
 ithelp@ecuad.ca.

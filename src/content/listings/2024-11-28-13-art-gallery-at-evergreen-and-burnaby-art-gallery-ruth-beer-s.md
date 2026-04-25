@@ -43,4 +43,4 @@ the Burnaby Art Gallery. Curated by Katherine Dennis and Jennifer Cane.
 Accessibility: The gallery tours are wheelchair accessible except for the upper
 gallery at the Burnaby Art Gallery.
 
-https://evergreenculturalcentre.ca/exhibit/
+[https://evergreenculturalcentre.ca/exhibit/](https://evergreenculturalcentre.ca/exhibit/)

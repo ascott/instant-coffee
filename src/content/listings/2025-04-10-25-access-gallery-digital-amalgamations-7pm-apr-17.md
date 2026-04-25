@@ -30,4 +30,4 @@ This exhibition is presented with the support of the Audain Endowment for Curato
 Studies through the Department of Art History, Visual Art and Theory in collaboration
 with the Morris and Helen Belkin Art Gallery at the University of British Columbia.
 
-For more information: https://accessgallery.ca/programming/digital-amalgamations
+For more information: [https://accessgallery.ca/programming/digital-amalgamations](https://accessgallery.ca/programming/digital-amalgamations)

@@ -37,4 +37,4 @@ Vancouver BC, V6A 1Z6
 
 T: 604 568 0812
 E: hello@221a.ca
-W: http://221a.ca
+W: [http://221a.ca](http://221a.ca)

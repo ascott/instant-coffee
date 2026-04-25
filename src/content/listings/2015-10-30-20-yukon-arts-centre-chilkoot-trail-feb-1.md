@@ -19,7 +19,7 @@ will hike the entire trail during a two week backpacking trip, spending one
 to three days at each campsite. This residency is open to Canadian and
 American visual artists.
 
-http://yukonartscentre.com/programs/chilkoot
+[http://yukonartscentre.com/programs/chilkoot](http://yukonartscentre.com/programs/chilkoot)
 
 21. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.

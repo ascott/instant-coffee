@@ -31,4 +31,4 @@ Vanessa Kroeker,Sonja Ratkay
 Organized by Juli Majer, Erica Wilk, and Sarah Davidson
 
 event: 
-https://www.facebook.com/events/222756861482070/
+[https://www.facebook.com/events/222756861482070/](https://www.facebook.com/events/222756861482070/)

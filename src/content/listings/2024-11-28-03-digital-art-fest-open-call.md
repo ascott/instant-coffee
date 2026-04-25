@@ -9,7 +9,7 @@ summary: "Digital Art Fest | Open Call"
 ---
 
 Link to Submission Form:
-https://forms.gle/Rqi7T3XNbtaZ4wME9
+[https://forms.gle/Rqi7T3XNbtaZ4wME9](https://forms.gle/Rqi7T3XNbtaZ4wME9)
 
 Chroma Link Collective is calling all digital artists to submit video works for a digital
 art festival taking place on the streets of Vancouver on January 30th.

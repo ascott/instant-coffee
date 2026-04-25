@@ -12,7 +12,7 @@ Join Vancouver artist, Lam Wong in his installation and tea meditation performan
 Sunday, November 8 at 3 pm. The tea meditation will be followed by a Q&A.
 
 Sign up to participate at home via zoom here:
-https://us02web.zoom.us/webinar/register/WN_I577YXgrTU-iqq2snVk0UA
+[https://us02web.zoom.us/webinar/register/WN_I577YXgrTU-iqq2snVk0UA](https://us02web.zoom.us/webinar/register/WN_I577YXgrTU-iqq2snVk0UA)
 
 To mark the final day of Third Realm, Lam Wong
 has been invited to create a new work

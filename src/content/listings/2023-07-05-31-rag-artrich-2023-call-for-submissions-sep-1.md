@@ -68,7 +68,7 @@ If you have problems or concerns with either method of submission, please contac
 richmondartscoalition@gmail.com for assistance.
 
 TO PAY FOR A MEMBERSHIP:
-If a new member, please go to https://richmondartscoalition.com/membership/ and fill
+If a new member, please go to [https://richmondartscoalition.com/membership/](https://richmondartscoalition.com/membership/) and fill
 out the form there.
 
 Methods to pay for a membership are as follows:

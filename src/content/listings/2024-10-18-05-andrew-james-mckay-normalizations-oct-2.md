@@ -22,7 +22,7 @@ Granville Island
 
 3-1244 Cartwright Street
 
-https://www.newleafeditions.com/
+[https://www.newleafeditions.com/](https://www.newleafeditions.com/)
 
 +1 604 689 9918
 
@@ -75,4 +75,4 @@ Goldberg Gallery, New York; Monte Vista
 Projects, Los Angeles; Ground Floor Art
 Centre, Vancouver; Peter Ohler's Fine Art, Toronto; and Masters Gallery, Calgary.
 
-https://andrewjamesmckay.com/
+[https://andrewjamesmckay.com/](https://andrewjamesmckay.com/)

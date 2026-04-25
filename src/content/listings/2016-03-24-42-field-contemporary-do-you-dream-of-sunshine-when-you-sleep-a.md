@@ -14,7 +14,7 @@ Curated by Avalon Mott
 Friday April 1st Saturday April 30th, 2016
 Opening Friday, April 1st. 7:00 10:00PM
 RSVP
-https://www.facebook.com/events/964869343604264/
+[https://www.facebook.com/events/964869343604264/](https://www.facebook.com/events/964869343604264/)
 
 FIELD Contemporary
 17 West Broadway, Vancouver
@@ -39,4 +39,4 @@ qualities. Patrick Campbell and Madison Killough have been collaborating
 since they met in Vancouver, Canada in 2012. They recently founded the
 design studio wolke.
 
-Fore more information please visit http://www.field-contemporary.com/
+Fore more information please visit [http://www.field-contemporary.com/](http://www.field-contemporary.com/)

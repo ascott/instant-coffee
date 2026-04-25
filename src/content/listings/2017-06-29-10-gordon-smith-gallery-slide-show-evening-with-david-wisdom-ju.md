@@ -37,7 +37,7 @@ including the PuSH Festival in Vancouver, the Elks Hall in Sidney, Nebraska, Mah
 Hall on Saltspring Island, and for the past eight years at the Vancouver Art Gallery.
 
 ALL TICKETS $10, available online at our website 
-https://goo.gl/jgLpkN
+[https://goo.gl/jgLpkN](https://goo.gl/jgLpkN)
 
 The Gordon Smith Gallery of Canadian Art
 2121 Lonsdale Avenue, North Vancouver

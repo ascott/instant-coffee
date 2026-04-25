@@ -33,7 +33,7 @@ The gallery tours are wheelchair accessible, except for the upper gallery at Bur
 Art Gallery. Unfortunately, the shuttle is not equipped with a wheelchair lift.
 
 Reserve your spot on the art bus here:
-https://evergreenculturalcentre.my.salesforce-
+[https://evergreenculturalcentre.my.salesforce-](https://evergreenculturalcentre.my.salesforce-)
 sites.com/ticket/#/events/a0SOK000002OwuX2AS
 
 About the Exhibition:
@@ -57,7 +57,7 @@ relationships and the pressing climate crisis.
 "Ruth Beer: Seep | Swell" is co-produced between the Art Gallery at Evergreen and
 the Burnaby Art Gallery, curated by Katherine Dennis and Jennifer Cane.
 
-https://evergreenculturalcentre.ca/exhibit/
+[https://evergreenculturalcentre.ca/exhibit/](https://evergreenculturalcentre.ca/exhibit/)
 
 
 14. FESTIVAL |
@@ -77,7 +77,7 @@ showcases work that's raw, kinetic and experimental " performances that engage
 and challenge audiences. Increasing public appreciation for dance is a core goal.
 
 Feel the rhythm. See the passion. Live the moment with VIDF 2025 TICKETS +
-PASSES. Available now until January 31, 2025: https://vidf.ca/
+PASSES. Available now until January 31, 2025: [https://vidf.ca/](https://vidf.ca/)
 
 Single
 Tickets'$25"$60

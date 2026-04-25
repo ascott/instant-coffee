@@ -90,4 +90,4 @@ Peller Estates and PriceSmart Foods Richmond for their sponsorship of
 refreshments for opening receptions.
 
 FOR MORE INFORMATION CONTACT:
-http://richmondartgallery.org
+[http://richmondartgallery.org](http://richmondartgallery.org)

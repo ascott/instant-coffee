@@ -42,6 +42,6 @@ What kinds of traditions or cultural practices are part of your community?
 How do you care for your community?
 What hopes do you have for your community?
 For more information and to submit your proposal via online form:
-https://theactmapleridge.org/open-call
+[https://theactmapleridge.org/open-call](https://theactmapleridge.org/open-call)
 
 Questions: courtneym@mract.org

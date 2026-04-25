@@ -15,7 +15,7 @@ grunt gallery, #116 - 350 E 2nd Ave
 Please join us for a talk by Kate Hennessy and Trudi Lynn Smith, "Residue: 
 Anarchival Materiality in Archives." This talk is presented in conjunction with 
 Spring Fever: Vancouver Independent Archives 2017. View the full schedule of 
-event here: http://archivesweek.ca/.
+event here: [http://archivesweek.ca/](http://archivesweek.ca/).
 
 In this presentation we will discuss preliminary video and photographic work from 
 our project Residue, in which we have been locating and documenting examples 
@@ -61,6 +61,6 @@ radiation -- to be reworked to emphasize the materiality of the unfixed image as
 way to address ethics in photography and to propose new forms of collectivity. 
 
 Trudi and Kate are two of the co-founders of the Ethnographic Terminalia 
-Collective (http://ethnographicterminalia.org/)
+Collective ([http://ethnographicterminalia.org/](http://ethnographicterminalia.org/))
 
-FB Event: https://www.facebook.com/events/1779056048787370/
+FB Event: [https://www.facebook.com/events/1779056048787370/](https://www.facebook.com/events/1779056048787370/)

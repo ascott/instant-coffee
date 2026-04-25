@@ -10,7 +10,7 @@ summary: "WORKSHOP | VIVO Media Arts Centre | Video Editing Intermediate | MAR 2
 
 Video Editing Intermediate
 
-SIGN UP & MORE INFO: https://video-editing-with-flick.eventbrite.ca
+SIGN UP & MORE INFO: [https://video-editing-with-flick.eventbrite.ca](https://video-editing-with-flick.eventbrite.ca)
 
 Sharpen your editing craft to tell more enticing stories with award-winning video artist 
 Flick Harrison!

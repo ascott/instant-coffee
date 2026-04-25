@@ -33,10 +33,10 @@ Residence "Fronda" in Real del Monte, Mexico.
 Yactac Gallery
 7206 Ontario Street (@ E 56th)
 Vancouver BC V5X 3B7
-http://www.yactac.com
+[http://www.yactac.com](http://www.yactac.com)
 yactacgallery@gmail.com
 
-T: http://www.twitter.com/yactac
-F: http://www.facebook.com/pages/Yactac/219495644734594
+T: [http://www.twitter.com/yactac](http://www.twitter.com/yactac)
+F: [http://www.facebook.com/pages/Yactac/219495644734594](http://www.facebook.com/pages/Yactac/219495644734594)
 
 Because it's great, and we are Yactac!

@@ -14,7 +14,7 @@ Thursday, August 17 from 6:30pm to 10pm (Planetarium show at 7:30pm and 9pm)
 H.R. MacMillan Space Centre (1100 Chestnut Street, Vancouver, BC V6J 3J9)
 
 Tickets: $30. Purchase tickets on Eventbrite.
-Facebook page: http://bit.ly/EclipseTotalAlignment
+Facebook page: [http://bit.ly/EclipseTotalAlignment](http://bit.ly/EclipseTotalAlignment)
 
 Our human experiences of astronomical events depend on the past and present 
 spectrum of our cultural relationships with science, technology, theology, and 

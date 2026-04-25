@@ -67,4 +67,4 @@ Vancouver, BC V6H 3S3
 mpsprint@telus.net
 
 
-http://www.malaspinaprintmakers.com
+[http://www.malaspinaprintmakers.com](http://www.malaspinaprintmakers.com)

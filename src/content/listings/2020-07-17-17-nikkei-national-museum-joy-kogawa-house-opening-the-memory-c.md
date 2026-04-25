@@ -35,4 +35,4 @@ Online webinar
 By donation
 
 Register for webinar link:
-https://centre.nikkeiplace.org/events/opening-the-memory-chest/
+[https://centre.nikkeiplace.org/events/opening-the-memory-chest/](https://centre.nikkeiplace.org/events/opening-the-memory-chest/)

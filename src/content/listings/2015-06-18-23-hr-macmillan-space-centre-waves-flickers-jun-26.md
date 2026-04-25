@@ -41,7 +41,7 @@ soundscapes offering an experiential night of stargazing and immersive
 listening.
 
 Tickets $20 Red Cat Records , ZuluRecords Store & Eventbrite
-https://www.eventbrite.ca/e/waves-flickers-tickets-17011918105
+[https://www.eventbrite.ca/e/waves-flickers-tickets-17011918105](https://www.eventbrite.ca/e/waves-flickers-tickets-17011918105)
 
 This is a licensed event. No minors.
 Presented by Erin Green & Elizabeth Milton
@@ -61,7 +61,7 @@ Plage, Destroyer) with yet another star bongo turn, and Mercer himself,
 whose singular axework, drum progamming and live knob-twiddling are a
 cornerstone of the WZO Sound. Mercer, Campbell and Upton will join Hermant
 and Bejar onstage at the Planetarium for the last Hello Blue Roses
-performance of the year. https://helloblueroses.bandcamp.com/releases
+performance of the year. [https://helloblueroses.bandcamp.com/releases](https://helloblueroses.bandcamp.com/releases)
 
 JEN WEIH is a Vancouver based artist and educator whose projects range from
 printmaking to video to participatory movement events to projects in public
@@ -85,7 +85,7 @@ Barwick, Damien Jurado, Frog Eyes, Porcelain Raft and many more and has
 performed at notable festivals such as All Tomorrow’s Parties, Primavera
 Sound, and Sled Island. He has also presented special artistic works at the
 Vancouver Art Gallery, The Centre for Performance Research in New York City
-and Kunstradio in Vienna. ​http://www.holyhum.com/
+and Kunstradio in Vienna. ​[http://www.holyhum.com/](http://www.holyhum.com/)
 
 KHAN LEE was born in Seoul, Korea. He studied architecture at Hong-Ik
 University, before immigrating to Canada to study fine art at Emily Carr
@@ -95,7 +95,7 @@ order to express inherent relationships between material and immaterial
 content. He is a founding member of the Vancouver-based artist collective
 ‘Intermission’ and is presently a member of ‘Instant Coffee’ artist
 collective. His work has been exhibited nationally, and internationally.
-Lee lives and works in Vancouver BC. http://khanlee.com/
+Lee lives and works in Vancouver BC. [http://khanlee.com/](http://khanlee.com/)
 
 THE RED HOT ICICLES BURNING ON FIRE in collaboration with STEVE HUBERT
 
@@ -106,7 +106,7 @@ melodrama, glam and disaster, The Icicles are a sonic carnival of complex
 bass lines, experimental percussion, cabaret synths and icy-hot vocals.
 Their most recent album, Ghosts & Glitter was recorded by Pietro Sammarco
 at Pippo Sounds and will be launched at WAVES & FLICKERS within the
-Planetarium this June. https://redhoticiclesburningonfire.bandcamp.com/
+Planetarium this June. [https://redhoticiclesburningonfire.bandcamp.com/](https://redhoticiclesburningonfire.bandcamp.com/)
 
 STEVE HUBERT has exhibited painting, sculpture, drawing, video, music, or
 performance at 221A, Sunset Terrace, MODEL (back patio), INDEX, CSA Space,
@@ -116,4 +116,4 @@ Casual Living (Victoria), and 2of2 Gallery (Toronto). Hubert attended
 Simon Fraser University (MFA 2012), Emily Carr (BFA 2007), and Langara
 College (2003-05). His work has appeared in SETUP, LAN: R-T, Decoy,
 Videographe, The Fillip Review, and Pyramid Power. He currently teaches at
-SFU and Emily Carr. http://stevehubert.com/
+SFU and Emily Carr. [http://stevehubert.com/](http://stevehubert.com/)

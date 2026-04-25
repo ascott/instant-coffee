@@ -17,7 +17,7 @@ Saturday, February 28, 2026
 Registration required. $5 fee includes all materials.
 
 REGISTER HERE:
-https://www.eventbrite.ca/e/rag-artist-salon-talk-workshop-with-charlene-vickers-tickets-
+[https://www.eventbrite.ca/e/rag-artist-salon-talk-workshop-with-charlene-vickers-tickets-](https://www.eventbrite.ca/e/rag-artist-salon-talk-workshop-with-charlene-vickers-tickets-)
 1980235951036?aff=oddtdtcreator
 
 Richmond Art Gallery's Artist Salon program returns to Saturday afternoons for in-person
@@ -66,4 +66,4 @@ Vancouver (2021), and Where Do We Go From Here? at Vancouver Art Gallery (2020).
 Charlene Vickers graduated from Emily Carr University of Art and Design (94) and Simon
 Fraser University in Critical Studies of the Arts (98), MFA (2013).
 
-More info, visit http://www.richmondartgallery.org
+More info, visit [http://www.richmondartgallery.org](http://www.richmondartgallery.org)

@@ -28,4 +28,4 @@ We are seeking works that embrace the intimacy of scale " pieces that hold prese
 constraint. The goal is to present 50+ sculptures in a collective display that emphasizes
 detail, material sensitivity, and concentrated form.
 
-Submission details and deadlines: https://thisgallery.org/art-submission-form/
+Submission details and deadlines: [https://thisgallery.org/art-submission-form/](https://thisgallery.org/art-submission-form/)

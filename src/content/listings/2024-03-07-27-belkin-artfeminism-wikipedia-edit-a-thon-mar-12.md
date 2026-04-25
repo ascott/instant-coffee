@@ -29,4 +29,4 @@ This years Edit-a-thon is a collaboration between the Belkin, Art History Studen
 Association (AHSA), Visual Art Students Association (VASA), Department of Art
 History, Visual Art and Theory, UBC Music, Art & Architecture Library, Centre A and
 Hatch Gallery.
-https://belkin.ubc.ca/events/wikipedia-edit-a-thon-2024/
+[https://belkin.ubc.ca/events/wikipedia-edit-a-thon-2024/](https://belkin.ubc.ca/events/wikipedia-edit-a-thon-2024/)

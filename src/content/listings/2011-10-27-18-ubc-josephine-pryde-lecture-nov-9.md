@@ -49,15 +49,15 @@ JP: Yes, I think there is.
 (Excerpt from "The Desire to Desire," a conversation between Josephine Pryde 
 and Sabeth Buchmann).
 
-http://www.reenaspaulings.com/JP.desire.pdf
+[http://www.reenaspaulings.com/JP.desire.pdf](http://www.reenaspaulings.com/JP.desire.pdf)
 
 Rhea Anastas's review, Material Holes: On Josephine Pryde at Richard Telles 
 Fine Art, Los Angeles, published in Texte zur Kunst, March 2010. 
 
-http://www.reenaspaulings.com/images3/TZK.Telles.pdf
+[http://www.reenaspaulings.com/images3/TZK.Telles.pdf](http://www.reenaspaulings.com/images3/TZK.Telles.pdf)
 
 Directions: Lasserre Building, Room 102, UBC
 
 The Distinguished Visiting Artist Program is made possible by the generous 
 support of the Rennie Collection.
-http://www.renniecollection.org/index.php
+[http://www.renniecollection.org/index.php](http://www.renniecollection.org/index.php)

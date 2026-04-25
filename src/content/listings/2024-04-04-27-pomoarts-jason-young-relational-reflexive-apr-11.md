@@ -14,7 +14,7 @@ Location: PoMoArts, 2425 St Johns Street Port Moody.
 
 Date: April 11, 2024 Time: 7:00 PM
 
-Website: https://pomoarts.ca/exhibitions/relational-reflexive
+Website: [https://pomoarts.ca/exhibitions/relational-reflexive](https://pomoarts.ca/exhibitions/relational-reflexive)
 
 Relational / Reflexive is Youngs debut solo exhibition charting the development of his
 intensive art practice. His work investigates the space between queerness and

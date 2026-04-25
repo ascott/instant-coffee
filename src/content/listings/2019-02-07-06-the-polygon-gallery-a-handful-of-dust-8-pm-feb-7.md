@@ -16,7 +16,7 @@ Walker Evans, Mona Kuhn, Man Ray, Gerhard Richter, Sophie Ristelhueber, Aaron
 Siskind, Shomei Tomatsu, Jeff Wall, and Nick Waplington alongside magazine spreads, 
 press photos, postcards, and film clips.
 
-https://thepolygon.ca/event/a-handful-of-dust-opening-events/
+[https://thepolygon.ca/event/a-handful-of-dust-opening-events/](https://thepolygon.ca/event/a-handful-of-dust-opening-events/)
 
 thepolygon.ca
 Event admission is by donation

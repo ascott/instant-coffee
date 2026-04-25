@@ -85,7 +85,7 @@ these artists interrogate the visual and material nature of historical
 reference and activate immaterial records. Events and research associated
 with sum of the parts will be hosted at 221As Pollyanna - Library,
 among other venues. Further details for this series are listed at
-http://221a.ca/sum-of-the-parts
+[http://221a.ca/sum-of-the-parts](http://221a.ca/sum-of-the-parts)
 
 Following the screening of sum of the parts: what can be named, (2010), the
 artist will give a talk. The Capilano Reviews Winter 2018 issue The Work

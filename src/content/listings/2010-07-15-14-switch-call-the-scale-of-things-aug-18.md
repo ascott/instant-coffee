@@ -36,11 +36,11 @@ Tipperary County Council, Civic Offices, Limerick Road, Nenagh, Co. Tipperary.
 digital applications please send to: switch.information@gmail.com
 
 Details for the application can be had on the website:
-http://www.s-w-i-t-c-h.org
+[http://www.s-w-i-t-c-h.org](http://www.s-w-i-t-c-h.org)
 
 Closing date for receipt of submissions is 18th August 2010 at 4pm.
 
-http://www.s-w-i-t-c-h.org
+[http://www.s-w-i-t-c-h.org](http://www.s-w-i-t-c-h.org)
 
 
 

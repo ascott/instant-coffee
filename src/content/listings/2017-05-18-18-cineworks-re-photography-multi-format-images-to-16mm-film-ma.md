@@ -20,7 +20,7 @@ VIVO)
 $120 + taxes | General Admission
 
 REGISTER: 
-https://re-photography.eventbrite.ca
+[https://re-photography.eventbrite.ca](https://re-photography.eventbrite.ca)
 
 Duration: 7 hours, including 1 hour lunch break
 
@@ -53,7 +53,7 @@ human conditions with which he engages.
 Please note: access to membership discounts can be obtained with a Cineworks 
 General Membership ($40 annually). Please call 604-685-3841 for details, or 
 come to an orientation at our Howe Street location (see 
-http://www.cineworks.ca/attend#events for bi-weekly schedule details).
+[http://www.cineworks.ca/attend#events](http://www.cineworks.ca/attend#events) for bi-weekly schedule details).
 
 Cineworks gratefully acknowledges and pays respect to the Musqueam, 
 Squamish and Tsleil-Waututh First Nations on whose unceded traditional 

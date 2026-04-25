@@ -43,7 +43,7 @@ the meeting point.
 The pay parking at Jericho Sailing Centre is regularly monitored and expensive.
 
 Register Online: $25 suggested donation
-https://www.paypal.com/cgi-bin/webscr?cmd=_s-
+[https://www.paypal.com/cgi-bin/webscr?cmd=_s-](https://www.paypal.com/cgi-bin/webscr?cmd=_s-)
 xclick&hosted_button_id=GGLDMRP4MYN8E
 
 Register by Email or Phone: $25 suggested donation
@@ -62,4 +62,4 @@ V6A 1Z6
 
 T: 604 568 0812
 E: hello@221a.ca
-W: http://221a.ca
+W: [http://221a.ca](http://221a.ca)

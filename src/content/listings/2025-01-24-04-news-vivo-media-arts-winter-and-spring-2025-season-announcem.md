@@ -32,4 +32,4 @@ and technological dependency.
 We look forward to seeing you at VIVO soon!
 
 Explore Winter & Spring 2025 Highlights:
-https://www.vivomediaarts.com/news/season-announcement-jan-jun-2025
+[https://www.vivomediaarts.com/news/season-announcement-jan-jun-2025](https://www.vivomediaarts.com/news/season-announcement-jan-jun-2025)

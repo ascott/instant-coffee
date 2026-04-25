@@ -20,9 +20,9 @@ piece.
 
 Deadline for submission is January 6, 2021.
 
-For more information visit: https://banff.ca/1153/Call-to-Artists
+For more information visit: [https://banff.ca/1153/Call-to-Artists](https://banff.ca/1153/Call-to-Artists)
 
-http://https://banff.ca/1153/Call-to-Artists
+[http://https://banff.ca/1153/Call-to-Artists](http://https://banff.ca/1153/Call-to-Artists)
 
 35. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.
@@ -61,13 +61,13 @@ Masks are Required in common areas.
 
 I Look forward to seeing you
 with new exciting work and my new studio space
-http://carylann.com
+[http://carylann.com](http://carylann.com)
 
 enjoy art at your leisure
 and take a break from digital media.
 or
 
 SHOP HERE
-https://carylann.format.com/shop
+[https://carylann.format.com/shop](https://carylann.format.com/shop)
 
-https://www.pinterest.ca/carylannl/carylann-art/
+[https://www.pinterest.ca/carylannl/carylann-art/](https://www.pinterest.ca/carylannl/carylann-art/)

@@ -24,4 +24,4 @@ Marina Roy
 Gallery Atsui, 602 E.Hastings, Vancouver BC
 
 Curated by Steve Calvert, co-produced with Rebecca Plucer and Gallery Atsui
-http://www.mechanicalbrides.com/atsui_angelsintheangles.html
+[http://www.mechanicalbrides.com/atsui_angelsintheangles.html](http://www.mechanicalbrides.com/atsui_angelsintheangles.html)

@@ -13,7 +13,7 @@ La Probabilit du Nant
 Thursday-Saturday December 7-9, 2023 | 8pm
 Scotiabank Dance Centre, 677 Davie St, Vancouver
 Tickets $35/$26 students, seniors
-https://thedancecentre.ca/event/ebnfloh/
+[https://thedancecentre.ca/event/ebnfloh/](https://thedancecentre.ca/event/ebnfloh/)
 
 Acclaimed for powerful works which are deeply rooted in hip hop dance and culture,
 Montreals Ebnflh returns to Vancouver with an ambitious creation full of urgency and

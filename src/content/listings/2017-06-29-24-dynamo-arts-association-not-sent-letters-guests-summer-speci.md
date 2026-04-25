@@ -40,7 +40,7 @@ Jeremy Todd instigates each event as an extension of his ongoing Not Sent Letter
 project, an entanglement with the production of meaning, self and cultural memory, 
 involving image/text epistolary detours online (since 2005), digital shorts, 
 interdisciplinary performance works and cooperatively realized public events: 
-http://notsentlettersproject.com
+[http://notsentlettersproject.com](http://notsentlettersproject.com)
 
 This is the twenty-second NOT SENT LETTERS & GUESTS event.
 
@@ -91,7 +91,7 @@ and read from the project archive by MARGARET DRAGU, BYRON PETERS &
 DAMLA TAMER.
 
 Explore previous NOT SENT LETTERS & GUESTS events here: 
-http://notsentlettersproject.com/category/events
+[http://notsentlettersproject.com/category/events](http://notsentlettersproject.com/category/events)
 
 Please email Jeremy Todd to host or contribute to a future Not Sent Letters & 
 Guests event: jeremygordontodd@gmail.com

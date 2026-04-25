@@ -55,4 +55,4 @@ Israel) and BDS (the Boycott, Divestment, Sanctions) movement working to end
 international support for Israel's oppression and occupation of Palestine:
 @gs4palestine
 
-follow/like on fb: https://www.facebook.com/profile.php?id=61566663903789
+follow/like on fb: [https://www.facebook.com/profile.php?id=61566663903789](https://www.facebook.com/profile.php?id=61566663903789)

@@ -18,4 +18,4 @@ management experience, excellent communication skills, and a passion for communi
 engagement. Join us in making a difference! Apply with your resume and cover letter to
 jobs@powellstreetfestival.com. The position is open until filled.
 
-Link: https://powellstreetfestival.com/get-involved/jobs/
+Link: [https://powellstreetfestival.com/get-involved/jobs/](https://powellstreetfestival.com/get-involved/jobs/)

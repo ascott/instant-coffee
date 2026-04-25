@@ -29,7 +29,7 @@ On Main Gallery, Paul Wong and Patrick Daggitt. We are proud to
 launch this intuitive and exciting app that has been three years in the 
 making.
 
-https://www.youtube.com/watch?v=PTuczx8LGJg
+[https://www.youtube.com/watch?v=PTuczx8LGJg](https://www.youtube.com/watch?v=PTuczx8LGJg)
 
 MIMMiC: Disruption August 16-18, 2015
 On exhibit will be Paul Wong’s Wave Cycle (2015), images and 
@@ -91,29 +91,29 @@ Sydney, Australia, and Dubai. ISEA2015 marks its return to Canada,
 since the groundbreaking first Canadian ISEA1995 in Montréal. The 
 Symposium will be at the Woodward’s campus of Simon Fraser 
 University, with events at Vancouver Art Gallery, Emily Carr University 
-and other sites. http://isea2015.org/
+and other sites. [http://isea2015.org/](http://isea2015.org/)
 
 Bios
 Paul Wong is a pioneering award-winning artist and the Artistic Director 
-of On Main Gallery. http://paulwongprojects.com/
+of On Main Gallery. [http://paulwongprojects.com/](http://paulwongprojects.com/)
 
 Patrick Daggitt is an artist who uses code, projection, and the web to
 build digital experiences that act as a mode of collaboration between 
-the viewer and the artist. http://patrick-daggitt.com/
+the viewer and the artist. [http://patrick-daggitt.com/](http://patrick-daggitt.com/)
 
 Evann Siebens has a background as a dancer, choreographer, 
 documentary filmmaker, experimental visual and media artist. 
-http://evannsiebens.com/
+[http://evannsiebens.com/](http://evannsiebens.com/)
 
 Sammy Chien is an interdisciplinary artist, performer and the Artistic
 Director of Chimerik Collective who works with new media technology
-http://www.chimerik.com
+[http://www.chimerik.com](http://www.chimerik.com)
 
 Adam Myhill and Christine Wallace are teaming up to collaborate. 
 Myhill is an award-winning cinematographer, CG supervisor, art 
 director, and animator; Wallace is a professional actor and bodybuilder.
-http://www.adammyhill.com/
+[http://www.adammyhill.com/](http://www.adammyhill.com/)
 
 On Main Gallery is a non-profit organization that produces, 
 commissions and presents new forms of visual and media art. 
-http://onmaingallery.com/
+[http://onmaingallery.com/](http://onmaingallery.com/)

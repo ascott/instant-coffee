@@ -58,7 +58,7 @@ that seek to establish an artificial unity at the expense of ordinary citizens.
 The exhibition will be on view in the windows of 221A Artist Run Centre,
 221 E. Georgia St., Vancouver BC from Friday, August 13th until Tuesday,
 August 27th, 24 hours a day, and is accompanied by a publication, available
-at 221A, READ Books, or online from http://www.publicationstudio.biz/. The
+at 221A, READ Books, or online from [http://www.publicationstudio.biz/](http://www.publicationstudio.biz/). The
 publication, Exhibition To Be Destroyed, Again, contains full-size
 reproductions of many of the posters and other items in the exhibition, for
 a low cover price of $25.
@@ -70,7 +70,7 @@ the support, contributions, and unpaid labour of artists, cultural workers
 and other volunteers, without whom we would not be able to continue.
 Special thanks to Ministry Of Casual Living and to 221A Artist Run Centre.
 
-http://www.helenpittgallery.org
+[http://www.helenpittgallery.org](http://www.helenpittgallery.org)
 
 100 - 221 E. Georgia St.
 Vancouver, BC V6A 1Z6

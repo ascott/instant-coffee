@@ -26,4 +26,4 @@ Grace Gordon-Collins, Heather Lane, Brandon Leung, Naomi Leung, Khim Mata
 Hipol, Yin Mei, Katie Rodgers, Michael Rozen, Mahin Sharilli, Tala Shayegan, Jim
 Stewart, Andrew Tavukciyan, Jing Xia, and Ketty Haolin Zhang.
 
-Website: https://northvanarts.ca/events-exhibitions/clean-slate/
+Website: [https://northvanarts.ca/events-exhibitions/clean-slate/](https://northvanarts.ca/events-exhibitions/clean-slate/)

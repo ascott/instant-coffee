@@ -26,4 +26,4 @@ Free Admission
 Nicola Internet Café
 1565 Robson St. 
 
-http://front.bc.ca/events/pro-am-art-and-culture-on-the-internet/
+[http://front.bc.ca/events/pro-am-art-and-culture-on-the-internet/](http://front.bc.ca/events/pro-am-art-and-culture-on-the-internet/)

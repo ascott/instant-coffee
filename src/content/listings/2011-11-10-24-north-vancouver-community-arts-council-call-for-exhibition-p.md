@@ -38,7 +38,7 @@ below.
 To download submission guidelines please go to this link on our 
 website.
 
-http://www.nvartscouncil.ca/home/artist-calls
+[http://www.nvartscouncil.ca/home/artist-calls](http://www.nvartscouncil.ca/home/artist-calls)
 
 SUBMISSION DEADLINE: Saturday, January 21, 2012 at 4:30pm.
 
@@ -71,9 +71,9 @@ www.nvartscouncil.ca
 
 604.988.6844
 
-Description: http://www.nvartscouncil.ca/sites/default/files/twitter_logo-
+Description: [http://www.nvartscouncil.ca/sites/default/files/twitter_logo-](http://www.nvartscouncil.ca/sites/default/files/twitter_logo-)
 b_0.png Description: 
-http://www.nvartscouncil.ca/sites/default/files/fb_logo(small).jpg 
+[http://www.nvartscouncil.ca/sites/default/files/fb_logo(small](http://www.nvartscouncil.ca/sites/default/files/fb_logo(small)).jpg 
 
 
 

@@ -14,7 +14,7 @@ August 22/23/24/25 7:30 pm. By Donation.
 
 Featuring:
 Jaime Fennelly(Waldron Island USA) www.sswilloughby.com
-Tim Olive(Japan) http://www.myspace.com/timolive
+Tim Olive(Japan) [http://www.myspace.com/timolive](http://www.myspace.com/timolive)
 Vic Rawlings (Boston) cello/electronics
 Sam Shalabi (Montreal) www.myspace.com/theshalabieffect.com)
 Delicate Sen (NYC) Richard Kammerman

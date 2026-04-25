@@ -90,4 +90,4 @@ March 9, 2025 from 12-3 PM: Experimental Patchwork Weaving
 
 March 20, 2025 from 12-3 PM: Experimental Patchwork Weaving
 
-https://www.fleetstudios.org/program/visiting-artist-adhoc-plots-collective
+[https://www.fleetstudios.org/program/visiting-artist-adhoc-plots-collective](https://www.fleetstudios.org/program/visiting-artist-adhoc-plots-collective)

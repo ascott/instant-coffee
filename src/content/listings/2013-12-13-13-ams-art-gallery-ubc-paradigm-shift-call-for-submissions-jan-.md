@@ -31,4 +31,4 @@ ubcsaganeditor@gmail.com. Please include:
 -Technical needs (if submitting a video, sound, or performance piece)
 
 The show will be put on by the Carl Sagan Association for the Communication 
-of Science. For more information, please visit: http://ubcsagan.org
+of Science. For more information, please visit: [http://ubcsagan.org](http://ubcsagan.org)

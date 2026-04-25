@@ -108,7 +108,7 @@ We are also in favor of quality over masses. We are a non-profit organization
 that is very keen on team work which is why if you decide to embark on this 
 design project we would like to arrange a group session to brainstorm with our 
 other 2 design volunteers. Our Website currently looks like this : 
-http://nomassgallery.weebly.com Your help is greatly appreciated! We promise 
+[http://nomassgallery.weebly.com](http://nomassgallery.weebly.com) Your help is greatly appreciated! We promise 
 you a Fantastic experience with NoMass. "
 
 Miret Rodriguez

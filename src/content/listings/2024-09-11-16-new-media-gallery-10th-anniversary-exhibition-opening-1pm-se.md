@@ -51,5 +51,5 @@ uncanny voiceover and underlying base heartbeat.
 
 We hope you will join us for this 35th exhibition opening.
 Free, Everyone Welcome
-https://newmediagallery.ca/
+[https://newmediagallery.ca/](https://newmediagallery.ca/)
 contact@newmediagallery.ca

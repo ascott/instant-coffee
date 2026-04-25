@@ -27,4 +27,4 @@ Art Gallery of Greater Victoria
 1040 Moss St.
 Victoria, BC V8V4P1
 t: 250 384 4171
-http://aggv.ca/indian-candy
+[http://aggv.ca/indian-candy](http://aggv.ca/indian-candy)

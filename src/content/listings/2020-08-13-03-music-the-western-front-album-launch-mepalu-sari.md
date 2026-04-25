@@ -8,8 +8,8 @@ venue: "MUSIC"
 summary: "MUSIC | The Western Front | ALBUM LAUNCH Mepalu Sari"
 ---
 
-https://westernfrontrecordings.bandcamp.com/album/mepalu-sari
-https://www.newforms.digital/
+[https://westernfrontrecordings.bandcamp.com/album/mepalu-sari](https://westernfrontrecordings.bandcamp.com/album/mepalu-sari)
+[https://www.newforms.digital/](https://www.newforms.digital/)
 
 Western Front is pleased to present Mepalu Sari [Essence of a Collision], a digital album
 of new gamelan and electronic music compositions by students and emerging artists.

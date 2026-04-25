@@ -42,4 +42,4 @@ In Person: Richmond Cultural Centre front desk, 7700 Minoru Gate
 member. Proof of membership will be required on the day of workshop, or
 you will be charged the full fee.
 
-For more information, visit http://bit.ly/256U89O.
+For more information, visit [http://bit.ly/256U89O](http://bit.ly/256U89O).

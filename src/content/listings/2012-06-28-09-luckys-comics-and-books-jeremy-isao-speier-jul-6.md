@@ -45,12 +45,12 @@ numerous solo and group exhibitions, and recently in 2011 at Blim Arts
 Society and Powell Street Festival, in 2012 at the Firehall Arts
 Centre, and upcoming in 2013 at Nikkei National Museum.
 
-http://www.jeremyisaospeier.com/
-http://giorgiomagnanensi.com/
-http://anaudiogallery.tumblr.com
-http://luckys.ca
+[http://www.jeremyisaospeier.com/](http://www.jeremyisaospeier.com/)
+[http://giorgiomagnanensi.com/](http://giorgiomagnanensi.com/)
+[http://anaudiogallery.tumblr.com](http://anaudiogallery.tumblr.com)
+[http://luckys.ca](http://luckys.ca)
 
-http://www.facebook.com/events/431936266847212
+[http://www.facebook.com/events/431936266847212](http://www.facebook.com/events/431936266847212)
 
 An Audio Gallery is a new Vancouver collective of audio artists. We
 are collaborating with Lucky's to show five audio installations

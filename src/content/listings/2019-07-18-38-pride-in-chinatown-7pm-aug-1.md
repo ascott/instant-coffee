@@ -40,4 +40,4 @@ Queer Arts Festival, Chinatown Transformation Team, the Chinese Cultural Centre,
 support from the City of Vancouvers Creative City Strategic Grant, Community Arts 
 Grant, and Parks Board Arts and Culture.
 
-Tickets at http://alternativepride.ca/
+Tickets at [http://alternativepride.ca/](http://alternativepride.ca/)

@@ -13,7 +13,7 @@ metro vancouver to teach a workshop on a creative knowledge or competency that w
 missed out in school.
 
 For more information, visit @lasaluartlibrary on Instagram. Apply at
-https://forms.gle/w8e7cKXyYMBT3p8aA before Sept 24, 23:55.
+[https://forms.gle/w8e7cKXyYMBT3p8aA](https://forms.gle/w8e7cKXyYMBT3p8aA) before Sept 24, 23:55.
 
 Lasalu Art Library is a building classroom art resource thats breathing a breath of air,
 shaking like the earth, speaking as a friend. This library will develop into a collection of

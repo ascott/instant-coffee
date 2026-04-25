@@ -15,7 +15,7 @@ Opening Reception: November 22 from 6 to 9pm
 
 Satellite Gallery
 560 Seymour Street, 2nd Floor
-http://www.satellitegallery.ca
+[http://www.satellitegallery.ca](http://www.satellitegallery.ca)
 604-681-8425
 info@satellitegallery.ca
 

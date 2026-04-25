@@ -36,4 +36,4 @@ Gordon Smith Gallery, is curated by Amelia Epp, a District 44 visual art teacher
 offer opportunities for cross-curricular, place-based inquiry as well as rich
 connections to social and emotional learning.
 
-https://evergreenculturalcentre.ca/exhibit/
+[https://evergreenculturalcentre.ca/exhibit/](https://evergreenculturalcentre.ca/exhibit/)

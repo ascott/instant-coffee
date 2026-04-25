@@ -12,7 +12,7 @@ Calling all artists! Taking applications now for 2025 shows. Submit your proposa
 art
 exhibition at the Crescent Beach Pop-Up Gallery.
 
-- Find all details here: https://www.surrey.ca/arts-culture/community-art/crescent-
+- Find all details here: [https://www.surrey.ca/arts-culture/community-art/crescent-](https://www.surrey.ca/arts-culture/community-art/crescent-)
 beach-pop-gallery/crescent-beach-pop-gallery-artist-call
 
 - Deadline to Apply: December 1, 2024

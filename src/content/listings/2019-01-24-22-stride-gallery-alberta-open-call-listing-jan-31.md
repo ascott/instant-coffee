@@ -28,4 +28,4 @@ contemporary art outside the context of a formal gallery space. These projects a
 assessed and programmed on a case-by-case basis, dependent upon available 
 resources.
 
-for submission details please refer to http://www.stride.ab.ca/opportunities/
+for submission details please refer to [http://www.stride.ab.ca/opportunities/](http://www.stride.ab.ca/opportunities/)

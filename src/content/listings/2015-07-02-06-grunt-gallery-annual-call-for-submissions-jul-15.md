@@ -27,7 +27,7 @@ have any questions, please feel free to contact us.
 Deadline for submissions is July 15, 2015.
 
 Please review our Submission Guidelines here:
-http://grunt.us8.list-manage.com/track/click?u=befb1ca907e5641e22a9db3ec&id=2c6f8d73b2&e=e8a9460193
+[http://grunt.us8.list-manage.com/track/click?u=befb1ca907e5641e22a9db3ec&id=2c6f8d73b2&e=e8a9460193](http://grunt.us8.list-manage.com/track/click?u=befb1ca907e5641e22a9db3ec&id=2c6f8d73b2&e=e8a9460193)
 
 grunt gallery
 grunt.ca | 604-875-9516

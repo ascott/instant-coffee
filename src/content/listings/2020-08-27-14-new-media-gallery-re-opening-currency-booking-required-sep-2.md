@@ -11,7 +11,7 @@ summary: "New Media Gallery [RE-OPENING] | Currency | Booking Required | SEP 2"
 Were re-opening the Currency Exhibition. Booking will be required with 6 visitors per hour.
 Bookings:
 
-https://newmediagallery.youcanbook.me/
+[https://newmediagallery.youcanbook.me/](https://newmediagallery.youcanbook.me/)
 
 Eight award-winning artists consider diverse narratives, counter narratives, and symbolic
 systems relating to notions of currency and value in a rapidly changing world of technology.
@@ -24,4 +24,4 @@ Using artificial intelligence, internet streaming, proximity sensors, diagnostic
 chromatography, block chain, Bitsoil and bot systems these artists have produced intelligent,
 evocative works of great complexity and depth.
 
-https://newmediagallery.ca/
+[https://newmediagallery.ca/](https://newmediagallery.ca/)

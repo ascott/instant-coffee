@@ -68,6 +68,6 @@ been noted that the exhibition processes of the TRC were not only
 problematic, but also inconsiderate of the experiences of some artists and
 individuals. How were these risks navigated by artists and curators?
 
-Complete details can be found at http://www.breachmagazine.ca/submissions/.
+Complete details can be found at [http://www.breachmagazine.ca/submissions/](http://www.breachmagazine.ca/submissions/).
 Direct submissions, proposals and queries to info@breachmagazine.ca by
 March 31 2016.

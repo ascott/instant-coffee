@@ -11,7 +11,7 @@ summary: "VIVO Media Arts Centre | Mentorship: Queer Happenings (Free, for teens
 Queer Happenings
 
 More info & sign up:
-https://vivomediaarts.com/queer-happenings
+[https://vivomediaarts.com/queer-happenings](https://vivomediaarts.com/queer-happenings)
 
 Application closes Sept 27, 2020.
 
@@ -28,10 +28,10 @@ online sessions, 2 hours each.
 
 Explore VIVO's newly released Every Queer Thing collection, created by archivist
 Sophie Roberge. More info about the collection here:
-http://www.vivomediaarts.com/archive/every-queer-thing
+[http://www.vivomediaarts.com/archive/every-queer-thing](http://www.vivomediaarts.com/archive/every-queer-thing)
 
 With Alysha Seriani's help, you'll work individually or with a partner to create a new work
 using media from the collection including video, audio, photo, and text.
 
 Know a friend who might be interested in this project? Tell them to apply too!
-http://https://vivomediaarts.com/queer-happenings
+[http://https://vivomediaarts.com/queer-happenings](http://https://vivomediaarts.com/queer-happenings)

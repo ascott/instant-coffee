@@ -19,4 +19,4 @@ and established film-makers share their work on the big screen. FREE, but
 RSVP required. Our project is sponsored by the Vancouver Foundation
 Neighbourhood Small Grants
 
-More details and RSVP: http://www.broadwayeastartwalk.com/?page_id=527
+More details and RSVP: [http://www.broadwayeastartwalk.com/?page_id=527](http://www.broadwayeastartwalk.com/?page_id=527)

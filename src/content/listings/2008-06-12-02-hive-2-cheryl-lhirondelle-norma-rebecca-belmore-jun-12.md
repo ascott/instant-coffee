@@ -74,7 +74,7 @@ five minutes. Pechawis is a media-integrated performing artist, New Media artist
 teacher and dad. His practice investigates the intersection of Plains Cree culture and digital 
 technology. His current fascination is what he calls ‘transitional Cree culture’, the place where
 Cree culture meets the onrush of millennial technology.
-http://www.apxo.net/home.html
+[http://www.apxo.net/home.html](http://www.apxo.net/home.html)
 
 June 10 Marlene Madison – Close to me. Madison will engage the viewer in readings of short text 
 pieces addressing notions of intimacy, reflexivity, and authenticity. This performance will be used 
@@ -93,7 +93,7 @@ her 37th year as an artist. She has presented her work in galleries, museums, th
 nightclubs, libraries, universities and site-specific venues including parks, botanical gardens, and 
 public parade routes across Canada, the west and east coast of the United States, and in 
 Western Europe. 
-http://ladraguasladyjustice.blogspot.com/
+[http://ladraguasladyjustice.blogspot.com/](http://ladraguasladyjustice.blogspot.com/)
 
 June 12 Cheryl LHirondelle - êkâya-pâhkaci [don’t freeze up] is an interdisciplinary and 
 exploratory process-based performance piece: an intersection of nomadic site-specifity, visual 

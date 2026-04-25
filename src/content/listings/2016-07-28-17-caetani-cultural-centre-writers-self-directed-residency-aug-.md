@@ -30,4 +30,4 @@ arts - Please check their website at spokefestival.com for more
 information
 
 Links to more information and how to apply:
-http://caetani.org/2016/07/perfect-for-a-writer/
+[http://caetani.org/2016/07/perfect-for-a-writer/](http://caetani.org/2016/07/perfect-for-a-writer/)

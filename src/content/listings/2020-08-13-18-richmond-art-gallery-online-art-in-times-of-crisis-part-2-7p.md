@@ -33,10 +33,10 @@ other illnesses.
 Join in the live online session for discussion and Q+A opportunities.
 
 Register for the live online event and join in the discussion.
-https://us02web.zoom.us/webinar/register/WN_GSEeeWrdT-qZ-shZClfVeQ
+[https://us02web.zoom.us/webinar/register/WN_GSEeeWrdT-qZ-shZClfVeQ](https://us02web.zoom.us/webinar/register/WN_GSEeeWrdT-qZ-shZClfVeQ)
 
 Missed Part 1 of this program? It is now available as an online video here:
-https://www.youtube.com/watch?v=D_V2fHhfFPs
+[https://www.youtube.com/watch?v=D_V2fHhfFPs](https://www.youtube.com/watch?v=D_V2fHhfFPs)
 
 About the Presenter:
 Jairo Salazar earned his M.A. in art history from the University of North Texas in 2008. His
@@ -55,4 +55,4 @@ Association has launched our public programs online to encourage dialogue and
 connection in the era of physical distancing. Everyone is invited to join through the
 webinar platform Zoom.
 
-For more information on the Richmond Art Gallery: http://www.richmondartgallery.org/
+For more information on the Richmond Art Gallery: [http://www.richmondartgallery.org/](http://www.richmondartgallery.org/)

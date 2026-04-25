@@ -60,7 +60,7 @@ like spray paint or resins. The studio is also not set up for kilns. The are cur
 in the space.
 
 The is a community driven space run by BC Artscape, learn more about their project 
-including tenant selection process at https://bcasunwah.squarespace.com/become-a-tenant
+including tenant selection process at [https://bcasunwah.squarespace.com/become-a-tenant](https://bcasunwah.squarespace.com/become-a-tenant)
 
 Please contact info@bcartscape.ca to set up your viewing. 
 

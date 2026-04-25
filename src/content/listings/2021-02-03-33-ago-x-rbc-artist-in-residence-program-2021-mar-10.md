@@ -33,5 +33,5 @@ projects that include collaborations with any department at the AGO, including b
 limited to: Conservation, Collections, Curatorial, Education & Programming, Library &
 Archives, Food & Beverage, and Visitor Experience.
 
-Application link (details and requirements): https://ago.ca/artist-residence-program-call-
+Application link (details and requirements): [https://ago.ca/artist-residence-program-call-](https://ago.ca/artist-residence-program-call-)
 proposals

@@ -30,7 +30,7 @@ component of the SkyTrain system and is featured at many stations and/or station
 plazas along the existing SkyTrain network.
 
 Please read the RFQ in detail at:
-https://bcbid.gov.bc.ca/page.aspx/en/bpm/process_manage_extranet/187686
+[https://bcbid.gov.bc.ca/page.aspx/en/bpm/process_manage_extranet/187686](https://bcbid.gov.bc.ca/page.aspx/en/bpm/process_manage_extranet/187686)
 
 Eligibility
 
@@ -64,7 +64,7 @@ Stage Two: Project Orientation and Concept Proposal Presentation
 
 Submission Requirements and Instructions
 
-https://bcbid.gov.bc.ca/page.aspx/en/bpm/process_manage_extranet/187686
+[https://bcbid.gov.bc.ca/page.aspx/en/bpm/process_manage_extranet/187686](https://bcbid.gov.bc.ca/page.aspx/en/bpm/process_manage_extranet/187686)
 
 Contact Information:
 

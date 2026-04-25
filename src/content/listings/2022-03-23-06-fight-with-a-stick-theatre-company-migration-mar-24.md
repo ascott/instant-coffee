@@ -22,4 +22,4 @@ collaboration with other-than-human materialities, gampi paper is one of the key
 performers in Migration.
 
 Tickets
-https://www.fightwithastick.ca/copy-of-donations-contributions-tickets
+[https://www.fightwithastick.ca/copy-of-donations-contributions-tickets](https://www.fightwithastick.ca/copy-of-donations-contributions-tickets)

@@ -14,7 +14,7 @@ Deadline for Submission of Application: February 5th 2017
 
 ATTENTION SOUND ARTISTS 
 APPLICATIONS OPEN NOW, APPLY HERE:
-http://www.mediaartscommittee.org/artist-calls
+[http://www.mediaartscommittee.org/artist-calls](http://www.mediaartscommittee.org/artist-calls)
 
 We invite artists to submit proposals to "DEEP LISTENING: Paying Tribute to 
 Pauline Oliveros" for the MAC (Media Arts Committee) Sound Artist-in-Residence 
@@ -66,4 +66,4 @@ thoughts as well as musical sounds. Deep Listening is my life practice," she
 explains, simply. Oliveros is founder of Deep Listening Institute, formerly Pauline 
 Oliveros Foundation, now the Center For Deep Listening at Rensselaer. 
 
-http://paulineoliveros.us/
+[http://paulineoliveros.us/](http://paulineoliveros.us/)

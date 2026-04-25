@@ -29,4 +29,4 @@ Implementation, Human Resource Management, External Relations/Community
 Engagement, and Facility Management.
 
 To view the full job posting, please visit the Mission Museum website at:
-https://www.missionmuseum.com/employment-opportunities/
+[https://www.missionmuseum.com/employment-opportunities/](https://www.missionmuseum.com/employment-opportunities/)

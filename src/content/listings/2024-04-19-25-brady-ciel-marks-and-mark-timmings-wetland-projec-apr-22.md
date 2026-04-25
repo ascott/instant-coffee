@@ -24,17 +24,17 @@ tea-covered-outdoor gathering/s from 9am to midnight.
 Write itsjoycewielandthanks@gmail.com or @0hce-ech0 for more information, or see
 Wetland Project's 2024 Events Program for other ways to
 listen:
-http://wetlandproject.com/program.php#radio
+[http://wetlandproject.com/program.php#radio](http://wetlandproject.com/program.php#radio)
 
 _-_-_-_
 
 Wetland Project, a twenty-four-hour field recording of the ETESEN marsh in
 WSNE- territory, streams online year-round, and is a Slow Radio Broadcast with
 participating radio stations worldwide on Earth Day.
-http://wetlandproject.com
+[http://wetlandproject.com](http://wetlandproject.com)
 
 OHCE-ECHO is a 55 square foot former telecommunications room and future project
 space at 1469 Venables, organized by Francesca Bennett as a commitment to
 artists, and an extension of research into independent, parallel, and artist-run
 spaces.
-http://bedroomkitchen.garden/ohce-echo
+[http://bedroomkitchen.garden/ohce-echo](http://bedroomkitchen.garden/ohce-echo)

@@ -129,4 +129,4 @@ High ceiling on one side, storage on the other, plus additional storage.
 Common working space included, Great Location. Local Amenities. 
 Home Depot / Canadian Tire + more material sources nearby...
 
-https://www.facebook.com/DynamoArts
+[https://www.facebook.com/DynamoArts](https://www.facebook.com/DynamoArts)

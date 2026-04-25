@@ -20,4 +20,4 @@ info@thebakeryonfranklin.com and include all the pertinent information like
 artist statement, proposal, cv, images, image list and website link. Thank
 you for your interest, only those considered will be contacted.
 
-http://thebakeryonfranklin.tumblr.com
+[http://thebakeryonfranklin.tumblr.com](http://thebakeryonfranklin.tumblr.com)

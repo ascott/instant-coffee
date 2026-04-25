@@ -36,4 +36,4 @@ Team Building: Create a positive and productive team environment through
 training, support, and regular feedback.
 
 Find out more and apple here:
-https://thepolygon.ca/news/job-opportunity-guest-services-supervisor/
+[https://thepolygon.ca/news/job-opportunity-guest-services-supervisor/](https://thepolygon.ca/news/job-opportunity-guest-services-supervisor/)

@@ -15,7 +15,7 @@ ONLINE EXHIBIT
 Video Communication: Art and Technology between Canada and Japan, 1967-1985
 Program One: Intermedia
 November 24"December 1
-http://www.vivomediaarts.com/archive/video-communication/
+[http://www.vivomediaarts.com/archive/video-communication/](http://www.vivomediaarts.com/archive/video-communication/)
 FREE
 
 Intermedia is the first of two screenings in this online exhibition curated by Jesse

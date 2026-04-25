@@ -10,7 +10,7 @@ summary: "WORKSHOP | VIVO Media Arts Centre | Cinematography: Ways of Seeing | A
 
 Cinematography: Ways of Seeing
 
-SIGN UP & MORE INFO: https://cinematography-devan.eventbrite.ca
+SIGN UP & MORE INFO: [https://cinematography-devan.eventbrite.ca](https://cinematography-devan.eventbrite.ca)
 
 Ignite your own visual storytelling style with cinematographer Devan Scott!
 
@@ -34,4 +34,4 @@ lighting, colour coordination, depth of focus, camera movement, and focal length
 selection.
 
 One extended subsidy for this workshop available:
-https://goo.gl/forms/c8MWHwKMpGY6IXD93
+[https://goo.gl/forms/c8MWHwKMpGY6IXD93](https://goo.gl/forms/c8MWHwKMpGY6IXD93)

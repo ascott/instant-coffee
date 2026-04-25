@@ -86,7 +86,7 @@ freedom, the anarchy, violence and seething anxiety animating Chinas major
 cities today. These scenes, unavailable on Chinas heavily controlled
 television networks, represent an emerging underground media, one that can
 truly capture the ground-level upheaval of Chinese society. Visit
-http://dgeneratefilms.com for more information.
+[http://dgeneratefilms.com](http://dgeneratefilms.com) for more information.
 
 Media Contact:
 

@@ -45,4 +45,4 @@ Lower Ground Level
 
 Vancouver, BC
 
-https://thisgallery.org/
+[https://thisgallery.org/](https://thisgallery.org/)

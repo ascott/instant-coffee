@@ -30,6 +30,6 @@ the session will involve some form of introduction, and some portion of close re
 (out loud).
 
 Links to download readings prior to the event can be found here: 
-https://front.bc.ca/events/text-to-speech-salome-voegelin/
+[https://front.bc.ca/events/text-to-speech-salome-voegelin/](https://front.bc.ca/events/text-to-speech-salome-voegelin/)
 
 For more details contact media@front.bc.ca.

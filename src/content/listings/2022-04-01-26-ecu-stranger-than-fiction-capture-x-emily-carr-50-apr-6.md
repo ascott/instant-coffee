@@ -27,7 +27,7 @@ Macgillivray, Leo Mah, Meaghan Murray, Abigail Pfortmueller, Jordan Robertson, T
 Roy, Gibson Switzer, Skye Tao, Jordan Utting, Emil Vargas, James Vincent, Liao Yi
 
 For more, visit:
-https://www.ecuad.ca/events/capture-x-emily-carr-exhibition-stranger-
+[https://www.ecuad.ca/events/capture-x-emily-carr-exhibition-stranger-](https://www.ecuad.ca/events/capture-x-emily-carr-exhibition-stranger-)
 than-fiction
 
 Shumka Centre for Creative Entrepreneurship

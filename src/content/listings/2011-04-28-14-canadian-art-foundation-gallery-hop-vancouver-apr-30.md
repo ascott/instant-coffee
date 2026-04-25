@@ -22,32 +22,32 @@ Talk:
 Artist Myfanwy MacLeod in conversation with curator Reid Shier 
 talks about her practice and her landmark public artwork at Olympic 
 Village, The Birds - 11:00 am at the Vancity Theatre: 
-http://www.canadianart.ca/microsites/vancouverhop/schedule/.
+[http://www.canadianart.ca/microsites/vancouverhop/schedule/](http://www.canadianart.ca/microsites/vancouverhop/schedule/).
 
 Tour:
 Artist Paul Wong discusses his current City-funded project for the 
 Canada Line Public Art Program (Tour One):
-http://www.canadianart.ca/microsites/vancouverhop/talks/
+[http://www.canadianart.ca/microsites/vancouverhop/talks/](http://www.canadianart.ca/microsites/vancouverhop/talks/)
 
 Tour:
 Independent curator Rachel Lafo conducts a tour of public artworks 
 at Coal Harbour (Tour Five): 
-http://www.canadianart.ca/microsites/vancouverhop/talks/
+[http://www.canadianart.ca/microsites/vancouverhop/talks/](http://www.canadianart.ca/microsites/vancouverhop/talks/)
 
 For more information visit: 
-http://www.canadianart.ca/microsites/vancouverhop/
+[http://www.canadianart.ca/microsites/vancouverhop/](http://www.canadianart.ca/microsites/vancouverhop/)
 
 .............................................................................
 
 Additional sources of Public Art call information include:
-[ ] Akimbo - http://www.akimbo.ca/submissions/ - providing 
+[ ] Akimbo - [http://www.akimbo.ca/submissions/](http://www.akimbo.ca/submissions/) - providing 
 information from Toronto to national and international artists
-[ ] Cafe - https://www.callforentry.org - A US-based resource that 
+[ ] Cafe - [https://www.callforentry.org](https://www.callforentry.org) - A US-based resource that 
 includes opportunities for Canadian and international artists
-[ ] The Public Art Directory - http://www.public-art-
+[ ] The Public Art Directory - [http://www.public-art-](http://www.public-art-)
 directory.com/page_service-home.html - A UK based service listing 
 public art calls
-[ ] Public Art Online - http://www.publicartonline.org.uk/ - information 
+[ ] Public Art Online - [http://www.publicartonline.org.uk/](http://www.publicartonline.org.uk/) - information 
 and knowledge on an international scale.
 
 PLEASE NOTE: While the City of Vancouver is providing this 
@@ -59,7 +59,7 @@ accuracy of information and functioning of all links. For more detail
 about a particular call, please use the contact information provided. 
 For your convenience, all calls distributed through this list are 
 posted online, until their expiry, at 
-http://vancouver.ca/commsvcs/oca/PublicArt/artistopp.htm.
+[http://vancouver.ca/commsvcs/oca/PublicArt/artistopp.htm](http://vancouver.ca/commsvcs/oca/PublicArt/artistopp.htm).
 
 CELEBRATE VANCOUVER'S 125 ANNIVERSARY WITH PUBLIC 
 ART & OTHER CULTURAL ACTIVITY!!!
@@ -67,15 +67,15 @@ Vancouver 125 is a year-long celebration of Vancouver's history,
 diversity and innovative cultural scene during the city's 125th 
 anniversary and year as a Cultural Capital of Canada. Join in the 
 excitement of dozens of celebrations and events: 
-http://CelebrateVancouver125.ca
+[http://CelebrateVancouver125.ca](http://CelebrateVancouver125.ca)
 
-Follow Vancouver 125 on Twitter: http://twitter.com/vancouver125
-Find us on Facebook: http://www.facebook.com/Vancouver125
-Flickr: http://www.flickr.com/photos/vancouver125/
-YouTube: http://www.youtube.com/user/125Vancouver?
+Follow Vancouver 125 on Twitter: [http://twitter.com/vancouver125](http://twitter.com/vancouver125)
+Find us on Facebook: [http://www.facebook.com/Vancouver125](http://www.facebook.com/Vancouver125)
+Flickr: [http://www.flickr.com/photos/vancouver125/](http://www.flickr.com/photos/vancouver125/)
+YouTube: [http://www.youtube.com/user/125Vancouver](http://www.youtube.com/user/125Vancouver)?
 feature=mhum
 
 You can manage your subscription to this mailing list and join 
 others by visiting Cultural Services online at: 
-http://vancouver.ca/commsvcs/cultural/lists/index.htm
+[http://vancouver.ca/commsvcs/cultural/lists/index.htm](http://vancouver.ca/commsvcs/cultural/lists/index.htm)
 Please feel free to forward or direct others towards this link as well!

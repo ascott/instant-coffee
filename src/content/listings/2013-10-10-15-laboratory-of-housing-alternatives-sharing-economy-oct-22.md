@@ -15,4 +15,4 @@ Vancouverites to live more affordably while connecting with their
 community. 
 
 Would be great if you could include this event in your listings. More 
-details attached or you can go to: https://loha-sharing.eventbrite.ca
+details attached or you can go to: [https://loha-sharing.eventbrite.ca](https://loha-sharing.eventbrite.ca)

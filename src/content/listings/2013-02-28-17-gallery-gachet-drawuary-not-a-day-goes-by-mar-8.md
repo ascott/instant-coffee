@@ -30,7 +30,7 @@ Sabourin, Jeska Slater, Brennan Kelly, Gabe Hill, Jesse Corcoran, Chloe
 Gammon, Nizhoni Ellenwood, Syvia Munson, Bernadine Fox, Luey Mcquaid 
 and Quin Martins.
 
-http://gachet.org/
-http://drawuary.tumblr.com/
+[http://gachet.org/](http://gachet.org/)
+[http://drawuary.tumblr.com/](http://drawuary.tumblr.com/)
 For more information, please contact Curator, Gabrielle Hill
 glh1@sfu.ca (778) 899-4301

@@ -80,4 +80,4 @@ Vancouver BC
 604-872-8337
 www.vivomediaarts.com
 
-http://vivomediaarts.com/workshops
+[http://vivomediaarts.com/workshops](http://vivomediaarts.com/workshops)

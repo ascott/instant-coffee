@@ -18,12 +18,12 @@ encouragement, and assistance, as we work together to improve the representation
 and transgender women, non-binary folks, and feminist subjects in the world's largest online
 encyclopedia. Set up your account through our Wikipedia Dashboard:
 
-https://outreachdashboard.wmflabs.org/courses/California_College_of_the_Arts/CCA_Art_F
+[https://outreachdashboard.wmflabs.org/courses/California_College_of_the_Arts/CCA_Art_F](https://outreachdashboard.wmflabs.org/courses/California_College_of_the_Arts/CCA_Art_F)
 eminism_2020_(3_pm,_April_2nd,_2020)
 
 and join us online via Zoom.
 
-https://cca.zoom.us/j/469639989?status=success
+[https://cca.zoom.us/j/469639989?status=success](https://cca.zoom.us/j/469639989?status=success)
 
 Were putting forward a selection of artists who have been featured in
 Art Practical in the
@@ -59,4 +59,4 @@ organizations. While certainly not all-encompassing, we hope that this list can 
 our readers to useful resources and strategies, as the situation rapidly evolves.
 
 You can find our list of resources here.
-https://www.artpractical.com/column/living-and-working-covid-19-shelter-in-studio/
+[https://www.artpractical.com/column/living-and-working-covid-19-shelter-in-studio/](https://www.artpractical.com/column/living-and-working-covid-19-shelter-in-studio/)

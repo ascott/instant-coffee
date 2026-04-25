@@ -17,7 +17,7 @@ Sunday, March 1, 2026
 Free to attend
 
 RSVP on Zoom:
-https://us06web.zoom.us/meeting/register/8U30BZrgSrWeQrsDoHWyng#/registration
+[https://us06web.zoom.us/meeting/register/8U30BZrgSrWeQrsDoHWyng#/registration](https://us06web.zoom.us/meeting/register/8U30BZrgSrWeQrsDoHWyng#/registration)
 
 Join us for a virtual artist talk with Jane Shi, a poet, writer, and organizer living on the
 occupied, stolen, and unceded territories of the xmky"m (Musqueam), Skwxw7mesh
@@ -34,4 +34,4 @@ Tend, tender, tend is a virtual artist talks series with artists who are jointly
 advocates in various local community initiatives in and beyond so-called Vancouver, BC The
 project is organized by United Aunties Arts Association, which supports independent artists
 with racialized and equity seeking backgrounds in and beyond Vancouvers Chinatown. More
-info: https://unitedaunties.ca/tend-tender-tend-to
+info: [https://unitedaunties.ca/tend-tender-tend-to](https://unitedaunties.ca/tend-tender-tend-to)

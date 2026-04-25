@@ -26,7 +26,7 @@ Street Market grew out of the need directly expressed by DTES residents to the
 DTES Neighbourhood Council, and other resident-driven groups, for a space to 
 vend where vendors could be protected from police harassment and ticketing. 
 The Market is an innovative community-driven project that works to directly and 
-concretely address community priorities.http://dncstreetmarket.com/
+concretely address community priorities.[http://dncstreetmarket.com/](http://dncstreetmarket.com/)
 
 The Lower Mainland Painting Co. (LMPC) is a professional independent painting 
 co., conceptual artwork, and research initiative. Their work is a vehicle for 
@@ -35,7 +35,7 @@ economy by testing shifting forms of value and the modes of labour and
 negotiation around which art operates against more exhaustive constraints, and 
 scales of aesthetic expression. They are currently seeking paid employment and 
 commissions doing painting, carpentry, and art both internationally and in the 
-Vancouver area. http://lmpc.ca/
+Vancouver area. [http://lmpc.ca/](http://lmpc.ca/)
 
 -- 
 Amy Kazymerchyk

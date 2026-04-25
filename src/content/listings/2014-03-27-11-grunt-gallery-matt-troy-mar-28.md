@@ -47,7 +47,7 @@ Join us at grunt gallery on Friday March 28 (7-10pm) for the opening
 reception of Produce, Consume. This exhibition runs until Saturday 
 April 5th.
 
-http://grunt.ca/exhibitions/produce-consume/ 
-https://www.facebook.com/events/1471870729697742/
+[http://grunt.ca/exhibitions/produce-consume/](http://grunt.ca/exhibitions/produce-consume/) 
+[https://www.facebook.com/events/1471870729697742/](https://www.facebook.com/events/1471870729697742/)
 
 grunt gallery: 116-350 East 2nd Ave, Vancouver, BC V5T 4R8

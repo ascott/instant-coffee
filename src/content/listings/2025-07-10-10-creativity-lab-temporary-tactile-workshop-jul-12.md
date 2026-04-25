@@ -24,7 +24,7 @@ express ideas, and consider materials and touch as narrative tools. Hosted by
 Vancouver Placemaking: Johnny Tiger, Kay Slater, Keimi Nakashima Ochoa.
 
 Space is limited, please register here:
-https://www.eventbrite.ca/e/temporary-tactile-workshop-tickets-1376406812829?
+[https://www.eventbrite.ca/e/temporary-tactile-workshop-tickets-1376406812829](https://www.eventbrite.ca/e/temporary-tactile-workshop-tickets-1376406812829)?
 aff=oddtdtcreator
 
-Details and links: https://www.richmondartgallery.org/tactile
+Details and links: [https://www.richmondartgallery.org/tactile](https://www.richmondartgallery.org/tactile)

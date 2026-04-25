@@ -22,4 +22,4 @@ friends to come and appreciate the work! We guarantee a safe, fun environment. A
 10-14 $280
 Sorry, we are unable to accommodate drop-ins. Please pre-register and read our FAQ.
 
-https://www.mobil-art.ca/event-info/young-creators-art-camp-aug-12-16-2019
+[https://www.mobil-art.ca/event-info/young-creators-art-camp-aug-12-16-2019](https://www.mobil-art.ca/event-info/young-creators-art-camp-aug-12-16-2019)

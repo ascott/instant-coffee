@@ -40,6 +40,6 @@ where pleasure is more important than productivity.
 
 Where pleasure is the point.
 
-For more information visit :https://www.instagram.com/katyslany/
-To submit please fill out this form: https://forms.gle/FrkgqqJd3j2NoNKA8
+For more information visit :[https://www.instagram.com/katyslany/](https://www.instagram.com/katyslany/)
+To submit please fill out this form: [https://forms.gle/FrkgqqJd3j2NoNKA8](https://forms.gle/FrkgqqJd3j2NoNKA8)
 For inquiries email: katyslany@gmail.com

@@ -28,7 +28,7 @@ Coast technoculture, tobias has DJ'ed warehouse raves from Montreal to
 Amsterdam, Barcelona to Berlin. From dubhouse to deep techno, electro to
 minimal, tobias plays with a unique sonic signature crafted from over 15
 years of DJing hedonist gatherings worldwide. His DJ mixes can be found at
-[http://controltochaos.ca].
+[[http://controltochaos.ca](http://controltochaos.ca)].
 
 W2 hosts Barcelona-based mobile artist-in-residence Antoni Abad from
 November 28th - December 12th. Abad's artist talk will highlight his work

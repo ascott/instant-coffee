@@ -96,15 +96,15 @@ Exhibition in Kingston, ON in June 2010, and she has edited Van City
 Kitty on VancouverisAwesome.com since November 2010. Nikki has 
 lived with oodles of cats throughout her life, including two that she 
 rescued off East Georgia Street, and Bella, whom she’s been cat-sitting 
-since 2003. Website: http://reimerwrites.com/
+since 2003. Website: [http://reimerwrites.com/](http://reimerwrites.com/)
 
 ---------30---------
 --
 Nikki M. Reimer
 
 writer/editor for hire
-http://about.me/NikkiReimer
-http://reimerwrites.com/
+[http://about.me/NikkiReimer](http://about.me/NikkiReimer)
+[http://reimerwrites.com/](http://reimerwrites.com/)
 
 Christopher John Joseph Reimer
 Brother, Musician, Friend

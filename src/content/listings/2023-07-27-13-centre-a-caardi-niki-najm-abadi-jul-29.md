@@ -23,7 +23,7 @@ Location: Online (Zoom)
 
 Sign-ups
 will be necessary, and will be available on Zoom:
-https://us02web.zoom.us/meeting/register/tZYrf-
+[https://us02web.zoom.us/meeting/register/tZYrf-](https://us02web.zoom.us/meeting/register/tZYrf-)
 mqrz8rHdLzm26XJYUmaGOLPF0maRO3
 
 Head over to our website for more details!

@@ -30,5 +30,5 @@ English (Mercenary Press 2016) and Prison Industrial Complex Explodes
 lived experience, autonomous research, and community participation.
 
 RSVP: goo.gl/2rQAok
-Become a Fillip member: https://goo.gl/LSrCD9
+Become a Fillip member: [https://goo.gl/LSrCD9](https://goo.gl/LSrCD9)
 Facebook event: goo.gl/Nk9JEN

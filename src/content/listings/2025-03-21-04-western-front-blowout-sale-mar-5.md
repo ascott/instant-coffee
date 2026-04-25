@@ -15,4 +15,4 @@ garments and accessories featured in Katayoon Yousefbigloos installation Kiosk (
 Dont miss your last chance to experience the exhibition and acquire one of
 Yousefbigloos pieces.
 
-For further details, visit https://westernfront.ca/events/blowout-sale
+For further details, visit [https://westernfront.ca/events/blowout-sale](https://westernfront.ca/events/blowout-sale)

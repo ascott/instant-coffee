@@ -15,7 +15,7 @@ Thursday, September 14 at 6:30pm
 1600 Canfor Policy Room, SFU Harbour Centre (515 West Hastings
 Street, Vancouver)
 
-Register at Eventbrite: https://www.eventbrite.ca/e/invisible-ink-artist-talk-by-shadbolt-
+Register at Eventbrite: [https://www.eventbrite.ca/e/invisible-ink-artist-talk-by-shadbolt-](https://www.eventbrite.ca/e/invisible-ink-artist-talk-by-shadbolt-)
 fellow-ghinwa-yassine-tickets-686098558257
 
 Join SFU Gender, Sexuality, and Womens Studies for an evening with anti-disciplinary

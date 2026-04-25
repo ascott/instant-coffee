@@ -27,4 +27,4 @@ this work is to bring attention to this issue. You can see this work from now un
 March 10th. To learn more about this artwork and the other Platforms projects, please
 visit:
 
-https://vancouver.ca/platforms
+[https://vancouver.ca/platforms](https://vancouver.ca/platforms)

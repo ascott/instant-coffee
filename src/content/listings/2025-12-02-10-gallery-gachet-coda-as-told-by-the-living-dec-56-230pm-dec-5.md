@@ -15,7 +15,7 @@ Dec 5 from 2:30pm to 6:30pm PST
 Dec 6 from 1pm to 6pm PST
 
 Hosted by Gallery Gachet at 825 Pacific Street #700 Vancouver, BC V6Z 1C3.
-Accessibility info available at: https://221a.ca/about/accessibility/
+Accessibility info available at: [https://221a.ca/about/accessibility/](https://221a.ca/about/accessibility/)
 
 A colloquium bringing scholars and artists together to explore Black interiority, memory,
 and life in the wake.
@@ -103,5 +103,5 @@ Hunter Shackelford
 
 More information available here:
 
-https://www.eventbrite.ca/e/coda-as-told-by-the-living-day-1-tickets-1974922409089?
+[https://www.eventbrite.ca/e/coda-as-told-by-the-living-day-1-tickets-1974922409089](https://www.eventbrite.ca/e/coda-as-told-by-the-living-day-1-tickets-1974922409089)?
 aff=ebdssbdestsearch&keep_tld=1

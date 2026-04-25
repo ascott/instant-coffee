@@ -17,7 +17,7 @@ John Oliver, the Art-Song Chamber ensemble the Erato Ensemble and Harpist
 Heidi Kreutzen. The Sonic Boom Music Festival| March 26-30, 2014 7:30pm| Each 
 night will be different musical events, featuring different performers. Venues: 
 Vancouver Symphony Orchestra’s School of Music’s Pyatt Hall (843 Seymour 
-Street, Vancouver). Map: http://goo.gl/maps/80ytm Orpheum Annex (823 
-Seymour Street, Vancouver). Map: http://goo.gl/maps/9ptff Tickets: 
-http://sonicboom2014.brownpapertickets.com For more information, please visit 
+Street, Vancouver). Map: [http://goo.gl/maps/80ytm](http://goo.gl/maps/80ytm) Orpheum Annex (823 
+Seymour Street, Vancouver). Map: [http://goo.gl/maps/9ptff](http://goo.gl/maps/9ptff) Tickets: 
+[http://sonicboom2014.brownpapertickets.com](http://sonicboom2014.brownpapertickets.com) For more information, please visit 
 www.vancouverpromusica.ca

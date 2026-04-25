@@ -10,7 +10,7 @@ summary: "Vancouver Art Gallery | Inner Sublimity"
 
 Performance: Inner Sublimity
 2nd Floor, the Vancouver Art Gallery
-https://www.vanartgallery.bc.ca/events/performance-inner-sublimity-feb-7
+[https://www.vanartgallery.bc.ca/events/performance-inner-sublimity-feb-7](https://www.vanartgallery.bc.ca/events/performance-inner-sublimity-feb-7)
 
 Inner Sublimity traverses currents of Eastern and Western philosophy through
 dance, creating a dynamic dialogue between traditions preserved across
@@ -32,5 +32,5 @@ Performance Dates
 Friday, February 7 at 9 PM
 Saturday, February 8 at 9 PM
 Sunday, February 9 at 7 PM
-Booking link: https://www.vanartgallery.bc.ca/events/performance-inner-sublimity-
+Booking link: [https://www.vanartgallery.bc.ca/events/performance-inner-sublimity-](https://www.vanartgallery.bc.ca/events/performance-inner-sublimity-)
 feb-7

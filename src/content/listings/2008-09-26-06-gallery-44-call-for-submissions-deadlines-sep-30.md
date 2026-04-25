@@ -73,7 +73,7 @@ Late submissions will not be accepted. Please clearly label your envelope
 with the call that you are applying for. Artists are paid in accordance
 with the CARFAC Fee Schedule.
 
-Please see www.gallery44.org <http://www.gallery44.org> for a floor plan of
+Please see www.gallery44.org <[http://www.gallery44.org](http://www.gallery44.org)> for a floor plan of
 the gallery and further information.
 
 Contact and mailing address for submissions:

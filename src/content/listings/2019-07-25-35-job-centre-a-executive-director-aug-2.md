@@ -41,7 +41,7 @@ former retail mall and emerging art hub.
 HOW TO APPLY:
 
 See full responsibilities and qualifications for the Executive Director here: 
-http://centrea.org/opportunities/
+[http://centrea.org/opportunities/](http://centrea.org/opportunities/)
 
 Please send materials to the hiring committee in a single PDF with your name and the 
 position in the title, in the following order to recruitment@centrea.org: a cover letter, CV, 

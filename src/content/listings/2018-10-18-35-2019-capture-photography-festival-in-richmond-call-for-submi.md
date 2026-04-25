@@ -35,7 +35,7 @@ Duration: April 2019 - April 2020
 Installation: March 2019
 
 For more information and how to apply please visit
-https://www.richmond.ca/culture/publicart/opportunities.htm and download
+[https://www.richmond.ca/culture/publicart/opportunities.htm](https://www.richmond.ca/culture/publicart/opportunities.htm) and download
 the PDF Document 2019 Capture Festival in Richmond Terms of Reference for
 this artist call.
 

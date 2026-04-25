@@ -43,5 +43,5 @@ Sayeh Sarfaraz was born in Shiraz, Iran and later attended l’École
 Supérieure Des Arts Décoratifs de Strasbourg France. She is currently
 based in Montreal, Quebec.
 
-URL: http://grunt.ca/exhibitions/au-pays-des-mollahs/
-Facebook Event: https://www.facebook.com/events/421675221370331/
+URL: [http://grunt.ca/exhibitions/au-pays-des-mollahs/](http://grunt.ca/exhibitions/au-pays-des-mollahs/)
+Facebook Event: [https://www.facebook.com/events/421675221370331/](https://www.facebook.com/events/421675221370331/)

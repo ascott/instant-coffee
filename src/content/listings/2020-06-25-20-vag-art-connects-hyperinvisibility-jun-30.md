@@ -26,5 +26,5 @@ part of Contemporary Calgarys Collider residency, which ran from May 1 to June 1
 
 To register for the event, please visit:
 
-https://zoom.us/we
+[https://zoom.us/we](https://zoom.us/we)
 binar/register/WN_7OylX9S2SjCYkZO3YZ0B2Q

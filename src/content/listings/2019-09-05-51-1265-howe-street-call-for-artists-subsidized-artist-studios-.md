@@ -15,7 +15,7 @@ Walkthrough: September 12, 6pm (Please RSVP at hello@221a.ca)
 Notification of Results: October 2019
 Sublease Start Date: November 1, 2019
 
-More Information, Application Form & FAQ: https://221a.ca/call-for-artists-subsidized-artist-
+More Information, Application Form & FAQ: [https://221a.ca/call-for-artists-subsidized-artist-](https://221a.ca/call-for-artists-subsidized-artist-)
 studios-at-1265-howe-street
 
 221A is seeking applicants from eligible Artists or Artist Collectives for the rental of up to

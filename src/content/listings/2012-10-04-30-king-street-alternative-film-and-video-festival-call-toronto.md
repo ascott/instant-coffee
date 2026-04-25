@@ -31,4 +31,4 @@ Deadline: Jan 29th, 2013
 
 For more info see
 
-http://kingsteetaltfilmfest.blogspot.ca/
+[http://kingsteetaltfilmfest.blogspot.ca/](http://kingsteetaltfilmfest.blogspot.ca/)

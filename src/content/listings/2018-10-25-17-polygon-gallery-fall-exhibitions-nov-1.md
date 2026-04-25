@@ -39,4 +39,4 @@ photographic materials from scientific documents. The exhibition includes a disp
 artefacts and visual documents that depict temporality and the weather that relates to 
 the artists interest in the earth sciences.
 
-https://thepolygon.ca/event/fall-exhibitions-public-opening/
+[https://thepolygon.ca/event/fall-exhibitions-public-opening/](https://thepolygon.ca/event/fall-exhibitions-public-opening/)

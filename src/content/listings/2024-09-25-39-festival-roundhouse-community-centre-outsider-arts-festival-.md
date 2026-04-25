@@ -36,4 +36,4 @@ Roundhouse Community Arts & Recreation Centre
 Vancouver, BC V6Z 2W3
 
 Website
-https://voaf.ca/voaf-2024/
+[https://voaf.ca/voaf-2024/](https://voaf.ca/voaf-2024/)

@@ -35,7 +35,7 @@ please contact Jessica Hum, Community Engagement Strategist at 604-
 738-4323 or jessica@publicdesign.ca
 
 Click here to launch the survey: 
-https://www.surveymonkey.com/s/creationspace
+[https://www.surveymonkey.com/s/creationspace](https://www.surveymonkey.com/s/creationspace)
 
 Jessica Hum B.PLAN.
 ...............................................

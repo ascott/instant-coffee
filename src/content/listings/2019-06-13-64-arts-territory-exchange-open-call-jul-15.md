@@ -17,7 +17,7 @@ offer a number of alternative Residency opportunities including our 'Residency b
 Correspondence' where artists are paired up with counterparts across the world to make 
 and create work. Applications are open until July 15th 2019. Apply here:
 
-https://www.artsterritoryexchange.com/
+[https://www.artsterritoryexchange.com/](https://www.artsterritoryexchange.com/)
 
 Membership benefits include:
 Becoming part of a world-wide network.

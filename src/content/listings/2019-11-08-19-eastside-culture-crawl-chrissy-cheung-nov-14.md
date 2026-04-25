@@ -9,6 +9,6 @@ summary: "Eastside Culture Crawl | Chrissy Cheung | NOV 14"
 ---
 
 This year there are over 400 artists participating in the Eastside Culture Crawl Festival.
-http://culturecrawl.ca/
+[http://culturecrawl.ca/](http://culturecrawl.ca/)
 I will be opening my studio at 1000 Parker St. Studio 135. East Van, V6A 2H2
 (near Clark Dr.)

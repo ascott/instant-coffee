@@ -35,5 +35,5 @@ from Main Street Skytrain Station to King Edward
 To register: themilelongjam@gmail.com
 
 More Info:
-http://www.themilelongjam.com
-http://www.facebook.com/milelongjam.vancouver
+[http://www.themilelongjam.com](http://www.themilelongjam.com)
+[http://www.facebook.com/milelongjam.vancouver](http://www.facebook.com/milelongjam.vancouver)

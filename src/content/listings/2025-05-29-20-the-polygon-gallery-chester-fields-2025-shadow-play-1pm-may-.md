@@ -15,7 +15,7 @@ Doors at 1:00pm
 
 Remarks and winners announced at 1:30pm
 
-RSVP Here: https://thepolygon.ca/event/chester-fields-2025-opening-celebration/
+RSVP Here: [https://thepolygon.ca/event/chester-fields-2025-opening-celebration/](https://thepolygon.ca/event/chester-fields-2025-opening-celebration/)
 
 Chester Fields 2025: Shadow Play is on view at The Polygon until June 29.
 About the Exhibition

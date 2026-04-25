@@ -17,7 +17,7 @@ $40 + taxes | General Admission
 $35 + taxes | Concession
 $30 + taxes | Member Admission
 
-REGISTER: http://bit.ly/2kFTHBI
+REGISTER: [http://bit.ly/2kFTHBI](http://bit.ly/2kFTHBI)
 
 A 3 hour entry-level workshop introducing participants to the principles and practice of 
 processing 16mm black and white film by hand.
@@ -42,4 +42,4 @@ and our work is based. We also gratefully acknowledge the support of Canada Coun
 for the Arts, British Columbia Arts Council, The Province of British Columbia and the 
 City of Vancouver.
 
-http://cineworks.ca
+[http://cineworks.ca](http://cineworks.ca)

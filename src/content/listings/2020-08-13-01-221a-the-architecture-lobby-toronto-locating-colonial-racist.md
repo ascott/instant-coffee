@@ -13,8 +13,8 @@ Discord
 
 221A is pleased to announce a new research partnership with the Toronto
 chapter of The Architecture
-Lobby https://www.instagram.com/arch_lobby_to/ and we'd like to invite
-you to https://discord.com/invite/Y9xPkAU
+Lobby [https://www.instagram.com/arch_lobby_to/](https://www.instagram.com/arch_lobby_to/) and we'd like to invite
+you to [https://discord.com/invite/Y9xPkAU](https://discord.com/invite/Y9xPkAU)
 
 Locating Colonial and Racist Spaces in Canada is a crowd-sourced
 project that seeks to identify tangible spaces and objects within the
@@ -39,7 +39,7 @@ dispossession of culturally-significant ecologies.
 
 Please join us and The Architecture Lobby Toronto in contributing to the
 dialogues and data capture taking place on 221As Discord server**
-(https://discord.com/invite/Y9xPkAU), where we intend to gather a community
+([https://discord.com/invite/Y9xPkAU](https://discord.com/invite/Y9xPkAU)), where we intend to gather a community
 of artists,
 designers, organizers, thinkers and critical voices who will
 shape this project and guide us towards a comprehensive understanding of the
@@ -53,14 +53,14 @@ text and voice, originally developed and used by gamers, that has now been
 adopted by many online communities as an alternative space
 that encourages greater depth of conversations than on rapid-fire social
 media platforms such as Facebook and Twitter. You can download the Discord
-app (https://discord.com/new/download) for free or access the server
-channels through your browser https://discord.com/new/downloadr
-(https://discord.com/new/download). You will be prompted to create an
+app ([https://discord.com/new/download](https://discord.com/new/download)) for free or access the server
+channels through your browser [https://discord.com/new/downloadr](https://discord.com/new/downloadr)
+([https://discord.com/new/download](https://discord.com/new/download)). You will be prompted to create an
 account.
 
 Resources :
 Getting Started on Discord
-(https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started)
+([https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started](https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started))
 A Beginner's Guide to Discord
-(https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide
+([https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide](https://support.discord.com/hc/en-us/articles/360045138571-Beginner-s-Guide)
 -to-Discord)

@@ -46,4 +46,4 @@ Centre A,
 Tuesday to Saturday I 11am to 6pm
 Sunday, Monday & Holidays I Closed
 Postal Address: PO Box 88363 Chinatown | Vancouver BC V6A 4A6
-604.683.8326 | http://www.centrea.org | info@centrea.org
+604.683.8326 | [http://www.centrea.org](http://www.centrea.org) | info@centrea.org

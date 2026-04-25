@@ -41,7 +41,7 @@ The Capilano Review editorial board and is a member of Doryphore Independent Cur
 Society.
 
 Presented by the Audain Faculty of Art at Emily Carr University of Art + Design.
-Link: https://ca01web.zoom.us/j/69349113843
+Link: [https://ca01web.zoom.us/j/69349113843](https://ca01web.zoom.us/j/69349113843)
 Meeting ID: 693 4911 3843
 Password: 929121
-https://www.facebook.com/visualartforums
+[https://www.facebook.com/visualartforums](https://www.facebook.com/visualartforums)

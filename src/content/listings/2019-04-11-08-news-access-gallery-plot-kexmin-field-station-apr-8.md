@@ -52,7 +52,7 @@ and public artist Debra Sparrow, and community-engaged environmental artist Shar
 Kallis, amongst an evolving group of affiliates.
 
 For event details + announcements visit:
-http://www.gordonbrentingram.ca/stillunderwater/
+[http://www.gordonbrentingram.ca/stillunderwater/](http://www.gordonbrentingram.ca/stillunderwater/)
 Contact:
 kexminfieldstation@gmail.com
 778-354-2505

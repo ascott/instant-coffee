@@ -26,7 +26,7 @@ and fostering inclusivity. Apply by January 5th, 2024, and become a key player i
 continued success.
 
 Full job description and application information available at
-https://www.vivomediaarts.com/work-with-vivo
+[https://www.vivomediaarts.com/work-with-vivo](https://www.vivomediaarts.com/work-with-vivo)
 
 05. EDUCATION |
 Sonya Iwasiuk Art Studio | WORKSHOP: Acrylic Skins w/Image Transfer | JAN 27

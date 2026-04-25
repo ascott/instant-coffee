@@ -19,7 +19,7 @@ artistic media that invite diverse perspectives and bring people together to bet
 understand and address public issues.
 
 To register online please visit:
-http://register.cstudies.sfu.ca/listOfferings.action?catalogid=4
+[http://register.cstudies.sfu.ca/listOfferings.action?catalogid=4](http://register.cstudies.sfu.ca/listOfferings.action?catalogid=4)
 For more information, email dialogue-info@sfu.ca or call 7782-782-7925
 
 SCHOLARSHIP OPPORTUNITY
@@ -27,9 +27,9 @@ Additionally, a limited number of scholarships are available for the Certificate
 Dialogue and Civic Engagement. The scholarship provides a maximum of 
 $1,000 off tuition, for full cohort registrants only.
 To apply for a scholarship, please fill in the scholarship 
-form<http://www.sfu.ca/dialog/study+practice/files/Certificate_scholarship_form.
+form<[http://www.sfu.ca/dialog/study+practice/files/Certificate_scholarship_form](http://www.sfu.ca/dialog/study+practice/files/Certificate_scholarship_form).
 pdf> and return it along with your completed application 
-form<http://www.sfu.ca/dialog/study+practice/files/Certificate_app2011.pdf>.
+form<[http://www.sfu.ca/dialog/study+practice/files/Certificate_app2011.pdf](http://www.sfu.ca/dialog/study+practice/files/Certificate_app2011.pdf)>.
 
 The deadline for application is July 29th. Application packages are to be returned 
 to:
@@ -42,11 +42,11 @@ Fax: 778-782-5098<callto:778-782-5098>
 Email: dialogue-info@sfu.ca
 
 For more information about the program, please visit 
-http://www.sfu.ca/civicengagement or contact:
+[http://www.sfu.ca/civicengagement](http://www.sfu.ca/civicengagement) or contact:
 
 Jenn De Roo, Coordinator - Dialogue Programs
 Simon Fraser University
 Tel: 778.782.5179
 Fax: 778.782.5098
 Email: jderoo@sfu.ca
-http://www.sfu.ca/dialogue<http://www.sfu.ca/dialogue/diploma.htm>
+[http://www.sfu.ca/dialogue](http://www.sfu.ca/dialogue)<[http://www.sfu.ca/dialogue/diploma.htm](http://www.sfu.ca/dialogue/diploma.htm)>

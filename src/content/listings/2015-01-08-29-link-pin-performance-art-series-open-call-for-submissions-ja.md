@@ -47,10 +47,10 @@ the work you’re showing could be programmed there, go there.
 Send submissions or questions to: linkandpinperformance@gmail.com with the
 subject line "OPEN CALL 2015"
 
-LINK & PIN: http://cargocollective.com/LINKPIN
-RATS 9: https://www.facebook.com/we.are.rats.9
+LINK & PIN: [http://cargocollective.com/LINKPIN](http://cargocollective.com/LINKPIN)
+RATS 9: [https://www.facebook.com/we.are.rats.9](https://www.facebook.com/we.are.rats.9)
 ONLINE CALL:
-http://cargocollective.com/LINKPIN/CALL-FOR-PROPOSALS-APPEL-DE-PROPOSITIONS
+[http://cargocollective.com/LINKPIN/CALL-FOR-PROPOSALS-APPEL-DE-PROPOSITIONS](http://cargocollective.com/LINKPIN/CALL-FOR-PROPOSALS-APPEL-DE-PROPOSITIONS)
 
 DEADLINE: 20 JANUARY 2015
 ***Note: We encourage local artists to submit as soon as possible since

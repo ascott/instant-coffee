@@ -26,5 +26,5 @@ Or Gallery
 NEW LOCATION!!
 555 Hamilton St. Vancouver, BC, Canada V6B 2R1
 T. +1 604.683.7395 or @ orgallery.org
-http://www.orgallery.org
+[http://www.orgallery.org](http://www.orgallery.org)
 Gallery hours 12 - 5PM Ã&#65533;Â¨Tuesday - Saturday

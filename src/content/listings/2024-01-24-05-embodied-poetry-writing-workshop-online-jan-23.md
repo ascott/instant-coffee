@@ -21,4 +21,4 @@ Subscribers to Instant Coffee can
 get $30 off by using the code InstantCoffee2024 at the
 checkout.
 
-https://9creativelives.com/classes/poetry-writing-workshops/adults/
+[https://9creativelives.com/classes/poetry-writing-workshops/adults/](https://9creativelives.com/classes/poetry-writing-workshops/adults/)

@@ -17,4 +17,4 @@ open studio - there is no instruction and please bring your own materials (we su
 sketchbook and pencil).
 Sorry, we are unable to accommodate drop-ins. Please pre-register and read our FAQ.
 $15
-https://www.mobil-art.ca/event-info/life-drawing-at-mobil-art-school-sept-22
+[https://www.mobil-art.ca/event-info/life-drawing-at-mobil-art-school-sept-22](https://www.mobil-art.ca/event-info/life-drawing-at-mobil-art-school-sept-22)

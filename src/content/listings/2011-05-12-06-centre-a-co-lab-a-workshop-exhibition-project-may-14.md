@@ -85,7 +85,7 @@ Please call 604-683-8326 or email Debra Zhou
 Refreshments will be provided for all workshops.
 
 For information on the other workshops, please go to
-http://centrea.org/index.cfm?
+[http://centrea.org/index.cfm](http://centrea.org/index.cfm)?
 go=site.index&section=exhibitions&tag=upcoming&id=95
 
 

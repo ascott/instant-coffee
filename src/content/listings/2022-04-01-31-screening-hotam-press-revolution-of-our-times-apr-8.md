@@ -34,7 +34,7 @@ Seats: 50
 Ticket: 20 CAD
 
 To purchase tickets:
-https://www.eventbrite.ca/e/film-screening-revolution-of-our-times-
+[https://www.eventbrite.ca/e/film-screening-revolution-of-our-times-](https://www.eventbrite.ca/e/film-screening-revolution-of-our-times-)
 tickets-295626886977?aff=ebdssbdestsearch
 
-Hotam Press Gallery: https://bookshopgallery.hotampress.com
+Hotam Press Gallery: [https://bookshopgallery.hotampress.com](https://bookshopgallery.hotampress.com)

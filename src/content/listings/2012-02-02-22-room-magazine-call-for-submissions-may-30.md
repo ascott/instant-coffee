@@ -12,7 +12,7 @@ Room Magazine CALL FOR SUBMISSIONS for Winter 2012: Deadline May
 30,2012
 
 Room is Canada’s oldest literary journal by, and about women.
-http://www.roommagazine.com/
+[http://www.roommagazine.com/](http://www.roommagazine.com/)
 
 Room is a space where women can speak, connect, and showcase their 
 creativity. Each quarter, for 33 issues, Room has been publishing original, 
@@ -36,7 +36,7 @@ available from our website.)
 Please submit to the attention of Lorrie Miller by May 30, 2012.
 
 For full submission details (how and what to submit), go to our submission page 
-<http://www.roommagazine.com/submit.html
+<[http://www.roommagazine.com/submit.html](http://www.roommagazine.com/submit.html)
 
 ART SUBMISSION INFO: send us you most engaging work. These are not 
 images to illustrate the literature, but submissions of their own standing. Submit 
@@ -48,5 +48,5 @@ submissions should be sent to arteditor@roommagazine.com
 and your last name in the subject line).
 
 Newsroom: to stay current with Room’s calls and events, sign-up for our 
-newsletter <http://www.roommagazine.com/newsletter.html
+newsletter <[http://www.roommagazine.com/newsletter.html](http://www.roommagazine.com/newsletter.html)
 For Queries: <mailto:contactus@roommagazine.com>

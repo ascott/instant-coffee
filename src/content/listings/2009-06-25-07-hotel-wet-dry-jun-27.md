@@ -25,6 +25,6 @@ known as the Plank Gallery) to showcase recent work by twelve of this years’ g
 photography department at Emily Carr. 
 
 Sample photos of the work which will be on display can be viewed at 
-http://wetdryshow.blogspot.com/. For questions, concerns, or to schedule an interview please 
+[http://wetdryshow.blogspot.com/](http://wetdryshow.blogspot.com/). For questions, concerns, or to schedule an interview please 
 contact Samantha Stroman at Samantha.stroman@gmail.com or call 1.604.302.7937
-http://wetdryshow.blogspot.com/
+[http://wetdryshow.blogspot.com/](http://wetdryshow.blogspot.com/)

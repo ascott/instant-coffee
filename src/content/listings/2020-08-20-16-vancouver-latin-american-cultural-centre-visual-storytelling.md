@@ -44,11 +44,11 @@ Foundation for the 6x6 Global Talent Program. The following year, he became a
 National Geographic Explorer Grantee, and his work became part of The 
 National Library of France (BnF) Collection.
 
-Get your tickets on Eventbrite: https://www.eventbrite.ca/e/visual-storytelling-in-
+Get your tickets on Eventbrite: [https://www.eventbrite.ca/e/visual-storytelling-in-](https://www.eventbrite.ca/e/visual-storytelling-in-)
 photography-with-felipe-fittipaldi-tickets-113005572710?aff
 
 Or through FB:
-https://www.facebook.com/vlacc/
+[https://www.facebook.com/vlacc/](https://www.facebook.com/vlacc/)
 
 Or Instagram: 
-https://www.instagram.com/vlacc_ca/
+[https://www.instagram.com/vlacc_ca/](https://www.instagram.com/vlacc_ca/)

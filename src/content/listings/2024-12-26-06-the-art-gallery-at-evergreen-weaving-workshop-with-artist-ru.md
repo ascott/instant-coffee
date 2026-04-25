@@ -17,7 +17,7 @@ weaving workshop on Saturday, January 18, 2025 from 2 p.m. - 4 p.m. Transform
 recycled materials into a work of art as we discuss climate justice and the ways
 materials communicate ideas.
 Free. Registration encouraged. Ages 12+.
-Register here: https://evergreenculturalcentre.my.salesforce-
+Register here: [https://evergreenculturalcentre.my.salesforce-](https://evergreenculturalcentre.my.salesforce-)
 sites.com/ticket/#/events/a0SOK000002Gl9t2AC
 
 About the Artist and Exhibition:
@@ -40,4 +40,4 @@ relationships and the pressing climate crisis.
 co-produced between the Art Gallery at Evergreen and
 the Burnaby Art Gallery, curated by Katherine Dennis and Jennifer Cane.
 
-https://evergreenculturalcentre.ca/exhibit/
+[https://evergreenculturalcentre.ca/exhibit/](https://evergreenculturalcentre.ca/exhibit/)

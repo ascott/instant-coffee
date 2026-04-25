@@ -14,7 +14,7 @@ BC Time-Slip (The Empire Never Ended)
 Final night of the Investigation Bureau: screenings and closing 
 party
 
-https://www.facebook.com/events/1570312369930956/
+[https://www.facebook.com/events/1570312369930956/](https://www.facebook.com/events/1570312369930956/)
 
 Dynamo Arts Association
 Suite 103 - 30 East 6th Ave
@@ -80,5 +80,5 @@ Followed by closing drinks.
 
 For further details about the project see:
 
-http://skullcrackersuite.org/ and 
-http://bctimeslip.skullcrackersuite.org/
+[http://skullcrackersuite.org/](http://skullcrackersuite.org/) and 
+[http://bctimeslip.skullcrackersuite.org/](http://bctimeslip.skullcrackersuite.org/)

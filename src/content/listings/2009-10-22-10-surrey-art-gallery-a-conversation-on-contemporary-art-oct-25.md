@@ -56,4 +56,4 @@ Surrey Art Gallery is at 13750 - 88 Avenue, 1 block east of King George Hwy. in 
 Park., Surrey, BC Phone: 604-501-5566 or www.arts.surrey.ca. Admission to exhibitions in the 
 Gallery and TechLab is by donation.
 
-http://www.arts.surrey.ca.
+[http://www.arts.surrey.ca](http://www.arts.surrey.ca).

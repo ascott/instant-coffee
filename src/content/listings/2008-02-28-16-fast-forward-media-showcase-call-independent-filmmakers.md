@@ -26,10 +26,10 @@ Advanced Education Media Acquisitions Centre
 Langara College
 100 West 49th Ave
 Vancouver, BC  V5Y 2Z6
-http://www.langara.bc.ca/aemac/
+[http://www.langara.bc.ca/aemac/](http://www.langara.bc.ca/aemac/)
 
 w:604-323-5217 f:604-323-5577
 sskene@langara.bc.ca
 Fast Forward Educational Media Showcase
 April 30-May 1, 2008
-http://www.langara.bc.ca/ffwd/
+[http://www.langara.bc.ca/ffwd/](http://www.langara.bc.ca/ffwd/)

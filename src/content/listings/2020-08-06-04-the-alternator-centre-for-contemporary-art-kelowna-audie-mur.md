@@ -24,7 +24,7 @@ what point does tattoo culture at large converge with Indigenous cultures?
 Find the answers to these inquiries and more in the main space from July 31 to
 September 12.
 
-https://www.alternatorcentre.com/events/audie-murray-as-old-as-the-hills
+[https://www.alternatorcentre.com/events/audie-murray-as-old-as-the-hills](https://www.alternatorcentre.com/events/audie-murray-as-old-as-the-hills)
 
 Amanda Wood - Robustness To Uncertainty
 July 31 - September 12
@@ -42,4 +42,4 @@ manipulation of materials in a systematic way.
 
 Robustness To Uncertainty opens Friday, July 31 and runs until September 12.
 
-https://www.alternatorcentre.com/events/amandawood
+[https://www.alternatorcentre.com/events/amandawood](https://www.alternatorcentre.com/events/amandawood)

@@ -13,7 +13,7 @@ Field Trip
 Sat, 25 Oct 2014 11:00 AM – 9:00 PM
 Meeting place: Audain Gallery, 149 West Hastings St. - 11:00am
 $10.00 buy tickets here:
-https://www.eventbrite.ca/e/field-trip-tickets-13419731779
+[https://www.eventbrite.ca/e/field-trip-tickets-13419731779](https://www.eventbrite.ca/e/field-trip-tickets-13419731779)
 
 Field Trip is an invitation to explore the art that lies beyond Vancouver’s
 borders by creating a convenient transportation option to shuttle art

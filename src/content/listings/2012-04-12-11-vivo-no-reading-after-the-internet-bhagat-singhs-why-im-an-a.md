@@ -63,7 +63,7 @@ participation in the murder, aged 23.
 ---
 
 Bhagat Singh's Why I am an Atheist will be facilitated by Am Johal. Download 
-Reading: http://www.marxists.org/archive/bhagat-singh/1930/10/05.htm
+Reading: [http://www.marxists.org/archive/bhagat-singh/1930/10/05.htm](http://www.marxists.org/archive/bhagat-singh/1930/10/05.htm)
 
 Am Johal is an independent Vancouver writer whose work has appeared in 
 Seven Oaks Magazine, ZNet, Georgia Straight, Electronic Intifada, Arena 

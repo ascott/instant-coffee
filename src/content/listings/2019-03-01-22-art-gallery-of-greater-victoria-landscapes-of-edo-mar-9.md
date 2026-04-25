@@ -53,6 +53,6 @@ Barry Till from Nov. 17 to Dec. 1. Timed for the peak of Southern
 Japans fall colours, the tour will visit ancient and modern Japanese art 
 museums, Buddhist temples, Shinto shrines, traditional gardens, 
 villages and historic pottery towns. For more information visit: 
-https://aggv.ca/art-tours/cjapan/
+[https://aggv.ca/art-tours/cjapan/](https://aggv.ca/art-tours/cjapan/)
 
 For more information visit aggv.ca

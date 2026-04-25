@@ -22,4 +22,4 @@ tracing the habits of our inner processes of recollection, which condense, displ
 plunge abruptly into forgotten recesses of our past. 
 
 This exhibition is presented as part of Capture Photography Festival. 
-http://capturephotofest.com/exhibitions/i-only-know-you-in-6-green-letter-words/
+[http://capturephotofest.com/exhibitions/i-only-know-you-in-6-green-letter-words/](http://capturephotofest.com/exhibitions/i-only-know-you-in-6-green-letter-words/)

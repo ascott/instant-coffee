@@ -18,7 +18,7 @@ Temporary full-time position
 
 $17.00 per hour
 
-View job details here: https://www.missionmuseum.com/employment-opportunities/
+View job details here: [https://www.missionmuseum.com/employment-opportunities/](https://www.missionmuseum.com/employment-opportunities/)
 
 The Mission District Historical Society is seeking a Museum Education Officer for the
 Mission Museum. The Museum Education Officer will be responsible for conceptual

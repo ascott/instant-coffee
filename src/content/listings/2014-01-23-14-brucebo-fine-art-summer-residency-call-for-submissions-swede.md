@@ -54,7 +54,7 @@ emerging artists)
 
 Deadline for applications: January 31, 2014. See the application 
 guidelines and download the application form here: 
-http://bruceboscholarships.com/index.php/application
+[http://bruceboscholarships.com/index.php/application](http://bruceboscholarships.com/index.php/application)
 
 For more info on the BFAS Scholarships, Gotland, the studio cottage 
 and the Caroline Benedicks - William Blair Bruce story, visit the BFAS 

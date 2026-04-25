@@ -37,4 +37,4 @@ Admission is free.
 
 Charles H. Scott Gallery
 Emily Carr Institute, 1399 Johnston Street, Vancouver, BC, phone
-604.844.3809 http://chscottgallery.eciad.ca
+604.844.3809 [http://chscottgallery.eciad.ca](http://chscottgallery.eciad.ca)

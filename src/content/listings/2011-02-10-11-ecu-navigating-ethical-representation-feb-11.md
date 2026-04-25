@@ -41,4 +41,4 @@ beneficial partnerships with both non-profit organizations and industry,
 and to develop innovative curriculum that facilitates students laddering
 into BC communities and industry after graduation.
 
-http://www.ecuad.ca/faculties/culture_and_community
+[http://www.ecuad.ca/faculties/culture_and_community](http://www.ecuad.ca/faculties/culture_and_community)

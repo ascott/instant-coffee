@@ -27,8 +27,8 @@ and questions of diasporic and postcolonial Filipino identities and practices.
 Presented in partnership with the Cinematheque.
 
 Click here for tickets to the 6:30 PM screening of Four Films by Miko Revereza:
-https://thecinematheque.ca/films/2024/miko-revereza
+[https://thecinematheque.ca/films/2024/miko-revereza](https://thecinematheque.ca/films/2024/miko-revereza)
 
 Click here for tickets to the 8:00 PM screening of Balikbayan #1 Memories of
 Overdevelopment Redux III by Kidlat Tahimik:
-https://thecinematheque.ca/films/2024/balikbayan
+[https://thecinematheque.ca/films/2024/balikbayan](https://thecinematheque.ca/films/2024/balikbayan)

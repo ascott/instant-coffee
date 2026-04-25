@@ -24,12 +24,12 @@ interpretations, understandings and possibilities.
 A line starts everything in this simple process.
 
 more information:
-http://221a.ca/?p=684
-http://jojifukushima.com/index.php?/project/halving/
+[http://221a.ca/?p=684](http://221a.ca/?p=684)
+[http://jojifukushima.com/index.php?/project/halving/](http://jojifukushima.com/index.php?/project/halving/)
 
 221A Artist Run Centre
 221E. GEORGIA ST. UNIT 100 (AT MAIN)
 VANCOUVER, BC. CANADA V6A 1Z6
 T: 604 568 0812
 E: hello@221a.ca
-W: http://221a.ca
+W: [http://221a.ca](http://221a.ca)

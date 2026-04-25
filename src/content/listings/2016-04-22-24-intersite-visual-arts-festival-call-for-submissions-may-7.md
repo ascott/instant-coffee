@@ -26,4 +26,4 @@ actively engages unsuspecting audiences in the public sphere. IVAF
 seeks to create a supportive and receptive climate to foster the 
 development and innovative presentation of contemporary art.
 
-http://intersite.tumblr.com/
+[http://intersite.tumblr.com/](http://intersite.tumblr.com/)

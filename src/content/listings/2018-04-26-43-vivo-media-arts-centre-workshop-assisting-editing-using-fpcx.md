@@ -10,7 +10,7 @@ summary: "VIVO Media Arts Centre | WORKSHOP | Assisting Editing using FPCX | MAY
 
 Assistant Editing using FPCX
 
-SIGN UP & MORE INFO: https://assistant-editing.eventbrite.ca
+SIGN UP & MORE INFO: [https://assistant-editing.eventbrite.ca](https://assistant-editing.eventbrite.ca)
 
 Allow the best version of your story to come through by prepping your project files 
 and workflow with assistant editor Clark Henderson! 
@@ -48,4 +48,4 @@ Learn how to keep your project organized early on, avoid the mess, and let your
 creative process run free! 
 
 One extended subsidy is available for this workshop:
-https://goo.gl/forms/nBIpSWNCmxTFlhgu1
+[https://goo.gl/forms/nBIpSWNCmxTFlhgu1](https://goo.gl/forms/nBIpSWNCmxTFlhgu1)

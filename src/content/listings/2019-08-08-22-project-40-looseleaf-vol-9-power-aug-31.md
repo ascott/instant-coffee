@@ -29,4 +29,4 @@ Please label submissions with your name, submission genre, type and volume:
 YourName " Genre " Print/Online " Volume 9 and send to 
 submissions@looseleafmagazine.ca
 
-Find more details here: http://looseleafmagazine.ca/submissions/
+Find more details here: [http://looseleafmagazine.ca/submissions/](http://looseleafmagazine.ca/submissions/)

@@ -17,7 +17,7 @@ Registration: $15
 Register by emailing alissafe@gmail.com or johan.lundh2@gmail.com
 
 For details:
-http://cornershopprojects.com/projects/alissa-and-johans-grant-writing-primer
+[http://cornershopprojects.com/projects/alissa-and-johans-grant-writing-primer](http://cornershopprojects.com/projects/alissa-and-johans-grant-writing-primer)
 
 *Sunday, March 30, 4 to 6 pm (opening)
 "Community Work" 

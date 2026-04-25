@@ -14,7 +14,7 @@ West Vancouver Museum
 
 604-925-7295
 
-http://westvancouvermuseum.ca/
+[http://westvancouvermuseum.ca/](http://westvancouvermuseum.ca/)
 
 Selwyn Pullan
 PHOTOGRAPHING MID-CENTURY WEST COAST MODERNISM

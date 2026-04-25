@@ -48,4 +48,4 @@ spirit of pure
 expression in the moment always brings him back to his love of
 improvisation.
 
-https://fortevilfruit.bandcamp.com/album/s-z
+[https://fortevilfruit.bandcamp.com/album/s-z](https://fortevilfruit.bandcamp.com/album/s-z)

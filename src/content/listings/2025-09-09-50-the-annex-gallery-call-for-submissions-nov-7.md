@@ -43,4 +43,4 @@ Please email complete submissions to galleria@richmondartgallery.org with the
 subject line Annex Submission 2026. If you need assistance or any
 accommodations, please dont hesitate to reach out via email.
 
-https://www.richmondartgallery.org/annex-submission
+[https://www.richmondartgallery.org/annex-submission](https://www.richmondartgallery.org/annex-submission)

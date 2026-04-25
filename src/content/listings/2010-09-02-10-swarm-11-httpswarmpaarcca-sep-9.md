@@ -11,4 +11,4 @@ summary: "SWARM 11 | http://swarm.paarc.ca/ | SEP 9"
 Swarm is an annual festival of artist run culture organized by the Pacific
 Association of Artist Run Centres see website for details.
 
-http://swarm.paarc.ca/
+[http://swarm.paarc.ca/](http://swarm.paarc.ca/)

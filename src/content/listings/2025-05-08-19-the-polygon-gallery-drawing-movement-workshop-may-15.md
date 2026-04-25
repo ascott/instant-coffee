@@ -35,6 +35,6 @@ Doors at 6:30pm
 Workshop at 7:00pm
 Admission is by a suggested donation of $10-$20, courtesy of BMO Financial Group
 RSVP is required
-RSVP Here: https://thepolygon.ca/event/embodied-generations-drawing-movement-
+RSVP Here: [https://thepolygon.ca/event/embodied-generations-drawing-movement-](https://thepolygon.ca/event/embodied-generations-drawing-movement-)
 workshop-with-odera-igbokwe/
 Space is limited

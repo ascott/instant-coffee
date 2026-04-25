@@ -68,7 +68,7 @@ Individuals not directly participating in the dance-a-thon are also welcome
 to attend and show their support! 100% of the proceeds from this event
 will help support the Or Gallery and its programming.
 
-For more information and to register visit: http://www.orgallery.org/dance
+For more information and to register visit: [http://www.orgallery.org/dance](http://www.orgallery.org/dance)
 
 Interested in volunteering? Contact the Or at or@orgallery.org or call
 604.683.7395.

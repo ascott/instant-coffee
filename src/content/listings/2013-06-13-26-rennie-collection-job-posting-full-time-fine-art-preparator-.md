@@ -13,7 +13,7 @@ collection in Canada. We maintain a privately funded museum that is open to
 the public. We are currently seeking an experienced full-time fine art
 preparator to assist with collection and museum exhibition preparations.
 
-http://www.allianceforarts.com/job-board/fine-art-preparator-0
+[http://www.allianceforarts.com/job-board/fine-art-preparator-0](http://www.allianceforarts.com/job-board/fine-art-preparator-0)
 
 Contact Information
 Name:
@@ -21,7 +21,7 @@ Rennie Collection
 Email Address:
 hr@renniecollection.org
 Website:
-http://www.renniecollection.org
+[http://www.renniecollection.org](http://www.renniecollection.org)
 
 Trades
 contemporary

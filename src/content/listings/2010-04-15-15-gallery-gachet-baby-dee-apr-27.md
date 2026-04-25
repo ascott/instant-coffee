@@ -58,7 +58,7 @@ Don't miss this incredible opportunity to see Baby Dee perform live in a small v
 tickets are sure to sell out.
 
 $16 advance and $20 at the door. Purchase tickets here:
-http://gachetpresentsbabydee.eventbrite.com/
+[http://gachetpresentsbabydee.eventbrite.com/](http://gachetpresentsbabydee.eventbrite.com/)
 or available at Little Sisters, High Life and Zulu Records.
 
 For media requests: contact Lara Fitzgerald

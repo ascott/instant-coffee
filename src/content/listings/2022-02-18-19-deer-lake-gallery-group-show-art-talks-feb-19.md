@@ -28,4 +28,4 @@ Deer Lake Gallery
 
 Burnaby, BC
 
-https://burnabyartscouncil.org/
+[https://burnabyartscouncil.org/](https://burnabyartscouncil.org/)

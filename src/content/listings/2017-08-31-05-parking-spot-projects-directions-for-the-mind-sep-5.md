@@ -33,4 +33,4 @@ Parking Spot Projects
 
 On September 5th, the artist will be playing in the space alone.
 
-http://prohibitivegenuscollective.com/portfolio/directions-for-the-mind/e
+[http://prohibitivegenuscollective.com/portfolio/directions-for-the-mind/e](http://prohibitivegenuscollective.com/portfolio/directions-for-the-mind/e)

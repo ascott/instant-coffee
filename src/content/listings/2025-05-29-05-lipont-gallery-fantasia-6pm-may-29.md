@@ -11,10 +11,10 @@ summary: "Lipont Gallery | FANTASIA | 6PM | MAY 29"
 Lipont Gallery presents " FANTASIA " Paintings by Maggie Dong and Grace Tao
 
 Opening Reception: May 29, 2025, 6-8pm
-https://openingfantasia.eventbrite.ca
+[https://openingfantasia.eventbrite.ca](https://openingfantasia.eventbrite.ca)
 
 Coffee Talk and Meeting the Artists: June 11, 2025 11am-12pm
-https://meetfantasia.eventbrite.ca
+[https://meetfantasia.eventbrite.ca](https://meetfantasia.eventbrite.ca)
 
 Exhibition: May 29 - June 19, 2025 by appointment at www.lipontgallery.ca
 

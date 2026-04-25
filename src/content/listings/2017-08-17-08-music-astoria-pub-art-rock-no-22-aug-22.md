@@ -11,9 +11,9 @@ summary: "MUSIC | Astoria Pub | art rock? no. 22 | AUG 22"
 art rock? no. 22
 featuring:
 
-ATLANTEANS: https://atlanteans.bandcamp.com/album/fat-stacks-ep
-SMOKER: https://youtu.be/gmpDzPJTvts
-PUZZLEHEAD (solo set): https://deathtopuzzlehead.bandcamp.com/
+ATLANTEANS: [https://atlanteans.bandcamp.com/album/fat-stacks-ep](https://atlanteans.bandcamp.com/album/fat-stacks-ep)
+SMOKER: [https://youtu.be/gmpDzPJTvts](https://youtu.be/gmpDzPJTvts)
+PUZZLEHEAD (solo set): [https://deathtopuzzlehead.bandcamp.com/](https://deathtopuzzlehead.bandcamp.com/)
 +
 DJ NoraWear
 .

@@ -17,7 +17,7 @@ UBC Department of Art History, Visual Art and Theory
 This event is free and open to the public.
 
 Please register for the talk at
-https://ubc.zoom.us/webinar/register/WN_SJS1TlaJTQiVXK9sOWMu2Q
+[https://ubc.zoom.us/webinar/register/WN_SJS1TlaJTQiVXK9sOWMu2Q](https://ubc.zoom.us/webinar/register/WN_SJS1TlaJTQiVXK9sOWMu2Q)
 
 Webinar Registration - Zoom
 ubc.zoom.us

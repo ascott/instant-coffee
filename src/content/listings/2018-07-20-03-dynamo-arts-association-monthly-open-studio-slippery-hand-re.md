@@ -73,7 +73,7 @@ MONTHLY OPEN STUDIOS utilize the VABF Studio to create a platform for
 artists' and publishers working in or at an intersection with artists'
 publishing. Help us create this space for artists' to present and
 self-direct the presentation of their work by BECOMING A MEMBER:
-http://www.vancouverartbookfair.com/membership
+[http://www.vancouverartbookfair.com/membership](http://www.vancouverartbookfair.com/membership)
 
 Monthly Open Studio events are hosted at the VABF Studio every third
 Thursday of the month. Edition V1.08 was curated by YiFan Jiang and

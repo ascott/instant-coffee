@@ -8,7 +8,7 @@ venue: "Gallery Gachet"
 summary: "Gallery Gachet | Hot One Inch Action | OCT 23"
 ---
 
-http://www.hotoneinchaction.com/About.html
+[http://www.hotoneinchaction.com/About.html](http://www.hotoneinchaction.com/About.html)
 
 Hot One Inch Action is the original, one-night only show of button art,
 music and social interaction in Vancouver, BC. The original work of fifty

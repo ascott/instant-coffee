@@ -27,7 +27,7 @@ are paid to artists semi-annually. There is a $15 flat fee to make a submission,
 accepted into the programme there is an additional fee for annual membership.
 
 Apply online at
-https://northvanarts.ca/events-exhibitions/art-rental-2025-call-for-artists/
+[https://northvanarts.ca/events-exhibitions/art-rental-2025-call-for-artists/](https://northvanarts.ca/events-exhibitions/art-rental-2025-call-for-artists/)
 
 Email: artrental@northvanarts.ca
 

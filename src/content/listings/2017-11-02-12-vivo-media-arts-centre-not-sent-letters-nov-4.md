@@ -34,7 +34,7 @@ Jeremy Todd instigates each event as an extension of his ongoing Not Sent Letter
 project, an entanglement with the production of meaning, self and cultural memory, 
 involving image/text epistolary detours online (since 2005), digital shorts, 
 interdisciplinary performance works and cooperatively realized public events:
-http://notsentlettersproject.com
+[http://notsentlettersproject.com](http://notsentlettersproject.com)
 
 This is the twenty-third NOT SENT LETTERS & GUESTS event.
 
@@ -77,7 +77,7 @@ project archive by TRACEY VATH (To Instant Ramen Noodles), LOIS KLASSEN (To
 The Creative Classes) & KATE BARRY (To The Invisible Woman).
 
 Explore previous NOT SENT LETTERS & GUESTS events here:
-http://notsentlettersproject.com/category/events
+[http://notsentlettersproject.com/category/events](http://notsentlettersproject.com/category/events)
 
 Please email Jeremy Todd to host or contribute to a future NSL&G event:
 jeremygordontodd@gmail.com

@@ -49,7 +49,7 @@ teams of diverse backgrounds and skillsets.
 Sign me up! The one-week registration window opens on Monday, March 18 and
 closes on Saturday, March 23. To register, first prepare your team name, a one-
 sentence team background, and the names and emails of your 6-10 teammates.
-Then follow the registration link at http://nGames.ca beginning at 3pm on March 18.
+Then follow the registration link at [http://nGames.ca](http://nGames.ca) beginning at 3pm on March 18.
 
 There will be some possibility for teams to adopt drop-in players and passersby on
 tournament day.
@@ -58,7 +58,7 @@ Im in! When is this awesome event? Saturday, April 6, 2024, 11am-4pm
 
 Where do I go? Robson Square Rink (below street level), Downtown Vancouver
 
-Where can I get more info? http://nGames.ca and Instagram @ngamesyvr
+Where can I get more info? [http://nGames.ca](http://nGames.ca) and Instagram @ngamesyvr
 
 Who is responsible for this? The n Games are organized by Simon Fraser
 University Environments II students, led by Assistant Professor James Long and

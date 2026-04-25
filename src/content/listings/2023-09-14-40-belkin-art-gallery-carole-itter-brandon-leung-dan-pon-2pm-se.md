@@ -63,4 +63,4 @@ imaginative models at the intersection of visual arts and information science. P
 the archives manager at grunt gallery where he works to preserve and activate
 material and non-material culture. He is also a librarian at Langara College.
 
-https://belkin.ubc.ca/events/carole-itter-archival-conversation/
+[https://belkin.ubc.ca/events/carole-itter-archival-conversation/](https://belkin.ubc.ca/events/carole-itter-archival-conversation/)

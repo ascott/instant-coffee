@@ -24,7 +24,7 @@ Victoria.
 Our screening dates in Vancouver are May 20 (7:30pm) and 27 (6:30pm and 
 9:30pm) at the Rio Theatre (1660 East Broadway), and we have a full list of 
 screening dates and online ticket information available on our website 
-http://spacesfilm.
+[http://spacesfilm](http://spacesfilm).
 
 QUICK LINKS TO THE FILM:
 Film website.

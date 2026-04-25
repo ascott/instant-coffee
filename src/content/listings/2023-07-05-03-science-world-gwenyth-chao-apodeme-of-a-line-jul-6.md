@@ -27,7 +27,7 @@ endeavours " will we think with in our near futures?
 apodeme of a line is on view at Science World from July 5-October 30.
 
 Workshop:
-https://www.eventbrite.ca/e/biomaterial-experiments-vegetable-frond-
+[https://www.eventbrite.ca/e/biomaterial-experiments-vegetable-frond-](https://www.eventbrite.ca/e/biomaterial-experiments-vegetable-frond-)
 paper-making-with-gwenyth-chao-tickets-669066093697
 
 Artist Biography

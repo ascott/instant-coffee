@@ -136,7 +136,7 @@ the various social and environmental aberrations which preoccupy the two artists
 investigate and transform the urban landscape and restore the citizen’s place in the public realm, 
 depicting it as a political space open to discussion and societal debates. ATSA promotes an 
 open, active and responsible vision of artists as citizens contributing to the sustainable 
-development of their society. (http://www.atsa.qc.ca/pages/home.asp)
+development of their society. ([http://www.atsa.qc.ca/pages/home.asp](http://www.atsa.qc.ca/pages/home.asp))
 
 If you are interested or for more information contact:
 Demian Petryshyn

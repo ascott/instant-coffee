@@ -15,7 +15,7 @@ creative practice by organizing your agreements and finances, with the
 help of artist Stuart Ward.
 
 SIGN UP & MORE INFO:
-https://freelance-admin.eventbrite.ca
+[https://freelance-admin.eventbrite.ca](https://freelance-admin.eventbrite.ca)
 
 6 hours total over 2 sessions, online // $42, or $30 with any VIVO Producer
 Membership

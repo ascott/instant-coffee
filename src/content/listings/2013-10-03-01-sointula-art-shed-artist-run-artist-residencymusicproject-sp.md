@@ -25,4 +25,4 @@ music show in Sointula, working on a project to be shown in our shed, or
 all of the above. We're at: www.sointulaartshed.ca and can be emailed 
 at: sointulaartshed@gmail.com. You can also see photos of what we've 
 been up to on our facebook page, here: 
-https://www.facebook.com/TheSointulaArtShed
+[https://www.facebook.com/TheSointulaArtShed](https://www.facebook.com/TheSointulaArtShed)

@@ -17,6 +17,6 @@ talk explores the ways in which Palestinian resistance factions have utilized mu
 combination with other communicative strategies to chronicle the history of their
 struggle.
 
-Register: https://alawdavancouver.com/gaza-remains
+Register: [https://alawdavancouver.com/gaza-remains](https://alawdavancouver.com/gaza-remains)
 
 Exhibition Hours (Free Entry): May 17-19 | 11:00AM- 5:00PM

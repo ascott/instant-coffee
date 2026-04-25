@@ -39,6 +39,6 @@ Light refreshments provided
 Hours Mon- Fri " 5 to 8 PM - Morning available upon request
 Venue Nana Home Gallery / 204 -1685 13th Ave W " Vancouver
 Mail nanahomegallery@gmail.com
-Web http://alicegrassi.com/nanahg
+Web [http://alicegrassi.com/nanahg](http://alicegrassi.com/nanahg)
 Facebook Nana Home Gallery
 Instagram Nanahomegallery

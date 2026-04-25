@@ -26,7 +26,7 @@ Council is a dynamic, highly-respected national agency with a mandate to
 promote the study and enjoyment of, and production of works in, the arts.
 We offer competitive salaries and benefit package. For more information
 about the Canada Council for the Arts, please visit our website at
-www.canadacouncil.ca <http://www.canadacouncil.ca> .
+www.canadacouncil.ca <[http://www.canadacouncil.ca](http://www.canadacouncil.ca)> .
 
 About the role
 Under the direct supervision of the Head, Arts Services Unit, responsible
@@ -64,7 +64,7 @@ The incumbent is not required to travel.
 
 How to apply
 Send the completed Application for Employment form
-<http://www.canadacouncil.ca/aboutus/employment/rr127237563301718750.htm>
+<[http://www.canadacouncil.ca/aboutus/employment/rr127237563301718750.htm](http://www.canadacouncil.ca/aboutus/employment/rr127237563301718750.htm)>
 quoting the competition number listed above and a copy of your resume to
 the attention of Jo Ann Hubbell, Human Resources, by either:
 

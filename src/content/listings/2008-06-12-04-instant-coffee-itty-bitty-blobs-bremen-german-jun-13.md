@@ -23,9 +23,9 @@ offset the ominous day and night
 
 jin@instantcoffee.org
 
-www.instantcoffee.org <http://www.instantcoffee.org/> 
+www.instantcoffee.org <[http://www.instantcoffee.org/](http://www.instantcoffee.org/)> 
 
 +49 (0)176 7621 8141
 
 
-http://www.instantcoffee.org
+[http://www.instantcoffee.org](http://www.instantcoffee.org)

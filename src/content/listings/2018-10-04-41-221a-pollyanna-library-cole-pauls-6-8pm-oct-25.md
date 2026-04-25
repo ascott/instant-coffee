@@ -16,7 +16,7 @@ In this talk, Pauls will discuss Indigenous futurisms and his comic Dakwkda
 Warriors, a language revival series about two Southern Tutchone earth protectors 
 saving the earth from evil pioneers and cyborg sasquatches.
 
-http://polly-anna.ca/activity/cole-pauls-artist-talk
+[http://polly-anna.ca/activity/cole-pauls-artist-talk](http://polly-anna.ca/activity/cole-pauls-artist-talk)
 
 Cole Pauls is a Tahltan First Nation comic artist, illustrator, and printmaker hailing 
 from Haines Junction, Yukon Territory. Pauls is currently working on two comic 
@@ -29,7 +29,7 @@ Comix for Community Solidarity is a social infrastructure program developed by
 together artists, their institutions, and communities of struggle to build solidarity 
 through collaborative publishing.
 
-http://221a.ca/comix-for-community-solidarity
+[http://221a.ca/comix-for-community-solidarity](http://221a.ca/comix-for-community-solidarity)
 
 ---
 

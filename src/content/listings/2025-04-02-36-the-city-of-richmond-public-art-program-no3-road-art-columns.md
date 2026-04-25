@@ -33,7 +33,7 @@ Eligibility: Artists residing in Richmond
 Deadline: Thursday, May 22, 2025
 
 For more information and to apply:
-https://www.richmond.ca/culture/howartworks/publicart/artist-calls.htm
+[https://www.richmond.ca/culture/howartworks/publicart/artist-calls.htm](https://www.richmond.ca/culture/howartworks/publicart/artist-calls.htm)
 
 
 
@@ -51,7 +51,7 @@ AVAILABLE, Semi-private and up to 310sqft, WORK ONLY, 8am-8pm Mon-Sun,
 COMMUNITY ORIENTED, for Visual Artists willing to work in a dynamic and
 collaborative bilingual environment.
 
-Application: https://www.alliancefrancaise.ca/en/community/artists-studios/
+Application: [https://www.alliancefrancaise.ca/en/community/artists-studios/](https://www.alliancefrancaise.ca/en/community/artists-studios/)
 
 2.
 Studio 580 | art studio space

@@ -47,4 +47,4 @@ given away to honor those who witness important life events.
 Free with museum admission
 
 Learn more:
-http://moa.ubc.ca/programs
+[http://moa.ubc.ca/programs](http://moa.ubc.ca/programs)

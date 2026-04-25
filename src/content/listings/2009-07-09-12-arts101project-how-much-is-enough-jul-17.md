@@ -37,4 +37,4 @@ The opening is Friday, July 17th, 6-9 p.m., and we're there Saturday the 18th an
 19th from 12-5 p.m., so please 
 come by, see the work, & meet the youth and mentors.
 
-http://www.arts101project.ca
+[http://www.arts101project.ca](http://www.arts101project.ca)

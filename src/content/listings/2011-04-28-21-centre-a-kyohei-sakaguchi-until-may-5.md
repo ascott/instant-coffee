@@ -18,7 +18,7 @@ In conjunction with the Centre A 12th Anniversary Fundraising Gala
 Exhibition: April 21 ¨C May 5, 2011
 Artist Talk & Film Screening: Thursday, April 21, 6 ¨C 8 pm
 ¡°From 0 Yen House to House at Ground £¤0 ¡±
-Artist talk live streaming: http://www.ustream.tv/channel/kyohei-
+Artist talk live streaming: [http://www.ustream.tv/channel/kyohei-](http://www.ustream.tv/channel/kyohei-)
 sakaguchi-artist-talk
 Opening Reception: April 21, 8 pm
 *the gallery is closed from April 22 ¨C 25 for the Easter Holiday

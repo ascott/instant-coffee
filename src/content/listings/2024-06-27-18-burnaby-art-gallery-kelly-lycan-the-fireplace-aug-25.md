@@ -44,7 +44,7 @@ SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.
 Wordpress helper/gig work
 Looking for an arty Wordpress helper/gig work with room for growth
-https://danevad.com please respond to danevad@danevad.com with a little bit about
+[https://danevad.com](https://danevad.com) please respond to danevad@danevad.com with a little bit about
 yourself.
 
 

@@ -10,7 +10,7 @@ summary: "Vancouver Board of Parks and Recreation | call: Artists in Communities
 
 Call for Applications for Environmental Artists and Performing Artists for the Park 
 Board Artists in Community Program
-http://vancouver.ca/parks/arts/air.htm
+[http://vancouver.ca/parks/arts/air.htm](http://vancouver.ca/parks/arts/air.htm)
 
 The purpose of the Artists in Communities Program is to support artists working 
 with communities on issues of joint interest or concern. This program is based 
@@ -19,7 +19,7 @@ variety of interactions between artists and community members.
 
 Deadline for Proposals for both programs: Thursday, October 13, 2011 at 4pm.
 For details about the program including application forms and community 
-profiles go to http://vancouver.ca/parks/arts/air.htm
+profiles go to [http://vancouver.ca/parks/arts/air.htm](http://vancouver.ca/parks/arts/air.htm)
 
 Environmental Artists program will be held at Renfrew Park and Trout Lake 
 Community Centres
@@ -29,4 +29,4 @@ Performing Artists program will be held at Kensington Community Centre.
 Danita Noyes, Arts Programmer
 Arts & Culture Office, Vancouver Board of Parks and Recreation
 (604) 257-8496 danita.noyes@vancouver.ca
-http://vancouver.ca/parks/arts/index.htm
+[http://vancouver.ca/parks/arts/index.htm](http://vancouver.ca/parks/arts/index.htm)

@@ -21,9 +21,9 @@ food or drinks.
 Performances begin at sunset and end at astronomical dusk.
 
 Register here:
-https://www.eventbrite.com/e/satellite-tickets-1424757350589?aff=oddtdtcreator
+[https://www.eventbrite.com/e/satellite-tickets-1424757350589?aff=oddtdtcreator](https://www.eventbrite.com/e/satellite-tickets-1424757350589?aff=oddtdtcreator)
 
 Website:
-https://patchbayfieldhouse.ca/satellite/
+[https://patchbayfieldhouse.ca/satellite/](https://patchbayfieldhouse.ca/satellite/)
 
 Instagram

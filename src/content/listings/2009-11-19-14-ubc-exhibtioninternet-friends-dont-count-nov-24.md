@@ -75,4 +75,4 @@ material come together.
 As explorations of personal proximity in relation to the Internet, your
 online friends are exercises in catharsis and social stigma.
 
-More information: 604 822 4563 or http://www.ahva.ubc.ca/
+More information: 604 822 4563 or [http://www.ahva.ubc.ca/](http://www.ahva.ubc.ca/)

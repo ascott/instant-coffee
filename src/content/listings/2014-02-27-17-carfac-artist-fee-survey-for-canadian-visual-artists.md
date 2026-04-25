@@ -31,7 +31,7 @@ fees for copyright and professional services for visual and media artists
 since 1968, and our fees are negotiated and updated regularly. All fees are 
 voted on by our members on a yearly basis. 
 
-Complete the survey: http://svy.mk/N7SgKh
+Complete the survey: [http://svy.mk/N7SgKh](http://svy.mk/N7SgKh)
 
 Sondage sur la rémunération des artistes canadiens en arts visuels
 
@@ -61,4 +61,4 @@ services professionnels pour des artistes en arts visuels et en arts
 médiatiques; nous négocions et actualisons nos tarifs régulièrement. Nos 
 membres sont appelés à voter sur tous ces tarifs une fois par an. 
 
-Sondage : http://svy.mk/NzHrQZ
+Sondage : [http://svy.mk/NzHrQZ](http://svy.mk/NzHrQZ)

@@ -31,4 +31,4 @@ Light refreshments will be served. The tour will be approximately 30 minutes;
 remarks will take place at 6 p.m. This event is wheelchair accessible. Pay parking
 available on-site, easy access from Lafarge Lake-Douglas College Skytrain Station.
 
-https://evergreenculturalcentre.ca/exhibit/
+[https://evergreenculturalcentre.ca/exhibit/](https://evergreenculturalcentre.ca/exhibit/)

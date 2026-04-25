@@ -22,8 +22,8 @@ us envision the possible futures of post-secondary education in BC. Our goal in 
 work is to have students, educators, media and local leaders consider the students' creative 
 work exploring their stories, challenges, and growth through education.
 
-RSVP: https://www.facebook.com/events/291459824604124/
-RSVP: https://www.eventbrite.ca/e/future-of-education-project-launch-party-and-exhibition-
+RSVP: [https://www.facebook.com/events/291459824604124/](https://www.facebook.com/events/291459824604124/)
+RSVP: [https://www.eventbrite.ca/e/future-of-education-project-launch-party-and-exhibition-](https://www.eventbrite.ca/e/future-of-education-project-launch-party-and-exhibition-)
 opening-tickets-32312942882
 
 Please share your thoughts, photos and videos using the hashtag #FutureOfEducation.
@@ -54,4 +54,4 @@ The 10 Individuals/Groups who will be exhibiting their work include:
 - Jen O'Connor "Guide"
 
 For more information:
-http://futureofeducation.ecufa.ca/
+[http://futureofeducation.ecufa.ca/](http://futureofeducation.ecufa.ca/)

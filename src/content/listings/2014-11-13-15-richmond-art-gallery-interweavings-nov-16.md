@@ -75,4 +75,4 @@ www.richmondartgallery.org
 Richmond BC V6Y 1R9
 Tel: 604.247.8300
 Email: gallery@richmond.ca
-http://www.richmondartgallery.org
+[http://www.richmondartgallery.org](http://www.richmondartgallery.org)

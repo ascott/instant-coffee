@@ -20,7 +20,7 @@ a day.
 The budget for this commission is $250,000 inclusive of all costs.
 Credentials and a letter of interest are due no later than 2:00 pm PST,
 Monday, December 14, 2009. For more information, please see
-http://vancouver.ca/commsvcs/oca/publicart/artistopp.htm under Hillcrest
+[http://vancouver.ca/commsvcs/oca/publicart/artistopp.htm](http://vancouver.ca/commsvcs/oca/publicart/artistopp.htm) under Hillcrest
 Public Art.
 
 This call is part of the City of Vancouver’s Olympic and Paralympic Public

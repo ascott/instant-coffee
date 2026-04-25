@@ -36,7 +36,7 @@ All ages welcome to
 drop in to play at Edmonds Park near the FLEET studio
 between 2pm and 5pm on Sunday August 11.
 
-Find out more about League at http://league-league.org.
+Find out more about League at [http://league-league.org](http://league-league.org).
 
 What is FLEET?
 

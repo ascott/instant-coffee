@@ -17,7 +17,7 @@ Doors at 6pm
 Collage party begins at 6:30pm
 RSVPs are helpful
 
-RSVP Here: https://thepolygon.ca/event/collage-party-with-jay-cabalu/
+RSVP Here: [https://thepolygon.ca/event/collage-party-with-jay-cabalu/](https://thepolygon.ca/event/collage-party-with-jay-cabalu/)
 
 About Jay Cabalu
 

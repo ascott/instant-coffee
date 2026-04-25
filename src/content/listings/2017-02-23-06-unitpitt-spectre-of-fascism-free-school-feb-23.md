@@ -16,7 +16,7 @@ These events will take place on the unceded Coast Salish territories of the Musq
 Squamish, and Tsleil-Waututh peoples. 
 
 The events are FREE and open to the public. If you would like to donate to the Institute 
-to help fund future events like this one, please visit http://www.sfu.ca/humanities-
+to help fund future events like this one, please visit [http://www.sfu.ca/humanities-](http://www.sfu.ca/humanities-)
 institute/donate.html.
 
 Organized by Samir Gandesha and Stephen Collis, and sponsored by SFU's Institute for 
@@ -71,7 +71,7 @@ SCHEDULE:
 - Feb 23: Samir Gandesha, "History as Repetition: The Uncanny Return of Fascism"
 - Mar 2: Populism Panel, "The Return of Right-Wing Populism and the Framing of the 
 Migrant and Refugee" (location: room 1415, SFU Harbour Centre; time: 5:30-7:30pm) 
-https://www.facebook.com/events/1859380904341114/
+[https://www.facebook.com/events/1859380904341114/](https://www.facebook.com/events/1859380904341114/)
 - Mar 2: Ingo Schmidt, "The Hope of the Hopeless: Contemporary Lessons from Marxist 
 Struggles Against Hitler and Mussolini" (time: 8-10pm)
 - Mar 9: Steve Collis "Poetry Against Fascism: The Spanish Crucible"

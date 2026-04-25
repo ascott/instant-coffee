@@ -28,7 +28,7 @@ the future by looking to the past.
 
 Curated as part of the Semi-Public program by Brian McBay.
 
-Read more: http://221a.ca/vancouver-especially
+Read more: [http://221a.ca/vancouver-especially](http://221a.ca/vancouver-especially)
 
 Semi-Public
 271 Union St

@@ -62,7 +62,7 @@ company in Vancouver. With her diverse activities, she aims to help a wider
 public understand contemporary art, demystify the art world and bring people 
 closer to art.
 
-Register on Eventbrite: https://www.eventbrite.ca/e/trascendiendo-fronteras-
+Register on Eventbrite: [https://www.eventbrite.ca/e/trascendiendo-fronteras-](https://www.eventbrite.ca/e/trascendiendo-fronteras-)
 exploring-migration-through-visual-art-part-ii-tickets-116692798301
-Or through FB: https://www.facebook.com/events/384290736079002/
-Or via Instagram: https://www.instagram.com/vlacc_ca/
+Or through FB: [https://www.facebook.com/events/384290736079002/](https://www.facebook.com/events/384290736079002/)
+Or via Instagram: [https://www.instagram.com/vlacc_ca/](https://www.instagram.com/vlacc_ca/)

@@ -32,4 +32,4 @@ video artists looking for an
 example of how to develop and make creative work.
 
 Register for it here:
-https://www.vivomediaarts.com/programming/toronto-palestine-film-festival
+[https://www.vivomediaarts.com/programming/toronto-palestine-film-festival](https://www.vivomediaarts.com/programming/toronto-palestine-film-festival)

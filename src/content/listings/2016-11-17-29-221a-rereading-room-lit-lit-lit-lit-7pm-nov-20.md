@@ -11,7 +11,7 @@ summary: "221a | Rereading Room & LIT LIT LIT LIT - 7pm | NOV 20"
 Rereading Room & LIT LIT LIT LIT
 Sunday, November 20, 2016
 7:00 PM-the end of patriarchy
-https://goo.gl/eu42zv
+[https://goo.gl/eu42zv](https://goo.gl/eu42zv)
 
 Rereading Room presents a collection of books, documents, and periodicals from 
 the titles offered by the Vancouver Women's Bookstore (1973-1996) in its 

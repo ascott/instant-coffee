@@ -30,7 +30,7 @@ A sculpture that includes movement, based on some form of mechanical
 motion, displayed in the water fountain area.
 
 For more information and submission guidelines:
-https://houstonartsalliance.submittable.com/submit
+[https://houstonartsalliance.submittable.com/submit](https://houstonartsalliance.submittable.com/submit)
 
 For questions regarding the submission requirements or process, contact
 Sara Kellner by email at sara@haatx.com.

@@ -16,7 +16,7 @@ Griffin Art Projects
 
 1174 Welch St, North Vancouver, BC V7P 2R5
 
-http://griffinartprojects.ca/
+[http://griffinartprojects.ca/](http://griffinartprojects.ca/)
 
 Travis O'Brian is an Anglican Priest, and rector of St. Barnabas Church in Victoria. He has a 
 doctorate in philosophy from the Katholiek Universiteit, Leuven in Belgium, and wrote his 

@@ -22,7 +22,7 @@ The Pier & shipyards, North Vancouver, BC
 
 www.tabestoonfest.ca
 
-https://www.facebook.com/events/2140521516161684/
+[https://www.facebook.com/events/2140521516161684/](https://www.facebook.com/events/2140521516161684/)
 
 Submissions:
 

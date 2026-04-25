@@ -30,7 +30,7 @@ Visual and Web Design: Cooper Lovano
 
 Media Management: Svenja Simone Schulte
 
-for more info: https://www.vivomediaarts.com/programming/presents-2023
+for more info: [https://www.vivomediaarts.com/programming/presents-2023](https://www.vivomediaarts.com/programming/presents-2023)
 
 Video Out Distribution
 2625 Kaslo Street, Vancouver, B.C. Canada V5M 3G9

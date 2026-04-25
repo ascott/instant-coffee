@@ -41,7 +41,7 @@ Recreation Centre.
 Deadline for Nominations: 12 noon on Friday, May 9.
 Submit a Nomination: Details and the nomination form can be found 
 online at: 
-http://fluidsurveys.com/s/2014mayorsartsawardsnominations/
+[http://fluidsurveys.com/s/2014mayorsartsawardsnominations/](http://fluidsurveys.com/s/2014mayorsartsawardsnominations/)
 Please note that each nomination requires two nominators.
 [X]
 VanCulture provides email updates from City of Vancouver Cultural 
@@ -49,8 +49,8 @@ Services
 Email culture@vancouver.ca
 Call 3-1-1 (604-873-7000 outside Vancouver)
 
-Visit us online: http://vancouver.ca/culture
-Like us on Facebook: http://facebook.com/vanculture
+Visit us online: [http://vancouver.ca/culture](http://vancouver.ca/culture)
+Like us on Facebook: [http://facebook.com/vanculture](http://facebook.com/vanculture)
 Follow us on Twitter: twitter.com/VanCultureBC
 
 

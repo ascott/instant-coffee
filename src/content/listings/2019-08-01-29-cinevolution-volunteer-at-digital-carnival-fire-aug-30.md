@@ -18,7 +18,7 @@ summer learning experience with some of the most passionate team members you'll
 ever meet.
 
 // APPLY NOW
-- Complete this form: https://forms.gle/FEMVbtLnaz96ZSbW6
+- Complete this form: [https://forms.gle/FEMVbtLnaz96ZSbW6](https://forms.gle/FEMVbtLnaz96ZSbW6)
 - Please upload resume within the form
 - Your application will not be considered if the form is not completed
 
@@ -83,5 +83,5 @@ Benefits:
 // COMMITMENT
 - A minimum of one 4-hour shift
 
-For more event details, visit our website: http://cinevolutionmedia.com/portfolio-
+For more event details, visit our website: [http://cinevolutionmedia.com/portfolio-](http://cinevolutionmedia.com/portfolio-)
 item/dc2019-fire/

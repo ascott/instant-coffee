@@ -10,4 +10,4 @@ summary: "Emily Carr University | Visual Art Forums talks ONLINE"
 
 View archived Visual Art Forums Talks online:
 
-https://vimeo.com/showcase/3812351
+[https://vimeo.com/showcase/3812351](https://vimeo.com/showcase/3812351)

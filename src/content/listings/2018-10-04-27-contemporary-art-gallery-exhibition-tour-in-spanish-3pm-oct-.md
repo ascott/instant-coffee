@@ -31,4 +31,4 @@ September 28, 2018 " March 17, 2019
 No reservation required. Simply just turn up!
 
 Find out more about the current exhibitions at 
-https://www.contemporaryartgallery.ca/whats-on/
+[https://www.contemporaryartgallery.ca/whats-on/](https://www.contemporaryartgallery.ca/whats-on/)

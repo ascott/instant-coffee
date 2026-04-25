@@ -50,4 +50,4 @@ Ouellette, Lisa & Terrence Turner, Nada Vuksic and Bruce Wright.
 Magor is represented by Catriona Jeffries Gallery, Vancouver, Susan Hobbs
 Gallery, Toronto and Marcelle Alix, Paris.
 - See more at:
-http://www.contemporaryartgallery.ca/exhibitions/liz-magor/#sthash.WOQ4Klr0.dpuf
+[http://www.contemporaryartgallery.ca/exhibitions/liz-magor/#sthash.WOQ4Klr0.dpuf](http://www.contemporaryartgallery.ca/exhibitions/liz-magor/#sthash.WOQ4Klr0.dpuf)

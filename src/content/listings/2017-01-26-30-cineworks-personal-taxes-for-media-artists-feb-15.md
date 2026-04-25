@@ -17,7 +17,7 @@ $25 | General Admission
 $20 | Concession
 $15 | Cineworks Member
 
-REGISTER: http://bit.ly/2j7yBNF
+REGISTER: [http://bit.ly/2j7yBNF](http://bit.ly/2j7yBNF)
 
 A presentation and Q&A on personal tax accounting for independent filmmakers and 
 media artists, by Sherrill Sirrs Inc.
@@ -52,4 +52,4 @@ and our work is based. We also gratefully acknowledge the support of Canada Coun
 for the Arts, British Columbia Arts Council, The Province of British Columbia and the 
 City of Vancouver.
 
-http://cineworks.ca
+[http://cineworks.ca](http://cineworks.ca)

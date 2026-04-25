@@ -65,7 +65,7 @@ a curriculum vitae, a sample of relevant published writing, and the
 names and contact information of three referees. The University will
 seek permission from the applicant before contacting the referees.
 
-More information: http://www.ecuad.ca/about/careers/jobs/113130
+More information: [http://www.ecuad.ca/about/careers/jobs/113130](http://www.ecuad.ca/about/careers/jobs/113130)
 
 Please send applications (quoting Competition #F001-2011) by March 18
 2011 to:

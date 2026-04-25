@@ -36,4 +36,4 @@ out website for more details: www.sparkboxstudio.com
 
 885 County Rd. 5, Picton, ON, K0K 2T0
 613.476.0337
-http://sparkboxstudio.com/residency/
+[http://sparkboxstudio.com/residency/](http://sparkboxstudio.com/residency/)

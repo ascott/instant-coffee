@@ -47,5 +47,5 @@ Where: Deer Lake Art Gallery (6584 Deer Lake Ave)
 Cost: Free
 Admission, by donation
 
-For more information, please visit: https://www.burnabyartscouncil.org/ or e-mail
+For more information, please visit: [https://www.burnabyartscouncil.org/](https://www.burnabyartscouncil.org/) or e-mail
 us at info@burnabyartscouncil.org

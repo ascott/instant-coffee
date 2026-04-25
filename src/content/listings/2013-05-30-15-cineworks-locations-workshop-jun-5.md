@@ -31,7 +31,7 @@ Cost: $10/15 members/non-members
 
 To register before June 5, please call 604 685 3841
 
-Facebook event: http://www.facebook.com/events/515894815115047/
+Facebook event: [http://www.facebook.com/events/515894815115047/](http://www.facebook.com/events/515894815115047/)
 
 Panelists include:
 

@@ -47,6 +47,6 @@ SFU Woodward's Cultural Unit
 Goldcorp Centre for the Arts
 Tel: 778-782-9223
 
-Website: http://www.sfuwoodwards.ca
+Website: [http://www.sfuwoodwards.ca](http://www.sfuwoodwards.ca)
 Twitter: @SFU_W
 Facebook: SFU Woodward's

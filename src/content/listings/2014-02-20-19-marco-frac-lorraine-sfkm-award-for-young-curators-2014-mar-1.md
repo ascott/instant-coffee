@@ -69,8 +69,8 @@ English
 
 Plans
 
-FRAC Lorraine http://www.fraclorraine.org/media/pdf/IMAGES-PLANS.pdf
+FRAC Lorraine [http://www.fraclorraine.org/media/pdf/IMAGES-PLANS.pdf](http://www.fraclorraine.org/media/pdf/IMAGES-PLANS.pdf)
 
-MARCO http://www.fraclorraine.org/media/pdf/MARCO_Plan.pdf
+MARCO [http://www.fraclorraine.org/media/pdf/MARCO_Plan.pdf](http://www.fraclorraine.org/media/pdf/MARCO_Plan.pdf)
 
-SFKM http://www.fraclorraine.org/media/pdf/SFKM_plans.pdf
+SFKM [http://www.fraclorraine.org/media/pdf/SFKM_plans.pdf](http://www.fraclorraine.org/media/pdf/SFKM_plans.pdf)

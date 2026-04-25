@@ -11,7 +11,7 @@ summary: "PUBLICATION | Bcc: December Issue | Philip Huang | DEC 27"
 Subscribe by December 27 to receive a new and exclusive digital artwork by Philip 
 Huang, the latest commissioned artist for Bcc:, Decoy Magazine's digital art subscription 
 programdelivering digital artworks to your email inbox every month. 
-http://www.decoymagazine.ca/bcc
+[http://www.decoymagazine.ca/bcc](http://www.decoymagazine.ca/bcc)
 
 Philip Huang is a performance and video artist, a YouTube persona, LGBT activist and 
 writer currently based in Berkeley, CA. Huang is the founder of the Home Theater 
@@ -20,7 +20,7 @@ being a part of the institutionalized theatre model. The project has now become 
 international movement with artists performing in their living rooms across US and 
 Europe. He is also the author of Pornography of Grief, a collection of short stories on 
 sex, grief and death that gained him international recognition.
-Video: Lunar Homosexual Agenda (2010): https://www.youtube.com/watch?
+Video: Lunar Homosexual Agenda (2010): [https://www.youtube.com/watch](https://www.youtube.com/watch)?
 v=In8a0PyDjN8
 Writing: phyllis-phyllis.tumblr.com
 

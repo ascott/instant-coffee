@@ -17,7 +17,7 @@ FEBRUARY 4-MARCH 6 2022. NOON TO 5 PM FRI-SUN
 
 GROUND FLOOR WATERSIDE ENTRANCE, 655 TYEE RD. VICTORIA BC
 
-https://www.facebook.com/events/774991190561380?ref=newsfeed
+[https://www.facebook.com/events/774991190561380?ref=newsfeed](https://www.facebook.com/events/774991190561380?ref=newsfeed)
 
 We drift into a third covidean winter of
 saturated fog broken by snowstorms and a

@@ -15,7 +15,7 @@ different time slots, the first starting at 5:30pm and the second at 7pm, ensuri
 and health protocols are respected.
 
 To learn more about the exhibit and registration please go to
-https://www.ticketzone.com/e/189447/luminous-garden-exhibit-public-opening-reception-1
+[https://www.ticketzone.com/e/189447/luminous-garden-exhibit-public-opening-reception-1](https://www.ticketzone.com/e/189447/luminous-garden-exhibit-public-opening-reception-1)
 
 Dr. Sun Yat-Sen Classical Chinese Garden is pleased to announce the official
 opening of Luminous Garden, the third art exhibition organized and presented by Lam

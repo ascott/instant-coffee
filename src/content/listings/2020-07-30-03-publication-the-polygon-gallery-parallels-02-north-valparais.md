@@ -18,4 +18,4 @@ read digitally, with printed copies forthcoming.
 
 View it here:
 
-https://thepolygon.ca/news/parallels-02-north-valparaiso/
+[https://thepolygon.ca/news/parallels-02-north-valparaiso/](https://thepolygon.ca/news/parallels-02-north-valparaiso/)

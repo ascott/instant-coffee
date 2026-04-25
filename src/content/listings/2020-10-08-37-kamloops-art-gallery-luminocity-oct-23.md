@@ -31,8 +31,8 @@ We will be offering two Curator walking tours of all the projects on October 23 
 capacity. Virtual programs will also be offered online.
 
 Detailed safety and accessibility information is outlined here:
-https://www.luminocity.ca/planning-your-visit. Full information about each artist and video
-is also available here: https://www.luminocity.ca/artists
+[https://www.luminocity.ca/planning-your-visit](https://www.luminocity.ca/planning-your-visit). Full information about each artist and video
+is also available here: [https://www.luminocity.ca/artists](https://www.luminocity.ca/artists)
 
 The world has drastically changed since the Kamloops Art Gallery presented Luminocity in
 2018. This years program responds to this unprecedented moment in history, where the
@@ -52,9 +52,9 @@ This selection of videos, nightly tours and accompanying online programs offer a
 urban transformation and insightful encounters.
 
 Please direct all media inquiries to Charo Neville, Curator, Kamloops Art Gallery,
-250.377.2410 or cneville@kag.bc.ca and go to https://www.luminocity.ca/. Follow us on
-Instagram @kagluminocity and Facebook https://www.facebook.com/kagluminocity or
-Twitter https://twitter.com/kamloopsgallery.
+250.377.2410 or cneville@kag.bc.ca and go to [https://www.luminocity.ca/](https://www.luminocity.ca/). Follow us on
+Instagram @kagluminocity and Facebook [https://www.facebook.com/kagluminocity](https://www.facebook.com/kagluminocity) or
+Twitter [https://twitter.com/kamloopsgallery](https://twitter.com/kamloopsgallery).
 
 About the Kamloops Art Gallery
 

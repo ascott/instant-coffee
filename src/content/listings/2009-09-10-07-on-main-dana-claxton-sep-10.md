@@ -50,4 +50,4 @@ She is well respected for her outspoken and leading views on contemporary aborig
 and life. Starting this semester she is the Ruth Wynn Woodward Endowed Chair in Women’s 
 Studies at Simon Fraser University. She has presented papers at the Getty Institute (LA), Mid-
 American Art College Association conference and the Art Institute of Chicago. 
-Born in Saskatchewan, Vancouver is home. <http://www.danaclaxton.com>
+Born in Saskatchewan, Vancouver is home. <[http://www.danaclaxton.com](http://www.danaclaxton.com)>

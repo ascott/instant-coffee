@@ -44,5 +44,5 @@ between human intervention, technology, and bio-diversity.
 
 Events will include an Opening, Middling, Closing, artist talks and tours.
 
-Please visit http://www.secondsitecollective.net/ for more details.
-http://http://www.secondsitecollective.net/
+Please visit [http://www.secondsitecollective.net/](http://www.secondsitecollective.net/) for more details.
+[http://http://www.secondsitecollective.net/](http://http://www.secondsitecollective.net/)

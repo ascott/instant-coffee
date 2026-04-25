@@ -94,5 +94,5 @@ We thank all applicants for their interest. However, only those selected
 for an interview will be contacted. Learn more about our commitment to
 diversity and inclusion.
 
-https://jobs.vancouver.ca/job/Vancouver-Social-Planner-II-%28Public-Art-Civic-
+[https://jobs.vancouver.ca/job/Vancouver-Social-Planner-II-%28Public-Art-Civic-](https://jobs.vancouver.ca/job/Vancouver-Social-Planner-II-%28Public-Art-Civic-)
 Program%29-Brit/492948600/

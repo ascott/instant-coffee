@@ -36,7 +36,7 @@ demonstrate an ability to work collaboratively with a community group, organizat
 public. Artists identifying as LGBTQ2+ are strongly encouraged to apply.
 
 Download the call with all the information you need to submit a proposal: 
-https://www.portcoquitlam.ca/business-development/purchasing/current-opportunities/
+[https://www.portcoquitlam.ca/business-development/purchasing/current-opportunities/](https://www.portcoquitlam.ca/business-development/purchasing/current-opportunities/)
 
 18. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.

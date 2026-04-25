@@ -11,7 +11,7 @@ summary: "Kunsthal Charlottenborg | Vacancy for Director | Denmark | FEB 9"
 Kunsthal Charlottenborg
 
 Vacancy for Kunsthal Charlottenborg Director
-http://kunsthalcharlottenborg.dk
+[http://kunsthalcharlottenborg.dk](http://kunsthalcharlottenborg.dk)
 
 We are seeking an ambitious, visionary Director with the will and courage
 to strengthen Kunsthal Charlottenborg's position in the international art
@@ -61,4 +61,4 @@ Denmark
 Interviews for the position of Director are scheduled for February 2010,
 with a view to appointment in the spring of 2010.
 
-Read more http://kunsthalcharlottenborg.dk/page/view/66?lang=eng
+Read more [http://kunsthalcharlottenborg.dk/page/view/66?lang=eng](http://kunsthalcharlottenborg.dk/page/view/66?lang=eng)

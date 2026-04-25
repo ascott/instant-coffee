@@ -25,9 +25,9 @@ presents a little history of the gallery, centred on a poster archive documentin
 fifty-odd exhibitions that were held at 1972 West 4th Avenue between December 1976
 and June 1981.
 
-For more information please see http://bedroomkitchen.garden/ohce-echo or
-https://capturephotofest.com/exhibitions/nova-gallery-1976-81/.
+For more information please see [http://bedroomkitchen.garden/ohce-echo](http://bedroomkitchen.garden/ohce-echo) or
+[https://capturephotofest.com/exhibitions/nova-gallery-1976-81/](https://capturephotofest.com/exhibitions/nova-gallery-1976-81/).
 
 OHCE-ECHO is grateful to be
 included in Capture Photography Festival this year"
-please see https://capturephotofest.com/exhibitions/ for the full program.
+please see [https://capturephotofest.com/exhibitions/](https://capturephotofest.com/exhibitions/) for the full program.

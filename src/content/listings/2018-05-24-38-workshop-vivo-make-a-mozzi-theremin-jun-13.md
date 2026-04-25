@@ -12,7 +12,7 @@ Make a Mozzi Theremin
 VIVO
 2625 Kaslo St, Vancouver, BC
 
-SIGN UP & MORE INFO: https://mozzi-theremin.eventbrite.ca
+SIGN UP & MORE INFO: [https://mozzi-theremin.eventbrite.ca](https://mozzi-theremin.eventbrite.ca)
 
 Create your own Arduino-based electronic synthesizer with artist Chris Jung!
 

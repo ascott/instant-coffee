@@ -69,7 +69,7 @@ stylisation and exaggeration, which takes our obsession with image, fashion and 
 absurd conclusion. They will present a new work , “A Waltz for Puppets”, created for their recent
 performance at the Musée National des Beaux Arts du Québec.
 
-http://www.fermieresobsedees.com/
+[http://www.fermieresobsedees.com/](http://www.fermieresobsedees.com/)
 
 Skeena Reece is a performance artist and arts organiser whose work has been presented across 
 Canada and the US. A riveting presence on stage, her performances are funny, risqué and 
@@ -95,7 +95,7 @@ duet with a vacuum cleaner is a reminder of how fantastical, magical and disturb
 be …. Jeong’s work addresses issues of control and manipulation and of animation and death—
 exactly the realm of puppetry.” – Theron Schmidt, Real Time, Australia 
 
-http://blog.paran.com/goldenpuppet
+[http://blog.paran.com/goldenpuppet](http://blog.paran.com/goldenpuppet)
 
 The project patron, URBANOVA CENTRE OF ART AND DESIGN, is an innovative international 
 foundation linking Shanghai, Xian, Los Angeles and Vancouver with projects that intersect art, 
@@ -113,4 +113,4 @@ Tel: 604.683.8326
 info@centrea.org
 
 
-http://www.centrea.org
+[http://www.centrea.org](http://www.centrea.org)

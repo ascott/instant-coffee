@@ -58,6 +58,6 @@ Vancouver V6A 2R9
 
 Gallery hours: Thursday – Saturday 12:30 – 5:30 p.m.
 
-http://shuddergallery.com
+[http://shuddergallery.com](http://shuddergallery.com)
 
-http://twitter.com/shuddergallery
+[http://twitter.com/shuddergallery](http://twitter.com/shuddergallery)

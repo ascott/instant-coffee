@@ -25,7 +25,7 @@ Oblivion: an artist residency (M:ST Performative Art, 2023), and the album Stimu
 (Mint Records, 2022) with her band, Kamikaze Nurse. She is currently pursuing her
 PhD in Contemporary Arts at Simon Fraser University.
 
-https://cagvancouver.org/event/saturday-session-casey-wei
+[https://cagvancouver.org/event/saturday-session-casey-wei](https://cagvancouver.org/event/saturday-session-casey-wei)
 
 Contemporary Art Gallery
 cagvancouver.org

@@ -20,14 +20,14 @@ Location: ONLINE ONLY. For zoom link, see:
 
 Join Zoom Meeting
 
-https://emilycarru.zoom.us/j/61142295224?
+[https://emilycarru.zoom.us/j/61142295224](https://emilycarru.zoom.us/j/61142295224)?
 pwd=hZuoVPs4kCkS11MZDHb0ngYOYDQSRe.1
 
 Meeting ID: 611 4229 5224
 
 Passcode: 547203
 
-FOR MORE INFORMATION, VISIT: https://www.tree-museum.com/guest-speakers
+FOR MORE INFORMATION, VISIT: [https://www.tree-museum.com/guest-speakers](https://www.tree-museum.com/guest-speakers)
 
 Date: Tuesday, October 28, 2025
 
@@ -59,4 +59,4 @@ landscape ecology, human dimensions, and geospatial analysis. She engages non-
 invasive methods and the principles of Compassionate Conservation in research.
 Shelley has provided expert review and testimony for international communities and
 developed policy/protocols for human-coyote coexistence. For more information, see
-https://profiles.ucalgary.ca/shelley-alexander
+[https://profiles.ucalgary.ca/shelley-alexander](https://profiles.ucalgary.ca/shelley-alexander)

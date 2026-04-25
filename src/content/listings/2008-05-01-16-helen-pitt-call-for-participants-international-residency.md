@@ -20,7 +20,7 @@ Knock on Woods International Residency is a constructed space that dedicates  it
  
 Proposals are being accepted from now until June 1st 2008 for anyone  interested in participating in an international artist residency in Knock on  Woods.
 
-For more information on the background for this project, the artist, and a  link to Knock on Woods, please visit http://thisneckofthewoods.net/ 
+For more information on the background for this project, the artist, and a  link to Knock on Woods, please visit [http://thisneckofthewoods.net/](http://thisneckofthewoods.net/) 
 
 Please contact the Helen Pitt Gallery at pittg@telus.net / 604.681.6740 for  more information or to submit proposals. 
 

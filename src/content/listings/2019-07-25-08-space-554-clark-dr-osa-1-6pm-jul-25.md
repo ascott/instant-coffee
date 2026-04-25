@@ -35,4 +35,4 @@ Participating artists include: Joni Cheung, Ben Evely, Stephanie Gagne, Avery Ha
 Phoebe Huang, Sunroup Kaur, Alina Senchenko, Isaiah Wolf Somsen , Neil Young and
 Stephanie Wu
 
-https://opensourcearts.cargo.site/"
+[https://opensourcearts.cargo.site/"](https://opensourcearts.cargo.site/")

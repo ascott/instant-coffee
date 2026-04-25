@@ -16,7 +16,7 @@ Richmond Art Gallery
 
 180-7700 Minoru Gate, Richmond, BC, V6Y 1R9, Canada
 
-https://www.richmondartgallery.org/
+[https://www.richmondartgallery.org/](https://www.richmondartgallery.org/)
 
 Dreaming the Asklepion is a collaboration by visual artist Zo, dancer/choreographer
 Alexa, and visual artist/craniosacral therapist Lisa who together are developing
@@ -33,4 +33,4 @@ arms, knees, head, neck or belly.
 For more information, contact Brittney Groetelaars at bgroetelaars@richmond.ca.
 
 Individual 20 minute session: $50.00 + taxes. All proceeds to be provided directly to
-performers. More info: https://www.richmondartgallery.org/dreaming
+performers. More info: [https://www.richmondartgallery.org/dreaming](https://www.richmondartgallery.org/dreaming)

@@ -25,8 +25,8 @@ Mike Bourscheid
 
 There will also be music performances by:
 
-Alexi Baris https://soundcloud.com/alexi-baris
-Soledad Muoz https://soledadmunoz.com/
+Alexi Baris [https://soundcloud.com/alexi-baris](https://soundcloud.com/alexi-baris)
+Soledad Muoz [https://soledadmunoz.com/](https://soledadmunoz.com/)
 
 There will be drinks served throughout the evening and possibly BBQ and outdoor 
 festivities if weather permits!
@@ -39,4 +39,4 @@ SUNSET TERRACE
 2028 Clark Drive, Vancouver BC (enter through alley in the back)
 ~5:00PM - 1:00AM
 
-http://sunset-terrace.com/
+[http://sunset-terrace.com/](http://sunset-terrace.com/)

@@ -26,4 +26,4 @@ the excitement and joy of doing what you love"join us for this insightful conver
 After the recording, Massey and Kahanoff will be present for a live zoom chat where
 questions from the audience about the exhibition and the interview are welcome.
 
-REGISTER ONLINE: https://kag.bc.ca/programs--events#program-184
+REGISTER ONLINE: [https://kag.bc.ca/programs--events#program-184](https://kag.bc.ca/programs--events#program-184)

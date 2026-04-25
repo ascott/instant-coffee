@@ -23,7 +23,7 @@ Remarks at 6:30pm
 
 RSVPs are helpful
 
-RSVP here: https://thepolygon.ca/event/the-lind-biennial-opening-celebration/
+RSVP here: [https://thepolygon.ca/event/the-lind-biennial-opening-celebration/](https://thepolygon.ca/event/the-lind-biennial-opening-celebration/)
 
 The Lind
 Biennial features work by Mena El Shazly, Karice Mitchell, Dion Smith-

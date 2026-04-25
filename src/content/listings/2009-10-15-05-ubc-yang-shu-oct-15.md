@@ -41,4 +41,4 @@ artist will be in attendance.
 
 More information: 604 822 4563 or 
 
-http://www.ahva.ubc.ca/
+[http://www.ahva.ubc.ca/](http://www.ahva.ubc.ca/)

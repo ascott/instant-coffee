@@ -13,5 +13,5 @@ On until September 14
 True Love & Other Works, a collection of abstract artwork that captures 
 the richness and imagination of colours, shapes, and textures. View 
 now by clicking the link: 
-https://northvanarts.ca/events-exhibitions/true-love-other-works-from-
+[https://northvanarts.ca/events-exhibitions/true-love-other-works-from-](https://northvanarts.ca/events-exhibitions/true-love-other-works-from-)
 the-art-rental-collection/.

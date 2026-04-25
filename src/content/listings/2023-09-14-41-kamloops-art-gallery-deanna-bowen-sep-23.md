@@ -35,4 +35,4 @@ Waterloo Art Gallery, circulated in partnership with the MacKenzie Art Gallery, 
 produced with the support of the City of Toronto through the Toronto Arts Council.
 
 Read the full exhibition text here:
-https://kag.bc.ca/all-exhibitions/black-drones-in-the-hive
+[https://kag.bc.ca/all-exhibitions/black-drones-in-the-hive](https://kag.bc.ca/all-exhibitions/black-drones-in-the-hive)

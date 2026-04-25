@@ -13,12 +13,12 @@ Rehab Nazzal
 August 9-30, 2025 | Vines Den, 825 E Hastings Street, Vancouver
 
 Open hours: Thursdays 1pm to 7pm; Fridays-Sundays 12pm to 6pm
-https://drivinginpalestine.cargo.site/
+[https://drivinginpalestine.cargo.site/](https://drivinginpalestine.cargo.site/)
 
 Driving in Palestines auction is live. All works exhibited in Rehab Nazzals Driving in
 Palestine are available to purchase through our Galabid site. Auction closes on Aug
 30, 6-9pm with an in-person event at Vines Den.
-https://app.galabid.com/drivinginpalestine/items
+[https://app.galabid.com/drivinginpalestine/items](https://app.galabid.com/drivinginpalestine/items)
 
 All funds raised through the auction will go toward supporting Amani, a young girl
 from Palestine who was featured in Vibrations from Gaza (2023), Nazzals
@@ -46,10 +46,10 @@ Palestine, in what we are calling Freedom School " programming that includes
 community-led events, teach-ins, and workshops focusing on Palestinian,
 Indigenous, intersectional feminist, and anti-colonial liberation.
 
-Venue Accessibility: https://docs.google.com/document/d/1v3_YYoL-
+Venue Accessibility: [https://docs.google.com/document/d/1v3_YYoL-](https://docs.google.com/document/d/1v3_YYoL-)
 MebhsDDJO2J1vDU-W-Z-KaVi280BeqKMd_k/edit?
 pli=1&tab=t.0#heading=h.2t4x7o4xj5yg
-Freedom School event registration: https://events.humanitix.com/host/freedom-
+Freedom School event registration: [https://events.humanitix.com/host/freedom-](https://events.humanitix.com/host/freedom-)
 school-a-people-s-university
 
 Presented by Vines Art Society and SAW, in conjunction with the 11th Annual Vines

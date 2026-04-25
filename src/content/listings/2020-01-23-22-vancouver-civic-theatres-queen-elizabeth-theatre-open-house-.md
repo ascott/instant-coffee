@@ -8,7 +8,7 @@ venue: "Vancouver Civic Theatres"
 summary: "Vancouver Civic Theatres | Queen Elizabeth Theatre | Open House & Shrine Building Workshop | Jan28-Feb1 | JAN 28"
 ---
 
-Open house https://vancouvercivictheatres.com/events/vct-visual-arts-gallery-open-
+Open house [https://vancouvercivictheatres.com/events/vct-visual-arts-gallery-open-](https://vancouvercivictheatres.com/events/vct-visual-arts-gallery-open-)
 house-jan-28-2020/
 
 In the Queen Elizabeth Theatre lobbies from 5pm to 8pm
@@ -40,7 +40,7 @@ A free all ages event from 5:00pm to 8:00pm in the lobbies of the Queen Elizabet
 Theatre with a no-host bar.
 
 Shrine Building Project Commemorating lives shaped by borders
-https://vancouvercivictheatres.com/events/shrine-building-project-jan-28-feb-1-2020/
+[https://vancouvercivictheatres.com/events/shrine-building-project-jan-28-feb-1-2020/](https://vancouvercivictheatres.com/events/shrine-building-project-jan-28-feb-1-2020/)
 
 Electric Company Theatre, Playwrights Theatre Centre and Vancouver Civic Theatres
 are hosting a community-based shrine-building project to honour the undocumented

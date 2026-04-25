@@ -27,12 +27,12 @@ accepted throughout the year, there is a deadline to facilitate planning.
 Submissions are accepted by post mail; please do not send submissions by 
 fax or email.
 
-For full details: http://www.comoxvalleyartgallery.com/submissions.html
+For full details: [http://www.comoxvalleyartgallery.com/submissions.html](http://www.comoxvalleyartgallery.com/submissions.html)
 
 Comox Valley Art Gallery
 2013 Calls for Entry
 to open call exhibits will be posted in January 2013; visit our website here 
-http://www.comoxvalleyartgallery.com/submissions.html#calls to check for 
+[http://www.comoxvalleyartgallery.com/submissions.html#calls](http://www.comoxvalleyartgallery.com/submissions.html#calls) to check for 
 updates.
 
 COMOX VALLEY ART GALLERY

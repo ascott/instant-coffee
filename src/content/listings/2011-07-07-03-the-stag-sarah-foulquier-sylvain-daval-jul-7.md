@@ -57,10 +57,10 @@ and Europe. In recent years his practice turned towards collaborative forms and
 in-process pieces, such as the Carle Colline Collection, the Lower Mainland 
 Painting Co (LMPC) and the Temporary Gallery of Reproduced.
 
-http://selfshelfswap.org/ 
+[http://selfshelfswap.org/](http://selfshelfswap.org/) 
 
 The STAG is a Project Space, Gallery and Residency in the Vancouver, BC 
 home of Aja Rose Bond & Gabriel Saloman. Devoted to informality, community, 
 social activity and big ideas in small places.
 
-http://thestrathconaartgallery.tumblr.com/
+[http://thestrathconaartgallery.tumblr.com/](http://thestrathconaartgallery.tumblr.com/)

@@ -17,9 +17,9 @@ March
 Curated
 by James Albers
 
-https://fb.me/e/1yMiB0l23
+[https://fb.me/e/1yMiB0l23](https://fb.me/e/1yMiB0l23)
 
-https://zoom.us/j/2089206941?pwd=bWVLeXE5cWl2azlPT2d5VWFNNEltUT09
+[https://zoom.us/j/2089206941?pwd=bWVLeXE5cWl2azlPT2d5VWFNNEltUT09](https://zoom.us/j/2089206941?pwd=bWVLeXE5cWl2azlPT2d5VWFNNEltUT09)
 
 Join
 us over Zoom on the night of Wednesday, March 24th from 7-9pm for The Permanent

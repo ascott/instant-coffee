@@ -24,7 +24,7 @@ environmental awareness, and art appreciation. The benefits of an arts education
 affect every area of life and we want it to be a lifelong journey. PoMoArts webpage with
 application link:
 
-https://pomoarts.ca/exhibitions/call-for-submissions-art-4-life
+[https://pomoarts.ca/exhibitions/call-for-submissions-art-4-life](https://pomoarts.ca/exhibitions/call-for-submissions-art-4-life)
 
 Artist Call Deadline August 13, 2023
 

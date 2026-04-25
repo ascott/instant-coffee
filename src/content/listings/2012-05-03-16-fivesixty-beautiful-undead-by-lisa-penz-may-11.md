@@ -36,4 +36,4 @@ To request an interview or RSVP to the opening reception, please
 contact us:
 info@lisapenz.com
 For more information please visit: 
-http://www.lisapenz.com/beautiful_undead
+[http://www.lisapenz.com/beautiful_undead](http://www.lisapenz.com/beautiful_undead)

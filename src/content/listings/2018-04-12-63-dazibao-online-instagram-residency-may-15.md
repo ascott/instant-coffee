@@ -33,12 +33,12 @@ will benefit from the financial and promotional support applicable to the centre
 regular activities.
 
 All proposals must be submitted via the following online form:
-http://en.dazibao.art/call-for- instagram-residency
+[http://en.dazibao.art/call-for-](http://en.dazibao.art/call-for-) instagram-residency
 
 The selected artist or collective will be notified by May 17, 2018.
 * Given the virtual nature of the residency, artists living abroad will not be required to
 travel to Montreal for the residency.
 
-FACEBOOK: https://fr-ca.facebook.com/events/167501103910308/ 
+FACEBOOK: [https://fr-ca.facebook.com/events/167501103910308/](https://fr-ca.facebook.com/events/167501103910308/) 
 
-DAZIBAO WEBSITE: http://en.dazibao.art/call-for-instagram-residency
+DAZIBAO WEBSITE: [http://en.dazibao.art/call-for-instagram-residency](http://en.dazibao.art/call-for-instagram-residency)

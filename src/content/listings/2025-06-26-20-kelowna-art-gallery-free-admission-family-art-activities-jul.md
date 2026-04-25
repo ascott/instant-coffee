@@ -23,4 +23,4 @@ July 1, 2025, from 10 am to 4 pm.
 
 The Kelowna Art Gallery is located at 1315 Water Street, in downtown Kelowna, B.C.
 
-https://kelownaartgallery.com/july1/
+[https://kelownaartgallery.com/july1/](https://kelownaartgallery.com/july1/)

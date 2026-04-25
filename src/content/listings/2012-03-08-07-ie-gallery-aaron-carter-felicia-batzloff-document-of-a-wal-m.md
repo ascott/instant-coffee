@@ -53,5 +53,5 @@ community can participate.
 Felicia Batzloff
 MAA Visual Art, ECUAD
 
-http://masters.ecuad.ca/fbatzloff/
+[http://masters.ecuad.ca/fbatzloff/](http://masters.ecuad.ca/fbatzloff/)
 feliciabatzloff.com

@@ -10,7 +10,7 @@ summary: "West Vancouver Art Museum | Online Artist Talk: Neighbours | FEB 13"
 
 February 13, 2025, 7 " 8 p.m.
 
-Registration: FREE, Register at https://westvanlibrary.ca/event/art-talks-xiangmei-su-
+Registration: FREE, Register at [https://westvanlibrary.ca/event/art-talks-xiangmei-su-](https://westvanlibrary.ca/event/art-talks-xiangmei-su-)
 and-jiangang-su-in-conversation-with-curator-xianjun-song-virtual/
 
 Join artists Xiangmei Su, Jiangang Su and curator Xianjun Song online for an in-

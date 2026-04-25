@@ -132,7 +132,7 @@ Halifax Nova Scotia B3K 3BA
 
 Questions can be sent to: Eryn Foster director@eyelevelgallery.ca
 Images of SeaDog's Sauna & Spa can be seen at: 
-http://www.seadogs.ca/spatour.html
+[http://www.seadogs.ca/spatour.html](http://www.seadogs.ca/spatour.html)
 
 SeaDog's Sauna & Spa is the largest Private Men's Club east of Quebec City,
 catering to the Gay and Bisexual communities of Atlantic Canada. Their 

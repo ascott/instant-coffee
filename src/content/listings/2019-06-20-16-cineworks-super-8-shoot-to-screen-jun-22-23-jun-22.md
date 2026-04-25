@@ -42,5 +42,5 @@ $130 + taxes | General Admission
 **Community Partner Members include active members of Women In Film and Television, 
 DOCBC, and VIVO.
 
-Tickets, accessibility and more information at https://www.eventbrite.ca/e/super-8-shoot-to-
+Tickets, accessibility and more information at [https://www.eventbrite.ca/e/super-8-shoot-to-](https://www.eventbrite.ca/e/super-8-shoot-to-)
 screen-workshop-tickets-62663061905

@@ -24,7 +24,7 @@ Specialist Instructors mentor female-identifying-students to explore cutting-edg
 technologies in a supportive environment.
 
 Registration:
-https://cityofnewwestminster.perfectmind.com/23693/Classes/BookMe4LandingPages/
+[https://cityofnewwestminster.perfectmind.com/23693/Classes/BookMe4LandingPages/](https://cityofnewwestminster.perfectmind.com/23693/Classes/BookMe4LandingPages/)
 CoursesLandingPage?courseId=75591307-1262-47f4-a8ff-9aac66870341
 
-More information: https://newmediagallery.ca/international-womens-day-2024/
+More information: [https://newmediagallery.ca/international-womens-day-2024/](https://newmediagallery.ca/international-womens-day-2024/)

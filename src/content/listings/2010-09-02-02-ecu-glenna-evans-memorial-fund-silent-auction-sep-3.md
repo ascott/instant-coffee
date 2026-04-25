@@ -32,4 +32,4 @@ online, or you may contact the University
 Advancement Office at 604 742 9912 begin_of_the_skype_highlighting		604 742 9912	  end_of_the_skype_highlighting.
 
 For more information please visit:
-http://escene.ecuad.ca/news/glenna-evans-memorial-fund-silent-auction
+[http://escene.ecuad.ca/news/glenna-evans-memorial-fund-silent-auction](http://escene.ecuad.ca/news/glenna-evans-memorial-fund-silent-auction)

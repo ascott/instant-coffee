@@ -25,10 +25,10 @@ Lisa Anne Auerbach, Code Pink,
 Andrew Boyd, Iraqi Veterans for Peace, John Carr of Yo! What Happened to
 Peace, The Center for Tactical Magic and many more.
 
-Purchase a copy -http://www.joaap.org/6/issue6.htm
-Check out the website -http://www.joaap.org/6/index.html
+Purchase a copy -[http://www.joaap.org/6/issue6.htm](http://www.joaap.org/6/issue6.htm)
+Check out the website -[http://www.joaap.org/6/index.html](http://www.joaap.org/6/index.html)
 An Atlas of Radical Cartography and others available for purchase here
--http://www.joaap.org/press.htm
+-[http://www.joaap.org/press.htm](http://www.joaap.org/press.htm)
 
 Edited by Marc Herbst, Robby Herbst and Christina Ulke
 Book design by Jessica Fleischmann

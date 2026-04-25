@@ -35,7 +35,7 @@ ON), Matthew Williamson (Syracuse, NY), Sylvain Sailly (Vancouver, BC),
 Raphael Bastide (Paris, France), Sara Ludy (Vancouver, BC). A full schedule is 
 available on the Western Front website at www.front.bc.ca
 
-Ping! A Speed Show (http://speedshow.net/ping/) curated by Aaron Chan and 
+Ping! A Speed Show ([http://speedshow.net/ping/](http://speedshow.net/ping/)) curated by Aaron Chan and 
 Auerliano Seguando will take place at the Nicolas Internet cafe on Saturday 
 Sept 29 from 7pm -11pm.
 

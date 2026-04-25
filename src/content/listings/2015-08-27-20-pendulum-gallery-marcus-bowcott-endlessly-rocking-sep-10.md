@@ -20,4 +20,4 @@ HSBC Building
 604 250 9682
 
 
-http://www.pendulumgallery.bc.ca
+[http://www.pendulumgallery.bc.ca](http://www.pendulumgallery.bc.ca)

@@ -31,4 +31,4 @@ Time: 1 - 3 PM PDT
 Location: Zoom
 
 Register Here:
-https://centrea.org/caardi-2023/niki-najm-abadi/
+[https://centrea.org/caardi-2023/niki-najm-abadi/](https://centrea.org/caardi-2023/niki-najm-abadi/)

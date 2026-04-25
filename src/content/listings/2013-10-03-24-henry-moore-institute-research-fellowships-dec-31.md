@@ -129,7 +129,7 @@ showing one-of-a-kind or “show” pieces as part of a display in the front
 room.
 
 For full submission criteria, please visit 
-http://darkmatterpopup.com/submissioninfo.
+[http://darkmatterpopup.com/submissioninfo](http://darkmatterpopup.com/submissioninfo).
 
 Email your submission and any questions to 
 info@darkmatterpopup.com

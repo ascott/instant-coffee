@@ -30,7 +30,7 @@ Future: Curatorial-arts and co-production project; Junktion Kickball League:
 Drop-in Kickball (May-September) & Monday Events in EastVan; and Side 
 Project: ”make it nice” community | arts | events | workshops
 
-http://thetoast.org/
+[http://thetoast.org/](http://thetoast.org/)
 
 ______________________________________________________________
 ________________________________________
@@ -65,4 +65,4 @@ Future: Curatorial-arts and co-production project; Junktion Kickball League:
 Drop-in Kickball (May-September) & Monday Events in EastVan; and Side 
 Project: ”make it nice” community | arts | events | workshops
 
-http://thetoast.org/
+[http://thetoast.org/](http://thetoast.org/)

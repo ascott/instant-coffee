@@ -30,4 +30,4 @@ and photography, the student-organized Exchange Show presents work both inspired
 created while, studying abroad.
 
 See more at
-http://exchangeshow.blogspot.com
+[http://exchangeshow.blogspot.com](http://exchangeshow.blogspot.com)

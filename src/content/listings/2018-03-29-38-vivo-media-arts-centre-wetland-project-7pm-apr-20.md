@@ -20,8 +20,8 @@ VIVO Media Arts Centre
 
 Regular exhibition runs April 21 - May 18
 
-WEBSITE: http://wetlandproject.com/
-FB EVENT: https://www.facebook.com/events/1190720384397080/
+WEBSITE: [http://wetlandproject.com/](http://wetlandproject.com/)
+FB EVENT: [https://www.facebook.com/events/1190720384397080/](https://www.facebook.com/events/1190720384397080/)
 
 _____
 
@@ -51,9 +51,9 @@ humans and their environment.
 
 The artists will lead a soundwalk through Still Creek, followed by a lunch and brief 
 talk about their work on May 6. Details and required registration found here: 
-https://wetland-soundwalk-lunch.eventbrite.ca/
+[https://wetland-soundwalk-lunch.eventbrite.ca/](https://wetland-soundwalk-lunch.eventbrite.ca/)
 
-FB EVENT: https://www.facebook.com/events/543293262723657/
+FB EVENT: [https://www.facebook.com/events/543293262723657/](https://www.facebook.com/events/543293262723657/)
 _
 
 Mark Timmings is a multidisciplinary artist who explores perceptions of place by 

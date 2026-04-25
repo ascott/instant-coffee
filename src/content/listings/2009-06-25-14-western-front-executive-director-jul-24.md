@@ -87,7 +87,7 @@ Vancouver BC V5T 1S1
 
 Email: hr@front.bc.ca
 
-http://www.front.bc.ca 
+[http://www.front.bc.ca](http://www.front.bc.ca) 
 NO PHONE CALLS PLEASE. We thank all applicants, but only shortlisted candidates will be 
 contacted. 
 APPLICATION DEADLINE: 4:00 pm Friday, July 24, 2009

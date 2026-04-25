@@ -47,7 +47,7 @@ must be between 16 and 30 years of age at the start of employment, must be a ful
 high school, college, CEGEP or university student in the semester preceding the YCW
 work assignment and must intend to return to full-time studies in the semester following
 the YCW work assignment. For a full list of eligibility requirements please visit
-https://www.canada.ca/en/canadian-heritage/services/funding/young-canada-
+[https://www.canada.ca/en/canadian-heritage/services/funding/young-canada-](https://www.canada.ca/en/canadian-heritage/services/funding/young-canada-)
 works/students-graduates/heritage-organizations-students.html.
 
 Griffin Art Projects (GAP) is a non-profit art
@@ -65,5 +65,5 @@ to increase scale and dissemination and focusing on diversity. Please apply with
 letter and resume before Friday, May 15, 2020, by email to info@griffinartprojects.ca
 with the subject line "Marketing & Public Programs Assistant".
 
-https://young-canada-works.canada.ca/Opportunity/ProjectDetails?
+[https://young-canada-works.canada.ca/Opportunity/ProjectDetails](https://young-canada-works.canada.ca/Opportunity/ProjectDetails)?
 projectId=9845&showBackToSearch=true

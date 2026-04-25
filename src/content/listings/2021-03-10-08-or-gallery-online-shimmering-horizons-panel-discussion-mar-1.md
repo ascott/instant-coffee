@@ -14,7 +14,7 @@ Shimmering Horizons Panel Discussion
 Wednesday March 10, 2010
 10AM PST / 1PM EST
 Watch the talk livestream here:
-https://shimmeringhorizons.orgalleryprojects.org/shimmering-horizons-panel-discussion/
+[https://shimmeringhorizons.orgalleryprojects.org/shimmering-horizons-panel-discussion/](https://shimmeringhorizons.orgalleryprojects.org/shimmering-horizons-panel-discussion/)
 
 Participants: Asinnajaq, Meagan Musseau, Marina Roy, Tania Willard, Elizabeth Zvonar and
 Whess Harman. Moderated by Laurie White.

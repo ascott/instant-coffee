@@ -19,7 +19,7 @@ Opening Day
 Saturday, October 31, 2020
 By appointment from 2-7pm
 Reserve free tickets at:
-https://www.eventbrite.ca/e/opening-day-eli-muro-michael-
+[https://www.eventbrite.ca/e/opening-day-eli-muro-michael-](https://www.eventbrite.ca/e/opening-day-eli-muro-michael-)
 edward-miller-haley-bassett-tickets-125254181629
 
 In lieu of a traditional opening reception, we invite you to join us by appointment from 2-
@@ -67,5 +67,5 @@ invasive nature.
 In lieu of a traditional opening reception, we invite you to join us by appointment from 2-
 7pm on opening day, October 31.
 Reserve free tickets at:
-https://www.eventbrite.ca/e/opening-day-eli-muro-michael-
+[https://www.eventbrite.ca/e/opening-day-eli-muro-michael-](https://www.eventbrite.ca/e/opening-day-eli-muro-michael-)
 edward-miller-haley-bassett-tickets-125254181629

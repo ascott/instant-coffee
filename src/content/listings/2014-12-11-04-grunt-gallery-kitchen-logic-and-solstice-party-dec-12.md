@@ -28,8 +28,8 @@ Friday, December 19th: Solstice Party *closing event*
 
 Exhibition Text:
 Part 1 – History creeps: the grunt kitchen and Julia Feyrer:
-http://grunt.ca/wordpress/wp-content/uploads/2014/11/Hedit_Julia-Feyrer-Part-1_FINAL1.pdf
+[http://grunt.ca/wordpress/wp-content/uploads/2014/11/Hedit_Julia-Feyrer-Part-1_FINAL1.pdf](http://grunt.ca/wordpress/wp-content/uploads/2014/11/Hedit_Julia-Feyrer-Part-1_FINAL1.pdf)
 
-URL: http://grunt.ca/exhibitions/kitchen/
+URL: [http://grunt.ca/exhibitions/kitchen/](http://grunt.ca/exhibitions/kitchen/)
 grunt gallery: 116-350 East 2nd Ave, Vancouver, BC V5T4R8
-http://grunt.ca
+[http://grunt.ca](http://grunt.ca)

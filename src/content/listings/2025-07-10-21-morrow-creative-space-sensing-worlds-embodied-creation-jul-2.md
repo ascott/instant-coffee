@@ -32,6 +32,6 @@ Tuesdays, 6:30"8:30pm
 
 To register or learn more, visit:
 
-https://www.guadalupemartinez.com/sensing-worlds.html
+[https://www.guadalupemartinez.com/sensing-worlds.html](https://www.guadalupemartinez.com/sensing-worlds.html)
 
 Questions? Email: guadalupemdc@gmail.com

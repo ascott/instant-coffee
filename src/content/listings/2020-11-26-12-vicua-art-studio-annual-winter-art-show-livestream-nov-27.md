@@ -31,4 +31,4 @@ owned and operated by the Ridge Meadows Association for Community Living in Mapl
 Ridge.
 
 For more information, please visit our website or contact us.
-http://www.vicunaArtstudio.com
+[http://www.vicunaArtstudio.com](http://www.vicunaArtstudio.com)

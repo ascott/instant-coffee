@@ -26,7 +26,7 @@ mounted exhibition in New York City!
 Applications are welcomed and encouraged from around the world. Visit the
 site for more info, guidelines, past winners, and to apply:
 
-http://www.apexart.org/unsolicited.htm
+[http://www.apexart.org/unsolicited.htm](http://www.apexart.org/unsolicited.htm)
 
 Proposals accepted online only from February 1 to 28, 2009.
 

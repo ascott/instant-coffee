@@ -37,7 +37,7 @@ exploring the potential of new technologies in art and examining current
 technological evolutions in a critical context. This POV project aims to 
 provide artists with a brand new means for creating and displaying 
 works in 3D space. A prototype of this platform is available to view at 
-http://youtu.be/Z3vaDtZJ64g
+[http://youtu.be/Z3vaDtZJ64g](http://youtu.be/Z3vaDtZJ64g)
 
 Commissions expected to commence in early September 2012.
 
@@ -62,11 +62,11 @@ PROCESSING VANCOUVER
 Please join us for the July session of Processing Vancouver, hosted by 
 VIVO Media Arts.
 
-We will have a presentation from Patrick Daggitt (http://patrick-
+We will have a presentation from Patrick Daggitt ([http://patrick-](http://patrick-)
 daggitt.com/), a freelance creative coder and currently a Masters 
 Candidate at the Centre for Digital Media 
-(http://mdm.gnwc.ca/program/mdm). He will be showcasing his RGB 
-Plinko project (http://patrick-daggitt.com/portfolio/rgb-plinko/), a 
+([http://mdm.gnwc.ca/program/mdm](http://mdm.gnwc.ca/program/mdm)). He will be showcasing his RGB 
+Plinko project ([http://patrick-daggitt.com/portfolio/rgb-plinko/](http://patrick-daggitt.com/portfolio/rgb-plinko/)), a 
 webcam-based game based on the "Price Is Right", built, of course, in 
 Processing.
 

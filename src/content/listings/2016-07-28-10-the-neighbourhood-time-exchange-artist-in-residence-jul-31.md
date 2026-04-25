@@ -30,7 +30,7 @@ and community work.
 
 For more details on the project, and for a complete list of items to 
 be included in your application, please visit: 
-http://neighbourhoodtime.exchange/
+[http://neighbourhoodtime.exchange/](http://neighbourhoodtime.exchange/)
 
 The deadline for submissions is July 31st, 2016. Send inquiries and
 completed applications by email to: 

@@ -45,9 +45,9 @@ of this exhibition. A curatorial text by Makiko Hara and an essay written
 by Lorna Brown will be available at the opening. The exhibition runs from
 January 15 to February 21, 2015.
 
-http://grunt.ca/exhibitions/crossed/
+[http://grunt.ca/exhibitions/crossed/](http://grunt.ca/exhibitions/crossed/)
 
 grunt gallery
 116 - 350 E 2nd Ave, Vancouver, BC V5T 4R8
 t: 604.875.9516
-http://grunt.ca
+[http://grunt.ca](http://grunt.ca)

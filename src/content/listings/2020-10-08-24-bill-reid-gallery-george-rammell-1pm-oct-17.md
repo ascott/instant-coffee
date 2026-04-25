@@ -13,7 +13,7 @@ Artist Talk-George Rammell - Miniature Boxwood to Monumental Bronze
 Saturday, October 17, 2020, 1 - 2pm
 
 This is an in-person talk at the Bill Reid Gallery
-Link: https://www.billreidgallery.ca/products/artist-talk-george-rammel-in-person#targetUrl
+Link: [https://www.billreidgallery.ca/products/artist-talk-george-rammel-in-person#targetUrl](https://www.billreidgallery.ca/products/artist-talk-george-rammel-in-person#targetUrl)
 
 How did Bill Reid combine Indigenous methods of working with western sculpture
 processes? Join artist George Rammell for a presentation on the making of the monumental

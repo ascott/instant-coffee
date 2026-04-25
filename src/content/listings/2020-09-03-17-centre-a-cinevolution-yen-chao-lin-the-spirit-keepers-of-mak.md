@@ -70,7 +70,7 @@ This event will take place online by Zoom. Please email us at info@centrea.org i
 you require assistance or further information.
 
 For further information please
-visit: https://centrea.org/programs-events/
+visit: [https://centrea.org/programs-events/](https://centrea.org/programs-events/)
 
-Please find event layouts as follows https://we-cast-
+Please find event layouts as follows [https://we-cast-](https://we-cast-)
 spells.squarespace.com/public-programming

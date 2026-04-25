@@ -29,7 +29,7 @@ forms and guidelines are available from the Cultural Services
 Department at the Woodward's Heritage Building, 111 West 
 Hastings Street, Suite 501, or on the City's website at 
 vancouver.ca/bookaward 
-<http://internal.vancouver.ca/commsvcs/oca/awards/> .
+<[http://internal.vancouver.ca/commsvcs/oca/awards/](http://internal.vancouver.ca/commsvcs/oca/awards/)> .
 Deadline for entries is Wednesday, May 25, 2011.
 
 Recent past winners include: Bruce Grenville and Scott Steedman 

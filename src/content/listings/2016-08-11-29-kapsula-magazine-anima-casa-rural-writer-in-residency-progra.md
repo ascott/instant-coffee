@@ -26,7 +26,7 @@ KAPSULA team to produce a special issue of the magazine from these materials.
 The selected writer will be expected to pay for his or her own travel, with
 the promise of room, board, and scenic views at the other end.
 DEADLINE: Midnight on October 14th, 2016
-Visit http://kapsula.ca for the full call and submission guidelines.
+Visit [http://kapsula.ca](http://kapsula.ca) for the full call and submission guidelines.
 About ANIMA Casa Rural
 
 ANIMA is a rural, sustainable, independent village home located in San
@@ -34,8 +34,8 @@ Isidro Mazatepec, Mexico. Our self-directed residencies aim to offer time
 and space away for all manner of creative people from their usual routines
 and environment. We provide a time for reflection, research and production,
 and practice.
-Learn more at http://animacasarural.com/we-are/ and
-http://animacasarural.com/residencies_home.
+Learn more at [http://animacasarural.com/we-are/](http://animacasarural.com/we-are/) and
+[http://animacasarural.com/residencies_home](http://animacasarural.com/residencies_home).
 
 30. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.

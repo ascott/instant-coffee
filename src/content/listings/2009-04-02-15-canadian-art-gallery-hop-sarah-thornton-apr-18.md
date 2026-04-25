@@ -29,7 +29,7 @@ Complete your day with a special screening of Megumi Sasaki's award-winning
 documentary film about the legendary contemporary-art collectors Herbert
 and Dorothy Vogel.
 
-PURCHASE TICKETS ONLINE: http://www.casv.ca
+PURCHASE TICKETS ONLINE: [http://www.casv.ca](http://www.casv.ca)
 
 For more info: info@casv.ca or call 604-804-6342
 

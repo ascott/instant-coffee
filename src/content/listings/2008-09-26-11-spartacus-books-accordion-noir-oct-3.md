@@ -49,7 +49,7 @@ on the second night is $10.
 
 The radio show continues to broadcast weekly every Friday night 9:30-10:30
 pm at 102.7 fm CFRO CO-OP community radio, and podcasts through its website
-at http://accordionnoir.org/
+at [http://accordionnoir.org/](http://accordionnoir.org/)
 
 -30-
 
@@ -60,14 +60,14 @@ accordion.noir@gmail.com
 
 other useful URLs:
 
-http://www.geoffberner.com/
-http://www.amydenio.com/
-http://www.creakingplanks.com
-http://www.myspace.com/accordionnoir
+[http://www.geoffberner.com/](http://www.geoffberner.com/)
+[http://www.amydenio.com/](http://www.amydenio.com/)
+[http://www.creakingplanks.com](http://www.creakingplanks.com)
+[http://www.myspace.com/accordionnoir](http://www.myspace.com/accordionnoir)
 
 For a print-quality version of the poster please visit
-http://accordionnoir.org/drupal/files/Accordion%20Noir%20poster.pdf
+[http://accordionnoir.org/drupal/files/Accordion%20Noir%20poster.pdf](http://accordionnoir.org/drupal/files/Accordion%20Noir%20poster.pdf)
 For the audio PSA (hi, radio folks!) please visit
-http://accordionnoir.org/drupal/audio/download/105/Accordion+Noir+Festival+PRA+Mp3.mp3
+[http://accordionnoir.org/drupal/audio/download/105/Accordion+Noir+Festival+PRA+Mp3.mp3](http://accordionnoir.org/drupal/audio/download/105/Accordion+Noir+Festival+PRA+Mp3.mp3)
 
 Thanks!

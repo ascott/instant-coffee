@@ -24,7 +24,7 @@ Prices include film stock and chemistry
 No prior experience necessary
 Instructor: Jack Beatty
 
-REGISTER: https://bit.ly/2J24HVc
+REGISTER: [https://bit.ly/2J24HVc](https://bit.ly/2J24HVc)
 
 This full-day workshop will take participants step by step through the
 stunning photo-chemical technique mastered by Australian experimental

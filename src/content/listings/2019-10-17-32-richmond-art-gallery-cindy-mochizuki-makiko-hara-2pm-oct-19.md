@@ -50,7 +50,7 @@ screened her work in Canada, US, and Asia. Exhibitions include the Frye Art Muse
 2015, she received the Vancouver's Mayor's Arts Award in New Media and Film. She
 received her MFA in Interdisciplinary Studies from the School For Contemporary Arts
 (2006).
-http://www.cindymochizuki.com/
+[http://www.cindymochizuki.com/](http://www.cindymochizuki.com/)
 
 33. EDUCATION |
 The Blue Cabin Floating Artist Residency | Possum Armband Making Workshop | 1PM | OCT 19
@@ -76,7 +76,7 @@ and create their own possum armband.
 
 This workshop is free, but
 capacity is limited and registration is recommended. Please
-register via Eventbrite: https://www.eventbrite.com/e/possum-armband-making-
+register via Eventbrite: [https://www.eventbrite.com/e/possum-armband-making-](https://www.eventbrite.com/e/possum-armband-making-)
 workshop-with-vicki-couzens-tickets-75920691833
 
 Accessibility:

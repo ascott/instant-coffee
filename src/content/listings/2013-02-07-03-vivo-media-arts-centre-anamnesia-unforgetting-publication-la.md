@@ -68,4 +68,4 @@ archive's print collection..
 The web component and boxset will also be launched at this event. The web 
 component, which features select texts, streamable videos from the curatorial 
 programmes, and ephemera from the publication can be accessed: 
-http://anamnesia.vivomediaarts.com/
+[http://anamnesia.vivomediaarts.com/](http://anamnesia.vivomediaarts.com/)

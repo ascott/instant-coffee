@@ -21,7 +21,7 @@ as past and future, old and new, self and other.
 Doors at 6:00pm
 Collage party begins at 6:30pm
 RSVPs are appreciated
-RSVP here: https://thepolygon.ca/event/collage-party-feat-manuel-axel-strain/
+RSVP here: [https://thepolygon.ca/event/collage-party-feat-manuel-axel-strain/](https://thepolygon.ca/event/collage-party-feat-manuel-axel-strain/)
 
 About Manuel Axel Strain
 

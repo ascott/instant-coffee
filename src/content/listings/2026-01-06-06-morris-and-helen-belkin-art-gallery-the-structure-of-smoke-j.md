@@ -28,4 +28,4 @@ Yuxweluptun and others offer ways to undo the familiar in how we approach our un
 future.
 Join us!
 
-https://belkin.ubc.ca/exhibitions/the-structure-of-smoke/
+[https://belkin.ubc.ca/exhibitions/the-structure-of-smoke/](https://belkin.ubc.ca/exhibitions/the-structure-of-smoke/)

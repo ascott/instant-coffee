@@ -12,7 +12,7 @@ Spark! Emerging collisions between art and science
 
 Date/Time: Friday November 13, 6pm-10pm
 Location: VIVO Media Arts Centre (2625 Kaslo Street, Vancouver, BC)
-Facebook page: https://bit.ly/SparkArtScience
+Facebook page: [https://bit.ly/SparkArtScience](https://bit.ly/SparkArtScience)
 Tickets: $5 - $20 (sliding scale). Proceeds support future art-science
 co-labs and events.
 

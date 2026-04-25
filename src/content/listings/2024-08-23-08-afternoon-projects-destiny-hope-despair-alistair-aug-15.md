@@ -29,4 +29,4 @@ accumulations of felt and recollected feeling over time.
 Gallery Hours: Thursday, Friday, Saturday 1-5 pm and by appointment
 afternoonprojects.org
 Book Appointment
-http://https://calendly.com/afternoon/mourner-s-revery
+[http://https://calendly.com/afternoon/mourner-s-revery](http://https://calendly.com/afternoon/mourner-s-revery)

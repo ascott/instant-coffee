@@ -63,5 +63,5 @@ do not accept sculptures or any work outside these dimensions.
 5) Deadline: 5 pm on Sunday, March 22nd, 2020.
 
 For more information about ART VANCOUVER 2020 please visit
-https://www.artvancouver.net/post/2020-art-vancouver-competition-artist-call-for-
+[https://www.artvancouver.net/post/2020-art-vancouver-competition-artist-call-for-](https://www.artvancouver.net/post/2020-art-vancouver-competition-artist-call-for-)
 participation-in-art-contest

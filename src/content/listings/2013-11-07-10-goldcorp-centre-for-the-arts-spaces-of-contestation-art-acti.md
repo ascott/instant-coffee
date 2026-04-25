@@ -107,6 +107,6 @@ and an increasing economic precarity amongst creative workers, her research
 examines specific moments where protest collides with an escalating 
 economization of culture.
 
-http://www.helenpittgallery.org
-http://www.sfuwoodwards.ca/index.php/community
-http://www.sfu.ca/humanities-institute
+[http://www.helenpittgallery.org](http://www.helenpittgallery.org)
+[http://www.sfuwoodwards.ca/index.php/community](http://www.sfuwoodwards.ca/index.php/community)
+[http://www.sfu.ca/humanities-institute](http://www.sfu.ca/humanities-institute)

@@ -47,6 +47,6 @@ BC).
 
 For more information, visit our websites:
 
-https://www.tree-museum.com/near-dwellers
+[https://www.tree-museum.com/near-dwellers](https://www.tree-museum.com/near-dwellers)
 
-https://www.tree-museum.com/indwellers
+[https://www.tree-museum.com/indwellers](https://www.tree-museum.com/indwellers)

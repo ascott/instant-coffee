@@ -19,5 +19,5 @@ legislation and regulation to stop gag orders from being
 used in settlements of cases of sexual misconduct, racism, pregnancy discrimination and
 other human rights violations.
 
-https://www.pacificlegaloutreach.com/upcoming-events/legal-lunch-and-learn-april-11-
+[https://www.pacificlegaloutreach.com/upcoming-events/legal-lunch-and-learn-april-11-](https://www.pacificlegaloutreach.com/upcoming-events/legal-lunch-and-learn-april-11-)
 2022

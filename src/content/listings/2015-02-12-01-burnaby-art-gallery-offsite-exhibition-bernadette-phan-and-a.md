@@ -24,4 +24,4 @@ Bob Prittie Library (Metrotown)
 Burnaby Art Gallery
 6344 Deer Lake Avenue
 Burnaby, BC V5G 2J3
-http://burnabyartgallery.ca
+[http://burnabyartgallery.ca](http://burnabyartgallery.ca)

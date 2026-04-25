@@ -63,4 +63,4 @@ her MFA in Visual Arts at the University of Victoria, in Victoria, BC.
 
 www.facebook.com/events/685981245089866
 
-http://dynamoarts.ca
+[http://dynamoarts.ca](http://dynamoarts.ca)

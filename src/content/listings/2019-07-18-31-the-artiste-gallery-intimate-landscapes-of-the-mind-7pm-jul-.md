@@ -36,4 +36,4 @@ Subsequent open hours:
 Saturday, July 27th, 1-3pm
 Monday-Wednesday July 29th-31st, 6-8pm
 
-https://www.facebook.com/events/2260243970859067/
+[https://www.facebook.com/events/2260243970859067/](https://www.facebook.com/events/2260243970859067/)

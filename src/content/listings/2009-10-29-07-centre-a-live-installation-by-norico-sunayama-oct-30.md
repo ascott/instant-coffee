@@ -45,4 +45,4 @@ Tel: 604.683.8326
 
 info@centrea.org
 
-http://www.centrea.org
+[http://www.centrea.org](http://www.centrea.org)

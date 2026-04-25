@@ -41,7 +41,7 @@ candidate wish, this may include any programming commissioned as a
 requirement of their graduate or undergraduate studies).
 
 For all eligible candidates please visit
-http://www.flashforwardfestival.com/curator
+[http://www.flashforwardfestival.com/curator](http://www.flashforwardfestival.com/curator)
 
 To review the online application process and to submit your entry,
 please click here.

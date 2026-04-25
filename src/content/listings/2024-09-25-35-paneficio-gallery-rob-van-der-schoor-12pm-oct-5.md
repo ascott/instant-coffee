@@ -44,4 +44,4 @@ and showed a number of artists he met in the USA. He also contacted galleries,
 collectors and museums throughout the States, which resulted in many exhibitions
 and curator-ships.
 
-http://robvanderschoor.eu/
+[http://robvanderschoor.eu/](http://robvanderschoor.eu/)

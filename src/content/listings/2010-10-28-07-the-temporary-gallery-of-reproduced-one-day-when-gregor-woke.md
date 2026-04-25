@@ -21,7 +21,7 @@ Byron Peters
 
 Andrew Witt
 
-http://www.gregorsamsa.info
+[http://www.gregorsamsa.info](http://www.gregorsamsa.info)
 
 Starting the 19th of October, 2010
 

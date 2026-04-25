@@ -16,7 +16,7 @@ array of hues, full page compositions, and experimental techniques.
 Lucky's Comics: 3972 Main St. (back room gallery)
 Reception February 2nd 7-9pm 
 Show runs February 2nd-16th 
-Gallery Hours @ http://www.luckys.ca/
+Gallery Hours @ [http://www.luckys.ca/](http://www.luckys.ca/)
 
 About the Artists: 
 

@@ -47,4 +47,4 @@ Surrey Art Gallery
 Surrey, BC
 Canada
 V3W 3L1
-http://www.surrey.ca/arts
+[http://www.surrey.ca/arts](http://www.surrey.ca/arts)

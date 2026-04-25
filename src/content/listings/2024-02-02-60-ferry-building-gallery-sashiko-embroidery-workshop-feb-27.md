@@ -21,7 +21,7 @@ embellish. Bring scissors and a bit of fabric that inspires you or the pieces su
 during the workshop. All ages & skill levels
 welcome.
 
-More info at https://ferrybuildinggallery.ca/programs/workshops/fabric-arts-loving-
+More info at [https://ferrybuildinggallery.ca/programs/workshops/fabric-arts-loving-](https://ferrybuildinggallery.ca/programs/workshops/fabric-arts-loving-)
 your-denim-sashiko-embroidery
 
 1:00 - 4:00 pm | FEBRUARY 27

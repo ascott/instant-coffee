@@ -20,15 +20,15 @@ Programs
 
 Before submitting, read the submission guidelines:
 
-https://artists.ca/content/item/download/8183/119(Painting Intake)
+[https://artists.ca/content/item/download/8183/119(Painting](https://artists.ca/content/item/download/8183/119(Painting) Intake)
 
-https://artists.ca/content/item/download/8184/119 (Sculpture Intake)
+[https://artists.ca/content/item/download/8184/119](https://artists.ca/content/item/download/8184/119) (Sculpture Intake)
 
 Submit through this link:
 
-https://artists.ca/submissions/view/id/2106 (Painting Intake)
+[https://artists.ca/submissions/view/id/2106](https://artists.ca/submissions/view/id/2106) (Painting Intake)
 
-https://artists.ca/submissions/view/id/2107 (Sculpture Intake)
+[https://artists.ca/submissions/view/id/2107](https://artists.ca/submissions/view/id/2107) (Sculpture Intake)
 
 32. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.

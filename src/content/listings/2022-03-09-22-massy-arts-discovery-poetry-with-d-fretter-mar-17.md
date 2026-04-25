@@ -33,4 +33,4 @@ protection), and consent to having their temperature checked at the front door. 
 kindly ask that if you are showing any symptoms, that you stay home. Thank you
 kindly.
 
-Register at: https://www.eventbrite.com/e/discovery-poetry-night-tickets-248419418167
+Register at: [https://www.eventbrite.com/e/discovery-poetry-night-tickets-248419418167](https://www.eventbrite.com/e/discovery-poetry-night-tickets-248419418167)

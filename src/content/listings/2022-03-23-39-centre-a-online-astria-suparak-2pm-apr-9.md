@@ -15,7 +15,7 @@ Saturday, April 9, 2022
 2 - 3:30 PM PDT
 (online)
 Register HERE.
-https://us02web.zoom.us/meeting/register/tZEqfuirrTwtGdNX0MW4-
+[https://us02web.zoom.us/meeting/register/tZEqfuirrTwtGdNX0MW4-](https://us02web.zoom.us/meeting/register/tZEqfuirrTwtGdNX0MW4-)
 7QdHH7u3eCS4yFN
 
 Centre A is pleased to announce the Canadian premiere of Asian futures, without

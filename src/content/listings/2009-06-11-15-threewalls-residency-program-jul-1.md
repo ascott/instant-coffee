@@ -49,4 +49,4 @@ cultivating contemporary art practice and discourse, and by creating a locus of 
 between local, national and international contemporary art communities through a range of 
 programs: www.three-walls.org.
 
-http://www.three-walls.org/programs/threewallsresidencies
+[http://www.three-walls.org/programs/threewallsresidencies](http://www.three-walls.org/programs/threewallsresidencies)

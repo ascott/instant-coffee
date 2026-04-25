@@ -16,5 +16,5 @@ Workshop: NEEDLE FELTED SCULPTURE
 Sunday, May 5, 1-4 pm
 Fee: $10/per participant Registration Code: 207200
 Register at Britannia Community Centre in person or online at;
-https://ca.apm.actiecommunities.com/vancouver/Home
+[https://ca.apm.actiecommunities.com/vancouver/Home](https://ca.apm.actiecommunities.com/vancouver/Home)
 Age limit: 12+

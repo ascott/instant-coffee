@@ -19,7 +19,7 @@ AT: The Jewish Museum and Archives of BC, 6184 Ash Street (2nd floor),
 Vancouver.
 
 Tickets and information
-https://www.eventbrite.ca/e/the-chosen-food-mant-borek-baklava-shabbat-dinner-
+[https://www.eventbrite.ca/e/the-chosen-food-mant-borek-baklava-shabbat-dinner-](https://www.eventbrite.ca/e/the-chosen-food-mant-borek-baklava-shabbat-dinner-)
 fresh-challah-tickets-32642035206
 
 Derya Akay (b, 1988, Turkey) is an artist living in Vancouver. He received the 

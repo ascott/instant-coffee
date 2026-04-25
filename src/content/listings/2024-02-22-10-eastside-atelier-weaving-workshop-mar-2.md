@@ -15,7 +15,7 @@ workshop with teaching artist Amanda Wood. No previous weaving experience needed
 
 Saturdays from 9:30-12:30, March 2-16
 Eastside Atelier, 1310 William Street
-More details and register through eventbrite: http://tinyurl.com/bdz3tmpd
+More details and register through eventbrite: [http://tinyurl.com/bdz3tmpd](http://tinyurl.com/bdz3tmpd)
 
 Registration closes February 28.
 ABOUT THE CLASS

@@ -18,30 +18,30 @@ holiday cards, zines, jewelry and accessories, embroidered goods, art jamming
 sessions, tattoo sessions, baked goods, textiles and more!
 Vendor List (stay tuned for more!)
 Hina Yunus (Yupo paper cards, acrylic painting)
-https://www.instagram.com/art_by_hina_yunus/
-https://art-by-hina-yunus.square.site/
+[https://www.instagram.com/art_by_hina_yunus/](https://www.instagram.com/art_by_hina_yunus/)
+[https://art-by-hina-yunus.square.site/](https://art-by-hina-yunus.square.site/)
 Slime Studio (Ceramics, prints, stickers)
-https://slime-studio.square.site/
-https://www.instagram.com/slime____studio/
+[https://slime-studio.square.site/](https://slime-studio.square.site/)
+[https://www.instagram.com/slime____studio/](https://www.instagram.com/slime____studio/)
 Goopy Makes (Handmade pouches)
-https://www.instagram.com/goopymakes/?hl=en
+[https://www.instagram.com/goopymakes/?hl=en](https://www.instagram.com/goopymakes/?hl=en)
 Christa Yang (Handmade embroidery)
-https://www.instagram.com/tenderpup/
+[https://www.instagram.com/tenderpup/](https://www.instagram.com/tenderpup/)
 Anna Ugolkova (Jewlery)
-https://ugalkava.com/
-https://www.instagram.com/ugalkava/
+[https://ugalkava.com/](https://ugalkava.com/)
+[https://www.instagram.com/ugalkava/](https://www.instagram.com/ugalkava/)
 Gloria Loo cklooart (adult/kid painting/art jamming session)
-https://www.instagram.com/cklooart_artjamming/?hl=en
-https://www.instagram.com/cklooart/?hl=en
+[https://www.instagram.com/cklooart_artjamming/?hl=en](https://www.instagram.com/cklooart_artjamming/?hl=en)
+[https://www.instagram.com/cklooart/?hl=en](https://www.instagram.com/cklooart/?hl=en)
 Riesgo de Incendio (prints)
-https://www.instagram.com/riesgo.de.incendio/?hl=en
+[https://www.instagram.com/riesgo.de.incendio/?hl=en](https://www.instagram.com/riesgo.de.incendio/?hl=en)
 Alyanna Muyot Boquiren (tattoo artist)
-https://www.instagram.com/linesby_shadowwing/
+[https://www.instagram.com/linesby_shadowwing/](https://www.instagram.com/linesby_shadowwing/)
 DanevaD (baked goods, table linens and photographic prints)
-https://danevad.com/
-https://www.instagram.com/daneva_d/
+[https://danevad.com/](https://danevad.com/)
+[https://www.instagram.com/daneva_d/](https://www.instagram.com/daneva_d/)
 Isabelle Philibert & Tiffany Yang (holiday cards and miniatures)
-https://www.instagram.com/is_pressions/
+[https://www.instagram.com/is_pressions/](https://www.instagram.com/is_pressions/)
 Mojgan Abolhassani (T-shirts, Jewelry & Cards)
 Maria Sabado (Jewelry)
 and more.....

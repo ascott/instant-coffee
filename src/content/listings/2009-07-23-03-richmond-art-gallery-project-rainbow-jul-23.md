@@ -50,4 +50,4 @@ Tel: 604-247-8300
 
 for directions and map:
 
-http://www.richmondartgallery.org/locationandhours
+[http://www.richmondartgallery.org/locationandhours](http://www.richmondartgallery.org/locationandhours)

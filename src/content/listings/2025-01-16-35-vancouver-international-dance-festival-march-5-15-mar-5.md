@@ -24,7 +24,7 @@ showcases work that's raw, kinetic and experimental " performances that engage
 and challenge audiences. Increasing public appreciation for dance is a core goal.
 
 Feel the rhythm. See the passion. Live the moment with VIDF 2025 TICKETS +
-PASSES. Available now until January 31, 2025: https://vidf.ca/
+PASSES. Available now until January 31, 2025: [https://vidf.ca/](https://vidf.ca/)
 
 Single Tickets'$25"$60
 
@@ -44,7 +44,7 @@ libraries and the experience of sharing space with friends at school. Writers, e
 graphic and interaction designers, industrial designers, architects and engineers, arts
 administrators, students and researchers: we welcome you to join us!
 
-Book a tour with our Membership & Events Coordinator via https://221a.ca/housing-
+Book a tour with our Membership & Events Coordinator via [https://221a.ca/housing-](https://221a.ca/housing-)
 studios-and-work-spaces/coworking/, or feel free to email us at coworking@221a.ca
 
 2.

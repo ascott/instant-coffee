@@ -19,5 +19,5 @@ Nikkei National Museum & Cultural Centre
 
 Close to the Edmonds skytrain station
 
-http://centre.nikkeiplace.org/events/celebrate-spring-2018/
-http://centre.nikkeiplace.org/events/bloom2018/
+[http://centre.nikkeiplace.org/events/celebrate-spring-2018/](http://centre.nikkeiplace.org/events/celebrate-spring-2018/)
+[http://centre.nikkeiplace.org/events/bloom2018/](http://centre.nikkeiplace.org/events/bloom2018/)

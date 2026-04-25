@@ -69,7 +69,7 @@ reprint of the three issues of The Fox, a short-lived critical journal and
 magazine
 published in New York in 1975 and 1976 by the American chapter of British
 conceptual art group, Art & Language.
-For more information please visit http://www.helenpittgallery.org
+For more information please visit [http://www.helenpittgallery.org](http://www.helenpittgallery.org)
 The Book on Books on Artists’ Books 
 Book Launch/Artist Talk
 Saturday, November 23 at 2:30
@@ -83,7 +83,7 @@ that
 informs, describes and promotes the distribution and circulation of artists’ 
 books.
 The launch will be accompanied by a short talk by the artist.
-For further information please see http://www.satellitegallery.ca
+For further information please see [http://www.satellitegallery.ca](http://www.satellitegallery.ca)
 
 ***
 READ | Charles H. Scott Gallery | Emily Carr University of Art + Design

@@ -42,4 +42,4 @@ Your participation in this show is encouraged and appreciated.
 
 Thank you, Linda Lando, Zack Gallery Director | gallery@jccgv.bc.ca
 
-https://jccgv.com/sites/default/files/pdfs/Call-for-Submissions-Harikud2.pdf
+[https://jccgv.com/sites/default/files/pdfs/Call-for-Submissions-Harikud2.pdf](https://jccgv.com/sites/default/files/pdfs/Call-for-Submissions-Harikud2.pdf)

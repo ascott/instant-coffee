@@ -28,7 +28,7 @@ The gallery is at 1612 west 3rd Avenue, Vancouver, BC
 
 the website for the gallery is
 
-http://web.me.com/g1612/1612/1612.html
+[http://web.me.com/g1612/1612/1612.html](http://web.me.com/g1612/1612/1612.html)
 
 facebook
-http://www.facebook.com/pages/Vancouver-BC/1612-Gallery/283861019265
+[http://www.facebook.com/pages/Vancouver-BC/1612-Gallery/283861019265](http://www.facebook.com/pages/Vancouver-BC/1612-Gallery/283861019265)

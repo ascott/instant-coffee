@@ -45,7 +45,7 @@ www.front.bc.ca
 
 T. +1 604 876 9343 
 
-W. http://front.bc.ca 
+W. [http://front.bc.ca](http://front.bc.ca) 
 
 E. exhibitions@front.bc.ca 
 

@@ -16,7 +16,7 @@ University, and Refuge Cove in coastal British Columbia. Ruwedel is in conversat
 with John O'Brian, author and Professor Emeritus of Art History at UBC.
 
 Listen here:
-https://thepolygon.ca/news/the-polygon-podcast-episode-9-featuring-mark-
+[https://thepolygon.ca/news/the-polygon-podcast-episode-9-featuring-mark-](https://thepolygon.ca/news/the-polygon-podcast-episode-9-featuring-mark-)
 ruwedel-and-john-obrian/
 
 Or on iTunes, Spotify, and Google Podcasts.

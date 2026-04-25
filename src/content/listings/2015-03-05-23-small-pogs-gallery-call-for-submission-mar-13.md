@@ -40,4 +40,4 @@ treated like an artist calling card. Make them your own.
 project itself.
 
 for more information on small POGS GALLERY, Halifax N.S.
-http://kayleareeve.wix.com/smallpogsgallery#!about/c240r
+[http://kayleareeve.wix.com/smallpogsgallery#!about/c240r](http://kayleareeve.wix.com/smallpogsgallery#!about/c240r)

@@ -19,16 +19,16 @@ art rock? no. 9
 featuring:
 
 SHEARING PINX
-https://myspace.com/shearingpinx
+[https://myspace.com/shearingpinx](https://myspace.com/shearingpinx)
 
 PUKESWORD
-https://pukesword.bandcamp.com/
+[https://pukesword.bandcamp.com/](https://pukesword.bandcamp.com/)
 
 SNOOZER
-https://youtu.be/G_nUQmOwuRM?t=18s
+[https://youtu.be/G_nUQmOwuRM?t=18s](https://youtu.be/G_nUQmOwuRM?t=18s)
 
 HAZY
-https://youtu.be/T4oobN7ym8k
+[https://youtu.be/T4oobN7ym8k](https://youtu.be/T4oobN7ym8k)
 
 &
 

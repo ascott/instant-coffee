@@ -17,8 +17,8 @@ VIVO Media Arts Centre
 8:00 pm
 Admission: 3 - 5$, sliding scale
 
-visit the KSW website: http://www.kswnet.org/
-visit the VIVO website: http://www.videoinstudios.com/
+visit the KSW website: [http://www.kswnet.org/](http://www.kswnet.org/)
+visit the VIVO website: [http://www.videoinstudios.com/](http://www.videoinstudios.com/)
 
 *+*+*+*+*+*+*+*+*
 

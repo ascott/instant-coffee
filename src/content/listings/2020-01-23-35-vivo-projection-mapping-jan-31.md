@@ -11,9 +11,9 @@ summary: "VIVO | Projection Mapping | JAN 31"
 Projection Mapping with Stuart Ward
 
 SIGN UP & MORE INFO
-January: https://jan-projectionmapping.eventbrite.ca
+January: [https://jan-projectionmapping.eventbrite.ca](https://jan-projectionmapping.eventbrite.ca)
 February:
-https://feb-projectionmapping.eventbrite.ca
+[https://feb-projectionmapping.eventbrite.ca](https://feb-projectionmapping.eventbrite.ca)
 
 Create wild new perspectives by mapping your videos onto any surface with artist Stuart
 Ward.
@@ -24,7 +24,7 @@ Session 1: Fri Jan 31, 3pm-6pm
 Session 2: Sat Feb 1, 12pm - 6pm
 
 Two Extended Subsidies available:
-https://forms.gle/q6yP1bjr7qWr8eap8
+[https://forms.gle/q6yP1bjr7qWr8eap8](https://forms.gle/q6yP1bjr7qWr8eap8)
 
 This workshop introduces you to projection mapping, allowing you to map your video content
 onto any

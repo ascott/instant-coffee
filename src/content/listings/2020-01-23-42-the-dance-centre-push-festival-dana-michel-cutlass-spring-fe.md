@@ -23,4 +23,4 @@ commentary. Her latest creation, CUTLASS SPRING, delves into the mystery of the
 sexual self, exploring how cultural repression and her life as a performer, a mother, and
 a lover have shaped her sexual identity.
 
-Link to info and tickets: https://thedancecentre.ca/event/dana-michel/2020-02-06/
+Link to info and tickets: [https://thedancecentre.ca/event/dana-michel/2020-02-06/](https://thedancecentre.ca/event/dana-michel/2020-02-06/)

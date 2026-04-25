@@ -21,7 +21,7 @@ University lighting studio
 
 Personal Documentary Film Workshop with Roberto Santaguida: September 30 + 
 October 1
-RSVP here: https://www.facebook.com/events/928606593972472/
+RSVP here: [https://www.facebook.com/events/928606593972472/](https://www.facebook.com/events/928606593972472/)
 
 Find out more on our website:
-http://www.arnicaartistruncentre.ca/roberto-santaguida-aimee-henny-brown/
+[http://www.arnicaartistruncentre.ca/roberto-santaguida-aimee-henny-brown/](http://www.arnicaartistruncentre.ca/roberto-santaguida-aimee-henny-brown/)

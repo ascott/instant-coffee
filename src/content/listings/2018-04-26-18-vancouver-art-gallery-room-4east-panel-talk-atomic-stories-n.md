@@ -49,7 +49,7 @@ Free for Members or with Gallery Admission.
 
 For more info, visit:
 
-http://www.vanartgallery.bc.ca/events_and_programs/speaker_series.html
+[http://www.vanartgallery.bc.ca/events_and_programs/speaker_series.html](http://www.vanartgallery.bc.ca/events_and_programs/speaker_series.html)
 
 Please also note: The next curated tour for BOMBHEAD will take place on Tuesday, 
 April 24 at 7pm on the 3rd Floor of the Vancouver Art Gallery. 

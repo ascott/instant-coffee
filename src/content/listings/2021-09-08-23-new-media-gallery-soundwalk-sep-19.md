@@ -25,7 +25,7 @@ Thursday, Sep 19-Oct 3
 
 3:30pm - 5:00pm
 
-https://bit.ly/3rCT8uT
+[https://bit.ly/3rCT8uT](https://bit.ly/3rCT8uT)
 
 Ages 18+
 
@@ -33,7 +33,7 @@ Thursday, Sep 19-Oct 3
 
 6:00pm - 7:30pm
 
-https://bit.ly/3ye3eEQ
+[https://bit.ly/3ye3eEQ](https://bit.ly/3ye3eEQ)
 
 Learning Lab 311
 

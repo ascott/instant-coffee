@@ -18,7 +18,7 @@ June 1-23 2012
 Opening Reception: Friday June 8, 8-11pm
 Gallery Hours: Tuesday- Saturday, 11am-6pm
 1965 Main St. Vancouver
-http://www.vivomediaarts.com/event/movable-facture
+[http://www.vivomediaarts.com/event/movable-facture](http://www.vivomediaarts.com/event/movable-facture)
 
 Movable Facture, curated by Allison Collins, is a response to the 
 possibility of opening a forum for research into the material nature of 

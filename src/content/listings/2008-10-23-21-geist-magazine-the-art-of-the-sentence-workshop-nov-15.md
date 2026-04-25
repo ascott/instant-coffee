@@ -31,4 +31,4 @@ Price: $50 (includes a one-year subscription for yourself or a friend,
 or donate to a Canadian public library). Please note, there will be a
 $10 fee if you cancel less than one week before the workshop.
 To register: click here or call 604-681-9161 or
-http://www.geist.com/events/art-sentence-workshop
+[http://www.geist.com/events/art-sentence-workshop](http://www.geist.com/events/art-sentence-workshop)

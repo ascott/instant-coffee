@@ -17,4 +17,4 @@ create and tell your own stories in comic and graphic novel form, and will cover
 storytelling and drawing techniques. Open to all skill levels - beginners welcome!
 $35
 
-https://www.mobil-art.ca/event-info/introduction-to-comic-book-making
+[https://www.mobil-art.ca/event-info/introduction-to-comic-book-making](https://www.mobil-art.ca/event-info/introduction-to-comic-book-making)

@@ -31,4 +31,4 @@ shortlisted artists to produce their proposal.
 full project proposal with a maquette from short-listed applicants.
 
 For more information and submission guidelines:
-http://publicart.edmontonarts.ca/static_media/pdfs/files/
+[http://publicart.edmontonarts.ca/static_media/pdfs/files/](http://publicart.edmontonarts.ca/static_media/pdfs/files/)

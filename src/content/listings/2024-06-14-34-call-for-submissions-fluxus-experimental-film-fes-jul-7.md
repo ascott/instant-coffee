@@ -76,7 +76,7 @@ secure the space.
 
 Spot available immediately!
 
-http://thephoenixgallery.ca/
+[http://thephoenixgallery.ca/](http://thephoenixgallery.ca/)
 
 3.
 Gore Studio artist space

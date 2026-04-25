@@ -37,7 +37,7 @@ $45 to submit but if you can contact us early, between Nov. 15th and Dec.
 
 For details and to submit:
 
-http://www.vantageartprojects.com/Current_Submissions.html
+[http://www.vantageartprojects.com/Current_Submissions.html](http://www.vantageartprojects.com/Current_Submissions.html)
 
 Looking forward to seeing your submissions!
 

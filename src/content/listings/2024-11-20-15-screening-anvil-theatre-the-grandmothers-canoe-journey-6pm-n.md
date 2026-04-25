@@ -29,5 +29,5 @@ filmmakers, artists and supporters: Nadine Spence, David and Jen of Love
 Intersections, Atheana Picha, Rita Wong, Ronnie Dean Harris and David McCullum.
 The event will open with a welcome from Mary Point.
 
-More Information: https://www.newwestcity.ca/services/arts-and-heritage/museums-
+More Information: [https://www.newwestcity.ca/services/arts-and-heritage/museums-](https://www.newwestcity.ca/services/arts-and-heritage/museums-)
 and-archives#feature-exhibitions

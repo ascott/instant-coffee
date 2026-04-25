@@ -8,7 +8,7 @@ venue: "FESTIVAL"
 summary: "FESTIVAL | Queer Arts Festival | Various Locations | JUN 1"
 ---
 
-https://queerartsfestival.com/exhibitions-events/
+[https://queerartsfestival.com/exhibitions-events/](https://queerartsfestival.com/exhibitions-events/)
 
 The Pride in Art Society (PiA) produces, presents and exhibits with a curatorial vision
 favouring challenging, thought-provoking contemporary art that pushes boundaries and

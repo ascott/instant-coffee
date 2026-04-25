@@ -68,7 +68,7 @@ Art Gallery does not keep any portion of the admin fee " it is collected in its 
 Slideroom. If the cost of applying is prohibitive to you, please contact us at
 info(at)seymourartgallery.com
 
-Apply online, here: https://www.seymourartgallery.com/exhibitions/calls-for-artists/
+Apply online, here: [https://www.seymourartgallery.com/exhibitions/calls-for-artists/](https://www.seymourartgallery.com/exhibitions/calls-for-artists/)
 
 Exhibition: January 16 - February 27, 2021
 

@@ -65,13 +65,13 @@ provide natural light, creating a warm and inviting ambience for
 dancers. The facility also provides ample washrooms and changing 
 rooms.
 Please fill out a Rental Request 
-Form<http://www.gohballet.com/pdf/Schedule%20A%20Template_Fil
+Form<[http://www.gohballet.com/pdf/Schedule%20A%20Template_Fil](http://www.gohballet.com/pdf/Schedule%20A%20Template_Fil)
 lable_Form.pdf> and email the form to the Goh Ballet 
 Academy<mailto:admin@gohballet.com> for studio rental rates and 
 available times. Please note that we run a full dance program 
 throughout the year and are able to accommodate only select 
 dates/times when studio is not in regular use. Rental rates vary. 
-www.gohballet.com<http://www.gohballet.com>
+www.gohballet.com<[http://www.gohballet.com](http://www.gohballet.com)>
 
 More information:
 Chan Hon Goh, Director
@@ -80,5 +80,5 @@ Goh |
 2345 Main Street, Vancouver BC, V5T 3C9 | P. 604.872.4014 ext. 
 216 | F. 604.872.4011 |
 E: chgoh@chanhongoh.com<mailto:chgoh@chanhongoh.com> | 
-www.gohballet.com<http://www.gohballet.com/> | 
-www.chanhongoh.com<http://www.chanhongoh.com/> |
+www.gohballet.com<[http://www.gohballet.com/](http://www.gohballet.com/)> | 
+www.chanhongoh.com<[http://www.chanhongoh.com/](http://www.chanhongoh.com/)> |

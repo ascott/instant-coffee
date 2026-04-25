@@ -10,7 +10,7 @@ summary: "Langara College | SPRING 2012 SPEAKER: Richard Tetrault | FEB 28"
 
 The Langara College Centre for Art in Public Spaces
 SPRING 2012 SPEAKER 
-SERIES<http://www.langara.bc.ca/departments/centre-for-art-in-public-
+SERIES<[http://www.langara.bc.ca/departments/centre-for-art-in-public-](http://www.langara.bc.ca/departments/centre-for-art-in-public-)
 spaces/speaker-series/spring-2012.html>
 
 Richard Tetrault
@@ -43,7 +43,7 @@ projecting their visions onto school walls citywide.
 
 About the Centre
 The Langara College Centre for Art in Public 
-Spaces<http://www.langara.bc.ca/departments/centre-for-art-in-public-
+Spaces<[http://www.langara.bc.ca/departments/centre-for-art-in-public-](http://www.langara.bc.ca/departments/centre-for-art-in-public-)
 spaces/index.html> engages communities in the research, production, 
 and presentation of art in the public realm. The Centre encourages 
 dialogue, and fosters opportunities to collaborate on, experience, and 

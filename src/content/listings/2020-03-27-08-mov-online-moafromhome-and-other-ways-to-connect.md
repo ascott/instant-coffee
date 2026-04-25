@@ -19,10 +19,10 @@ online with us and experience #MOAFromHome. Follow us on social media, below, fo
 doses of culture and delight.
 
 Explore the MOA Collection online
-http://collection-online.moa.ubc.ca/home
+[http://collection-online.moa.ubc.ca/home](http://collection-online.moa.ubc.ca/home)
 
 Take a virtual tour of MOA's Great Hall
-http://www2.moa.ubc.ca/shakeupkiosk/
+[http://www2.moa.ubc.ca/shakeupkiosk/](http://www2.moa.ubc.ca/shakeupkiosk/)
 
 Watch videos of Musqueam teachings
-https://www.youtube.com/playlist?list=PLZ7eQHOJTUYObAxjXHjrr5y6QG9GhmD0L
+[https://www.youtube.com/playlist?list=PLZ7eQHOJTUYObAxjXHjrr5y6QG9GhmD0L](https://www.youtube.com/playlist?list=PLZ7eQHOJTUYObAxjXHjrr5y6QG9GhmD0L)

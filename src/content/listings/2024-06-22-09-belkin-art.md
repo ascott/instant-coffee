@@ -25,4 +25,4 @@ including the 2019 exhibition at the Belkin, Hexsaam: To Be Here Always, as well
 with Nicolson's ongoing Nenakw project. Browns work focuses on the interactions
 of social activism and art, feminist practices and institutional structures and systems.
 
-https://belkin.ubc.ca/events/listening-lorna-brown/
+[https://belkin.ubc.ca/events/listening-lorna-brown/](https://belkin.ubc.ca/events/listening-lorna-brown/)

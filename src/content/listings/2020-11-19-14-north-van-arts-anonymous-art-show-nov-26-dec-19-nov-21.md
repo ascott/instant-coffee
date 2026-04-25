@@ -13,7 +13,7 @@ North Van Arts | Anonymous Art Show | November 26 - December 19
 North Van Arts' Online Holiday Fundraiser,
 Anonymous Art Show
 
-https://northvanarts.ca/events-exhibitions/anonymous-art-show-2020-online-fundraiser-
+[https://northvanarts.ca/events-exhibitions/anonymous-art-show-2020-online-fundraiser-](https://northvanarts.ca/events-exhibitions/anonymous-art-show-2020-online-fundraiser-)
 and-sale/
 
 Hundreds of local artists have contributed over 500 original artworks for North Van Arts'

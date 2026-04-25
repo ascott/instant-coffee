@@ -33,4 +33,4 @@ at the Lyon, Venice, and Shenzhen Biennials. Miessen has taught and
 lectured internationally at institutions such as the Architectural
 Association (AA), Columbia and MIT.
 
-www.studiomiessen.com/ <http://www.studiomiessen.com/>
+www.studiomiessen.com/ <[http://www.studiomiessen.com/](http://www.studiomiessen.com/)>

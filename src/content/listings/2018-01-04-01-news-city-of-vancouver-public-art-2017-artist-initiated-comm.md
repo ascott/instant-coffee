@@ -26,4 +26,4 @@ Helen Reed and Hannah Jickling
 Paul Wong
 Vanessa Kwan
 
-http://vancouver.ca/parks-recreation-culture/artist-initiated-commissions.aspx
+[http://vancouver.ca/parks-recreation-culture/artist-initiated-commissions.aspx](http://vancouver.ca/parks-recreation-culture/artist-initiated-commissions.aspx)

@@ -27,7 +27,7 @@ desired).
 NOT INCLUDED IN THE RESIDENCY: travel expenses, food, health insurance, art 
 materials, shipping costs, exhibition costs and other personal expenses.
 
-LEARN MORE + APPLY HERE: https://www.caetani.org/creative-residencies/fresh-air-
+LEARN MORE + APPLY HERE: [https://www.caetani.org/creative-residencies/fresh-air-](https://www.caetani.org/creative-residencies/fresh-air-)
 artist-residency/
 
 -30-

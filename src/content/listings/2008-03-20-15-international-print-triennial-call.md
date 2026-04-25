@@ -10,4 +10,4 @@ summary: "international print triennial | CALL"
 
 The 12th international print triennial "Graphica Creativa" of Jyväskylä Finland, is looking for new and innovative collective printing projects. Please find the call for artists below:
 
-http://www3.jkl.fi/taidemuseo/graphica_creativa/e_index
+[http://www3.jkl.fi/taidemuseo/graphica_creativa/e_index](http://www3.jkl.fi/taidemuseo/graphica_creativa/e_index)

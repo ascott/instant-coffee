@@ -11,7 +11,7 @@ summary: "YACYACTACTAC | A Show of Artist Multiples | NOV 15"
 YACYACTACTAC - A Show of Artist Multiples
 
 Follow us on Instagram @yactac to see the show!
-https://www.instagram.com/yactac/
+[https://www.instagram.com/yactac/](https://www.instagram.com/yactac/)
 
 November 15th - 30th
 
@@ -57,9 +57,9 @@ Yactac
 Mony Zakhour
 
 Join us for updates on facebook:
-https://www.facebook.com/events/410570306615476
+[https://www.facebook.com/events/410570306615476](https://www.facebook.com/events/410570306615476)
 
 Because it is great, and we are YACTAC!
-https://www.yactac.com
+[https://www.yactac.com](https://www.yactac.com)
 
-http://https://www.yactac.com
+[http://https://www.yactac.com](http://https://www.yactac.com)

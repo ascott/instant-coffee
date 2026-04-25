@@ -21,7 +21,7 @@ art that celebrates the spirit of northern British Columbia for the
 municipality’s 100th anniversary.
 
 For the full description of the project and to view the RFP, go to: 
-http://www.bcbid.gov.bc.ca/open.dll/showDisplayDocument?
+[http://www.bcbid.gov.bc.ca/open.dll/showDisplayDocument](http://www.bcbid.gov.bc.ca/open.dll/showDisplayDocument)?
 sessionID=38341765&disID=28343972&docType=Tender&dis_version_no
 s=0&doc_search_by=Tend&docTypeQual=TN
 For questions regarding the submission requirements or process, contact 

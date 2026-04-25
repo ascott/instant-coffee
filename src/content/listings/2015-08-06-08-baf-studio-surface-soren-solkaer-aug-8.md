@@ -75,6 +75,6 @@ and Prague and are part of the permanent collection in The Royal Danish
 Library and The National Portrait Collection in Frederiksborg Castle, Denmark.
 
 LINKS:
-http://sorensolkaer.com/photographs/surface
-http://sorensolkaer.com/video
-http://www.burrardarts.org/portfolio/soren-solkaer
+[http://sorensolkaer.com/photographs/surface](http://sorensolkaer.com/photographs/surface)
+[http://sorensolkaer.com/video](http://sorensolkaer.com/video)
+[http://www.burrardarts.org/portfolio/soren-solkaer](http://www.burrardarts.org/portfolio/soren-solkaer)

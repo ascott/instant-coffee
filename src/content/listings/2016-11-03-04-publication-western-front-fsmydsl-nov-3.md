@@ -38,6 +38,6 @@ free for all.
 FSMYDSL is available through iTunes here, and downloadable from the Western 
 Front website. 
 
-https://itunes.apple.com/ca/book/feeling-so-much-yet-doing/id1171245171?
+[https://itunes.apple.com/ca/book/feeling-so-much-yet-doing/id1171245171](https://itunes.apple.com/ca/book/feeling-so-much-yet-doing/id1171245171)?
 mt=11
-http://front.bc.ca/events/feeling-so-much-yet-doing-so-little/
+[http://front.bc.ca/events/feeling-so-much-yet-doing-so-little/](http://front.bc.ca/events/feeling-so-much-yet-doing-so-little/)

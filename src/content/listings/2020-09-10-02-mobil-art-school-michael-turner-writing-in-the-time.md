@@ -23,4 +23,4 @@ project-oriented, emphasis will be placed on the development of a sustained and 
 artistic practice.
 Beginning: September 2020
 Online - $85 per 1h session
-https://www.mobil-art.ca/event-info/michael-turner-writing-in-the-time-youve-been-given
+[https://www.mobil-art.ca/event-info/michael-turner-writing-in-the-time-youve-been-given](https://www.mobil-art.ca/event-info/michael-turner-writing-in-the-time-youve-been-given)

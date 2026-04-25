@@ -50,7 +50,7 @@ For further information please contact
 readbooks@ecuad.ca or theoryislandpress@gmail.com
 
 To buy the book please visit
-https://itunes.apple.com/ca/book/open-wide/id825927680?mt=11
+[https://itunes.apple.com/ca/book/open-wide/id825927680?mt=11](https://itunes.apple.com/ca/book/open-wide/id825927680?mt=11)
 
 READ | Charles H. Scott Gallery | Emily Carr University
 1399 Johnston Street

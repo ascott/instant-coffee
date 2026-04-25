@@ -117,8 +117,8 @@ performances are available to download at pushfestival.ca. Click on
 "Media Resources" in the page footer.
 
 Direct links:
-http://pushfestival.ca/footer/media-resources/press-releases/
-http://pushfestival.ca/footer/media-resources/images/
+[http://pushfestival.ca/footer/media-resources/press-releases/](http://pushfestival.ca/footer/media-resources/press-releases/)
+[http://pushfestival.ca/footer/media-resources/images/](http://pushfestival.ca/footer/media-resources/images/)
 
 Club PuSh Beer Sponsor Kronenbourg 1664, Club PuSh Wine 
 Sponsor

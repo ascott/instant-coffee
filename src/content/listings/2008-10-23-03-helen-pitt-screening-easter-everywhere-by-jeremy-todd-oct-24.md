@@ -87,7 +87,7 @@ years in hiding and relationships with a Woman and Boy who may or may not
 exist. Easter Everywhere explores some collapsed mythologies of autonomy
 and transcendence in a world overdetermined by capitalist relations.
 
-http://www.eastereverywherefilm.blogspot.com
+[http://www.eastereverywherefilm.blogspot.com](http://www.eastereverywherefilm.blogspot.com)
 
 Participating Artists:
 
@@ -126,5 +126,5 @@ between 30 cities. In 2008 Upgrade Vancouver welcomed Sean Arden and Babak
 Golkar. The programming for 2008-09 will draw on past formats while
 expanding to include new initiatives.
 
-http://www.katearmstrong.com/upgrade/vancouver/
-http://www.theupgrade.net
+[http://www.katearmstrong.com/upgrade/vancouver/](http://www.katearmstrong.com/upgrade/vancouver/)
+[http://www.theupgrade.net](http://www.theupgrade.net)

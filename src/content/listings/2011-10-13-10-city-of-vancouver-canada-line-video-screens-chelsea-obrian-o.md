@@ -36,17 +36,17 @@ commuter train wishing they could escape the urban hell and just fly away...
 Chelsea O'Brian has worked in circus, dance, film, and theatre. While attending 
 the National Circus School of Montreal, she invented the Aerial Kite and has 
 developed its original technique. She has toured with Cirque 
-Plume<http://www.cirqueplume.com/> in France as an original cast member of 
+Plume<[http://www.cirqueplume.com/](http://www.cirqueplume.com/)> in France as an original cast member of 
 L'Atelier du peintre, as well as participating in the show's creation (2008-2010). 
 From Vancouver, she is now based in San Francisco. She was most recently in 
 Vancouver performing in the equestrian-based multidisciplinary show Cavalia 
-(www.chelseao.com<http://www.chelseao.com>).
+(www.chelseao.com<[http://www.chelseao.com](http://www.chelseao.com)>).
 
 Escape Velocity launches October 17 on the Canada Line subway video 
 screens and on 
-www.youtube.com/offonmain<http://www.youtube.com/offonmain> & 
+www.youtube.com/offonmain<[http://www.youtube.com/offonmain](http://www.youtube.com/offonmain)> & 
 www.facebook.com/pages/On-
-Main/2007124999695<http://www.facebook.com/pages/On-
+Main/2007124999695<[http://www.facebook.com/pages/On-](http://www.facebook.com/pages/On-)
 Main/2007124999695>. A new work is featured each month on the Canada Line 
 through March 2012, playing every 2 minutes to an audience of over 100,000 
 commuters per day. See previous projects Hippie Chick by Dana Claxton, Slash 

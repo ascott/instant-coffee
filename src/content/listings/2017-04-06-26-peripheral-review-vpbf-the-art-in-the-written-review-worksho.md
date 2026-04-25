@@ -35,7 +35,7 @@ practice, Fiedrich is the Arts Programmer for the City of New Westminster.
 
 Peripheral Review will also be exhibiting at VPBF's Book Fair taking place from Friday, 
 April 21 to Sunday, April 23 at Western Front (303 E 8th Avenue). For the exhibitor list 
-and full offsite program, please visit: http://capturephotofest.com/vancouver-photo-book-
+and full offsite program, please visit: [http://capturephotofest.com/vancouver-photo-book-](http://capturephotofest.com/vancouver-photo-book-)
 fair.
 
 //

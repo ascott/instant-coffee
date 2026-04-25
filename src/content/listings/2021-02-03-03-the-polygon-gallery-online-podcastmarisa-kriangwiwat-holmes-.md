@@ -15,5 +15,5 @@ Ramsey is in conversation with artists Marisa Kriangwiwat Holmes and Maya Beaudr
 about their exhibition Everything Leaks.
 
 Listen here:
-https://thepolygon.ca/news/the-polygon-podcast-episode-14-featuring-
+[https://thepolygon.ca/news/the-polygon-podcast-episode-14-featuring-](https://thepolygon.ca/news/the-polygon-podcast-episode-14-featuring-)
 marisa-kriangwiwat-holmes-and-maya-beaudry/

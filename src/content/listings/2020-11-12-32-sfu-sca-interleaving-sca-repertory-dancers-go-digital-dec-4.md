@@ -10,7 +10,7 @@ summary: "SFU SCA | Interleaving: SCA Repertory Dancers Go Digital | DEC 4"
 
 Friday, December 4, 2020 | 6:00 PM (PT)
 Free | Online
-RSVP HERE: https://www.eventbrite.ca/e/interleaving-sca-repertory-dancers-go-digital-
+RSVP HERE: [https://www.eventbrite.ca/e/interleaving-sca-repertory-dancers-go-digital-](https://www.eventbrite.ca/e/interleaving-sca-repertory-dancers-go-digital-)
 registration-128069620683
 
 This Fall 2020, SCA repertory dancers go digital to create Interleaving, an online
@@ -91,4 +91,4 @@ perspective of an AI system. In this work, I explore with the dancers how our in
 with these technologies shape our understanding of ourselves and each other.
 
 
-http:// https://www.eventbrite.ca/e/interleaving-sca-repe
+http:// [https://www.eventbrite.ca/e/interleaving-sca-repe](https://www.eventbrite.ca/e/interleaving-sca-repe)

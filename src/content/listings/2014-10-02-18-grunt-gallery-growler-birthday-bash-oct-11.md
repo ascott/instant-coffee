@@ -27,7 +27,7 @@ created by artist Sonny Assu. Growler's will be available at the event for
 only $5, be sure to grab yours before they sell out!
 
 Performance/Reading:
-Janet Rogers - http://music.cbc.ca/#/artists/Janet-Rogers
+Janet Rogers - [http://music.cbc.ca/#/artists/Janet-Rogers](http://music.cbc.ca/#/artists/Janet-Rogers)
 A Mohawk writer from the Six Nations band in southern Ontario, Janet Rogers
 was born in Vancouver, British Columbia and has resided in Victoria since
 1994. A published and award-winning poet, she has worked and studied in the
@@ -39,16 +39,16 @@ CBC radio one fm in Victoria BC. Her radio documentaries “Bring Your Drum”
 Best Radio at the imagaineNATIVE Film and Media festival 2011 and 2013.
 
 Live Music:
-The Monster Project - https://soundcloud.com/womp
+The Monster Project - [https://soundcloud.com/womp](https://soundcloud.com/womp)
 
 DJ:
-Ostwelve - https://soundcloud.com/ostwelve-productions
+Ostwelve - [https://soundcloud.com/ostwelve-productions](https://soundcloud.com/ostwelve-productions)
 Ostwelve (Ron Dean Harris), was born in the Coast Salish - Sto:lo Territory
 of British Columbia, Canada. Being introduced to music at an early age, Os
 was experimenting with the art form of Hiphop by the age of 12 years old.
 Moving into the city of Vancouver at the age of 13, the hip-hop scene there
 lead him to the sounds and sights of the growing art of hip-hop.
 
-http://grunt.ca/growler-the-anza-club-oct-11/
+[http://grunt.ca/growler-the-anza-club-oct-11/](http://grunt.ca/growler-the-anza-club-oct-11/)
 
 www.grunt.ca | karlene@grunt.ca | t: 604.875.9516

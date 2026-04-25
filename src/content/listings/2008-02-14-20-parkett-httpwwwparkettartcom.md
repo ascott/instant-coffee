@@ -11,7 +11,7 @@ summary: "Parkett | http://www.parkettart.com"
 Parkett
 
 New Parkett with Ai Weiwei, Cosima von Bonin, and Christian Jankowski and more 
-http://www.parkettart.com 
+[http://www.parkettart.com](http://www.parkettart.com) 
 
 Parkett’s explorations and investigations of leading international contemporary artists continue in vol. 81, featuring Ai Weiwei, Cosima von Bonin, and Christian Jankowski. 
 
@@ -23,7 +23,7 @@ Behind Cosima von Bonin’s immense stuffed dog sculptures, oversized mushrooms,
 
 Jörg Heiser reflects on Christian Jankowski’s THE HOLY ARTWORK (2001), describing the artist’s transformation into the “‘plaything’ of a Texan televangelist, by coming forward with his video camera during a live broadcast of a religious service, and falling to the ground at his feet.” This piece vividly illustrates what Harald Falckenberg recognizes as Jankowski’s chameleon-like blend of “actor, performer, magician, seducer, thief, and charlatan.” His ability to seduce and bluff on the spot continues to play out with precision and charm on the ever-shifting game board of international contemporary art. A third text on Jankowski is written by former Parkett editor Cay Sophie Rabinowitz, and his edition consists of fifty unique portraits taken by fifty different photographers of himself in different places and locations reading some of his favorite artists texts in Parkett. 
 
-For more details on the new Parkett, its artist editions, as well as for subscriptions and back issues, please go to http://www.parkettart.com
+For more details on the new Parkett, its artist editions, as well as for subscriptions and back issues, please go to [http://www.parkettart.com](http://www.parkettart.com)
   
 
 instant coffee fuel mixture to go

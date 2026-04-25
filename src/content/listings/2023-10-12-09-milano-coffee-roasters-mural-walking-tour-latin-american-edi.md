@@ -11,7 +11,7 @@ summary: "Milano Coffee Roasters | Mural Walking Tour – Latin American Edition
 Event Title: Mural Walking Tour - Latin American Edition
 
 Link:
-https://vlacc.ca/events/mural-walking-tour-latin-american-edition/
+[https://vlacc.ca/events/mural-walking-tour-latin-american-edition/](https://vlacc.ca/events/mural-walking-tour-latin-american-edition/)
 
 Date: Thursday, October 12th
 Time: 4:00 pm to 5:30pm

@@ -20,5 +20,5 @@ Event Date: Thu, Aug 7 2025, 5:30 - 7:30pm
 General inquiries: 604-297-4440
 
 Register here: Activity detail | WebReg " City of Burnaby
-https://anc.ca.apm.activecommunities.com/burnaby/activity/search/detail/72757?
+[https://anc.ca.apm.activecommunities.com/burnaby/activity/search/detail/72757](https://anc.ca.apm.activecommunities.com/burnaby/activity/search/detail/72757)?
 onlineSiteId=0&from_original_cui=true

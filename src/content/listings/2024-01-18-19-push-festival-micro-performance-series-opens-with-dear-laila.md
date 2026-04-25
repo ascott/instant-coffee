@@ -23,5 +23,5 @@ decided he would bring the place to her.
 Dear Laila plays January 20 to Feb 3
 *Almost sold out, tickets still available on January 30
 
-https://tickets.pushfestival.ca/TheatreManager/1/login?
+[https://tickets.pushfestival.ca/TheatreManager/1/login](https://tickets.pushfestival.ca/TheatreManager/1/login)?
 line=1&month=0&year=0&event=448&venue=0&genre=0&presale_coupons=None

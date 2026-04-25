@@ -27,4 +27,4 @@ Maxwell, Elspeth Milton, Emily Moore, Evelyn Tsai, Galen Allan, Jesse
 Murray, Martin Yeo, Qiaowen Zhang, Quentin Qui, Rachel Gong, Saya 
 Oiwa, Stephanie Bueno, Sydney Caron, Tyler Homan, Vicky Mo
 
-http://blog.malaspinaprintmakers.com/exhibitions/constellations/
+[http://blog.malaspinaprintmakers.com/exhibitions/constellations/](http://blog.malaspinaprintmakers.com/exhibitions/constellations/)

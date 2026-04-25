@@ -12,7 +12,7 @@ Join Fillip for a free, one day, online screening of Michael Mandibergs film Pos
 Times followed by a live Q & A with the artist.
 
 RSVP for Full Screening Details
-https://www.eventbrite.com/e/postmodern-times-tickets-102123409868
+[https://www.eventbrite.com/e/postmodern-times-tickets-102123409868](https://www.eventbrite.com/e/postmodern-times-tickets-102123409868)
 
 In Modern Times (1936), Charlie Chaplins Little Tramp struggles to survive in the modern,
 industrialised world. As the story follows the picaresque adventure of the Tramps trials and

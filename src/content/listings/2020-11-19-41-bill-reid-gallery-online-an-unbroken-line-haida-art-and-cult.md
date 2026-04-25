@@ -38,5 +38,5 @@ and the Department of Indigenous Studies at SFU and is proudly supported by the 
 Reid Centre at SFU and SFU Public Square.
 
 Register:
-https://www.eventbrite.ca/e/an-unbroken-line-haida-art-and-culture-registration-
+[https://www.eventbrite.ca/e/an-unbroken-line-haida-art-and-culture-registration-](https://www.eventbrite.ca/e/an-unbroken-line-haida-art-and-culture-registration-)
 129337757715

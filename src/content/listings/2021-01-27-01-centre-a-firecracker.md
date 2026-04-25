@@ -105,7 +105,7 @@ SPAM (Special Presentation Art Mail) is an email-based art series. For the first
 interactive email works. Through the link below, viewers can sign up to receive Number 3
 Gallery emails in order to view the upcoming projects.
 
-Subscription Link: https://www.number3gallery.com/
+Subscription Link: [https://www.number3gallery.com/](https://www.number3gallery.com/)
 
 EASTER EGGS
 In their first collaborative piece, Qian Cheng and Patrick Cruz compose a virtual mood

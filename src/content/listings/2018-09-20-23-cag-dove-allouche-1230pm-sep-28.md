@@ -16,4 +16,4 @@ Contemporary Art Gallery, 555 Nelson Street, V6B 6R5
 Join French artist Dove Allouche as he discusses themes and ideas present
 in the exhibition, Negative Capability, on until December 30, 2018.
 
-Find out more at https://www.contemporaryartgallery.ca/whats-on/
+Find out more at [https://www.contemporaryartgallery.ca/whats-on/](https://www.contemporaryartgallery.ca/whats-on/)

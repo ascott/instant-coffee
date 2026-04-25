@@ -8,7 +8,7 @@ venue: "Western Front"
 summary: "Western Front | Sylvain Sailly | SEP 12"
 ---
 
-New Trailer | https://vimeo.com/74321246
+New Trailer | [https://vimeo.com/74321246](https://vimeo.com/74321246)
 
 Sylvain Sailly | Exhibition | Continuum Model
 Opening: September 12th @ 7pm

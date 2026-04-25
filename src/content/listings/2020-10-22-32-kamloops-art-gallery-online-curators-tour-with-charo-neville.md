@@ -10,4 +10,4 @@ summary: "Kamloops Art Gallery [ONLINE] | CURATOR’S TOUR with CHARO NEVILLE | 
 
 CURATORS TOUR with CHARO NEVILLE
 FRIDAY, OCTOBER 30, 7:00 to 9:00 pm
-REGISTER: https://www.luminocity.ca/event/curators-2-2020
+REGISTER: [https://www.luminocity.ca/event/curators-2-2020](https://www.luminocity.ca/event/curators-2-2020)

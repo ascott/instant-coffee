@@ -10,13 +10,13 @@ summary: "Rijksakademie | Amsterdam | OPEN / residency | FEB 1"
 
 Rijksakademie OPEN / residency
 
-http://www.rijksakademieOPEN.nl
+[http://www.rijksakademieOPEN.nl](http://www.rijksakademieOPEN.nl)
 Rijksakademie van beeldende kunsten
 Sarphatistraat 470
 1018 GW Amsterdam
 The Netherlands
 
-http://www.rijksakademie.nl
+[http://www.rijksakademie.nl](http://www.rijksakademie.nl)
 
 The Rijksakademie residency in Amsterdam is a space for the development of
 ideas for emerging professional artists. Resident artists work in an
@@ -28,9 +28,9 @@ accessible by way of publications and presentations through
 RijksakademiePORTAAL.
 
 On November 28 and 29 the Rijksakademie is OPEN. Please see
-http://www.rijksakademieOPEN.nl for more information.
+[http://www.rijksakademieOPEN.nl](http://www.rijksakademieOPEN.nl) for more information.
 
 The Rijksakademie has fifty-five studios. Annually, approximately half of
 these become available for new residents. For more information and for the
-online application form: http://www.rijksakademie.nl.One can apply for the
+online application form: [http://www.rijksakademie.nl.One](http://www.rijksakademie.nl.One) can apply for the
 resdidency 2011 between December 1, 2009 and February 1, 2010

@@ -37,4 +37,4 @@ and/or have limited public exhibition experience. Generally, they have had betwe
 and 5 years of professional arts practice.
 
 Apply here:
-http://https://www.gallery44.org/calls/proof-31-open-call
+[http://https://www.gallery44.org/calls/proof-31-open-call](http://https://www.gallery44.org/calls/proof-31-open-call)

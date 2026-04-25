@@ -20,7 +20,7 @@ Vancouver on February 28 and March 1, 2013.
 
 To find out more about touring with ArtStarts, watch highlight videos of last year's
 Showcase performances, and download full guidelines and an application form,
-please visit: http://tinyurl.com/apply-showcase-2013
+please visit: [http://tinyurl.com/apply-showcase-2013](http://tinyurl.com/apply-showcase-2013)
 
 The deadline to apply is October 5, 2012.
 

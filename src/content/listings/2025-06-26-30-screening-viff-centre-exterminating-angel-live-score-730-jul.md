@@ -9,7 +9,7 @@ summary: "SCREENING | VIFF CENTRE | Exterminating Angel Live Score | 730 | JUL 6
 ---
 
 Tickets:
-https://viff.org/whats-on/exterminating-angel-magazinist-live/
+[https://viff.org/whats-on/exterminating-angel-magazinist-live/](https://viff.org/whats-on/exterminating-angel-magazinist-live/)
 
 VIFF CENTRE, 7:30pm, July 6th
 Experimental music duo Magazinist is pleased to invite you to a special evening at

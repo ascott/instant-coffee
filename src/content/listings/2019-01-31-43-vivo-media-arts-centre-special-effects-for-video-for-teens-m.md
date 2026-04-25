@@ -16,8 +16,8 @@ video artist Flick Harrison!
 4 days, 16 hours total // $165, or $120 with any VIVO Producer Membership (+GST)
 
 SIGN UP & MORE INFO
-Class A, March 18, 19, 20, and 21: https://sfx-video-a.eventbrite.ca
-Class B, March 25, 26, 27, and 28: https://sfx-video-b.eventbrite.ca
+Class A, March 18, 19, 20, and 21: [https://sfx-video-a.eventbrite.ca](https://sfx-video-a.eventbrite.ca)
+Class B, March 25, 26, 27, and 28: [https://sfx-video-b.eventbrite.ca](https://sfx-video-b.eventbrite.ca)
 
 - motion tracking
 - "magic" or "lasers" using After Effects, Photoshop
@@ -28,4 +28,4 @@ Class B, March 25, 26, 27, and 28: https://sfx-video-b.eventbrite.ca
 - and more!
 
 Two Extended Subsidies are available for this workshop: 
-https://goo.gl/forms/cRJWweVShHOHCRs53
+[https://goo.gl/forms/cRJWweVShHOHCRs53](https://goo.gl/forms/cRJWweVShHOHCRs53)

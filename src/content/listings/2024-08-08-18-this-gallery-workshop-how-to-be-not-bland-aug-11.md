@@ -33,4 +33,4 @@ the owner of THIS Gallery, a borderless art space designed for the creation of a
 and ideas.
 
 TICKETS:
-http:// https://thethisgallery.com/products/workshop-tick
+http:// [https://thethisgallery.com/products/workshop-tick](https://thethisgallery.com/products/workshop-tick)

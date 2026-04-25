@@ -13,5 +13,5 @@ OPEN CALL, DEADLINE APRIL 15
 Please join us on Toronto Island Aug 8-18, 2016 to explore Alchemy:
 the intersection of your creative practice and the growing, cooking and
 sharing of food from our gardens. Link here for more information:
-http://artscapegibraltarpoint.ca/programmed-residency/alchemy-
+[http://artscapegibraltarpoint.ca/programmed-residency/alchemy-](http://artscapegibraltarpoint.ca/programmed-residency/alchemy-)
 exploring-the-intersections-between-art-food/

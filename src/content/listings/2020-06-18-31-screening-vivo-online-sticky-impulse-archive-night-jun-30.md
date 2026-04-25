@@ -34,4 +34,4 @@ Ira
 Cirka (US), Jonnie Turpie (England), Robert Morin (Quebec), Norman Cohen
 (Canada), Bill Viola (US).
 
-https://www.facebook.com/events/298046988253842/
+[https://www.facebook.com/events/298046988253842/](https://www.facebook.com/events/298046988253842/)

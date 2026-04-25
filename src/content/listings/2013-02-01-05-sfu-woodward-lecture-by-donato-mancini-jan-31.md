@@ -49,7 +49,7 @@ This evening, Mancini will talk about his new book on poetry reviews in
 Canada called You Must Work Harder.
 
 Here is the webpage containing the event information:
-http://sfuwoodwards.ca/index.php/events/details/donato-mancini-you-must-
+[http://sfuwoodwards.ca/index.php/events/details/donato-mancini-you-must-](http://sfuwoodwards.ca/index.php/events/details/donato-mancini-you-must-)
 work-harder
 
 Leanne Prain
@@ -58,5 +58,5 @@ SFU Woodward's Cultural Programs
 Goldcorp Centre for the Arts
 Tel: 778-782-9223
 
-Website: http://www.sfuwoodwards.ca
+Website: [http://www.sfuwoodwards.ca](http://www.sfuwoodwards.ca)
 Twitter: @SFU_W | Facebook: SFU Woodward's

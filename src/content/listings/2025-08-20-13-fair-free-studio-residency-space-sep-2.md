@@ -46,4 +46,4 @@ artists living with varying disabilities residing in Coast Salish territories an
 Lower Mainland only.
 All self-identifications are welcome!
 Apply here:
-https://futureartsnet.ca/future-arts-in-residence-2025-2026/
+[https://futureartsnet.ca/future-arts-in-residence-2025-2026/](https://futureartsnet.ca/future-arts-in-residence-2025-2026/)

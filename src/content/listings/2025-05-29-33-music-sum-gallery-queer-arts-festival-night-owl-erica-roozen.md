@@ -18,5 +18,5 @@ the script and performs the monologue in a restrained, captivating manner while
 alternating with playing the accordion. Presented in partnership with Vancouver
 InterCultural Orchestra.
 
-Tickets and more information: https://www.eventbrite.ca/e/night-owl-tickets-
+Tickets and more information: [https://www.eventbrite.ca/e/night-owl-tickets-](https://www.eventbrite.ca/e/night-owl-tickets-)
 1366233042809?aff=oddtdtcreator

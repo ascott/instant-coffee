@@ -54,4 +54,4 @@ Mathematics, and Chemistry. Lucas Clarke recently collaborated with artist Kaspe
 Feyrer in the glass production of artworks for Feyrers exhibition, Turn Toward at SFU
 Galleries.
 
-https://www.sfu.ca/galleries/SFUGalleriesEvents/2023/kasper-feyrer-book-launch.html
+[https://www.sfu.ca/galleries/SFUGalleriesEvents/2023/kasper-feyrer-book-launch.html](https://www.sfu.ca/galleries/SFUGalleriesEvents/2023/kasper-feyrer-book-launch.html)

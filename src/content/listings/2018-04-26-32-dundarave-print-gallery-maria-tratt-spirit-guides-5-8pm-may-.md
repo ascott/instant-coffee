@@ -18,5 +18,5 @@ persons character, these new works combine etching, aquatint, collagraph and
 monotype techniques to develop a formal layering that hints at the possibility of multiple 
 and simultaneous existences.
 
-https://mariatratt.com
-https://dundaraveprintworkshop.com
+[https://mariatratt.com](https://mariatratt.com)
+[https://dundaraveprintworkshop.com](https://dundaraveprintworkshop.com)

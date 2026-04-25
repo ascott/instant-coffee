@@ -13,7 +13,7 @@ Karen Mirza/ Brad Butler
  Museum of Non Participation 
  October 10-19 2012 
 Co-Presented by Institutions by Artists / The Convention  
-http://www.vivomediaarts.com/exhibition/events 
+[http://www.vivomediaarts.com/exhibition/events](http://www.vivomediaarts.com/exhibition/events) 
 1965 Main St. Vancouver 
 
 WED OCT 10 / 8PM   

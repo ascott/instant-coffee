@@ -28,9 +28,9 @@ Taking these and a couple of other threads I want to make a specific argument fo
 
 Optional reading: Jean Luc Nancy, The Inoperative Community
 
-http://www.arts.rpi.edu/~ruiz/AdvancedIntegratedArts/ReadingsAIA/Nancy%20The%20Inoperative%20Community.pdf
+[http://www.arts.rpi.edu/~ruiz/AdvancedIntegratedArts/ReadingsAIA/Nancy%20The%20Inoperative%20Community.pdf](http://www.arts.rpi.edu/~ruiz/AdvancedIntegratedArts/ReadingsAIA/Nancy%20The%20Inoperative%20Community.pdf)
 
-VISR on Facebook: https://www.facebook.com/events/495903313795700/
-VISR lectures on Youtube: http://www.youtube.com/channel/UCK-Wfiov-HIfIJqpYbQoshg/videos
+VISR on Facebook: [https://www.facebook.com/events/495903313795700/](https://www.facebook.com/events/495903313795700/)
+VISR lectures on Youtube: [http://www.youtube.com/channel/UCK-Wfiov-HIfIJqpYbQoshg/videos](http://www.youtube.com/channel/UCK-Wfiov-HIfIJqpYbQoshg/videos)
 
 contact: visrvancouver@gmail.com

@@ -27,6 +27,6 @@ Museum.
 Live performances are sold out, but please come view the projection and experience the 
 exhibit at the Nikkei National Museum through January 14, 2018.
 
-http://centre.nikkeiplace.org/hastingspark1942/
+[http://centre.nikkeiplace.org/hastingspark1942/](http://centre.nikkeiplace.org/hastingspark1942/)
 www.hastingspark1942.ca
 #hastingspark1942

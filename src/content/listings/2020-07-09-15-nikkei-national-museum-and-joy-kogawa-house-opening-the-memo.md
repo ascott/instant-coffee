@@ -33,5 +33,5 @@ Saturday, July 25, 2020
 Online webinar
 By donation
 
-Register for webinar link: https://centre.nikkeiplace.org/events/opening-the-memory-
+Register for webinar link: [https://centre.nikkeiplace.org/events/opening-the-memory-](https://centre.nikkeiplace.org/events/opening-the-memory-)
 chest/

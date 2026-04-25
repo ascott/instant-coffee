@@ -28,4 +28,4 @@ Deadline: March 15, 2019
 Completion: Summer 2019
 
 For more information and to download the artist call, please visit: 
-https://www.richmond.ca/culture/publicart/opportunities.htm
+[https://www.richmond.ca/culture/publicart/opportunities.htm](https://www.richmond.ca/culture/publicart/opportunities.htm)

@@ -20,13 +20,13 @@ costume design, Gender Mutual invites audiences into a space of reflection and p
 Details:
 
 Artist Talk February 21st, 1pm-3pm
-Free Registration: https://www.eventbrite.ca/e/gender-mutual-artist-talk-registration-
+Free Registration: [https://www.eventbrite.ca/e/gender-mutual-artist-talk-registration-](https://www.eventbrite.ca/e/gender-mutual-artist-talk-registration-)
 1982322930247?aff=ebdsoporgprofile
 
 Gender Mutual the exhibition runs until Feb 27th
 
-Instagram: https://www.instagram.com/p/DUoRTFYEo9f/
+Instagram: [https://www.instagram.com/p/DUoRTFYEo9f/](https://www.instagram.com/p/DUoRTFYEo9f/)
 SUM gallery hours: Tues - Sat, 12pm-6pm
 SUM gallery address: 268 Keefer St #425, Vancouver, BC V6A 1X6
-How to get to SUM gallery: https://www.instagram.com/reel/CyUVaqKPl4b/?
+How to get to SUM gallery: [https://www.instagram.com/reel/CyUVaqKPl4b/](https://www.instagram.com/reel/CyUVaqKPl4b/)?
 utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==

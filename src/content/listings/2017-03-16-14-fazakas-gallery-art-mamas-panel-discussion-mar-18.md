@@ -25,4 +25,4 @@ the male-dominated art system.
 Fazakas Gallery 
 688 East Hastings Street 
 Vancouver BC V6A 1R1
-http://www.fazakasgallery.com/
+[http://www.fazakasgallery.com/](http://www.fazakasgallery.com/)

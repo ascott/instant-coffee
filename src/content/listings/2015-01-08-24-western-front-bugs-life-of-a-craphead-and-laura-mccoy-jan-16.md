@@ -61,4 +61,4 @@ Director for the feature film Bugs, by Life of a Craphead.
 Produced with the generous support of the Ontario Arts Council.
 
 For more information, please visit
-http://front.bc.ca.
+[http://front.bc.ca](http://front.bc.ca).

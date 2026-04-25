@@ -24,4 +24,4 @@ Community Art Centre. A solo exhibition at the end of the residency.
 NOT INCLUDED IN THE RESIDENCY: travel expenses, food, health insurance, art 
 materials, shipping costs, exhibition costs and other personal expenses.
 
-LEARN MORE + APPLY HERE: https://www.caetani.org/ceramair-ceramics-residency/
+LEARN MORE + APPLY HERE: [https://www.caetani.org/ceramair-ceramics-residency/](https://www.caetani.org/ceramair-ceramics-residency/)

@@ -14,7 +14,7 @@ Griffin Art Projects
 
 www.griffinartprojects.ca
 
-REGISTER HERE: https://zoom.us/webinar/register/WN_JEYnUqfITB2pond8upugsw
+REGISTER HERE: [https://zoom.us/webinar/register/WN_JEYnUqfITB2pond8upugsw](https://zoom.us/webinar/register/WN_JEYnUqfITB2pond8upugsw)
 
 Join Griffins current artist-in-residence, Alannah Clamp, for an artist talk live over zoom
 to learn more about what she has been up to throughout her time at Griffin Art Projects!

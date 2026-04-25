@@ -17,8 +17,8 @@ Venue: KIMOTO GALLERY, 1525 W. 6th Avenue, Vancouver
 Gallery Hours: Tues. & Sat. 10am - 6pm / Wed. - Fri. 11am - 7pm / Sun. & Mon. 
 by appointment only
 
-http://www.kevinboylestudio.com
-http://kimotogallery.com/herd
+[http://www.kevinboylestudio.com](http://www.kevinboylestudio.com)
+[http://kimotogallery.com/herd](http://kimotogallery.com/herd)
 
 "HERD", Kevin Boyle's latest photographic series, challenges the viewer to draw 
 parallels between domestic farm animals and the lives we live as humans in 

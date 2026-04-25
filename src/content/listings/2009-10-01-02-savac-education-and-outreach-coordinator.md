@@ -9,4 +9,4 @@ summary: "SAVAC | Education and Outreach Coordinator"
 ---
 
 SAVAC (South Asian Visual Arts Centre) is hiring an Education and Outreach Coordinator.
-For more information please visit: http://www.savac.net/html/call_for_submissions.htm#edout
+For more information please visit: [http://www.savac.net/html/call_for_submissions.htm#edout](http://www.savac.net/html/call_for_submissions.htm#edout)

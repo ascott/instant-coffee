@@ -16,4 +16,4 @@ first draft. And for the winning author, publication. (Cash prizes too.)
 Its a Canadian-born, now international, literary rite-of-passage.
 
 Sept. 4-6, 2010
-Pre-register at http://www.3daynovel.com
+Pre-register at [http://www.3daynovel.com](http://www.3daynovel.com)

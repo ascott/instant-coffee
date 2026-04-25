@@ -37,4 +37,4 @@ topical issues in contemporary art, design, and media.
 Lectures are free & open to the public. Space is limited, doors open 6:45. Visit www.ecuad.ca for
 more information or email azion@eciad.ca.
 
-http://www.ecuad.ca
+[http://www.ecuad.ca](http://www.ecuad.ca)

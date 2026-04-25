@@ -44,7 +44,7 @@ We pay successful submissions writers fees upon publication of the article.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 FALL DEADLINE: All submissions should be sent to peripheralreview@gmail.com on
 Monday October 19th by midnight EST.
-For more information visit: https://peripheralreview.com/contact-ussubmissions/
+For more information visit: [https://peripheralreview.com/contact-ussubmissions/](https://peripheralreview.com/contact-ussubmissions/)
 
 With all submissions please format according to the submission guidelines. For general
 inquiries please note your query in the subject line.

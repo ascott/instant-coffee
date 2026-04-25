@@ -35,7 +35,7 @@ associated with, but not limited to: research, production, technician support, t
 production, rentals of equipment and facilities, project materials, artist fees, installation and
 documentation. This submission will be the basis of Cineworks's application to the Canada 
 Council for the Arts for a commissioning grant. Please see the Media Arts Commissioning 
-Program link at http://www.canadacouncil.ca/mediaarts/ for budget stipulations et cetera or email
+Program link at [http://www.canadacouncil.ca/mediaarts/](http://www.canadacouncil.ca/mediaarts/) for budget stipulations et cetera or email
 alicia@cineworks.ca.
  
 This commission is dependent on funding. 

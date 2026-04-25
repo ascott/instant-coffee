@@ -12,7 +12,7 @@ Voice as Practice
 The Journeyman Sample Pack
 Curated by Lillian Doyle
 
-https://fillip.ca/voice-as-practice
+[https://fillip.ca/voice-as-practice](https://fillip.ca/voice-as-practice)
 
 Fillip is pleased to announce the launch of The Journeyman Sample Pack as part of
 the series Voice as Practice.

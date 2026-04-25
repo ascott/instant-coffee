@@ -49,7 +49,7 @@ contact@thecapilanoreview.ca by March 1
 
 INTRUSIVE THOUGHTS: SELF-PORTRAITS BY RIISA GUNDESEN
 
-http://gachet.org/exhibitions/riisa-gundesen/
+[http://gachet.org/exhibitions/riisa-gundesen/](http://gachet.org/exhibitions/riisa-gundesen/)
 
 This exhibition explores feminine representation, the abject, and mental 
 health. In the context of Riisa's work, the abject denies the viewer the 

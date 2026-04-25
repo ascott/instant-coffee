@@ -36,6 +36,6 @@ incarnational language both defies modernitys prohibition against futurity and
 looks back to its own ontological roots in the recognition of the mothers face.
 
 Free but RSVP required. Please RSVP to: 
-https://goo.gl/forms/sYneQLVq7dTcaY7q1
+[https://goo.gl/forms/sYneQLVq7dTcaY7q1](https://goo.gl/forms/sYneQLVq7dTcaY7q1)
 
 Presented by Capture Photography Festival and Inform Interiors.

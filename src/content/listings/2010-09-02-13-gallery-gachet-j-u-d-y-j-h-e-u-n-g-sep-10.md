@@ -23,7 +23,7 @@ Sept 10th – Oct 3rd
 Opening reception: Fri Sept 10th, 7 – 10pm, with a special performance by
 Peggy and Karen Ngan: 8pm
 
-(part of SWARM: Festival of Artist Run Culture, http://swarm.paarc.ca)
+(part of SWARM: Festival of Artist Run Culture, [http://swarm.paarc.ca](http://swarm.paarc.ca))
 
 Enlighten Therapy is a mind expanding navigation that involves
 connectivity, mobility and decision making, while engaging ephemeral

@@ -39,4 +39,4 @@ emikomorita@ymail.com • 778-995-3155
 
 Canzine West 2014 • Saturday, November 8, 2014 • 1:00 to 7:00 p.m.
 Goldcorp Centre for the Arts, 149 West Hastings Street, Vancouver
-http://www.brokenpencil.com/canzine-vancouver
+[http://www.brokenpencil.com/canzine-vancouver](http://www.brokenpencil.com/canzine-vancouver)

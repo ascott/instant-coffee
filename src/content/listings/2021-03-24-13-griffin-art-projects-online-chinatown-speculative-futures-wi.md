@@ -14,7 +14,7 @@ Griffin Art Projects
 
 www.griffinartprojects.ca
 
-Zoom link: https://zoom.us/webinar/register/WN_5XCRAbzNQ1OTo2txgG3rig
+Zoom link: [https://zoom.us/webinar/register/WN_5XCRAbzNQ1OTo2txgG3rig](https://zoom.us/webinar/register/WN_5XCRAbzNQ1OTo2txgG3rig)
 
 Join Linda Zang, professor in the School of Interior Design at Ryerson University in Toronto
 ON,

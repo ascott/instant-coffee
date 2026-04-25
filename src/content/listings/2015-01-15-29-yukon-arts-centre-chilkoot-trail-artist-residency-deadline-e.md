@@ -18,7 +18,7 @@ information by this deadline in order to have your submission fully considered.
 
 Visit this link to access full program details, and the online application
 form.
-http://yukonartscentre.com/programs/chilkoot
+[http://yukonartscentre.com/programs/chilkoot](http://yukonartscentre.com/programs/chilkoot)
 
 Please note that online applications will still be accepted during our
 server maintenance period (January 27-29), however you may expect a delay

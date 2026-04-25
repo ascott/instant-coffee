@@ -16,5 +16,5 @@ the book sale room at the main lobby level at any given time, we are extending t
 sale over the entire month. All book titles are clearly visible to discourage handling 
 before purchase. Please
 check our website for information on what you should know 
-before you visit. https://centre.nikkeiplace.org/
-https://centre.nikkeiplace.org/events/japanese-book-sale-june-2020/
+before you visit. [https://centre.nikkeiplace.org/](https://centre.nikkeiplace.org/)
+[https://centre.nikkeiplace.org/events/japanese-book-sale-june-2020/](https://centre.nikkeiplace.org/events/japanese-book-sale-june-2020/)

@@ -36,7 +36,7 @@ door.
 
 For more information on other talks in this series featuring Stan Douglas and 
 Victor Burgin, please visit 
-http://vanartgallery.bc.ca/events_and_programs/lectures_talks.html
+[http://vanartgallery.bc.ca/events_and_programs/lectures_talks.html](http://vanartgallery.bc.ca/events_and_programs/lectures_talks.html)
 
 The exhibition “Ian Wallace: At the Intersection of Painting and Photography”  
 continues at the Vancouver Art Gallery until February 24. 

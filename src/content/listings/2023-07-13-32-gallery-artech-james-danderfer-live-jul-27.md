@@ -23,4 +23,4 @@ Doors at 7pm. Show at 8pm. BYOB.
 Gallery @ Artech is a flex use amenity space seats 45 and is managed by residents of
 this live/work loft building in Mount Pleasant.
 
-INFO & TICKETS: https://sidedooraccess.com/shows/aEP8o2qxDaDg30nd5stb
+INFO & TICKETS: [https://sidedooraccess.com/shows/aEP8o2qxDaDg30nd5stb](https://sidedooraccess.com/shows/aEP8o2qxDaDg30nd5stb)

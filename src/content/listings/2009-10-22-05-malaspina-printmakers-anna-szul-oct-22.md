@@ -44,7 +44,7 @@ Gallery Hours:
 Tuesday – Friday 10-5 pm
 Saturday and Sunday 11-5pm
 
-http://www.malaspinaprintmakers.com/current-exhibition
+[http://www.malaspinaprintmakers.com/current-exhibition](http://www.malaspinaprintmakers.com/current-exhibition)
 
 There are still a couple of paces available in the Relief Printmaking Course
 
@@ -71,4 +71,4 @@ Vancouver, BC V6H 3S3
 malaspinagallery@telus.net
 
 
-http://www.malaspinaprintmakers.com
+[http://www.malaspinaprintmakers.com](http://www.malaspinaprintmakers.com)

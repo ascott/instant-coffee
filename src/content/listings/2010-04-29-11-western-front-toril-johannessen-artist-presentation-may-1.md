@@ -30,7 +30,7 @@ is currently a member of the Flaggfabrikken Centre for Photography and
 Visual Arts, a Bergen based artist collective.
 
 For more information about Toril Johannessen please visit:
-http://www.toriljohannessen.no
+[http://www.toriljohannessen.no](http://www.toriljohannessen.no)
 
 For more information about Western Front Media Art please contact Sarah
 Todd at: media@front.bc.ca

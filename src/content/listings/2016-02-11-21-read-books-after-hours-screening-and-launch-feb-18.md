@@ -8,7 +8,7 @@ venue: "READ Books"
 summary: "READ Books | After Hours: Screening and Launch | FEB 18"
 ---
 
-https://www.facebook.com/events/917820431664781/
+[https://www.facebook.com/events/917820431664781/](https://www.facebook.com/events/917820431664781/)
 
 Screening and Launch: After Hours
 February 18, 2015 @ 5PM

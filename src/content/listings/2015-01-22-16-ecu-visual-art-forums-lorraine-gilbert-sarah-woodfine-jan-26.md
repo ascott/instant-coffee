@@ -12,7 +12,7 @@ Visual Art Forums | Lorraine Gilbert + Sarah Woodfine
 Special Double Bill | Artist Talk
 Monday, January 26, 2015 | 5pm
 ECU MoCap Studio | Room 285E, North Building (Please note the new location!)
-Add event to calendar (http://ate.so/?89lZAHj)
+Add event to calendar ([http://ate.so/?89lZAHj](http://ate.so/?89lZAHj))
 
 Join us for a special evening, featuring two back-to-back artist talks by
 our Visiting Artists in the Faculty of Visual Art + Material Practice:

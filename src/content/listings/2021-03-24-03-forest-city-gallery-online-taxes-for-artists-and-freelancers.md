@@ -14,7 +14,7 @@ Free Online Talk and Workshop
 
 Thursday, March 25th at 5pm EST
 
-https://zoom.us/j/95690324906
+[https://zoom.us/j/95690324906](https://zoom.us/j/95690324906)
 
 Join Forest City Gallery for a free tax workshop tailored to artists and creative
 professionals, facilitated by tax expert Sunny Widerman.

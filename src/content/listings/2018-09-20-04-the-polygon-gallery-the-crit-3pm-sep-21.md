@@ -15,9 +15,9 @@ interested members of the public. The Crit is conceived of as an
 opportunity for emerging artists to consider a valuable range of responses
 to their works in a professional gallery setting.
 
-https://thepolygon.ca/event/the-lind-prize-2018-the-crit/
+[https://thepolygon.ca/event/the-lind-prize-2018-the-crit/](https://thepolygon.ca/event/the-lind-prize-2018-the-crit/)
 
-https://thepolygon.ca/event/the-lind-prize-2018-the-crit/
+[https://thepolygon.ca/event/the-lind-prize-2018-the-crit/](https://thepolygon.ca/event/the-lind-prize-2018-the-crit/)
 
 thepolygon.ca
 Admision is by donation, courtesy of BMO Financial Group

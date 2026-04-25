@@ -27,4 +27,4 @@ art historian and critic Jaleh Mansoor.
 October 24 (Saturday) 2pm PDT
 Live Streamed Conversation
 RSVP Required
-https://www.eventbrite.com/e/penny-slinger-in-conversation-tickets-125350870829
+[https://www.eventbrite.com/e/penny-slinger-in-conversation-tickets-125350870829](https://www.eventbrite.com/e/penny-slinger-in-conversation-tickets-125350870829)

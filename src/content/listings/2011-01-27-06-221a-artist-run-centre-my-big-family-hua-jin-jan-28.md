@@ -33,7 +33,7 @@ large families since the inception of the One-child Policy.
 Äî¡£
 
 Read More:
-http://221a.ca/my-big-family
+[http://221a.ca/my-big-family](http://221a.ca/my-big-family)
 
 Debra Zhou, Curator
 
@@ -49,7 +49,7 @@ included in many publications and private collections, as well as the
 public collection of Museum of Contemporary Art in Shanghai 
 (MOCA). My
 Big Family is her first solo exhibition in Canada. For more work by
-Hua Jin please visit http://phoebejin.com.
+Hua Jin please visit [http://phoebejin.com](http://phoebejin.com).
 
 Debra Zhou was born in Shanghai and immigrated to Canada in 
 1999. She
@@ -79,7 +79,7 @@ Vancouver, BC. Canada V6A 1R1
 
 T: 604 568 0812
 E: hello@221a.ca
-W: http://221a.ca/
+W: [http://221a.ca/](http://221a.ca/)
 
 Hours: Thurs-Sun 12-5pm
 Or by appointment

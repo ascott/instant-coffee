@@ -39,4 +39,4 @@ operations of firefighting, Wildland Urban Interface, rescue and medical aid and
 support the proactive engagement of fire prevention, inspection, code enforcement
 and safety education. Located at: 9900 University Drive East
 
-https://www.burnaby.ca/our-city/about-burnaby/public-art
+[https://www.burnaby.ca/our-city/about-burnaby/public-art](https://www.burnaby.ca/our-city/about-burnaby/public-art)

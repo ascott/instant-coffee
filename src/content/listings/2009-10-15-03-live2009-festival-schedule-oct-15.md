@@ -64,4 +64,4 @@ Wednesday, October 21, 2009
 7-11pm @ Chapel Arts, Peter Morin
 
 Check out livebiennale.ca for full details on all performances, roundtables, and events.
-http://www.livebiennale.ca
+[http://www.livebiennale.ca](http://www.livebiennale.ca)

@@ -29,4 +29,4 @@ Exercise, Vancouver, with group exhibitions including the Nanaimo Art Gallery;
 Vancouver Art Gallery; Marcelle Alix, Paris; and Walter Phillips Gallery, Banff. Brewer
 was the winner of the 2011 RBC Canadian Painting Competition.
 
-https://cagvancouver.org/event/saturday-session-rebecca-brewer
+[https://cagvancouver.org/event/saturday-session-rebecca-brewer](https://cagvancouver.org/event/saturday-session-rebecca-brewer)

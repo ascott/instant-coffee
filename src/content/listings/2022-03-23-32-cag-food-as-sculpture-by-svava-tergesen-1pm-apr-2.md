@@ -21,7 +21,7 @@ approaches to building their very own sculptural creations with kitchen staples.
 This event will be held in person at CAG. A limited number of spots are available; to
 RSVP or for more information:
 
-https://cagvancouver.org/event/open-studio-svava-tergesen
+[https://cagvancouver.org/event/open-studio-svava-tergesen](https://cagvancouver.org/event/open-studio-svava-tergesen)
 
 Contemporary Art Gallery
 555 Nelson Street, Vancouver

@@ -30,7 +30,7 @@ Each year the event features self-funded installations created by
 galleries, schools, neighbourhoods, community organizations and individual
 artists. The deadline for Independent Projects and 10 for 10th submissions
 is Tuesday, February 17, 2015. Applications are now being accepted. Further
-details can be found at http://www.toronto.ca/special_events/snb/
+details can be found at [http://www.toronto.ca/special_events/snb/](http://www.toronto.ca/special_events/snb/)
 
 Contacts:
 For Open Call Projects, please contact: Umbereen Inayet at uinayet@toronto.ca

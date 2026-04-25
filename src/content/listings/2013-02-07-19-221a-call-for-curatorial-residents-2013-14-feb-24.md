@@ -77,6 +77,6 @@ V6A 1Z6
 Office: 604 568 0812
 Fax: 604 608 3899
 Mobile: 604 353 7623 
-http://221a.ca
+[http://221a.ca](http://221a.ca)
 
 *Call for Curatorial Residents 2013-14. Applications due February 24, 2012.

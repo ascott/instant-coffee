@@ -19,4 +19,4 @@ performance works, archival video, GIFs, and curatorial/screening proposals
 *Please note that the MPCAS does not play audio*
 
 More info:
-https://www.mpcas.ca/participate/
+[https://www.mpcas.ca/participate/](https://www.mpcas.ca/participate/)

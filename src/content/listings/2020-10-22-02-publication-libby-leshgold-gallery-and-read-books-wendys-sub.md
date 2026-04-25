@@ -12,7 +12,7 @@ Wendys Subway
 
 Publishing the Present: An Archive of Mutual Care and Action
 Online archive is LIVE - launched on October 2, 2020
-http://libby.ecuad.ca/publishingthepresent
+[http://libby.ecuad.ca/publishingthepresent](http://libby.ecuad.ca/publishingthepresent)
 
 The Libby Leshgold Gallery and READ Books are excited to announce the launch of
 the online project Publishing the Present: An Archive of Mutual Care and Action.
@@ -41,7 +41,7 @@ The archive will continue to grow throughout the coming months, gathering more
 submissions,
 collecting more publications, and acting as the basis for an upcoming
 publication and series of programming, to be announced in the coming month. The
-entire project can be accessed at http://libby.ecuad.ca/publishingthepresent.
+entire project can be accessed at [http://libby.ecuad.ca/publishingthepresent](http://libby.ecuad.ca/publishingthepresent).
 
 Presented by the Libby Leshgold Gallery at Emily Carr University of Art + Design, and
 READ Books, as part of our Summer School for Artists Publishing series for 2020.

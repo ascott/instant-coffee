@@ -21,7 +21,7 @@ Academieplein 1
 6211 KM Maastricht
 The Netherlands
 
-http://www.janvaneyck.nl
+[http://www.janvaneyck.nl](http://www.janvaneyck.nl)
 
 The Jan van Eyck Academie invites fine artists to submit research and
 production proposals for a research period in the Fine Art
@@ -62,7 +62,7 @@ of intervention. The programme is open to researchers from all three
 departments.
 
 For more information about the programme, please visit the academy
-website (http://www.janvaneyck.nl), which includes an extensive list
+website ([http://www.janvaneyck.nl](http://www.janvaneyck.nl)), which includes an extensive list
 of current and past research projects, activities, events and
 publications, as well as biographical information and links of
 current researchers and advising researchers. Prospective candidates
@@ -93,7 +93,7 @@ Your application is expected to be posted no later than 15 September
 Your application must include your project proposal, documentation
 material and an application form. A downloadable application form and
 more information about the application procedure can be found at
-http://www.janvaneyck.nl (click applications).
+[http://www.janvaneyck.nl](http://www.janvaneyck.nl) (click applications).
 
 The application fee is 65 euro, both for individuals and teams.
 
@@ -105,4 +105,4 @@ Leon Westenberg at leon.westenberg@janvaneyck.nl or +31 (0)43 350
 For questions and/or more information on the Jan van Eyck in general,
 please contact
 Ankie Bosch at ankie.bosch@janvaneyck.nl or +31 (0)43 350 3721.
-http://http://www.janvaneyck.nl
+[http://http://www.janvaneyck.nl](http://http://www.janvaneyck.nl)

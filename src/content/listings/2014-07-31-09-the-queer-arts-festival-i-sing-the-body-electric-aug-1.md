@@ -52,19 +52,19 @@ TICKETS $30 General Admission | $15 Youth/Seniors/Underemployed
 
 This event is scent-reduced, and fully wheelchair accessible. For more
 information on how to support a scent-reduced event, please visit
-http://www.peggymunson.com/mcs/fragrancefree.html
+[http://www.peggymunson.com/mcs/fragrancefree.html](http://www.peggymunson.com/mcs/fragrancefree.html)
 
 The Radical Accessibility Mapping Project performed an accessibility audit
 for the Roundhouse in August 2011, and the space has remained the same since.
 
 Access Overview, Just The Basics:
-https://docs.google.com/document/d/1QHUwp36z-6krVXM5P8vB81RRCibNF81QUpbwnRMqpOg/edit?usp=sharing
+[https://docs.google.com/document/d/1QHUwp36z-6krVXM5P8vB81RRCibNF81QUpbwnRMqpOg/edit?usp=sharing](https://docs.google.com/document/d/1QHUwp36z-6krVXM5P8vB81RRCibNF81QUpbwnRMqpOg/edit?usp=sharing)
 
 Full Access Audit:
-https://docs.google.com/spreadsheet/ccc?key=0AkEveutSlMoVdHo2RDRFZDVlQ25yUjNLVzRYcFZfcWc&usp=sharing
+[https://docs.google.com/spreadsheet/ccc?key=0AkEveutSlMoVdHo2RDRFZDVlQ25yUjNLVzRYcFZfcWc&usp=sharing](https://docs.google.com/spreadsheet/ccc?key=0AkEveutSlMoVdHo2RDRFZDVlQ25yUjNLVzRYcFZfcWc&usp=sharing)
 
 You can learn more about the Radical Access Mapping Project here:
-http://radicalaccessiblecommunities.wordpress.com/radical-access-mapping-project-vancouver/
+[http://radicalaccessiblecommunities.wordpress.com/radical-access-mapping-project-vancouver/](http://radicalaccessiblecommunities.wordpress.com/radical-access-mapping-project-vancouver/)
 
 NEW THIS YEAR: Attendance at licensed QAF events requires valid membership
 in the Pride in Art Society. Memberships are only $2 during the festival,
@@ -72,13 +72,13 @@ and can be purchased with your ticket. Please allow a few extra minutes at
 your first event to obtain your new card.
 
 ARE YOU A QAF FAN? Buy a 4-show QAF Pass for only $69 / $20 for youth.
-http://www.brownpapertickets.com/ref/22139/event/747714
+[http://www.brownpapertickets.com/ref/22139/event/747714](http://www.brownpapertickets.com/ref/22139/event/747714)
 Get advance seating, invitations to parties, special passholder offers & more!
 
 Check out all our ticketed events at:
-http://ow.ly/yCV6p
+[http://ow.ly/yCV6p](http://ow.ly/yCV6p)
 
 The Pride in Art Society is a registered charity, and will issue tax
 receipts for all donations of $20 or more. To donate online, please visit
 our donation page at:
-http://ow.ly/yCVaf
+[http://ow.ly/yCVaf](http://ow.ly/yCVaf)

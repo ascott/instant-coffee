@@ -52,4 +52,4 @@ from visible minority group members, women, Indigenous persons, persons with dis
 persons of minority sexual
 orientations and gender identities, and others with the skills and knowledge to productively
 engage with diverse communitiesv
-http://nanaimogallery.ca/index.php/about-nag/emplo
+[http://nanaimogallery.ca/index.php/about-nag/emplo](http://nanaimogallery.ca/index.php/about-nag/emplo)

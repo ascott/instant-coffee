@@ -27,4 +27,4 @@ GOING LATE
 147 MAIN ST.
 VANCOUVER
 
-Cedar Tavern: https://www.facebook.com/groups/164555376974645/
+Cedar Tavern: [https://www.facebook.com/groups/164555376974645/](https://www.facebook.com/groups/164555376974645/)

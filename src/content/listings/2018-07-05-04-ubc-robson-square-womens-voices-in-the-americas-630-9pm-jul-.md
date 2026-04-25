@@ -19,4 +19,4 @@ Wednesday, July 4
 6:30 - 9:00 p.m.
 UBC Robson Square, 800 Robson Street, Vancouver, B.C. V6Z 3B7
 $10
-http://www.carnavaldelsol.ca/women-americas
+[http://www.carnavaldelsol.ca/women-americas](http://www.carnavaldelsol.ca/women-americas)

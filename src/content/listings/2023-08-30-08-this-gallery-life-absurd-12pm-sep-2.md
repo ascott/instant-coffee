@@ -82,4 +82,4 @@ the junction between Chinatown and the Downtown East Side (DTES) at Main and
 Pender. THIS has a workshop/studio space as well as a commercial gallery. The
 gallery curates at least one new show each month.
 
-https://thisgallery.org/
+[https://thisgallery.org/](https://thisgallery.org/)

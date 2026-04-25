@@ -110,8 +110,8 @@ Check out our Reading Service for Writers on our website.
 t 604.527.5293
 f 604.527.5095
 e event@douglas.bc.ca
-web event.douglas.bc.ca ( http://www.douglas.bc.ca/visitors/event-
+web event.douglas.bc.ca ( [http://www.douglas.bc.ca/visitors/event-](http://www.douglas.bc.ca/visitors/event-)
 magazine.html )
-facebook eventmagazine ( http://www.facebook.com/eventmagazine )
-twitter @EVENTmags ( http://twitter.com/#!/EVENTmags )
+facebook eventmagazine ( [http://www.facebook.com/eventmagazine](http://www.facebook.com/eventmagazine) )
+twitter @EVENTmags ( [http://twitter.com/#!/EVENTmags](http://twitter.com/#!/EVENTmags) )
 blog eventmags.wordpress.com

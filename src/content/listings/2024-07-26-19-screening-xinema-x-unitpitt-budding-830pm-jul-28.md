@@ -34,10 +34,10 @@ Women I Love by Barbara Hammer
 Presented on both 16mm film and digital.
 
 Limited pay-what-you-can ($15 suggested donation) tickets available:
-https://www.zeffy.com/en-CA/ticketing/4d63cc09-52c1-4f1d-80e0-cee986b6d7b0
+[https://www.zeffy.com/en-CA/ticketing/4d63cc09-52c1-4f1d-80e0-cee986b6d7b0](https://www.zeffy.com/en-CA/ticketing/4d63cc09-52c1-4f1d-80e0-cee986b6d7b0)
 
 Please email info@unitpitt.ca if you need financial or physical accommodation.
 
-For accessibility notes please visit https://www.unitpitt.ca/about/.
+For accessibility notes please visit [https://www.unitpitt.ca/about/](https://www.unitpitt.ca/about/).
 
 In the case if inclement weather the screening will be moved inside The Gallery.

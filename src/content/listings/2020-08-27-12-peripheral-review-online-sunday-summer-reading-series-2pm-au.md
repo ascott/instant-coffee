@@ -19,7 +19,7 @@ On Sunday August 30th from 2 - 4 pm (EDT), join Toronto-based artist Cadence Pla
 and editor Lauren Lavery at Earlscourt Park for the fifth and final week of the reading
 series talks!
 
-https://peripheralreview.com/events-programming/
+[https://peripheralreview.com/events-programming/](https://peripheralreview.com/events-programming/)
 ~~~~
 We will be discussing a selection of writing and poetry including:
 - Powr Mastrs Vol. 2 by C.F.

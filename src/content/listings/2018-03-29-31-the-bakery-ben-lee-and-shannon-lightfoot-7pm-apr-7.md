@@ -81,4 +81,4 @@ experience. Consider yourself lucky !
 Exhibition Statement by Robert Chaplin 
 Curated By Robert Turriff
 
-http://thebakeryonfranklin.com
+[http://thebakeryonfranklin.com](http://thebakeryonfranklin.com)

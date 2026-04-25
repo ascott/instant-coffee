@@ -46,7 +46,7 @@ had arrived at our semi rural/suburban destination, parked the car and the noise
 continued that I realized the sound was coming from everywhere. Field recording 
 gold! I selected several locations in the nearby farmer fields for their distinct 
 voices and documented using a Tascam DR-100 and a Stereo Rode NT4 mic.
-http://youtu.be/XKimsIHi5jM http://www.youtube.com/user/leehutzulak
+[http://youtu.be/XKimsIHi5jM](http://youtu.be/XKimsIHi5jM) [http://www.youtube.com/user/leehutzulak](http://www.youtube.com/user/leehutzulak)
 Call 604 872 8180 or info@blim.ca for more information.
 
 BLIM

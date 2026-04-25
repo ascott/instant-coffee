@@ -64,4 +64,4 @@ Free Drop in
 
 This is an on-site, indoor and outdoor event. Covid-19 safety protocols will be observed.
 Masks must be worn while inside the art gallery.
-http://sensory-walk-tour
+[http://sensory-walk-tour](http://sensory-walk-tour)

@@ -32,4 +32,4 @@ hour/happy hour 7:44pm
 
 This exhibition is made possible with support from the BC Arts Council
 Innovations Grant, the Province of BC, and the Deux Mille Foundation,
-http://centre.nikkeiplace.org/magic-hour/
+[http://centre.nikkeiplace.org/magic-hour/](http://centre.nikkeiplace.org/magic-hour/)

@@ -13,7 +13,7 @@ together and alone Opening Celebration.
 
 6:00 pm - Doors
 6:30 pm - Remarks
-RSVP Here: https://thepolygon.ca/event/we-raised-ourselves-together-and-alone-
+RSVP Here: [https://thepolygon.ca/event/we-raised-ourselves-together-and-alone-](https://thepolygon.ca/event/we-raised-ourselves-together-and-alone-)
 opening-celebration/
 
 Sydney Frances Pascal: We raised ourselves, together and alone is on view at The

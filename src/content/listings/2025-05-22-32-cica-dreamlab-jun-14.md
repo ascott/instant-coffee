@@ -29,5 +29,5 @@ exploring subconscious landscapes and inner symbols through art. Together, well
 breathe, create, and co-regulate in a supportive space centered on healing, curiosity,
 and community. No prior art experience needed. All materials provided.
 
-https://cicavancouver.com/product/dreamlab-an-art-therapy-experience-rooted-in-
+[https://cicavancouver.com/product/dreamlab-an-art-therapy-experience-rooted-in-](https://cicavancouver.com/product/dreamlab-an-art-therapy-experience-rooted-in-)
 dreams-and-inner-landscapes/

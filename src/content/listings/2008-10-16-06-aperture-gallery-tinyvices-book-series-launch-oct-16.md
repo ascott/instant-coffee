@@ -29,8 +29,8 @@ Aperture Gallery
 New York, New York
 (212) 505-5555
 
-http://www.aperture.org/tinyvices/
-http://www.tinyvices.com/tv_aperture_book_series_launch.html
+[http://www.aperture.org/tinyvices/](http://www.aperture.org/tinyvices/)
+[http://www.tinyvices.com/tv_aperture_book_series_launch.html](http://www.tinyvices.com/tv_aperture_book_series_launch.html)
 
 and in other news...
 
@@ -50,7 +50,7 @@ I curated for the New York Photo Festival)
 Don't Look Down
 by Ben Schumacher
 
-stop by http://tvbookshop.com to check them out!
+stop by [http://tvbookshop.com](http://tvbookshop.com) to check them out!
 
 all the best -
 Tim Barber

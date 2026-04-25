@@ -28,8 +28,8 @@ This opportunity is open to professional British Columbian artists. The Terms of
 and Application Form can bee downloaded by clicking on the PDF link below:
 
 Steveston Fire Hall Terms of Reference
-http://www.richmond.ca/__shared/assets/sccfire09090923628.pdf
+[http://www.richmond.ca/__shared/assets/sccfire09090923628.pdf](http://www.richmond.ca/__shared/assets/sccfire09090923628.pdf)
 
 Please visit www.richmond.ca/publicart for more information on all opportunities with the City 
 of Richmond.
-http://http://www.richmond.ca/__shared/assets/sccfire0909
+[http://http://www.richmond.ca/__shared/assets/sccfire0909](http://http://www.richmond.ca/__shared/assets/sccfire0909)

@@ -33,7 +33,7 @@ drawings engage us with the quality and tranquility of a different pace, reminis
 the deeper sense of geologic time. She invites us to charmingly clouded ice-berg tips,
 and to the beauty of a world void of human bodies.
 
-https://gpag.ca/
+[https://gpag.ca/](https://gpag.ca/)
 
 www.carolinafranzen.com
 

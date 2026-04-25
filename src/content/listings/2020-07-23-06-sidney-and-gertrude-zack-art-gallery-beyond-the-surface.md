@@ -26,5 +26,5 @@ JCC
 950 West 41st Avenue, Vancouver, BC
 Between Oak and Cambie on 41st.
 
-https://www.jccgv.com/about/hours-location/
-https://www.jccgv.com/art-and-culture/gallery/
+[https://www.jccgv.com/about/hours-location/](https://www.jccgv.com/about/hours-location/)
+[https://www.jccgv.com/art-and-culture/gallery/](https://www.jccgv.com/art-and-culture/gallery/)

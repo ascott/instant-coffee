@@ -23,7 +23,7 @@ pens into movement. Each participant will create a short segment, and the group'
 work will be stitched together and screened at the end of the workshop.
 
 Registration for this event is free, but limited. A number of spots are reserved for
-families. RSVP to secure your place here: https://cagvancouver.org/event/open-studio-
+families. RSVP to secure your place here: [https://cagvancouver.org/event/open-studio-](https://cagvancouver.org/event/open-studio-)
 paige-smith
 
 Paige Smith

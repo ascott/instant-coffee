@@ -92,7 +92,7 @@ Gallery 881: Lens-Based Contemporary Art Gallery
 gallery881.com
 Email: info@gallery881.com
 Subscribe to our newsletter:
-https://www.gallery881.com/subscribe
+[https://www.gallery881.com/subscribe](https://www.gallery881.com/subscribe)
 
 Sponsors of Gallery 881
 PrintMaker Studio is a Canson Infinity Certified Print Lab and custom finisher and

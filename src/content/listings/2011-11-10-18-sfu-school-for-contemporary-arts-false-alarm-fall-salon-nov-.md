@@ -26,7 +26,7 @@ around the question ¨What is Contemporary Art?”
 Please join us! Refreshments to follow.
 
 RSVP
-http://websurvey.sfu.ca/survey/92143191
+[http://websurvey.sfu.ca/survey/92143191](http://websurvey.sfu.ca/survey/92143191)
 
 Supervising faculty:
 Jin-me Yoon

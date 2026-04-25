@@ -41,4 +41,4 @@ Curated by Vanessa Kwan
 Richmond Art Gallery
 7700 Minoru Gate Richmond BC
 
-http://www.richmondartgallery.org
+[http://www.richmondartgallery.org](http://www.richmondartgallery.org)

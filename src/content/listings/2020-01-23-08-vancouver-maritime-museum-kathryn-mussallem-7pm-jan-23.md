@@ -19,7 +19,7 @@ navies of the world.
 You'll hear tales of ridiculous adventures and learn surprising insights from this award-
 winning photographer.
 
-https://www.vancouvermaritimemuseum.com/event/artist-talk-kathryn-mussallem
+[https://www.vancouvermaritimemuseum.com/event/artist-talk-kathryn-mussallem](https://www.vancouvermaritimemuseum.com/event/artist-talk-kathryn-mussallem)
 
 Vancouver Maritime Museum
 1905 Ogden Avenue in Vanier Park

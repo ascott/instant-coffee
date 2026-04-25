@@ -116,7 +116,7 @@ questions or to set up a viewing time.
 The Gam Gallery
 110 E Hastings St. Vancouver BC, Canada, V6A 1N4
 thegam@live.com
-http://www.gamgallery.com
+[http://www.gamgallery.com](http://www.gamgallery.com)
 
 3.
 The Artist's Scribe | professional proofreading

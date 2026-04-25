@@ -13,8 +13,8 @@ download
 
 Momentarily: Learning from Mega-Events, Western Front’s latest 
 publication is available in its entirety for download at 
-http://front.bc.ca/mediaarts/events/3397 and at 
-http://www.front.bc.ca/momentarily/momentarily.pdf. Print copies of 
+[http://front.bc.ca/mediaarts/events/3397](http://front.bc.ca/mediaarts/events/3397) and at 
+[http://www.front.bc.ca/momentarily/momentarily.pdf](http://www.front.bc.ca/momentarily/momentarily.pdf). Print copies of 
 Momentarily: Learning from Mega-Events are available for free at 
 Western Front. Please see below for more information about the 
 publication. 

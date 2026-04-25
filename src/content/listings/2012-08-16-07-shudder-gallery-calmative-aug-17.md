@@ -38,5 +38,5 @@ www.shuddergallery.com
 433 Columbia Street
 Vancouver BC
 
-http://www.facebook.com/events/421468864577016/
-https://twitter.com/ShudderGallery
+[http://www.facebook.com/events/421468864577016/](http://www.facebook.com/events/421468864577016/)
+[https://twitter.com/ShudderGallery](https://twitter.com/ShudderGallery)

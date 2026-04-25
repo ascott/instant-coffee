@@ -100,4 +100,4 @@ Vancouver, BC
 
 From the Gathering is kindly supported by the Consulat général de France in Vancouver and the 
 Canada Council for the Arts, the BC Arts Council and the City of Vancouver.
-http://www.helenpittgallery.org
+[http://www.helenpittgallery.org](http://www.helenpittgallery.org)

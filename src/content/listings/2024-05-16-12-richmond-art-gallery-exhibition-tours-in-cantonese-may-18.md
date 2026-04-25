@@ -16,7 +16,7 @@ Unit Bruises: Theodore Wan & Paul Wong, 1975-1979
 Saturday, May 18, 2024
 2:00 PM - 3:00 PM
 
-Limited spaces, RSVP to reserve a seat. https://www.eventbrite.ca/e/-chinese-language-
+Limited spaces, RSVP to reserve a seat. [https://www.eventbrite.ca/e/-chinese-language-](https://www.eventbrite.ca/e/-chinese-language-)
 tour-tickets-865924111327
 
 Drop in

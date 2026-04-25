@@ -22,5 +22,5 @@ Slice of Life Gallery
 Vancouver, BC
 V5L 2H2
 
-https://www.slicevancouver.ca/
+[https://www.slicevancouver.ca/](https://www.slicevancouver.ca/)
 (604) 707-0708

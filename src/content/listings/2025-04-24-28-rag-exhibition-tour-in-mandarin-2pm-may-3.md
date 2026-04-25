@@ -19,7 +19,7 @@ through a guided visit and informal discussion over a cup of tea.
 
 Free event.
 Limited spaces, RSVP to reserve a seat.
-Register here: https://www.eventbrite.ca/e/-exhibition-tour-in-mandarin-tickets-
+Register here: [https://www.eventbrite.ca/e/-exhibition-tour-in-mandarin-tickets-](https://www.eventbrite.ca/e/-exhibition-tour-in-mandarin-tickets-)
 1325962151489?aff=oddtdtcreator
 
-https://www.richmondartgallery.org/
+[https://www.richmondartgallery.org/](https://www.richmondartgallery.org/)

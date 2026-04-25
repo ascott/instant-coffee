@@ -19,7 +19,7 @@ funny youve always wanted to wear"this is your chance to make it real. Wear it l
 keep it for bedtime bravery"either way, its yours. $35 includes all materials except
 your T-shirt (bring one or grab a blank one here).
 
-Limited Spaces! Register today! https://www.eventbrite.ca/e/block-letter-t-shirt-
+Limited Spaces! Register today! [https://www.eventbrite.ca/e/block-letter-t-shirt-](https://www.eventbrite.ca/e/block-letter-t-shirt-)
 workshop-tickets-1573895908029?aff=oddtdtcreator
 
 Call or email us for more information: 604-678-3537, rathartsupplies@gmail.com

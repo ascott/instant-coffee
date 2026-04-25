@@ -60,5 +60,5 @@ the development of South East.
 Contact:
 
 hschmidt711@gmail.com
-http://othersights.ca/
-http://www.grow-urbanagricultureproject.ca/
+[http://othersights.ca/](http://othersights.ca/)
+[http://www.grow-urbanagricultureproject.ca/](http://www.grow-urbanagricultureproject.ca/)

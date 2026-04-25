@@ -9,7 +9,7 @@ summary: "Moberly Studio Theatre | Interplay 2018 | SEPT 7+8 | 8PM | SEP 7"
 ---
 
 Interplay 2018: 
-http://mutablesubject.ca/interplay2018
+[http://mutablesubject.ca/interplay2018](http://mutablesubject.ca/interplay2018)
 
 Multidisciplinary approaches to performance by...
 
@@ -20,15 +20,15 @@ Ziyian Kwan (movement, two books, one song)
 Nathan Marsh, Clara Chow + Yian Chen (sound objects, movement)
 Alexa Mardon (dance, writing)
 
-BUY TICKETS: http://bit.ly/Interplay2018tix
+BUY TICKETS: [http://bit.ly/Interplay2018tix](http://bit.ly/Interplay2018tix)
 $15 advance online*
 $20 cash at door, until show sells out*
 cash bar*
 *100% of proceeds go to the artists
 
-Interplay website: http://bit.ly/Interplay2018
+Interplay website: [http://bit.ly/Interplay2018](http://bit.ly/Interplay2018)
 Interplay workshops w/ Alexa Mardon, Carolina Bergonzoni: 
-http://bit.ly/Interplay2018Workshops
+[http://bit.ly/Interplay2018Workshops](http://bit.ly/Interplay2018Workshops)
 
 Interplay 2018
 Sep 7 + 8, 2018

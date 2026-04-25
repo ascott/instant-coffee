@@ -75,8 +75,8 @@ A small publication with an essay by Chris Lee is being produced in
 conjunction with this exhibition.
 
 For updates on public programs, please visit 
-http://www.centrea.org/followsuit or follow us on Facebook 
-https://www.facebook.com/CentreAGallery
+[http://www.centrea.org/followsuit](http://www.centrea.org/followsuit) or follow us on Facebook 
+[https://www.facebook.com/CentreAGallery](https://www.facebook.com/CentreAGallery)
 
 ---
 Centre A, Vancouver International Centre for Contemporary Asian Art

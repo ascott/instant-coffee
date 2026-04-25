@@ -26,5 +26,5 @@ theirs that are working to reclaim the Anishinaabeg language with their children
 recently were presented with the Periodical Marketers of Canadas Indigenous Literature
 Award for Its a Mitig!.
 
-Details and event access here: https://grunt.ca/spark-fireside-artist-talk-series/
+Details and event access here: [https://grunt.ca/spark-fireside-artist-talk-series/](https://grunt.ca/spark-fireside-artist-talk-series/)
 This event will be held online via Zoom, with auto-captioning by otter.ai

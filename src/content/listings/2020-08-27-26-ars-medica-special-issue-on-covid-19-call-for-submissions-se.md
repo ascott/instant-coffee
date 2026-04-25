@@ -28,4 +28,4 @@ Deadline
 Friday, September 18, 2020, at 11:59 pm.
 
 For more information about submission guidelines, remuneration rates, and/or
-about the journal, please visit: https://www.ars-medica.ca/index.php/journal
+about the journal, please visit: [https://www.ars-medica.ca/index.php/journal](https://www.ars-medica.ca/index.php/journal)

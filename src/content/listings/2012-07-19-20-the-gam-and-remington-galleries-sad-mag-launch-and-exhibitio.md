@@ -23,6 +23,6 @@ The Gam and Remington Galleries (110 East Hastings)
 
 poster by Pamela Rounis (www.pamelarounis.com)
 
-http://www.facebook.com/events/324208167668272/
+[http://www.facebook.com/events/324208167668272/](http://www.facebook.com/events/324208167668272/)
 
 AUGUST 2, 7:00pm until 11:00pm in UTC-07

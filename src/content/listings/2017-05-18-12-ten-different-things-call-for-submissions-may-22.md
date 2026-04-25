@@ -27,6 +27,6 @@ the series is a collaboration between the City of Vancouver Public Art Program,
 CityStudio, and Living Labs at Emily Carr University of Art + Design.
 
 See the Call for Expressions of Interest for full details at
-http://research.ecuad.ca/-/uploads/sites/3/2017/04/TenDifferentThings_Call.pdf
+[http://research.ecuad.ca/-/uploads/sites/3/2017/04/TenDifferentThings_Call.pdf](http://research.ecuad.ca/-/uploads/sites/3/2017/04/TenDifferentThings_Call.pdf)
 
 Deadline: 5:00 pm, Monday, May 22, 2017

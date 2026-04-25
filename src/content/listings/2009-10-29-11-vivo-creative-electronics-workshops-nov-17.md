@@ -49,4 +49,4 @@ VIVO Media Arts Centre
 Vancouver BC
 604-872-8337/ext.1
 vivomediaarts.com
-http://www.vivomediaarts.com/workshops
+[http://www.vivomediaarts.com/workshops](http://www.vivomediaarts.com/workshops)

@@ -8,4 +8,4 @@ venue: "Being Black in Canada"
 summary: "Being Black in Canada | call for aspiring filmmakers | MAY 25"
 ---
 
-https://beingblackincanada.com/
+[https://beingblackincanada.com/](https://beingblackincanada.com/)

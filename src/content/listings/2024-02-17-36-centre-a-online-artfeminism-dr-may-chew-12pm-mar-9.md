@@ -25,4 +25,4 @@ alternative methods of knowledge preservation, memory, and networks of care.
 Date: Saturday, March 9, 2024
 Time: 12 - 1:30pm PT
 Location: Zoom
-RSVP: https://us02web.zoom.us/webinar/register/WN_0n80IL9aSmKRlCSXJctVvg
+RSVP: [https://us02web.zoom.us/webinar/register/WN_0n80IL9aSmKRlCSXJctVvg](https://us02web.zoom.us/webinar/register/WN_0n80IL9aSmKRlCSXJctVvg)

@@ -24,7 +24,7 @@ Make sure you arrive to the party early so you can take part in a solstice-
 inspired game developed by LEAGUE. LEAGUE is a group-based project, 
 facilitated by artist Germaine Koh, that works with community members to 
 create new games and sports.
-http://germainekoh.com/league/blog/
+[http://germainekoh.com/league/blog/](http://germainekoh.com/league/blog/)
 
 Hiphop artist, Ostwelve (Ron Dean Harris) will be keeping the beat with a DJ 
 set at this year’s party. A long-time friend of grunt, grunt first met Ostwelve 
@@ -42,4 +42,4 @@ December 19th (rather than the 21st). Stop by anytime from 7-11pm. Please
 know that the event is family friendly; you’re more than welcome to bring your 
 little ones. There is no cover/admission to this event.
 
-http://grunt.ca/winter-solstice-party-2013/
+[http://grunt.ca/winter-solstice-party-2013/](http://grunt.ca/winter-solstice-party-2013/)

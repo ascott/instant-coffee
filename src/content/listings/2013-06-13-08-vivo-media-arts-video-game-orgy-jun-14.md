@@ -33,4 +33,4 @@ Restaurant and Bar, The Storm Crow Tavern, The Shameful Tiki Room,
 Gamedeals Video Games and more.
 
 1965 Main St. Vancouver BC V5T3C1
-http://vivomediaarts.com/event/video-game-orgy
+[http://vivomediaarts.com/event/video-game-orgy](http://vivomediaarts.com/event/video-game-orgy)

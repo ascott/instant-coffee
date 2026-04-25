@@ -15,7 +15,7 @@ workshops with contemporary Indigenous artists, then screen it
 at The Polygon Gallery in North Vancouver.
 Visit here to find out more and apply:
 
-https://thepolygon.ca/news/response-program-2024-call-for-artists/
+[https://thepolygon.ca/news/response-program-2024-call-for-artists/](https://thepolygon.ca/news/response-program-2024-call-for-artists/)
 
 Inspired by the diverse approach to film and media across contemporary Indigenous
 art, Response: Remembering Our Futures broadly considers the generations who

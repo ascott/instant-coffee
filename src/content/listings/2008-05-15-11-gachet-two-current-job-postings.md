@@ -9,7 +9,7 @@ summary: "GACHET | TWO CURRENT JOB POSTINGS"
 ---
 
 TWO CURRENT JOB POSTINGS:
-GRAPHIC DESIGNER (see http://gachet.org/site/news_main.php)
+GRAPHIC DESIGNER (see [http://gachet.org/site/news_main.php](http://gachet.org/site/news_main.php))
 MEDIA ART PROJECTS LEAD (see below)
 
 Upcoming job postings and artist calls this spring and summer:

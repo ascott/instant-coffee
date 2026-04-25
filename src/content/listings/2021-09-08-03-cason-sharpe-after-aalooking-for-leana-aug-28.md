@@ -45,4 +45,4 @@ Saturday 12pm"5pm
 
 Forest City Gallery is located at 258 Richmond St. in downtown London, Ontario.
 
-https://www.forestcitygallery.com/
+[https://www.forestcitygallery.com/](https://www.forestcitygallery.com/)

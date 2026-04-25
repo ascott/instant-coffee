@@ -67,4 +67,4 @@ Liz Toohey-Wiese
 Artists Talks Moderated by:
 Skai Fowler
 
-https://studio13fineart.com/upcoming-exhibitions-events/
+[https://studio13fineart.com/upcoming-exhibitions-events/](https://studio13fineart.com/upcoming-exhibitions-events/)

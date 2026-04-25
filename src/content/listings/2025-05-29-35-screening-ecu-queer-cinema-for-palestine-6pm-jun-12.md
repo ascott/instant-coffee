@@ -69,7 +69,7 @@ I never promised you a Jasmine Garden, Teyama AlKamli, 20min, canada (2023)
 
 Dont take my joy away, Omar Gabriel, 7min, Lebanon (2024)
 
-Full program information: https://queercinemaforpalestine.org/2025/04/18/film-
+Full program information: [https://queercinemaforpalestine.org/2025/04/18/film-](https://queercinemaforpalestine.org/2025/04/18/film-)
 program-queer-cinema-for-palestine-2025/
 
 This screening will be subtitled in English. Light food and snacks provided. This is a

@@ -125,13 +125,13 @@ Community: 5 Surrey-based Photojournalists (until February 13th).
 
 Surrey Art Gallery
 
-604-501-5566 | www.arts.surrey.ca <http://www.arts.surrey.ca/>
+604-501-5566 | www.arts.surrey.ca <[http://www.arts.surrey.ca/](http://www.arts.surrey.ca/)>
 13750 - 88 Avenue, 1 block east of King George Blvd, in Bear Creek
 Park
 Admission to exhibitions is by donation.
 
 Directions and a map
-<http://www.surrey.ca/Living+in+Surrey/Arts/Surrey+Art+Gallery/About
+<[http://www.surrey.ca/Living+in+Surrey/Arts/Surrey+Art+Gallery/About](http://www.surrey.ca/Living+in+Surrey/Arts/Surrey+Art+Gallery/About)
 +the+Gallery/visitor+info.htm> are on our website.
 
 The Surrey art Gallery gratefully acknowledges the support of the

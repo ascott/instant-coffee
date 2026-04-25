@@ -14,7 +14,7 @@ Celine Wong Katzman
 November 7, 6pm
 Zoom Link:
 
-https://emilycarru.zoom.us/j/69303706277?
+[https://emilycarru.zoom.us/j/69303706277](https://emilycarru.zoom.us/j/69303706277)?
 pwd=0QKZZoz2t4dwCogIwyWCu11N4Gvxmf.1
 
 Join our Cloud HD Video Meeting

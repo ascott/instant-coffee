@@ -35,4 +35,4 @@ Date: May 4th, 2024
 
 Time: 12pm-5pm
 
-https://www.firstsaturday.ca/next-open-studios
+[https://www.firstsaturday.ca/next-open-studios](https://www.firstsaturday.ca/next-open-studios)

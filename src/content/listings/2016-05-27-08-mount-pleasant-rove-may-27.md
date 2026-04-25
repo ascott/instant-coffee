@@ -15,7 +15,7 @@ Participating galleries include: Burrard Arts Foundation, Field
 Contemporary, Grunt Gallery and Gene Studios among other locations.
 For more information, visit: www.roveyvr.com
 RSVP on Facebook at:
-https://www.facebook.com/events/791644154312902/
+[https://www.facebook.com/events/791644154312902/](https://www.facebook.com/events/791644154312902/)
 
 For further information, please contact: info@roveyvr.com
 604.916.4279 @roveyvr

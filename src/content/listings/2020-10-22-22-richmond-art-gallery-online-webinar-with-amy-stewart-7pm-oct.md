@@ -14,7 +14,7 @@ Tuesday, October
 27, 2020
 7:00 PM - 8:30 PM
 
-Free event, register here: https://us02web.zoom.us/webinar/register/WN_X68FJ-
+Free event, register here: [https://us02web.zoom.us/webinar/register/WN_X68FJ-](https://us02web.zoom.us/webinar/register/WN_X68FJ-)
 hvTQKIXOmTi2__uw
 
 The Richmond Art Gallery's Artist Salon Series features art professionals leading

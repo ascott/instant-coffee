@@ -12,4 +12,4 @@ residency in Iceland, it is situated at Skagastrand a small village up in
 the north, nature is fantastic and the studio is in an old fishfactory by
 the shore.
 
-You can find information on: www.neslist.is <http://www.neslist.is>
+You can find information on: www.neslist.is <[http://www.neslist.is](http://www.neslist.is)>

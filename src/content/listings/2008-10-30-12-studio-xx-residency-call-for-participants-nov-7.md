@@ -11,7 +11,7 @@ summary: "Studio XX Residency | CALL FOR PARTICIPANTS | NOV 7"
 CALL FOR PARTICIPANTS | Fearless City Mobile Presents | Studio XX Residency
 with Bérengère Marin Dubuard (Beewoo)
 November 18- November 28 2008
-http://www.studioxx.org
+[http://www.studioxx.org](http://www.studioxx.org)
 For ten days- November 18-28 2008- Montreal New Media Artist and Studio XX
 Production Director Bérengère Marin Dubuard (Beewoo) with collaborate with
 four women from Fearless City Mobile in the Downtown Eastside. This

@@ -18,7 +18,7 @@ Basics | JAN 26
 Blackmagic Camera & Colour Correction Basics
 
 SIGN UP & MORE INFO: 
-https://bmcc-devanscott.eventbrite.ca/
+[https://bmcc-devanscott.eventbrite.ca/](https://bmcc-devanscott.eventbrite.ca/)
 
 Learn how to create beautiful videos with the Blackmagic Cinema Camera and its colour 
 correction software in this comprehensive introduction by cinematographer Devan Scott!
@@ -37,7 +37,7 @@ work! Learn how to use them through practical demonstrations and hands-on exerci
 using footage you shoot and colour correct over two sessions.
 
 One Extended Subsidy is available for this workshop:
-https://goo.gl/forms/Sfpqz2Agn50vE1Rm2
+[https://goo.gl/forms/Sfpqz2Agn50vE1Rm2](https://goo.gl/forms/Sfpqz2Agn50vE1Rm2)
 
 _______________
 Item 2
@@ -48,7 +48,7 @@ WORKSHOP | VIVO Media Arts Centre | Podcasting: Finding the Story | FEB 5
 Podcasting: Finding the Story
 
 SIGN UP & MORE INFO: 
-https://podcasting.eventbrite.ca/
+[https://podcasting.eventbrite.ca/](https://podcasting.eventbrite.ca/)
 
 Learn radio interviewing, reporting, and audio storytelling in this podcasting primer with 
 producer-journalists Madeline Taylor & Alex de Boer of UBC radio CiTR 101.9 FM!
@@ -65,7 +65,7 @@ radio story production. Youll pair up with a partner to record. Then through han
 exercises, youll practice the skills you need to create your own podcast.
 
 One extended subsidy is available for this workshop:
-https://goo.gl/forms/6AEk1dTTVmj44NT62
+[https://goo.gl/forms/6AEk1dTTVmj44NT62](https://goo.gl/forms/6AEk1dTTVmj44NT62)
 
 _______________
 Item 3
@@ -76,7 +76,7 @@ WORKSHOP | VIVO Media Arts Centre | Cinematography: Ways of Seeing | FEB 23
 Cinematography: Ways of Seeing
 
 SIGN UP & MORE INFO: 
-https://cinemat-devan.eventbrite.ca/
+[https://cinemat-devan.eventbrite.ca/](https://cinemat-devan.eventbrite.ca/)
 
 Ignite your own visual storytelling style with cinematographer Devan Scott!
 
@@ -90,7 +90,7 @@ Session 1: Sat, Feb 23, 12pm-6pm
 Session 2: Sun, Feb 24, 12pm-6pm
 
 One extended subsidy for this workshop available:
-https://goo.gl/forms/Sfpqz2Agn50vE1Rm2
+[https://goo.gl/forms/Sfpqz2Agn50vE1Rm2](https://goo.gl/forms/Sfpqz2Agn50vE1Rm2)
 
 _______________
 Item 4
@@ -101,7 +101,7 @@ WORKSHOP | VIVO Media Arts Centre | Experimental Editing | FEB 27
 Experimental Editing
 
 SIGN UP & MORE INFO: 
-https://experimental-editing.eventbrite.ca
+[https://experimental-editing.eventbrite.ca](https://experimental-editing.eventbrite.ca)
 
 Inspiring techniques to stoke your editing process, with editor Will Ross.
 
@@ -122,4 +122,4 @@ generating experiments by implementing colour palette, saturation, image blendin
 contrast, rhythm, rapid cutting, graphic montage in novel and expressive ways.
 
 One Extended Subsidy available for this workshop: 
-https://goo.gl/forms/z1t2E8tlBfiz2r693
+[https://goo.gl/forms/z1t2E8tlBfiz2r693](https://goo.gl/forms/z1t2E8tlBfiz2r693)

@@ -22,7 +22,7 @@ generation as a mentor for another arts administrator outside their own organiza
 are intended for established and mid-career arts managers.
 
 The application forms and guidelines can be found on the Canada Council for the Arts website at 
-http://www.canadacouncil.ca/prizes/john_hobday.
+[http://www.canadacouncil.ca/prizes/john_hobday](http://www.canadacouncil.ca/prizes/john_hobday).
 
 
 DATE LIMITE DE DEMANDE : Le 30 septembre 2008

@@ -13,6 +13,6 @@ will be hired from this job posting and an eligibility list will be established 
 
 Details on the job(s) and how to apply here " deadline August 12th:
 
-https://bcpublicservice.hua.hrsmart.com/hr/ats/Posting/view/63023
+[https://bcpublicservice.hua.hrsmart.com/hr/ats/Posting/view/63023](https://bcpublicservice.hua.hrsmart.com/hr/ats/Posting/view/63023)
 
 FMI Kimberley.Reid@gov.bc.ca

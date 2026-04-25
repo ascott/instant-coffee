@@ -21,15 +21,15 @@ is a creative game series led by artist Germaine
 Koh that uses physical play as a way
 to practice innovation. This is a free program, and registrations can be made via the
 City of Burnabys Recreation platform,
-https://anc.ca.apm.activecommunities.com/burnaby/activity/search/detail/57656?
+[https://anc.ca.apm.activecommunities.com/burnaby/activity/search/detail/57656](https://anc.ca.apm.activecommunities.com/burnaby/activity/search/detail/57656)?
 onlineSiteId=0&from_original_cui=trued or by emailing publicart@burnaby.ca
 
 Participants gather weekly at Edmonds Community Centre to invent and play new
 games and sports. Everyone is welcome, whether or not you are a gamer, athlete or
 artist.
 
-Find out more about League at http://league-league.org. Offered as a collaborative
+Find out more about League at [http://league-league.org](http://league-league.org). Offered as a collaborative
 program between Edmonds Community Centre and Burnaby Public Art
 
 Directions to Edmonds Community Centre from the Edmonds Skytrain Stop
-https://maps.app.goo.gl/8Qmv2V6ZCNhdUUiX7
+[https://maps.app.goo.gl/8Qmv2V6ZCNhdUUiX7](https://maps.app.goo.gl/8Qmv2V6ZCNhdUUiX7)

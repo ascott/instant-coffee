@@ -19,4 +19,4 @@ hybrid forms of ceramic sculpture. This one-of-a kind fun ceramics class is boun
 one you won't forget!
 $63
 Sorry, we are unable to accommodate drop-ins. Please pre-register and read our FAQ.
-https://www.mobil-art.ca/event-info/ceramic-exquisite-corpse
+[https://www.mobil-art.ca/event-info/ceramic-exquisite-corpse](https://www.mobil-art.ca/event-info/ceramic-exquisite-corpse)

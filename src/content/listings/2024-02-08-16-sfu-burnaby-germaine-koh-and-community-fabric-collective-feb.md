@@ -15,6 +15,6 @@ joining Koh and the Community Fabric collective to weave banners and rugs from
 recuperated clothing. Use the recycled clothing provided, or bring an old T-shirt to add to
 the collectively made objects.
 
-https://www.sfu.ca/galleries/SFUGalleriesEvents/2024/germaine-koh-and-community-
-fabric-van.html https://www.sfu.ca/fass/community/scholars-in-residence/shadbolt-
+[https://www.sfu.ca/galleries/SFUGalleriesEvents/2024/germaine-koh-and-community-](https://www.sfu.ca/galleries/SFUGalleriesEvents/2024/germaine-koh-and-community-)
+fabric-van.html [https://www.sfu.ca/fass/community/scholars-in-residence/shadbolt-](https://www.sfu.ca/fass/community/scholars-in-residence/shadbolt-)
 fellowship/shadbolt-fellows.html

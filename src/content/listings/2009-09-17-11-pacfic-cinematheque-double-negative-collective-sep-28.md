@@ -37,4 +37,4 @@ Becks, Pan of the Landscape | Daïchi Saïto, Trees of Syntax, Leaves of Axis | 
 Ghosts and Gravel Roads
 
 
-http://http://doublenegativecollective.blogspot.com/
+[http://http://doublenegativecollective.blogspot.com/](http://http://doublenegativecollective.blogspot.com/)

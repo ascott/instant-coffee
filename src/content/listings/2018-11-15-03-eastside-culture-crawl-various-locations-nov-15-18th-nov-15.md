@@ -14,4 +14,4 @@ on the area bounded by Columbia St, 1st Ave, Victoria Drive, and the Waterfront 
 painters, jewelers, sculptors, furniture makers, weavers, potters, printmakers, photographers, 
 glassblowers; from emerging artists to those internationally established.
 
-http://culturecrawl.ca/program
+[http://culturecrawl.ca/program](http://culturecrawl.ca/program)

@@ -57,7 +57,7 @@ Society.
 
 Exhibition Website:
 
-https://centre.nikkeiplace.org/exhibits/umami-savouring-artistic-nikkei-identity/?
+[https://centre.nikkeiplace.org/exhibits/umami-savouring-artistic-nikkei-identity/](https://centre.nikkeiplace.org/exhibits/umami-savouring-artistic-nikkei-identity/)?
 utm_source=press+release&utm_campaign=758fe3f3c8-
 EMAIL_CAMPAIGN_20230926_COPY_01&utm_medium=email&utm_term=0_-
 f52af5b6ba-87017054&mc_cid=758fe3f3c8&mc_eid=15436e847e

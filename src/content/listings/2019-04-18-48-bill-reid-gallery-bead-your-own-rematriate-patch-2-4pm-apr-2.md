@@ -19,5 +19,5 @@ with several members of the ReMatriate Collective including Tsema Igharas, Denve
 and special guest Shawna Davis. The workshop fee includes guided instruction, materials and 
 admission to the Bill Reid Gallery. 
 
-Register : https://www.billreidgallery.ca/collections/all-products/products/bead-your-own-
+Register : [https://www.billreidgallery.ca/collections/all-products/products/bead-your-own-](https://www.billreidgallery.ca/collections/all-products/products/bead-your-own-)
 rematriate-patch-april-27?variant=21798763790419

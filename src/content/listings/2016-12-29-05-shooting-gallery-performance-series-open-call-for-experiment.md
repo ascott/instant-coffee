@@ -41,4 +41,4 @@ Costs: None. Selected artists will receive a performance fee and potentially
 rehearsal space.
 Contact details: shootinggalleryperformance@gmail.com
 For further information please visit: 
-http://shootinggalleryperformance.wordpress.com/
+[http://shootinggalleryperformance.wordpress.com/](http://shootinggalleryperformance.wordpress.com/)

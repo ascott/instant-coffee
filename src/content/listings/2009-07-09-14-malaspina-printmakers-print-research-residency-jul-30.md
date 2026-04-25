@@ -72,4 +72,4 @@ Malaspina Printmakers
 604.688.1724 or 604.688.1827
 malaspinagallery@telus.net
 
-http://www.malaspinaprintmakers.com
+[http://www.malaspinaprintmakers.com](http://www.malaspinaprintmakers.com)

@@ -66,7 +66,7 @@ Rhea Anastas on Quaytman
 David Joselit interview with R.H. Quaytman
 
 Directions: Lasserre Building, Room 104, UBC
-http://www.maps.ubc.ca/PROD/index_detail.php?locat1=028
+[http://www.maps.ubc.ca/PROD/index_detail.php?locat1=028](http://www.maps.ubc.ca/PROD/index_detail.php?locat1=028)
 
 The Distinguished Visiting Artist Program is made possible by the generous 
-support of the Rennie Collection. http://www.renniecollection.org/index.php
+support of the Rennie Collection. [http://www.renniecollection.org/index.php](http://www.renniecollection.org/index.php)

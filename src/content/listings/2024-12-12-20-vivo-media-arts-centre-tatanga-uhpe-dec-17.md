@@ -26,4 +26,4 @@ Following the opening on Friday, December
 13, the installation is open to the public from
 Tuesday, December 17 to Thursday, December 19, 12-6pm.
 
-More info: https://www.vivomediaarts.com/programming/tatanga-uhpe
+More info: [https://www.vivomediaarts.com/programming/tatanga-uhpe](https://www.vivomediaarts.com/programming/tatanga-uhpe)

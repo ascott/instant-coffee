@@ -39,7 +39,7 @@ once a week as an evolving cartography of sentiments in
 accordance with instructions
 given by the artist.
 
-https://centrea.org/exhibitions/current/
+[https://centrea.org/exhibitions/current/](https://centrea.org/exhibitions/current/)
 
 Accessibility: Centre A is wheelchair and walker accessible. If you have specific
 accessibility needs, please contact us at (604) 683-8326 or info@centrea.org. Visit

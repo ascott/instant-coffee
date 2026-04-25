@@ -38,7 +38,7 @@ $100 USD for art supplies from Skagway Arts Council
 TO APPLY
 Deadline for submission is February 1st, 2014. Complete program information 
 and online application forms are available at 
-http://yukonartscentre.com/programs/chilkoot_trail_artist_residency_program 
+[http://yukonartscentre.com/programs/chilkoot_trail_artist_residency_program](http://yukonartscentre.com/programs/chilkoot_trail_artist_residency_program) 
 
 For more information, contact:
 chilkoot@yac.ca

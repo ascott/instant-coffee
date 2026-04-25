@@ -25,7 +25,7 @@ Matinees: February 2, 5, 8, & 9 at 2:00pm
 
 Post-Show Talkback: Friday, February 7
 
-Tickets: $15-$37 | Available online at http://mitchandmurrayproductions.com
+Tickets: $15-$37 | Available online at [http://mitchandmurrayproductions.com](http://mitchandmurrayproductions.com)
 
 (Vancouver, B.C.) " Mitch and Murray Productions is proud to present the Western
 Canadian premiere of Heroes of the Fourth Turning by Will Arbery from Friday,

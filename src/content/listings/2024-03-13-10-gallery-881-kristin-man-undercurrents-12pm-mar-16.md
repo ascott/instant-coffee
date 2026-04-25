@@ -22,4 +22,4 @@ combine my inner and outer Seascapes?
 
 In February 2023, while
 
-https://www.gallery881.com/exhibitions/kristin-man-undercurrents
+[https://www.gallery881.com/exhibitions/kristin-man-undercurrents](https://www.gallery881.com/exhibitions/kristin-man-undercurrents)

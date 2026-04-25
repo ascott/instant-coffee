@@ -45,5 +45,5 @@ partnership with the University of Victoria, Faculty of Fine Arts, Orion Series 
 It is part of the
 major project In the Present Moment: Buddhism, Contemporary Art and
 Social Practice. A Research Convening curated by Haema Sivanesan. Learn more
-about this project here: https://aggv.ca/in-the-present-moment-buddhism-contemporary-
+about this project here: [https://aggv.ca/in-the-present-moment-buddhism-contemporary-](https://aggv.ca/in-the-present-moment-buddhism-contemporary-)
 art-and-social-practice

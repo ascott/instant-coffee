@@ -23,4 +23,4 @@ Doors open + installations on view at 6:30pm
 Performance at 7:30pm
 RSVPs are helpful
 
-RSVP here: https://thepolygon.ca/event/unheld-ii/
+RSVP here: [https://thepolygon.ca/event/unheld-ii/](https://thepolygon.ca/event/unheld-ii/)

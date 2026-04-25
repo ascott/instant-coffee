@@ -67,7 +67,7 @@ Lunch will be provided for all participants.
 
 For further details on the workshops and the exhibition, please go to
 
-http://centrea.org/index.cfm?
+[http://centrea.org/index.cfm](http://centrea.org/index.cfm)?
 go=site.index&section=exhibitions&tag=upcoming&id=95
 
 Click to view this email in a browser

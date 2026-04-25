@@ -152,7 +152,7 @@ art workshops and programs leading to three days of celebrations
 at Emery Barnes Park (Davie and Seymour St.) around the summer 
 solstice.
 
-https://gatheringfestival.wordpress.com
+[https://gatheringfestival.wordpress.com](https://gatheringfestival.wordpress.com)
 
 The Vancouver International Film Centre and Vancity Theatre 
 provides the public and film community with an excellent facility for 
@@ -160,7 +160,7 @@ the appreciation of cinema and related art forms throughout the
 year. The Vancity Theatre started its regular film programming in 
 January 2006, and VIFF was founded in 1982.
 
-http://www.viff.org/
+[http://www.viff.org/](http://www.viff.org/)
 
 Cineworks Independent Filmmakers Society (est.1980) is an artist-
 run production and exhibition centre that supports independent 

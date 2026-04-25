@@ -10,5 +10,5 @@ summary: "Astro Club | Monthly Muse : Live Nude Drawing | MAY 23"
 
 7PM
 
-https://www.eventbrite.ca/e/monthly-muse-exotica-live-nude-model-drawing-tickets-
+[https://www.eventbrite.ca/e/monthly-muse-exotica-live-nude-model-drawing-tickets-](https://www.eventbrite.ca/e/monthly-muse-exotica-live-nude-model-drawing-tickets-)
 1351955989759?aff=ebdsshother&utm_share_source=search_android

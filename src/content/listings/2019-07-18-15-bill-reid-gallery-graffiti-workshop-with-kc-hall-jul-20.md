@@ -19,6 +19,6 @@ Learn about this unique form of street art and create your own spray-painted gra
 canvas from Heiltsuk graffiti artist KC Hall. The registration fee for this hands-on 
 workshop includes all supplies and admission to the Gallery.
 
-Register: https://www.billreidgallery.ca/products/graffiti-workshop-with-kc-hall-saturday-
+Register: [https://www.billreidgallery.ca/products/graffiti-workshop-with-kc-hall-saturday-](https://www.billreidgallery.ca/products/graffiti-workshop-with-kc-hall-saturday-)
 july-20?fbclid=IwAR3DxVnNn-
 rqvzi8kWMvlP5HYjSOYJfUReVBmAzJhbEWEyMorP0s4HJ3JxU

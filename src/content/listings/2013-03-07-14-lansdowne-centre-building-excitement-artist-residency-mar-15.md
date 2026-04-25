@@ -35,7 +35,7 @@ Artist Statement (1 page max)
 Image list to include: Title, Artist(s), Year, Medium, Dimensions
 
 For more information: 
-http://www.richmond.ca/culture/publicart/opportunities.htm
+[http://www.richmond.ca/culture/publicart/opportunities.htm](http://www.richmond.ca/culture/publicart/opportunities.htm)
 
 Please e-mail all PDF applications to:
 publicart@richmond.ca

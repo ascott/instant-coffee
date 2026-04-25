@@ -83,7 +83,7 @@ selection, we will request high resolution documentation of artworks
 (TIFF or RAW files mandatory). AAP will require exclusive rights on the 
 selected artworks for reproduction on clothing and fashion accessories. 
 For more information, see the terms and conditions section of AAP’s 
-website. https://www.art-a-porter.com/en/showcase
+website. [https://www.art-a-porter.com/en/showcase](https://www.art-a-porter.com/en/showcase)
 
 For any other inquiry reach us via email at: priscilla@art-a-porter.com
 www.art-a-porter.com

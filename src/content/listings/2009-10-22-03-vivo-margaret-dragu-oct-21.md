@@ -43,4 +43,4 @@ This exhibition is part of LIVE -www.livebiennale.ca
 Curated by Velveeta Krisp
 
 
-http://www.videoinstudios.com
+[http://www.videoinstudios.com](http://www.videoinstudios.com)

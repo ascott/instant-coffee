@@ -17,7 +17,7 @@ Exhibition: April 3 - May 1
 Admission via
 Pulpfiction Books
 2442 Main St.
-https://www.ukrainiandays.com/
+[https://www.ukrainiandays.com/](https://www.ukrainiandays.com/)
 @ukrainiandays
 
 This group exhibition offers a nuanced and critical exploration of the experience of
@@ -49,5 +49,5 @@ Sponsors and Partners:
 Maple Hope Foundation, Kyrzov Creative, CSA Space, Capture Photography
 Festival
 For more info:
-https://www.ukrainiandays.com/
-https://www.instagram.com/ukrainiandays/
+[https://www.ukrainiandays.com/](https://www.ukrainiandays.com/)
+[https://www.instagram.com/ukrainiandays/](https://www.instagram.com/ukrainiandays/)

@@ -39,7 +39,7 @@ SAD is a series of talks accompanying the exhibition Stratiform | Kara
 Uzelman. Curated by Vanessa Kwan and Kimberly Phillips, these 
 presentations investigate objects and practices in the context of 
 contemporary forms of melancholy. For more information, visit 
-http://221a.ca/stratiform
+[http://221a.ca/stratiform](http://221a.ca/stratiform)
 
 Upcoming SAD talks:
 - Thursday, March 28th, 8pm: On Objects and Melancholy: Drew 
@@ -58,7 +58,7 @@ Curated by Vanessa Kwan and Kimberly Phillips
 100-221 E Georgia
 Vancouver, BC
 +1 604 568 0812
-http://221a.ca
+[http://221a.ca](http://221a.ca)
 hello@221a.ca
 
 Tues-Fri 10am-5pm

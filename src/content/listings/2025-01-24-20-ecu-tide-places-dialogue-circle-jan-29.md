@@ -49,4 +49,4 @@ Entrepreneurship in partnership with the Libby Leshgold Gallery. It has been mad
 possible through the generous support of Peeter Wesik, with additional funding from
 the Estonian Academy of Arts, Tallinn.
 
-https://www.eventbrite.ca/e/tide-places-dialogue-c
+[https://www.eventbrite.ca/e/tide-places-dialogue-c](https://www.eventbrite.ca/e/tide-places-dialogue-c)

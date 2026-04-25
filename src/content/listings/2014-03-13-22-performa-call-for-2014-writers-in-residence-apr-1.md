@@ -13,7 +13,7 @@ Call for 2014 Writers in Residence
 The Performa Magazine Writers’ Residency seeks four unique voices to 
 serve as year-long writers in residence.
 
-http://performa-arts.org/magazine/entry/call-for-2014-writers-in-residence
+[http://performa-arts.org/magazine/entry/call-for-2014-writers-in-residence](http://performa-arts.org/magazine/entry/call-for-2014-writers-in-residence)
 
 Developed to broaden the outreach and scope of Performa Magazine, the 
 Residency showcases a select group of diverse voices in the global arts 

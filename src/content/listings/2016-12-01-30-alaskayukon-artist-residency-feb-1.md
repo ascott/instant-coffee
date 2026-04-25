@@ -47,7 +47,7 @@ heritage in special ways and will play a big part in the celebration of Canada 1
 
 The online application form and extensive program information may be accessed 
 on the Yukon Arts Centre website here: 
-http://yukonartscentre.com/programs/chilkoot
+[http://yukonartscentre.com/programs/chilkoot](http://yukonartscentre.com/programs/chilkoot)
 
 If you have any inquiries, please contact Jacqui Usiskin at chilkoot@yac.ca or by 
 phone at 1-867-667-8460.

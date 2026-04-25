@@ -33,4 +33,4 @@ artscentre@richmond.ca. This activity will be held via Zoom. You will require a
 computer, smart phone or tablet and access to internet.
 
 For more information, visit:
-https://culturedays.ca/en/events/823b1b57-26d6-476e-8ff6-0462450b1eaa
+[https://culturedays.ca/en/events/823b1b57-26d6-476e-8ff6-0462450b1eaa](https://culturedays.ca/en/events/823b1b57-26d6-476e-8ff6-0462450b1eaa)

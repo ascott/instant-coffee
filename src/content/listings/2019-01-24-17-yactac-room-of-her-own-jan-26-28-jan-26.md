@@ -30,4 +30,4 @@ Address: #5 " 115 E. Pender St, Vancouver BC
 
 Because it's great, and we're Yactac!
 www.yactac.com
-https://www.facebook.com/Yactac/
+[https://www.facebook.com/Yactac/](https://www.facebook.com/Yactac/)

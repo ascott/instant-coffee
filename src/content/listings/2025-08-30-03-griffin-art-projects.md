@@ -14,7 +14,7 @@ Opening reception: Friday, September 19, 2025, 6:00-8:00 PM
 
 Artist talk: The Collectors:
 Sunday, October 5, 2025 1:00PM 2:00PM
-https://www.griffinartprojects.ca/events/artist-talk-the-collectors
+[https://www.griffinartprojects.ca/events/artist-talk-the-collectors](https://www.griffinartprojects.ca/events/artist-talk-the-collectors)
 
 The Collectors Film Series: Film screening | Russian Ark - Cinematheque
 Saturday, September 20, 2025
@@ -24,7 +24,7 @@ griffinartprojects.ca/events/film-screening-russian-ark
 Conversations on Collecting: Transformational Legacies - Vancouver Art Gallery
 Saturday, September 27, 2025
 2:00PM 4:00PM
-https://www.griffinartprojects.ca/events/conversations-on-collecting-transformational-
+[https://www.griffinartprojects.ca/events/conversations-on-collecting-transformational-](https://www.griffinartprojects.ca/events/conversations-on-collecting-transformational-)
 legacies
 
 If you have any questions or need any further information please reach out to our

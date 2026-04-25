@@ -27,7 +27,7 @@ central ideas of *wholeness*, *transformation* and *self-regulation*.
 
 Contact Alex at universalmathesis@gmail.com or visit structuralism.ca
 for further details. A pdf of the text is available at
-https://structuralismvanhome.files.wordpress.com/2019/04/piaget-structuralism.pdf
+[https://structuralismvanhome.files.wordpress.com/2019/04/piaget-structuralism.pdf](https://structuralismvanhome.files.wordpress.com/2019/04/piaget-structuralism.pdf)
 - please read Chapter 1: Introduction and Location of Problems (pg.
 3-16) and Conclusion (pg. 136-143) for our first session.
 

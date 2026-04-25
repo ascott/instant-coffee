@@ -31,5 +31,5 @@ Vancouver Contemporary Art Gallery Emerging Artist Award and the Bob Rennie
 Undergraduate Award in Visual Art. She has exhibited at several galleries in both 
 Vancouver, and Taipei.
 
-For more information visit http://grunt.ca/spark-fireside-artist-talk-series/ or email 
+For more information visit [http://grunt.ca/spark-fireside-artist-talk-series/](http://grunt.ca/spark-fireside-artist-talk-series/) or email 
 tarah@grunt.ca

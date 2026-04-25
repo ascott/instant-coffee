@@ -23,4 +23,4 @@ Artists interested in the 2026 exhibition season are encouraged to submit a prop
 by July 20, 2025 for consideration. Proposals submitted after this date may be
 considered for future exhibition opportunities.
 
-For more information, visit: http://www.pomoarts.ca/artist-calls
+For more information, visit: [http://www.pomoarts.ca/artist-calls](http://www.pomoarts.ca/artist-calls)

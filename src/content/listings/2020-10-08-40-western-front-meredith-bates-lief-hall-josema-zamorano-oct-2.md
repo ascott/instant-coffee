@@ -57,7 +57,7 @@ Sunday, October 25
 
 Tickets: $15
 
-https://western-front.myshopify.com/collections/tickets
+[https://western-front.myshopify.com/collections/tickets](https://western-front.myshopify.com/collections/tickets)
 
 303 East 8th Ave
 Vancouver, BC

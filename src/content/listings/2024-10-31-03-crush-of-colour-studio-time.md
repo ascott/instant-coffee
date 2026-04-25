@@ -24,7 +24,7 @@ Sep 27, 2024 - Nov 29, 2024
 $166 #173925 ($25 drop in rate available)
 Music Box- Harmony Room
 Link for registration:
-https://anc.ca.apm.activecommunities.com/westvanrec/activity/search/detail/170891
+[https://anc.ca.apm.activecommunities.com/westvanrec/activity/search/detail/170891](https://anc.ca.apm.activecommunities.com/westvanrec/activity/search/detail/170891)
 ?onlineSiteId=0&from_original_cui=true
 
 Open Studio with Elmira
@@ -41,5 +41,5 @@ Sep 17, 2024 - Dec 3, 2024
 $396 #175518 ($25 drop in rate available)
 Arts Studio - WVCC
 Link for registration:
-https://anc.ca.apm.activecommunities.com/westvanrec/activity/search/detail/172484
+[https://anc.ca.apm.activecommunities.com/westvanrec/activity/search/detail/172484](https://anc.ca.apm.activecommunities.com/westvanrec/activity/search/detail/172484)
 ?onlineSiteId=0&from_original_cui=true

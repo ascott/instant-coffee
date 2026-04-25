@@ -15,7 +15,7 @@ presented by VIVO Media Arts Centre & Media Democracy Day 2017
 
 Learn to produce Real News with community engaged video artist Flick Harrison!
 
-Sign up and more info here: https://video-journalism-with-flick.eventbrite.ca
+Sign up and more info here: [https://video-journalism-with-flick.eventbrite.ca](https://video-journalism-with-flick.eventbrite.ca)
 
 2 sessions, 6 hours total
 Session 1: Tuesday, Nov 21, 6pm-9pm

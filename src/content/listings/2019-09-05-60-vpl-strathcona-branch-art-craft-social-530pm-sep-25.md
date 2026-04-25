@@ -13,7 +13,7 @@ Wednesday September 25th, 5:30pm to 8pm
 Vancouver Public Library, nc"a"mat ct Strathcona Branch
 730 East Hastings Street
 Cost: Free
-Register through eventbrite: https://www.eventbrite.com/e/art-craft-social-september-2019-
+Register through eventbrite: [https://www.eventbrite.com/e/art-craft-social-september-2019-](https://www.eventbrite.com/e/art-craft-social-september-2019-)
 tickets-68630119535
 
 Art & Craft Social is a FREE community event welcoming a diverse group of adult artists,

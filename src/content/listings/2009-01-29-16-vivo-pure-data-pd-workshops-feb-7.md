@@ -58,7 +58,7 @@ workshop is for people who have previously taken other PD workshops or
 want help with digitial media projects.
 
 MORE WORKSHOPS AT VIVO:
-http://vivomediaarts.com/workshops
+[http://vivomediaarts.com/workshops](http://vivomediaarts.com/workshops)
 
 VIVO Media Arts Centre
 1965 Main Street

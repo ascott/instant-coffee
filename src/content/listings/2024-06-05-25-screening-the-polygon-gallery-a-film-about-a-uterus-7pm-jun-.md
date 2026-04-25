@@ -30,5 +30,5 @@ The Polygon Gallery
 101 Carrie Cates Crt, North Vancouver
 
 VISIT
-https://thepolygon.ca/event/a-film-about-a-uterus/
+[https://thepolygon.ca/event/a-film-about-a-uterus/](https://thepolygon.ca/event/a-film-about-a-uterus/)
 FOR REGISTRATION

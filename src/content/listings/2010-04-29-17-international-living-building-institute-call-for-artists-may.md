@@ -51,4 +51,4 @@ Director of Education and Training
 t: 604.909.9559 | f: 604.608.9353 | www.cascadiagbc.org
 
 Do you get Cascadia's monthly announcements? Subscribe at
-http://www.cascadiagbc.org/
+[http://www.cascadiagbc.org/](http://www.cascadiagbc.org/)

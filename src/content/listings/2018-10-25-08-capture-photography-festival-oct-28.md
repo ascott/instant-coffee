@@ -14,7 +14,7 @@ Event Programs has been extended to Sunday, October 28.
 Capture 2019 runs April 3"30, and participating exhibitions and events must overlap 
 with at least one day during this time span.
 
-To build your application, visit https://capturephotofest.submittable.com/submit
+To build your application, visit [https://capturephotofest.submittable.com/submit](https://capturephotofest.submittable.com/submit)
 
 We'll require the following information:
 
@@ -27,4 +27,4 @@ The 2019 jury"Emmy Lee Wall, Assistant Curator, Vancouver Art Gallery; Denise
 Ryner, Director/Curator, Or Gallery; and Carol Sawyer, artist"will convene in early 
 November to determine the Selected and Featured Exhibitions.
 
-Questions? See the Submissions FAQ: http://capturephotofest.com/faq/
+Questions? See the Submissions FAQ: [http://capturephotofest.com/faq/](http://capturephotofest.com/faq/)

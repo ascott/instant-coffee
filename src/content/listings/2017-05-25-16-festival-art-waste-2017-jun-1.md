@@ -27,7 +27,7 @@ June 08, 2016
 We would like to thank the participating galleries for letting us work with them to use 
 their space! 
 
-Wanna read some more?? --> http://artwaste.tumblr.com/
+Wanna read some more?? --> [http://artwaste.tumblr.com/](http://artwaste.tumblr.com/)
 
 +++JUNE 1st++++++++++++++++++++=+=+
 

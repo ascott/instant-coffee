@@ -69,7 +69,7 @@ art, event and food-centric space at 648 Kingsway in East Vancouver. The
 Toast is a DIY, flexible and community located place for artists, events and 
 workshops.
 
-THE TOAST COLLECTIVE http://thetoast.org/
+THE TOAST COLLECTIVE [http://thetoast.org/](http://thetoast.org/)
 
 The Toast Collective is a store front with the following measurements:
 Front Door 40 inches across
@@ -83,7 +83,7 @@ Rental Opportunity
 The Toast Collective is currently looking to support event rentals, workshops, 
 or practices and people that need space on an interim basis! 
 Please email andreacreamer@gmail.com with project proposals and to 
-discuss rates. Or fill out a form here: http://thetoast.org/rentals/
+discuss rates. Or fill out a form here: [http://thetoast.org/rentals/](http://thetoast.org/rentals/)
 
 We are also seeking new collective membership, to share in the use of our 
 collective flex space on an ongoing basis. Collective Membership Rent is 
@@ -91,7 +91,7 @@ $200/month
 This gives you access to the entire space on the dates you choose to use, 
 we have a kitchen, storage spaces, and a main flex use space that has 
 hosted a variety of events and practices and often acts as a gallery space. 
-See a map of the main space here: http://thetoast.org/about/
+See a map of the main space here: [http://thetoast.org/about/](http://thetoast.org/about/)
 
 About the Toast Collective:
 
@@ -108,4 +108,4 @@ workshops.
 
 Some things we value are: inclusivity, community, shared/pooled resources, 
 accessibility
-To learn more: http://thetoast.org/
+To learn more: [http://thetoast.org/](http://thetoast.org/)

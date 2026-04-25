@@ -31,7 +31,7 @@ In addition to contributing to this data-collection activity, visitors may brows
 through a selection of previous institutional material, including banners, tote bags 
 and posters, as well as publications produced by the Centre since its inception. 
 Curated by Stphane Bernard, the V1.03.02 presentation of "Ten+" is part of 
-Spring Fever: Vancouver Independent Archives 2017 (http://archivesweek.ca/).
+Spring Fever: Vancouver Independent Archives 2017 ([http://archivesweek.ca/](http://archivesweek.ca/)).
 
 STPHANE BERNARD is an artist presently living and working in Vancouver, 
 where he finished a Post Baccalaureate Diploma from SFU after completing a 
@@ -45,6 +45,6 @@ publishers working in or at an intersection with artists' publishing. Please fol
 the signs from the front door of 236 E Pender Street and enter around back in 
 the alley, and knock loudly to be let in.
 
-Exhibition: https://www.facebook.com/events/1111168465695803/
+Exhibition: [https://www.facebook.com/events/1111168465695803/](https://www.facebook.com/events/1111168465695803/)
 
-Become a MEMBER: http://vancouverartbookfair.com/membership/
+Become a MEMBER: [http://vancouverartbookfair.com/membership/](http://vancouverartbookfair.com/membership/)

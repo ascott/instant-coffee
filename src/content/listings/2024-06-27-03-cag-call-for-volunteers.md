@@ -25,6 +25,6 @@ occasional assistance with special events, including exhibition opening receptio
 talks, and tours
 other operational and administrative duties as required
 Our volunteer application forms can be found at
-https://cagvancouver.org/about/opportunities.
+[https://cagvancouver.org/about/opportunities](https://cagvancouver.org/about/opportunities).
 
 For questions, please contact volunteer@cagvancouver.org

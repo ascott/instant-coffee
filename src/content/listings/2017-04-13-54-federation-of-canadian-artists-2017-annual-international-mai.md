@@ -18,4 +18,4 @@ $2,000 in Artist Prizes
 Artworks must be no larger than 8" x 10" inches
 We frame all artworks when they arrive
 This year's theme: Culture
-Learn more and submit at: https://artists.ca/submissions/view/id/615
+Learn more and submit at: [https://artists.ca/submissions/view/id/615](https://artists.ca/submissions/view/id/615)

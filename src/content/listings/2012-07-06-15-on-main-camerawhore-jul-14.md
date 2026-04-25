@@ -27,52 +27,52 @@ art, performances, GIFs, pinhole cameras, webcams, green screens
 and more. Camera/whore is a one night art event that provides 
 attendees with digital media of themselves, after the event, for free 
 online.
-http://www.camerawhore.me/
+[http://www.camerawhore.me/](http://www.camerawhore.me/)
 
 　　　　　　　　
 Artists/booths
 /////////////
 ➤Anthony Antonellis
 3D Porn HD with Retina Display
-http://anthonyantonellis.com/
+[http://anthonyantonellis.com/](http://anthonyantonellis.com/)
 ➤Steven Audia
 Disorientation Booth
-http://steven-audia.blogspot.ca/
+[http://steven-audia.blogspot.ca/](http://steven-audia.blogspot.ca/)
 ➤Sylvana Dangelo
 Pinhole Forest
-http://www.sylvanaisthebest.com/
+[http://www.sylvanaisthebest.com/](http://www.sylvanaisthebest.com/)
 ➤Angela Fama
 Mirror Face
-http://www.angelafama.com/
+[http://www.angelafama.com/](http://www.angelafama.com/)
 ➤Keren MD
 35mm GIF Booth
-http://kerenmd.com/
+[http://kerenmd.com/](http://kerenmd.com/)
 ➤Psychic Pornography + Friends and War
 The People + The Booth: Demented Hot or Not
-http://www.idxii.com/the_people-the_booth.gif
+[http://www.idxii.com/the_people-the_booth.gif](http://www.idxii.com/the_people-the_booth.gif)
 ➤Evann Siebens
 Quad/Wrangle
-http://evannsiebens.com/
+[http://evannsiebens.com/](http://evannsiebens.com/)
 ➤Systaime
 Image Reconstruction with Icons Facebook
-http://www.systaime.com/
+[http://www.systaime.com/](http://www.systaime.com/)
 ➤THE CARIBOOTH
 　　With the best 12 photos for the 2013 Cariboo Calendar
-http://www.cariboobrewing.com/
+[http://www.cariboobrewing.com/](http://www.cariboobrewing.com/)
 
 　　　　　　　　
 Music/Audio
 ///////////
 ➤DJ WoBangs + #Basedg0th
 　　From the ppl who bring u TLC, Wednesday @ the Biltmore
-http://wobangs.blogspot.ca/
+[http://wobangs.blogspot.ca/](http://wobangs.blogspot.ca/)
 
 After/party
 ///////////
 ➤360 Glen
 Open till really late with drinks and good music.
 Free cover with Camera/whore stamp.
-http://www.facebook.com/360Glen
+[http://www.facebook.com/360Glen](http://www.facebook.com/360Glen)
 　　　　　　　
 Sponsors
 /////////
@@ -81,17 +81,17 @@ The best damn beer has sponsored Camera/whore and
 is featuring a special Camera/whore Cariboo
 photobooth, The Caribooth - with the best 12 photos
 for the Cariboo 2013 Calendar.
-http://www.cariboobrewing.com/
+[http://www.cariboobrewing.com/](http://www.cariboobrewing.com/)
 ➤Beatroute
 Western Canada's monthly arts and entertainment
 paper with a predominant focus on music, culture and
 events. Since 2004 they continue to provide a healthy
 dose of perversity while exercising rock 'n' roll ethics.
-http://www.beatroute.ca/
+[http://www.beatroute.ca/](http://www.beatroute.ca/)
 ➤East Van Graphics
 East Van's very own professional quality print shop,
 with an eye for perfection, and a heart for community.
-http://www.eastvangraphics.ca/　
+[http://www.eastvangraphics.ca/](http://www.eastvangraphics.ca/)　
 ➤On Main
 On Main democratizes access to art by claiming and
 recontextualizing conventional and new forms of
@@ -99,15 +99,15 @@ private, public and virtual spaces for art and artistic
 practices that encourage intersections between
 culturally diverse generations of artists, artistic
 disciplines and the public.
-http://onmaingallery.com/
+[http://onmaingallery.com/](http://onmaingallery.com/)
 
 　　　　
 Thanks to
 ////////////////
 ➤VIVO Media Arts Centre
-http://vivomediaarts.com/
+[http://vivomediaarts.com/](http://vivomediaarts.com/)
 ➤grunt gallery
-http://www.grunt.ca/
+[http://www.grunt.ca/](http://www.grunt.ca/)
 
 　　　　　▄███████▄ 　┌▀█░
 ▄██████┬──────┬███████▄

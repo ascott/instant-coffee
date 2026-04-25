@@ -58,4 +58,4 @@ rm. 1001
 Audain Art Centre
 6398 University Boulevard
 
-http://ahva.ubc.ca/events/event/this-is-it-with-it-as-it-is/
+[http://ahva.ubc.ca/events/event/this-is-it-with-it-as-it-is/](http://ahva.ubc.ca/events/event/this-is-it-with-it-as-it-is/)

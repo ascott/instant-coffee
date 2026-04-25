@@ -35,7 +35,7 @@ reception at 5:30pm.
 
 Curated by Kiel Torres.
 
-https://westernfront.ca/events/wishing-on-my-falsies
+[https://westernfront.ca/events/wishing-on-my-falsies](https://westernfront.ca/events/wishing-on-my-falsies)
 
 
 05. EDUCATION
@@ -60,7 +60,7 @@ Time: 10:00 - 11:30 A.M. PT
 Cost: Free
 Register: Registration link here:
 
-https://us06web.zoom.us/webinar/register/WN_DBYk0RsERjK_eL8jwTnPxA?
+[https://us06web.zoom.us/webinar/register/WN_DBYk0RsERjK_eL8jwTnPxA](https://us06web.zoom.us/webinar/register/WN_DBYk0RsERjK_eL8jwTnPxA)?
 _x_zm_rtaid=CS_0JgOnSLu87RjVTR-G-
 Q.1735887691597.aa6acac177fb1d21b153d2c2437a6027&_x_zm_rhtaid=884#/regi
 stration

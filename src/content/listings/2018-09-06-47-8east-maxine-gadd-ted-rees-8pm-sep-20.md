@@ -50,4 +50,4 @@ of the Musqueam, Skwxw7mesh xwumixw, St:l , and Tsleil-Waututh peoples.
 
 A heartfelt thank you to Kay Higgins for hosting postdildo and its pursuits. 
 
-For more information visit http://www.daniellelafrance.com/postdildo/
+For more information visit [http://www.daniellelafrance.com/postdildo/](http://www.daniellelafrance.com/postdildo/)

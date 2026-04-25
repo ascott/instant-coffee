@@ -27,4 +27,4 @@ and Frid-Jimenez will discuss the technology of AI and the invisible and recursi
 of the automaton after dada and surrealism.
 
 For more information please visit our website, 
-http://www.griffinartprojects.ca/events/2018/burning-ballet-mechanique/
+[http://www.griffinartprojects.ca/events/2018/burning-ballet-mechanique/](http://www.griffinartprojects.ca/events/2018/burning-ballet-mechanique/)

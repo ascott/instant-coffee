@@ -37,13 +37,13 @@ he was just a teenager. His images have been featured in the New York-based
 magazine Photo District News, National Geographic and Colors, and exhibited in 
 England, France, America and Canada, including the permanent collection of the 
 Maltwood Art Museum in Victoria, BC.
-http://www.simondesrochers.com 
+[http://www.simondesrochers.com](http://www.simondesrochers.com) 
 
 Mathieu Persan, illustrator
 
 Fascinated by Art Deco, Mathieu Persan finds humour and inspiration in the 
 aesthetic of the beginning of the 20th century.
-http://www.barbudesign.com/
+[http://www.barbudesign.com/](http://www.barbudesign.com/)
 
 Anne Vegnaduzzo, curator 
 

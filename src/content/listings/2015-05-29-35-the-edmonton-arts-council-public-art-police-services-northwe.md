@@ -22,7 +22,7 @@ public art sculptural installation at the Edmonton Police Services
 Northwest Campus.
 
 For more information and submission guidelines:
-http://publicart.edmontonarts.ca/static_media/pdfs/files/publicart/artcalls/RFQ_EPS_NW_Campus.pdf
+[http://publicart.edmontonarts.ca/static_media/pdfs/files/publicart/artcalls/RFQ_EPS_NW_Campus.pdf](http://publicart.edmontonarts.ca/static_media/pdfs/files/publicart/artcalls/RFQ_EPS_NW_Campus.pdf)
 
 For questions regarding the submission requirements or process, contact the
 Edmonton Arts Council by email at

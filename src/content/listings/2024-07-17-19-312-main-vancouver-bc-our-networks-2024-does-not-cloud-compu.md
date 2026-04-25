@@ -19,4 +19,4 @@ transitional technologies that allow us to reframe what computing could
 mean when the internet, and the cloud, are optional.
 
 Register at:
-https://ournetworks.ca/#register (sliding scale CA$30-120)
+[https://ournetworks.ca/#register](https://ournetworks.ca/#register) (sliding scale CA$30-120)

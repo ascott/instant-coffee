@@ -87,12 +87,12 @@ the globe, and produce everything from books, magazines, zines and printed
 ephemera to digital, performative or other experimental forms of publication.
 
 A full schedule of program and exhibitor information is available at
-http://www.vancouverartbookfair.com
+[http://www.vancouverartbookfair.com](http://www.vancouverartbookfair.com)
 
 VA/BF is also accompanied by the parallel series Artists' Books Week,
 comprised of events around artist publishing hosted across Vancouver from
 September 29 to October 5, 2014. Full schedule at:
-http://www.2014.vancouverartbookfair.com/artistsbooksweek
+[http://www.2014.vancouverartbookfair.com/artistsbooksweek](http://www.2014.vancouverartbookfair.com/artistsbooksweek)
 
 FRIDAY, OCTOBER 3
 
@@ -100,7 +100,7 @@ Members Only Preview
 Open to Members of Project Space and the Vancouver Art Gallery
 Vancouver Art Gallery, Lobby & Annex, 750 Hornby St.
 Friday, October 3, 6-8pm
-Memberships available at the door or http://www.projectspace.ca/memberships
+Memberships available at the door or [http://www.projectspace.ca/memberships](http://www.projectspace.ca/memberships)
 
 VA/BF Reception
 Free and open to the public
@@ -122,4 +122,4 @@ Bean, The Keefer Bar, Bandidas Taqueria, Paper Pusher, Publishing @ SFU,
 Modo and The Paper Hound.
 
 For more information please contact: info@projectspace.ca Vancouver
-Art/Book Fair | http://www.vancouverartbookfair.com | #VABF2013
+Art/Book Fair | [http://www.vancouverartbookfair.com](http://www.vancouverartbookfair.com) | #VABF2013

@@ -49,4 +49,4 @@ artwork and design for the CD.
 xmky"m (Musqueam Indian Band), Swxw7mesh (Squamish Nation), and
 slilwta (Tsleil-Waututh Nation).
 http://
-https://www.8east.ca/event/matthew-ariaratnam-adr
+[https://www.8east.ca/event/matthew-ariaratnam-adr](https://www.8east.ca/event/matthew-ariaratnam-adr)

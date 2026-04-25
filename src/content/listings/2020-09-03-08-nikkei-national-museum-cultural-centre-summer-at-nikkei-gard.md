@@ -28,5 +28,5 @@ up-to-date.
 
 Ticketed time slots are now available - Space is limited. Reserve your spot to 
 avoid disappointment! Full details available on EventBrite.
-https://www.eventbrite.ca/e/nikkei-matsuri-presents-summer-at-nikkei-garden-
+[https://www.eventbrite.ca/e/nikkei-matsuri-presents-summer-at-nikkei-garden-](https://www.eventbrite.ca/e/nikkei-matsuri-presents-summer-at-nikkei-garden-)
 tickets-113009125336

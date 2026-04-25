@@ -57,5 +57,5 @@ collection of more than 20 new permanent and temporary public artworks
 commissioned especially for the 2010 Games. For more information, visit
 the Host City website at olympichostcity.vancouver.ca/cityhighlights/.
 High resolution photos of Surface and other artworks can be downloaded
-from the City's media gallery at vancouver.ca <http://www.vancouver.ca>
+from the City's media gallery at vancouver.ca <[http://www.vancouver.ca](http://www.vancouver.ca)>
 .

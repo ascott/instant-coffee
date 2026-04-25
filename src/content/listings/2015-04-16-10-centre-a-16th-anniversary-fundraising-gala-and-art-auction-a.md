@@ -34,4 +34,4 @@ And by donation, local 3D printing expert John Biehler will scan you at our
 event and a 3D printed bust will be created by the pros at Tinkerine.
 
 Click here for the online catalogue.
-http://centrea.us5.list-manage.com/track/click?u=d3749601761f678c1db0eed44&id=f4c25dbc84&e=1bfdb6f26b
+[http://centrea.us5.list-manage.com/track/click?u=d3749601761f678c1db0eed44&id=f4c25dbc84&e=1bfdb6f26b](http://centrea.us5.list-manage.com/track/click?u=d3749601761f678c1db0eed44&id=f4c25dbc84&e=1bfdb6f26b)

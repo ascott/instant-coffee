@@ -15,4 +15,4 @@ spirituality in the digital age.
 
 This event will take place via Zoom. RSVP here:
 
-https://thepolygon.ca/event/a-screening-with-lu-yang/
+[https://thepolygon.ca/event/a-screening-with-lu-yang/](https://thepolygon.ca/event/a-screening-with-lu-yang/)

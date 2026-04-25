@@ -16,7 +16,7 @@ and receive the downloadable package.
 
 Camp Fee $50 + tax, per household. Materials not included.
 
-https://www.eventbrite.ca/e/manga-camp-at-home-with-nikkei-national-
+[https://www.eventbrite.ca/e/manga-camp-at-home-with-nikkei-national-](https://www.eventbrite.ca/e/manga-camp-at-home-with-nikkei-national-)
 museum-tickets-111013307792 
 
 Advance your Manga drawing techniques and experience Japanese 
@@ -38,4 +38,4 @@ campers!
 Recommended for campers ages 9-12 and their families.
 
 Drawing instruction by Asami Hopkins. See her work at 
-http://nekoplanetarium.com/
+[http://nekoplanetarium.com/](http://nekoplanetarium.com/)

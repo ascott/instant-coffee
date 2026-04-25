@@ -43,6 +43,6 @@ chooses to ignore and instead convey lucid responses to moments in his art
 practice. He is a graduate of the IDEA School of Design at Capilano University in 
 2008.
 
-http://thebakeryonfranklin.com
+[http://thebakeryonfranklin.com](http://thebakeryonfranklin.com)
 
 ryanromero.net

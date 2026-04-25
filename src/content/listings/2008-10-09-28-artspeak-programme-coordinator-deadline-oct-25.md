@@ -90,4 +90,4 @@ Applications must be received by 5pm October 25, 2008
 Faxed or emailed applications will not be accepted.
 Only short-listed applicants will be contacted.
 
-http://www.artspeak.ca
+[http://www.artspeak.ca](http://www.artspeak.ca)

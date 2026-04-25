@@ -24,7 +24,7 @@ Artists:
 
 Corey Arnold
 
-http://vimeo.com/compzit
+[http://vimeo.com/compzit](http://vimeo.com/compzit)
 
 Endtask
 
@@ -32,31 +32,31 @@ Endtask.ca
 
 Jacob Hardy
 
-https://sites.google.com/site/holzkopf666/
+[https://sites.google.com/site/holzkopf666/](https://sites.google.com/site/holzkopf666/)
 
 Josh Magneticring
 
-http://visions-visions.tumblr.com
+[http://visions-visions.tumblr.com](http://visions-visions.tumblr.com)
 
 Kiran Bhumber
 
 Lighthead
 
-https://www.facebook.com/lightheadvisuals
+[https://www.facebook.com/lightheadvisuals](https://www.facebook.com/lightheadvisuals)
 
 Marchien Veen
 
-http://vimeo.com/marchien
+[http://vimeo.com/marchien](http://vimeo.com/marchien)
 
 Marcus Garcia
 
 Tom Whalen
 
-http://cargocollective.com/echomenace
+[http://cargocollective.com/echomenace](http://cargocollective.com/echomenace)
 
 Which Nancy
 
-http://nancylee.ca
+[http://nancylee.ca](http://nancylee.ca)
 
 Music:
 
@@ -74,7 +74,7 @@ Curated by Ashlee Luk
 around the world. The idea is simple: Find a place, invite many artists,
 ask them to bring their projectors."
 
-https://www.facebook.com/events/1400879016869112/
+[https://www.facebook.com/events/1400879016869112/](https://www.facebook.com/events/1400879016869112/)
 
-http://artandleisure.ca/
-http://www.byobworldwide.com/
+[http://artandleisure.ca/](http://artandleisure.ca/)
+[http://www.byobworldwide.com/](http://www.byobworldwide.com/)

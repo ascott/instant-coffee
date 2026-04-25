@@ -10,7 +10,7 @@ summary: "VIVO Media Arts Centre | Still Creek Salmon Sounds | NOV 30"
 
 Still Creek Salmon Sounds
 Nov 30 " 6:30pm " 2650 Kaslo Street " free public event
-http://vivomediaarts.com/stillcreeksalmonsounds
+[http://vivomediaarts.com/stillcreeksalmonsounds](http://vivomediaarts.com/stillcreeksalmonsounds)
 
 Why did the salmon return to Still Creek after an 80 year absence? What can we learn 
 about our continued cohabitation by listening to the dynamics of this creek?
@@ -28,4 +28,4 @@ Pierre, and aquatic ecologist Emma Atkinson.
 
 Co-produced with Still Moon Arts Society.
 
-Let us know you're coming: https://www.facebook.com/events/356757681534735/
+Let us know you're coming: [https://www.facebook.com/events/356757681534735/](https://www.facebook.com/events/356757681534735/)

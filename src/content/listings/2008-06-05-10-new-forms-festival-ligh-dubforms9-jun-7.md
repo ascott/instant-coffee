@@ -33,7 +33,7 @@ reservations void after midnight)
 dubforms events have sold out in the past - to ensure entry buy an advance ticket or get on the 
 reservations list & arrive before midnight
 
-http://www.soundsimple.ca/lightasound / http://www.newformsfestival.com
+[http://www.soundsimple.ca/lightasound](http://www.soundsimple.ca/lightasound) / [http://www.newformsfestival.com](http://www.newformsfestival.com)
 
 (further information on artists)
 
@@ -72,7 +72,7 @@ roller or a 4x4 jah shaka style banger, anything goes if Chefal likes it he’ll
 the crowd and myself, if I’m not having a good time how can I expect the listeners and ravers to?
 ..It's all about Bass weight maaaaan."
 
-http://www.myspace.com/dj_chef
+[http://www.myspace.com/dj_chef](http://www.myspace.com/dj_chef)
 
 : TERMITE : volume, edinburgh.scotland
 
@@ -84,7 +84,7 @@ Benga and many more. Known to mix up dubstep, grime, baile funk, bmore and more,
 brings diverse selections to the table with the skills to match, not to mention her bright 
 personality.
 
-http://www.myspace.com/alicewillster / http://www.myspace.com/movolume
+[http://www.myspace.com/alicewillster](http://www.myspace.com/alicewillster) / [http://www.myspace.com/movolume](http://www.myspace.com/movolume)
 
 : TAAL MALA & MAX ULIS : lighta! sound, sub-osc
 
@@ -92,8 +92,8 @@ Sealing off the night with Max and Keenan tag-teaming the bass heavy heat. Expec
 originals from the crew and lots of energy. Everyone who's heard this hard-hitting duo in action 
 knows this is something to look forward to. 'nuff said.
 
-http://www.myspace.com/maxtronic / http://www.myspace.com/taalmala / 
-http://www.soundsimple.ca/lightasound
+[http://www.myspace.com/maxtronic](http://www.myspace.com/maxtronic) / [http://www.myspace.com/taalmala](http://www.myspace.com/taalmala) / 
+[http://www.soundsimple.ca/lightasound](http://www.soundsimple.ca/lightasound)
 
 : DJ ABEL & THE PHONOGRAFF : bruk out, equilibrium
 
@@ -106,8 +106,8 @@ DJ ABEL's been djing for 12 years, starting back in '95 playing skate comps and 
 then moving on to DMC and ITF turntablist scratch battles in '99 until '04. Then Abel began 
 playing dancehall/reggae along with an already steady funksoul/hiphop influenced mix. He's 
 played all over canada, san francisco and even down to guatemala, and is a regular face in 
-vancouver's clubscene. http://www.myspace.com/blacksharkent / 
-http://www.facebook.com/profile.php?id=559037550&hiq=abel%2Croy
+vancouver's clubscene. [http://www.myspace.com/blacksharkent](http://www.myspace.com/blacksharkent) / 
+[http://www.facebook.com/profile.php?id=559037550&hiq=abel%2Croy](http://www.facebook.com/profile.php?id=559037550&hiq=abel%2Croy)
 
 THE PHONOGRAFF is Mike Jones (real name folks!), who has been DJing for over a decade 
 now. The name ‘The PhonoGraff’ was given to Mr.Jones by MOKA ONLY to help represent and 
@@ -121,14 +121,14 @@ Coco Love Alcorn. “It’s straight up hip-hop.. fusing roots reggae, dub, lati
 and huge beats with heavy bass and warm elements, all the while keeping the turntablism and 
 scratching in the mix.” Phono has opened for 50 Cent, Blackalicious, Lady Sovereign, Alkaholiks, 
 Jurassic 5, Digable Planets, Zion I, Living Legends, Kirby Dominant, Maestro Fresh Wes, Sixtoo, 
-Mr.Dibbs, Swollen Members, and countless others. http://www.myspace.com/thephonograff
+Mr.Dibbs, Swollen Members, and countless others. [http://www.myspace.com/thephonograff](http://www.myspace.com/thephonograff)
 
 : PRINCE SHO : royal platoon
 
 No stranger to mic-handling over the dubstep flavours, Sho is back once again and guruntee's 
 the fire. He said so himself.
 
-http://www.myspace.com/royalplatoon
+[http://www.myspace.com/royalplatoon](http://www.myspace.com/royalplatoon)
 
 : LIMINAL SPACES + MARK YUEN + BRADY MARKS : vj team
 
@@ -137,4 +137,4 @@ rocked Dubforms before and are equally excited to be back. Brady Marks is a fres
 series, and known figure in Vancouver for a wide range of art, theory and musical experiments. 
 (It's rumoured that Brady is building a 3D visual environment to react to the music for this night)
 
-http://www.markyuen.com / http://www.inter-mission.org/bradymarks.html
+[http://www.markyuen.com](http://www.markyuen.com) / [http://www.inter-mission.org/bradymarks.html](http://www.inter-mission.org/bradymarks.html)

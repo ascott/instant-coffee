@@ -12,7 +12,7 @@ Griffin Art Projects Residency
 
 1174 Welch St, North Vancouver, V7P 1B2
 
-http://griffinartprojects.ca/
+[http://griffinartprojects.ca/](http://griffinartprojects.ca/)
 
 Intergenerational Eco-fashion Workshop with Jaewoo Kang: July 8 and 15, 12PM
 
@@ -31,5 +31,5 @@ Infernalis by Louis Bec and Vilm Flusser and Strange Natures by Nicole Seymour.
 In the second part, we will work with the imagined body and focus on assembling a
 fashion item using buckram and reed to decorate a part of our bodies.
 
-More info: https://www.griffinartprojects.ca/events/intergenerational-eco-fashion-
+More info: [https://www.griffinartprojects.ca/events/intergenerational-eco-fashion-](https://www.griffinartprojects.ca/events/intergenerational-eco-fashion-)
 workshop-with-jaewoo-kang

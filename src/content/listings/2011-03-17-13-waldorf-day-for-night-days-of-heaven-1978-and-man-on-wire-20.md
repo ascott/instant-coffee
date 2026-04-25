@@ -10,7 +10,7 @@ summary: "Waldorf | Day for Night | Days of Heaven (1978) and Man on Wire (2008)
 
 Day for Night: Films in the Afternoon
 March 20th, 2011, Doors 2:00pm. Films at 2:30pm and 4:30pm.
-More information at http://www.waldorfhotel.com/
+More information at [http://www.waldorfhotel.com/](http://www.waldorfhotel.com/)
 
 The Waldorf Hotel (1489 East Hastings, Phone: 604-253-7141)
 

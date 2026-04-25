@@ -27,4 +27,4 @@ overdoses) by calling 911 and assisting harm reduction volunteers.
 
 To volunteer, contact crompton.n@gmail.com or 604 358 5823
 
-https://www.facebook.com/events/1622483278063710/
+[https://www.facebook.com/events/1622483278063710/](https://www.facebook.com/events/1622483278063710/)

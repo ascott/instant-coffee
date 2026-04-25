@@ -35,4 +35,4 @@ blur.
 Gallery Hours: Thursday, Friday, Saturday 1-5 pm and by appointment
 afternoonprojects.org
 Book Appointment:
-https://calendly.com/afternoon/mourner-s-revery?month=2025-03
+[https://calendly.com/afternoon/mourner-s-revery?month=2025-03](https://calendly.com/afternoon/mourner-s-revery?month=2025-03)

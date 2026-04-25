@@ -59,5 +59,5 @@ ceremony.
 ***PLEASE SEND ALL SUBMISSIONS TO tkff.info@gmail.com
 ***DEADLINE FOR ALL SUBMISSIONS IS MARCH 14th, 2014, 11:59 P.M. EST
 
-http://www.tkff.ca
-http://www.tkff.ca/#!2014-submission-/c10qm
+[http://www.tkff.ca](http://www.tkff.ca)
+[http://www.tkff.ca/#!2014-submission-/c10qm](http://www.tkff.ca/#!2014-submission-/c10qm)

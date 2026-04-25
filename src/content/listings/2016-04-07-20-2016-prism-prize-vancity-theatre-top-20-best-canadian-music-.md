@@ -36,7 +36,7 @@ the videos that made it into the Top 20.
 The screening and opportunity to vote is brought to you by Render:
 Vancouver's International Music Video Festival.
 
-Buy tickets here: http://www.viff.org/theatre/films/fc8845-the-prism-
+Buy tickets here: [http://www.viff.org/theatre/films/fc8845-the-prism-](http://www.viff.org/theatre/films/fc8845-the-prism-)
 prize-top-20-music-videos-2015-presented-by-render
 
 www.renderfestival.com

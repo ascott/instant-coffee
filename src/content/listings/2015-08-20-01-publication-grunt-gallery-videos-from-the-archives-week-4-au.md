@@ -15,7 +15,7 @@ WEEK 5: grunt gallery releases newly digitized Performance Videos
 – Curated by Alex Pimm for grunt's 30th Anniversary.
 
 Full Video | David Khang, Vag (Anal) Painting (May 6, 2005)
-http://grunt.us8.list-manage.com/track/click?u=befb1ca907e5641e22a9db3ec&id=404924128f&e=5a47416022
+[http://grunt.us8.list-manage.com/track/click?u=befb1ca907e5641e22a9db3ec&id=404924128f&e=5a47416022](http://grunt.us8.list-manage.com/track/click?u=befb1ca907e5641e22a9db3ec&id=404924128f&e=5a47416022)
 
 "(Vag)Anal Painting was a new performance that took its impetus from
 Shigeko Kubota's vaginal painting she did as part of Fluxus in the 60's.
@@ -46,7 +46,7 @@ local and international artists, First Nations artists and LGBTQ artists.
 
 grunt gallery will release a new video every Tuesday from July 21 - August
 25, visit the 30th Anniversary Tumblr.
-http://grunt30th.tumblr.com/
+[http://grunt30th.tumblr.com/](http://grunt30th.tumblr.com/)
 
 About the 30th Anniversary
-http://grunt.ca/30th-anniversary/about-the-30th/
+[http://grunt.ca/30th-anniversary/about-the-30th/](http://grunt.ca/30th-anniversary/about-the-30th/)

@@ -18,5 +18,5 @@ music, the land, and intimacy as medium. For the love of salt and singing, come
 witness Bonnie's seance from 5-6pm on 02/18/2017 at Vanier Park, by the Maritime 
 Museum.
 
-http://www.terrancehouleart.com/
-http://www.alexandrabischoff.com/
+[http://www.terrancehouleart.com/](http://www.terrancehouleart.com/)
+[http://www.alexandrabischoff.com/](http://www.alexandrabischoff.com/)

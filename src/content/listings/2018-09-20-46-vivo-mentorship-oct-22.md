@@ -18,7 +18,7 @@ Call for participation, ages 16-24
 
 Deadline to Apply: Oct 22, 2018
 
-APPLY HERE: http://vivomediaarts.com/epg
+APPLY HERE: [http://vivomediaarts.com/epg](http://vivomediaarts.com/epg)
 
 Electronic Perception Garage is a mentorship project providing youth (16-24 yrs) the 
 technical, conceptual, and community support to create video art installation works. 

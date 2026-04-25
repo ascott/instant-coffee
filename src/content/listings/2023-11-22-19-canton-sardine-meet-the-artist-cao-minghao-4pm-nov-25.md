@@ -41,7 +41,7 @@ on Saturday, November 25, in our gallery. We would
 like to invite you to join this
 event and meet the artist. Please click this link to RSVP:
 
-https://www.eventbrite.ca/e/meet-the-ubc-visiting-artist-cao-minghao-saturday-nov-
+[https://www.eventbrite.ca/e/meet-the-ubc-visiting-artist-cao-minghao-saturday-nov-](https://www.eventbrite.ca/e/meet-the-ubc-visiting-artist-cao-minghao-saturday-nov-)
 25-2023-46pm-tickets-761813644117?aff=oddtdtcreator
 
 Canton-sardine is situated on the unceded territories of the Musqueam, Squamish,

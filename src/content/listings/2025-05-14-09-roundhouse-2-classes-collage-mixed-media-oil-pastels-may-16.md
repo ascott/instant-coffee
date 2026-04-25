@@ -12,7 +12,7 @@ Education: Collage Mixed Media, Fridays, April 25 - May 23, from 10:00 am - Noon
 at Roundhouse Community Arts and Recreation Centre
 ID Code: 551610
 Register:
-https://anc.ca.apm.activecommunities.com/vancouver/activity/search/detail/548688?
+[https://anc.ca.apm.activecommunities.com/vancouver/activity/search/detail/548688](https://anc.ca.apm.activecommunities.com/vancouver/activity/search/detail/548688)?
 onlineSiteId=0&from_original_cui=true
 Call: (604) 713-1800
 Join us for fun, hands-on collage-making where creativity and conversation come
@@ -31,7 +31,7 @@ Education: Luxurious Oil Pastels, Fridays, April 25 - May 23, from 12:30 pm - 2:
 pm, at Roundhouse Community Arts and Recreation Centre
 ID Code: 551688
 Register:
-https://anc.ca.apm.activecommunities.com/vancouver/activity/search/detail/548766?
+[https://anc.ca.apm.activecommunities.com/vancouver/activity/search/detail/548766](https://anc.ca.apm.activecommunities.com/vancouver/activity/search/detail/548766)?
 onlineSiteId=0&from_original_cui=true
 Call: (604) 713-1800
 Discover the rich, vibrant world of oil pastels. Whether you're picking up oil pastels

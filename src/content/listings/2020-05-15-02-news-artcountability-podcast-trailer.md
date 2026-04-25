@@ -15,8 +15,8 @@ decolonize our friendship and art making.
 The first episode will be coming out in two weeks and the trailer is already out.
 
 Hasnaa Fatehi, a secular muslim, Moroccan and recently naturalized Canadian:
-https://hasnaafatehi.com/
+[https://hasnaafatehi.com/](https://hasnaafatehi.com/)
 
-Natasha Fowler, a British living in Amsterdam: https://www.natashafowler.com/
+Natasha Fowler, a British living in Amsterdam: [https://www.natashafowler.com/](https://www.natashafowler.com/)
 
-You can listen to the podcast trailer here:https://anchor.fm/artcountability/
+You can listen to the podcast trailer here:[https://anchor.fm/artcountability/](https://anchor.fm/artcountability/)

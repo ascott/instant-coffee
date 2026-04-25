@@ -138,7 +138,7 @@ The Beaumont Studios Artist Society Offers Arts & Culture Co-location
 
  Learn more about this opportunity by contacting The Beaumont Studios 
  Artist Society at: info at 
- thebeaumontstudios.com<http://thebeaumontstudios.com>
+ thebeaumontstudios.com<[http://thebeaumontstudios.com](http://thebeaumontstudios.com)>
 
  ---
  You are currently subscribed to vanculture as: 

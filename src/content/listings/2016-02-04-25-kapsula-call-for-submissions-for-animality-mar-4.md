@@ -29,7 +29,7 @@ current, battery-fueled moment.
 Submit abstracts, finished texts and project proposals by e-mail to
 submissions@kapsula.ca by midnight on March 4th, 2016.
 
-Visit http://kapsula.ca for the full call.
+Visit [http://kapsula.ca](http://kapsula.ca) for the full call.
 
 KAPSULA Magazine is also seeking cover images that pertain to the theme of
 ANIMALITY. Artists and makers can submit their images to submissions@kapsula.ca

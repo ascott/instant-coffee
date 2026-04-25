@@ -13,7 +13,7 @@ learning how to make them interactive. Explore the concepts of interactivity and
 can be a form of expression. Instructor: Chris Jung.
 
 Registration:
-https://cityofnewwestminster.perfectmind.com/23693/Classes/BookMe4LandingPages/
+[https://cityofnewwestminster.perfectmind.com/23693/Classes/BookMe4LandingPages/](https://cityofnewwestminster.perfectmind.com/23693/Classes/BookMe4LandingPages/)
 CoursesLandingPage?courseId=0c11b590-4d69-4611-ab72-b89c2a105d58
 
 Saturday, May 24 | 1:00 pm " 4:00 pm | Ages 18+

@@ -23,4 +23,4 @@ are all welcome. Our criteria is based on creativity, humour, visual style, good
 
 Deadline September 1, 2009
 
-http://http://hardliquorandporn.com
+[http://http://hardliquorandporn.com](http://http://hardliquorandporn.com)

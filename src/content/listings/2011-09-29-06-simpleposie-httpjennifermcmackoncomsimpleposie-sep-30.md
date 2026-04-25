@@ -25,6 +25,6 @@ McMackon.
 Your copy of simpleposie essays and pictures is waiting for you at simpleposie! 
 ($20.00 before shipping and handling) 
 
-http://jennifermcmackon.com/simpleposie/
+[http://jennifermcmackon.com/simpleposie/](http://jennifermcmackon.com/simpleposie/)
 more information:
 simpleposie@jennifermcmackon.com

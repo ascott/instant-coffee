@@ -14,7 +14,7 @@ Spare Room
 Chinatown
 Coast Salish Territory
 
-LINK TO PDF: https://tessera.journals.yorku.ca/index.php/tessera/article/view/25273
+LINK TO PDF: [https://tessera.journals.yorku.ca/index.php/tessera/article/view/25273](https://tessera.journals.yorku.ca/index.php/tessera/article/view/25273)
 (PDF icon below the image)
 
 This is a post-exhibition discussion of Tegan Moore's exhibition titled "Is Evaporation 
@@ -35,8 +35,8 @@ Please join us for an informal discussion of the reading at Spare Room.
 
 with snacks + drinks
 
-Facebook event: https://www.facebook.com/events/494354640973724/
+Facebook event: [https://www.facebook.com/events/494354640973724/](https://www.facebook.com/events/494354640973724/)
 _
 
 LINK TO PDF: 
-https://tessera.journals.yorku.ca/index.php/tessera/article/view/25273/23467
+[https://tessera.journals.yorku.ca/index.php/tessera/article/view/25273/23467](https://tessera.journals.yorku.ca/index.php/tessera/article/view/25273/23467)

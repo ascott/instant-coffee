@@ -30,4 +30,4 @@ some material that you would like to use, please feel free to bring along. We wi
 collectively on a giant long table. You can take away your piece(s) at the end of the session. 
 $25
 
-https://www.mobil-art.ca/event-info/collage-salon-with-elizabeth-zvonar-2
+[https://www.mobil-art.ca/event-info/collage-salon-with-elizabeth-zvonar-2](https://www.mobil-art.ca/event-info/collage-salon-with-elizabeth-zvonar-2)

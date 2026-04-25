@@ -41,7 +41,7 @@ They Had It Coming
 USA, 2015, 84 mins, Blu-ray Disc
 Director: Jon Jost
 Cast: Frank Mosley, Arianne Margot, Roxanne Rogers, Tyler Messner, Blake
-Eckard Director's website: http://www.jonjost.altervista.org/intro.html
+Eckard Director's website: [http://www.jonjost.altervista.org/intro.html](http://www.jonjost.altervista.org/intro.html)
 
 "Jost…absorbs [local] stories and spins them into fictional tales,
 purposefully accentuating the grandiose storytelling aspects of small town
@@ -71,7 +71,7 @@ The film – rendered minimally as a “narrative” - reveals the impact on the
 family as they confront their father/husband. The means by which this
 evoked is visual and poetic, expressed tonally rather than as plot.
 
-Director's website: http://www.jonjost.altervista.org/intro.html
+Director's website: [http://www.jonjost.altervista.org/intro.html](http://www.jonjost.altervista.org/intro.html)
 
 Cineworks Independent Filmmakers Society (est.1980) is an artist-run
 production and exhibition centre that supports independent filmmakers and

@@ -20,7 +20,7 @@ Featuring approximately 100 artists
 Sponsored by PrintMaker Studio
 
 PROJECT DETAILS AND SUBMISSSION GUIDELINES
-https://www.gallery881.com/another-room-a-salon-des-refuses
+[https://www.gallery881.com/another-room-a-salon-des-refuses](https://www.gallery881.com/another-room-a-salon-des-refuses)
 
 ABOUT ANOTHER ROOM
 Another Room: Salon des Refuss is a month-long photography exhibition and public
@@ -96,5 +96,5 @@ Gallery 881: Lens-Based Contemporary Art Gallery
 Website: gallery881.com
 Email: info@gallery881.com
 
-Subscribe to our Newsletter: https://www.gallery881.com/subscribe
-Become a Member: https://www.gallery881.com/membership
+Subscribe to our Newsletter: [https://www.gallery881.com/subscribe](https://www.gallery881.com/subscribe)
+Become a Member: [https://www.gallery881.com/membership](https://www.gallery881.com/membership)

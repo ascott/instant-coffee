@@ -13,12 +13,12 @@ exhibitions, Rebecca Bair: Deep Conditioning,
 and Lon Coupey: My Dearest Kate.
 Please note: We will be checking for proof of vaccination and ID for this tour. Registration
 is required; please follow the link to register.
-https://anc.ca.apm.activecommunities.com/westvanrec/activity/search/detail/115070?
+[https://anc.ca.apm.activecommunities.com/westvanrec/activity/search/detail/115070](https://anc.ca.apm.activecommunities.com/westvanrec/activity/search/detail/115070)?
 onlineSiteId=0&from_original_cui=true.
 
 Join us for a Mandarin tour of the West Vancouver Art Museums two current exhibitions,
 Rebecca Bair: Deep Conditioning, and Lon Coupey: My Dearest Kate. Follow the link to
 register:
-https://anc.ca.apm.activecommunities.com/westvanrec/activity/search/detail/115496?
+[https://anc.ca.apm.activecommunities.com/westvanrec/activity/search/detail/115496](https://anc.ca.apm.activecommunities.com/westvanrec/activity/search/detail/115496)?
 onlineSiteId=0&from_original_cui=true. This tour will also be shared virtually on
-Instagram Live. https://www.instagram.com/westvancouverartmuseum/.
+Instagram Live. [https://www.instagram.com/westvancouverartmuseum/](https://www.instagram.com/westvancouverartmuseum/).

@@ -8,7 +8,7 @@ venue: "Peripheral Review"
 summary: "Peripheral Review | 2023 Art Writing Contest | JUN 30"
 ---
 
-https://www.peripheralreview.com/events/pr-2023-art-writing-contest/
+[https://www.peripheralreview.com/events/pr-2023-art-writing-contest/](https://www.peripheralreview.com/events/pr-2023-art-writing-contest/)
 
 Judged by M. Gnanasihamany, a Tiotia:ke/Montreal-based artist and writer, the contest
 is seeking completed drafts of art writing on artists, projects, spaces, and topics
@@ -51,4 +51,4 @@ Alloyed Gold with Morgan Melenka, a year-long experimental commissioning and
 exhibition process hosted by Critical Distance Centre for Curators.
 
 See the full details of the call on our website here:
-https://www.peripheralreview.com/events/pr-2023-art-writing-contest/
+[https://www.peripheralreview.com/events/pr-2023-art-writing-contest/](https://www.peripheralreview.com/events/pr-2023-art-writing-contest/)

@@ -55,4 +55,4 @@ Sunday, June 21
 Please note, all times are PDT.
 
 View Livestream:
-https://www.youtube.com/channel/UC4c_p0--Ca7PoIR9-B-lWwA
+[https://www.youtube.com/channel/UC4c_p0--Ca7PoIR9-B-lWwA](https://www.youtube.com/channel/UC4c_p0--Ca7PoIR9-B-lWwA)

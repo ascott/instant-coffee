@@ -15,7 +15,7 @@ April 22, 2021 at 7PM
 Online, free and open to the public.
 
 Please register in advance at:
-https://www.eventbrite.ca/e/artist-talk-evelyn-vanderhoop-tickets-150814362819
+[https://www.eventbrite.ca/e/artist-talk-evelyn-vanderhoop-tickets-150814362819](https://www.eventbrite.ca/e/artist-talk-evelyn-vanderhoop-tickets-150814362819)
 
 Please join us for an online artist talk with Haida artist,
 researcher, and teacher Evelyn Vanderhoop, on April 22, 2021. This
@@ -53,7 +53,7 @@ Bulpitt, Brenda Crabtree, Ben Davidson, Robert Davidson, Aggie Davis,
 Shawn Hunt, Lena Jumbo, Isabel Rorick, Evelyn Vanderhoop, Xwalacktun.
 Curated by Ray Hartley and Sheila Hall. Please book your in-person
 viewings in advance at:
-https://www.yocale.com/widget/libby-leshgold-gallery?locations=58066
+[https://www.yocale.com/widget/libby-leshgold-gallery?locations=58066](https://www.yocale.com/widget/libby-leshgold-gallery?locations=58066)
 
 /Libby Leshgold Gallery respectfully acknowledges that we are located
 on the unceded, traditional and ancestral xmky"m (Musqueam),
@@ -64,7 +64,7 @@ territories./
 For further information please contact Libby Leshgold Gallery.
 
 Links:
-[1] https://libby.ecuad.ca/exhibitions/2021/emut-being-home.html
+[1] [https://libby.ecuad.ca/exhibitions/2021/emut-being-home.html](https://libby.ecuad.ca/exhibitions/2021/emut-being-home.html)
 CATHERINE DE MONTREUIL
 Gallery Administrator, Libby Leshgold Gallery
 tel 604 844 3809
@@ -80,4 +80,4 @@ after these days will be responded to in due course./
 territory of the Coast Salish Peoples, including the territories of the
 xmkwy"m (Musqueam), Skwxwu7mesh (Squamish), St:l and
 Sl"ilwta"/Selilwitulh (Tsleil-Waututh) Nations./
-http://http://www.libby.ecuad.ca
+[http://http://www.libby.ecuad.ca](http://http://www.libby.ecuad.ca)

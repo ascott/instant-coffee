@@ -16,7 +16,7 @@ Charcoal, pastels, and sketching paper are provided. Please register in advance 
 ensure sufficient workshop materials are provided. For ages 19+. 
 
 WHERE: Stanley Park Nature House on Lost Lagoon (Find on the map: 
-https://drive.google.com/open?id=1qe9PQm30Gh_PX5qX1BkHEcYj8DE&usp=sharing)
+[https://drive.google.com/open?id=1qe9PQm30Gh_PX5qX1BkHEcYj8DE&usp=sharing](https://drive.google.com/open?id=1qe9PQm30Gh_PX5qX1BkHEcYj8DE&usp=sharing))
 
 WHEN: Thursday, February 8, 7:00 p.m. - 9:00 p.m. 
 
@@ -25,5 +25,5 @@ COST:
 Pre-register (online) " $17 members / $20 non-members
 Drop-in " $20 members / $23 non-members
 
-REGISTER: http://stanleyparkecology.ca/event/art-night-wing-it/
+REGISTER: [http://stanleyparkecology.ca/event/art-night-wing-it/](http://stanleyparkecology.ca/event/art-night-wing-it/)
 QUESTIONS: (604) 718-6522 or education@stanleyparkecology.ca

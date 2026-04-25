@@ -19,7 +19,7 @@ Langara College
 Vancouver, BC
 Room A122a
 
-http://langara.bc.ca/news-and-events/centre-for-art-in-public-spaces/speaker-
+[http://langara.bc.ca/news-and-events/centre-for-art-in-public-spaces/speaker-](http://langara.bc.ca/news-and-events/centre-for-art-in-public-spaces/speaker-)
 series/2011-2012.html
 
 Background bio:

@@ -19,4 +19,4 @@ Council for the Arts.
 The City invites those artists interested to submit their expression of
 interest prior to the deadline closure 4pm PT, Friday, September 28, 2018.
 More information can be found by accessing the Citys project document
-located at https://kelowna.bonfirehub.ca/portal/?tab=openOpportunities
+located at [https://kelowna.bonfirehub.ca/portal/?tab=openOpportunities](https://kelowna.bonfirehub.ca/portal/?tab=openOpportunities)

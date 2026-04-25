@@ -31,4 +31,4 @@ Richmond Art Gallery
 www.richmondartgallery.org
 604-247-8363 | gallery@richmond.ca
 
-https://www.richmondartgallery.org/exhibitions/upcoming-exhibitions
+[https://www.richmondartgallery.org/exhibitions/upcoming-exhibitions](https://www.richmondartgallery.org/exhibitions/upcoming-exhibitions)

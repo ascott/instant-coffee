@@ -24,4 +24,4 @@ seminars, artist talks, open studios and advisor discussions, students develop
 advanced techniques and expand critical concepts to emerge with a particular direction
 for their studio practice.
 
-https://belkin.ubc.ca/exhibitions/aqueous-nerve-mfa-exhibition-2024/
+[https://belkin.ubc.ca/exhibitions/aqueous-nerve-mfa-exhibition-2024/](https://belkin.ubc.ca/exhibitions/aqueous-nerve-mfa-exhibition-2024/)

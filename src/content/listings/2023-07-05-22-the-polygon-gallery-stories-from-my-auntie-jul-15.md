@@ -15,7 +15,7 @@ keeper.
 
 RSVPs are helpful
 RSVP here:
-https://thepolygon.ca/event/stories-from-my-auntie/
+[https://thepolygon.ca/event/stories-from-my-auntie/](https://thepolygon.ca/event/stories-from-my-auntie/)
 
 Elder Wendy Charbonneau will be explaining the history of the different Squamish
 villages and North Vancouver. She is a direct descendant of Chief George Capilano,

@@ -53,7 +53,7 @@ Chelsea Yuill
 
 Please join us on Thursday, February 13 from 6"9PM for a 100s Day party.
 
-https://hatchart.gallery/100sday
+[https://hatchart.gallery/100sday](https://hatchart.gallery/100sday)
 
 Hatch Art Gallery
 

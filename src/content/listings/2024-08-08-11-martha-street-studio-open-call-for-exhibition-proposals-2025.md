@@ -12,7 +12,7 @@ Marthas 2025/26 Call for Exhibition Proposals is now open!
 
 Proposals can be submitted through Google Forms " Click here to go to the
 submission form or visit our website at
-https://www.printmakers.mb.ca/news/submissions/
+[https://www.printmakers.mb.ca/news/submissions/](https://www.printmakers.mb.ca/news/submissions/)
 
 Deadline for submissions: 11:59pm August 31, 2024
 

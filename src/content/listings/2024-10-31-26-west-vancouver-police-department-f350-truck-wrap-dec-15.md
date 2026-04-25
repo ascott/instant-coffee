@@ -12,13 +12,13 @@ The West Van Police Department (WVPD) is pleased to announce a call to emerging
 artists/designers to wrap their new Ford F350 community vehicle that is used for events
 across BC. The WVPD is seeking designs that reflect the community and outdoor
 culture of Vancouver's North Shore. Artist fee: $5K. For more details, please visit:
-https://westvancouver.ca/sites/default/files/media/documents/Call%20to%20Artists%20-
+[https://westvancouver.ca/sites/default/files/media/documents/Call%20to%20Artists%20-](https://westvancouver.ca/sites/default/files/media/documents/Call%20to%20Artists%20-)
 %20WVPD%20Truck%20Wrap%20-%20October%202024.pdfor
 
 or email arts@westvancouver.ca
 for the full posting.
 
-Deadline: December 15, 2024. Learn more: https://westvancouver.ca/arts-
+Deadline: December 15, 2024. Learn more: [https://westvancouver.ca/arts-](https://westvancouver.ca/arts-)
 culture/public-art
 
 27. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
@@ -48,7 +48,7 @@ previously stretched canvas over these panels). Must be
 able to pick these up "
 near Stanley Park, west of Denman Street, parking available in front of building.
 
-https://opusartsupplies.com/products/opus-finest-cradled-wood-panels?
+[https://opusartsupplies.com/products/opus-finest-cradled-wood-panels](https://opusartsupplies.com/products/opus-finest-cradled-wood-panels)?
 _pos=7&_sid=caad048de&_ss=r&variant=45475459301607
 
 Contact Leon Phillips:

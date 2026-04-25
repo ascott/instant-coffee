@@ -34,7 +34,7 @@ For more information, contact Gallery Engagement Facilitator Simranpreet Anand a
 artgallery@surrey.ca
 
 To learn more about Land Songs, Water Songs / Chants de terre, Chants d'eau see: 
-https://www.surrey.ca/culture-recreation/26082.aspx
+[https://www.surrey.ca/culture-recreation/26082.aspx](https://www.surrey.ca/culture-recreation/26082.aspx)
 
 About Peter Morin
 

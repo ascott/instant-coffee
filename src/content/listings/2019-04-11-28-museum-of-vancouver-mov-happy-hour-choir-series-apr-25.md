@@ -53,4 +53,4 @@ scores; they sing in many languages (English, Spanish, Portuguese, Georgian, Yor
 Swedish, Latvian). Many of its members travel to the source of their music such as the 
 country of Georgia, Cuba, and New Orleans. The choir is looking forward to a musical 
 adventure in Ireland in the spring of 2020. 
-https://www.facebook.com/RhythmNRootsChoir/
+[https://www.facebook.com/RhythmNRootsChoir/](https://www.facebook.com/RhythmNRootsChoir/)

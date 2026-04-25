@@ -16,7 +16,7 @@ experience needed.
 
 Saturdays from 9:30-12:30, February 3-17
 Eastside Atelier, 1310 William Street
-More details and register through eventbrite: https://www.eventbrite.ca/e/learn-to-
+More details and register through eventbrite: [https://www.eventbrite.ca/e/learn-to-](https://www.eventbrite.ca/e/learn-to-)
 weave-cloth-for-beginners-tickets-759040168577
 
 Registration closes January 27.

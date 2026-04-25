@@ -11,7 +11,7 @@ summary: "Waldorf | Day for Night | Werner Herzog | MAR 13"
 Day for Night: Films in the Afternoon
 March 13th, 2011, Doors 2:00pm. Films at 2:30pm
 
-More information at http://www.waldorfhotel.com/
+More information at [http://www.waldorfhotel.com/](http://www.waldorfhotel.com/)
 
 The Waldorf Hotel (1489 East Hastings, Phone: 604-253-7141)
 
@@ -49,4 +49,4 @@ which he writes on Vancouver art and artists.
 
 The Goethe-Institut is the Federal Republic of Germany’s cultural
 institution operational worldwide. Learn more at
-http://www.goethe.de/enindex.htm
+[http://www.goethe.de/enindex.htm](http://www.goethe.de/enindex.htm)

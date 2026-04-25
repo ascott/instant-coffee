@@ -34,7 +34,7 @@ publications, including but not limited to theoretical texts, artist books, essa
 journals, political manifestos, and postscripts related to artwork. Do note that other
 types of publications may also be considered.
 
-Please visit https://gachet.org/call-for-submissions-2024 for submission details.
+Please visit [https://gachet.org/call-for-submissions-2024](https://gachet.org/call-for-submissions-2024) for submission details.
 Submissions are due September 22, 2023.
 
 Gallery Gachet is located

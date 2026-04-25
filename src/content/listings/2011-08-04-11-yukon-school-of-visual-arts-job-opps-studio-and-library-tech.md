@@ -18,7 +18,7 @@ Competition#: 11.61 Initial Review Date: August 17, 2011
 Please visit our website for more information on this employment 
 opportunity.
 
-http://www.yukoncollege.yk.ca/about/info/hr_11.61
+[http://www.yukoncollege.yk.ca/about/info/hr_11.61](http://www.yukoncollege.yk.ca/about/info/hr_11.61)
 
 Casual Position
 Library Technician, (SOVA)
@@ -31,7 +31,7 @@ Competition No.: 11.63
 Please visit our website for more information on this employment 
 opportunity.
 
-http://www.yukoncollege.yk.ca/about/info/hr_11.63
+[http://www.yukoncollege.yk.ca/about/info/hr_11.63](http://www.yukoncollege.yk.ca/about/info/hr_11.63)
 
 Casual Position
 Sessional Instructor, English
@@ -46,7 +46,7 @@ Competition No.: 11.62
 Please visit our website for more information on this employment 
 opportunity.
 
-http://www.yukoncollege.yk.ca/about/info/hr_11.62
+[http://www.yukoncollege.yk.ca/about/info/hr_11.62](http://www.yukoncollege.yk.ca/about/info/hr_11.62)
 
 Yukon School of Visual Arts (Yukon SOVA)
 Division of Applied Arts, Yukon College

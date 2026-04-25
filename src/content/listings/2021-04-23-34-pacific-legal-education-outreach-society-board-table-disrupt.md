@@ -21,5 +21,5 @@ event as part of the National Networks Virtual Forum, well be joined by Jeanne L
 Project) as moderator to discuss with panelists (TBA) the role of the lawyers on boards,
 examining what works, and what doesnt.
 
-https://www.eventbrite.ca/e/board-table-disruption-lawyers-at-the-board-table-tickets-
+[https://www.eventbrite.ca/e/board-table-disruption-lawyers-at-the-board-table-tickets-](https://www.eventbrite.ca/e/board-table-disruption-lawyers-at-the-board-table-tickets-)
 151893247793

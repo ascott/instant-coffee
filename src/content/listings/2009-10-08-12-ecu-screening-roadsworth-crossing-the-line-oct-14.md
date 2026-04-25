@@ -27,7 +27,7 @@ the question, Who owns public space?
 Roadsworth: Crossing the Line details the artist's prosecution at home and his travels abroad to 
 France, London and Amsterdam, as he imprints himself legally/illegally on foreign streets. The film 
 reflects Roadsworth's personal struggle to defend his work, define himself as an artist and 
-address difficult questions about art and freedom of expression. http://roadsworth.com
+address difficult questions about art and freedom of expression. [http://roadsworth.com](http://roadsworth.com)
 W2 Community Media Arts Society
 www.creativetechnology.org 
 Twitter: @W2Woodwards

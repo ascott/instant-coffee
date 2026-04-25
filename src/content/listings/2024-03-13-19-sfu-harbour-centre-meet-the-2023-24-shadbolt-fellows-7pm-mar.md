@@ -21,7 +21,7 @@ presentations begin at 7pm.
 
 Learn how the 2023-24 Shadbolt Fellows are each carving new paths for the arts,
 humanities, and society at large. Register
-here: https://shadbolt-launch-march-
+here: [https://shadbolt-launch-march-](https://shadbolt-launch-march-)
 2024.eventbrite.ca
 
 SFU Harbour Centre (Room 1400-1430)

@@ -38,7 +38,7 @@ boundaries, the opening of unconventional relationships, and inviting
 diverse, creeping sensory experiences.
 
 Tickets available online 
-http://www.brownpapertickets.com/event/253717
+[http://www.brownpapertickets.com/event/253717](http://www.brownpapertickets.com/event/253717)
 
 Media contact:
 Sabrina at 604.739.9388 or media at powellstreetfestival.com

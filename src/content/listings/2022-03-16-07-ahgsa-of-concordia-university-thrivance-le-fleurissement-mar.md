@@ -29,4 +29,4 @@ Call for proposals due: March 18, 2022
 
 Email submissions to: ahgsaconference@gmail.com
 Details and a bibliography (in English and French) can be found in the attached call
-For more information on AHGSA: https://www.facebook.com/ahgsaconcordia
+For more information on AHGSA: [https://www.facebook.com/ahgsaconcordia](https://www.facebook.com/ahgsaconcordia)

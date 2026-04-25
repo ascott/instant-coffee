@@ -64,4 +64,4 @@ Access Gallery
 Vancouver BC, Canada
 V6A 1Z7
 604.689.2907
-http://accessgallery.ca/
+[http://accessgallery.ca/](http://accessgallery.ca/)

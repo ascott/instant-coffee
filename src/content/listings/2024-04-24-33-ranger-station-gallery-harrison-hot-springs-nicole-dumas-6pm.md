@@ -29,4 +29,4 @@ door, directly off
 the parking lot. The majority of food will be vegan, with some gluten
 free options.
 
-KHAC website: http://www.kentharrisonartscouncil.com/
+KHAC website: [http://www.kentharrisonartscouncil.com/](http://www.kentharrisonartscouncil.com/)

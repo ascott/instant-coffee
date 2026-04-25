@@ -14,7 +14,7 @@ Heights Park Washroom
 Call for Concept Proposals for Creative Wall and Gate Design for Chimney Heights Park
 Washroom
 
-- Download all details at https://www.surrey.ca/culture-recreation/30780.aspx
+- Download all details at [https://www.surrey.ca/culture-recreation/30780.aspx](https://www.surrey.ca/culture-recreation/30780.aspx)
 
 - Deadline to Apply: Monday, March 30, 2020 at 4pm
 

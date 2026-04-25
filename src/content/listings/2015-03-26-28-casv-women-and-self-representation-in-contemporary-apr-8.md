@@ -20,7 +20,7 @@ Panelists: Holly Marie Armishaw, Susan Bozic, Dina Goldstein, Birthe Piontek
 Date: Wednesday, April 8, 2015
 Time: 7:00pm
 Admission: General $10 | MOV Members Free
-Get Tickets: https://womenandselfrepresentation.eventbrite.ca
+Get Tickets: [https://womenandselfrepresentation.eventbrite.ca](https://womenandselfrepresentation.eventbrite.ca)
 Venue: Museum of Vancouver, 1100 Chestnut Street, Vancouver
 
 Presented by the Contemporary Art Society of Vancouver in partnership with

@@ -30,4 +30,4 @@ and members of the UBC Seismology department, Wang will trace points of
 convergence, of histories, fault lines, through a collective embodied praxis examining
 voice and vibration.
 
-http://artspeak.ca/
+[http://artspeak.ca/](http://artspeak.ca/)

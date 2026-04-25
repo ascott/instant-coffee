@@ -26,7 +26,7 @@ others, this workshop is not about finalising a text. Our aims are to shake up o
 writing habits and spark new ways of engaging creatively with art and images.
 Workshop runs 6-9pm
 
-Please RSVP here: https://store.thepolygon.ca/products/art-writing-workshop
+Please RSVP here: [https://store.thepolygon.ca/products/art-writing-workshop](https://store.thepolygon.ca/products/art-writing-workshop)
 Session information
 
 This workshop is open to everyone, but best suited to people who already enjoy

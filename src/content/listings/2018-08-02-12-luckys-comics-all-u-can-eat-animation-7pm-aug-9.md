@@ -22,4 +22,4 @@ fantastic animation. Feed your belly and feed your eyes at this buffet of deligh
 hosted by Luckys Comics, the event starts at 7pm. No alcohol please.
 $3-5 sliding scale @ door, no one turned away
 
-https://www.facebook.com/events/618602825178144/
+[https://www.facebook.com/events/618602825178144/](https://www.facebook.com/events/618602825178144/)

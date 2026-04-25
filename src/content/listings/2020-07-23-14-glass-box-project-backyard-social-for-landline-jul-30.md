@@ -13,7 +13,7 @@ for Landline
 July 30th 4pm to 8pm
 
 In order to prevent the spread of COVID19, we are limiting the number of guests per
-hour, please RSVP via https://www.setarehyasan.net/glass-box-project.
+hour, please RSVP via [https://www.setarehyasan.net/glass-box-project](https://www.setarehyasan.net/glass-box-project).
 
 Landline started from an invitation and evolved into a collaboration. Consisting of walks
 around Kingsway-Cedar Cottage neighbourhood, reading poetry and rebuilding a gate,

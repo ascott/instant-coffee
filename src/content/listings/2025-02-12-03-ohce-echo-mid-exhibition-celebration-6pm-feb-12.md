@@ -22,4 +22,4 @@ February
 
 A trio show about doubles, with a self-portrait as twins, four or five unhurried
 sculptures, and an installation and performance in two and more parts; please see
-http://bedroomkitchen.garden/ohce-echo for more information.
+[http://bedroomkitchen.garden/ohce-echo](http://bedroomkitchen.garden/ohce-echo) for more information.

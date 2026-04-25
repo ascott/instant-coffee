@@ -12,7 +12,7 @@ Tuesday, April 4, 6-8pm
 
 Happy Hour with VIkky Alexander 
 Please RSVP here: 
-https://www.picatic.com/event14883236402883
+[https://www.picatic.com/event14883236402883](https://www.picatic.com/event14883236402883)
 
 Join us for an exclusive evening with artist Vikky Alexander.
 

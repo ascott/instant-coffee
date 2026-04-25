@@ -13,7 +13,7 @@ The Polygon Podcast: Episode 7 featuring Cease and Senaqwila Wyss
 Ethnobotanists Cease and Senaqwila Wyss talk about Indigenous plant medicine, and 
 how theyre using botany to strengthen and sustain the Squamish language.
 
-Listen here: https://thepolygon.ca/news/the-polygon-podcast-episode-7-featuring-cease-
+Listen here: [https://thepolygon.ca/news/the-polygon-podcast-episode-7-featuring-cease-](https://thepolygon.ca/news/the-polygon-podcast-episode-7-featuring-cease-)
 and-senaqwila-wyss/
 
 Or on iTunes, Spotify, and Google Podcasts.

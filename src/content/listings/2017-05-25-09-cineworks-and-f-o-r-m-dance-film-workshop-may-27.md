@@ -20,7 +20,7 @@ $85 + taxes | Member Admission and F-O-R-M discount code
 (see @FORMvancouver May Twitter feed for discount code)
 
 REGISTER: 
-https://bodies-in-motion.eventbrite.ca
+[https://bodies-in-motion.eventbrite.ca](https://bodies-in-motion.eventbrite.ca)
 
 Workshop time: 7 hours including 1 hour lunch-break
 

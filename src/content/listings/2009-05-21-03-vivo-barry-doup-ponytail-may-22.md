@@ -14,7 +14,7 @@ MAY 22 2009
 9PM ARTIST TALK FREE
 
 VIVO MEDIA ARTS CENTRE 1965 MAIN ST
-http://vivomediaaarts.com
+[http://vivomediaaarts.com](http://vivomediaaarts.com)
 
 VIVO Media Art Centre is proud to present Vancouver-based filmmaker
 Barry Doupé's first feature-length animation, Ponytail.

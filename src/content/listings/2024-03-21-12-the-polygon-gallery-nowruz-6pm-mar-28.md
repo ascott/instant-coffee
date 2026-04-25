@@ -21,7 +21,7 @@ sound and visuals
 
 RSVPs are helpful
 
-RSVP here: https://thepolygon.ca/event/nowruz-2024/
+RSVP here: [https://thepolygon.ca/event/nowruz-2024/](https://thepolygon.ca/event/nowruz-2024/)
 
 About (Let Us Believe In) The Flight
 (Let Us Believe In) The Flight is a performance piece by Sevin offering an intimate

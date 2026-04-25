@@ -34,4 +34,4 @@ refreshments will be served. Tactile Memories runs September 27 to November 9,
 2024.
 
 More information about the exhibition can be found here:
-https://northvanarts.ca/events-exhibitions/tactile-memories/
+[https://northvanarts.ca/events-exhibitions/tactile-memories/](https://northvanarts.ca/events-exhibitions/tactile-memories/)

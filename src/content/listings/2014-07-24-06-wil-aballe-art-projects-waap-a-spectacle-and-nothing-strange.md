@@ -85,7 +85,7 @@ phenomenon of mass communication of private desire, often closeted and
 hidden, on game-changing technology, Craigslist. He explores visual 
 alliteration by entwining Craigslist M2M personal ads with deftly-chosen, 
 phallicly-inspired architecture. The slideshow will be available on the 
-internet during the exhibition dates at https://www.youtube.com/watch?
+internet during the exhibition dates at [https://www.youtube.com/watch](https://www.youtube.com/watch)?
 v=tdXoRsMoZJ0 and is best viewed using full screen settings at high 
 definition with audio. Due to the sexually explicit text used in this 
 slideshow, some parts may prove objectionable to some viewers. Viewer 

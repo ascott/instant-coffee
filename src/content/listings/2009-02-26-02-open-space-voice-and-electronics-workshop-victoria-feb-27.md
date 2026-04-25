@@ -36,7 +36,7 @@ with the
 Schonberg Ensemble, Amsterdam and the Ensemble Intercontemporain, Paris. She is
 the soloist of the Dutch ensemble MAE whom with she regularly performs and
 tours
-Europe, Japan and North America. http://www.noafrenkel.com/
+Europe, Japan and North America. [http://www.noafrenkel.com/](http://www.noafrenkel.com/)
 
 Luigi Nono (1924 -1990) was an Italian composer who studied music with Gian
 Francesco Malipiero, Bruno Maderna and Hermann Scherchen. He came to public
@@ -92,7 +92,7 @@ in the
 underground noise scene, and is a founding member of the electroacoustic trio
 Sensorband.
 
-http://www.myspace.com/zbigniewkarkowski
+[http://www.myspace.com/zbigniewkarkowski](http://www.myspace.com/zbigniewkarkowski)
 
 -- 
 _
@@ -104,4 +104,4 @@ V8W 1E6
 
 V 250-383-8833
 E openspace@openspace.ca
-W http://www.openspace.ca/web/
+W [http://www.openspace.ca/web/](http://www.openspace.ca/web/)

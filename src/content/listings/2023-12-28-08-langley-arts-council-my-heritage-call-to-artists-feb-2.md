@@ -70,4 +70,4 @@ frame. The stretched wire should be 2 below the top of the frame. The Langley Ar
 Council reserves the right to refuse any piece.
 
 To apply visit
-https://www.langleyarts.ca/proposals/heritage
+[https://www.langleyarts.ca/proposals/heritage](https://www.langleyarts.ca/proposals/heritage)

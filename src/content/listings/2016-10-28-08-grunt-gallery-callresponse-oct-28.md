@@ -70,4 +70,4 @@ respondents on the Broken Boxes Podcast.
 
 Use the hashtag #callresponse to get involved in the conversation!
 
-For more information visit http://grunt.ca/exhibitions/callresponse/.
+For more information visit [http://grunt.ca/exhibitions/callresponse/](http://grunt.ca/exhibitions/callresponse/).

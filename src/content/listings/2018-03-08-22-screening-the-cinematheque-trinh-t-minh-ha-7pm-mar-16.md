@@ -27,4 +27,4 @@ purchase.
 Post-screening Q&A moderated by Helen Leung, Professor of Gender, Sexuality & 
 Women's Studies at SFU.
 
-Tickets: http://www.thecinematheque.ca/nightly/2018/3/16
+Tickets: [http://www.thecinematheque.ca/nightly/2018/3/16](http://www.thecinematheque.ca/nightly/2018/3/16)

@@ -17,7 +17,7 @@ Opening Celebration.
 
 RSVPs are helpful
 
-RSVP Here: https://thepolygon.ca/event/response-all-woven-together-opening-
+RSVP Here: [https://thepolygon.ca/event/response-all-woven-together-opening-](https://thepolygon.ca/event/response-all-woven-together-opening-)
 celebration/
 
 Response: All Woven Together is on view at The Polygon March 2 - 24, played on a

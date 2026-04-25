@@ -29,4 +29,4 @@ Pacific Arts Market - Gallery | Market | Studio
 
 Apply Today!
 
-https://www.pacificartsmarket.ca/apply-for-pop-up-gallery-space
+[https://www.pacificartsmarket.ca/apply-for-pop-up-gallery-space](https://www.pacificartsmarket.ca/apply-for-pop-up-gallery-space)

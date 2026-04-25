@@ -25,5 +25,5 @@ flowing with the artists catamenia collected on the 4th consecutive super moon o
 
 May the odds ever be in your flavour!
 
-https://kyraphilbert.ca/2025/08/04/save-the-date-august-28-2025-catastrophic-
+[https://kyraphilbert.ca/2025/08/04/save-the-date-august-28-2025-catastrophic-](https://kyraphilbert.ca/2025/08/04/save-the-date-august-28-2025-catastrophic-)
 catamenia-croquembouche-roulette/

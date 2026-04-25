@@ -28,7 +28,7 @@ the forefront. It also features a commissioned series of screenprints by local a
 and graphic designer Yaimel Lpez Zaldvar, created in response to the videos in
 this exhibition.
 
-More info: https://www.richmondartgallery.org/let-the-real-world-in
+More info: [https://www.richmondartgallery.org/let-the-real-world-in](https://www.richmondartgallery.org/let-the-real-world-in)
 
 Richmond Art Gallery
 180-7700 Minoru Gate, Richmond, BC V6Y 1R8

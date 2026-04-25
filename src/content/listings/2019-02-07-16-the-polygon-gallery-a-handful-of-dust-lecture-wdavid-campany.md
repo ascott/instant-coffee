@@ -19,7 +19,7 @@ Royal Photographic Societys award for writing. Campany is co-founder and co-edit
 PA Magazine, which has been published since 2008. He teaches photographic theory 
 and practice at the University of Westminster.
 
-https://thepolygon.ca/event/a-handful-of-dust-lecture-with-david-campany/ 
+[https://thepolygon.ca/event/a-handful-of-dust-lecture-with-david-campany/](https://thepolygon.ca/event/a-handful-of-dust-lecture-with-david-campany/) 
 
 thepolygon.ca
 Event admission is by donation

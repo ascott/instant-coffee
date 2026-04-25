@@ -24,6 +24,6 @@ email as a part of our sharekit. You can review our page, TOAF.ca/call-for-artis
 find out more information about the 2025 Call for Artists. Or simply reshare/retweet
 our social media posts would also be appreciated.
 
-Our Twitter post: https://x.com/torontoartfair/status/1864313881692123459
+Our Twitter post: [https://x.com/torontoartfair/status/1864313881692123459](https://x.com/torontoartfair/status/1864313881692123459)
 
-Out Instagram post: https://www.instagram.com/p/DDKNBcSsvUo/?hl=en
+Out Instagram post: [https://www.instagram.com/p/DDKNBcSsvUo/?hl=en](https://www.instagram.com/p/DDKNBcSsvUo/?hl=en)

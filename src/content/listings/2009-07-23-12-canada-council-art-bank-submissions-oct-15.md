@@ -18,7 +18,7 @@ Deadline for submissions: October 15, 2009 (Postmarked)
 Guidelines and application form:
 
 
-http://http://cp20.com/Tracking/t.c?7RMW-4gZO-C47Qk0
+[http://http://cp20.com/Tracking/t.c?7RMW-4gZO-C47Qk0](http://http://cp20.com/Tracking/t.c?7RMW-4gZO-C47Qk0)
 
 13. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.

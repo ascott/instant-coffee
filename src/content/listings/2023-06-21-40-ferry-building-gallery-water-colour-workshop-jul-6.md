@@ -10,5 +10,5 @@ summary: "Ferry Building Gallery | Water Colour Workshop | JUL 6"
 
 First Thursdays watercolour workshop for beginners
 July 6th from 5:30-8pm. The cost of admission is $10.
-https://ferrybuildinggallery.ca/programs/first-thursdays/first-thursdays-watercolour-
+[https://ferrybuildinggallery.ca/programs/first-thursdays/first-thursdays-watercolour-](https://ferrybuildinggallery.ca/programs/first-thursdays/first-thursdays-watercolour-)
 workshop-beginners

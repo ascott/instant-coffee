@@ -54,7 +54,7 @@ Maureen Paley, London; Galeria Marta Cervera, Madrid; Regen Projects, Los
 Angeles and Galerie Nelson-Freeman, Paris.
 We acknowledge the generous support of the U .S. Consulate General
 Vancouver and Capture Photography Festival.
-http://www.contemporaryartgallery.ca/exhibitions/james-welling-the-mind-on-
+[http://www.contemporaryartgallery.ca/exhibitions/james-welling-the-mind-on-](http://www.contemporaryartgallery.ca/exhibitions/james-welling-the-mind-on-)
 fire/
 NOTES TO EDITORS:
 Public Events: Exhibition Opening & Public Programmes
@@ -108,7 +108,7 @@ that may emerge from such a public institution, through a contemplation of
 private ideas and thoughts seeping into the public domain.
 Production support for the exhibition with Meric Ringborg is generously
 provided by SAHA Association. www.saha.org.tr
-http://www.contemporaryartgallery.ca/exhibitions/meric-algun-ringborg/
+[http://www.contemporaryartgallery.ca/exhibitions/meric-algun-ringborg/](http://www.contemporaryartgallery.ca/exhibitions/meric-algun-ringborg/)
 NOTES TO EDITORS:
 Public Events: Exhibition Opening & Public Programmes
 

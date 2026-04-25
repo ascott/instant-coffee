@@ -12,7 +12,7 @@ An online screening of short video works selected by Lost Frames, a short story 
 unnamed artist, and an interview between Allison Collins (Pacific Crossings), Mayumi Hirano
 and Mark Salvatus (Load na Dito).
 
-https://www.pacificcrossings.ca/
+[https://www.pacificcrossings.ca/](https://www.pacificcrossings.ca/)
 
 Dispatches From Manila asks artists and curators from the region to check-in, offering
 perspectives or creative projects that they have been occupied with during the recent

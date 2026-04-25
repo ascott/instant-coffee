@@ -35,10 +35,10 @@ Award Ceremony, Q+A
 
 Tickets are sliding-scale to allow accessibility for all!
 Buy tickets through the Eventbrite portal on our website:
-https://www.sfu.ca/skoden/Festival/skoden-indigenous-film-festival-2022.html
+[https://www.sfu.ca/skoden/Festival/skoden-indigenous-film-festival-2022.html](https://www.sfu.ca/skoden/Festival/skoden-indigenous-film-festival-2022.html)
 Check us out on Instagram to keep updated in the run-up to the festival and to find out
 ways to contribute to the festival. Instagram:
-https://www.instagram.com/skodenfest/
+[https://www.instagram.com/skodenfest/](https://www.instagram.com/skodenfest/)
 
 We hope you will join us for our in-person screenings and take the opportunity to
 immerse yourself in the work of incredible Indigenous creatives!

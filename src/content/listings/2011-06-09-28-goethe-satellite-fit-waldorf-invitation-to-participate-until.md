@@ -16,7 +16,7 @@ June 2 – September 15, 2011
 FIT is a “fueling station for the creative spirit”  by Berlin artist Dida
 Zende, the first project presented in connection with the Goethe Satellite
 Vancouver, a two-year initiative of the Goethe-Institut with partner
-Revised Projects <http://www.revisedprojects.com/> .
+Revised Projects <[http://www.revisedprojects.com/](http://www.revisedprojects.com/)> .
 
 Founded in 2002, FIT has created cultural platforms within industrial
 structures such as gas stations in Berlin, Copenhagen and Miami. The
@@ -42,11 +42,11 @@ Applications are administered by Revised Projects and will be accepted on
 an ongoing basis throughout the summer.
 
 More information:
-Goethe Satellite Vancouver: http://www.goethe.de/satellite
-<http://www.goethe.de/satellite>
-FIT: http://www.f-i-t.org/ <http://www.f-i-t.org/>
-Revised Projects: http://www.revisedprojects.com
-<http://www.revisedprojects.com>
+Goethe Satellite Vancouver: [http://www.goethe.de/satellite](http://www.goethe.de/satellite)
+<[http://www.goethe.de/satellite](http://www.goethe.de/satellite)>
+FIT: [http://www.f-i-t.org/](http://www.f-i-t.org/) <[http://www.f-i-t.org/](http://www.f-i-t.org/)>
+Revised Projects: [http://www.revisedprojects.com](http://www.revisedprojects.com)
+<[http://www.revisedprojects.com](http://www.revisedprojects.com)>
 
 
 29. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
@@ -83,7 +83,7 @@ Vancouver, BC
 
 V6A 1N4
 
-w. http://www.gamgallery.com
+w. [http://www.gamgallery.com](http://www.gamgallery.com)
 
 e. thegam@live.com
 

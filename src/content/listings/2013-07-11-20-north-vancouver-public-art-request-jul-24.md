@@ -24,21 +24,21 @@ be located in the rebuilt corner park. Submission deadline is Wednesday
 July 24, 2013, 4pm.
 
 For full details on the project and submission requirements go to:
-http://www.artsoffice.ca/public_art/call_to_artists/articles567.php
+[http://www.artsoffice.ca/public_art/call_to_artists/articles567.php](http://www.artsoffice.ca/public_art/call_to_artists/articles567.php)
 
 Please direct any questions to Lori Phillips at
 lori.phillips@artsoffice.ca<mailto:lori.phillips@artsoffice.ca>
 
 .............................................................................
 Additional sources of Public Art call information include:
-[ ] Akimbo - http://www.akimbo.ca/submissions/ - providing information from
+[ ] Akimbo - [http://www.akimbo.ca/submissions/](http://www.akimbo.ca/submissions/) - providing information from
 Toronto to national and international artists
-[ ] Cafe - https://www.callforentry.org - A US-based resource that includes
+[ ] Cafe - [https://www.callforentry.org](https://www.callforentry.org) - A US-based resource that includes
 opportunities for Canadian and international artists
 [ ] The Public Art Directory -
-http://www.public-art-directory.com/page_service-home.html - A UK based
+[http://www.public-art-directory.com/page_service-home.html](http://www.public-art-directory.com/page_service-home.html) - A UK based
 service listing public art calls
-[ ] Public Art Online - http://www.publicartonline.org.uk/ - information
+[ ] Public Art Online - [http://www.publicartonline.org.uk/](http://www.publicartonline.org.uk/) - information
 and knowledge on an international scale.
 
 PLEASE NOTE: The City of Vancouver is providing this notification as a
@@ -49,4 +49,4 @@ we are unable to guarantee the accuracy of information and functioning of
 all links. For more detail about a particular call, please use the contact
 information provided. For your convenience, all calls distributed through
 this list are posted online, until their expiry, at
-http://vancouver.ca/parks-recreation-culture/calls-for-artists.aspx.
+[http://vancouver.ca/parks-recreation-culture/calls-for-artists.aspx](http://vancouver.ca/parks-recreation-culture/calls-for-artists.aspx).

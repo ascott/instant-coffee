@@ -10,7 +10,7 @@ summary: "221A & UNIT/PITT | SWARM 2013 Afterparty | SEP 13"
 
 Sept 13 at 11pm to 2am 
 SWARM 2013 Afterparty and Fundraiser at 236 East Pender Street
-http://221a.ca/236
+[http://221a.ca/236](http://221a.ca/236)
 
 Please join us after the opening reception of Due to Injuries... in support of the 
 grand opening of 236 E Pender St, a three-floor 9,000 square foot mixed-use 
@@ -27,5 +27,5 @@ Middleton and Colin Feigle
 236 E Pender St
 Vancouver BC
 V6A 1T7
-http://221a.ca
-http://unitpitt.ca
+[http://221a.ca](http://221a.ca)
+[http://unitpitt.ca](http://unitpitt.ca)

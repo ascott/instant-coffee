@@ -15,7 +15,7 @@ nightmarish tableaux to depict the shadowy events of a small village where occul
 forces are at work.
 
 Tickets:
-https://viff.org/whats-on/vampyr-live/
+[https://viff.org/whats-on/vampyr-live/](https://viff.org/whats-on/vampyr-live/)
 Magazinist conjure a haunting shroud of sound using an array of supernatural
 contraptions, including a homemade tagelharpa, dulcimers, zithers, synthesizers, and
 ethereal vocal drones. Like the films somnambulant

@@ -21,4 +21,4 @@ Open to all levels and age 10+. Classes on Sep 18, 25, and Oct 9 from 6:30-9:00p
 Pieces will be fired and ready for pick-up 2 weeks from the end of the course.
 $150 Sorry, we are unable to accommodate drop-ins. Please pre-register and read our 
 FAQ.
-https://www.mobil-art.ca/event-info/intro-to-handbuilding-functional-ware
+[https://www.mobil-art.ca/event-info/intro-to-handbuilding-functional-ware](https://www.mobil-art.ca/event-info/intro-to-handbuilding-functional-ware)

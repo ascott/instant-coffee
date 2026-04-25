@@ -28,4 +28,4 @@ Eligibility: Artists Residing in British Columbia
 Completion: Spring 2024
 
 For more information and to apply:
-https://www.richmond.ca/culture/publicart/opportunities
+[https://www.richmond.ca/culture/publicart/opportunities](https://www.richmond.ca/culture/publicart/opportunities)

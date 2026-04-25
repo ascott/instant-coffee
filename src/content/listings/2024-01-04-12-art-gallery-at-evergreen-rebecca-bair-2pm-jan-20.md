@@ -26,7 +26,7 @@ Light refreshments will be served. Remarks will take place at 3 p.m. This free e
 is wheelchair accessible. Pay parking available on-site, easy access from Lafarge
 Lake-Douglas College Skytrain Station.
 
-https://evergreenculturalcentre.ca/exhibit/
+[https://evergreenculturalcentre.ca/exhibit/](https://evergreenculturalcentre.ca/exhibit/)
 
 About the Artist
 Interdisciplinary artist Rebecca Bair uses a multitude of mediums to push the

@@ -17,7 +17,7 @@ Films for Gaza
 February 21st, 7pm-late
 1965 Main Street
 
-Tickets: https://www.zeffy.com/en-CA/ticketing/cdaab1ae-b96d-4199-b317-
+Tickets: [https://www.zeffy.com/en-CA/ticketing/cdaab1ae-b96d-4199-b317-](https://www.zeffy.com/en-CA/ticketing/cdaab1ae-b96d-4199-b317-)
 9cca4f9142a1
 
 Through the works of Razan AlSalah, Suha Araj, Saeed Taji Farouky, Farah Nabulsi,
@@ -33,4 +33,4 @@ Original prints by artists Diana Quandour and Peonica Fernando, and Palestine-
 related books by Massy Books available for purchase.
 
 All proceeds donated to Emergency Relief for Gaza:
-https://piousprojects.org/campaign/2680
+[https://piousprojects.org/campaign/2680](https://piousprojects.org/campaign/2680)

@@ -28,5 +28,5 @@ them adding further depth to their creative process.
 
 Workshops led by Kyla Gilbert and Steohanie Blundell through North Van Arts.
 
-Register at the link: https://northvanarts.ca/education/reimaging-sculpture-
+Register at the link: [https://northvanarts.ca/education/reimaging-sculpture-](https://northvanarts.ca/education/reimaging-sculpture-)
 transforming-the-ordinary/

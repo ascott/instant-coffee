@@ -14,4 +14,4 @@ performance, etc. This year's theme is 'Elements'. We are looking for pieces tha
 contribute to a community experience of light in our darkest, rainy season. Let your
 imagination guide you. Submissions need to be weather-proof for rain and possible
 snow. Submission form and more information is here at the top right under 'artist
-application': https://www.lumiereyvr.com/
+application': [https://www.lumiereyvr.com/](https://www.lumiereyvr.com/)

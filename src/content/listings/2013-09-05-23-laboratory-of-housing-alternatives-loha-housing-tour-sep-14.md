@@ -16,7 +16,7 @@ event is to showcase diverse housing models in the neighbourhoods of
 Stratchona and Railtown and to spark a critical conversation around the design 
 and development models of these spaces. 
 
-http://www.lohavancouver.org/
+[http://www.lohavancouver.org/](http://www.lohavancouver.org/)
 
 Cheers,
 

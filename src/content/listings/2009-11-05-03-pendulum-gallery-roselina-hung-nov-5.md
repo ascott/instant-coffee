@@ -34,4 +34,4 @@ HSBC Building
 
 www.roselinahung.com
 
-http://www.pendulumgallery.bc.ca
+[http://www.pendulumgallery.bc.ca](http://www.pendulumgallery.bc.ca)

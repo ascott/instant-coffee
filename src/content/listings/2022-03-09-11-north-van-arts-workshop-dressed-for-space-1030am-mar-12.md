@@ -23,5 +23,5 @@ Saturday morning workshop.
 
 Registration required
 
-https://northvanarts.ca/events-exhibitions/i-wanted-to-go-on-a-space-walk-but-i-had-
+[https://northvanarts.ca/events-exhibitions/i-wanted-to-go-on-a-space-walk-but-i-had-](https://northvanarts.ca/events-exhibitions/i-wanted-to-go-on-a-space-walk-but-i-had-)
 nothing-to-wear-2/

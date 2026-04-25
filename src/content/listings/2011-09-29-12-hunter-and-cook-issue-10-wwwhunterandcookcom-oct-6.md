@@ -72,11 +72,11 @@ www.nightgallery.ca
 Last weekend to see Sam Falls' exhibition, Mexico City Wall Art at Hunter and 
 Cook
 view exhibition images here:
-http://hunterandcookprojects.com/sam-falls.html
+[http://hunterandcookprojects.com/sam-falls.html](http://hunterandcookprojects.com/sam-falls.html)
 
 Hunter and Cook issues can now be purchased as an iphone or ipad app
 purchasing info can be found here:
-http://itunes.apple.com/ca/app/hunter-and-cook/id426103344?mt=8
+[http://itunes.apple.com/ca/app/hunter-and-cook/id426103344?mt=8](http://itunes.apple.com/ca/app/hunter-and-cook/id426103344?mt=8)
 
 
 Hunter and Cook will be participating at Art Toronto in the publication section

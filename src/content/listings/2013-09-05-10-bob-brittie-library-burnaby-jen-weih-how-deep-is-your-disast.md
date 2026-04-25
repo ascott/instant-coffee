@@ -28,5 +28,5 @@ and printing.
 Bob Prittie Metrotown Branch
 6100 Willingdon Avenue
 
-http://www.burnaby.ca/Things-To-Do/Arts-and-Heritage/Burnaby-Art-
+[http://www.burnaby.ca/Things-To-Do/Arts-and-Heritage/Burnaby-Art-](http://www.burnaby.ca/Things-To-Do/Arts-and-Heritage/Burnaby-Art-)
 Gallery/Exhibitions/Jen-Weih--How-Deep-Is-Your-Disaster.html

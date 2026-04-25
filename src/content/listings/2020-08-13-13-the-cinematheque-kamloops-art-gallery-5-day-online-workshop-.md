@@ -43,4 +43,4 @@ smartphones.
 
 This program is generously sponsored by Telus STORYHIVE.
 
-REGISTER ONLINE at: https://bit.ly/2EYbLFz
+REGISTER ONLINE at: [https://bit.ly/2EYbLFz](https://bit.ly/2EYbLFz)

@@ -69,7 +69,7 @@ For more information about employment with the City of Surrey visit:
 www.surrey.ca/careers.
 
 Apply here: 
-https://careers.surrey.ca/psc/CAREERS/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS
+[https://careers.surrey.ca/psc/CAREERS/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS](https://careers.surrey.ca/psc/CAREERS/EMPLOYEE/HRMS/c/HRS_HRAM_FL.HRS)
 _CG_SEARCH_FL.GBL?FOCUS=Applicant&
 
 More about Surrey Art Gallery: www.surrey.ca/artgallery

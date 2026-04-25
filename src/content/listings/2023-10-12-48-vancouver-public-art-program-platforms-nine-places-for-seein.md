@@ -24,4 +24,4 @@ raven stealing someones lighter.
 This work can be seen throughout the city from now until November 5th.
 
 You can learn more about this work and the artist on the City of Vancouvers website:
-https://vancouver.ca/platforms
+[https://vancouver.ca/platforms](https://vancouver.ca/platforms)

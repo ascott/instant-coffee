@@ -18,7 +18,7 @@ Dr. Sun Yat-Sen Classical Chinese Garden and Public Park
 Street, Vancouver
 
 Register to view exhibition for free:
-https://www.eventbrite.ca/e/to-carve-without-cutting-tickets-999468967587?
+[https://www.eventbrite.ca/e/to-carve-without-cutting-tickets-999468967587](https://www.eventbrite.ca/e/to-carve-without-cutting-tickets-999468967587)?
 aff=oddtdtcreator
 
 UNIT/PITT Society for Art and
@@ -94,4 +94,4 @@ Floor which supported the work of early-emerging artists.
 
 For more info:
 
-https://www.unitpitt.ca/portfolio/to-carve-without-cutting/
+[https://www.unitpitt.ca/portfolio/to-carve-without-cutting/](https://www.unitpitt.ca/portfolio/to-carve-without-cutting/)

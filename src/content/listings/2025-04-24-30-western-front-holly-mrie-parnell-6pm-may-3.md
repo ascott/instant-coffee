@@ -16,7 +16,7 @@ Performance
 Grand Luxe Hall, Western Front
 Free
 Livestream:Watch:
-https://vimeo.com/event/5070494
+[https://vimeo.com/event/5070494](https://vimeo.com/event/5070494)
 
 A digital collage of overlapping images and video stills featuring natural and
 industrial scenes. The central focus is on two stills of a mechanical claw dredging

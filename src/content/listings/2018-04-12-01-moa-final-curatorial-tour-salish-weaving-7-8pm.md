@@ -15,7 +15,7 @@ loan from institutions in Europe and the United States. This tour will look at t
 these weavings and how they ended up so far from home.
 
 Free with museum admission. For more information visit:
-https://moa.ubc.ca/stories/event/curator-tour-of-the-fabric-of-our-land-salish-weaving/
+[https://moa.ubc.ca/stories/event/curator-tour-of-the-fabric-of-our-land-salish-weaving/](https://moa.ubc.ca/stories/event/curator-tour-of-the-fabric-of-our-land-salish-weaving/)
 
 MOA
 6393 NW Marine Dr, Vancouver, BC

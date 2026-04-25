@@ -12,7 +12,7 @@ Cinevolution Media Arts Society
 Digital Carnival: Call for Submissions 
 Deadline: August 1st 
 Date: Sept. 3rd
-More info: http://www.cinevolutionmedia.com/digital-carnival-call-
+More info: [http://www.cinevolutionmedia.com/digital-carnival-call-](http://www.cinevolutionmedia.com/digital-carnival-call-)
 submissions/
 
 Cinevolution's Digital Carnival is back again at the Richmond World 

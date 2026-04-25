@@ -8,7 +8,7 @@ venue: "221A"
 summary: "221A | WHAT A DRAG, Erdem Tasdelen | MAY 25"
 ---
 
-http://221a.ca/what-a-drag
+[http://221a.ca/what-a-drag](http://221a.ca/what-a-drag)
 
 Exhibition: May 26 - Jul 22 2012
 Opening Reception: 8:00pm, May 25
@@ -43,4 +43,4 @@ V6A 1Z6
 
 604 568 0812
 hello@221a.ca
-http://221a.ca
+[http://221a.ca](http://221a.ca)

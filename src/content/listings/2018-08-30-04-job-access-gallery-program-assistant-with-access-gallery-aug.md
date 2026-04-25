@@ -39,7 +39,7 @@ Vancouvers Chinatown, on the unceded territories of the xmkwy"m
 
 THE IDEAL CANDIDATE
 qualifies for Young Canada Works as a new graduate (within 2 years)
-http://canada.pch.gc.ca/eng/1459433313024
+[http://canada.pch.gc.ca/eng/1459433313024](http://canada.pch.gc.ca/eng/1459433313024)
 
 and has:
 effective communication and writing skills;

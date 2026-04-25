@@ -11,7 +11,7 @@ summary: "Richmond Art Gallery | Collage Club : Inaugural Session! | FEB 6"
 Richmond Art Gallery and the Richmond Media Lab host a monthly art-making social
 for adults every first Thursday night of the month, February - December 2025
 $5.00 Registration fee includes ALL tools and materials.
-Register here: https://www.eventbrite.ca/e/rag-collage-club-february-2025-inaugural-
+Register here: [https://www.eventbrite.ca/e/rag-collage-club-february-2025-inaugural-](https://www.eventbrite.ca/e/rag-collage-club-february-2025-inaugural-)
 session-tickets-1143363995489?aff=oddtdtcreator
 
 Get together with friends and make some art! Open studio time led by gallery staff
@@ -43,5 +43,5 @@ old. Recycle, reuse, and repurpose old papers, magazines, photos, and
 posters to create a new artwork.
 This session will be hosted in the Richmond Art Gallery Program Room.
 
-REGISTRATION LINK: https://www.eventbrite.ca/e/rag-collage-club-february-2025-
+REGISTRATION LINK: [https://www.eventbrite.ca/e/rag-collage-club-february-2025-](https://www.eventbrite.ca/e/rag-collage-club-february-2025-)
 inaugural-session-tickets-1143363995489?aff=oddtdtcreator

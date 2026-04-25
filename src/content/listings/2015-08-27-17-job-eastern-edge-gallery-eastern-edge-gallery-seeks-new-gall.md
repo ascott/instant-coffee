@@ -25,4 +25,4 @@ to supporting regional and national artistic practice, and a familiarity
 with and enthusiasm for artist-run culture. Please see following link for
 a full Job Description.
 
-http:// http://easternedge.ca/call-for-new-gallery-direct
+http:// [http://easternedge.ca/call-for-new-gallery-direct](http://easternedge.ca/call-for-new-gallery-direct)

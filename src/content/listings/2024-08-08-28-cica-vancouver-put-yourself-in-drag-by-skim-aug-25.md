@@ -36,4 +36,4 @@ Time: 2:30 PM " 5 PM
 Location: CICA Vancouver (228 Abbott Street,
 Vancouver, BC V6B 1C8)
 
-Register: https://www.eventbrite.com/e/974035675927?aff=oddtdtcreator
+Register: [https://www.eventbrite.com/e/974035675927?aff=oddtdtcreator](https://www.eventbrite.com/e/974035675927?aff=oddtdtcreator)

@@ -14,4 +14,4 @@ a one-year maternity leave contract. This is a temporary full-time position (35
 hours/week) starting July 24, 2017 and ending after one year. This position reports to 
 the Executive Director for the planning and implementation of all communications and 
 marketing activities of the organization. Apply by June 12, 2017: 
-http://artstarts.com/stories/job-communications-2017
+[http://artstarts.com/stories/job-communications-2017](http://artstarts.com/stories/job-communications-2017)

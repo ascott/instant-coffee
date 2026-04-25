@@ -105,7 +105,7 @@ Ability to successfully pass a Criminal Record check
 
 Access to a vehicle is considered desirable
 
-Please visit https://www.griffinartprojects.ca/careers to see the full job posting,
+Please visit [https://www.griffinartprojects.ca/careers](https://www.griffinartprojects.ca/careers) to see the full job posting,
 including a detailed list of responsibilities.
 
 Please apply with a cover letter and resume by June 19, 2024, via email to

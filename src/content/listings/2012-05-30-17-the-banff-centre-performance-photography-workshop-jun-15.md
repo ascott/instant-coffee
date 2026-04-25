@@ -26,5 +26,5 @@ Theatre, Opera and Music performers.
 All participants are expected to bring digital cameras and their own 
 laptops with software for organizing their images. Upon application, a 
 suggested gear list will be provided.
-More information: http://www.banffcentre.ca/programs/program.aspx?
+More information: [http://www.banffcentre.ca/programs/program.aspx](http://www.banffcentre.ca/programs/program.aspx)?
 id=1262

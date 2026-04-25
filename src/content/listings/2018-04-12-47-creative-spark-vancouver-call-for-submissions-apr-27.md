@@ -30,7 +30,7 @@ learning in any artistic discipline. Creative Spark Vancouver enables emerging a
 to gain experience on small projects that could lead to new career opportunities, new 
 community relationships, different perspectives on arts and education, future 
 learning opportunities and exciting multi-faceted projects. Full details at: 
-https://artstarts.com/creativesparkvancouver 
+[https://artstarts.com/creativesparkvancouver](https://artstarts.com/creativesparkvancouver) 
 
 Questions?
 Email creativespark@artstarts.com or emily@artstarts.com

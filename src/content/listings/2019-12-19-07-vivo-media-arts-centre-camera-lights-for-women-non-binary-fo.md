@@ -10,7 +10,7 @@ summary: "VIVO Media Arts Centre | Camera & Lights for Women & Non-Binary Folks 
 
 Camera & Lights for Women & Non-Binary Folks with Paige Smith
 
-SIGN UP & MORE INFO: https://camera-lights-with-paige.eventbrite.ca
+SIGN UP & MORE INFO: [https://camera-lights-with-paige.eventbrite.ca](https://camera-lights-with-paige.eventbrite.ca)
 
 For self-identified women and non-binary people: learn to shoot stunning videos with the
 help of cinematographer Paige Smith!
@@ -22,7 +22,7 @@ Session 2: Sat Jan 25, 12:30pm-5:30pm
 Session 3: Sun Jan 26, 12:30pm-5:30pm
 
 Two Extended Subsidies available:
-https://forms.gle/3kHxj2ZNWPALpj7JA
+[https://forms.gle/3kHxj2ZNWPALpj7JA](https://forms.gle/3kHxj2ZNWPALpj7JA)
 
 No experience necessary. All equipment
 provided.

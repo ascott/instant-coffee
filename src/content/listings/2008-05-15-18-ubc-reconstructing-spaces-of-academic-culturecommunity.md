@@ -24,4 +24,4 @@ university?  Why is the design important?  Who decides its purpose and fabric?	H
  Visual Arts Gallery @ Koerner Library (basement)
  1958 Main Mall, UBC
  Visting hours:  12-4 Monday-Saturday
- For more information visit:  http://www.ahva.ubc.ca/
+ For more information visit:  [http://www.ahva.ubc.ca/](http://www.ahva.ubc.ca/)

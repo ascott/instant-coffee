@@ -28,4 +28,4 @@ position before 5pm, Monday, October 24th to
 admin@vivomediaarts.com, Attn: Hiring Committee - Education Coordinator.
 
 Please find the full job description here:
-http://www.vivomediaarts.com/vivo-is-hiring-an-education-coordinator/
+[http://www.vivomediaarts.com/vivo-is-hiring-an-education-coordinator/](http://www.vivomediaarts.com/vivo-is-hiring-an-education-coordinator/)

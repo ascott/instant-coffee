@@ -18,7 +18,7 @@ from across the school, as well as students across SFU. If you'd like to
 participate in the event, please contact faculty in the Dance Area.
 If you are a SCA student or enrolled in a SCA course this term and would like to
 attend, please login HERE for the event link:
-https://www.sfu.ca/sca/current-students/sca-online-event-links---login-required.html
+[https://www.sfu.ca/sca/current-students/sca-online-event-links---login-required.html](https://www.sfu.ca/sca/current-students/sca-online-event-links---login-required.html)
 
 Biography
 

@@ -43,9 +43,9 @@ and innovative art form. In addition to the series of exhibitions, Drawn
 features a parallel program of artist's talks, lectures, performances and
 panel discussions aimed at deepening our understanding and appreciation for
 the contemporary medium of drawing. Read about Drawn in the National Post:
-http://drawnfestival.ca/
+[http://drawnfestival.ca/](http://drawnfestival.ca/)
 Drawn%20Festival_NP.pdf or visit their website at
-http://www.drawnfestival.ca/index.asp.
+[http://www.drawnfestival.ca/index.asp](http://www.drawnfestival.ca/index.asp).
 
 How to submit:
 

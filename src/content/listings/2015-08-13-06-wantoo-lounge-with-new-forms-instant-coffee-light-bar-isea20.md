@@ -17,7 +17,7 @@ Light Bar
 August 13th + 18th 10 PM
 
 Hosted in the Wantoo Lounge with New Forms
-In partnership with ISEA2015 http://isea2015.org/
+In partnership with ISEA2015 [http://isea2015.org/](http://isea2015.org/)
 
 private opening and closing event for the Symposium
 

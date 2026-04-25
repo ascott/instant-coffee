@@ -36,6 +36,6 @@ visiting the legendary Baliem Valley in the highlands of Western New
 Guinea.
 Admission: $15 per lecture. Course #42634
 Register at 604-925-7270 or online 
-https://ca.apm.activecommunities.com/westvanrec/Activity_Search/ulti
+[https://ca.apm.activecommunities.com/westvanrec/Activity_Search/ulti](https://ca.apm.activecommunities.com/westvanrec/Activity_Search/ulti)
 mate-traveller-impressions-of-indonesia/39603
 Drop-ins also welcome (space permitting).

@@ -54,5 +54,5 @@ practice, and interest in the position.
 
 SEE JOB DETAILS HERE:
 
-https://orgallery.org/news/call-for-applications-gallery-assistant-young-canada-works-
+[https://orgallery.org/news/call-for-applications-gallery-assistant-young-canada-works-](https://orgallery.org/news/call-for-applications-gallery-assistant-young-canada-works-)
 student-part-time-position/

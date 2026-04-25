@@ -36,13 +36,13 @@ around her.
 The Artist Salon is an opportunity for emerging and established artists to meet other 
 artists, share or present current work with peers and discuss upcoming opportunity 
 in the arts community. Join our Richmond Art Salon Facebook Group: 
-https://www.facebook.com/groups/RichmondArtistsSalon/ for updates on arts events, 
+[https://www.facebook.com/groups/RichmondArtistsSalon/](https://www.facebook.com/groups/RichmondArtistsSalon/) for updates on arts events, 
 open calls, residencies, courses and more.
 
 Free admission, all levels of visual artists welcome to attend. 
 
-Registration required via Eventbrite: https://www.eventbrite.ca/e/july-rag-artist-salon-
+Registration required via Eventbrite: [https://www.eventbrite.ca/e/july-rag-artist-salon-](https://www.eventbrite.ca/e/july-rag-artist-salon-)
 keely-obrien-on-community-engaged-art-practices-tickets-47041239614
 
 For more information, please visit our website: 
-https://www.facebook.com/events/414563042351172/
+[https://www.facebook.com/events/414563042351172/](https://www.facebook.com/events/414563042351172/)

@@ -20,4 +20,4 @@ Ondre and Mina Totino.
 Ondre and Totino challenge the mechanical processes of their materials and, through
 their experimentations, cause their artistic media to elude fixed forms.
 
-http://westvancouverartmuseum.ca
+[http://westvancouverartmuseum.ca](http://westvancouverartmuseum.ca)

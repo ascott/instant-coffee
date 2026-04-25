@@ -16,11 +16,11 @@ series is for and inspired by the performers of sounds, visuals, and poetics.
 featuring:
 
 DEATH.DRIVE - got it? use it
-https://en.wikipedia.org/wiki/Death_drive
+[https://en.wikipedia.org/wiki/Death_drive](https://en.wikipedia.org/wiki/Death_drive)
 PUZZLEHEAD - 2017 year of clowncore
-https://deathtopuzzlehead.bandcamp.com/
+[https://deathtopuzzlehead.bandcamp.com/](https://deathtopuzzlehead.bandcamp.com/)
 SAUCE - never enough imo
-https://youtu.be/0IEMT7l46Ts?t=14m07s
+[https://youtu.be/0IEMT7l46Ts?t=14m07s](https://youtu.be/0IEMT7l46Ts?t=14m07s)
 
 DJ Real Thick
 

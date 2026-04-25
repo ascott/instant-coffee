@@ -26,4 +26,4 @@ and media.
 
 This is a paid position funded with assistance from Young Canada Works. Applicants
 must meet the program's eligibility requirements. To learn more, visit
-https://centrea.org/opportunities/
+[https://centrea.org/opportunities/](https://centrea.org/opportunities/)

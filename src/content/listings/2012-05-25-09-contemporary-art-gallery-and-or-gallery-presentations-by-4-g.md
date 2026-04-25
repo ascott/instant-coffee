@@ -52,7 +52,7 @@ Hilke Wagner
 born in 1972 in Kassel, Germany. Studies: Art History, Philosophy and Romance Philology in Kassel, Valencia and Madrid. 2003-2006: Curator at kestnergesellschaft in Hannover. (curated shows Peter Doig, Thomas Hirschhorn, Sarah Morris, Chris Ofili, Santiago Sierra, Barbara Kruger etc.)2006-2007 Director of Situation Kunst, part of the art collections of the Ruhr-Universität Bochum.Since 2007: Director of the Kunstverein Braunschweig (curated solo shows with Armin Boehm, Christoph Keller, Tue Greenfort, Marine Hugonnier, Rosa Barba, Peter Piller, Ariel Schlesinger, Marcel Dzama, Carlos Garaicoa etc.), 
 Since 2011: teaches curatorial praxis at the Hochschule für Bildende Künste, Braunschweig
 
-Publications: http://www.hbk-bs.de/hochschule/personen/hilke-
+Publications: [http://www.hbk-bs.de/hochschule/personen/hilke-](http://www.hbk-bs.de/hochschule/personen/hilke-)
 wagner/autor-und-herausgeberschaften/index.php
 
 www.kunstverein-bs.de

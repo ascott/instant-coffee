@@ -50,4 +50,4 @@ Media contact: esrpark@gmail.com
 
 Access CSA Space through Pulp Fiction Books, 2422 Main St.
 Vancouver, Canada. Please check business hours on the website:
-http://pulpfictionbooksvancouver.com/
+[http://pulpfictionbooksvancouver.com/](http://pulpfictionbooksvancouver.com/)

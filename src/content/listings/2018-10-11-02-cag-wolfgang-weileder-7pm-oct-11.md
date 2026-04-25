@@ -22,4 +22,4 @@ specially modified analogue and digital cameras.
 No reservation required, simply just turn up!
 
 Find out more about Wolfgang Weileders CAG Residency at
-https://www.contemporaryartgallery.ca/exhibitions/wolfgang-weileder/
+[https://www.contemporaryartgallery.ca/exhibitions/wolfgang-weileder/](https://www.contemporaryartgallery.ca/exhibitions/wolfgang-weileder/)

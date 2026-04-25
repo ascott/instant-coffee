@@ -33,5 +33,5 @@ If interested, please read the project description and add yourself to our addre
 book. Further instructions will be sent by the post
 in early spring:
 
-https://docs.google.com/document/d/12hwly2qUkcnJmasOJYfnjCUN4ogsOU0ElGZ
+[https://docs.google.com/document/d/12hwly2qUkcnJmasOJYfnjCUN4ogsOU0ElGZ](https://docs.google.com/document/d/12hwly2qUkcnJmasOJYfnjCUN4ogsOU0ElGZ)
 RfrOZCi4/edit?usp=sharing

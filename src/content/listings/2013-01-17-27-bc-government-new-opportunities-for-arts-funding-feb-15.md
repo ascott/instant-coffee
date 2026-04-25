@@ -23,12 +23,12 @@ Eligible applicants include B.C. non-profit arts and/or cultural organizations,
 First Nations band councils or friendship centres.
 Application Deadline: February 15, 2013
 More information, guidelines and application forms: 
-http://www.cscd.gov.bc.ca/arts_culture/index.htm
+[http://www.cscd.gov.bc.ca/arts_culture/index.htm](http://www.cscd.gov.bc.ca/arts_culture/index.htm)
 
 Check out the provincial government's role in supporting sport, arts and 
 culture through the Ministry of Community, Sport and Cultural Development 
-at: http://www.gov.bc.ca/cscd
-Electronic Media Kit: http://www.newsroom.gov.bc.ca/2013/01/bc-
+at: [http://www.gov.bc.ca/cscd](http://www.gov.bc.ca/cscd)
+Electronic Media Kit: [http://www.newsroom.gov.bc.ca/2013/01/bc-](http://www.newsroom.gov.bc.ca/2013/01/bc-)
 creates-new-opportunities-for-arts-funding.html
 ________________________________________________________________
 ___

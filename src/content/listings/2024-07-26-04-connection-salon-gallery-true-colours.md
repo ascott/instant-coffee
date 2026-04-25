@@ -24,4 +24,4 @@ There will be a Meet the Artists event hosted September 11th 5:30 to 7 PM
 There are no size limitations and each piece submitted
 must be ready to hang.
 Submission form is available on Connection Salon website Call for Artists
-http://connectionsalon.ca/
+[http://connectionsalon.ca/](http://connectionsalon.ca/)

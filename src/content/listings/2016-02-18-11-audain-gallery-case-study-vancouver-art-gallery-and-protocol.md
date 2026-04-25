@@ -36,8 +36,8 @@ Llnagaay
 There is a $10 suggested donation and advance registration 
 recommended by emailing jessica@fullcircle.ca.
 
-INFO ON PASSES: https://www.eventbrite.ca/e/iya7yulh-industry-
+INFO ON PASSES: [https://www.eventbrite.ca/e/iya7yulh-industry-](https://www.eventbrite.ca/e/iya7yulh-industry-)
 series-2016-talking-stick-festival-tickets-21071635830?ref=estw
 
 This event is part of Talking Stick Festival, February 18 - 28, 2016. For 
-more information, go to http://www.fullcircle.ca/tsf-overview
+more information, go to [http://www.fullcircle.ca/tsf-overview](http://www.fullcircle.ca/tsf-overview)

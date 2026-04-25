@@ -43,7 +43,7 @@ o Audience engagement – methods, feedback, reviews;
 o Impact of exhibitions (on community, art world, curatorial practice).
 1
 How to Apply
-Please visit https://curatoraward.myreviewroom.com/ to nominate or apply.
+Please visit [https://curatoraward.myreviewroom.com/](https://curatoraward.myreviewroom.com/) to nominate or apply.
 For more information about the program: www.rjhf.com.
 TD Community Giving
 TD Bank Group invests in communities in order to effect positive change in 

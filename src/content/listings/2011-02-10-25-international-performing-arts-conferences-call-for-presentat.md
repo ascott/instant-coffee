@@ -20,15 +20,15 @@ contemporary performing arts education and training.
 
 May 20 - 24
 
-http://www.iugte.com/projects/ArtConference.php
+[http://www.iugte.com/projects/ArtConference.php](http://www.iugte.com/projects/ArtConference.php)
 
 August 25 - 29
 
-http://www.iugte.com/projects/Theatre.Tradition.php
+[http://www.iugte.com/projects/Theatre.Tradition.php](http://www.iugte.com/projects/Theatre.Tradition.php)
 
 December 17 - 21
 
-http://www.iugte.com/projects/Conference.php
+[http://www.iugte.com/projects/Conference.php](http://www.iugte.com/projects/Conference.php)
 
 At the moment we are accepting presentation proposals.
 
@@ -50,16 +50,16 @@ You are welcome to take part as a Speaker, Presenter, Participant, Observer!
 
 Submission Guidelines & Registration:
 
-May 20 - 24: http://www.iugte.com/projects/register.php
+May 20 - 24: [http://www.iugte.com/projects/register.php](http://www.iugte.com/projects/register.php)
 
-August 25 - 29: http://www.iugte.com/projects/reg.php
+August 25 - 29: [http://www.iugte.com/projects/reg.php](http://www.iugte.com/projects/reg.php)
 
-December 17 - 21: http://www.iugte.com/projects/registration.php
+December 17 - 21: [http://www.iugte.com/projects/registration.php](http://www.iugte.com/projects/registration.php)
 
 Speakers/Presenters of the past conferences:
 
-http://www.iugte.com/projects/presentations.php
+[http://www.iugte.com/projects/presentations.php](http://www.iugte.com/projects/presentations.php)
 
 Photo gallery of the past events:
 
-http://www.iugte.com/archive.php
+[http://www.iugte.com/archive.php](http://www.iugte.com/archive.php)

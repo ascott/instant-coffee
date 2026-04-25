@@ -34,6 +34,6 @@ experimentalism.
 Curators: Sabine Lebel & Alison Taylor
 
 More details, including submission process and fees:
-http://animacasarural.com/2018/07/23/queer-environmental-worlds/?
+[http://animacasarural.com/2018/07/23/queer-environmental-worlds/](http://animacasarural.com/2018/07/23/queer-environmental-worlds/)?
 fbclid=IwAR34YxKQyDEAxeTpO1M433_YWP_qsXa4sxe_RPbUMwrkM0q1sKUocV5frE
 E

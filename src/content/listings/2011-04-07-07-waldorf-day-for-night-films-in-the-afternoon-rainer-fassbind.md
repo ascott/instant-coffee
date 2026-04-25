@@ -11,7 +11,7 @@ summary: "WALDORF Day for Night: Films in the Afternoon | Rainer Fassbinder's \"
 Day for Night: Films in the Afternoon
 April 10th, 2011, Doors 1:30pm. Films at 2:00pm and 4:00pm
 
-More information at http://www.waldorfhotel.com/
+More information at [http://www.waldorfhotel.com/](http://www.waldorfhotel.com/)
 
 The Waldorf Hotel (1489 East Hastings, Phone: 604-253-7141)
 

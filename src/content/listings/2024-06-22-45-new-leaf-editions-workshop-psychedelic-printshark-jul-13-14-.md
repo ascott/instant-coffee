@@ -26,7 +26,7 @@ Additionally, participants will view and discuss prints from the
 instructors extensive collection. A ceviche delight will be served for all attendees !
 
 To know more about the workshop and reserve your spot, visit the event page on our
-website https://www.newleafeditions.com/psychedelic-printshark-workshop/
+website [https://www.newleafeditions.com/psychedelic-printshark-workshop/](https://www.newleafeditions.com/psychedelic-printshark-workshop/)
 
 About the Instructors:
 

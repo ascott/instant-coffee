@@ -9,7 +9,7 @@ summary: "Capilano University | Seeking Painting Instructor | MAY 17"
 ---
 
 Here is a link to the job posting -
-http://www.capilanou.ca/Assets/human-resources/faculty/Postings+2010/fe-sart-inst-2010-1135+rev.pdf
+[http://www.capilanou.ca/Assets/human-resources/faculty/Postings+2010/fe-sart-inst-2010-1135+rev.pdf](http://www.capilanou.ca/Assets/human-resources/faculty/Postings+2010/fe-sart-inst-2010-1135+rev.pdf)
 
 Capilano University
 Studio Art

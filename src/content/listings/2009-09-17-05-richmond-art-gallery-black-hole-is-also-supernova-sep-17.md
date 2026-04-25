@@ -64,4 +64,4 @@ Richmond Art Gallery
 Tel: 604.247.8300 
 Email: gallery@richmond.ca
 
-http://www.richmondartgallery.org
+[http://www.richmondartgallery.org](http://www.richmondartgallery.org)

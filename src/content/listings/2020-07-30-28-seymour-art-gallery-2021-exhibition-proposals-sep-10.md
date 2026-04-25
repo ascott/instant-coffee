@@ -53,4 +53,4 @@ contact us at info(at)seymourartgallery.com
 Deadline: Thursday, September 10, 2020
 Applicants will be notified of the jurys decision by Tuesday, December 1, 2020.
 
-Apply online: https://www.seymourartgallery.com/exhibitions/exhibition-proposals/
+Apply online: [https://www.seymourartgallery.com/exhibitions/exhibition-proposals/](https://www.seymourartgallery.com/exhibitions/exhibition-proposals/)

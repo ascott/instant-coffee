@@ -25,4 +25,4 @@ collaboratively curated exhibition at Centre A from January - March 2026.
 
 Deadline to Apply: August 11, 2025 11:59 PM
 
-Learn more here: https://centrea.org/opportunities/
+Learn more here: [https://centrea.org/opportunities/](https://centrea.org/opportunities/)

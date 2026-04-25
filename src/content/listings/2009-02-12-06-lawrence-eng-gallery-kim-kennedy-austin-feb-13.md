@@ -15,7 +15,7 @@ February 14 - March 21, 2009
 Opening, Friday, February 13th, 6 - 8 pm
 
 Lawrence Eng Gallery
-http://www.lawrenceeng.com/current
+[http://www.lawrenceeng.com/current](http://www.lawrenceeng.com/current)
 info@lawrenceeng.com
 1531 West 4th Avenue Vancouver BC Canada V6J 1L6
 Gallery: 604 730 2875

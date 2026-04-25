@@ -8,12 +8,12 @@ venue: "Heritage Vancouver Society"
 summary: "Heritage Vancouver Society | Reading Room #5: Disasters and Heritage | JUL 11"
 ---
 
-Organization: Heritage Vancouver Society (http://heritagevancouver.org/)
+Organization: Heritage Vancouver Society ([http://heritagevancouver.org/](http://heritagevancouver.org/))
 Join us for part two of our Reading Room discussing disasters and heritage.
 Date and time: Tue, Jul 11, 2023 12:00 PM - 1:30 PM PDT
 Location: online
 Duration: 1 hours 30 minutes
-Registration link: https://www.eventbrite.ca/e/reading-room-5-disasters-and-heritage-
+Registration link: [https://www.eventbrite.ca/e/reading-room-5-disasters-and-heritage-](https://www.eventbrite.ca/e/reading-room-5-disasters-and-heritage-)
 tickets-659422038067?aff=oddtdtcreator
 In metro Vancouver, we face long-term threats, like coastal flooding from sea level rise,
 as well as more frequent extreme weather events. One hazard, though, is unique

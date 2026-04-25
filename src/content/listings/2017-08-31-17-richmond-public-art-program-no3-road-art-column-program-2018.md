@@ -43,7 +43,7 @@ We're looking to share our spacious Studio space in the historic Duncan Building
 Gastown with one person- preferably someone in the field of Media / Design / 
 Illustration.
 
-Do check the CL ad for details: https://vancouver.craigslist.ca/van/off/6282876668.html 
+Do check the CL ad for details: [https://vancouver.craigslist.ca/van/off/6282876668.html](https://vancouver.craigslist.ca/van/off/6282876668.html) 
 
 If you're interested, please email us at kunal@kunalsen.net and tell us about yourself 
 and what you do! 

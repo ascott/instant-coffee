@@ -53,4 +53,4 @@ Monthly open studio events are hosted every third Friday of the month and
 are organized by Project Space’s Curatorial Collective. This edition was
 organized by Sarah Davidson.
 
-BECOME A MEMBER OF PROJECT SPACE: http://www.projectspace.ca/membership
+BECOME A MEMBER OF PROJECT SPACE: [http://www.projectspace.ca/membership](http://www.projectspace.ca/membership)

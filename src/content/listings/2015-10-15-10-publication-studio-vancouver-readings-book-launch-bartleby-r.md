@@ -37,6 +37,6 @@ This event is presented by BARTLEBY REVIEW and Publication Studio Vancouver
 as part of the Vancouver Art/Book Fair’s open-source event series Artists’
 Books Week
 
-http://bartlebyreview.com
-http://2015.vancouverartbookfair.com
-http://bookmachine.ca
+[http://bartlebyreview.com](http://bartlebyreview.com)
+[http://2015.vancouverartbookfair.com](http://2015.vancouverartbookfair.com)
+[http://bookmachine.ca](http://bookmachine.ca)

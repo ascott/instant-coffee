@@ -21,4 +21,4 @@ well.
 Sorry, we are unable to accommodate drop-ins. Please pre-register and read our FAQ.
 Cash Bar, 19+ only, No Minors, No Outside Drinks.
 $45
-https://www.mobil-art.ca/event-info/make-a-stop-motion-film-night-with-sean-karemaker
+[https://www.mobil-art.ca/event-info/make-a-stop-motion-film-night-with-sean-karemaker](https://www.mobil-art.ca/event-info/make-a-stop-motion-film-night-with-sean-karemaker)

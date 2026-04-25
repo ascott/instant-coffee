@@ -22,5 +22,5 @@ COST:
 Pre-register (online) - $17 members / $20 non-members
 Drop-in - $20 members / $23 non-members
 
-REGISTER: http://stanleyparkecology.ca/event/nature-art-sketching-skulls/
+REGISTER: [http://stanleyparkecology.ca/event/nature-art-sketching-skulls/](http://stanleyparkecology.ca/event/nature-art-sketching-skulls/)
 QUESTIONS: (604) 718-6522 or education@stanleyparkecology.cae

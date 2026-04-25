@@ -20,7 +20,7 @@ Comprising two major walls, City Hall Galleria primarily showcases framed or rea
 to-hang two-dimensional artworks. There is also a 32 flat screen TV where videos
 can be displayed. Dimensions of the two walls are
 available at:
-https://www.richmondartgallery.org/wp-content/uploads/RAG-city-hall-
+[https://www.richmondartgallery.org/wp-content/uploads/RAG-city-hall-](https://www.richmondartgallery.org/wp-content/uploads/RAG-city-hall-)
 measurements-2011.pdf.
 
 Deadline: September 22, 2023 for 2024 programming
@@ -55,5 +55,5 @@ Richmond-based artists! The approximate dimensions for the double-side art wall
 are 89 x 188 (h x w). All submissions to City Hall Galleria by Richmond artists will
 also be considered for this space.
 
-For more information, please visit https://www.richmondartgallery.org/exhibitions/city-
+For more information, please visit [https://www.richmondartgallery.org/exhibitions/city-](https://www.richmondartgallery.org/exhibitions/city-)
 hall-galleria.

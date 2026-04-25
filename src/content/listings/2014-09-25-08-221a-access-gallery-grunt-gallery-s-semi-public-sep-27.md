@@ -26,7 +26,7 @@ Semi-Public at 271 Union Street, Adjacencies marks the soft-launch of
 221A’s 10-year long program to commission work that considers the changing
 dynamics of Chinatown and the surrounding communities.
 
-Read more: http://221a.ca/adjacencies
+Read more: [http://221a.ca/adjacencies](http://221a.ca/adjacencies)
 
 Semi-Public
 271 Union St

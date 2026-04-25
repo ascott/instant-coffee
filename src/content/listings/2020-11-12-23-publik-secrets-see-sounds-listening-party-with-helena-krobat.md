@@ -27,9 +27,9 @@ the Journal of Design and Culture in spring 2021. Helena has presented many
 workshops on storytelling with audio field recording. She volunteers with the Vancouver
 Tenants Union and is a co-host of the Soundscape Show on Vancouver Co-op Radio.
 
-https://www.eventbrite.com/e/127933487505
+[https://www.eventbrite.com/e/127933487505](https://www.eventbrite.com/e/127933487505)
 
 Thank you!
 
 Robyn
-http://https://www.eventbrite.com/e/127933487505
+[http://https://www.eventbrite.com/e/127933487505](http://https://www.eventbrite.com/e/127933487505)

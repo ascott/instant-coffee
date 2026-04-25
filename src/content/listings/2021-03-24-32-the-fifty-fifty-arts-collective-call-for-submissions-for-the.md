@@ -42,5 +42,5 @@ and Esquimalt First Nations.
 contact: thefiftyfifty@gmail.com
 web: www.thefiftyfifty.net
 facebook: the fifty fifty arts collective
-twitter: https://twitter.com/#!/thefiftyfifty
+twitter: [https://twitter.com/#!/thefiftyfifty](https://twitter.com/#!/thefiftyfifty)
 instagram: @thefiftyfiftyartscollective

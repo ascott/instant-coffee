@@ -42,4 +42,4 @@ of portfolios is finished.
 All respondents are notified of results no later than 7 days after the deadline.
 
 
-http://www.dekunumag.com/submit
+[http://www.dekunumag.com/submit](http://www.dekunumag.com/submit)

@@ -18,7 +18,7 @@ Two sessions, 9 hours total // $70, or $58 with VIVO Extended Producer Membershi
 Session 1: Sunday January 21, 12:30pm-5pm
 Session 2: Sunday January 28, 12:30pm-5pm
 
-Sign up: https://cls-with-alysha.eventbrite.ca
+Sign up: [https://cls-with-alysha.eventbrite.ca](https://cls-with-alysha.eventbrite.ca)
 
 Basic technical aspects of camera operation, sound recording, and lighting principles 
 are taught through demonstration and hands-on practical exercises using the Canon 

@@ -14,7 +14,7 @@ Push the emotional tone of your moving images or match footage shot on different
 cameras, in this online workshop led by colourist Devan Scott.
 
 SIGN UP & MORE INFO:
-https://colour-correction.eventbrite.ca
+[https://colour-correction.eventbrite.ca](https://colour-correction.eventbrite.ca)
 
 BY DONATION for those facing reduced income due to COVID-19
 

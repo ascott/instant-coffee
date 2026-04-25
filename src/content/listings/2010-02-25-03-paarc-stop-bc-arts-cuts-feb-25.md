@@ -42,7 +42,7 @@ the 52nd Venice Biennale and his work is in the collection of NY MoMA and
 the Tate Modern and many other key museums worldwide.
 
 YouTube video and full transcript of his remarks are here:
-http://stopbcartscuts.wordpress.com/2010/02/18/artist-rafael-lozano-hemmer-creator-of-the-vectorial-elevations-searchlight-piece-criticizes-bcs-arts-cuts/
+[http://stopbcartscuts.wordpress.com/2010/02/18/artist-rafael-lozano-hemmer-creator-of-the-vectorial-elevations-searchlight-piece-criticizes-bcs-arts-cuts/](http://stopbcartscuts.wordpress.com/2010/02/18/artist-rafael-lozano-hemmer-creator-of-the-vectorial-elevations-searchlight-piece-criticizes-bcs-arts-cuts/)
 
 Explanation of the ’9-11’³ remark in the video clip: Before Vectorial
 Elevations was launched, its energy use wasn’t fully understood and the
@@ -58,6 +58,6 @@ For more information please contact Lindsay at Stop BC Arts Cuts: (604)
 Stop BC Arts Cuts
 Vancouver, BC
 
-web: http://www.stopbcartscuts.ca
-twitter: http://twitter.com/stopbcartscuts
-blog: http://stopbcartscuts.wordpress.com
+web: [http://www.stopbcartscuts.ca](http://www.stopbcartscuts.ca)
+twitter: [http://twitter.com/stopbcartscuts](http://twitter.com/stopbcartscuts)
+blog: [http://stopbcartscuts.wordpress.com](http://stopbcartscuts.wordpress.com)

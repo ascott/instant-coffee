@@ -37,6 +37,6 @@ and the local landscape.
 Please see our Public Art -> OPEN CALL - Re:Imagine | Re:Create page for full
 details on how and when to apply.
 
-https://kiac.ca/open-call-reimagine-recreate/
+[https://kiac.ca/open-call-reimagine-recreate/](https://kiac.ca/open-call-reimagine-recreate/)
 
 Were looking forward to reviewing all potential proposals!

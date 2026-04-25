@@ -19,4 +19,4 @@ artists creative, critical investigation and experimentation.
 
 For application details please follow this link:
 
-https://vancouver.ca/files/cov/untitled-grant-application-form-guide.pdf
+[https://vancouver.ca/files/cov/untitled-grant-application-form-guide.pdf](https://vancouver.ca/files/cov/untitled-grant-application-form-guide.pdf)

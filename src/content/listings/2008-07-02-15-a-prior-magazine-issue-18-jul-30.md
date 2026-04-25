@@ -37,7 +37,7 @@ number of seats is available the days of the event.
 
 The New York Conversations will be followed by the production of A Prior Magazine #18 and its 
 festive presentation at Beursschouwburg Brussels (10-11 october 2008) . 
-www.beursschouwburg.be <http://www.beursschouwburg.be/> 
+www.beursschouwburg.be <[http://www.beursschouwburg.be/](http://www.beursschouwburg.be/)> 
  
 Participants and visitors are advised to respect the following rules *:
 
@@ -83,13 +83,13 @@ Whereof one cannot speak, thereof must one be silent
 More A Prior News:
  
 -	A Prior Magazine takes part in the groupshow L’Art en Europe at the Domaine De Pommery, 
-Reims, France (1 juli until 31 december 2008) www.pommery.com <http://www.pommery.com/> 
+Reims, France (1 juli until 31 december 2008) www.pommery.com <[http://www.pommery.com/](http://www.pommery.com/)> 
 
 -	A Prior also is part of Kiosk: Modes of Multiplications, on show at Centre d’Art Contemporain 
-de Genève, Suisse (26 june until 14 september 2008) www.centre.ch <http://www.centre.ch/> 
+de Genève, Suisse (26 june until 14 september 2008) www.centre.ch <[http://www.centre.ch/](http://www.centre.ch/)> 
 
 -	New texts online: Jalal Toufic, Something I’m Dying to Tell You, Lyn 
-http://www.aprior.org/topics/195 <http://www.aprior.org/topics/195> 
+[http://www.aprior.org/topics/195](http://www.aprior.org/topics/195) <[http://www.aprior.org/topics/195](http://www.aprior.org/topics/195)> 
 
  
 
@@ -121,7 +121,7 @@ Berlin Office: monika@aprior.org <mailto:monika@aprior.org>
 
 Research and Circulation: maria@aprior.org <mailto:maria@aprior.org> 
 
-Subscriptions on: http://www.aprior.org/subscriptions <http://www.aprior.org/subscriptions> 
+Subscriptions on: [http://www.aprior.org/subscriptions](http://www.aprior.org/subscriptions) <[http://www.aprior.org/subscriptions](http://www.aprior.org/subscriptions)> 
 
 A Prior Magazine is generously supported by the Flemish Community and the Royal Academy of 
-Fine Arts (KASK) of the University College Ghent. (www.kask.be <http://www.kask.be/> )
+Fine Arts (KASK) of the University College Ghent. (www.kask.be <[http://www.kask.be/](http://www.kask.be/)> )

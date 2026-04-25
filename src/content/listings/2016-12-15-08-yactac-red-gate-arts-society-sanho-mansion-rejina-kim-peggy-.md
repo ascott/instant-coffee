@@ -48,5 +48,5 @@ materials!
 
 A great thanks to Red Gate Arts Society for their support.
 
-http://www.yactac.com
+[http://www.yactac.com](http://www.yactac.com)
 Because it's great, and we're Yactac!

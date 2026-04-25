@@ -36,7 +36,7 @@ Open Edition - $50
 Signed Artist Proof Edition of 5 - $250
 
 50% of proceeds will be donated to Border Kindness.
-Purchase here: https://nomadicdivision.org/shop/all/?
+Purchase here: [https://nomadicdivision.org/shop/all/](https://nomadicdivision.org/shop/all/)?
 mc_cid=ccba17de83&mc_eid=f6a44bd1e2
 If in LA you can also purchase via Venmo and arrange for local pick up or drop off to
 avoid shipping charges.
@@ -88,4 +88,4 @@ interventions are designed to identify, protect and nurture the most vulnerable,
 women, children, elderly and families. Proceeds from this edition will go toward
 providing food, medical care and other emergency services to asylum-seekers returned
 to Mexico via Trumps Migrant Protection Protocols.
-http://https://nomadicdivision.org/shop/all/?mc_cid=ccba1
+[http://https://nomadicdivision.org/shop/all/?mc_cid=ccba1](http://https://nomadicdivision.org/shop/all/?mc_cid=ccba1)

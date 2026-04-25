@@ -27,4 +27,4 @@ Skateboarding for Whistlers Audain Art Museum in 2022/23.
 The exhibition is curated by Patrik Andersson, Associate Professor in Critical + Cultural
 Studies at Emily Carr University.
 
-More Info: https://www.alliancefrancaise.ca/community/event-rsvp/?event_id=869
+More Info: [https://www.alliancefrancaise.ca/community/event-rsvp/?event_id=869](https://www.alliancefrancaise.ca/community/event-rsvp/?event_id=869)

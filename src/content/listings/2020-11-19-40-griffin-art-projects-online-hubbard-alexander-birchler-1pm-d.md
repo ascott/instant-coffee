@@ -19,7 +19,7 @@ www.griffinartprojects.ca
 
 To register, please visit:
 
-https://zoom.us/meeting/register/tJEvde6orTgjG9wM2k2d8sjk76-DqCCu6BHj
+[https://zoom.us/meeting/register/tJEvde6orTgjG9wM2k2d8sjk76-DqCCu6BHj](https://zoom.us/meeting/register/tJEvde6orTgjG9wM2k2d8sjk76-DqCCu6BHj)
 
 Join guest-curator David MacWilliam in conversation with internationally renowned
 artists Teresa Hubbard / Alexander Birchler.

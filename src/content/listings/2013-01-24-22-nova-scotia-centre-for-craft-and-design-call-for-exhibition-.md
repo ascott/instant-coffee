@@ -27,7 +27,7 @@ Exhibition Review Committee in an effort to represent fine craft in a range of
 media. Juried, curated, and traveling exhibits are eligible. 
 
 For details on proposal requirements see: 
-http://www.craft-design.ns.ca/prop.html. 
+[http://www.craft-design.ns.ca/prop.html](http://www.craft-design.ns.ca/prop.html). 
 Please submit all required materials electronically via email or CD/DVD. 
 Sorry, late submissions will not be accepted.
 

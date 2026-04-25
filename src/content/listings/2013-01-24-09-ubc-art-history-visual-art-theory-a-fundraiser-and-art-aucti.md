@@ -36,7 +36,7 @@ Tickets are $8 in advance and $10 at the door. Attendees must be 19+
 
 For details on how to purchase tickets please see:
 www.ahva.ubc.ca
-http://www.facebook.com/events/309465395837164/
+[http://www.facebook.com/events/309465395837164/](http://www.facebook.com/events/309465395837164/)
 
 Advance tickets can be purchased as of Wednesday January 16th 2013, and
 will be available from 9AM-4PM at the Department of Art History, Visual Art

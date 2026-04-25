@@ -34,7 +34,7 @@ Tomita, and featuring Yoshi Bancroft, Genevieve Fleming, Laura Fukumoto,
 and Jennifer Spence, will be performed immediately following opening
 remarks. The performance is 45min.
 
-http://vancouver.carpediem.cd/events/6710929-the-suitcase-project-exhibit-opening-w-special-performance-at-nikkei-national-museum-cultural-centre/
+[http://vancouver.carpediem.cd/events/6710929-the-suitcase-project-exhibit-opening-w-special-performance-at-nikkei-national-museum-cultural-centre/](http://vancouver.carpediem.cd/events/6710929-the-suitcase-project-exhibit-opening-w-special-performance-at-nikkei-national-museum-cultural-centre/)
 
 Admission is free but donations gratefully accepted.
 
@@ -45,4 +45,4 @@ Free underground parking is limited. Parking along Kingsway and Beresford
 is free and clear on weekends and the Edmonds skytrain station is a short
 walk away.
 
-www. http://centre.nikkeiplace.org/exhibits/the-suitcase-project/
+www. [http://centre.nikkeiplace.org/exhibits/the-suitcase-project/](http://centre.nikkeiplace.org/exhibits/the-suitcase-project/)

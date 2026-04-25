@@ -12,12 +12,12 @@ In the latest episode of The Polygon Podcast, curator Davide Quadrio is in conve
 with curator and writer Farah Wardani about contemporary art in Asia and The
 Polygons current exhibition Third Realm.
 
-Listen here: https://bit.ly/32mjvKt
+Listen here: [https://bit.ly/32mjvKt](https://bit.ly/32mjvKt)
 
 Subscribe to The Polygon Podcast
 
-iTunes: https://apple.co/2RKtlAd
+iTunes: [https://apple.co/2RKtlAd](https://apple.co/2RKtlAd)
 
-Spotify: https://spoti.fi/2Vf7ItO
+Spotify: [https://spoti.fi/2Vf7ItO](https://spoti.fi/2Vf7ItO)
 
-Google: https://bit.ly/2wIur8f
+Google: [https://bit.ly/2wIur8f](https://bit.ly/2wIur8f)

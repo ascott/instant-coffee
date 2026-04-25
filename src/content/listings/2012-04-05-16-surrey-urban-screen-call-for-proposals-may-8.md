@@ -32,18 +32,18 @@ by curatorial staff with support of the Surrey Urban Screen Advisory
 Committee. All proposals will be acknowledged.
 
 Submission requirements and other relevant details can be found at: 
-http://www.surrey.ca/culture-recreation/7990.aspx.
+[http://www.surrey.ca/culture-recreation/7990.aspx](http://www.surrey.ca/culture-recreation/7990.aspx).
 
 .............................................................................
 Additional sources of Public Art call information include:
-[ ] Akimbo - http://www.akimbo.ca/submissions/ - providing 
+[ ] Akimbo - [http://www.akimbo.ca/submissions/](http://www.akimbo.ca/submissions/) - providing 
 information from Toronto to national and international artists
-[ ] Cafe - https://www.callforentry.org - A US-based resource that 
+[ ] Cafe - [https://www.callforentry.org](https://www.callforentry.org) - A US-based resource that 
 includes opportunities for Canadian and international artists
-[ ] The Public Art Directory - http://www.public-art-
+[ ] The Public Art Directory - [http://www.public-art-](http://www.public-art-)
 directory.com/page_service-home.html - A UK based service listing 
 public art calls
-[ ] Public Art Online - http://www.publicartonline.org.uk/ - information 
+[ ] Public Art Online - [http://www.publicartonline.org.uk/](http://www.publicartonline.org.uk/) - information 
 and knowledge on an international scale.
 
 PLEASE NOTE: While the City of Vancouver is providing this 
@@ -55,7 +55,7 @@ accuracy of information and functioning of all links. For more detail
 about a particular call, please use the contact information provided. 
 For your convenience, all calls distributed through this list are posted 
 online, until their expiry, at 
-http://vancouver.ca/commsvcs/oca/PublicArt/artistopp.htm.
+[http://vancouver.ca/commsvcs/oca/PublicArt/artistopp.htm](http://vancouver.ca/commsvcs/oca/PublicArt/artistopp.htm).
 
 _____________________________________________
 From: Belluce, Marcia
@@ -108,7 +108,7 @@ by curatorial staff with support of the Surrey Urban Screen Advisory
 Committee. All proposals will be acknowledged.
 
 Submission requirements and other relevant details can be found at: 
-http://www.surrey.ca/culture-recreation/7990.aspx.
+[http://www.surrey.ca/culture-recreation/7990.aspx](http://www.surrey.ca/culture-recreation/7990.aspx).
 
 17. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.

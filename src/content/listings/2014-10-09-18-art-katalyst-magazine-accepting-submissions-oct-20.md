@@ -40,7 +40,7 @@ that reflect the theme of nostalgia. Interpretation is open.
 
 TO SUBMIT:
 Fill out the online form under "Submissions" on our website at:
-http://artkatalyst.com
+[http://artkatalyst.com](http://artkatalyst.com)
 
 -Include 3-8 high resolution (300 dpi, high quality, non watermarked)
 photos of the art work emailed to: art.katalyst@gmail.com
@@ -75,8 +75,8 @@ will be sent out by the end of December).
 Sincerely,
 Art Katalyst Management.
 
-http://artkatalyst.com
-http://www.facebook.com/ArtKatalyst
-http://www.artkatalyst.com
+[http://artkatalyst.com](http://artkatalyst.com)
+[http://www.facebook.com/ArtKatalyst](http://www.facebook.com/ArtKatalyst)
+[http://www.artkatalyst.com](http://www.artkatalyst.com)
 twitter: @ArtKatalystMag
 Instagram: @ArtKatalystMag

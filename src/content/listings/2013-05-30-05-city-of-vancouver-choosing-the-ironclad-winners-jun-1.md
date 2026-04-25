@@ -12,7 +12,7 @@ Choosing the Ironclad Winners:
 From 1000+ to 152; from 152 to 28; from28 to (ta-da!) the final 2...
 
 Over 1000 designs for storm and sanitary sewer covers were submitted to the 
-Ironclad Art Manhole Design Challenge<http://vancouver.ca/parks-recreation-
+Ironclad Art Manhole Design Challenge<[http://vancouver.ca/parks-recreation-](http://vancouver.ca/parks-recreation-)
 culture/ironclad-art-manhole-cover-design.aspx>. A jury selected a long-list of 
 the 152 best submissions and then a shortlist of 28 from which the final 
 designs were selected.
@@ -22,24 +22,24 @@ works will be cast in iron and installed on Vancouver streets for up to 100
 years. The winners will be announced on June 1, 2013.
 
 A free exhibition at the Interurban 
-Gallery<http://ironcladart.ca/competition/exhibition.php> (1 East Hastings at 
+Gallery<[http://ironcladart.ca/competition/exhibition.php](http://ironcladart.ca/competition/exhibition.php)> (1 East Hastings at 
 Carrall Street) runs May 28 through June 8, 2013 between 1 and 5 p.m. It will 
 showcase at all of the works submitted.
 
-Voting for the People's Choice<http://ironcladart.ca/index.php> takes place 
-online at ironcladart.ca<http://ironcladart.ca/> and at the Interurban Gallery 
+Voting for the People's Choice<[http://ironcladart.ca/index.php](http://ironcladart.ca/index.php)> takes place 
+online at ironcladart.ca<[http://ironcladart.ca/](http://ironcladart.ca/)> and at the Interurban Gallery 
 throughout the run of the exhibition. People's Choice winners will be 
 announced on June 10th.
 
 To learn more visit:
 
-* The Public Art Archive<http://ourcityourart.wordpress.com/>
+* The Public Art Archive<[http://ourcityourart.wordpress.com/](http://ourcityourart.wordpress.com/)>
 
-* IroncladArt.ca<http://ironcladart.ca/>
+* IroncladArt.ca<[http://ironcladart.ca/](http://ironcladart.ca/)>
 
 Join the conversation on Facebook at 
-/vanculture<https://www.facebook.com/vanculture> and follow us on Twitter 
-@VanCultureBC<https://twitter.com/VanCultureBC>.
+/vanculture<[https://www.facebook.com/vanculture](https://www.facebook.com/vanculture)> and follow us on Twitter 
+@VanCultureBC<[https://twitter.com/VanCultureBC](https://twitter.com/VanCultureBC)>.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 ~~~~~~~~~~~~~~~~~~~~~

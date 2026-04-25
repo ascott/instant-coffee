@@ -53,4 +53,4 @@ The panel discussion will be moderated by CAG curator and Jenifer Papararo.
 Contemporary Art Gallery, 555 Nelson Street, Vancouver, BC, V6B 6R5, Canada
 
 
-http://www.contemporaryartgallery.ca
+[http://www.contemporaryartgallery.ca](http://www.contemporaryartgallery.ca)

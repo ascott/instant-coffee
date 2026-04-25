@@ -11,7 +11,7 @@ summary: "Centre A [ONLINE] | [WORKSHOP] Art Writing Event: Staff Hui Ci Ling | 
 Friday, July 19, 2024
 2 - 3:30 PM PT
 Zoom
-RSVP: https://us02web.zoom.us/meeting/register/tZYucu-
+RSVP: [https://us02web.zoom.us/meeting/register/tZYucu-](https://us02web.zoom.us/meeting/register/tZYucu-)
 sqDMsGNd5cYwCW5EISGfOYiuqx0j0#/registration
 
 Join us on Friday, July 19 for

@@ -35,6 +35,6 @@ before. Projections of live stenciling, audience-generated photos, a
 Wurlitzer cassette jukebox, inflatable space pods and other surprises 
 await the listener in an organic, boundary-busting sound world!
 
-http://kidkoala.com/
-http://www.coastaljazz.ca/artist/kid_koala
-http://www.youtube.com/watch?v=cR-nbuDDNE0
+[http://kidkoala.com/](http://kidkoala.com/)
+[http://www.coastaljazz.ca/artist/kid_koala](http://www.coastaljazz.ca/artist/kid_koala)
+[http://www.youtube.com/watch?v=cR-nbuDDNE0](http://www.youtube.com/watch?v=cR-nbuDDNE0)

@@ -34,7 +34,7 @@ Followed by a reception and book signing.
 
 This is a free event.
 
-https://thepolygon.ca/event/kaja-silverman-three-personed-picture/
+[https://thepolygon.ca/event/kaja-silverman-three-personed-picture/](https://thepolygon.ca/event/kaja-silverman-three-personed-picture/)
 
 101 Carrie Cates Court, North Vancouver, V7M 3J4
 info@thepolygon.ca

@@ -38,4 +38,4 @@ shared on SFU Galleries Instagram account throughout the exhibitions run.
 
 Curated by Karina Irvine, Christopher Lacroix and cheyanne turions
 
-https://www.sfu.ca/galleries/audain-gallery/ThePandemicisaPortal.html
+[https://www.sfu.ca/galleries/audain-gallery/ThePandemicisaPortal.html](https://www.sfu.ca/galleries/audain-gallery/ThePandemicisaPortal.html)

@@ -40,7 +40,7 @@ The Southern Alberta Art Gallery / Maansiksikaitsitapiitsinikssin (project space
 
 _ _ _ _
 
-Please see https://bedroomkitchen.garden/ohce-echo or write
+Please see [https://bedroomkitchen.garden/ohce-echo](https://bedroomkitchen.garden/ohce-echo) or write
 itsjoycewielandthanks@gmail.com for more information or to make an appointment
 outside of Saturday hours.
 

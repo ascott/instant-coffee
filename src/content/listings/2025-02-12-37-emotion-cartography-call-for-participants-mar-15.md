@@ -28,5 +28,5 @@ The cohort is free and open to adults 18+. All materials are provided and the sp
 is wheelchair accessible with a low stimulation area.
 
 If this sounds like something your community might be interested feel free to share
-this link for more info and to sign up: https://www.hellochowder.com/new-
+this link for more info and to sign up: [https://www.hellochowder.com/new-](https://www.hellochowder.com/new-)
 events/emotion-cartography

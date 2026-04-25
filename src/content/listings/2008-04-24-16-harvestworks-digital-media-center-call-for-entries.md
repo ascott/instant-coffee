@@ -16,5 +16,5 @@ Founded by artists in 1977, Harvestworks Digital Media Center (HDMC) has helped 
 
 POSTMARK DEADLINE: June 16, 2008
 
-Details and entry form available at http://www.harvestworks.org
+Details and entry form available at [http://www.harvestworks.org](http://www.harvestworks.org)
 Contact: videoscreening003@harvestworks.org

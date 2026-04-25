@@ -17,4 +17,4 @@ MENA 2026 presents over 40 shorts and features from everywhere MENA/SWANA folks 
 found. Our expanded Opening Ceremony opens at the Vancouver Playhouse and regular
 screenings return to our longtime home at VIFF Centre!
 
-https://www.menafilmfestival.com/festival/2026#program
+[https://www.menafilmfestival.com/festival/2026#program](https://www.menafilmfestival.com/festival/2026#program)

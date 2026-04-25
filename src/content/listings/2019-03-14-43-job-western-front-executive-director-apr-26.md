@@ -90,7 +90,7 @@ references.
 
 Executive Director Hiring Committee, Western Front Society
 Email: admin@front.bc.ca
-http://www.front.bc.ca
+[http://www.front.bc.ca](http://www.front.bc.ca)
 
 NO PHONE CALLS PLEASE. We thank all applicants, but only shortlisted candidates 
 will be contacted.

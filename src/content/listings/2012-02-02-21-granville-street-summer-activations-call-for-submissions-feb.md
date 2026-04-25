@@ -26,6 +26,6 @@ opportunity!
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 NOTE: You can manage your subscription to this mailing list and join 
 others by visiting Cultural Services online at: 
-http://vancouver.ca/commsvcs/cultural/lists/index.htm
+[http://vancouver.ca/commsvcs/cultural/lists/index.htm](http://vancouver.ca/commsvcs/cultural/lists/index.htm)
 
 Please feel free to forward or direct others towards this link as well!

@@ -32,7 +32,7 @@ accessible, except for the upper gallery at Burnaby
 Art Gallery. Unfortunately, the shuttle is not equipped with a wheelchair lift.
 
 Reserve your spot on the art bus here:
-https://evergreenculturalcentre.my.salesforce-
+[https://evergreenculturalcentre.my.salesforce-](https://evergreenculturalcentre.my.salesforce-)
 sites.com/ticket/#/events/a0SOK000002OwuX2AS
 
 About the Exhibition:
@@ -56,4 +56,4 @@ relationships and the pressing climate crisis.
 "Ruth Beer: Seep | Swell" is co-produced between the Art Gallery at Evergreen and
 the Burnaby Art Gallery, curated by Katherine Dennis and Jennifer Cane.
 
-https://evergreenculturalcentre.ca/exhibit/
+[https://evergreenculturalcentre.ca/exhibit/](https://evergreenculturalcentre.ca/exhibit/)

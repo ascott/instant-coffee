@@ -79,4 +79,4 @@ We will be setting up viewing times immediately. First come, first serve.
 gibson.randy@gmail.com
 
 Photos:
-https://vancouver.craigslist.ca/van/ats/d/1-spot-available-shared/6645844757.html
+[https://vancouver.craigslist.ca/van/ats/d/1-spot-available-shared/6645844757.html](https://vancouver.craigslist.ca/van/ats/d/1-spot-available-shared/6645844757.html)

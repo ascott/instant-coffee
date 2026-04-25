@@ -22,4 +22,4 @@ Committee by 5pm, January 2nd 2017.
 Please compile CV and cover letter into 1 .pdf document.
 
 More detailed information regarding this position can be found here: 
-http://www.vivomediaarts.com/job-opportunity-video-out-technician/
+[http://www.vivomediaarts.com/job-opportunity-video-out-technician/](http://www.vivomediaarts.com/job-opportunity-video-out-technician/)

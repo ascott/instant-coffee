@@ -32,7 +32,7 @@ Nicolas Sassoon, Corin Sworn, and more.
 
 For more information about the auction and participating artists, please visit 
 the Western Front's auction website at 
-http://westernfrontauction2013.tumblr.com/
+[http://westernfrontauction2013.tumblr.com/](http://westernfrontauction2013.tumblr.com/)
 
 ---
 

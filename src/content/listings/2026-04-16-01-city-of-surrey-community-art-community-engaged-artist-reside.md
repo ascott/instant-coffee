@@ -13,4 +13,4 @@ Deadline to Apply: May 15, 2026
 Contact: communityart@surrey.ca
 Artist and artist groups across Canada are warmly invited to apply for the Fall 2026
 Community Engaged Artist Residency in Surrey BC!
-https://www.surrey.ca/arts-culture/community-art/community-art-artist-calls
+[https://www.surrey.ca/arts-culture/community-art/community-art-artist-calls](https://www.surrey.ca/arts-culture/community-art/community-art-artist-calls)

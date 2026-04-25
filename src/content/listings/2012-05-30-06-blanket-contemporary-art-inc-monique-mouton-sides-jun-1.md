@@ -16,7 +16,7 @@ BLANKET CONTEMPORARY ART INC.
 560 Seymour Street, 2nd Floor
 Vancouver BC V6B 3J5
 phone 1.604.709.6100
-http://www.blanketgallery.com
+[http://www.blanketgallery.com](http://www.blanketgallery.com)
 
 Monique Mouton, Shades, oil on panel, 2012, 40”  x 39” 
 

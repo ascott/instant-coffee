@@ -20,5 +20,5 @@ February 17th at 6pm.
 For more information about the artist and to schedule a viewing, please book through our
 Eventbrite page (search for Fei Gao).
 
-https://www.eventbrite.ca/e/fei-gao-exhibition-documentary-expression-of-life-in-the-
+[https://www.eventbrite.ca/e/fei-gao-exhibition-documentary-expression-of-life-in-the-](https://www.eventbrite.ca/e/fei-gao-exhibition-documentary-expression-of-life-in-the-)
 course-of-time-tickets-265395804997?aff=ebdssbdestsearch&keep_tld=1

@@ -14,10 +14,10 @@ CARFAC BC Resources & Supports for Artists
 Wednesday, April 23, 2025
 7:00 PM - 8:00 PM
 
-Info: https://www.richmondartgallery.org/artist-salon-carfac
+Info: [https://www.richmondartgallery.org/artist-salon-carfac](https://www.richmondartgallery.org/artist-salon-carfac)
 
 Register:
-https://us02web.zoom.us/webinar/register/WN_r90gV_w_QLeKRlRGi2F90w
+[https://us02web.zoom.us/webinar/register/WN_r90gV_w_QLeKRlRGi2F90w](https://us02web.zoom.us/webinar/register/WN_r90gV_w_QLeKRlRGi2F90w)
 
 Looking for services to support and develop your art practice? Wondering how artists
 get paid to show their work? What are the legal and economic rights of visual artists
@@ -25,7 +25,7 @@ in Canada? Where can an artist find a supportive creative community?
 
 CARFAC, or Canadian Artists' Representation/Le Front des Artistes Canadiens is a
 national non-profit organization that advocates for Canada's visual artists. Current
-https://carfacbc.ca/ President, Trevor Van den Eijinden, will provide an overview of
+[https://carfacbc.ca/](https://carfacbc.ca/) President, Trevor Van den Eijinden, will provide an overview of
 the many resources they offer for artists including current guidelines in contractual
 issues, artist fees and legal rights.
 
@@ -69,6 +69,6 @@ Since 2016, Richmond Art Gallery's Artist Salon series features art professional
 leading inspirational artist talks and professional development for visual artists each
 month from February to November. Programs are either live-streamed online or
 hosted in person. Past livestreams from 2021 onwards may be viewed as videos
-here - https://www.richmondartgallery.org/rag-at-home/ragathomevideo
+here - [https://www.richmondartgallery.org/rag-at-home/ragathomevideo](https://www.richmondartgallery.org/rag-at-home/ragathomevideo)
 
 www.richmondartgallery.org

@@ -13,5 +13,5 @@ First Nations/Metis/Inuit for Pushing Boundaries 2023 Exhibition. Entitled Our H
 on Native Land and curated by Sho Sho Esquiro.
 
 Please apply online
-https://northvanarts.ca/events-exhibitions/call-for-artists-pushing-
+[https://northvanarts.ca/events-exhibitions/call-for-artists-pushing-](https://northvanarts.ca/events-exhibitions/call-for-artists-pushing-)
 boundaries-2023/ Deadline for submissions: Thursday, August 24 at midnight.

@@ -56,4 +56,4 @@ For the complete 'Call to Artists' visit
 www.calgary.ca/publicart.
 Inquiries can be directed to Lisa Hickey-Besserer at
 lisa.hickey-besserer@calgary.ca or 403-268-5283.
-http://www.calgary.ca/publicart
+[http://www.calgary.ca/publicart](http://www.calgary.ca/publicart)

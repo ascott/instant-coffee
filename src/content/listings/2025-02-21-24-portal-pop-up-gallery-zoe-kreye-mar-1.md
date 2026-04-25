@@ -46,4 +46,4 @@ been exhibited at the Vancouver Art Gallery, Southbank Centre London, Kamloops
 Art Gallery; she has produced a number of social practice projects in Vancouver and
 Berlin and was listed for the 2024 Sobey Art Award.
 
-http://zoekreye.ca/
+[http://zoekreye.ca/](http://zoekreye.ca/)

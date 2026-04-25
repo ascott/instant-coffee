@@ -34,7 +34,7 @@ reconvene the day of the award to choose the winner. Following the award,
 the finalists' work will remain on view at The Polygon Gallery, from
 September 21 " October 7, 2018.
 
-https://thepolygon.ca/event/lind-prize-2018-opening-reception-awards-ceremony/
+[https://thepolygon.ca/event/lind-prize-2018-opening-reception-awards-ceremony/](https://thepolygon.ca/event/lind-prize-2018-opening-reception-awards-ceremony/)
 
 EVENT: The Lind Prize 2018: The Crit | 3 " 5pm | September 21
 
@@ -45,7 +45,7 @@ interested members of the public. The Crit is conceived of as an
 opportunity for emerging artists to consider a valuable range of responses
 to their works in a professional gallery setting.
 
-https://thepolygon.ca/event/the-lind-prize-2018-the-crit/
+[https://thepolygon.ca/event/the-lind-prize-2018-the-crit/](https://thepolygon.ca/event/the-lind-prize-2018-the-crit/)
 
 thepolygon.ca
 Admision is by donation, courtesy of BMO Financial Group

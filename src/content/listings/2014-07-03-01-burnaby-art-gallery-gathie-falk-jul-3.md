@@ -28,11 +28,11 @@ and access to high-resolution images and image credits,
 please find them in the links below.
 
 Dropbox:
-https://www.dropbox.com/sh/srq5nmkeib88nbh/AACjb5F9P_VMZOr_Fnsp
+[https://www.dropbox.com/sh/srq5nmkeib88nbh/AACjb5F9P_VMZOr_Fnsp](https://www.dropbox.com/sh/srq5nmkeib88nbh/AACjb5F9P_VMZOr_Fnsp)
 vI1Ea
 
 Press Release:
-https://www.dropbox.com/s/mq9dlgthblgpkuw/GathieFalk.pdf
+[https://www.dropbox.com/s/mq9dlgthblgpkuw/GathieFalk.pdf](https://www.dropbox.com/s/mq9dlgthblgpkuw/GathieFalk.pdf)
 
 For more information or interviews with the artist, please don’t hesitate to
 contact me.

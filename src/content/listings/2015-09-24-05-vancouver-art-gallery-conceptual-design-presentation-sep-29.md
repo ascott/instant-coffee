@@ -57,4 +57,4 @@ To receive complimentary media tickets to this event, please contact
 Debra Zhou.
 Tickets are available to the public: $5 for Gallery Members, $7 non-
 Members plus Ticketmaster service charges. Link: 
-http://www.ticketmaster.ca/event/11004F1B40C6A7B6
+[http://www.ticketmaster.ca/event/11004F1B40C6A7B6](http://www.ticketmaster.ca/event/11004F1B40C6A7B6)

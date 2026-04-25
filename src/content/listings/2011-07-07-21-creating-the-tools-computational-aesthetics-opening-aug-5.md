@@ -15,7 +15,7 @@ Vancouver
 Public Art Opening: Fri Aug 5, 5:30 pm
 Symposium: Aug 5-7 (9 am each day)
 
-http://www.cl.cam.ac.uk/conference/cae-sbim-npar-2011/CAe/Artworks
+[http://www.cl.cam.ac.uk/conference/cae-sbim-npar-2011/CAe/Artworks](http://www.cl.cam.ac.uk/conference/cae-sbim-npar-2011/CAe/Artworks)
 
 The artistic theme "Creating the tools" of the Computational Aesthetics 
 conference 2011 revolves around the creative activity of writing software. 
@@ -32,7 +32,7 @@ The Computational Aesthetics Art Show will present these works to the public
 on August 5, 2011, at the Marriott Downtown. Join us and discover!
 
 For more details, visit our website:
-http://www.cl.cam.ac.uk/conference/cae-sbim-npar-2011/CAe/Artworks
+[http://www.cl.cam.ac.uk/conference/cae-sbim-npar-2011/CAe/Artworks](http://www.cl.cam.ac.uk/conference/cae-sbim-npar-2011/CAe/Artworks)
 
 Thank you
 Andres Wanner and Allen Bevans
@@ -49,5 +49,5 @@ Simon Fraser University Surrey
 Surrey, BC V3T 0A3
 Phone: 778 782 7538
 Email: andres_wanner@sfu.ca
-http://www.siat.sfu.ca
+[http://www.siat.sfu.ca](http://www.siat.sfu.ca)
 - - - - - - - - - - - - - - - - - - - - - - - - - -

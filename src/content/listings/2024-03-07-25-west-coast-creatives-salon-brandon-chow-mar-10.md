@@ -10,7 +10,7 @@ summary: "West Coast Creatives Salon | Brandon Chow | MAR 10"
 
 Sunday, March 10th, 2024 (1:00PM-3:00PM)
 The Gallery at Queens Park, New Westminster, BC
-RSVP Here: https://westcoastcreativessalon.com/salons/
+RSVP Here: [https://westcoastcreativessalon.com/salons/](https://westcoastcreativessalon.com/salons/)
 
 Join
 contemporary music composer and WCCS Board President Brandon Chow for a
@@ -24,4 +24,4 @@ The broader applicability of Messiaens preoccupation with harmonic colour, his d
 musical influences, and his unique musical language will enrich the dialogue. All artists
 and community interested in the arts are warmly invited.
 
-For more information, visit https://westcoastcreativessalon.com/.
+For more information, visit [https://westcoastcreativessalon.com/](https://westcoastcreativessalon.com/).

@@ -32,7 +32,7 @@ info@csaspace.ca
 Jason W. Fowler Fitzpatrick:
 Web page: jasonfitzpatrick.ca
 Phone: 7788932053
-Blog: http://jasonfitzpatrick.ca/studio/category/twenty-eight-days
+Blog: [http://jasonfitzpatrick.ca/studio/category/twenty-eight-days](http://jasonfitzpatrick.ca/studio/category/twenty-eight-days)
 web page: jasonfitzpatrick.ca
 email: jasonwff@shaw.ca
 778.893.2053

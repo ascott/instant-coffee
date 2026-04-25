@@ -24,4 +24,4 @@ exhibition: 12-5 on September 12, 13, 16 and 18, 5-9 on September 15 and 17, and
 September 14.
 
 Goonies | 108 east Hastings 
-http://goonies.ca
+[http://goonies.ca](http://goonies.ca)

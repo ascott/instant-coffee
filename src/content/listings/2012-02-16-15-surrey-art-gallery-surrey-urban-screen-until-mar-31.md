@@ -56,4 +56,4 @@ edited by Kate Armstrong with contributions by Caitlin Jones, Sylvie
 Parent, Mirjam Struppek, Steve Dietz, Garnet Hertz, Justin Waddell, 
 Greg J. Smith, and The Cedar Tavern Singers AKA Les Phonorealistes.
 
-http://electricspeed.ca/
+[http://electricspeed.ca/](http://electricspeed.ca/)

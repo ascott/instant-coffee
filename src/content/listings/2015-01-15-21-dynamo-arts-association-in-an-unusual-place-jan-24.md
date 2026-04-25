@@ -37,7 +37,7 @@ landscape.
 Dynamo Arts Association
 Suite 103 - 30 East 6th Avenue
 Vancouver, British Columbia V5T 1J4
-http://www.dynamoarts.ca/
+[http://www.dynamoarts.ca/](http://www.dynamoarts.ca/)
 dynamo.arts.assoc@gmail.com
 
 Curated by Carli Erin Gaudet and Hei Lam Ng

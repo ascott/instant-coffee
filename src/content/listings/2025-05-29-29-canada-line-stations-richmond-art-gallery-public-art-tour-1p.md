@@ -13,7 +13,7 @@ Saturday, June 7, 2025
 1:00 PM - 3:30 PM
 Location: Canada Line Stations & Richmond Art Gallery
 
-RSVP: https://www.eventbrite.ca/e/doors-open-richmond-public-art-on-the-canada-
+RSVP: [https://www.eventbrite.ca/e/doors-open-richmond-public-art-on-the-canada-](https://www.eventbrite.ca/e/doors-open-richmond-public-art-on-the-canada-)
 line-tickets-1261731505899?aff=oddtdtcreator
 
 As part of Doors Open Richmond, get an insider's view to the public art along the
@@ -48,7 +48,7 @@ Wong
 Artist Lauraine Mak discusses her Capture Festival installation
 . 3:00 pm: Walk to Richmond Art Gallery, 7700 Minoru Gate
 Curator Zo Chan leads a tour of
-https://www.richmondartgallery.org/restlessbynatureexhibit
+[https://www.richmondartgallery.org/restlessbynatureexhibit](https://www.richmondartgallery.org/restlessbynatureexhibit)
 *times may adjust slightly to accommodate travel time
 
 About the Artists featured on the Canada Line:

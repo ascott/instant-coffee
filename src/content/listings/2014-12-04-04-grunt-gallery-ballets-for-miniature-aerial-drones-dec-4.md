@@ -46,7 +46,7 @@ Thursday December 4th
 
 7pm - 9pm
 
-More info at http://grunt.ca
+More info at [http://grunt.ca](http://grunt.ca)
 
 Grunt
 

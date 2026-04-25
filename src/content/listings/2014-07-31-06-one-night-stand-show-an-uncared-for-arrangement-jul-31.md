@@ -29,12 +29,12 @@ curation is
 intended to background the works on display, and not preside over them
 with a personal vision.
 
-http://cargocollective.com/josephstrohan
+[http://cargocollective.com/josephstrohan](http://cargocollective.com/josephstrohan)
 
-http://ericlowe.net/
+[http://ericlowe.net/](http://ericlowe.net/)
 
-http://artlin.net/
+[http://artlin.net/](http://artlin.net/)
 
-http://cargocollective.com/annakasko
+[http://cargocollective.com/annakasko](http://cargocollective.com/annakasko)
 
-http://www.manuelcorreaestudio.com/
+[http://www.manuelcorreaestudio.com/](http://www.manuelcorreaestudio.com/)

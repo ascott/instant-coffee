@@ -13,7 +13,7 @@ Synthetic Properties: Helen Marten and Zoe Tissandier
 Monday, February 17, 2014 - 7:30pm 
 1131 Howe Street Vancouver 
 Tix:$11/$9 +$3 membership
-http://www.dimcinema.ca / http://www.thecinematheque.ca
+[http://www.dimcinema.ca](http://www.dimcinema.ca) / [http://www.thecinematheque.ca](http://www.thecinematheque.ca)
 
 "Synthetic Properties" brings together two recent films that illustrate the 
 simultaneous banality and wonder of contemporary image and object making 

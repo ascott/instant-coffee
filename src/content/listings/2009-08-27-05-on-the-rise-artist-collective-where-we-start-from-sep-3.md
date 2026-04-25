@@ -40,4 +40,4 @@ ON THE RISE ARTIST COLLECTIVE Ltd.
 2231 Granville Street
 Vancouver, BC V6H 3G1
 
-http://www.ontheriseac.ca
+[http://www.ontheriseac.ca](http://www.ontheriseac.ca)

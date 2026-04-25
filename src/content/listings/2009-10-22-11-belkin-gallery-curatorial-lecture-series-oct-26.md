@@ -49,7 +49,7 @@ For more information please contact Naomi Sawada, naomi.sawada@ubc.ca, tel: 604-
 Morris and Helen Belkin Art Gallery
 The University of British Columbia
 1825 Main Mall, Vancouver, B.C.
-http://www.belkin.ubc.ca/events/carolyn-christov-bakargiev
+[http://www.belkin.ubc.ca/events/carolyn-christov-bakargiev](http://www.belkin.ubc.ca/events/carolyn-christov-bakargiev)
 
 
-http://www.belkin.ubc.ca
+[http://www.belkin.ubc.ca](http://www.belkin.ubc.ca)

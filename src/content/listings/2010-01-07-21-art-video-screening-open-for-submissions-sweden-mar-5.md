@@ -14,7 +14,7 @@ Orebro International Videoart Festival. The festival
 will take place 1-3 October 2010.
 
 To submit work, you need to download a submissionform.
-http://www.artvideoscreening.se/submission.htm
+[http://www.artvideoscreening.se/submission.htm](http://www.artvideoscreening.se/submission.htm)
 
 Attached to this email is the submissionform.
 

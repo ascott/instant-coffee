@@ -29,7 +29,7 @@ viewers of all ages. (83 minutes)
 
 The film will be available on Vimeo, and the talk will be hosted on Zoom.
 
-Follow this link for tickets: https://www.eventbrite.ca/e/film-screening-home-the-wound-
+Follow this link for tickets: [https://www.eventbrite.ca/e/film-screening-home-the-wound-](https://www.eventbrite.ca/e/film-screening-home-the-wound-)
 and-the-gift-tickets-104063765524?
 fbclid=IwAR0ZJafkXwzTToQTJKCQ1XGCVKx3ojiJrg5l_ejKPMdQVzqO52P5YQTcYkg
 

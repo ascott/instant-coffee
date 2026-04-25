@@ -25,4 +25,4 @@ $50-$1000 to support their programming. The
 intention of Wronger Wave is to support confirmed events rather than funding the creation
 of new exhibitions or events. Deadline to apply is April 15, 2022 at 4PM PST.
 
-Learn more: https://www.unitpitt.ca/updates/wronger-wave-call-2022/
+Learn more: [https://www.unitpitt.ca/updates/wronger-wave-call-2022/](https://www.unitpitt.ca/updates/wronger-wave-call-2022/)

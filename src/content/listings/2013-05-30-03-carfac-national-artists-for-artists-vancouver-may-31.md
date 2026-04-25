@@ -38,6 +38,6 @@ Anyone can nominate a visual artist(s) for this award by completing the
 nomination form and forwarding it to CARFAC National. Deadline for
 receipt of nominations is May 3rd, 2013
 
-For details visit: http://tinyurl.com/cym6s8a
+For details visit: [http://tinyurl.com/cym6s8a](http://tinyurl.com/cym6s8a)
 
 www.carfac.ca

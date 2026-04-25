@@ -12,7 +12,7 @@ Rennie Museum
 IAN WALLACE: COLLECTED WORKS
 May 27 - September 30, 2017
 Book your tour here
-http://www.renniecollection.org/contact/index.php
+[http://www.renniecollection.org/contact/index.php](http://www.renniecollection.org/contact/index.php)
 
 Rennie Museum is pleased to announce a solo exhibition featuring rarely and 
 never- before seen historic works of renowned Vancouver artist Ian Wallace. 

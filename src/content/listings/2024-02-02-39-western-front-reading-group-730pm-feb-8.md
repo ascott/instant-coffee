@@ -35,13 +35,13 @@ Attendees are encouraged to read Fockes essay, A Pragmatic Response to Real
 Circumstances (Portland: The Back Room, 2006), in advance of the conversation.
 
 Download the PDF here.
-https://dmanalytics2.com/click?u=http%3A%2F%2Fwww.annefocke.net%2Fwp-
+[https://dmanalytics2.com/click?u=http%3A%2F%2Fwww.annefocke.net%2Fwp-](https://dmanalytics2.com/click?u=http%3A%2F%2Fwww.annefocke.net%2Fwp-)
 content%2Fuploads%2F2023%2F08%2FFockepragmatic.booklayout.pdf&i=2&d=sX
 _8FqthRpaK2vyxUBDyvg&e=vancouver%40instantcoffee.org&a=uuuAopplRQSsNJ
 6ZNKsB0g&s=Ww7VzmbLvGE
 
 Entrance is free but space is limited, and registration is encouraged.
-https://dmanalytics2.com/click?
+[https://dmanalytics2.com/click](https://dmanalytics2.com/click)?
 u=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Freading-group-a-pragmatic-
 response-to-real-circumstances-tickets-
 803486067457&i=3&d=sX_8FqthRpaK2vyxUBDyvg&e=vancouver%40instantcoffee.
@@ -49,7 +49,7 @@ org&a=uuuAopplRQSsNJ6ZNKsB0g&s=FGLZhLYKPMw
 
 For those unable to attend in person, the conversation will also be available to view
 as a live stream:
-https://dmanalytics2.com/click?
+[https://dmanalytics2.com/click](https://dmanalytics2.com/click)?
 u=http%3A%2F%2Ffillip.ca%2Fevents&i=4&d=sX_8FqthRpaK2vyxUBDyvg&e=vanc
 ouver%40instantcoffee.org&a=uuuAopplRQSsNJ6ZNKsB0g&s=-ZFz6vavRy8
 

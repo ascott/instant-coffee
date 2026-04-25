@@ -12,7 +12,7 @@ Artist Talk
 Ann Hamm at City Atrium Gallery, 141 West 14th Avenue, 
 North Vancouver BC
 
-http://nvartscouncil.ca/exhibitions/city-atrium-gallery
+[http://nvartscouncil.ca/exhibitions/city-atrium-gallery](http://nvartscouncil.ca/exhibitions/city-atrium-gallery)
 The North Vancouver Community Arts Council proudly presents the 
 installation works of Ann Hamm at the City Atrium Gallery--141 West 
 14th Ave. North Vancouver, BC

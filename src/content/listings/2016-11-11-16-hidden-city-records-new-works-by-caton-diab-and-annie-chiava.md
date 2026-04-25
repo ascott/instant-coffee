@@ -18,7 +18,7 @@ Caton Diab
 New collage works in mixed media. 
 C.Diab is a musician from Cascadia. 
 He is an expert in the ancient art of putting things on other things. 
-http://c-diab.tumblr.com/
+[http://c-diab.tumblr.com/](http://c-diab.tumblr.com/)
 
 Annie Chiavaroli
 Moon-watcher. 2015. digital video. 62min. 

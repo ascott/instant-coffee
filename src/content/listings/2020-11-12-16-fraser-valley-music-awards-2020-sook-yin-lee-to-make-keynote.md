@@ -37,8 +37,8 @@ movie, Octavio is Dead! a supernatural ghost story starring Sarah Gadon and Rosa
 Arquette won Best Director and Best Picture awards at the Downtown Los Angeles Film
 Festival 2018. Her feature movie Death and Sickness co-created with Dylan Gamble will
 premiere on CBC Gem in Canada on November 20.
-https://www.instagram.com/sookyinleee/ https://twitter.com/sookyinlee
-https://www.facebook.com/sookyin.lee/
+[https://www.instagram.com/sookyinleee/](https://www.instagram.com/sookyinleee/) [https://twitter.com/sookyinlee](https://twitter.com/sookyinlee)
+[https://www.facebook.com/sookyin.lee/](https://www.facebook.com/sookyin.lee/)
 
 More About the Dakota Leslie Memorial Fan Vote: Dakota hosted the Generation Z
 Show on CIVL until 2015, and was keen (read lovingly: precocious) when it came to

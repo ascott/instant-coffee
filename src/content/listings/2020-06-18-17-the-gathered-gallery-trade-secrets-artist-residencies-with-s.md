@@ -65,5 +65,5 @@ and get the information you need to move your career forward.
 payment option for those who self-identify as
 members of the BIPOC and/or LGBTQ2S+ communities to support artists facing
 statistically fewer opportunities in galleries, magazines, and institutions.)
-https://www.thegatheredgallery.com/event-details/trade-secrets-artist-
+[https://www.thegatheredgallery.com/event-details/trade-secrets-artist-](https://www.thegatheredgallery.com/event-details/trade-secrets-artist-)
 residencies-with-spark-box-studio

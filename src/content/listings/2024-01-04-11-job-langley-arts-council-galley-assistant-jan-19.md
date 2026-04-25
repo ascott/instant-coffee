@@ -15,7 +15,7 @@ DEADLINE:
 Jan. 19, 2024
 
 WEBSITE:
-http://langleyarts.ca
+[http://langleyarts.ca](http://langleyarts.ca)
 
 JOB DESCRIPTION:
 The Galley Assistant will work alongside the Langley Arts Councils Executive

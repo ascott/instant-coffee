@@ -39,4 +39,4 @@ www.shuddergallery.com
 433 Columbia Street
 Vancouver, BC
 
-https://twitter.com/ShudderGallery
+[https://twitter.com/ShudderGallery](https://twitter.com/ShudderGallery)

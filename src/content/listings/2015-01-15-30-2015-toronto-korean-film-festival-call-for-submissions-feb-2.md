@@ -46,5 +46,5 @@ awards ceremony.
 ***PLEASE SEND ALL SUBMISSIONS TO tkff.info@gmail.com
 
 ***DEADLINE FOR ALL SUBMISSIONS IS FEBRUARY 28th, 2015, 11:59 P.M. EST
-http://www.tkff.ca
-http://www.tkff.ca/#!call-for-shorts/cml9
+[http://www.tkff.ca](http://www.tkff.ca)
+[http://www.tkff.ca/#!call-for-shorts/cml9](http://www.tkff.ca/#!call-for-shorts/cml9)

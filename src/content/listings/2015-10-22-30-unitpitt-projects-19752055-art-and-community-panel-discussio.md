@@ -45,7 +45,7 @@ Catherine de Montreuil will be presenting a series of exhibitions, public
 actions, performances, talks, and publications which collectively propose a
 path to 2055.
 
-http://www.helenpittgallery.org
+[http://www.helenpittgallery.org](http://www.helenpittgallery.org)
 
 31. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.

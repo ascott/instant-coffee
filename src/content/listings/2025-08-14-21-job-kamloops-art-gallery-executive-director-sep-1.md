@@ -25,5 +25,5 @@ commitment to supporting artists and engaging audiences, while fostering an
 environment of excellence, collaboration, and sustainability. The Gallery's dedication to
 teaching and learning is also central to its work.
 
-For more details, please visit https://kag.bc.ca/employment. The initial review of
+For more details, please visit [https://kag.bc.ca/employment](https://kag.bc.ca/employment). The initial review of
 applications will begin September 1, 2025.

@@ -37,7 +37,7 @@ global pandemic that is Covid19.
 Hope you are all staying positive and healthy. Please feel free to email if you have
 further questions or would like to chat.
 
-https://www.facebook.com/events/232590487790233/
+[https://www.facebook.com/events/232590487790233/](https://www.facebook.com/events/232590487790233/)
 yactac.com
 
 Because it is great, and we are Yactac!

@@ -20,7 +20,7 @@ culture, Indigenous ways of knowing and contemporary issues through an active
 exhibition program, K-12 education programs, and special events and workshops. The
 Gallery is a registered charitable organization based in downtown Vancouver.
 
-http://www.billreidgallery.ca
+[http://www.billreidgallery.ca](http://www.billreidgallery.ca)
 
 JOB DESCRIPTION
 

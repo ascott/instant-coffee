@@ -82,4 +82,4 @@ Contemporary in Portland Oregon. Silvas work has been featured in publications s
 as WIRED magazine and Rhizomes book Net Art Anthology.
 
 
-http://www.waapart.com/viewing-room
+[http://www.waapart.com/viewing-room](http://www.waapart.com/viewing-room)

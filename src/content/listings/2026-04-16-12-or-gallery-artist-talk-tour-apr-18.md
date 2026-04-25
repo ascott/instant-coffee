@@ -27,7 +27,7 @@ photography, language and sound"to address the ways in which relations to territ
 community shape Indigiqueer identity.
 Baoya Hubukesi (I Love Them By the Edge) is presented as part of the Capture
 Photography Festival 2026 Selected Exhibitions.
-Visit https://orgallery.org/exhibitions-projects/baoya-hubukesi-i-love-them-by-the-edge/ for
+Visit [https://orgallery.org/exhibitions-projects/baoya-hubukesi-i-love-them-by-the-edge/](https://orgallery.org/exhibitions-projects/baoya-hubukesi-i-love-them-by-the-edge/) for
 more information about the exhibition.
 
 Artist Bio:

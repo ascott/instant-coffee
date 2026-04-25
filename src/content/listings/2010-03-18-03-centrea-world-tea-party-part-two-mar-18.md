@@ -34,13 +34,13 @@ the world.
 Installations
 
 Blue by Project Rainbow
-(http://www.projectrainbow.typepad.com/)
+([http://www.projectrainbow.typepad.com/](http://www.projectrainbow.typepad.com/))
 
 Replay Your Tea With Me by Luke Moloney & Darren Stone
-(http://www.pandorabenevolentsociety.org/twiki/bin/view.pl/Public/ReplayYourTeaWithMe).
+([http://www.pandorabenevolentsociety.org/twiki/bin/view.pl/Public/ReplayYourTeaWithMe](http://www.pandorabenevolentsociety.org/twiki/bin/view.pl/Public/ReplayYourTeaWithMe)).
 
 The Good Old Days [...] When Times Were Bad by Vancouver art collective, DRIL.
-(http://www.drawnfestival.ca/Drawn_News_Release_090706.pdf)
+([http://www.drawnfestival.ca/Drawn_News_Release_090706.pdf](http://www.drawnfestival.ca/Drawn_News_Release_090706.pdf))
 
 Special Events
 
@@ -58,7 +58,7 @@ Friday, March 19, 7-9pm
 The Good Old Days [...] When Times Were Bad
 Campfire Social Gathering
 organized by DRIL
-(http://www.drawnfestival.ca/Drawn_News_Release_090706.pdf)
+([http://www.drawnfestival.ca/Drawn_News_Release_090706.pdf](http://www.drawnfestival.ca/Drawn_News_Release_090706.pdf))
 
 Saturday, March 20, 2-4pm,
 The Japanese Way of Tea
@@ -77,7 +77,7 @@ Bright Light includes performances, video projections, exhibitions, social
 events and a parade. It is produced by artist-run centres, a fashion
 artist, an architecture studio, a commercial gallery, and a magazine.
 
-More information: http://bright-light.ca/
+More information: [http://bright-light.ca/](http://bright-light.ca/)
 
 Come have a cup of tea!
 

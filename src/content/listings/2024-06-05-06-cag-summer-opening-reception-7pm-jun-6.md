@@ -20,7 +20,7 @@ All ages welcome. Cash bar.
 RSVP
 No advance registration required.
 
-https://cagvancouver.org/event/opening-reception-summer-2024
+[https://cagvancouver.org/event/opening-reception-summer-2024](https://cagvancouver.org/event/opening-reception-summer-2024)
 
 Rochelle Goldberg: Sun Moon Stars
 JUN 7 ' SEP 8

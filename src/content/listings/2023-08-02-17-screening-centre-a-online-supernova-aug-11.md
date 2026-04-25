@@ -27,4 +27,4 @@ Time: 2 " 3:30 PM PST
 Location: Online (Zoom)
 
 More details can be found HERE.
-https://centrea.org/2023/07/liminal-futures-artist-talk-rah-eleh/
+[https://centrea.org/2023/07/liminal-futures-artist-talk-rah-eleh/](https://centrea.org/2023/07/liminal-futures-artist-talk-rah-eleh/)

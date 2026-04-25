@@ -28,4 +28,4 @@ Exercise
 Vancouver, BC
 V6A 1B5
 
-http://www.exercisecanada.com/
+[http://www.exercisecanada.com/](http://www.exercisecanada.com/)

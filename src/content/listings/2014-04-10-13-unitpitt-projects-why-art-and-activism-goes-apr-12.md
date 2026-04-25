@@ -84,9 +84,9 @@ head out at 2:30pm.
 For more information, follow these links:
 Unit/Pitt Projects: www.unitpitt.ca
 
-The People’s Procession & Rally: http://www.burnabypipelinewatch.ca
+The People’s Procession & Rally: [http://www.burnabypipelinewatch.ca](http://www.burnabypipelinewatch.ca)
 
-The North Shore Flotilla: http://nsnope.org
+The North Shore Flotilla: [http://nsnope.org](http://nsnope.org)
 
 Spaces of Contestation is supported through the BC Arts Council’s Arts-
 Based Community Development Program and by the Hamber Foundation. The 

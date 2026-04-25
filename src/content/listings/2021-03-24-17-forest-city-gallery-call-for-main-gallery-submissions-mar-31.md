@@ -52,4 +52,4 @@ director@forestcitygallery.com.
 Forest City Gallery has one annual submission deadline of March 31st at 11.59pm EST.
 
 For the application form, floor plan, and more information please visit:
-https://www.forestcitygallery.com/submissions
+[https://www.forestcitygallery.com/submissions](https://www.forestcitygallery.com/submissions)

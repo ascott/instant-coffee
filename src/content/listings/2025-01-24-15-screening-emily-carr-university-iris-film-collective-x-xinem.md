@@ -18,7 +18,7 @@ Sunday, January 26, 7pm (Doors 6:30pm)
 Integrated Motion Studio, Emily Carr University (520 E 1st Ave, Enter from Great
 Northern Way)
 
-Tickets: https://www.eventbrite.com/e/roger-beebe-in-person-films-for-one-to-eight-
+Tickets: [https://www.eventbrite.com/e/roger-beebe-in-person-films-for-one-to-eight-](https://www.eventbrite.com/e/roger-beebe-in-person-films-for-one-to-eight-)
 projectors-tickets-1136817605059?utm-campaign=social&utm-
 content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-
 source=cp&aff=ebdsshcopyurl
@@ -60,7 +60,7 @@ accommodation please email info@xinema.ca.
 
 This event is Program 2 of XINEMA x Iris Film Collective's two part Live and
 Expanded series. Tickets for Program 1: Night Visions (w/ Lori Goldston) are
-available here: https://www.showpass.com/xinema-x-iris-film-collective-night-visions-
+available here: [https://www.showpass.com/xinema-x-iris-film-collective-night-visions-](https://www.showpass.com/xinema-x-iris-film-collective-night-visions-)
 w-lori-goldston/.
 
 This event is generously supported by Emily Carr University of Art + Design.

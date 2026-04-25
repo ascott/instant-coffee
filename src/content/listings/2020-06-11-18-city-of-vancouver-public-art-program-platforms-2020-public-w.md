@@ -19,7 +19,7 @@ Artists will be paid an artist fee of $2000 for selected works.
 
 For application details please follow this link:
 
-https://vancouver.ca/files/cov/platforms-2020-specifications.pdf
+[https://vancouver.ca/files/cov/platforms-2020-specifications.pdf](https://vancouver.ca/files/cov/platforms-2020-specifications.pdf)
 
 
 
@@ -30,7 +30,7 @@ Drafting Table / Study Work Table (FREE)
 Drafting table / sturdy work table - free to first person who picks it up. 
 Table is a high quality Robotron Reiss model ZTF II. It is large (35" tall, 39" wide, 59" 
 long) and heavy. Please bring a truck or large van.
-Originally listed here: https://vancouver.craigslist.org/van/fuo/d/vancouver-large-table-4-
+Originally listed here: [https://vancouver.craigslist.org/van/fuo/d/vancouver-large-table-4-](https://vancouver.craigslist.org/van/fuo/d/vancouver-large-table-4-)
 stools/7117777795.html (listed for $100 but will give for free to first person who emails 
 ash@vandocument.com)
 

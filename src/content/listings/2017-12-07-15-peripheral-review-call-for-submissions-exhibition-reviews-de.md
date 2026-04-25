@@ -45,7 +45,7 @@ midnight EST on Friday December 15th, 2017.
 
 For more information visit: www.peripheralreview.com 
 
-Subscribe to our email list here: http://peripheralreview.us14.list-
+Subscribe to our email list here: [http://peripheralreview.us14.list-](http://peripheralreview.us14.list-)
 manage.com/subscribe?u=5e7cc645c7df3777b0ab1e716&id=25b94a47d5
 
 With all submissions please format according to the submission guidelines. For general 

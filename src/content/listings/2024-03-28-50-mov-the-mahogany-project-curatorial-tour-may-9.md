@@ -40,4 +40,4 @@ $25 General Admission
 
 $15 Seniors (65+), Students, Indigenous People & MOV Members
 
-https://museumofvancouver.ca/mahogany-curatorial-tour2
+[https://museumofvancouver.ca/mahogany-curatorial-tour2](https://museumofvancouver.ca/mahogany-curatorial-tour2)

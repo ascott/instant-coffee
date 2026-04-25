@@ -19,10 +19,10 @@ Session 2: Wed Feb 21, 4:30pm-9pm
 
 Session 3: Wed Feb 28, 4:30pm-9pm
 
-SIGN UP & MORE INFO: https://cinematography-devan-scott.eventbrite.ca
+SIGN UP & MORE INFO: [https://cinematography-devan-scott.eventbrite.ca](https://cinematography-devan-scott.eventbrite.ca)
 
 One extended subsidy is available for this workshop: 
-https://goo.gl/forms/4eplBq1KDSbJY6U53
+[https://goo.gl/forms/4eplBq1KDSbJY6U53](https://goo.gl/forms/4eplBq1KDSbJY6U53)
 
 Each session combines visual studies with hands-on studio experience. Youll 
 analyze how specific styles have developed over time, and how different 

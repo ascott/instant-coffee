@@ -16,6 +16,6 @@ exhibition, which shares a rich legacy of traditional weaving with the public an
 contemporary weavers.
 
 Free with museum admission. For more information visit:
-https://moa.ubc.ca/event/salish-weaving-fashion-show/
+[https://moa.ubc.ca/event/salish-weaving-fashion-show/](https://moa.ubc.ca/event/salish-weaving-fashion-show/)
 
 6393 NW Marine Dr, Vancouver, BC

@@ -20,5 +20,5 @@ Artist Fee: $3,000
 
 Details
 
-Please read the Artist Call for complete details: https://www.surrey.ca/arts-culture/public-
+Please read the Artist Call for complete details: [https://www.surrey.ca/arts-culture/public-](https://www.surrey.ca/arts-culture/public-)
 art/artist-calls-project-updates

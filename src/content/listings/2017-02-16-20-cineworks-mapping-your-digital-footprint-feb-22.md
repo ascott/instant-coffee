@@ -14,7 +14,7 @@ Presented by Open Media, IX Maps and Cineworks
 22 February 2017-Doors: 6.30pm; Event starts 7.00pm
 Cineworks Studio, 300, 1131 Howe Street (lane entrance), Vancouver
 FREE (Registration Required)
-REGISTER: http://bit.ly/2kUkR9v
+REGISTER: [http://bit.ly/2kUkR9v](http://bit.ly/2kUkR9v)
 
 In an era of draconian spying bills and eerily targeted Facebook ads, the time to 
 talk about our privacy is more than ripe. We need to take this issue into our own 

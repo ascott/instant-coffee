@@ -79,8 +79,8 @@ LOCATION: VANCOUVER ART GALLERY'S ZOOM PAGE
 PRICE:
 FREE
 
-MORE INFO: http://www.vanartgallery.bc.ca/events/art-connects-art-and-humour
-[http://s3-us-west-2.amazonaws.com/vagallery/wp-
+MORE INFO: [http://www.vanartgallery.bc.ca/events/art-connects-art-and-humour](http://www.vanartgallery.bc.ca/events/art-connects-art-and-humour)
+[[http://s3-us-west-2.amazonaws.com/vagallery/wp-](http://s3-us-west-2.amazonaws.com/vagallery/wp-)
 content/uploads/2020/03/27001659/Banner_ArtConnects_V2.jpg]
 
 Art Connects | Art and Humour

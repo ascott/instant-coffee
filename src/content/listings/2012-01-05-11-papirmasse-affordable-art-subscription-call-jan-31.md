@@ -22,4 +22,4 @@ Please spend some time on our website before applying to get a sense of
 our aesthetic.
 
 For full details, including word count, visit 
-http://papirmasse.com/art/2008/submissions
+[http://papirmasse.com/art/2008/submissions](http://papirmasse.com/art/2008/submissions)

@@ -24,5 +24,5 @@ The theme for the 2019 Canada Line Competition is "the Anthropocene."
 All entries are subject to a $25 fee paid at time of submission. The deadline to submit is 
 Tuesday, November 27 at 5pm. 
 
-More information: http://capturephotofest.com/open-call-king-edward-canada-line-
+More information: [http://capturephotofest.com/open-call-king-edward-canada-line-](http://capturephotofest.com/open-call-king-edward-canada-line-)
 station-public-art-competition/

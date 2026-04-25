@@ -76,6 +76,6 @@ Kingston, On | K7L 2X4
 613.548.4883
 info@modernfuel.org
 
-Facebook: https://www.facebook.com/ModernFuel/
-Twitter: https://twitter.com/ModernFuelARC
-Instagram: https://www.instagram.com/modernfuelarc/
+Facebook: [https://www.facebook.com/ModernFuel/](https://www.facebook.com/ModernFuel/)
+Twitter: [https://twitter.com/ModernFuelARC](https://twitter.com/ModernFuelARC)
+Instagram: [https://www.instagram.com/modernfuelarc/](https://www.instagram.com/modernfuelarc/)

@@ -42,4 +42,4 @@ ride away.
 
 For details and to apply visit:
 
-http://http://artscapegibraltarpoint.ca/programmed-reside
+[http://http://artscapegibraltarpoint.ca/programmed-reside](http://http://artscapegibraltarpoint.ca/programmed-reside)

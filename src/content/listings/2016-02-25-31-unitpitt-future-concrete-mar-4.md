@@ -36,7 +36,7 @@ desire, conflict and affect.
 
 Participating poets will also read at The Capilano Review's space, 281
 Industrial Avenue, on Thursday March 3, 7pm. Details at
-https://www.thecapilanoreview.ca/future-concrete-readings-future-soup/.
+[https://www.thecapilanoreview.ca/future-concrete-readings-future-soup/](https://www.thecapilanoreview.ca/future-concrete-readings-future-soup/).
 
 This exhibit is part a larger frame of programming during the year of the
 40th anniversary of the founding of the Helen Pitt Gallery, imagining the

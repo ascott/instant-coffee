@@ -13,7 +13,7 @@ grace-gallery is elated to present
 Andy Dixon
 How To Draw Everything
 opening thursday november 6th, 8pm
-http://www.facebook.com/event.php?eid=28283464294
+[http://www.facebook.com/event.php?eid=28283464294](http://www.facebook.com/event.php?eid=28283464294)
 
 www.grace-gallery.com
 

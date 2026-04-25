@@ -68,7 +68,7 @@ Access Gallery
 Vancouver, BC
 V6A 1Z7 Canada
 
-http://accessgallery.ca/
+[http://accessgallery.ca/](http://accessgallery.ca/)
 
 Ph: 604.689.2907
 E: access@vaarc.ca

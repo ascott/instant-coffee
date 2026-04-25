@@ -26,4 +26,4 @@ Curated by PoMoArts with the support of the City of Port Moody, Art Out Side wil
 creative marks across the city each year.
 
 Submit your application by May 21, 2025
-https://www.pomoarts.ca/artoutside
+[https://www.pomoarts.ca/artoutside](https://www.pomoarts.ca/artoutside)

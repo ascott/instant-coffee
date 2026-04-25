@@ -17,7 +17,7 @@ DJAVAD MOWAFAGHIAN CINEMA - SFU GOLDCORP CENTRE FOR THE ARTS
 A live cinema experience!
 
 For tickets and more details, click here:
-https://www.eventbrite.ca/e/hyperopia-tickets-706963716507
+[https://www.eventbrite.ca/e/hyperopia-tickets-706963716507](https://www.eventbrite.ca/e/hyperopia-tickets-706963716507)
 
 Hyperopia is inspired by the Crystalist artist movement in Sudan, whose 1976
 manifesto states, The crystal is nothing but the denial of the objectification of objects.

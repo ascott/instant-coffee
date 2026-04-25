@@ -37,4 +37,4 @@ daily!
 Unique experiential prizes from Germaine Koh, Neil Wedman, Sook-
 Yin Lee and more! 
 
-http://letsdance.orgallery.org
+[http://letsdance.orgallery.org](http://letsdance.orgallery.org)

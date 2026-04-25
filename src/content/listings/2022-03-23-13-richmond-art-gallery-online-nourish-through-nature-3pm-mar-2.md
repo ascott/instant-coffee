@@ -21,7 +21,7 @@ interconnectedness and sound mental health
 may be achieved, and its greater community impact.
 
 Registration is required. Register here:
-https://us02web.zoom.us/webinar/register/WN_ny4JgmbrRD2X2tWfj7DDmQ
+[https://us02web.zoom.us/webinar/register/WN_ny4JgmbrRD2X2tWfj7DDmQ](https://us02web.zoom.us/webinar/register/WN_ny4JgmbrRD2X2tWfj7DDmQ)
 
 Session Format:
 
@@ -48,7 +48,7 @@ to a post-egoic culture. She has co-edited three volumes on contemplative educat
 (State University of New York Press), one volume on ecological virtues (University of
 Regina Press), and has published over 80 journal articles and book chapters. Many of
 her academic publications can be downloaded from her SFU web depository here:
-http://summit.sfu.ca/collection/204
+[http://summit.sfu.ca/collection/204](http://summit.sfu.ca/collection/204)
 
 Denise Findlay is a bi-cultural person of Indigenous Coast Salish and settler ancestry,
 proudly belonging to the Skwxw7mesh xwumixw (Squamish Nation), who has

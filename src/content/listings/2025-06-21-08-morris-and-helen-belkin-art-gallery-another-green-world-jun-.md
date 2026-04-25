@@ -38,12 +38,12 @@ Province of British Columbia through the BC Arts Council, our Belkin Curators
 Forum members and our individual donors who financially support our acquisitions
 and donate artworks to the collection.
 
-https://belkin.ubc.ca/exhibitions/another-green-world/
+[https://belkin.ubc.ca/exhibitions/another-green-world/](https://belkin.ubc.ca/exhibitions/another-green-world/)
 For further information please contact: Jana Tyner at jana.tyner@ubc.ca,
 tel: (604) 822-1389, or fax: (604) 822-6689
 
 Morris and Helen Belkin Art Gallery
 1825 Main Mall, Vancouver, BC Canada V6T 1Z2
-http://www.belkin.ubc.ca | belkin.gallery@ubc.ca
+[http://www.belkin.ubc.ca](http://www.belkin.ubc.ca) | belkin.gallery@ubc.ca
 t: (604) 822-2759 f: (604) 822-6689
 Open 10-5 Tue-Fri, 12-5 Sat-Sun

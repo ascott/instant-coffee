@@ -50,7 +50,7 @@ He graduated from Emily Carr University of Art and Design in 2011
 
 Jay Yoon is a writer and curator currently studying Art History at UBC.
 
-http://www.yactac.com
+[http://www.yactac.com](http://www.yactac.com)
 yactacgallery@gmail.com
 Look us up on facebook and twitter.
 

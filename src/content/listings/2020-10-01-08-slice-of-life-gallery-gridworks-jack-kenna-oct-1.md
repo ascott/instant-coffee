@@ -36,4 +36,4 @@ Kennas second exhibition with the gallery.
 
 This event takes place with gratitude on the unceded traditional territory of the
 Musqueam, Squamish, and Tsleil-Waututh First Nations.
-http://sliceoflifevancouver.com
+[http://sliceoflifevancouver.com](http://sliceoflifevancouver.com)

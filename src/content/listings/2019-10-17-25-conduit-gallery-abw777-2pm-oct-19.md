@@ -34,8 +34,8 @@ different tables and table-styles that hold the stacks.
 Part of Vancouver Art Book Fair's Art Book Week. Art Book Week is a parallel series of
 events hosted in spaces across Vancouver by a variety of artists, curators, collectives and
 institutions who are actively creating and presenting work in this medium.
-https://www.facebook.com/events/367449477235325/
-https://www.facebook.com/events/336581730360629/
+[https://www.facebook.com/events/367449477235325/](https://www.facebook.com/events/367449477235325/)
+[https://www.facebook.com/events/336581730360629/](https://www.facebook.com/events/336581730360629/)
 
 Panel Discussion Moderated by Jairo Salazar:
 
@@ -60,7 +60,7 @@ United States and Colombia. His areas of expertise are modern and contemporary a
 currently teaches art history at Coquitlam College and collaborates as guest speaker for
 Mobil Art School.
 
-https://www.linkedin.com/in/jairosalazar/
+[https://www.linkedin.com/in/jairosalazar/](https://www.linkedin.com/in/jairosalazar/)
 
 
 About James K-M:
@@ -73,17 +73,17 @@ Amsterdam). In 2012 K-M was artist-in-residence at the Josef and Anni Albers Fou
 Bethany, Connecticut. In 2013, following a trip to Mexico City, he turned to sculpture. His
 2019 exhibitions include Farmacia at the 13th Havana Biennial and a solo exhibition
 Pyramids at Conduit Gallery.
-https://jameskm.wordpress.com/
+[https://jameskm.wordpress.com/](https://jameskm.wordpress.com/)
 
-http://www.massybooks.com/
-https://paperhound.ca/
-https://readbooks.ecuad.ca/
-http://spartacusbooks.net/
+[http://www.massybooks.com/](http://www.massybooks.com/)
+[https://paperhound.ca/](https://paperhound.ca/)
+[https://readbooks.ecuad.ca/](https://readbooks.ecuad.ca/)
+[http://spartacusbooks.net/](http://spartacusbooks.net/)
 
 Conduit Gallery is an artist-run project founded in 2018 and directed by Allison Watters. It
 provides a platform for early career and local artists whose work initiates abstract
 experiences through performance and installation.
-https://www.allisonwatters.com/
+[https://www.allisonwatters.com/](https://www.allisonwatters.com/)
 
 We gratefully acknowledge that VABF, ABW and our annual ac-
 tivities take place on the unceded Territories of the xwmkwy"m (Musqueam),

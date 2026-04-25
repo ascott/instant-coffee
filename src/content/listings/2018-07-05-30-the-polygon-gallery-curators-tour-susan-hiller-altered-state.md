@@ -14,7 +14,7 @@ Join curator Helga Pakasaar for a tour of Susan Hiller: Altered States. Learn ab
 perspective of the artist and the works in the exhibition during this unique opportunity. To attend 
 the tour, meet in the lobby at 1:55pm.
 
-https://thepolygon.ca/event/curators-tour/
+[https://thepolygon.ca/event/curators-tour/](https://thepolygon.ca/event/curators-tour/)
 
 thepolygon.ca
 

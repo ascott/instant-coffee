@@ -22,5 +22,5 @@ Organized and circulated by the Kelowna Art Gallery. Curated by Christine May.
 
 Supported by the British Columbia Arts Council and the Province of British Columbia.
 
-Register at: https://evergreenculturalcentre.my.salesforce-
+Register at: [https://evergreenculturalcentre.my.salesforce-](https://evergreenculturalcentre.my.salesforce-)
 sites.com/ticket/#/instances/a0FOK000002kdzh2AA

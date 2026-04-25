@@ -26,4 +26,4 @@ aims to incorporate Indigenous knowledge and ways of knowing into the practices 
 the institution, and redress historical and current practices that have centered Western
 learning and caused immense harm to Indigenous peoples.
 
-https://trk.cp20.com/click/ci00-2s1l8p-cya3o7-5kphixs9/
+[https://trk.cp20.com/click/ci00-2s1l8p-cya3o7-5kphixs9/](https://trk.cp20.com/click/ci00-2s1l8p-cya3o7-5kphixs9/)

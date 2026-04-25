@@ -45,4 +45,4 @@ mediates its imagery. These changes are not neutral, and the meanings they
 produce are central to the understanding of “art”  as a historical and
 colonial category.
 
-http://centrevox.ca/en/exposition/raymond-bois
+[http://centrevox.ca/en/exposition/raymond-bois](http://centrevox.ca/en/exposition/raymond-bois)

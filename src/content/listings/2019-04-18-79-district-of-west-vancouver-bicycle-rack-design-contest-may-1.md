@@ -12,4 +12,4 @@ Call to Artists: Bicycle Rack Design Contest
 
 District of West Vancouver; Deadline May 15
 
-https://westvancouver.ca/news/bicycle-rack-design-contest
+[https://westvancouver.ca/news/bicycle-rack-design-contest](https://westvancouver.ca/news/bicycle-rack-design-contest)

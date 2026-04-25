@@ -90,7 +90,7 @@ Emily Carr University Library
 
 Vancouver, BC V6H 3R9
 
-http://www.ecuad.ca/library
+[http://www.ecuad.ca/library](http://www.ecuad.ca/library)
 
-http://blogs.eciad.ca/artistbookcollection
-http://www.ecuad.ca
+[http://blogs.eciad.ca/artistbookcollection](http://blogs.eciad.ca/artistbookcollection)
+[http://www.ecuad.ca](http://www.ecuad.ca)

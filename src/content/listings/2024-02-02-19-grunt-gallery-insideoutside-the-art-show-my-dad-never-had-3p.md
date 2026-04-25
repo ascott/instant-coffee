@@ -14,7 +14,7 @@ Opening Reception: Saturday February 3rd, 3-5 pm
 At grunt gallery
 #116 - 350 East 2nd Ave, Vancouver
 
-Register Here: https://bit.ly/InsideOutsideReception
+Register Here: [https://bit.ly/InsideOutsideReception](https://bit.ly/InsideOutsideReception)
 
 Join us for a reading by Artist and Co-Curator Mercedes Eng of an excerpt from her
 book, Prison Industrial Complex Explodes, and then a following conversation with

@@ -32,7 +32,7 @@ $100 (sewing machine and materials included)
 
 *only 5 spots available*
 ---> SIGN UP HERE :
-https://liquidation-world.square.site/product/thong-workshop/228
+[https://liquidation-world.square.site/product/thong-workshop/228](https://liquidation-world.square.site/product/thong-workshop/228)
 
-Website: https://liquidworld.vision/
-Instagram: https://www.instagram.com/liquidationw0rld/
+Website: [https://liquidworld.vision/](https://liquidworld.vision/)
+Instagram: [https://www.instagram.com/liquidationw0rld/](https://www.instagram.com/liquidationw0rld/)

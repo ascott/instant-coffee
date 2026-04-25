@@ -12,4 +12,4 @@ In the first of series of videos introducing the artists of Third Realm, Curator
 Quadrio profiles Jompet Kuswidanto, Paola Pivi, and the Xijing Men collective, while
 delving into the multi-layered themes of the exhibition.
 
-Watch here: https://thepolygon.ca/news/reading-third-realm/
+Watch here: [https://thepolygon.ca/news/reading-third-realm/](https://thepolygon.ca/news/reading-third-realm/)

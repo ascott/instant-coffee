@@ -23,7 +23,7 @@ ceremonies not the laboratory
 6:30pm: Conversation between Kim Haxton and Sussan Yez
 7pm: Audience Q&A
 Please note this is an online event
-RSVP here: https://us02web.zoom.us/.../reg.../WN_b7HX9SmgRA-BYf3W2ujqQA
+RSVP here: [https://us02web.zoom.us/.../reg.../WN_b7HX9SmgRA-BYf3W2ujqQA](https://us02web.zoom.us/.../reg.../WN_b7HX9SmgRA-BYf3W2ujqQA)
 Sussan Yez is a mother, artist, and cultural facilitator of mixed Mapuche, Andean,
 German, Spanish, and English ancestries and a grateful guest on the unceded
 territories of the Swxw7mesh, slil"ilw"ta" and xwmkwy"m territories.

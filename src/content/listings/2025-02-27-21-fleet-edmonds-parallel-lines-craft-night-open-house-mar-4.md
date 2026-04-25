@@ -57,5 +57,5 @@ archives to her practice, taking a research-based approach to her work. She is
 currently inspired by questions about tactility, artifact, and society, and finds pleasure
 in working with materials as they respond to those questions.
 
-https://www.fleetstudios.org/program/visiting-artists-eilidh-keegan-henry-and-bahar-
+[https://www.fleetstudios.org/program/visiting-artists-eilidh-keegan-henry-and-bahar-](https://www.fleetstudios.org/program/visiting-artists-eilidh-keegan-henry-and-bahar-)
 vaghari-moghaddam

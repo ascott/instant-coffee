@@ -24,7 +24,7 @@ incentive to attend the whole festival or contribute funds to ensure its success
 When purchasing a VIMAF 2011 Festival Pass, use special code VIMAFVIP2011 
 to receive $10 off your $50 pass. 13 events!! Individual tickets ($10 per 
 screening) can be purchased at People's Coop Bookstore, W2 Media Cafe, or 
-online http://vimaf2011.eventbrite.com/
+online [http://vimaf2011.eventbrite.com/](http://vimaf2011.eventbrite.com/)
 
 More than any other program, VIMAF represents W2's values and reason for 
 being. I look forward to VIMAF's successful inaugural launch this week and to 
@@ -70,7 +70,7 @@ Download the VIMAF Festival Guide PDF
 Thursday Nov 10-13 | W2 Media Cafe, SFU Woodwards, NFB Pacific Region | 
 $50 Festival Pass | $10 individual screenings | By donation workshops | Children 
 Free | You can buy tickets online at:
-http://vimaf2011.eventbrite.com/ 
+[http://vimaf2011.eventbrite.com/](http://vimaf2011.eventbrite.com/) 
 
 Visit W2: Community Media Arts Vancouver BC at: 
-http://www.creativetechnology.org/?xg_source=msg_mes_network
+[http://www.creativetechnology.org/?xg_source=msg_mes_network](http://www.creativetechnology.org/?xg_source=msg_mes_network)

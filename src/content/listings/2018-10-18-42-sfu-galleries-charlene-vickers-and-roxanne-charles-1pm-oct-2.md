@@ -54,7 +54,7 @@ Bill Reid Gallery and Vancouver Art Gallery.
 Organized by Karina Irvine
 
 For more information on Charlene Vickers Speaking with Hands and Territories visit: 
-https://www.sfu.ca/galleries/sfu-gallery/SFU-gallery.html
+[https://www.sfu.ca/galleries/sfu-gallery/SFU-gallery.html](https://www.sfu.ca/galleries/sfu-gallery/SFU-gallery.html)
 
 Karina Irvine
 SFU Gallery Coordinator 

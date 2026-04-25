@@ -36,7 +36,7 @@ www.bookshopgallery.hotampress.com
 New gallery hours: Saturday and Sunday, 12 to 5 PM, 
 
 Video on Kegan's books is also viewable on YouTube:
-https://www.youtube.com/watch?v=VkeAsv1n-Ss
+[https://www.youtube.com/watch?v=VkeAsv1n-Ss](https://www.youtube.com/watch?v=VkeAsv1n-Ss)
 
 Artists reading Kegan's books:
-https://www.youtube.com/watch?v=GrArURnx75I&t=6s
+[https://www.youtube.com/watch?v=GrArURnx75I&t=6s](https://www.youtube.com/watch?v=GrArURnx75I&t=6s)

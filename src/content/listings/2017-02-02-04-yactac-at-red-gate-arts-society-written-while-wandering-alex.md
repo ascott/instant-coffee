@@ -18,5 +18,5 @@ New Works by Alex Pichler
 Yactac at Red Gate Arts Society
 855 E Hastings St, Vancouver, BC V6A 3Y1
 
-http://www.facebook.com/events/149288078896595/?active_tab=discussion
-http://www.yactac.com
+[http://www.facebook.com/events/149288078896595/?active_tab=discussion](http://www.facebook.com/events/149288078896595/?active_tab=discussion)
+[http://www.yactac.com](http://www.yactac.com)

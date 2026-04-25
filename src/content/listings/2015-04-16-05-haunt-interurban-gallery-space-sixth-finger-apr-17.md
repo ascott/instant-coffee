@@ -12,7 +12,7 @@ Sixth Finger
 
 APR 16-18
 Opening Reception: APR 17, 7-11 pm
-https://www.facebook.com/events/354187678113771/
+[https://www.facebook.com/events/354187678113771/](https://www.facebook.com/events/354187678113771/)
 
 Interurban Gallery space
 1 East Hastings Street, Vancouver.
@@ -36,7 +36,7 @@ six individuals’ respective drives to experiment through production.
 
 HAUNT is a non-profit arts platform that embraces inventive and transitory
 venues. We produce exhibitions, performances, special projects and public
-events in Western Canada and beyond. http://www.hauntgallery.ca
+events in Western Canada and beyond. [http://www.hauntgallery.ca](http://www.hauntgallery.ca)
 
 Alex Hill utilizes the medium of painting to explore concepts of erasure,
 subtraction, fragmentation, and collage in an attempt to discover an art

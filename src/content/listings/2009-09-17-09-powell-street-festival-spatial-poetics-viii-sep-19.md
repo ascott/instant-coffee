@@ -50,4 +50,4 @@ School. Check the PSF website for updates and locations.
 
 This is the final festival event for the 33rd Annual Powell Street Festival. More information at 
 
-http://www.powellstreetfestival.com
+[http://www.powellstreetfestival.com](http://www.powellstreetfestival.com)

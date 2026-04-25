@@ -71,4 +71,4 @@ booked in 20 minute time-slots for up to 10 visitors, last booking at 4:00 pm.
 Please note: a new temporary entrance is located at north east side of Cultural 
 Centre. We encourage all visitors to wear a face covering during their time inside 
 the art gallery. For more gallery visit protocols and Covid-19 safety precautions, 
-visit: https://www.richmondartgallery.org/reopen/
+visit: [https://www.richmondartgallery.org/reopen/](https://www.richmondartgallery.org/reopen/)

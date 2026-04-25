@@ -41,4 +41,4 @@ the book is published by DISTANZ (Berlin, August 2022).
 Light refreshments and snacks will be provided, and books will be available for sale at
 the event.
 
-Find out more and RSVP: https://bit.ly/3WVVJj4
+Find out more and RSVP: [https://bit.ly/3WVVJj4](https://bit.ly/3WVVJj4)

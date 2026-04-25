@@ -38,7 +38,7 @@ Curator Lorelei Pepi has crafted a special focus on the theme of Collaborative S
 suffuses much of this semesters line-up. Artists are capable of astounding acts of creativity, 
 and their ideas and energies are often amplified and transformed when working in crews, 
 ensembles and collectives. 
-https://www.ecuad.ca/calendar/artist-talk-flavourcel-collective
+[https://www.ecuad.ca/calendar/artist-talk-flavourcel-collective](https://www.ecuad.ca/calendar/artist-talk-flavourcel-collective)
 
 Flavourcel Animation Collective acknowledges this event takes place on the unceded 
 territories of the Musqueam, Squamish, and Tsleil-Waututh peoples.

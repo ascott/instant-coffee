@@ -19,17 +19,17 @@ family and kids welcome.
 
 6 to 8 pm, Aug 19, at the Vines Den, 825 East Hastings, Vancouver
 
-Registration is recommended: https://events.humanitix.com/building-a-better-world-
+Registration is recommended: [https://events.humanitix.com/building-a-better-world-](https://events.humanitix.com/building-a-better-world-)
 with-bds-a-hands-on-workshop
 
 This Freedom School event is held in conjunction with the exhibition Driving in
-Palestine https://drivinginpalestine.cargo.site/. All Freedom School events are free
+Palestine [https://drivinginpalestine.cargo.site/](https://drivinginpalestine.cargo.site/). All Freedom School events are free
 and by donation. Freedom School engages liberation praxis and community building
 in support of a free Palestine and all who advocate for justice in the face of settler
 colonialism, militarism, state violence and oppression in our shared and
 interconnected worlds.
 
-Explore all events in the series at https://events.humanitix.com/host/freedom-school-
+Explore all events in the series at [https://events.humanitix.com/host/freedom-school-](https://events.humanitix.com/host/freedom-school-)
 a-people-s-university.
 
 We encourage attendees to wear a mask as an act of care for those for whom this is

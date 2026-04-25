@@ -27,5 +27,5 @@ SHARE YOUR LOVE (working title)
  
 Email stories to info@colleenbaran.com with the subject line 'Share Your Love'.   DEADLINE MARCH 1ST for inclusion in upcoming show.
 
-More info http://seeseebe.blogspot.com/2008/01/donate-your-stories-of-love.html
-and the Love Letter Series http://www.colleenbaran.com/ll.htm
+More info [http://seeseebe.blogspot.com/2008/01/donate-your-stories-of-love.html](http://seeseebe.blogspot.com/2008/01/donate-your-stories-of-love.html)
+and the Love Letter Series [http://www.colleenbaran.com/ll.htm](http://www.colleenbaran.com/ll.htm)

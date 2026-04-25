@@ -16,14 +16,14 @@ Table light that will be illuminated with LEDs.
 
 Teaching artist Oliver Harwood.
 
-See his artist spotlight at https://nwssa.org/sculpture-northwest/artist-spotlight/1265-
+See his artist spotlight at [https://nwssa.org/sculpture-northwest/artist-spotlight/1265-](https://nwssa.org/sculpture-northwest/artist-spotlight/1265-)
 artist-spotlight-oliver-harwood
 
 Saturday and Sunday from 9:00-12:00, April 6th and 7th
 
 Form Association, 1739 Venables St. laneway entrance
 
-More details and registration at https://formassociation.com/
+More details and registration at [https://formassociation.com/](https://formassociation.com/)
 
 Complete the project on two weekend mornings in a fun group setting.
 

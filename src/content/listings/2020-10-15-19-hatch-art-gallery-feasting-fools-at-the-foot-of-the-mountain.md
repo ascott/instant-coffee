@@ -21,16 +21,16 @@ Fools at the Foot of the Mountain. This exhibition is taking place solely online
 our Instagram page, Facebook page, and our newly constructed official Hatch Art
 Gallery website.
 
-https://www.instagram.com/hatch_artgallery/
+[https://www.instagram.com/hatch_artgallery/](https://www.instagram.com/hatch_artgallery/)
 
-https://www.facebook.com/hatchgalleryubc
+[https://www.facebook.com/hatchgalleryubc](https://www.facebook.com/hatchgalleryubc)
 
 www.hatchartgallery.com
 
 Also
 join our Facebook event for live updates throughout the exhibition.
 
-https://fb.me/e/1zl8YptjQ
+[https://fb.me/e/1zl8YptjQ](https://fb.me/e/1zl8YptjQ)
 
 Exhibiting
 Artists

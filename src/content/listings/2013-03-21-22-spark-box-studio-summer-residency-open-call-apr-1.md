@@ -25,4 +25,4 @@ Spark Box Studio is now accepting Summer 2013 applications to its Artist
 Residency Program. Claim your spot today. Some spots are already 
 booked up. It all begins this summer.
 
-Learn more here: http://sparkboxstudio.com/residency/
+Learn more here: [http://sparkboxstudio.com/residency/](http://sparkboxstudio.com/residency/)

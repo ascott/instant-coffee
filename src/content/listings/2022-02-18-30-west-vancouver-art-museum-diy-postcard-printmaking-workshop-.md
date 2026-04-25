@@ -17,5 +17,5 @@ limited resources. The session
 will introduce methods of printmaking such as:
 additive/reductive monotype, trace printing, rubbings, and paper alteration. Please
 register to receive a link to this workshop.
-https://anc.ca.apm.activecommunities.com/westvanrec/activity/search/detail/116143?
+[https://anc.ca.apm.activecommunities.com/westvanrec/activity/search/detail/116143](https://anc.ca.apm.activecommunities.com/westvanrec/activity/search/detail/116143)?
 onlineSiteId=0&from_original_cui=true.

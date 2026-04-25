@@ -11,7 +11,7 @@ summary: "VIVO [ONLINE WORKSHOP] | Small File Media Aesthetics & Politics | MAR 
 Small File Media Aesthetics & Politics -- online workshop
 
 More info and sign up at:
-https://smallfilemedia.eventbrite.ca
+[https://smallfilemedia.eventbrite.ca](https://smallfilemedia.eventbrite.ca)
 
 Make beautiful low-bandwidth movies that stream with no damage to the planet, with Laura
 Marks and Radek Przedpelski of the Small File Media Festival.
@@ -47,7 +47,7 @@ Griffin Art Projects
 
 www.griffinartprojects.ca
 
-Zoom link: https://zoom.us/webinar/register/WN_hrqWM0MRRBu8dD5nejVwlA
+Zoom link: [https://zoom.us/webinar/register/WN_hrqWM0MRRBu8dD5nejVwlA](https://zoom.us/webinar/register/WN_hrqWM0MRRBu8dD5nejVwlA)
 
 Join four Canadian comic artists, illustrators and storytellers for a collaborative panel
 discussion exploring means of defining identities, retelling histories, creating cultures of

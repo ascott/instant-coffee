@@ -33,4 +33,4 @@ A special thanks to Sharona Franklin, Joji Fukushima, Dennis Ha, Aubin Kwon, Ale
 Marika Vandekraats, Julie Zhang for their help and support.
 
 Documentation will be available in the coming month at our website.
-https://www.vivomediaarts.com/programming/exhibition/second-spring
+[https://www.vivomediaarts.com/programming/exhibition/second-spring](https://www.vivomediaarts.com/programming/exhibition/second-spring)

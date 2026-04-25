@@ -10,7 +10,7 @@ summary: "VIVO [ONLINE WORKSHOP] | Colour"
 
 Correction with Devan Scott | OCT 6
 More info and sign up at:
-https://devanscott-colourcorrection.eventbrite.ca
+[https://devanscott-colourcorrection.eventbrite.ca](https://devanscott-colourcorrection.eventbrite.ca)
 
 Push the emotional tone of your moving images or match footage shot on different
 cameras, in this online workshop led by colourist Devan Scott.
@@ -27,4 +27,4 @@ This online workshop introduces you to the free colour correction software, Davi
 Resolve, a powerful tool which compliments the Black Cinema Cameras available for
 rent at VIVO. Learn how to use Resolve through practical demonstrations and hands-on
 exercises.
-http://https://devanscott-colourcorrection.eventbrite.ca
+[http://https://devanscott-colourcorrection.eventbrite.ca](http://https://devanscott-colourcorrection.eventbrite.ca)

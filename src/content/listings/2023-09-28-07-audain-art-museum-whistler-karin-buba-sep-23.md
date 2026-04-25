@@ -28,4 +28,4 @@ shadows that blur the line between reality and illusion.
 Karin Buba: Garden of Shadows offers viewers an immersive experience that
 challenges perceptions and invites contemplation. See it in Whistler this weekend.
 
-https://audainartmuseum.com/exhibitions/karin-bubas
+[https://audainartmuseum.com/exhibitions/karin-bubas](https://audainartmuseum.com/exhibitions/karin-bubas)

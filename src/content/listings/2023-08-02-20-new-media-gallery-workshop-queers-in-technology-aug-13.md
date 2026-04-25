@@ -22,7 +22,7 @@ Ages: 18+
 Cost: $20.00
 Course ID: 191431
 Registration Link:
-https://cityofnewwestminster.perfectmind.com/Contacts/BookMe4LandingPages/Class
+[https://cityofnewwestminster.perfectmind.com/Contacts/BookMe4LandingPages/Class](https://cityofnewwestminster.perfectmind.com/Contacts/BookMe4LandingPages/Class)
 ?widgetId=15f6af07-39c5-473e-b053-
 96653f77a406&redirectedFromEmbededMode=False&classId=13569026-ff5e-498c-
 9b15-472e29427d83&occurrenceDate=20230813

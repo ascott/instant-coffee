@@ -13,7 +13,7 @@ Intro to Ableton - workshop at VIVO Media Arts Centre
 4 sessions (12 hours): August 20th, 27th, September 3rd & 10th, 1-4 pm |
 $250 + GST Non-Members ; $200 + for VIVO Producer Membership (Extended) -
 Register via Eventbrite:
-https://www.eventbrite.ca/e/intro-to-ableton-tickets-26546836302
+[https://www.eventbrite.ca/e/intro-to-ableton-tickets-26546836302](https://www.eventbrite.ca/e/intro-to-ableton-tickets-26546836302)
 
 In this 4 hour seminar, Music Producers Alexandre Klinke and Anthony
 Traynor will give a comprehensive introduction into the potential of this

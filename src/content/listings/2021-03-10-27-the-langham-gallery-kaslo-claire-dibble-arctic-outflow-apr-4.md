@@ -28,4 +28,4 @@ imagining each stitch helping to mend the holes in the fabric of our planet. The
 marine rubbish serve not only as a pop of colour for visual interest, but also as a reminder
 that human impact is woven into every landscape, everywhere.
 
-To view a virtual tour of the exhibition, visit https://www.clairedibble.com/arcticoutflow
+To view a virtual tour of the exhibition, visit [https://www.clairedibble.com/arcticoutflow](https://www.clairedibble.com/arcticoutflow)

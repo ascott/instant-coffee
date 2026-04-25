@@ -21,4 +21,4 @@ hopefully its that with deconstruction comes the need to rebuild. The program ru
 roughly 70 minutes, with an intermission and an opportunity for discussion at the end. 
 Drinks and concession as well as complimentary popcorn will be on-hand.
 For full programs details visit:
-https://www.facebook.com/events/325143904840542/
+[https://www.facebook.com/events/325143904840542/](https://www.facebook.com/events/325143904840542/)

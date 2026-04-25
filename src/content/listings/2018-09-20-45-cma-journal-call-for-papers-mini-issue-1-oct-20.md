@@ -8,7 +8,7 @@ venue: "CMA Journal"
 summary: "CMA Journal | Call for Papers: Mini Issue #1 | OCT 20"
 ---
 
-Its All in the Movies (https://youtu.be/3RUw9yKC7Os)
+Its All in the Movies ([https://youtu.be/3RUw9yKC7Os](https://youtu.be/3RUw9yKC7Os))
 
 EXHIBITION DESIGN INFLUENCED BY CINEMA
 
@@ -94,7 +94,7 @@ Submissions are welcomed until October 20th 12: oo am PDT. Projects submitted af
 time will not be considered for review. 
 
 Please refer to the CMA Journal submission guidelines: 
-http://www.sfu.ca/cmajournal/submissions.html
+[http://www.sfu.ca/cmajournal/submissions.html](http://www.sfu.ca/cmajournal/submissions.html)
 
 Submissions to this mini-issue do not need to be filled via the online form. 
 

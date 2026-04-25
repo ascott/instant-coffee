@@ -24,7 +24,7 @@ EXCLUDED MEDIA: ivory, plaster, wax, reusable modeling compound, found
 objects, electronics, holography and other projected media, and fragile modeling
 media such as paper-mch and salt dough. Submit through this link:
 
-https://artists.ca/submissions/index
+[https://artists.ca/submissions/index](https://artists.ca/submissions/index)
 
 Prizes:
 First Place in Painting: $2,000 CA

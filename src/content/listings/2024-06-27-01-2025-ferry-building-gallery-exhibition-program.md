@@ -36,4 +36,4 @@ out to us at gallery@westvancouver.ca.
 
 For more information on how to submit to exhibit at the Ferry Building Gallery, and
 complete an application, please go to
-https://ferrybuildinggallery.ca/submissions/annual-call-entry.
+[https://ferrybuildinggallery.ca/submissions/annual-call-entry](https://ferrybuildinggallery.ca/submissions/annual-call-entry).

@@ -18,4 +18,4 @@ The Work of Repair: Redress & Repatriation at the Museum of Vancouver
 Deep-Seated Histories: Chairs from the Collection
 Future Makers: Chairs by New Designers
 
-https://museumofvancouver.ca/deep-seated-histories
+[https://museumofvancouver.ca/deep-seated-histories](https://museumofvancouver.ca/deep-seated-histories)

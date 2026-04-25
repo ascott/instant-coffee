@@ -33,4 +33,4 @@ Where: The iconic Pier and Shipyards in North Vancouver
 
 More about the festival: 
 www.tabestoonfest.ca
-https://www.facebook.com/events/2140521516161684/
+[https://www.facebook.com/events/2140521516161684/](https://www.facebook.com/events/2140521516161684/)

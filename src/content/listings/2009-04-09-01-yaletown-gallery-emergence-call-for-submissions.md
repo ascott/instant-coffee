@@ -36,7 +36,7 @@ dates that you would like to submit for and we will consider you
 accordingly.
 
 Please follow the Emergence link to submit.
-http://www.yaletowngallery.com/emergence/
+[http://www.yaletowngallery.com/emergence/](http://www.yaletowngallery.com/emergence/)
 
 We look forward to extending our connections as we are well on our way
 to creating a strong network of new artists and professionals.

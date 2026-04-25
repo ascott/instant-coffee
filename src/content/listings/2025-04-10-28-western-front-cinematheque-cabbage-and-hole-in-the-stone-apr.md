@@ -20,7 +20,7 @@ The Cinematheque, 1131 Howe St, Vancouver
 Admission:
 Tiered pricing ($0 - $15)
 
-https://thecinematheque.ca/films/2025/holly-marie-parnell
+[https://thecinematheque.ca/films/2025/holly-marie-parnell](https://thecinematheque.ca/films/2025/holly-marie-parnell)
 
 Western Front is pleased to present a screening by artist-in-residence Holly Marie
 Parnell at The Cinematheque, including her film Cabbage (2023) and a preview of

@@ -10,7 +10,7 @@ summary: "Mobil Art School | mobile drawing game app, EQ"
 
 ANNOUNCING:
 
-https://www.eqthegame.com/
+[https://www.eqthegame.com/](https://www.eqthegame.com/)
 
 Mobil Art School is pleased to announce the release of the mobile drawing game app, EQ.
 

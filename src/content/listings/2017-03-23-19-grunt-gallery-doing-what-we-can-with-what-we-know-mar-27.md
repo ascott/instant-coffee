@@ -56,6 +56,6 @@ This spring season, Vancouver Independent Archives offers a series of free publi
 screenings and community workshops that foreground local art and art history by 
 drawing on the archives of Vancouvers independent arts community.
 
-Full program details TBA at http://archivesweek.ca/
-https://www.facebook.com/events/173004623100617/
+Full program details TBA at [http://archivesweek.ca/](http://archivesweek.ca/)
+[https://www.facebook.com/events/173004623100617/](https://www.facebook.com/events/173004623100617/)
 Media Contact: Dan Pon, Archivist, grunt gallery: dan@grunt.ca, 604-875-9516

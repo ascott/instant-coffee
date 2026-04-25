@@ -27,4 +27,4 @@ This event is co-presented with the Vancouver Art Gallery in the context of its 
 exhibition, Vancouver Special: Ambivalent Pleasures. Read more about the library and 
 public program: 
 
-http://http://221a.ca/vancouver-special-ambivalent-pleasu
+[http://http://221a.ca/vancouver-special-ambivalent-pleasu](http://http://221a.ca/vancouver-special-ambivalent-pleasu)

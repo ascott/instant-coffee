@@ -12,7 +12,7 @@ Richmond Art Gallery Online Artist Salon with Mary Sui Yee Wong
 Wednesday, May 28, 2025
 12:00 PM - 1:00 PM
 
-Register: https://us02web.zoom.us/webinar/register/WN_C-
+Register: [https://us02web.zoom.us/webinar/register/WN_C-](https://us02web.zoom.us/webinar/register/WN_C-)
 uLTrQxRP2KT8tYwzXHOA
 
 Learn about the artistic journey of Montreal-based artist Mary Sui Yee Wong in this
@@ -61,5 +61,5 @@ Richmond Art Gallery's Artist Salon program features art professionals leading
 inspirational artist talks and professional development for visual artists each month
 from February to November. Programs are live-streamed via the Zoom platform or
 hosted in person. Past livestreams may be viewed as videos on the
-https://www.richmondartgallery.org/rag-at-home/ragathomevideo video page.
+[https://www.richmondartgallery.org/rag-at-home/ragathomevideo](https://www.richmondartgallery.org/rag-at-home/ragathomevideo) video page.
 www.richmondartgallery.org

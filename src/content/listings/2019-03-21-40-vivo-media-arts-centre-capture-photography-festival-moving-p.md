@@ -12,7 +12,7 @@ Moving Photo Remix
 Learn to animate photos using Photoshop with artist Josh Hite! 
 
 SIGN UP & MORE INFO:
-https://moving-photo-remix.eventbrite.ca
+[https://moving-photo-remix.eventbrite.ca](https://moving-photo-remix.eventbrite.ca)
 
 presented by Capture Photography Festival & VIVO Media Arts Centre
 
@@ -22,7 +22,7 @@ Session 1: Thu, Apr 4, 6pm-9pm
 Session 2: Fri, Apr 5, 6pm-9pm
 
 One extended subsidy for this workshop available:
-https://goo.gl/forms/Cd5Z1e5OI1ehx71m1
+[https://goo.gl/forms/Cd5Z1e5OI1ehx71m1](https://goo.gl/forms/Cd5Z1e5OI1ehx71m1)
 
 A fun and creative introduction to animating photos using Photoshop. 
 

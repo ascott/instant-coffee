@@ -45,4 +45,4 @@ and communicate Indigenous land rights, This Is An Emergency Broadcast
 expresses a voice from past broadcasts into the contemporary emergency of climate
 change and the rise of totalitarianism.
 
-https://belkin.ubc.ca/exhibitions/this-is-an-emergency-broadcast/
+[https://belkin.ubc.ca/exhibitions/this-is-an-emergency-broadcast/](https://belkin.ubc.ca/exhibitions/this-is-an-emergency-broadcast/)

@@ -30,4 +30,4 @@ The program is intended to provide artists and arts organizations with knowledge
 and skills relevant to pursuing a professional practice in the field of public art,
 performance, visual art and community arts.
 
-https://www.richmondartgallery.org/aaw-markets
+[https://www.richmondartgallery.org/aaw-markets](https://www.richmondartgallery.org/aaw-markets)

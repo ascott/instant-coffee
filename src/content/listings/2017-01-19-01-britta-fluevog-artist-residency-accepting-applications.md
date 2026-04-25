@@ -40,4 +40,4 @@ Samples of your work: 5-15 images or 10 minutes sound/ video/ 2000 words
 *** For any application over 3MB, please send links or file shares. Application & 
 questions can be sent to: fluevog.artist.residency@gmail.com
 
-http://brittafluevog.blogspot.de/2017/01/fluevog-artist-residency.html
+[http://brittafluevog.blogspot.de/2017/01/fluevog-artist-residency.html](http://brittafluevog.blogspot.de/2017/01/fluevog-artist-residency.html)

@@ -31,4 +31,4 @@ flavours.
 
 Berenstein has written for The Guardian, New Food Economy, and Vice Munchies.
 
-https://www.facebook.com/events/171961390405279/
+[https://www.facebook.com/events/171961390405279/](https://www.facebook.com/events/171961390405279/)

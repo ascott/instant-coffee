@@ -33,4 +33,4 @@ Review, the accompanying publication features original contributions by La Marre
 and the workshop participants, offering further insight into the ideas and processes
 that shaped the project.
 
-To learn more, visit https://westernfront.ca/events/craft-parlour
+To learn more, visit [https://westernfront.ca/events/craft-parlour](https://westernfront.ca/events/craft-parlour)

@@ -19,7 +19,7 @@ October 16th, 2014, UBC Robson Square Theatre
 
 Doors 6:00pm; Talk 6:30pm
 
-http://www.eventbrite.com/e/astra-taylor-the-future-of-creativity-tickets-13140546729
+[http://www.eventbrite.com/e/astra-taylor-the-future-of-creativity-tickets-13140546729](http://www.eventbrite.com/e/astra-taylor-the-future-of-creativity-tickets-13140546729)
 
 Astra Taylor, The People’s Platform: Taking Back Power and Culture in the
 Digital Age, drawing from her recent work on the nature of the digital
@@ -32,5 +32,5 @@ BitLit.com, Maggie Vail from cashmusic.org,Cinecoup and others tba.
 Sponsored by CreativeBC and the UBC Continuing Studies.
 
 For more information see our Facebook page at
-https://www.facebook.com/events/265765366950323/
+[https://www.facebook.com/events/265765366950323/](https://www.facebook.com/events/265765366950323/)
 Or contact martha@artistslegaloutreach.ca

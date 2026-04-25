@@ -19,14 +19,14 @@ Aug 22, 6 to 8:30 pm
 
 Vines Den, 825 E. Hastings
 
-Registration is recommended: https://events.humanitix.com/poetry-for-palestine-
+Registration is recommended: [https://events.humanitix.com/poetry-for-palestine-](https://events.humanitix.com/poetry-for-palestine-)
 82af5lut
 
 This Freedom School event is held in conjunction with the exhibition Driving in
-Palestine https://drivinginpalestine.cargo.site/. All Freedom School events are free
+Palestine [https://drivinginpalestine.cargo.site/](https://drivinginpalestine.cargo.site/). All Freedom School events are free
 and by donation.
 
-Explore all events in the series at https://events.humanitix.com/host/freedom-school-
+Explore all events in the series at [https://events.humanitix.com/host/freedom-school-](https://events.humanitix.com/host/freedom-school-)
 a-people-s-university.
 
 We encourage attendees to wear a mask as an act of care for those for whom this is

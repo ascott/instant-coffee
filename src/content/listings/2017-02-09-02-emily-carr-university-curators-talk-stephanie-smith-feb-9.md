@@ -39,4 +39,4 @@ by the Province of British Columbia's Creative Economy Strategy.
 
 Further Details: 
 
-http://221a.ca/ambivalent-pleasures-ecuad-lecture
+[http://221a.ca/ambivalent-pleasures-ecuad-lecture](http://221a.ca/ambivalent-pleasures-ecuad-lecture)

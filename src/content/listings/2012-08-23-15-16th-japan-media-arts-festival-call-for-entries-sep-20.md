@@ -39,7 +39,7 @@ The National Art Center, Tokyo from February 13 to 24, 2013.
 
 Please check the entry details on the official website below:
 
-http://j-mediaarts.jp/?locale=en
+[http://j-mediaarts.jp/?locale=en](http://j-mediaarts.jp/?locale=en)
 
 *Eligibility: Works must be completed or released between September 23,
 2011 and
@@ -54,7 +54,7 @@ Looking forward to your entry!
 Organizer:Japan Media Arts Festival Executive Committee
 
 Contact: jmaf@cgarts.or.jp
-Website: http://j-mediaarts.jp/
+Website: [http://j-mediaarts.jp/](http://j-mediaarts.jp/)
 Twitter: @JMediaArtsFes_e
 
 16. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing

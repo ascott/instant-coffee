@@ -67,9 +67,9 @@ Mr Vacation is Andrew Hood a Kamloops DJ who will open Pink Noise
 spinning some deep long beats from the likes of Brent Dancer, SFV Acid 
 and Anom Vitruv. 
 
-https://www.youtube.com/watch?v=IOwe0-OsyIo
-https://www.youtube.com/watch?v=esU0i7SbbpE
-https://www.youtube.com/watch?v=HZ0gyGadzA8
+[https://www.youtube.com/watch?v=IOwe0-OsyIo](https://www.youtube.com/watch?v=IOwe0-OsyIo)
+[https://www.youtube.com/watch?v=esU0i7SbbpE](https://www.youtube.com/watch?v=esU0i7SbbpE)
+[https://www.youtube.com/watch?v=HZ0gyGadzA8](https://www.youtube.com/watch?v=HZ0gyGadzA8)
 
 opening ceremony: pink smoke bomb (lighting a pink smoke bomb should 
 last 1 and a half minutes)
@@ -94,7 +94,7 @@ Joe Chylan and the Fucks Not Given
 This Kamloops band is Joe Chylan, not Bob Dylan. They are surf punk 
 hailing from leech beach in River City.
 
-http://youtu.be/zeR9LWY2Bfk
+[http://youtu.be/zeR9LWY2Bfk](http://youtu.be/zeR9LWY2Bfk)
 
 Week end TWO
 Friday, November 7, 9pm
@@ -129,7 +129,7 @@ Pink Erasers
 The Pink Erasers are a shoegazing grunge band from Kamloops. They are 
 soon to release taped recordings in late 2014.
 
-http://bollokscraftrecords.bandcamp.com/track/tba-may-8th-2
+[http://bollokscraftrecords.bandcamp.com/track/tba-may-8th-2](http://bollokscraftrecords.bandcamp.com/track/tba-may-8th-2)
 
 The Pink Lincolns 
 (Mitch Charron, Dan Colussi, Laura Piasta, Dave Pullmer and Jennifer 
@@ -141,6 +141,6 @@ between falling apart and falling into place. They come off as kind of lazy
 but do not doubt their capacity to legitimately shred. They call themselves 
 The Pink Lincolns and they come from Vancouver BC.
 
-https://thepinklincolns.bandcamp.com/releases
+[https://thepinklincolns.bandcamp.com/releases](https://thepinklincolns.bandcamp.com/releases)
 
-http://kagluminocity.wordpress.com/artists/instant-coffee/
+[http://kagluminocity.wordpress.com/artists/instant-coffee/](http://kagluminocity.wordpress.com/artists/instant-coffee/)

@@ -20,7 +20,7 @@ PERFORMANCE TIMES: Sept 6th at 9:20pm, Sept 8th at 1:00pm, Sept 9th at 5:20pm, S
 
 VENUE: Vancity Lab at The Cultch (1895 Venables St, Vancouver, BC V5L 2H6) 
 
-TICKETS: $15; available @ https://tickets.vancouverfringe.com/
+TICKETS: $15; available @ [https://tickets.vancouverfringe.com/](https://tickets.vancouverfringe.com/)
 
 """"""""""""""""""""""""""""""""""""""""
 """""""""""""

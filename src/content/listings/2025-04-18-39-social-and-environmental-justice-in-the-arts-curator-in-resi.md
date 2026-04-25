@@ -19,7 +19,7 @@ opportunity with your network, especially with those who may be interested or wh
 you believe would be a strong match for the role.
 
 Full details about the position, including application guidelines, can be found here:
-https://uwo.ca/visarts/ourresearch/CiR.html
+[https://uwo.ca/visarts/ourresearch/CiR.html](https://uwo.ca/visarts/ourresearch/CiR.html)
 
 Application deadline: May 15, 2025
 

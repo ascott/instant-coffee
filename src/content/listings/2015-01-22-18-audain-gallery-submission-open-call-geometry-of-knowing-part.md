@@ -31,4 +31,4 @@ The deadline for all works is January 28, 2015. The exhibition runs from
 March 19 - 28, 2015.
 
 MORE INFO:
-http://sfuopencall2015@gmail.com/
+[http://sfuopencall2015@gmail.com/](http://sfuopencall2015@gmail.com/)

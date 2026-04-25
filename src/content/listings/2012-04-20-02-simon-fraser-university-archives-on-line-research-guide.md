@@ -29,7 +29,7 @@ records of individual artists and arts-related organizations.
 The guide is available as a downloadable PDF on SFU Archives' 
 website.
 
-http://www.sfu.ca/archives/ap_index/research_guides.html
+[http://www.sfu.ca/archives/ap_index/research_guides.html](http://www.sfu.ca/archives/ap_index/research_guides.html)
 
 Regards,
 Paul Hebbard

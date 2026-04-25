@@ -32,4 +32,4 @@ Matriarchs in the Making looks at the centrality of the matriarchal tradition in
 family and Nation. This complex and colour-rich piece is dense with meaning and acts
 almost like a map or guide to the strong teachings and expectations in becoming a
 family matriarch. For more information about Platforms: Nine Places for Seeing,
-please visit https://vancouver.ca/platforms
+please visit [https://vancouver.ca/platforms](https://vancouver.ca/platforms)

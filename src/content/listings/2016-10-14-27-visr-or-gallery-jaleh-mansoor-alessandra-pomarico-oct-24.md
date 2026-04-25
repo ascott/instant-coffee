@@ -48,7 +48,7 @@ Mechanical Labour, on the entwinement of labor, value, and "bare life" in
 the work of Santiago Sierra and Claire Fontaine, among other contemporary
 practices that examine the limits of the human.
 
-http://arthistorypi.org/books/marshall-plan-modernism
+[http://arthistorypi.org/books/marshall-plan-modernism](http://arthistorypi.org/books/marshall-plan-modernism)
 
 Alessandra Pomarico - Registers and Affects of Opposition, Resistance and
 Revolution: Notes from the Global (Battle) Field

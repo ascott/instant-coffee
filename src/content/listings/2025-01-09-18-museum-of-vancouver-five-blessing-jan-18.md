@@ -26,4 +26,4 @@ First Performance: 1:00 PM
 Second Performance: 3:00 PM
 Your free RSVP also includes complimentary admission to the MOV galleries for the
 entire day!
-https://forms.gle/5bAtdfcQpELigjH37
+[https://forms.gle/5bAtdfcQpELigjH37](https://forms.gle/5bAtdfcQpELigjH37)

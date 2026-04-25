@@ -31,4 +31,4 @@ University in 2003 and currently maintains a studio and
 curatorial practice in Vancouver. She has exhibited in Canada 
 and the United States.
 Curated by Jessica Delorme
-http://blackandyellow.ca/
+[http://blackandyellow.ca/](http://blackandyellow.ca/)

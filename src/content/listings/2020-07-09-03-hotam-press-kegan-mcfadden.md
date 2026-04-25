@@ -43,4 +43,4 @@ New gallery hours: Saturday and Sunday, 12 to 5 PM,
 
 Video on Kegan's books is also viewable on YouTube:
 
-https://www.youtube.com/watch?v=ha4bJKMHuUo
+[https://www.youtube.com/watch?v=ha4bJKMHuUo](https://www.youtube.com/watch?v=ha4bJKMHuUo)

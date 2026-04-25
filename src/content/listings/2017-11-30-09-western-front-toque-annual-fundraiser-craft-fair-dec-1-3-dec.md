@@ -48,4 +48,4 @@ W. www.front.bc.ca
 
 Mark your calendars for TOQUE, Western Front's Annual Fundraiser & Craft Sale 
 December 1-3
-https://front.bc.ca/toque/
+[https://front.bc.ca/toque/](https://front.bc.ca/toque/)

@@ -15,7 +15,7 @@ Ignite your own visual storytelling style with cinematographer Devan
 Scott!
 
 SIGN UP & MORE INFO: 
-https://ways-of-seeing.eventbrite.ca
+[https://ways-of-seeing.eventbrite.ca](https://ways-of-seeing.eventbrite.ca)
 
 This multi-day workshop will enable you to make better use of your 
 camera and lighting gear to enrich your storytelling with a deepened 
@@ -29,4 +29,4 @@ Session 1: Sat Apr 20 12pm-6pm
 Session 2: Sun Apr 21, 12pm-6pm
 
 One extended subsidy for this workshop available:
-https://goo.gl/forms/7uDbqqvQE8xxiVno1
+[https://goo.gl/forms/7uDbqqvQE8xxiVno1](https://goo.gl/forms/7uDbqqvQE8xxiVno1)

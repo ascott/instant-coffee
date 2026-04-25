@@ -37,4 +37,4 @@ Czerny.
 
 ——————-
 
-http://other-projects.com/
+[http://other-projects.com/](http://other-projects.com/)

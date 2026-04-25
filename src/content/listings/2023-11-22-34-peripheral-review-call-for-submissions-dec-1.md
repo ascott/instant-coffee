@@ -18,7 +18,7 @@ in alternative practices or abilities.
 
 We are looking for completed first drafts and pitches for our upcoming Fall 2023
 submission deadline on Friday December 1, 2023. Read the full call at
-https://www.peripheralreview.com/contact-submissions/
+[https://www.peripheralreview.com/contact-submissions/](https://www.peripheralreview.com/contact-submissions/)
 
 All submissions and pitches should be sent to: submissions@peripheralreview.com
 
@@ -53,7 +53,7 @@ backgrounds or working in alternative practices and abilities, as well as priori
 content on emerging and underrepresented artists and spaces. To familiarize
 yourself with the content we publish, take a look at the
 archives section of our
-website: https://peripheralreview.com
+website: [https://peripheralreview.com](https://peripheralreview.com)
 
 In your submission please include:
 

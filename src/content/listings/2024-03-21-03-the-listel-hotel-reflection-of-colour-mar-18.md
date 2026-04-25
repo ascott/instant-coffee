@@ -20,4 +20,4 @@ The Listel Hotel Vancouver
 Vancouver, BC Canada
 
 COMPLIMENTARY TICKETS:
-https://www.showpass.com/reflection-of-colour-opening-reception/
+[https://www.showpass.com/reflection-of-colour-opening-reception/](https://www.showpass.com/reflection-of-colour-opening-reception/)

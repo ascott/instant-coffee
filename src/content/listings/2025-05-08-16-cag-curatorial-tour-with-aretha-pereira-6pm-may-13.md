@@ -17,4 +17,4 @@ exhibitions, CFGNY: Continuous Fractures Generating New Yields and Lindsay
 McIntyre: Distance Between Objects, Time Between Events. No advance registration
 required.
 
-https://cagvancouver.org/event/curatorial-tour-may-13-2025
+[https://cagvancouver.org/event/curatorial-tour-may-13-2025](https://cagvancouver.org/event/curatorial-tour-may-13-2025)

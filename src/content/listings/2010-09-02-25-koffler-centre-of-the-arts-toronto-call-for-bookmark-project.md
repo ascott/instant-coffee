@@ -18,7 +18,7 @@ into the thousands of books for sale at the 34th Annual Book Fair.
 
 The deadline is October 4, 2010, and I was wondering if you could share
 this opportunity through IC email lists. For full details and submission
-form: http://www.kofflerarts.org/Age/Event-Detail/?RecordID=144
+form: [http://www.kofflerarts.org/Age/Event-Detail/?RecordID=144](http://www.kofflerarts.org/Age/Event-Detail/?RecordID=144)
 
 Thank you in advance,
 Anisia Avram

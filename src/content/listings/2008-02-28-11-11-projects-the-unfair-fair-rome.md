@@ -33,7 +33,7 @@ Editor: Louise Garrett
 Catalogue and Exhibition Design: Wolfgang Berkowski
 Production: Athéna Panni
 
-For further info: +39 335 6693417 http://unfairfair.blogspot.com
+For further info: +39 335 6693417 [http://unfairfair.blogspot.com](http://unfairfair.blogspot.com)
 
 Saturday, 1 March Dead Lounge after party, Atelier35, Via Valpollicella 35. 
 www.myspace.com/deadlounge

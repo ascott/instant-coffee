@@ -17,11 +17,11 @@ Send to: Gail D. Whitter
 Unit 7 - 1735 Riverside Avenue
 Trail, B.C. V1R 3Z3
 
-All art will be posted on http://postcardreadings.blogspot.com
+All art will be posted on [http://postcardreadings.blogspot.com](http://postcardreadings.blogspot.com)
 
 Opening Night of Exhibit: Friday, October 16th ... 7:00-9:00 p.m.
 
-http://www.artscuttlebutt.com/gahlil/
-http://www.gaildwhitter.mosaicglobe.com/
-http://postcardreadings.blogspot.com/
-http://gahlilmailart.blogspot.com/
+[http://www.artscuttlebutt.com/gahlil/](http://www.artscuttlebutt.com/gahlil/)
+[http://www.gaildwhitter.mosaicglobe.com/](http://www.gaildwhitter.mosaicglobe.com/)
+[http://postcardreadings.blogspot.com/](http://postcardreadings.blogspot.com/)
+[http://gahlilmailart.blogspot.com/](http://gahlilmailart.blogspot.com/)

@@ -23,4 +23,4 @@ Departures every 15 minutes starting at 12PM, with the last departure at
 
 Starting Point: Access Gallery, 222 East Georgia Street
 
-http://pushfestival.ca/shows/do-you-see-what-i-mean/
+[http://pushfestival.ca/shows/do-you-see-what-i-mean/](http://pushfestival.ca/shows/do-you-see-what-i-mean/)

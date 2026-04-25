@@ -15,7 +15,7 @@ Thursday-Saturday March 14-16, 2024 | 8pm
 Post-show
 artist talkback March 15
 Scotiabank Dance Centre, 677 Davie St, Vancouver
-Info and tickets: https://thedancecentre.ca/event/arno-schuitemaker/
+Info and tickets: [https://thedancecentre.ca/event/arno-schuitemaker/](https://thedancecentre.ca/event/arno-schuitemaker/)
 
 Award-winning Dutch choreographer Arno Schuitemaker brings his mesmerizing work
 to Vancouver for the first time with If You Could See Me Now. A highly physical,

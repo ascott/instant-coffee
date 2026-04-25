@@ -22,7 +22,7 @@ come spend your summer in Berlin!
 
 Early bird price of €3999* (incl. VAT), ends April 20th.
 
-For more information, see the program here: http://schoolofma.org/programs/
+For more information, see the program here: [http://schoolofma.org/programs/](http://schoolofma.org/programs/)
 Questions? Please get in touch: info[at]schoolofma.org
 
 34. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing

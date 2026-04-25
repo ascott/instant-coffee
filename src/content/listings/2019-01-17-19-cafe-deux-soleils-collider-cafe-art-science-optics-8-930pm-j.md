@@ -11,8 +11,8 @@ summary: "Cafe Deux Soleils | Collider Cafe: Art. Science. Optics. | 8-930PM | J
 Collider Cafe: Art. Science. Optics.
 When: Wednesday, January 23, 8-9:30pm (doors open at 7:30pm)
 Where: Cafe Deux Soleils (2096 Commercial Drive, Vancouver, BC V5N 4B2)
-Event info: http://bit.ly/ArtSciOptics
-Website: https://curiositycollider.org/events/collider-cafe-art-science-optics/
+Event info: [http://bit.ly/ArtSciOptics](http://bit.ly/ArtSciOptics)
+Website: [https://curiositycollider.org/events/collider-cafe-art-science-optics/](https://curiositycollider.org/events/collider-cafe-art-science-optics/)
 
 From contemporary art to science illustration, is "seeing" really "believing"? Or is 
 there more to it than there seems? How can we explore the possibilities through art 

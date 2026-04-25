@@ -21,7 +21,7 @@ Alphabet/Lii Yiiboo Nayaapiwak lii Swer: L'Alfabet
 Di Michif (2010) by Julie Flett.
 
 Access to all of Audie's CAG Reads selections will be provided upon registration. To
-RSVP and for more information: https://cagvancouver.org/event/cag-reads-audie-
+RSVP and for more information: [https://cagvancouver.org/event/cag-reads-audie-](https://cagvancouver.org/event/cag-reads-audie-)
 murray
 
 Audie Murray is a visual artist, dreamer, and skin-stitcher. Her practice is informed by

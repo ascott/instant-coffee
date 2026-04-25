@@ -56,4 +56,4 @@ tel: (604) 822-3640.
 
 Morris and Helen Belkin Art Gallery, University of British Columbia. 1825
 Main Mall, Vancouver, B.C. Canada V6T 1Z2,
-http://belkin.ubc.ca
+[http://belkin.ubc.ca](http://belkin.ubc.ca)

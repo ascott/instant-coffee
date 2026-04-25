@@ -31,7 +31,7 @@ Interfaces and Modeling (SBIM), and Non-Photorealistic
 Animation and Rendering (NPAR), co-located with SIGGRAPH.
 
 For more details, visit our website:
-http://www.cl.cam.ac.uk/conference/cae-sbim-npar-
+[http://www.cl.cam.ac.uk/conference/cae-sbim-npar-](http://www.cl.cam.ac.uk/conference/cae-sbim-npar-)
 2011/CAe/Home
 
 Thank you
@@ -50,5 +50,5 @@ Simon Fraser University Surrey
 Surrey, BC V3T 0A3
 Phone: 778 782 7538
 Email: andres_wanner@sfu.ca
-http://www.siat.sfu.ca
+[http://www.siat.sfu.ca](http://www.siat.sfu.ca)
 - - - - - - - - - - - - - - - - - - - - - - - - - -

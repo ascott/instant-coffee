@@ -107,7 +107,7 @@ OPENING | Glass Box Project(s) | Gloaming by Michelle Weinstein | 2-7PM | OCT 1
 Gloaming new work by artist Michelle Weinstein at Glass Box Project(s)
 
 October 1st - November 7th (viewing by appointment via
-https://www.setarehyasan.net/glass-box-project)
+[https://www.setarehyasan.net/glass-box-project](https://www.setarehyasan.net/glass-box-project))
 
 Opening October 1st (everybody is welcome, please RSVP)
 

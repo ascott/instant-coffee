@@ -36,7 +36,7 @@ Spectrum Interview & Jacobsen's Organ
 ALSO
 featuring our fabulous MC
 Curtis Grahauer
-(of Weekend Leisure: http://www.weekendleisure.ca ) throughout the evening...
+(of Weekend Leisure: [http://www.weekendleisure.ca](http://www.weekendleisure.ca) ) throughout the evening...
 
 ... along w/ GORGEOUS CANDLELIGHT, DOOR PRIZES, RAFFLE DRAW, DELICIOUS
 SNACKS, BEVERAGES & Helen Pitt Gallery Artist-Run Centre Membership Drive!

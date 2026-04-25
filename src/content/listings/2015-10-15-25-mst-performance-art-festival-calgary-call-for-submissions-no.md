@@ -30,7 +30,7 @@ history please refer to mstfestival.org
 
 For a downloadable PDF detailing complete submission requirements click
 this link:
-http://mstfestival.org/wp-content/uploads/mst8.callforsubmissions2015.pdf
+[http://mstfestival.org/wp-content/uploads/mst8.callforsubmissions2015.pdf](http://mstfestival.org/wp-content/uploads/mst8.callforsubmissions2015.pdf)
 
 Any inquiries about the application or festival can be directed to:
 info@mstfestival.org

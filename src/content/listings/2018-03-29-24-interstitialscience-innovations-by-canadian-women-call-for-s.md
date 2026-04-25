@@ -12,7 +12,7 @@ Call for Submissions
 Interstitial: Science Innovations by Canadian Women
 Deadline: 06 April 2018
 Info and submission:
-https://curiositycollider.org/submission/interstitial-science-innovations-by-canadian-
+[https://curiositycollider.org/submission/interstitial-science-innovations-by-canadian-](https://curiositycollider.org/submission/interstitial-science-innovations-by-canadian-)
 women/
 
 Interstitial: Science Innovations by Canadian Women is an exhibition and events in 

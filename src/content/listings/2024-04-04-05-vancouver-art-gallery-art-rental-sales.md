@@ -22,7 +22,7 @@ committee, and applicants are notified as to the status of their submission with
 months of our submission deadline.
 
 This years call is open from April 2nd through April 30th, 2024. To learn more or to
-apply, please visit https://artrentalandsales.com/pages/submissions
+apply, please visit [https://artrentalandsales.com/pages/submissions](https://artrentalandsales.com/pages/submissions)
 
 Due to the volume of applications we receive, we kindly request no phone calls or in-
 person visits regarding the submission process.

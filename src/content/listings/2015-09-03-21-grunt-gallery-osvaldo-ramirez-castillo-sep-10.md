@@ -53,8 +53,8 @@ festival in Vancouver, BC. An essay written by Alexis Hranchuk will be
 available at the opening. The exhibition runs from September 11 –
 October 10, 2015.
 
-URL: http://grunt.ca/exhibitions/catastrophe-memory-reconciliation/
-Facebook Event: https://www.facebook.com/events/858445987585086/
+URL: [http://grunt.ca/exhibitions/catastrophe-memory-reconciliation/](http://grunt.ca/exhibitions/catastrophe-memory-reconciliation/)
+Facebook Event: [https://www.facebook.com/events/858445987585086/](https://www.facebook.com/events/858445987585086/)
 
 Artist Bio:
 

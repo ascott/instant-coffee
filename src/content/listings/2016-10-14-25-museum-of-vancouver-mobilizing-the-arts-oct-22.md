@@ -39,7 +39,7 @@ Holly Schmidt
 
 REGISTER ONLINE:
 Free registration available at:
-http://www.museumofvancouver.ca/programs/calendar. Please register to attend.
+[http://www.museumofvancouver.ca/programs/calendar](http://www.museumofvancouver.ca/programs/calendar). Please register to attend.
 
-http://mobilizingthearts.ca
-https://www.facebook.com/events/909811885818401/
+[http://mobilizingthearts.ca](http://mobilizingthearts.ca)
+[https://www.facebook.com/events/909811885818401/](https://www.facebook.com/events/909811885818401/)

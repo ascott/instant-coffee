@@ -12,7 +12,7 @@ VIVO |
 ON THE MOVE - CALL FOR PROPOSALS | 
 DEADLINE: JAN 15
 
-http://vivomediaarts.com/getinvolved/proposals
+[http://vivomediaarts.com/getinvolved/proposals](http://vivomediaarts.com/getinvolved/proposals)
 
 INTRO
 "After twenty years at 1965 Main Street, VIVO Media Arts Centre is 

@@ -22,7 +22,7 @@ We are interested in true stories. We are especially interested in
 true stories about things happening in Vancouver. 
 
 Submission details at 
-http://www.front.bc.ca/frontmagazine/submissions
+[http://www.front.bc.ca/frontmagazine/submissions](http://www.front.bc.ca/frontmagazine/submissions)
 Email submissions to frontmagazine@front.bc.ca
 Read Front Magazine free at zinio.com
 

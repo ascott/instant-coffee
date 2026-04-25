@@ -20,4 +20,4 @@ exhibition 'To the Dogs'.
 
 This event is in conjunction with the 2019 Capture Photography Festival.
 
-https://thepolygon.ca/event/artist-talk-with-john-divola/
+[https://thepolygon.ca/event/artist-talk-with-john-divola/](https://thepolygon.ca/event/artist-talk-with-john-divola/)

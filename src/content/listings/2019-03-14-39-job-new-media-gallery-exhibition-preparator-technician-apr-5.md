@@ -16,7 +16,7 @@ at the Anvil Centre.
 
 Deadline : April 5, 2019 
 Interviews: April 2019
-https://www.newwestcity.ca/database/files/library/Posting_2019_33_Exhibit_Preparator.
+[https://www.newwestcity.ca/database/files/library/Posting_2019_33_Exhibit_Preparator](https://www.newwestcity.ca/database/files/library/Posting_2019_33_Exhibit_Preparator).
 pdf
 
 We are hiring one auxiliary position to support the fabrication of complex exhibition 

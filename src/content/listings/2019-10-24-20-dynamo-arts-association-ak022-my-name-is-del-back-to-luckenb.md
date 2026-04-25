@@ -13,9 +13,9 @@ Incorporating thrifted country ballads into his interpretation of sampling, slid
 Western mythologies, Back to Luckenbach is art-country at its very finest.
 
 with support from:
-JSN: https://youtu.be/20o8rQnzQGc
+JSN: [https://youtu.be/20o8rQnzQGc](https://youtu.be/20o8rQnzQGc)
 painters not painting
-Snoozer: https://youtu.be/G_nUQmOwuRM?t=18
+Snoozer: [https://youtu.be/G_nUQmOwuRM?t=18](https://youtu.be/G_nUQmOwuRM?t=18)
 vape em if u got em boiz
 
 Personalized cassette tapes of Back to Luckenbach will be available for purchase at the

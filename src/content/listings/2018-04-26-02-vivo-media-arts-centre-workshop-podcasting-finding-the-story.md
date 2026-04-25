@@ -11,7 +11,7 @@ summary: "VIVO Media Arts Centre | WORKSHOP | Podcasting: Finding the Story | AP
 Podcasting: Finding the Story workshop
 co-produced by VIVO and SFU's School of Communication
 
-SIGN UP & MORE INFO: https://podcasting-vivo.eventbrite.ca
+SIGN UP & MORE INFO: [https://podcasting-vivo.eventbrite.ca](https://podcasting-vivo.eventbrite.ca)
 
 Learn radio reporting and audio storytelling in this podcasting primer with producer-
 journalists Madeline Taylor & Alex de Boer of UBC radio CiTR 101.9 FM!
@@ -27,4 +27,4 @@ production. Through hands on exercises, each student will work toward creating t
 episode of their new podcast series.
 
 One extended subsidy for this workshop available:
-https://goo.gl/forms/c8MWHwKMpGY6IXD93
+[https://goo.gl/forms/c8MWHwKMpGY6IXD93](https://goo.gl/forms/c8MWHwKMpGY6IXD93)

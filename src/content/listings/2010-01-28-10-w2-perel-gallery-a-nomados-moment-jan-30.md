@@ -26,7 +26,7 @@ Admission - 3 - 5$ sliding scale
 a celebratory evening, featuring Jaqueline Turner's new Nomados chapbook :
 The Ends of the Earth
 
-for more information click here : http://www.kswnet.org/
+for more information click here : [http://www.kswnet.org/](http://www.kswnet.org/)
 
 "Jacqueline Turner's work has long impressed with its fine wit and crisp
 sound textures. She has now gone to the ends of the earth. There, on the

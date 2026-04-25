@@ -18,7 +18,7 @@ Saturday, September 30, 1pm
 
 Griffin Art Projects
 
-http://griffinartprojects.ca/
+[http://griffinartprojects.ca/](http://griffinartprojects.ca/)
 
 In 2015, the National Truth and Reconciliation Commission recommended the
 establishment of a statutory holiday to honour and commemorate the history and
@@ -63,4 +63,4 @@ introduce Miriam and Graces pre-recorded talk, and relay any comments you might
 have for our presenters.
 
 To attend online, you must register for the live stream here:
-https://us06web.zoom.us/webinar/register/WN_THJ11GWeRZeBXYYxRPJXrw
+[https://us06web.zoom.us/webinar/register/WN_THJ11GWeRZeBXYYxRPJXrw](https://us06web.zoom.us/webinar/register/WN_THJ11GWeRZeBXYYxRPJXrw)

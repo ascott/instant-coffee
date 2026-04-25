@@ -34,4 +34,4 @@ Canadian galleries. She is currently preparing for a research and development tr
 New Zealand where she will be creating work about whales in the South Pacific. 
 
 *Please reference our website for updated hours of operation. Gallery viewing by 
-appointment is also welcome and encouraged. http://www.fiftyfifty.net
+appointment is also welcome and encouraged. [http://www.fiftyfifty.net](http://www.fiftyfifty.net)

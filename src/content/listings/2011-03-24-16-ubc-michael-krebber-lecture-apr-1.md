@@ -64,16 +64,16 @@ London Condom (2008).
 Directions: Irving K. Barber Learning Centre Map
 
 Artforum: Daniel Birnbaum on Michael Krebber - 
-http://artforum.com/inprint/id=9499
+[http://artforum.com/inprint/id=9499](http://artforum.com/inprint/id=9499)
 Contemporary Art Daily: Michael Krebber at Maureen Paley - 
-http://www.contemporaryartdaily.com/2011/02/michael-krebber-at-
+[http://www.contemporaryartdaily.com/2011/02/michael-krebber-at-](http://www.contemporaryartdaily.com/2011/02/michael-krebber-at-)
 maureen-paley/
 Notes on Looking: Krebber at Richard Telles - 
-http://notesonlooking.com/?p=1162
+[http://notesonlooking.com/?p=1162](http://notesonlooking.com/?p=1162)
 Contemporary Art Daily: Michael Krebber at Galerie Daniel Buchholz -
-http://www.contemporaryartdaily.com/2010/07/michael-krebber-at-
+[http://www.contemporaryartdaily.com/2010/07/michael-krebber-at-](http://www.contemporaryartdaily.com/2010/07/michael-krebber-at-)
 daniel-buchholz/
 
 The Distinguished Visiting Artist Program is made possible by the 
 generous support of the Rennie Collection.
-http://www.renniecollection.org/index.php
+[http://www.renniecollection.org/index.php](http://www.renniecollection.org/index.php)

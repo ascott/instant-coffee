@@ -31,7 +31,7 @@ For more information and for inquiries contact ArtsConnect at:
 
 To get more information on Pecha Kucha worldwide and to purchase tickets
 for PKN Coquitlam directly go to:
-http://www.pecha-kucha.org/night/coquitlam/
+[http://www.pecha-kucha.org/night/coquitlam/](http://www.pecha-kucha.org/night/coquitlam/)
 
 www.ArtsConnect.ca
 604-931-8255

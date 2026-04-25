@@ -26,7 +26,7 @@ Arts from the University of British Columbia and a Master of Arts in Studio Prac
 from the University of Leeds in England. Her work has been exhibited in Canada, the 
 United States, and the UK.
 
-http://www.janetwang.com/
+[http://www.janetwang.com/](http://www.janetwang.com/)
 
 Cartems Exhibition Series is a bi-monthly art show at our downtown location. The 
 exhibitions provide increased opportunities for emerging artists to showcase their 

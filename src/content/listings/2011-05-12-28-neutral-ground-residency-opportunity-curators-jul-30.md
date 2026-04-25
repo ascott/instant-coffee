@@ -18,7 +18,7 @@ All items to be negotiated on an individual basis.
 
 Assistance to Culturally Diverse Curators for Residencies in the 
 Visual Arts
-http://www.canadacouncil.ca
+[http://www.canadacouncil.ca](http://www.canadacouncil.ca)
 
 Neutral Ground
 Contemporary Art Forum
@@ -110,6 +110,6 @@ cyclists, to
 completely random strangers!
 
 Questions or Want to be involved? check out our blog: 
-http://papergirl-vancouver.blogspot.com/
+[http://papergirl-vancouver.blogspot.com/](http://papergirl-vancouver.blogspot.com/)
 
 Or email us at:PapergirlVAN@roundhouse.ca

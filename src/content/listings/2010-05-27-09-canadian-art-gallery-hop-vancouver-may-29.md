@@ -22,4 +22,4 @@ Check out the full schedule here www.canadianart.ca/vancouverhop/talks
 
 Highlight of the day | Special Screening and Reception | 6 - 9pm
 Vancouver premiere of the film Jean-Michel Basquiat: The Radiant Child
-Check out the film trailer here http://jean-michelbasquiattheradiantchild.com
+Check out the film trailer here [http://jean-michelbasquiattheradiantchild.com](http://jean-michelbasquiattheradiantchild.com)

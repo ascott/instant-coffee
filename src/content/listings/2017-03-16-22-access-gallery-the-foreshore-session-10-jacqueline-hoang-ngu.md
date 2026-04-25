@@ -63,4 +63,4 @@ West Vancouver Memorial Library. Dan manages the archive at grunt gallery and
 is currently conducting research on behalf of the Belkin Art Gallery and Geoffrey 
 Farmer's outdoor public art project Nothing Can Separate Us (When the Wheel 
 Turns Why Does a Pot Emerge?).
-http://gruntarchives.org/
+[http://gruntarchives.org/](http://gruntarchives.org/)

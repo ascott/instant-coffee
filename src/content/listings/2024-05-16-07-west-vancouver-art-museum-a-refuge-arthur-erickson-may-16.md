@@ -9,7 +9,7 @@ summary: "West Vancouver Art Museum | A Refuge: Arthur Erickson | MAY 16"
 ---
 
 Joi us for a curatorial tour of WVAMs current exhibition, A Refuge: Arthur Erickson:
-https://westvancouverartmuseum.ca/events
+[https://westvancouverartmuseum.ca/events](https://westvancouverartmuseum.ca/events)
 
 FREE, DROP-IN
 

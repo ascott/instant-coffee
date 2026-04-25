@@ -16,4 +16,4 @@ through the blocks to your creativity. This program is inspired by The Artists W
 Register for the FREE intros happening on Monday, Jan 8th (6:30pm) and/or
 Wednesday, Jan 10th (1:30pm). Limited space remaining.
 
-Learn more: https://9creativelives.com/classes/breathe-into-poetry-writing/drop-in/
+Learn more: [https://9creativelives.com/classes/breathe-into-poetry-writing/drop-in/](https://9creativelives.com/classes/breathe-into-poetry-writing/drop-in/)

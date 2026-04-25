@@ -20,5 +20,5 @@ All are welcome to the opening celebration on Friday, June 6, 6 to 8pm.
 
 -_-
 
-Please see http://bedroomkitchen.garden/ohce-echo or write
+Please see [http://bedroomkitchen.garden/ohce-echo](http://bedroomkitchen.garden/ohce-echo) or write
 itsjoycewielandthanks@gmail.com for more information. Its pronounced echo echo, ;)

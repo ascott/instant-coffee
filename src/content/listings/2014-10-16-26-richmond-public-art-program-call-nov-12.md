@@ -30,7 +30,7 @@ new initiative will help to foster for many years to come.
 All information on how to apply to this public art opportunity can be found 
 by downloading a PDF copy of the RFQ document from the Artist’s 
 Opportunities webpage:
-http://www.richmond.ca/culture/publicart/opportunities.htm
+[http://www.richmond.ca/culture/publicart/opportunities.htm](http://www.richmond.ca/culture/publicart/opportunities.htm)
 
 NOTE: An orientation and information session for the Storeys public art 
 opportunity will be held on:

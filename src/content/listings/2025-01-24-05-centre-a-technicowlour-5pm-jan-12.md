@@ -27,4 +27,4 @@ Opening night performance is free admission. The other three performances are pa
 what-you-choose tickets at $10/$20/$30.
 
 Tickets available here:
-https://www.zeffy.com/en-CA/ticketing/technicowlour
+[https://www.zeffy.com/en-CA/ticketing/technicowlour](https://www.zeffy.com/en-CA/ticketing/technicowlour)

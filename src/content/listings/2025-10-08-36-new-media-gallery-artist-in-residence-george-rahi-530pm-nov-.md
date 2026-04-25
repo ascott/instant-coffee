@@ -34,4 +34,4 @@ Hours:
 Thursday-Saturday, 10:00AM - 5:00PM
 Admission: Free
 
-https://www.newmediagallery.ca
+[https://www.newmediagallery.ca](https://www.newmediagallery.ca)

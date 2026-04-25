@@ -39,5 +39,5 @@ reproduction, facsimile, dj vu, likenesses, parallels and translations?
 Thank you Studioland for their support.
 
 "Because it's great, and we're Yactac!"
-http://yactac.com
-https://www.facebook.com/events/1365430610265550/
+[http://yactac.com](http://yactac.com)
+[https://www.facebook.com/events/1365430610265550/](https://www.facebook.com/events/1365430610265550/)

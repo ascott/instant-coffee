@@ -37,7 +37,7 @@ Founded in 1977, the Society has sponsored talks by such acclaimed artists
 and curators as Andy Warhol, Arthur Erickson, Germano Celant, Jessica 
 Stockholder, Omer Arbel, Wanda Koop, Rebecca Belmore, Stan Douglas and 
 many others. For more information about eligibility and how to apply, please 
-see the CASV website at http://www.casv.ca and click on the Emerging 
-Artist’s Prize link or http://submissions.casv.ca/
+see the CASV website at [http://www.casv.ca](http://www.casv.ca) and click on the Emerging 
+Artist’s Prize link or [http://submissions.casv.ca/](http://submissions.casv.ca/)
 
 MEDIA CONTACT: emergingartistsprize@casv.ca

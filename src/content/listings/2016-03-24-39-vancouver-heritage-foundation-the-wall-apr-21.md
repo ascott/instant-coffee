@@ -28,7 +28,7 @@ Heritage Foundation and CBC Radio-Canada, and produced in partnership with
 the City of Vancouver Public Art Program.
 
 Link to Call:
-http://www.vancouverheritagefoundation.org/special-projects/the-wall/
+[http://www.vancouverheritagefoundation.org/special-projects/the-wall/](http://www.vancouverheritagefoundation.org/special-projects/the-wall/)
 
 For additional information or questions, please email the Vancouver
 Heritage Foundation at

@@ -16,7 +16,7 @@ Griffin Art Projects
 
 1174 Welch St, North Vancouver, BC V7P 2R5
 
-http://griffinartprojects.ca/
+[http://griffinartprojects.ca/](http://griffinartprojects.ca/)
 
 Clint Burnham is the author of Pound @ Guantanamo (poetry, Talon, 2016), Smoke Show 
 (novel, Arsenal Pulp, 2005), and Airborne Photo (short stories, Anvil, 1999). His 

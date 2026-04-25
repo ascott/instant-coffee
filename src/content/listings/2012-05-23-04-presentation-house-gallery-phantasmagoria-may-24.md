@@ -51,4 +51,4 @@ Presentation House Gallery
 
 Wed to Sun 12:00 - 5:00 PM T +1 604 986 1351
 
-http://presentationhousegallery.org/
+[http://presentationhousegallery.org/](http://presentationhousegallery.org/)

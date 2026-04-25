@@ -43,10 +43,10 @@ We look forward to your company!
 Please email info@helenpittgallery.org for more information.
 
 Visit the Pitt online here:
-http://www.helenpittgallery.org
+[http://www.helenpittgallery.org](http://www.helenpittgallery.org)
 
 Visit our amazing temporary host organization here:
-http://www.221a.ca
+[http://www.221a.ca](http://www.221a.ca)
 
 --
 Helen Pitt Gallery Artist Run Centre

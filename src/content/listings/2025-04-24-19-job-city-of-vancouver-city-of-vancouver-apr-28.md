@@ -45,4 +45,4 @@ encouraged to apply. Accommodations will be provided upon request during the
 selection process.
 
 Full details and application link:
-https://jobs.vancouver.ca/job/Vancouver-Social-Planner-I-Brit-V6A-4K6/1283014100/
+[https://jobs.vancouver.ca/job/Vancouver-Social-Planner-I-Brit-V6A-4K6/1283014100/](https://jobs.vancouver.ca/job/Vancouver-Social-Planner-I-Brit-V6A-4K6/1283014100/)

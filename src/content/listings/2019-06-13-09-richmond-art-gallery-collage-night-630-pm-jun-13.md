@@ -18,7 +18,7 @@ the Art Gallery spaces for a fun art night. RAG programs staff will open their v
 collection of cool collage materials to lead a hands-on collage-making night for adults. 
 Free admission for ages 16+. All collage materials provided. Open to creative of all skill 
 levels. Limited seats, restricted to 30 participants. Register online 
-(https://www.eventbrite.ca/e/collage-night-at-the-gallery-tickets-59082808270)
+([https://www.eventbrite.ca/e/collage-night-at-the-gallery-tickets-59082808270](https://www.eventbrite.ca/e/collage-night-at-the-gallery-tickets-59082808270))
 
 Richmond Art Gallery
 

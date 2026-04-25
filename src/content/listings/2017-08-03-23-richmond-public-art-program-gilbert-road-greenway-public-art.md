@@ -38,7 +38,7 @@ Summer 2018
 For more information on how to apply, please download the PDF Document Terms of
 Reference for this artist call.
 
-http://www.richmond.ca/__shared/assets/Gilbert_Road_Greenway_Public_Art_Oppo
+[http://www.richmond.ca/__shared/assets/Gilbert_Road_Greenway_Public_Art_Oppo](http://www.richmond.ca/__shared/assets/Gilbert_Road_Greenway_Public_Art_Oppo)
 rtunity47934.pdf
 
 
@@ -50,7 +50,7 @@ We're looking to share our spacious Studio space with one person - preferably so
 in the field of Media / Design / Illustration.
 
 Please check CL for the Ad: 
-https://vancouver.craigslist.ca/van/off/d/425-charming-studio-in/6238744719.html
+[https://vancouver.craigslist.ca/van/off/d/425-charming-studio-in/6238744719.html](https://vancouver.craigslist.ca/van/off/d/425-charming-studio-in/6238744719.html)
 
 If you're interested, please email us at kunal@kunalsen.net and tell us about yourself! 
 We're looking for someone who is willing to sign a 1 year lease with us.

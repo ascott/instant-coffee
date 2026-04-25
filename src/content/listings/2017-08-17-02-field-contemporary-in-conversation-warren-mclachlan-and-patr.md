@@ -48,4 +48,4 @@ Philippines; an educational weeklong event that serves as a platform for cross-
 cultural exchange. In 2015, Cruz won the national title for the 17th annual RBC 
 Canadian Painting Competition.
 
-http://www.field-contemporary.com/death-valley-escapes1.html
+[http://www.field-contemporary.com/death-valley-escapes1.html](http://www.field-contemporary.com/death-valley-escapes1.html)

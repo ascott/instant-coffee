@@ -18,7 +18,7 @@ A Forum on New Futures.
 Thursday, November 19 at 4:30 PM PST via Zoom
 Free & Open to All
 
-Eventbrite Link: https://www.eventbrite.ca/e/critical-transformations-a-forum-on-new-
+Eventbrite Link: [https://www.eventbrite.ca/e/critical-transformations-a-forum-on-new-](https://www.eventbrite.ca/e/critical-transformations-a-forum-on-new-)
 futures-future-art-ecosystems-tickets-128205816047
 How can we radically rethink and realize different structures for the production,
 distribution and reception of contemporary art? Given the current interwoven status of
@@ -45,7 +45,7 @@ invites visionary artists, curators, activists, designers, architects, and arts 
 around the globe to discuss their work in creating groundbreaking new models for the
 arts sector.
 
-http://shumka.ecuad.ca
+[http://shumka.ecuad.ca](http://shumka.ecuad.ca)
 
 Shumka Centre for Creative Entrepreneurship
 

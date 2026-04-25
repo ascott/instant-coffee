@@ -44,4 +44,4 @@ This opportunity is open to professional Canadian Artists. The Terms of Referenc
 downloaded by clicking on the PDF link below:
 
 
-http://www.waterfrontoronto.ca/procurement
+[http://www.waterfrontoronto.ca/procurement](http://www.waterfrontoronto.ca/procurement)

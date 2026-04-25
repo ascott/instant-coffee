@@ -26,4 +26,4 @@ pensamientos en la frontera (andi icaza-largaespada).
 Moniker Press is a risograph publishing studio that works collaboratively with artists and 
 writers to produce small editions of books, zines and print ephemera. monikerpress.ca
 
-Directions + event details: https://www.facebook.com/events/349186602439359/
+Directions + event details: [https://www.facebook.com/events/349186602439359/](https://www.facebook.com/events/349186602439359/)

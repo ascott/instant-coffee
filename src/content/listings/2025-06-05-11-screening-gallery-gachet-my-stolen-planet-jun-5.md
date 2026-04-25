@@ -29,7 +29,7 @@ suffering from Alzheimer's, motivates her to fight against forgetting. In the fa
 well as in the lives of many others in Iran. This is a homemade history.
 
 Learn more and RSVP at gachet.org or
-here:https://form.jotform.com/251487796852273
+here:[https://form.jotform.com/251487796852273](https://form.jotform.com/251487796852273)
 
 Gallery Gachet is located in the Downtown Eastside of Vancouver on the unceded
 and occupied territories of the xmkwy"m (Musqueam), Skwxw7mesh

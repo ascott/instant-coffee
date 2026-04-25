@@ -13,7 +13,7 @@ May 10, 2025 | 8pm
 Artist Talk 7:15pm
 ANNEX (823 Seymour Street, 2nd floor)
 
-Info + Tickets: https://www.newmusic.org/events/slowpitchsound
+Info + Tickets: [https://www.newmusic.org/events/slowpitchsound](https://www.newmusic.org/events/slowpitchsound)
 
 Vancouver New Music presents Toronto-based SlowPitchSound (aka Cheldon
 Paterson), a celebrated turntable artist, composer, mentor and explorer of sound and

@@ -9,7 +9,7 @@ summary: "UNIT/PITT | Board Members and Committee Volunteers | JUL 3"
 ---
 
 UNIT/PITT is seeking board members and committee volunteers.
-https://www.unitpitt.ca/updates/call-for-board-2020/
+[https://www.unitpitt.ca/updates/call-for-board-2020/](https://www.unitpitt.ca/updates/call-for-board-2020/)
 
 UNIT/PITT Society for Art and Critical Awareness is a
 charitable non-profit artist-run

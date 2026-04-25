@@ -42,10 +42,10 @@ subject, or the like.
 calls home.
 
 See more on the installation by following us on Facebook @
-http://www.facebook.com/home.php#!/TrenchGallery
+[http://www.facebook.com/home.php#!/TrenchGallery](http://www.facebook.com/home.php#!/TrenchGallery)
 
 And featured in the Vancouver Sun@
-http://communities.canada.com/vancouversun/blogs/cultureseen/archive/2011/06/23/monomania-
+[http://communities.canada.com/vancouversun/blogs/cultureseen/archive/2011/06/23/monomania-](http://communities.canada.com/vancouversun/blogs/cultureseen/archive/2011/06/23/monomania-)
 vancouver-s-avant-garde-past-at-trench.aspx
 
 Trench is located at #102, 148 Alexander Street in Gastown.

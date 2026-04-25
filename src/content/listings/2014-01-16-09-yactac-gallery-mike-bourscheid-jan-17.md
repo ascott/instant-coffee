@@ -22,7 +22,7 @@ V5X3B7
 
 mikebourscheid.com
 
-http://www.yactac.com
+[http://www.yactac.com](http://www.yactac.com)
 yactacgallery@gmail.com
 Look us up on facebook and twitter.
 

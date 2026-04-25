@@ -8,7 +8,7 @@ venue: "SCREENING"
 summary: "SCREENING | SPARE ROOM | Los Angeles Plays Itself (PART 2: The city as... | APR 3"
 ---
 
-More info: http://spare-room.ca/cinema-room/
+More info: [http://spare-room.ca/cinema-room/](http://spare-room.ca/cinema-room/)
 
 2F / 222 E. Georgia
 

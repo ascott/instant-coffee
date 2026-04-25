@@ -46,6 +46,6 @@ Rent = $800 per month Includes Utilities and Wireless Internet
 
 Half months rent damage deposit required.  Month to Month.  Post dated Checks
 
-http://www.intermissionstudio.com/ 
+[http://www.intermissionstudio.com/](http://www.intermissionstudio.com/) 
 
 thank you

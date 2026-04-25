@@ -36,5 +36,5 @@ Center, Tokyo, Soap Factory, Minneapolis, Vox Populi, Philadelphia.
 This event is organized the week prior to the BRINK exhibition opening. Please 
 join us for the opening reception on February 24, 7:00 pm - 10:00 pm. 
 
-http://newmediagallery.ca
-https://www.facebook.com/events/1358385934228452/
+[http://newmediagallery.ca](http://newmediagallery.ca)
+[https://www.facebook.com/events/1358385934228452/](https://www.facebook.com/events/1358385934228452/)

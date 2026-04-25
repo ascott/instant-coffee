@@ -39,4 +39,4 @@ Thursday, July 19, 2012
 7pm
 Cineworks Annex 235 Alexander Street, Vancouver
 
-http://www.cineworks.ca/events/day/2012/07/19/
+[http://www.cineworks.ca/events/day/2012/07/19/](http://www.cineworks.ca/events/day/2012/07/19/)

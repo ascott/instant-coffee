@@ -14,4 +14,4 @@ collaboration between the artist and Heritage Abbotsford Society to strengthen
 community appreciation of local heritage through art (see Apply Now for examples of
 artforms and engagements). The residency runs from April " September, 2025.
 Interested applicants can apply using the online submission form at
-https://www.abbotsford.ca/artist-in-residence
+[https://www.abbotsford.ca/artist-in-residence](https://www.abbotsford.ca/artist-in-residence)

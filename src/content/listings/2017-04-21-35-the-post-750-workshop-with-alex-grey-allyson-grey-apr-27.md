@@ -32,4 +32,4 @@ addition, an assortment of snacks and refreshments will be provided.
 Pre-registration is required to reserve a spot in this workshop.
 Class size is limited to 40 attendees. 
 For inquiries and registration email: apparentevents@gmail.com
-Facebook event page: https://www.facebook.com/events/1791416007799814/
+Facebook event page: [https://www.facebook.com/events/1791416007799814/](https://www.facebook.com/events/1791416007799814/)

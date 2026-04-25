@@ -39,4 +39,4 @@ Various locations
 
 Website
 
-https://indiefest.ca
+[https://indiefest.ca](https://indiefest.ca)

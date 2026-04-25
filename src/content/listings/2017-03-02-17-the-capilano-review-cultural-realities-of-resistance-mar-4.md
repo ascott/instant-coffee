@@ -18,7 +18,7 @@ Martin presented by SFU Writer in Residence Program in partnership with The
 Capilano Review
 
 Suggested reading: (1970) Amilcar Cabral, "National Liberation and Culture"
-http://www.blackpast.org/1970-amilcar-cabral-national-liberation-and-culture
+[http://www.blackpast.org/1970-amilcar-cabral-national-liberation-and-culture](http://www.blackpast.org/1970-amilcar-cabral-national-liberation-and-culture)
 *light refreshments will be available 
 
 Originally from San Francisco, Tongo Eisen-Martin is a movement worker and 

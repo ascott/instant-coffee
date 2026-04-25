@@ -21,7 +21,7 @@ creative process and lead an activity where participants play with voice, form, 
 audience.
 
 Sign-ups will be necessary, and will be available on Zoom:
-https://us02web.zoom.us/meeting/register/tZMrfumvqj4sGt1BimtJqTmgdrx5hQri31FZ
+[https://us02web.zoom.us/meeting/register/tZMrfumvqj4sGt1BimtJqTmgdrx5hQri31FZ](https://us02web.zoom.us/meeting/register/tZMrfumvqj4sGt1BimtJqTmgdrx5hQri31FZ)
 
 Date: June 24, 2023
 Time: 1 " 3 PM PDT

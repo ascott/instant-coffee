@@ -28,4 +28,4 @@ soundscapes transport audiences with cinematography, mesmerizing storytelling, a
 energetic beats.
 
 Learn more about Luminocity here:
-https://luminocity.ca/
+[https://luminocity.ca/](https://luminocity.ca/)

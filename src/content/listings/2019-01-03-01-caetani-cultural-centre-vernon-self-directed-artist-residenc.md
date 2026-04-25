@@ -37,7 +37,7 @@ Sermoneta Room: from April 8th-April 30th. Anytime between November 1st 2019 and
 April 30th 2020.
 Bassiano Suite: available immediately.
 
-LEARN MORE + APPLY HERE: https://www.caetani.org/self-directed-residencies-for-
+LEARN MORE + APPLY HERE: [https://www.caetani.org/self-directed-residencies-for-](https://www.caetani.org/self-directed-residencies-for-)
 artists-and-writers/
 
 E-mail air@caetani.org with questions.

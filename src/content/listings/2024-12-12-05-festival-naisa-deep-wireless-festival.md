@@ -48,7 +48,7 @@ NAISA Gallery & Caf, 313 Highway 124, South River, ON
 
 Admission by Donation
 
-Info - https://naisa.ca/festivals/deep-wireless/installations/
+Info - [https://naisa.ca/festivals/deep-wireless/installations/](https://naisa.ca/festivals/deep-wireless/installations/)
 
 This interactive artwork explores the complexity of the natural world as it plays out
 beyond the limitations of human sensory perception. Tingley and her team take data
@@ -68,9 +68,9 @@ NAISA Gallery & Caf, 313 Highway 124, South River, ON
 
 Admission by Donation
 
-Info - https://naisa.ca/festivals/deep-wireless/performances/
+Info - [https://naisa.ca/festivals/deep-wireless/performances/](https://naisa.ca/festivals/deep-wireless/performances/)
 
-Broadcast - https://artsbirthday.net and https://naisa.ca/naisa-radio/
+Broadcast - [https://artsbirthday.net](https://artsbirthday.net) and [https://naisa.ca/naisa-radio/](https://naisa.ca/naisa-radio/)
 
 On January 17, come for some cake and listen to stories told by South River
 Seniors. Seniors in the local community have been gathering every Wednesday
@@ -92,9 +92,9 @@ NAISA Gallery
 
 Tickets - $12 (light meals available for in-person audiences for additional $8-9)
 
-Info - https://naisa.ca/festivals/deep-wireless/performances/
+Info - [https://naisa.ca/festivals/deep-wireless/performances/](https://naisa.ca/festivals/deep-wireless/performances/)
 
-Advance Registration - https://naisa.ca/purchase-tickets/
+Advance Registration - [https://naisa.ca/purchase-tickets/](https://naisa.ca/purchase-tickets/)
 
 Ben Donoghue will perform his piece Tree Frog (Sla-dai-aich) live using recorded
 interviews about a unique community radio initiative in BC. Tree Frog (Sla-dai-aich)
@@ -111,7 +111,7 @@ Olmstead Beach, Trout Lake, North Bay
 
 FREE Admission
 
-Info - https://icefollies.ca/
+Info - [https://icefollies.ca/](https://icefollies.ca/)
 
 The Near North Mobile Media Lab in North Bay is partnering with New Adventures in
 Sound Art (NAISA) in the presentation of
@@ -129,9 +129,9 @@ March 8, 1 to 3 pm
 
 $25 Registration Fee
 
-Info - https://naisa.ca/festivals/deep-wireless/workshops-talks/
+Info - [https://naisa.ca/festivals/deep-wireless/workshops-talks/](https://naisa.ca/festivals/deep-wireless/workshops-talks/)
 
-Advance Registration - https://naisa.ca/purchase-tickets/
+Advance Registration - [https://naisa.ca/purchase-tickets/](https://naisa.ca/purchase-tickets/)
 
 Jane Tingley will introduce the use of SHIFTR and Max to lead participants through
 the process of creating their own sound and media creations from tree data. The
@@ -142,7 +142,7 @@ Deep Wireless 19 Compilation Album
 
 Launching February 1, 2024
 
-Info - https://naisa.ca/media-archive/compactdiscs/
+Info - [https://naisa.ca/media-archive/compactdiscs/](https://naisa.ca/media-archive/compactdiscs/)
 
 The 19th
 edition of the Deep Wireless Compilation includes works that examine the
@@ -152,7 +152,7 @@ Van de ven, Andra McCartney, Matthew Driggs McMurray and Dann Disciglio.
 
 Radio Art and Sound Art on NAISA Radio
 
-Listen 24/7 on NAISA Radio - https://www.naisa.ca/naisa-radio/
+Listen 24/7 on NAISA Radio - [https://www.naisa.ca/naisa-radio/](https://www.naisa.ca/naisa-radio/)
 
 New Adventures in Sound Art broadcasts radio art and experimental sound art 24/7
 on its online audio stream NAISA Radio. Featured is Ears Have Eyes produced by

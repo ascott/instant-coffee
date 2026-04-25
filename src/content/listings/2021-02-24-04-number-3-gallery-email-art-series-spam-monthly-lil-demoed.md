@@ -15,7 +15,7 @@ Number 3 Gallery has asked invited artists to work collaboratively to create uni
 interactive email works. Through the link below, viewers can sign up to receive Number 3
 Gallery emails in order to view the upcoming projects.
 
-Subscription Link: https://www.number3gallery.com/
+Subscription Link: [https://www.number3gallery.com/](https://www.number3gallery.com/)
 
 LITTLE DEMOED
 Marisa Kriangwiwat Holmes plays music with Nick Short and Catalina Valenzuela to make

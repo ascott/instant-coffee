@@ -18,7 +18,7 @@ Free entry!
 
 More info:
 
-https://www.eventbrite.ca/e/reading-through-the-window-artist-qa-poetry-readings-and-zine-
+[https://www.eventbrite.ca/e/reading-through-the-window-artist-qa-poetry-readings-and-zine-](https://www.eventbrite.ca/e/reading-through-the-window-artist-qa-poetry-readings-and-zine-)
 making-tickets-1986495409244
 The "Window" refers to Joanna's unique way of designing her images and text around the
 windows she cuts out from her pages allows her to take advantage of a books sequentiality

@@ -17,7 +17,7 @@ Cineworks Annex, 235 Alexander Street (lane entrance)
 Eastside Culture Crawl Special Price: $20(+ taxes)
 Instructor: Jesse Andrewartha
 
-REGISTRATION: http://bit.ly/1LaXQBw
+REGISTRATION: [http://bit.ly/1LaXQBw](http://bit.ly/1LaXQBw)
 
 This workshop will provide hands-on experience with 16mm black and white film.
 
@@ -37,7 +37,7 @@ Victoria Drive, and the Waterfront and involves painters, jewelers,
 sculptors, furniture makers, weavers, potters, printmakers, photographers,
 glassblowers; from emerging artists to those internationally established.
 
-http://culturecrawl.ca/
+[http://culturecrawl.ca/](http://culturecrawl.ca/)
 
 Cineworks Independent Filmmakers Society (est.1980) is an artist-run
 production and exhibition centre that supports independent filmmakers and

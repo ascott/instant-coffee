@@ -21,7 +21,7 @@ held over Zoom.
 Ages 18+
 Saturdays, Apr 7 + Apr 14
 5:00 pm - 7:00 pm
-https://bit.ly/2Ndjvaw
+[https://bit.ly/2Ndjvaw](https://bit.ly/2Ndjvaw)
 Virtual - Zoom
 Registration Fee: $31.50 (2 Sessions)
 Kit: $63

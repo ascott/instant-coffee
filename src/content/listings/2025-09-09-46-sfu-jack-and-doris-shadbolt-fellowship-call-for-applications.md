@@ -21,4 +21,4 @@ Online Q&A info session on September 25 (Thu), 3-4pm on Zoom.
 
 Deadline to apply: October 20, 2025
 
-Details on https://www.sfu.ca/fass/research/scholars-in-residence/shadbolt-fellowship
+Details on [https://www.sfu.ca/fass/research/scholars-in-residence/shadbolt-fellowship](https://www.sfu.ca/fass/research/scholars-in-residence/shadbolt-fellowship)

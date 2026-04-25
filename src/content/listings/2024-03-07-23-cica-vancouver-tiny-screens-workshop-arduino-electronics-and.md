@@ -28,5 +28,5 @@ Time: 2 " 6 PM
 
 Tickets: $160
 
-Link: https://www.eventbrite.ca/e/tiny-screens-workshops-led-by-artist-ksawery-
+Link: [https://www.eventbrite.ca/e/tiny-screens-workshops-led-by-artist-ksawery-](https://www.eventbrite.ca/e/tiny-screens-workshops-led-by-artist-ksawery-)
 komputery-tickets-842121928357?aff=oddtdtcreator

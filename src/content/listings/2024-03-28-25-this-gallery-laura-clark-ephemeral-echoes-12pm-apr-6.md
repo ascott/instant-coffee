@@ -33,5 +33,5 @@ There
 will be an opening reception on Saturday, April 6 from noon to 4 pm. The artist
 will be in attendance.
 
-THIS Website: https://thisgallery.org/
-Artist website: https://www.lauraclark.ca/
+THIS Website: [https://thisgallery.org/](https://thisgallery.org/)
+Artist website: [https://www.lauraclark.ca/](https://www.lauraclark.ca/)

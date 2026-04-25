@@ -55,15 +55,15 @@ Edmonton, Alberta
 
 T5J 2C1
 
-www.youraga.ca <http://www.youraga.ca/>
+www.youraga.ca <[http://www.youraga.ca/](http://www.youraga.ca/)>
 
 Please note that only short-listed candidates will be contacted.
 
 Alison Bulloch
 Media Relations & Communications Coordinator
 
-<http://youraga.ca/emailsig/logo-sig.jpg>
+<[http://youraga.ca/emailsig/logo-sig.jpg](http://youraga.ca/emailsig/logo-sig.jpg)>
 T: 780.392.2468 begin_of_the_skype_highlighting 	     780.392.2468      end_of_the_skype_highlighting
 C: 780.819.9993 begin_of_the_skype_highlighting 	     780.819.9993      end_of_the_skype_highlighting
 F: 780.426.3105
-youraga.ca <http://www.youraga.ca/>
+youraga.ca <[http://www.youraga.ca/](http://www.youraga.ca/)>

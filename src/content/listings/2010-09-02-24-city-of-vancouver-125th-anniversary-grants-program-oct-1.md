@@ -53,10 +53,10 @@ Application forms and program guidelines are now available to download from
 the Cultural Services website for the upcoming October 1, 2010 deadline.
 
 * Small grants:
-http://vancouver.ca/commsvcs/cultural/gasp/grants/125small.htm
+[http://vancouver.ca/commsvcs/cultural/gasp/grants/125small.htm](http://vancouver.ca/commsvcs/cultural/gasp/grants/125small.htm)
 
 * Large Grants:
-http://vancouver.ca/commsvcs/cultural/gasp/grants/125large.htm
+[http://vancouver.ca/commsvcs/cultural/gasp/grants/125large.htm](http://vancouver.ca/commsvcs/cultural/gasp/grants/125large.htm)
 
 ---
 You are currently subscribed to vanculture as: vancouver@instantcoffee.org.

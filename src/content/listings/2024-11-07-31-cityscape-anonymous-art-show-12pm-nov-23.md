@@ -14,7 +14,7 @@ November 28 - December 15, 2024
 CityScape Community ArtSpace Gallery
 Artwork Sneak Preview in-Gallery Event: Saturday, November 23, 2024 | 12pm-4pm
 |
-https://northvanarts.ca/events-exhibitionFirst Generation exhibition opening
+[https://northvanarts.ca/events-exhibitionFirst](https://northvanarts.ca/events-exhibitionFirst) Generation exhibition opening
 reception:
 Novemeber 9th, 5-8pm
 The Gallery at Presentation House Theatre, North Vancouver

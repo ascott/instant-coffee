@@ -70,7 +70,7 @@ Biennale di Venezia; Descriptive Acts, SF MoMa, San Francisco; Our Magic
 Hour, Yokohama Triennial and The Way in which it Landed, Tate Britain, 
 London. This exhibition forms his Canadian debut.
 For more info visit: 
-http://www.contemporaryartgallery.ca/exhibitions/aurelien-froment-frobel-
+[http://www.contemporaryartgallery.ca/exhibitions/aurelien-froment-frobel-](http://www.contemporaryartgallery.ca/exhibitions/aurelien-froment-frobel-)
 frobeled/. 
 NOTES TO EDITORS: 
 1.	Public Events: Exhibition Opening & Public Programmes

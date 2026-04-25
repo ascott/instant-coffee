@@ -25,5 +25,5 @@ Join Su Ying Strang, for her online discussion of these and other related curato
 practices and projects, in her presentation, Working with Community this Saturday, July
 29 1pm - 2:30pm.
 
-More info: https://www.griffinartprojects.ca/events/live-from-the-studio-with-curator-in-
+More info: [https://www.griffinartprojects.ca/events/live-from-the-studio-with-curator-in-](https://www.griffinartprojects.ca/events/live-from-the-studio-with-curator-in-)
 residence-su-ying-strang

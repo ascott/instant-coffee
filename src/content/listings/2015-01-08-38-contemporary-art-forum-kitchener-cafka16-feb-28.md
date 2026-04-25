@@ -38,8 +38,8 @@ Please note: Proposals that rely on the physical characteristics of
 galleries (controlled lighting, low ceilings, hanging walls etc.) cannot be
 considered. For images of public spaces for possible project installations,
 please refer to CAFKA’s exhibition archive for examples from previous
-biennials at http://www.cafka.org/exhibitions or go to
-http://www.cafka.org/page/public-spaces-waterloo-region for a photo album
+biennials at [http://www.cafka.org/exhibitions](http://www.cafka.org/exhibitions) or go to
+[http://www.cafka.org/page/public-spaces-waterloo-region](http://www.cafka.org/page/public-spaces-waterloo-region) for a photo album
 of potential public spaces.
 
 CAFKA will not accept postal submissions of hard copy paper, CDs or slides.
@@ -109,7 +109,7 @@ T 519.744.5123
 
 cafka@cafka.org
 
-http://www.cafka.org
+[http://www.cafka.org](http://www.cafka.org)
 
 39. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.

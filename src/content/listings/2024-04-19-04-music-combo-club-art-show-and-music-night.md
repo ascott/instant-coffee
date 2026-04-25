@@ -69,7 +69,7 @@ expansive collection from breaks
 & 140 to techno, jungle, and drum & bass, this high-octane trio is primed to bring
 their unique flavour of bass
 
-https://on.soundcloud.com/qq9JPsQ9YJHg5bT38
+[https://on.soundcloud.com/qq9JPsQ9YJHg5bT38](https://on.soundcloud.com/qq9JPsQ9YJHg5bT38)
 
 the-passenger
 
@@ -85,13 +85,13 @@ this tune on vinyl.
 
 Example eh:
 
-https://youtu.be/V7wzAA2o1-w?si=Ec1Ukf0KbILkUMko
+[https://youtu.be/V7wzAA2o1-w?si=Ec1Ukf0KbILkUMko](https://youtu.be/V7wzAA2o1-w?si=Ec1Ukf0KbILkUMko)
 
 Example beeee:
 
-https://youtu.be/gFzE5e7xzA8?si=xKlkhWSsymudGmGy
+[https://youtu.be/gFzE5e7xzA8?si=xKlkhWSsymudGmGy](https://youtu.be/gFzE5e7xzA8?si=xKlkhWSsymudGmGy)
 
-https://the-passenger.bandcamp.com/
+[https://the-passenger.bandcamp.com/](https://the-passenger.bandcamp.com/)
 
 Vincent Parker
 
@@ -99,7 +99,7 @@ Live electronic performance that bridges between pop, psychedelic and electronic
 
 @ultravincent
 
-https://vincentparker.bandcamp.com/
+[https://vincentparker.bandcamp.com/](https://vincentparker.bandcamp.com/)
 
 Gen Air
 
@@ -108,7 +108,7 @@ dance music.
 
 Advanced tickets available:
 
-https://events.humanitix.com/combo-club-1
+[https://events.humanitix.com/combo-club-1](https://events.humanitix.com/combo-club-1)
 
 ABOUT COMBO CLUB:
 

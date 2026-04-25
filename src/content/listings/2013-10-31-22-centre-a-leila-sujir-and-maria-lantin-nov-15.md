@@ -54,7 +54,7 @@ November 15, 2013 – January 25, 2014
 Gallery Hours: Tuesdays – Saturdays, 11am – 6pm 
 Preview reception: Friday, November 15, 2013
 
-For information on public programs, please visit http://www.centrea.org.
+For information on public programs, please visit [http://www.centrea.org](http://www.centrea.org).
 
 About Centre A: Vancouver International Centre for Contemporary Asian Art
 Centre A is the only independent, not-for profit gallery dedicated to supporting 

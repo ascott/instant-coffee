@@ -46,5 +46,5 @@ the White Gaze with Christopher Cheung
 4:30-5pm " Live Music: Cantopop Performance with Stella & Johnathan
 Cost: Included with admission
 Register: Registration link here:
-https://chinesecanadianmuseum.ticketing.veevartapp.com/tickets/view/list/july-1-at-
+[https://chinesecanadianmuseum.ticketing.veevartapp.com/tickets/view/list/july-1-at-](https://chinesecanadianmuseum.ticketing.veevartapp.com/tickets/view/list/july-1-at-)
 the-museum

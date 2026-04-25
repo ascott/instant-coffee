@@ -127,4 +127,4 @@ thank all applicants, but only shortlisted candidates will be contacted.
 
 APPLICATION DEADLINE: Ongoing until filled.
 
-WEBSITE: http://www.vivomediaarts.com/
+WEBSITE: [http://www.vivomediaarts.com/](http://www.vivomediaarts.com/)

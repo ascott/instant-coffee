@@ -48,4 +48,4 @@ Sound Warning. Intermittant loud (prop) revolver shots in gallery and large
 hammers hitting metal.
 
 www.newmediagallery.ca
-https://www.facebook.com/events/210961939308488/
+[https://www.facebook.com/events/210961939308488/](https://www.facebook.com/events/210961939308488/)

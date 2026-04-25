@@ -79,9 +79,9 @@ Recent publications include Every Force Evolves a Form (Artspeak, 2012), and
 For Now, on Holly Wards Persistence of Vision, a critical essay in Jeff Derksens 
 After Euphoria (JRP Ringier Press, 2013).
 
-http://www.hollyward.org/
+[http://www.hollyward.org/](http://www.hollyward.org/)
 
-http://hollywardpavilion.blogspot.ca/
+[http://hollywardpavilion.blogspot.ca/](http://hollywardpavilion.blogspot.ca/)
 
 About the Foreshore
 The Foreshore is a collaborative pursuit and shared space between Access 

@@ -25,12 +25,12 @@ here www.flat-ripple.com
 Finally, you can view the commissioned artworks by Sara Ludy and 
 Rafael Rozendaal at the following links:
 
-Sara Ludy - http://www.bluedithersquare.com/
-Rafael Rozendaal - http://www.brokensev.com/
+Sara Ludy - [http://www.bluedithersquare.com/](http://www.bluedithersquare.com/)
+Rafael Rozendaal - [http://www.brokensev.com/](http://www.brokensev.com/)
 
 Hope to see you there for a drink!
 
 Nicolas Sassoon
-http://nicolassassoon.com/
-http://www.islandpavilion.org/
-http://www.w-a-l-l-p-a-p-e-r-s.net/
+[http://nicolassassoon.com/](http://nicolassassoon.com/)
+[http://www.islandpavilion.org/](http://www.islandpavilion.org/)
+[http://www.w-a-l-l-p-a-p-e-r-s.net/](http://www.w-a-l-l-p-a-p-e-r-s.net/)

@@ -15,7 +15,7 @@ Sunday July 12, 8pm
 You are cordially invited to a summertime potluck dinner on July 12 in a
 lovely Strathcona backyard, followed by an artist talk featuring Lauren
 Marsden.
-https://www.facebook.com/events/382873198573359/
+[https://www.facebook.com/events/382873198573359/](https://www.facebook.com/events/382873198573359/)
 
 Lauren Marsden, a Vancouver-based artist with Trinidadian roots, will be
 presenting an artist talk and a new series of media artworks called

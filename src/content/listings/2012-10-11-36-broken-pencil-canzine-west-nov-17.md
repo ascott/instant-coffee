@@ -22,4 +22,4 @@ $5 admission includes the fall issue of Broken Pencil Magazine
 
 For Canzine line-up visit
 the Canzine Website
-http://www.brokenpencil.com/canzine-vancouver
+[http://www.brokenpencil.com/canzine-vancouver](http://www.brokenpencil.com/canzine-vancouver)

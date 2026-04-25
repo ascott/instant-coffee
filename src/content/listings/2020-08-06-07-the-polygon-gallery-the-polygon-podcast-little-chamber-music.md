@@ -13,12 +13,12 @@ Little Chamber Music artistic director Mark Haney, and composer Rita Ueda about 
 upcoming musical program Human Shadow Etched in Stone. This one-time virtual
 chamber music concert takes place on Thursday, August 6 at 7pm PST.
 
-Listen here: https://bit.ly/3i85sxj
+Listen here: [https://bit.ly/3i85sxj](https://bit.ly/3i85sxj)
 
 Subscribe to The Polygon Podcast
 
-iTunes: https://apple.co/2RKtlAd
+iTunes: [https://apple.co/2RKtlAd](https://apple.co/2RKtlAd)
 
-Spotify: https://spoti.fi/2Vf7ItO
+Spotify: [https://spoti.fi/2Vf7ItO](https://spoti.fi/2Vf7ItO)
 
-Google: https://bit.ly/2wIur8f
+Google: [https://bit.ly/2wIur8f](https://bit.ly/2wIur8f)

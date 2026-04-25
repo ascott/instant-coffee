@@ -60,5 +60,5 @@ Art Gallery of Greater Victoria
 Victoria, BC V8V4P1
 t: 250 384 4171
 
-http://aggv.ca/definiciones
-http://aggv.ca/in-another-place
+[http://aggv.ca/definiciones](http://aggv.ca/definiciones)
+[http://aggv.ca/in-another-place](http://aggv.ca/in-another-place)

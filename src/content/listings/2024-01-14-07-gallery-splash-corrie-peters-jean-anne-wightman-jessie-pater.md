@@ -30,7 +30,7 @@ unceded land of the lk"n-speaking peoples. Her work has been supported by
 grants from The Canada Council for the Arts, Social Science and Humanities
 Research, as well as through residencies at the Santa Fe Art Institute and Salt Spring
 Arts Council. She also won the inaugural Salt Spring National Art Prize.
-https://corriepeters.ca/
+[https://corriepeters.ca/](https://corriepeters.ca/)
 @corrielpeters
 corrielp@gmail.com
 
@@ -64,4 +64,4 @@ jessiepatersonstudio@gmail.com
 Gallery Splash
 Esquimalt Town Square " 503 Park Place. Esquimalt, B.C.
 Township Community Arts
-https://www.townshiparts.org/gallery-splash.html
+[https://www.townshiparts.org/gallery-splash.html](https://www.townshiparts.org/gallery-splash.html)

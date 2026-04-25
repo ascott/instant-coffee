@@ -24,8 +24,8 @@ artist Eric Lowe and David Lin that investigates the complex relationships
 between abstract and everyday objects through site-specific installations
 and sculptural gestures.
 
-http://artlin.net/
+[http://artlin.net/](http://artlin.net/)
 
-http://ericlowe.net/
+[http://ericlowe.net/](http://ericlowe.net/)
 
 Contact ericjameslowe@gmail.com for private visits.

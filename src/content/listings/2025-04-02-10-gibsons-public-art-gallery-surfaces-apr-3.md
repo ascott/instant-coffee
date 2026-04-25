@@ -26,9 +26,9 @@ Carr University of Art & Design) and Capilano University. She holds an MA in His
 in Art from the University of Victoria, and a PDP (professional education degree)
 from Simon Fraser University.
 
-Artist website: https://www.dorothydoherty.net/
+Artist website: [https://www.dorothydoherty.net/](https://www.dorothydoherty.net/)
 Instagram: @dorothydohertyart
-Gibsons Art Gallery website: https://gpag.ca/
+Gibsons Art Gallery website: [https://gpag.ca/](https://gpag.ca/)
 
 This is a two person exhibition. The gallery is shared with artist Carolina Franzen.
 

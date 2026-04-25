@@ -24,4 +24,4 @@ Deadline for submissions:
 
 Thursday, August 24 at midnight.
 
-https://northvanarts.ca/events-exhibitions/call-for-artists-pushing-boundaries-2023/
+[https://northvanarts.ca/events-exhibitions/call-for-artists-pushing-boundaries-2023/](https://northvanarts.ca/events-exhibitions/call-for-artists-pushing-boundaries-2023/)

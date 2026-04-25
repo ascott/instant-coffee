@@ -10,7 +10,7 @@ summary: "MÌ | echo lost in mist | 7PM | JUL 25"
 
 We are hosting a group show, M-echo lost in mist, on the top floor of the Sun
 Tower,128 W Pender St W, Vancouver, BC V6B 1R8, from July 26th to August 8th.
-Admissions are free by appointment. https://www.eventbrite.ca/e/mi-echo-lost-in-
+Admissions are free by appointment. [https://www.eventbrite.ca/e/mi-echo-lost-in-](https://www.eventbrite.ca/e/mi-echo-lost-in-)
 mist-tickets-1468760174219?aff=oddtdtcreator
 The open reception night will be on July 25th, 7 pm-9 pm.
 

@@ -38,7 +38,7 @@ everything from books, magazines,
 zines and printed ephemera to digital, performative or
 other experimental forms of publication.
 
-Directions + event details: https://www.facebook.com/events/367449477235325/
-Fair Preview: https://www.facebook.com/events/458420968111411/
+Directions + event details: [https://www.facebook.com/events/367449477235325/](https://www.facebook.com/events/367449477235325/)
+Fair Preview: [https://www.facebook.com/events/458420968111411/](https://www.facebook.com/events/458420968111411/)
 
-Website: http://vancouverartbookfair.com/
+Website: [http://vancouverartbookfair.com/](http://vancouverartbookfair.com/)

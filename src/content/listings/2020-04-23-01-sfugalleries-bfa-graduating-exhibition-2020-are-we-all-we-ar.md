@@ -17,7 +17,7 @@ FOR THE HEALTH AND WELL-BEING OF OUR PUBLICS.
 ARE WE ALL WE ARE HAS BEEN RE-IMAGINED FOR INSTAGRAM AND CAN BE
 FOLLOWED HERE.
 
-https://www.instagram.com/sfugalleries
+[https://www.instagram.com/sfugalleries](https://www.instagram.com/sfugalleries)
 
 Aidan Branch,
 Rachel Chan, Ann Cheng, David Cheung, Josie Dawson-Whisker, Tiffany

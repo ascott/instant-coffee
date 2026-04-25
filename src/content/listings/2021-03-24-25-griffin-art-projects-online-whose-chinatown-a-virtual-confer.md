@@ -18,9 +18,9 @@ www.griffinartprojects.ca
 
 ONLINE REGISTRATION:
 
-DAY 1: http://bit.ly/2NK2vch
+DAY 1: [http://bit.ly/2NK2vch](http://bit.ly/2NK2vch)
 
-DAY 2: http://bit.ly/3pxCsDj
+DAY 2: [http://bit.ly/3pxCsDj](http://bit.ly/3pxCsDj)
 
 Griffin Art Projects is thrilled to present a weekend of collaborative panels and talks
 facilitated live over zoom in partnership with Centre A, The New Gallery and the Asian
@@ -53,4 +53,4 @@ AND COMMUNITY IN CALGARY CHINATOWN
 4:30 " 5:15 PM PST | CHATS & CHEWS
 
 Full event information including individual event descriptions available on our website:
-https://www.griffinartprojects.ca/events/visions-for-chinatown-a-panel-discussion
+[https://www.griffinartprojects.ca/events/visions-for-chinatown-a-panel-discussion](https://www.griffinartprojects.ca/events/visions-for-chinatown-a-panel-discussion)

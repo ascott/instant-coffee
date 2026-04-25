@@ -22,4 +22,4 @@ community happenings, installations, performance, exhibition, music
 etc. We got the space, send us your ideas.
 topdownbottomup.ca
 info@topdownbottomup.ca
-https://www.facebook.com/topdownbottomup
+[https://www.facebook.com/topdownbottomup](https://www.facebook.com/topdownbottomup)

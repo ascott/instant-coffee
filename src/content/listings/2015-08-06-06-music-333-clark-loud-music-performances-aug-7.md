@@ -29,7 +29,7 @@ expectations; this performance will likely be a bombastic one through their
 use of nuanced sound collages and brutal intensity. Peel the shellac off
 you brain with short bursts of grind noise and blast beats.
 wikipedia.org/wiki/John_Wiese
-https://sissyspacek.bandcamp.com
+[https://sissyspacek.bandcamp.com](https://sissyspacek.bandcamp.com)
 
 Mormon Crosses (Vancouver)
 
@@ -39,7 +39,7 @@ person Jesse Taylor’s contributions to the underground music scene in
 Vancouver are numerous, including his music projects Twin Crystals and
 Channels 3 and 4, as well as his recordings of countless artists on his
 label Night Prison.
-https://mormoncrosses.bandcamp.com
+[https://mormoncrosses.bandcamp.com](https://mormoncrosses.bandcamp.com)
 
 Rinse Dream (Vancouver)
 

@@ -16,4 +16,4 @@ writing. A podcast conversation between Apitchatpong and film and media curator,
 Cowan, to follow next week. October Rumbles will be available for a limited two week
 viewing online, until November 12.
 
-Watch here: https://thepolygon.ca/news/apichatpong-weerasethakul-october-rumbles/
+Watch here: [https://thepolygon.ca/news/apichatpong-weerasethakul-october-rumbles/](https://thepolygon.ca/news/apichatpong-weerasethakul-october-rumbles/)

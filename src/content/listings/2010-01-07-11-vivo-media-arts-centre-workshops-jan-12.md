@@ -102,4 +102,4 @@ modify the sound output from the speaker.
 
 To sign up email us at education@vivomediaarts.com or call 604.872.8337
 -- 
-<http://vivomediaarts.com/>
+<[http://vivomediaarts.com/](http://vivomediaarts.com/)>

@@ -19,4 +19,4 @@ found on the North Shore by Tuyttanat-Cease Wyss. The book is free to read digit
 printed copies forthcoming.
 
 View Parallels 01: A Strong Sense of Place here:
-https://thepolygon.ca/news/parallels-01-a-strong-sense-of-place/
+[https://thepolygon.ca/news/parallels-01-a-strong-sense-of-place/](https://thepolygon.ca/news/parallels-01-a-strong-sense-of-place/)

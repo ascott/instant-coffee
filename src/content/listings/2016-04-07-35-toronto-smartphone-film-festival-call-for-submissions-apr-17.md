@@ -17,11 +17,11 @@ backgrounds, with a platform to showcase their talent.
 Deadline: April 17
 Submission Fee: $10USD
 To submit please 
-visit:https://filmfreeway.com/festi.../TorontoSmartphoneFilmFestival or 
-https://www.withoutabox.com/03film/03t_fin/03t_fin_fest_01over.php?
+visit:[https://filmfreeway.com/festi.../TorontoSmartphoneFilmFestival](https://filmfreeway.com/festi.../TorontoSmartphoneFilmFestival) or 
+[https://www.withoutabox.com/03film/03t_fin/03t_fin_fest_01over.php](https://www.withoutabox.com/03film/03t_fin/03t_fin_fest_01over.php)?
 festival_id=13934
 
-For more information please visit: http://www.smartphonefilm.ca/
-https://www.facebook.com/smartphonefilm
+For more information please visit: [http://www.smartphonefilm.ca/](http://www.smartphonefilm.ca/)
+[https://www.facebook.com/smartphonefilm](https://www.facebook.com/smartphonefilm)
 
-https://twitter.com/smartphoneff
+[https://twitter.com/smartphoneff](https://twitter.com/smartphoneff)

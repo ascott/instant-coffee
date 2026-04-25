@@ -23,4 +23,4 @@ Groups and families are welcome to collaborate on making a shirt together!
 Use promo code ORANGE20 and get 20% off your tickets! Click here for more details
 and to buy your ticket.
 
-https://museumofvancouver.ca/workshop-with-shaina-stephens
+[https://museumofvancouver.ca/workshop-with-shaina-stephens](https://museumofvancouver.ca/workshop-with-shaina-stephens)

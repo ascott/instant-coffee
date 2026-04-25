@@ -13,4 +13,4 @@ processes that I have been working with recently. There are a few musical interl
 featured, as well as a two short video excerpts. I hope you enjoy this insight into my
 artwork, and perhaps take away some interesting nuggets.
 
-Here is a link on my website: https://emiliecrewe.com/Digital-Studio-Visit
+Here is a link on my website: [https://emiliecrewe.com/Digital-Studio-Visit](https://emiliecrewe.com/Digital-Studio-Visit)

@@ -20,7 +20,7 @@ soundscapes, Corus will guide attendees through deep listening and reflection,
 inviting them to connect with the emotional resonance of color, texture, and
 movement within the works.
 
-Register: https://www.eventbrite.ca/e/sound-bath-with-corus-at-cica-vancouver-
+Register: [https://www.eventbrite.ca/e/sound-bath-with-corus-at-cica-vancouver-](https://www.eventbrite.ca/e/sound-bath-with-corus-at-cica-vancouver-)
 tickets-1292050159809?aff=oddtdtcreator
 
 Date: April 12, 2025

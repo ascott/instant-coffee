@@ -26,4 +26,4 @@ University of New Mexico, and an Artist in Residence at Basement Films in New Me
 Currently, Linda lives in the agricultural area of Skagit County in Washington State.
 
 More Info:
-https://irisfilmcollective.com/post/611531038498390016/fading-landscapes-the-films-of-linda
+[https://irisfilmcollective.com/post/611531038498390016/fading-landscapes-the-films-of-linda](https://irisfilmcollective.com/post/611531038498390016/fading-landscapes-the-films-of-linda)

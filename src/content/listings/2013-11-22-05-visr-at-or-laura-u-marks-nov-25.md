@@ -30,8 +30,8 @@ Once a week on Monday evenings from 7-9 pm at the Or Gallery (555 Hamilton Stree
 
 Organized by the East Vancouver Young Hegelians – Chapter 13 
 
-The readings are up on our WordPress site: http://visrfreeschool.wordpress.com/
+The readings are up on our WordPress site: [http://visrfreeschool.wordpress.com/](http://visrfreeschool.wordpress.com/)
 
-Past seminars on Youtube: http://www.youtube.com/channel/UCK-Wfiov-HIfIJqpYbQoshg/videos
+Past seminars on Youtube: [http://www.youtube.com/channel/UCK-Wfiov-HIfIJqpYbQoshg/videos](http://www.youtube.com/channel/UCK-Wfiov-HIfIJqpYbQoshg/videos)
 
 Contact: visrvancouver@gmail.com

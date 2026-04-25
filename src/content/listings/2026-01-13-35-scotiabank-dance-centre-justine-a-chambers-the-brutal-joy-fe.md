@@ -13,7 +13,7 @@ The Dance Centre and PuSh International Performing Arts Festival present
 Justine A. Chambers: The Brutal Joy
 Thursday & Friday February 5 & 6, 2026 | 8pm
 Scotiabank Dance Centre, 677 Davie St, Vancouver
-Info and tickets: https://thedancecentre.ca/event/justine-a-chambers/
+Info and tickets: [https://thedancecentre.ca/event/justine-a-chambers/](https://thedancecentre.ca/event/justine-a-chambers/)
 
 The Brutal Joy unfurls Black line dancing and sartorial expression as intellectual discourse,
 reverie, and devotion to Black-living. Created by the acclaimed Vancouver-based

@@ -28,4 +28,4 @@ program in Spring 2021, and added to Video Outs distribution collection.
 
 Send your submission with the subject: Inter-Multi-Trans-LastName by February 28th,
 2021.
-https://www.vivomediaarts.com/news/video-out-call-submissions-inter-multi-trans
+[https://www.vivomediaarts.com/news/video-out-call-submissions-inter-multi-trans](https://www.vivomediaarts.com/news/video-out-call-submissions-inter-multi-trans)

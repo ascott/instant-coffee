@@ -44,5 +44,5 @@ workshops and creative experiments in urban agriculture.
 To get involved in Grow or take part in upcoming events contact Holly Schmidt at 
 hschmidt711@gmail.com or visit
 
-http://othersights.ca/
-http://www.grow-urbanagricultureproject.ca/
+[http://othersights.ca/](http://othersights.ca/)
+[http://www.grow-urbanagricultureproject.ca/](http://www.grow-urbanagricultureproject.ca/)

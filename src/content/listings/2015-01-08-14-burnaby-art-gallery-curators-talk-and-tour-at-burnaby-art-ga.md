@@ -27,4 +27,4 @@ This program is free and open to all ages. No registration required.
 
 Burnaby Art Gallery: 6344 Deer Lake Avenue, Burnaby, BC V5G 2J3 |
 604-297-4422 | gallery@burnaby.ca
-http://burnabyartgallery.ca
+[http://burnabyartgallery.ca](http://burnabyartgallery.ca)

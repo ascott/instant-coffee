@@ -15,9 +15,9 @@ Dates: Friday, Sept 13 at 7pm (screening + talkback) and
 Saturday Sept 14 at 3pm (screening + panel discussion)
 
 Location: Annex (823 Seymour Street, Vancouver, BC)
-Ticket link: https://herstoryvancouver.eventbrite.ca
-Facebook page: https://www.facebook.com/events/1360807077406525/
-Website: http://bit.ly/HerStoryWomenScientists
+Ticket link: [https://herstoryvancouver.eventbrite.ca](https://herstoryvancouver.eventbrite.ca)
+Facebook page: [https://www.facebook.com/events/1360807077406525/](https://www.facebook.com/events/1360807077406525/)
+Website: [http://bit.ly/HerStoryWomenScientists](http://bit.ly/HerStoryWomenScientists)
 
 Her Story: Canadian Women Scientists is a film series dedicated to sharing the stories of
 Canadian women scientists. Facilitated by Curiosity Collider, local filmmakers and Canadian
@@ -36,6 +36,6 @@ Armin Mortazavi featuring Samantha Baglot (collab scientist) and Irene Uchida [g
 Proceeds will be used to cover the cost of running this project, and to fund future Curiosity
 Collider events. Curiosity Collider is a registered BC non-profit organization.
 
-Find us: http://www.curiositycollider.org/
+Find us: [http://www.curiositycollider.org/](http://www.curiositycollider.org/)
 Follow us: @CCollider
-Like us: http://Facebook.com/CuriosityCollider
+Like us: [http://Facebook.com/CuriosityCollider](http://Facebook.com/CuriosityCollider)

@@ -21,5 +21,5 @@ Join us on June 23 at Beaumont Studios for exclusive shows, completely free.
 
 5:00pm-11:00pm
 
-Info and booking: https://www.alliancefrancaise.ca/community/event-rsvp/?
+Info and booking: [https://www.alliancefrancaise.ca/community/event-rsvp/](https://www.alliancefrancaise.ca/community/event-rsvp/)?
 event_id=610

@@ -54,7 +54,7 @@ and internationally for the past six years, Romain (Sprïng, We Just Stole A
 Car, Wintermitts) has developed a reputation as a versitile and creative
 improviser and is excited to debut this aggressive new avant-garde
 improvising group. Expect fast cymbal beats and gratuitous shred.
-https://soundcloud.com/kevin-romain/free-time-trio-in-studio-c
+[https://soundcloud.com/kevin-romain/free-time-trio-in-studio-c](https://soundcloud.com/kevin-romain/free-time-trio-in-studio-c)
 
 RRKKTTTSS | Equal parts sonic exploration and performance art, rrkktttss is
 the electro-acoustic project of Bill John Batt (eschatons, fake jazz,

@@ -42,7 +42,7 @@ Jeong Chung, Curatorial Assistant.
 OHCE-ECHO is a 55-square-foot project space at 1469 Venables, organized by
 Francesca Bennett as a commitment to artists, and an extension of research into
 independent, parallel, and artist-run spaces.
-http://bedroomkitchen.garden/ohce-echo
+[http://bedroomkitchen.garden/ohce-echo](http://bedroomkitchen.garden/ohce-echo)
 
 OHCE-ECHO is a small room on the
 wheelchair-accessible main floor of a building

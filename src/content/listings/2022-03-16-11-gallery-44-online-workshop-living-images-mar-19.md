@@ -30,4 +30,4 @@ feedback and reflective discussion during the second portion of the workshop.
 Complimentary readings and sources will be provided to participants before the
 workshop for further reflection.
 
-Register here: https://www.gallery44.org/events/living-images
+Register here: [https://www.gallery44.org/events/living-images](https://www.gallery44.org/events/living-images)

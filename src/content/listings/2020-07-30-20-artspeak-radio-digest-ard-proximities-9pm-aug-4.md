@@ -12,7 +12,7 @@ ARTSPEAK RADIO DIGEST: Proximities
 June 23"August 11, 2020
 Tuesdays, 9-10pm
 Vancouver Co-op Radio, 100.5FM
-http://www.coopradio.org/content/radio-player-canada
+[http://www.coopradio.org/content/radio-player-canada](http://www.coopradio.org/content/radio-player-canada)
 
 Hannah Jickling & Helen Reed, Steffanie Ling, Christina Battle, Steve Hubert, Sydney
 Hermant, dashes & Barbara Lzara, and more.

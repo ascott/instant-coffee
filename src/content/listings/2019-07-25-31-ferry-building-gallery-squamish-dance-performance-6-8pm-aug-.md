@@ -26,7 +26,7 @@ The workshop will take place in a large tent on the lawn just west of the galler
 Cost: $5 (material fee)
 
 Register at 604-925-7270 (course # 57916) or online at 
-https://ca.apm.activecommunities.com/westvanrec/Activity_Search/weave-a-cedar-bark-
+[https://ca.apm.activecommunities.com/westvanrec/Activity_Search/weave-a-cedar-bark-](https://ca.apm.activecommunities.com/westvanrec/Activity_Search/weave-a-cedar-bark-)
 bracelet/54882
 
 First Thursdays programming at the Ferry Building Gallery is generously sponsored by 

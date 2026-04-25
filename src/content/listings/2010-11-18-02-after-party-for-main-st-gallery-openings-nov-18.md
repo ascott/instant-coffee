@@ -31,26 +31,26 @@ role was to don an executioner¹s mask and give his bandmates mid-set
 massages), but the group¹s mix of loops, strings and horns was a beautiful
 mess of sounds.² ­ Quin Omori, Chart Attack
 
-http://www.myspace.com/ejaculationdeathrattle
-<http://www.myspace.com/ejaculationdeathrattle>
+[http://www.myspace.com/ejaculationdeathrattle](http://www.myspace.com/ejaculationdeathrattle)
+<[http://www.myspace.com/ejaculationdeathrattle](http://www.myspace.com/ejaculationdeathrattle)>
 
-http://www.soressa.com/
+[http://www.soressa.com/](http://www.soressa.com/)
 
 Pink Island (Lee Hutzulak, Dave Leith, Madoka Hara)
 
 mimimalist/electroacoustic/musique concrète
 
-http://www.myspace.com/pinkislandmusic
-<http://www.myspace.com/pinkislandmusic>
+[http://www.myspace.com/pinkislandmusic](http://www.myspace.com/pinkislandmusic)
+<[http://www.myspace.com/pinkislandmusic](http://www.myspace.com/pinkislandmusic)>
 
-http://www.youtube.com/watch?v=dwWkLQgThUI
-<http://www.youtube.com/watch?v=dwWkLQgThUI>
+[http://www.youtube.com/watch?v=dwWkLQgThUI](http://www.youtube.com/watch?v=dwWkLQgThUI)
+<[http://www.youtube.com/watch?v=dwWkLQgThUI](http://www.youtube.com/watch?v=dwWkLQgThUI)>
 
 Yellow Thief
 
 "Lightning Bolt meets Slayer meets Slint" - Ross Birdwise
 
-http://www.myspace.com/yellowthief <http://www.myspace.com/yellowthief>
+[http://www.myspace.com/yellowthief](http://www.myspace.com/yellowthief) <[http://www.myspace.com/yellowthief](http://www.myspace.com/yellowthief)>
 
 Nervous Operator
 
@@ -60,8 +60,8 @@ electronic noise. 4-track recorders. electronic motors. cell phone
 conversations. a reaction to the multiple layers of technological literacy
 demanded every day. creating structure out of anxiety produced chaos.
 
-http://www.transsubstantive.com/nervousoperator.html
-<http://www.transsubstantive.com/nervousoperator.html>
+[http://www.transsubstantive.com/nervousoperator.html](http://www.transsubstantive.com/nervousoperator.html)
+<[http://www.transsubstantive.com/nervousoperator.html](http://www.transsubstantive.com/nervousoperator.html)>
 
 and more TBA...
 
@@ -75,4 +75,4 @@ excellent selection of wine and beer from South Africa and British Columbia.
 The owner, Assefa, a chef, server and potter, will like to invite you to
 visit our new location.
 
-http://www.nyala.com/about/ <http://www.nyala.com/about/>
+[http://www.nyala.com/about/](http://www.nyala.com/about/) <[http://www.nyala.com/about/](http://www.nyala.com/about/)>

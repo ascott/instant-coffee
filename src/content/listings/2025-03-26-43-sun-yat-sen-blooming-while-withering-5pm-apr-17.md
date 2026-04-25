@@ -29,4 +29,4 @@ By reactivating and assembling these moments"of doubt, self-persuasion,
 perseverance, desperation, rebellion, surrender, reconciliation, and renewal"they are
 transformed to generate new meanings and possibilities.
 
-https://capturephotofest.com/exhibitions/blooming-while-withering/
+[https://capturephotofest.com/exhibitions/blooming-while-withering/](https://capturephotofest.com/exhibitions/blooming-while-withering/)

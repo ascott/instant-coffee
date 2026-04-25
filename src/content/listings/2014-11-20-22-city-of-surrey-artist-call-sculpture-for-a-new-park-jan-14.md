@@ -27,7 +27,7 @@ Shortlisted artists will be offered a design fee of $1,500.00 to develop
 their concepts in detail.
 
 For the full description of the project, go to:
-http://www.surrey.ca/files/1220-050-2015-001_-_Artist_Call_-_Hazelgrove_Park_Sculpture.pdf.
+[http://www.surrey.ca/files/1220-050-2015-001_-_Artist_Call_-_Hazelgrove_Park_Sculpture.pdf](http://www.surrey.ca/files/1220-050-2015-001_-_Artist_Call_-_Hazelgrove_Park_Sculpture.pdf).
 
 For questions regarding the submission requirements or process, contact the
 City of Surrey by email at purchasing@surrey.ca.

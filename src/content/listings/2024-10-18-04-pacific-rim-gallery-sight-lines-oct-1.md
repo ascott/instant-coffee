@@ -12,7 +12,7 @@ Presented by Equinox Gallery at the Pacific Rim Gallery
 Fairmont Pacific Rim (Pacific Rim Gallery)
 1038 Canada Place
 Vancouver BC V6C 0B9
-https://www.fairmontpacificrim.com/explore/pacific-gallery/
+[https://www.fairmontpacificrim.com/explore/pacific-gallery/](https://www.fairmontpacificrim.com/explore/pacific-gallery/)
 instagram @equinoxgallery @fairmontpacific
 
 Sight Lines: Works by Marten Elder, Erin McSavaney and Rene Van Halm

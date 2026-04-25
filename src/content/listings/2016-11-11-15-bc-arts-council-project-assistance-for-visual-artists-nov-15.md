@@ -37,4 +37,4 @@ consideration for funding.
 
 Postmark Deadline November 15 (but you don't have to wait!)... Results out in 
 March 2017.
-http://http://www.bcartscouncil.ca/guidelines/artists/vis
+[http://http://www.bcartscouncil.ca/guidelines/artists/vis](http://http://www.bcartscouncil.ca/guidelines/artists/vis)

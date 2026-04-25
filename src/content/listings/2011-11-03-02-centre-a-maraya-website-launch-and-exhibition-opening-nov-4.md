@@ -41,7 +41,7 @@ participation.
 
 For exhibition details, please visit:
 
-http://centrea.org/index.cfm?
+[http://centrea.org/index.cfm](http://centrea.org/index.cfm)?
 go=site.index&section=exhibitions&tag=upcoming&id=97
 
 Media Contact:

@@ -38,7 +38,7 @@ Hosted by Katy Slany & Zia Stolbie | @the.imaginals
 
 Tickets sliding scale $5-15
 
-Link for tickets: https://www.eventbrite.com/e/pleasure-portal-tickets-712616413877?
+Link for tickets: [https://www.eventbrite.com/e/pleasure-portal-tickets-712616413877](https://www.eventbrite.com/e/pleasure-portal-tickets-712616413877)?
 utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-
 term=listing&utm-source=cp&aff=ebdsshcopyurl
 *Pay what you can - yet no one will be turned away for lack of funds. In the case of

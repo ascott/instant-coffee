@@ -15,4 +15,4 @@ Mobil Art School, 268 Keefer Street, Vancouver, BC, Canada
 Join us for a fun drink and draw, make some art, meet people, and maybe start a 
 drawing revolution. Facilitated by the legendary Neil Wedman. 
 $10
-https://www.mobil-art.ca/event-info/drink-draw-saturday-july-6-2019
+[https://www.mobil-art.ca/event-info/drink-draw-saturday-july-6-2019](https://www.mobil-art.ca/event-info/drink-draw-saturday-july-6-2019)

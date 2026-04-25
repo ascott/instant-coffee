@@ -72,7 +72,7 @@ practices in the arts. With a rich history that spans over forty years,
 ARCs have had a significant impact on the cultural ecology in Canada and
 around the world.
 
-Festival website: http://paarc.ca/swarm16/
+Festival website: [http://paarc.ca/swarm16/](http://paarc.ca/swarm16/)
 
 Cineworks Independent Filmmakers Society (est.1980) is an artist-run
 production and exhibition centre that supports independent filmmakers and

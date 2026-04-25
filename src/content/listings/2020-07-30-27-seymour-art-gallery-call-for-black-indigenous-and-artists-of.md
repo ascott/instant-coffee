@@ -65,7 +65,7 @@ and should include a value for insurance purposes. Seymour Art Gallery will reta
 any works (or orders) sold; revenues support our non-profit art gallerys exhibitions and
 programs.
 
-Apply online, here: https://www.seymourartgallery.com/exhibitions/calls-for-artists/
+Apply online, here: [https://www.seymourartgallery.com/exhibitions/calls-for-artists/](https://www.seymourartgallery.com/exhibitions/calls-for-artists/)
 
 Application checklist:
 " 3-10 images, along with title, medium, dimensions, and price (or insurance value if NFS)

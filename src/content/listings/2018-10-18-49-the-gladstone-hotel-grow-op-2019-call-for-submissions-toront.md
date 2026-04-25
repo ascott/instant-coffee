@@ -33,4 +33,4 @@ and habitat through installation, sculpture, performance, digital
 media and more to create a provocative, experiential exhibition.
 
 Full information can be found here:
-https://www.gladstonehotel.com/Grow-Op-2019-Call
+[https://www.gladstonehotel.com/Grow-Op-2019-Call](https://www.gladstonehotel.com/Grow-Op-2019-Call)

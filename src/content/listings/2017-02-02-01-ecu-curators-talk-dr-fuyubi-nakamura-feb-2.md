@@ -60,7 +60,7 @@ University of Art and Design, presented in partnership with the Vancouver Art
 Gallery and 221A. The series is associated with the exhibition Vancouver 
 Special: Ambivalent Pleasures and supported by the Province of British 
 Columbia's Creative Economy Strategy. Further Details: 
-http://221a.ca/vancouver-special-ambivalent-pleasures-library-and-public-program
+[http://221a.ca/vancouver-special-ambivalent-pleasures-library-and-public-program](http://221a.ca/vancouver-special-ambivalent-pleasures-library-and-public-program)
 
 Emily Carr University of Art + Design
 1399 Johnston Street

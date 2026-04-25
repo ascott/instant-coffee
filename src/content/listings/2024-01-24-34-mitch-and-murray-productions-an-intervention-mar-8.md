@@ -28,7 +28,7 @@ Post-Show Talkback: Friday, March 15
 
 Tickets: $15-$35 | Available online at mitchandmurrayproductions.com
 
-Photos: https://www.dropbox.com/scl/fo/xb4rlhouxkplw17pf47kr/h?
+Photos: [https://www.dropbox.com/scl/fo/xb4rlhouxkplw17pf47kr/h](https://www.dropbox.com/scl/fo/xb4rlhouxkplw17pf47kr/h)?
 rlkey=qpidkk4jf5qu8vus4mhv1108j&dl=0
 
 (Vancouver, B.C.) " Mitch and Murray Productions is proud to present the Canadian

@@ -27,4 +27,4 @@ Apply by January 5th, 2024, and become a key player in VIVO's
 continued success.
 
 Full job description and application information available at
-https://www.vivomediaarts.com/work-with-vivo
+[https://www.vivomediaarts.com/work-with-vivo](https://www.vivomediaarts.com/work-with-vivo)

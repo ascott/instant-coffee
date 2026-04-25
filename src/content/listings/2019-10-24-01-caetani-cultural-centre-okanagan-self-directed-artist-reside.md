@@ -50,7 +50,7 @@ materials, shipping costs, exhibition costs and other personal expenses.
 
 You can add on a private art studio for $5/day.
 
-LEARN MORE + APPLY HERE: https://www.caetani.org/self-directed-residencies-for-
+LEARN MORE + APPLY HERE: [https://www.caetani.org/self-directed-residencies-for-](https://www.caetani.org/self-directed-residencies-for-)
 artists-and-writers/
 
 E-mail air@caetani.org with any questions.

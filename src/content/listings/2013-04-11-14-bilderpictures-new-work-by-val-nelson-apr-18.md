@@ -62,7 +62,7 @@ Studio location map
 Telephone: 778-865-2650
 
 Website
-http://valnelson.ca
+[http://valnelson.ca](http://valnelson.ca)
 
 Blog
-http://optimisticpursuits.com
+[http://optimisticpursuits.com](http://optimisticpursuits.com)

@@ -13,6 +13,6 @@ matter, independent publishing and art writing, Open Spaces 2023 Small Press Fes
 include a tabling fair, publication launch, and panel discussion. We are currently accepting
 vendor applications from artists, publishers, collectives, institutions and art book
 distributors for the tabling fair. There is no vendor fee. Find out more here:
-https://openspacearts.ca/smallpressfest
+[https://openspacearts.ca/smallpressfest](https://openspacearts.ca/smallpressfest)
 
 Questions/inquiries: dani@openspace.ca

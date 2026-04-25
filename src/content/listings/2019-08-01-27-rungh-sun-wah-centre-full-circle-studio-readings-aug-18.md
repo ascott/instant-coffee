@@ -20,7 +20,7 @@ Time: 1:30pm " 4:00pm
 
 Admission
 
-Reserve ticket at Eventbrite https://www.eventbrite.com/e/rungh-readings-with-full-
+Reserve ticket at Eventbrite [https://www.eventbrite.com/e/rungh-readings-with-full-](https://www.eventbrite.com/e/rungh-readings-with-full-)
 circle-first-nations-performance-tickets-66988032007. Limited Seating. Pay-What-You-
 Can (at door)
 

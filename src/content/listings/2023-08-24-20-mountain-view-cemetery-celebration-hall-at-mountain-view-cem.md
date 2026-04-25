@@ -39,7 +39,7 @@ Musqueam, Squamish, and Tsleil-Waututh Nations (Vancouver, CA).
 www.roxannenesbitt.com
 
 WATCH: Wild Bells No. 5 performed by Nesbitt at EKWC in Oisterwijk, Netherlands.
-https://www.youtube.com/watch?v=C3VKd2U_oQY&list=PL-
+[https://www.youtube.com/watch?v=C3VKd2U_oQY&list=PL-](https://www.youtube.com/watch?v=C3VKd2U_oQY&list=PL-)
 nb0iCVfTdyyFGBnsSuOlLbkwMDDgIAf&index=2
 
 Ben Brown is a mover and shaker. He is the founder of Music And Movement Mondays
@@ -49,18 +49,18 @@ Award with his group, Pugs and Crows. As a composer he has created
 scores for both Dance and Film, and regularly collaborates with dance artists and
 choreographers.
 
-https://benbrownsounds.bandcamp.com/
+[https://benbrownsounds.bandcamp.com/](https://benbrownsounds.bandcamp.com/)
 
 Adrian Avendao is an emerging sound artist, musician and recordist based in Surrey /
 Vancouver, Canada [unceded First Nation territories]. He has learned from respected
 musicians and composers in the local and international creative music community,
 including studies at Vancouver Community College, and Tangible in Peru. He has
 worked in audio-visual experimentation, electronic music, soundscape composition,
-and improvisation. https://avendanosounds.wordpress.com/
+and improvisation. [https://avendanosounds.wordpress.com/](https://avendanosounds.wordpress.com/)
 
 Jen Yakamovich is a Vancouver-based drummer, writer, educator, and improviser. Her
 work focuses on the relationship between sound, social ecologies, and embodiment.
 Raised in Halifax NS, she received her Master's in Environmental Studies from
 Dalhousie University in 2019. In 2022, Jen released her first solo EP, Heaven's
 Mini
-Mart, under the moniker Troll Dolly. https://jenyakamovich.format.com/
+Mart, under the moniker Troll Dolly. [https://jenyakamovich.format.com/](https://jenyakamovich.format.com/)

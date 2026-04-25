@@ -25,7 +25,7 @@ For full details, criteria, selection process and submission instructions please
 Artists and visit the online Submission Form:
 
 CALL FOR ARTISTS: tinyurl.com/displacementexhibit
-SUBMISSION FORM: https://forms.gle/ScPpoVq6VmCJ3Raf7
+SUBMISSION FORM: [https://forms.gle/ScPpoVq6VmCJ3Raf7](https://forms.gle/ScPpoVq6VmCJ3Raf7)
 
 51. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.

@@ -12,7 +12,7 @@ Griffin Art Projects
 
 1174 Welch St, North Vancouver, BC V7P 1B2
 
-http://griffinartprojects.ca/
+[http://griffinartprojects.ca/](http://griffinartprojects.ca/)
 
 The Prop House: A Collection of One Million Objects
 
@@ -37,4 +37,4 @@ Payne.
 
 Opening Hours: Friday - Sunday, 12:00-5:00pm. Admission is free.
 More info:
-https://www.griffinartprojects.ca/events
+[https://www.griffinartprojects.ca/events](https://www.griffinartprojects.ca/events)

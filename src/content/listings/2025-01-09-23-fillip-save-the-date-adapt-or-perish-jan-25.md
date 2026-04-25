@@ -39,4 +39,4 @@ for an evening of celebration and reflection in the elegant setting of Hycroft M
 
 Please join us in celebrating twenty years of Fillip. Heres to twenty more!
 
-RSVP: https://fillip.ca/vis2
+RSVP: [https://fillip.ca/vis2](https://fillip.ca/vis2)

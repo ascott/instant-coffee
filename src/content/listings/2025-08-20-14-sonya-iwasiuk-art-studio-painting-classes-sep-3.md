@@ -36,7 +36,7 @@ plaster and textural elements.
 Only a few spots left!
 
 Register here:
-https://www.sonyaiwasiuk.com/art-classes-workshops/weekly-mixed-media-painting-
+[https://www.sonyaiwasiuk.com/art-classes-workshops/weekly-mixed-media-painting-](https://www.sonyaiwasiuk.com/art-classes-workshops/weekly-mixed-media-painting-)
 classes
 www.sonyaiwasiuk.com
 

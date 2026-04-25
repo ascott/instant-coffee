@@ -18,7 +18,7 @@ Application Deadline: April 14, 2024
 Target Start Date: May 15, 2024
 
 FULL JOB CALL:
-https://www.cafka.org/news/hiring-director-curator
+[https://www.cafka.org/news/hiring-director-curator](https://www.cafka.org/news/hiring-director-curator)
 
 About CAFKA:
 For more than 20 years CAFKA - Contemporary Art Forum Kitchener + Area has
@@ -76,5 +76,5 @@ interview will be contacted.
 For additional information or questions, please contact: board@cafka.org
 
 FULL JOB CALL:
-https://www.cafka.org/news/hiring-director-curator
-http://www.cafka.org/
+[https://www.cafka.org/news/hiring-director-curator](https://www.cafka.org/news/hiring-director-curator)
+[http://www.cafka.org/](http://www.cafka.org/)

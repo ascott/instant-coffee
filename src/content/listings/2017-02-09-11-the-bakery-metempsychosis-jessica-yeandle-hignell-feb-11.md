@@ -32,4 +32,4 @@ OPENING RECEPTION FEB 11 6-9PM
 EXHIBITION RUN FEB 11 - MAR 11
 GALLERY HOURS SAT 1-5PM
 
-http://http://jessicayh.com/2014_miram.html
+[http://http://jessicayh.com/2014_miram.html](http://http://jessicayh.com/2014_miram.html)

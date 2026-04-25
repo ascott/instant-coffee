@@ -68,5 +68,5 @@ Chang and Alice Ming Wai Jim, ADVAedit@gmail.com.
 To read more about ADVA, including our aims and scope and 
 editorial and advisory board membership, and submission 
 guidelines, please visit our Facebook page: 
-https://www.facebook.com/pages/Asian-Diasporic-Visual-Cultures-
+[https://www.facebook.com/pages/Asian-Diasporic-Visual-Cultures-](https://www.facebook.com/pages/Asian-Diasporic-Visual-Cultures-)
 and-the-Americas/646111668789406

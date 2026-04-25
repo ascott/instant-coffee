@@ -49,4 +49,4 @@ Gallery 881: Lens-Based Contemporary Art Gallery
 881 East Hastings, Vancouver, BC V6A 3Y1
 gallery.com
 Email: info@gallery881.com
-Subscribe to our newsletter: https://www.gallery881.com/subscribe
+Subscribe to our newsletter: [https://www.gallery881.com/subscribe](https://www.gallery881.com/subscribe)

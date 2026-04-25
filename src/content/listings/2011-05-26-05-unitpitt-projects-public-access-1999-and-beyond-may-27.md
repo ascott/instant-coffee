@@ -22,7 +22,7 @@ bonus extras.
 Public Access: 1999 And Beyond will also screen continuously in the front
 window of 15 East Pender during this event.
 
-For more information, please see http://publicaccess.helenpittgallery.org/
+For more information, please see [http://publicaccess.helenpittgallery.org/](http://publicaccess.helenpittgallery.org/)
 
 UNIT/PITT Projects gratefully acknowledges the support of the British
 Columbia Arts Council, the Canada Council, the City of Vancouver, and the

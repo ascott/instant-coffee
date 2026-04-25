@@ -14,7 +14,7 @@ Monday 5th - Wednesday 7th July 2010
 CALL FOR PROPOSALS
 Deadline: 15th January 2010
 
-http://www.eva-conferences.com/eva_london/Â 
+[http://www.eva-conferences.com/eva_london/Â](http://www.eva-conferences.com/eva_london/Â) 
 
 *Visualising*Â 
 ideas and concepts in culture, heritage and the arts: digital arts, sound,Â 
@@ -27,7 +27,7 @@ We invite proposals ofÂ papers, demonstrations or short performances,
 workshops or panel discussions.Â Only a summary of the proposal on not more
 than one page is required for the selection process.Â This must be submitted
 electronically according to the instructions on the EVA London
-website,Â http://www.eva-conferences.com/eva_london/.Â 
+website,Â [http://www.eva-conferences.com/eva_london/.Â](http://www.eva-conferences.com/eva_london/.Â) 
 
 Proposals may be on any aspect of EVA London's focus on visualisation forÂ 
 the arts and culture, broadly interpreted, including technology, use andÂ 
@@ -56,6 +56,6 @@ EVA London's conference themes will include, but are not limited to:
   * Technologies of digitisation, 2D and 3D imaging
   * Virtual and augmented worlds
 For further information see
-http://www.eva-conferences.com/eva_london/
+[http://www.eva-conferences.com/eva_london/](http://www.eva-conferences.com/eva_london/)
 EVA London 2010 will be co-sponsored by the Computer Arts Society, a
 Special Interest Group of the British Computer Society, and by the BCS.

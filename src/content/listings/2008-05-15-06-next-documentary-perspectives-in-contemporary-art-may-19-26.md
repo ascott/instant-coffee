@@ -169,10 +169,10 @@ When Art Looks At Cinema: Der Spiegel
 
 Curators are available for interviews.
 
-Photos at: http://www.vifc.org/fileshare/login.php
+Photos at: [http://www.vifc.org/fileshare/login.php](http://www.vifc.org/fileshare/login.php)
 Username: media • Password: download
 
-More about fillip: http://www.fillip.ca/
+More about fillip: [http://www.fillip.ca/](http://www.fillip.ca/)
 
 
 VIFC TICKETS AND INFO
@@ -189,6 +189,6 @@ As a registered non-profit society, the VIFC screens films that have not always 
 
 Please note that membership benefits and restrictions are valid for VIFC presentations only. They are not applicable to Vancity Theatre "Rental" presentations by other organizations.
 
-For More Membership Information go to http://www.vifc.org/membership.html.
+For More Membership Information go to [http://www.vifc.org/membership.html](http://www.vifc.org/membership.html).
 
 Vancity Theatre is located at 1181 Seymour St. (at Davie)

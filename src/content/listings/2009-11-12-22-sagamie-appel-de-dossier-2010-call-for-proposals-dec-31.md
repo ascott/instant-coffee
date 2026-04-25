@@ -106,7 +106,7 @@ or MAY, 2010.
 Help us make the work of the Centre SAGAMIE more widely known: please
 forward this message to artists and centers you are familiar with.
 
-Visit our BLOG at this address: http://www.centresagamie.blogspot.com
+Visit our BLOG at this address: [http://www.centresagamie.blogspot.com](http://www.centresagamie.blogspot.com)
 
 ￼
 
@@ -131,7 +131,7 @@ SAGAMIE
 Centre d'art contemporain / Contemporary Art Centre
 50, St-Joseph, C.P. 517, Alma, (Québec), G8B 5W1, téléphone et télécopie :
 (418) 662-7280
-sagamie@cgocable.ca http://www.sagamie.com/
+sagamie@cgocable.ca [http://www.sagamie.com/](http://www.sagamie.com/)
 
 Si vous souhaitez Ãªtre retiré de notre liste d'envoi, vous n'avez qu'Ã 
 répondre Ã	ce message en indiquant comme objet : "SVP RETIREZ-MOI DE LA

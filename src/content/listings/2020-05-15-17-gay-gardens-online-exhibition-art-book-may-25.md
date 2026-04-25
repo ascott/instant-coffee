@@ -22,7 +22,7 @@ and share (forever) the love within you in our gay garden.
 Entry fee: $50.00 fee covers entry of up to 2 works per artist and helps our not-for-profit
 gallery create an online exhibition/art book.
 
-Entry Details found here: http://airdgallery.org/submissions/
+Entry Details found here: [http://airdgallery.org/submissions/](http://airdgallery.org/submissions/)
 
 About the Online Exhibition/Art Book:
 
@@ -85,7 +85,7 @@ his dog Luca, and making art in the forest.
 
 How to Enter:
 UPLOAD ENTRY MATERIALS via the JOTFORM on our website submission page:
-http://airdgallery.org/submissions. 300 DPI jpegs no larger than 1.5 MB with proper
+[http://airdgallery.org/submissions](http://airdgallery.org/submissions). 300 DPI jpegs no larger than 1.5 MB with proper
 naming: last name, first name, title, size (hxw), date, price. Example: Smith, John, My
 Beautiful Tulips, needlepoint, 30cm x 20cm, 2018, $350. ENTRY FEE: The non-
 refundable entry fee of $50 is to be paid when you submit your jpegs. Pay via
@@ -99,6 +99,6 @@ artist and buyer will coordinate shipping.
 
 Aird Gallery will host a fabulous closing event on Friday, July 17, 2020, in our virtual
 garden, or if possible in our actual garden at 906 Queen Street West, Toronto. Entry
-Details found here: http://airdgallery.org/submissions/
+Details found here: [http://airdgallery.org/submissions/](http://airdgallery.org/submissions/)
 
-http://airdgallery.org/; www.facebook/john.airdgallery
+[http://airdgallery.org/](http://airdgallery.org/); www.facebook/john.airdgallery

@@ -61,8 +61,8 @@ GET INVOLVED:
 To get involved in Grow or take part in upcoming events contact Holly Schmidt
 hschmidt711@gmail.com
 
-http://othersights.ca
+[http://othersights.ca](http://othersights.ca)
 
-http://www.grow-urbanagricultureproject.ca
+[http://www.grow-urbanagricultureproject.ca](http://www.grow-urbanagricultureproject.ca)
 Register for Sustainability in Relationship: Conscious, Connected and Creative 
 Living in Vancouver, British Columbia on Eventbrite

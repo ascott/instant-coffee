@@ -34,4 +34,4 @@ internationally at Kunsthall Oslo, Kunstverein Frankfurt, and M HKA Antwerp.
 September 12-21, 2025
 Opening Reception: Saturday, September 13, 12-4 pm
 THIS Gallery | 108 East Broadway (alley), Vancouver
-https://thisgallery.org/
+[https://thisgallery.org/](https://thisgallery.org/)

@@ -23,7 +23,7 @@ the inexplicable. Artists may choose to interpret the theme however they
 wish, although we will give preference to submissions that respond to the
 theme directly.
 
-Submit here: http://bit.ly/1GcQ7FW
+Submit here: [http://bit.ly/1GcQ7FW](http://bit.ly/1GcQ7FW)
 
 For more info, go to artwaste.tumblr.com or email us at
 artwastevancouver@gmail.com

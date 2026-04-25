@@ -38,5 +38,5 @@ Summer 2018
 For more information on how to apply, please download the PDF Document Terms of
 Reference for this artist call.
 
-http://www.richmond.ca/__shared/assets/Gilbert_Road_Greenway_Public_Art_Oppo
+[http://www.richmond.ca/__shared/assets/Gilbert_Road_Greenway_Public_Art_Oppo](http://www.richmond.ca/__shared/assets/Gilbert_Road_Greenway_Public_Art_Oppo)
 rtunity47934.pdf

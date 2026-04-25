@@ -34,7 +34,7 @@ this puzzle of identity, Baetz and Vistan are considering how locales
 and local histories relate to their work and to the larger issues of 
 displacement, nomads and nomadism(s). 
 
-https://www.facebook.com/events/1017541344950632/
+[https://www.facebook.com/events/1017541344950632/](https://www.facebook.com/events/1017541344950632/)
 
 About WNDW: 
 

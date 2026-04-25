@@ -110,7 +110,7 @@ as a small compact car.
 No known mechanical issues - rebuilt motor, good brakes + exhaust
 
 Photos + Information - including propane FAQ
-http://www.livemorelightly.com/Tech/
+[http://www.livemorelightly.com/Tech/](http://www.livemorelightly.com/Tech/)
 
 All offers considered.
 

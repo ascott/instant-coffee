@@ -19,6 +19,6 @@ This course is open to everyone. Transgender, non-binary and queer folks who are
 interested in these themes are encouraged to register, as well as artists and non-artists,
 thinkers as well as makers. For more information, and to register visit:
 
-http://www.theschoolofmakingthinking.com/classes.html
+[http://www.theschoolofmakingthinking.com/classes.html](http://www.theschoolofmakingthinking.com/classes.html)
 
 We encourage you to register early as there are only 25 seats available.

@@ -27,13 +27,13 @@ pm
 In this free workshop, participants will learn how to sew a soft LED circuit and
 incorporate it into a hand sewn plush toy to take home. No prior experience in
 sewing or electronics necessary; materials provided.
-All info + RSVP for this workshop: https://forms.gle/bvDxmTkRNAW5bAtRA
+All info + RSVP for this workshop: [https://forms.gle/bvDxmTkRNAW5bAtRA](https://forms.gle/bvDxmTkRNAW5bAtRA)
 
 Art Hangouts
 Sunday February 2 & Saturday February 8, 3-7 pm
 Come hangout and create art with us during our exhibition! Supplies provided.
-All info + RSVP for the hangouts: https://forms.gle/LTWckWv94hrkdRhk7
+All info + RSVP for the hangouts: [https://forms.gle/LTWckWv94hrkdRhk7](https://forms.gle/LTWckWv94hrkdRhk7)
 
 Closing Day Celebration
 Sunday February 9, 3-7 pm
-All info + RSVP for the show: https://NAC-interplay.eventbrite.com
+All info + RSVP for the show: [https://NAC-interplay.eventbrite.com](https://NAC-interplay.eventbrite.com)

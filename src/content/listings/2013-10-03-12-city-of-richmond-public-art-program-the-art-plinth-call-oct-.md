@@ -17,7 +17,7 @@ series of five (5) to eight (8) temporary public art projects at Brighouse Stati
 British Columbia. All information about the project is contained in the PDF 
 Terms of Reference document accessible for download here:
 
-http://www.richmond.ca/culture/publicart/opportunities.htm
+[http://www.richmond.ca/culture/publicart/opportunities.htm](http://www.richmond.ca/culture/publicart/opportunities.htm)
 
 Budget: $200,000 Total, for five (5) to eight (8) projects, all inclusive. 
 Suggested budgets of $25,000 to $50,000 per project

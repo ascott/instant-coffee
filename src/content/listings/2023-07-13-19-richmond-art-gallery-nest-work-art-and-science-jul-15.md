@@ -36,7 +36,7 @@ Program will be shown in the gallery, where we will gather in a Nest-work instal
 Free event. All ages welcome. Refreshments will be served.
 
 Registration required due to limited spaces. Register here:
-https://www.eventbrite.ca/e/nest-work-art-and-science-tickets-648516940627?
+[https://www.eventbrite.ca/e/nest-work-art-and-science-tickets-648516940627](https://www.eventbrite.ca/e/nest-work-art-and-science-tickets-648516940627)?
 aff=oddtdtcreator
 
 About the presenters:

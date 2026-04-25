@@ -33,5 +33,5 @@ performances, projections, media streams and a special MLK DJ
 selection.
 
 More info:
-http://www.facebook.com/events/304288716279770/
-http://www.artsbirthday.net/
+[http://www.facebook.com/events/304288716279770/](http://www.facebook.com/events/304288716279770/)
+[http://www.artsbirthday.net/](http://www.artsbirthday.net/)

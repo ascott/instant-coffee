@@ -22,7 +22,7 @@ Council is a dynamic, highly-respected national agency with a mandate to
 promote the study and enjoyment of, and production of works in, the arts.Â 
 We offer competitive salaries and benefit package.Â  For more information
 about the Canada Council for the Arts, please visit our website at
-www.canadacouncil.ca <http://www.canadacouncil.ca/> .
+www.canadacouncil.ca <[http://www.canadacouncil.ca/](http://www.canadacouncil.ca/)> .
 
 About the role
 Under the direct supervision of the Director, Arts Disciplines, contributes
@@ -59,7 +59,7 @@ days per year.
 
 How to apply
 Send the completed Application for Employment form
-<http://www.canadacouncil.ca/aboutus/employment/rr127237563301718750.htm> Â 
+<[http://www.canadacouncil.ca/aboutus/employment/rr127237563301718750.htm](http://www.canadacouncil.ca/aboutus/employment/rr127237563301718750.htm)> Â 
 quoting the competition number listed above and a copy of your resume to
 the attention of Roch Brunelle, Human Resources, prior to the closing date
 by either:Â Â 
@@ -95,7 +95,7 @@ l’étude, la diffusion des arts, ainsi que la production d’Å�uvres
 d’art.Â 
 Nos salaires et avantages sociaux sont très concurrentiels.Â  Pour plus
 d’information au sujet du Conseil des Arts du Canada, veuillez visiter
-notre site Internet au www.conseildesarts.ca <http://www.conseildesarts.ca/>
+notre site Internet au www.conseildesarts.ca <[http://www.conseildesarts.ca/](http://www.conseildesarts.ca/)>
 
 Au sujet du poste
 Sous la supervision directe du directeur de la Division des disciplines
@@ -139,7 +139,7 @@ par année.
 
 Comment soumettre votre candidature politiques;
 Remplissez le formulaire de demande d’emploi
-<http://www.canadacouncil.ca/aboutus/employment/rr127237563301718750.htm> ,
+<[http://www.canadacouncil.ca/aboutus/employment/rr127237563301718750.htm](http://www.canadacouncil.ca/aboutus/employment/rr127237563301718750.htm)> ,
 y indiquant le numéro du concours, joignez-y une copie de votre curriculum
 vitÃ¦ et faites parvenir le tout Ã  Roch Brunelle, Ressources humaines, avant
 la date de fermeture, soit par :

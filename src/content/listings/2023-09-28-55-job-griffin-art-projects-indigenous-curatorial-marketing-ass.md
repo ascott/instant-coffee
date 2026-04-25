@@ -28,7 +28,7 @@ Griffin Art Projects
 
 1174 Welch St, North Vancouver, V7P 1B2
 
-https://www.griffinartprojects.ca/careers
+[https://www.griffinartprojects.ca/careers](https://www.griffinartprojects.ca/careers)
 
 This position is a YCW Building Careers in Heritage Internship for college or
 university graduates.
@@ -61,4 +61,4 @@ verbal, written and visual communication skills, as well as the ability to work 
 diverse community groups, including Indigenous communities and youth.
 
 For more information, please visit our website:
-https://www.griffinartprojects.ca/careers
+[https://www.griffinartprojects.ca/careers](https://www.griffinartprojects.ca/careers)

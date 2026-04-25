@@ -33,9 +33,9 @@ that you can join us to meet her at this informal reception and to welcome
 her to the community.
 
 More information:
-http://front.bc.ca/exhibitions/events/3300
+[http://front.bc.ca/exhibitions/events/3300](http://front.bc.ca/exhibitions/events/3300)
 
 Western Front Society
 303 East 8th Avenue
 Vancouver, British Columbia
-http://front.bc.ca/
+[http://front.bc.ca/](http://front.bc.ca/)

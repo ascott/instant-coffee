@@ -34,13 +34,13 @@ Contact: Antimatter, 636 Yates Street, Victoria, BC, Canada V8W 1L3
 250 385 3327; info@antimatter.ws; www.antimatter.ws
 
 Complete entry form and guidelines attached as a pdf file. Also available
-on our website at http://www.antimatter.ws
+on our website at [http://www.antimatter.ws](http://www.antimatter.ws)
 
 Join Antimatter's Facebook Group for update and event info:
-http://www.facebook.com/group.php?gid=58145212174
+[http://www.facebook.com/group.php?gid=58145212174](http://www.facebook.com/group.php?gid=58145212174)
 
 --
 Antimatter Underground Film Festival
 636 Yates Street, Victoria, BC, Canada V8W 1L3
 (250) 385-3327 info@antimatter.ws
-http://www.antimatter.ws
+[http://www.antimatter.ws](http://www.antimatter.ws)

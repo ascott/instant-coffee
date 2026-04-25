@@ -15,7 +15,7 @@ Griffin Art Projects
 
 www.griffinartprojects.ca
 
-Zoom link: https://zoom.us/webinar/register/WN_hrqWM0MRRBu8dD5nejVwlA
+Zoom link: [https://zoom.us/webinar/register/WN_hrqWM0MRRBu8dD5nejVwlA](https://zoom.us/webinar/register/WN_hrqWM0MRRBu8dD5nejVwlA)
 
 Join four Canadian comic artists, illustrators and storytellers for a collaborative panel
 discussion exploring means of defining identities, retelling histories, creating cultures of

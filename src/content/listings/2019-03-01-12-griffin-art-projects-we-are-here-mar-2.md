@@ -15,7 +15,7 @@ Saturday, March 2, 1:00-2:30 PM
 
 Griffin Art Projects
 1174 Welch St, North Vancouver, BC V7P 2R5
-http://griffinartprojects.ca/
+[http://griffinartprojects.ca/](http://griffinartprojects.ca/)
 
 Join Griffin Art Projects Residency Artists Mahdyar Jamshidi and Zoe 
 Kreye, independent curator Elham Puriya Mehr and senior Canadian 

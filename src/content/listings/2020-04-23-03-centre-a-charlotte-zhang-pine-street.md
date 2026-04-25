@@ -43,11 +43,11 @@ hosted on the main Festival site and Critical Distance. This work is closed-capt
 English and Traditional Chinese.
 
 View Channel 1 HERE.
-https://vimeo.com/400707405/2601200946
+[https://vimeo.com/400707405/2601200946](https://vimeo.com/400707405/2601200946)
 
 View Channel 2 HERE.
-https://vimeo.com/400717901/47c50c760f
+[https://vimeo.com/400717901/47c50c760f](https://vimeo.com/400717901/47c50c760f)
 
 Download the Viewing Instructions HERE.
-https://centrea.org/wp-content/uploads/2020/04/Centre-A_Pine-Street_Images-Festival-
+[https://centrea.org/wp-content/uploads/2020/04/Centre-A_Pine-Street_Images-Festival-](https://centrea.org/wp-content/uploads/2020/04/Centre-A_Pine-Street_Images-Festival-)
 2020_Viewing-Instructions.pdf

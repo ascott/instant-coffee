@@ -21,7 +21,7 @@ Adrian Sinclair and tea leaf readings by artist Cindy Mochizuki.
 
 For the full press release, including public programs and access to
 high-resolution images and image credits, please find them in the links bellow
-https://www.dropbox.com/s/o5ptn8k64jlscvi/ChineseExportPaintings.pdf?dl=0
+[https://www.dropbox.com/s/o5ptn8k64jlscvi/ChineseExportPaintings.pdf?dl=0](https://www.dropbox.com/s/o5ptn8k64jlscvi/ChineseExportPaintings.pdf?dl=0)
 
 For more information or interviews with Asian Art Curator, Barry Till (Art
 Gallery of Greater Victoria), please don’t hesitate to contact me.

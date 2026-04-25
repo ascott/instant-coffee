@@ -54,4 +54,4 @@ Curated by Vanessa Black
 Seymour Art Gallery
 4360 Gallant Ave, North Vancouver BC
 Open 10 am-5 pm, 7 days a week
-http://seymourartgallery.com
+[http://seymourartgallery.com](http://seymourartgallery.com)

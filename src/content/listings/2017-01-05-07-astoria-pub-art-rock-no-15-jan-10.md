@@ -17,9 +17,9 @@ series is for and inspired by the performers of sounds, visuals, and poetics.
 
 featuring:
 
-CO-OP : https://thebandco-op.bandcamp.com/releases
-DARK DIALS: https://darkdials.bandcamp.com/
-MANDELBRAT: https://www.youtube.com/watch?v=l34GcM-Y-jE
+CO-OP : [https://thebandco-op.bandcamp.com/releases](https://thebandco-op.bandcamp.com/releases)
+DARK DIALS: [https://darkdials.bandcamp.com/](https://darkdials.bandcamp.com/)
+MANDELBRAT: [https://www.youtube.com/watch?v=l34GcM-Y-jE](https://www.youtube.com/watch?v=l34GcM-Y-jE)
 
 DJ Owen Ellis
 

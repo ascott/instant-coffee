@@ -32,4 +32,4 @@ No previous weaving experience necessary!
 Amanda Wood is a contemporary textile artist. Her practice is defined by processes and she
 brings that approach to her weaving workshops.
 
-For more information: https://threebagsfull.ca/classes/colour-and-weave/
+For more information: [https://threebagsfull.ca/classes/colour-and-weave/](https://threebagsfull.ca/classes/colour-and-weave/)

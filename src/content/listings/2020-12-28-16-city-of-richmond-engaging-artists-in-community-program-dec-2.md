@@ -32,4 +32,4 @@ Deadline: January 29, 2021
 
 Duration: Spring/Summer 2021 " Spring/Summer 2022
 
-http://www.richmond.ca/culture/publicart/opportunities
+[http://www.richmond.ca/culture/publicart/opportunities](http://www.richmond.ca/culture/publicart/opportunities)

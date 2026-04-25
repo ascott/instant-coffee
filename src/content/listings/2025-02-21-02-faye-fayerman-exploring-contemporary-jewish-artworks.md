@@ -13,7 +13,7 @@ Jewish Community Centre of Greater Vancouver
 February 19-March 26 (6 classes)
 Member $160.00, Regular $180.00 B6081PM
 
-https://hdc-p-ols.spectrumng.net/JCCGV/Members/PR/ProgramDetails.aspx?
+[https://hdc-p-ols.spectrumng.net/JCCGV/Members/PR/ProgramDetails.aspx](https://hdc-p-ols.spectrumng.net/JCCGV/Members/PR/ProgramDetails.aspx)?
 searchtype=code&prgcode=B6081PM
 
 This course examines 20th-century Jewish artists and their influence on the art world,

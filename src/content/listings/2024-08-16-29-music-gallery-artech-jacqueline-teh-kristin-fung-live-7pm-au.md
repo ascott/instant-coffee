@@ -21,4 +21,4 @@ feature JeanSe Le Doujet on bass and another artist on percussion.
 Doors open at 7:00 PM. Show starts at 7:30 PM sharp. Light refreshments will offered,
 but everyone is encouraged to bring something to share.
 
-INFO & TICKETS: https://sidedooraccess.com/shows/gcnNvk1IHiGaqDwJA6xw
+INFO & TICKETS: [https://sidedooraccess.com/shows/gcnNvk1IHiGaqDwJA6xw](https://sidedooraccess.com/shows/gcnNvk1IHiGaqDwJA6xw)

@@ -15,7 +15,7 @@ Cineworks Studio, 300-1131 Howe Street (lane entrance)
 Vancouver, British Columbia V6Z 2L7
 $10"$20 + taxes
 
-REGISTER: https://bit.ly/2tVkEHe
+REGISTER: [https://bit.ly/2tVkEHe](https://bit.ly/2tVkEHe)
 
 A workshop with filmmaker and visual artist Randall Okita, and producers of his multi award-
 winning debut feature film, The Lockpicker.
@@ -59,7 +59,7 @@ followed by a panel discussion, including Randall Okita and members of The Lockp
 production team in conversation with experts in the field of youth care and suicide 
 prevention.
 
-https://bit.ly/2tzFr2U
+[https://bit.ly/2tzFr2U](https://bit.ly/2tzFr2U)
 
 Randall Okita
 
@@ -77,7 +77,7 @@ Nouveau Cinema, L.A. Shorts Fest, and the Winnipeg International Film Festival.
 Discounts
 Please note: access to membership discounts can be obtained with a Cineworks General 
 Membership ($40 annually). Please call 604-685-3841 for details, or see 
-http://cineworks.ca/connect#join
+[http://cineworks.ca/connect#join](http://cineworks.ca/connect#join)
 
 Accessibility: this venue is wheelchair accessible, but we apologize that it has no accessible 
 washroom. An accessible washroom is available at Breka Bakery in our immediate 

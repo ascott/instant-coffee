@@ -18,7 +18,7 @@ SFU Galleries has partnered with ISEA 2015 to present keynote
 speaker Sara Diamond. Diamond, an SFU alumna, is an artist in the 
 three-part exhibition Through a Window: Visual Art and SFU 1965-
 2015. The Audain Gallery will be open from Friday August 14 to 
-Monday August 18, 12-5pm. Visit http://isea2015.org for registration 
+Monday August 18, 12-5pm. Visit [http://isea2015.org](http://isea2015.org) for registration 
 and schedule details.
 
 Under the title 'Action Agenda: Vancouver's Prescient Media Arts,' 

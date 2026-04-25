@@ -12,7 +12,7 @@ WATERMARKS - A Celebration of the Bow River
 Calgary, Alberta, Canada
 Deadline for Submissions: Monday, June 8, 2009 at 4:30 pm MDT
 Budget: CAN $50,000
-http://tinyurl.com/ouyfr7
+[http://tinyurl.com/ouyfr7](http://tinyurl.com/ouyfr7)
 
 The City of Calgary Public Art Program invites artists to submit an Expression of Interest for the 
 inaugural Watermarks - A Celebration of the Bow River, taking place June through September 

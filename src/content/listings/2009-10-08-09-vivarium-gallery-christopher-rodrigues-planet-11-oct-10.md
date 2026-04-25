@@ -21,7 +21,7 @@ This summer the Vancouver audience was given the opportunity to learn about and 
 close the Dutch Golden Age of painting in a beautiful curated exhibition at the Vancouver Art 
 Gallery.
 
-http://www.christopherrodrigues.com
+[http://www.christopherrodrigues.com](http://www.christopherrodrigues.com)
 
 "Christopher uses the computer & Photoshop as his artistic mediums in three ongoing series of 
 works -- Planets, Islands, Still Lifes -- that examine the relationship between Nature & Technology 
@@ -49,4 +49,4 @@ VIVARIUM GALLERY
 2130 Yew Street
 Vancouver, BC 11217-1506
 vivariumgallery@gmail.com
-http:///www.vivariumgallery.com
+[http:///www.vivariumgallery.com](http:///www.vivariumgallery.com)

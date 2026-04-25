@@ -41,7 +41,7 @@ Chapters include:
 Available now on the iBookstore, on Google Play, and coming soon to Amazon.ca.
 
 Get a sneak peek of one of the ebook's videos, "Artists Talk: What is an
-Emerging Artist?," here: https://vimeo.com/146438657. Photos available upon
+Emerging Artist?," here: [https://vimeo.com/146438657](https://vimeo.com/146438657). Photos available upon
 request.
 
 This project would not have been possible without the generous support of

@@ -55,7 +55,7 @@ Presented by ON MAIN and InTransitBC
 
 Go to media link for high-resolution downloads:
 
-http://5.paulwongprojects.com/media.html
+[http://5.paulwongprojects.com/media.html](http://5.paulwongprojects.com/media.html)
 -- 
 ONMAIN
 1965 Main Street

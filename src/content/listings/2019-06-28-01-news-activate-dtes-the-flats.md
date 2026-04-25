@@ -22,7 +22,7 @@ nurture projects or businesses that contribute to the Citys economic, social, cu
 environmental goals. This program helps landowners, tenants, and City staff work 
 collaboratively to retrofit, permit, and fund affordable space projects. 
 
-More info at: https://www.vancouvereconomic.com/industrial-concierge-service/
+More info at: [https://www.vancouvereconomic.com/industrial-concierge-service/](https://www.vancouvereconomic.com/industrial-concierge-service/)
 
 Ok, now the ask:
 

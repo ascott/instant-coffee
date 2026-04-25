@@ -41,5 +41,5 @@ workshops on offer include: Strategic Cultural Tourism Planning (Mar 7-21); Cult
 Entrepreneurship (Mar 14-28); Resourceful Design Innovation by Re-Imagining Existing 
 Urban Assets (Apr 11-25), and more
 
-For more information and to register, please visit https://cstudies.ubc.ca/study-
+For more information and to register, please visit [https://cstudies.ubc.ca/study-](https://cstudies.ubc.ca/study-)
 topic/cultural-planning-development

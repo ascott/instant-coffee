@@ -10,7 +10,7 @@ summary: "grunt gallery fundraiser | ECLECTIC CABARET | DEC 1"
 
 ECLECTIC CABARET
 grunt gallery fundraiser
-(http://grunt.ca/eclectic-cabaret-grunt-gallery-fundraiser/)
+([http://grunt.ca/eclectic-cabaret-grunt-gallery-fundraiser/](http://grunt.ca/eclectic-cabaret-grunt-gallery-fundraiser/))
 
 Saturday, December 1, 2012
 Doors: 7pm
@@ -36,7 +36,7 @@ will help support their future programming.
 
 Tickets sliding scale: $10 - $100
 Please buy your tickets online in advance:
-http://gruntgallery.bigcartel.com/product/grunt-gallery-fundraiser-eclectic-
+[http://gruntgallery.bigcartel.com/product/grunt-gallery-fundraiser-eclectic-](http://gruntgallery.bigcartel.com/product/grunt-gallery-fundraiser-eclectic-)
 cabaret
 *Tax receipts will be issued for paid tickets $20 and up.
 

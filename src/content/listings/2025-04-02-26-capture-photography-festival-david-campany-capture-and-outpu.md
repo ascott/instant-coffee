@@ -8,7 +8,7 @@ venue: "Capture Photography Festival"
 summary: "Capture Photography Festival | David Campany: Capture and Output | APR 10"
 ---
 
-More event information here: https://capturephotofest.com/events/speaker-series-2-
+More event information here: [https://capturephotofest.com/events/speaker-series-2-](https://capturephotofest.com/events/speaker-series-2-)
 david-campany/
 Thursday, April 10, 2025
 6:30PM-7:30PM
@@ -17,7 +17,7 @@ Admission by donation
 The Polygon Gallery, 101 Carrie Cates Court North Vancouver
 
 Registration required
-Register here: https://thepolygon.typeform.com/david-campany
+Register here: [https://thepolygon.typeform.com/david-campany](https://thepolygon.typeform.com/david-campany)
 
 Capture Photography Festival presents its second Speaker Series talk with David
 Campany, Creative Director of the International Center of Photography, New York.
@@ -30,4 +30,4 @@ and with generous support from Claudia Beck. Captures 2025 Speaker Series is
 generously supported by Wesgroup.
 
 Check out other Capture Photography Festival 2025 events here:
-https://capturephotofest.com/events/
+[https://capturephotofest.com/events/](https://capturephotofest.com/events/)

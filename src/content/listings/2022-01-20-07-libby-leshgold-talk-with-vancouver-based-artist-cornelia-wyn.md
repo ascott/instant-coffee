@@ -15,5 +15,5 @@ Gallery until February 13, 2022.
 
 January 20, 2022
 6pm - 7:30pm
-Webinar Link: https://emilycarru.zoom.us/webinar/register/WN_nv-
+Webinar Link: [https://emilycarru.zoom.us/webinar/register/WN_nv-](https://emilycarru.zoom.us/webinar/register/WN_nv-)
 0U5ASRqy4xmpqfqYHRw

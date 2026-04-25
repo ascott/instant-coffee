@@ -28,7 +28,7 @@ supportive and receptive climate to foster the development and innovative
 presentation of contemporary art.
 
 Learn more about IVAF's past projects on our website:
-http://intersite.tumblr.com/
+[http://intersite.tumblr.com/](http://intersite.tumblr.com/)
 
 OPEN CALL FOR SUBMISSIONS
 

@@ -20,4 +20,4 @@ A talk with Nicoletta Baumeister will start at 6:30pm; reception follows at 7:30
 
 Free event.
 
-Read more: https://www.surrey.ca/culture-recreation/28247.aspx
+Read more: [https://www.surrey.ca/culture-recreation/28247.aspx](https://www.surrey.ca/culture-recreation/28247.aspx)

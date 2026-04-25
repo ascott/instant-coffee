@@ -46,4 +46,4 @@ Lighting: Jack Chipman
 Graphics: Will Fu
 Bar: Industrial Garden
 
-https://www.now-id.com/blog
+[https://www.now-id.com/blog](https://www.now-id.com/blog)

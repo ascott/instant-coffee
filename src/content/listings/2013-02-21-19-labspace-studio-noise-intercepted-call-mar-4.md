@@ -36,7 +36,7 @@ way to school. Listen to it on your lunch break. Take a long walk and listen to
 it again, and again, over and over. Document your experience. Share your 
 findings.
 
-Interested in participating? Visit http://thenoiseproject.net/ for more details 
+Interested in participating? Visit [http://thenoiseproject.net/](http://thenoiseproject.net/) for more details 
 and info on how to register. Deadline to register is March 4, 2013.
 
 Details:

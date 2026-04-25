@@ -23,4 +23,4 @@ paper please bring this to the class with you. Contact us for any questions rega
 materials. $70
 Sorry, we are unable to accommodate drop-ins. Please pre-register and read our FAQ.
 
-https://www.mobil-art.ca/event-info/learn-and-explore-monoprinting
+[https://www.mobil-art.ca/event-info/learn-and-explore-monoprinting](https://www.mobil-art.ca/event-info/learn-and-explore-monoprinting)

@@ -8,7 +8,7 @@ venue: "Temporary Street Art"
 summary: "Temporary Street Art | Community Street Art Opportunity | AUG 24"
 ---
 
-https://vancouver.ca/parks-recreation-culture/call-for-artists-community-street-
+[https://vancouver.ca/parks-recreation-culture/call-for-artists-community-street-](https://vancouver.ca/parks-recreation-culture/call-for-artists-community-street-)
 art.aspx
 
 The text description can be as follows:

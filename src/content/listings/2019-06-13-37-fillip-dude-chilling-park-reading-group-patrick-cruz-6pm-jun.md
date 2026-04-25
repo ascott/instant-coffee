@@ -11,7 +11,7 @@ summary: "Fillip @ Dude Chilling Park | Reading Group — Patrick Cruz | 6PM | J
 Reading Group: The Culture Game with Patrick Cruz 
 Presented by Fillip
 
-https://www.eventbrite.com/e/reading-group-the-culture-game-w-patrick-cruz-tickets-
+[https://www.eventbrite.com/e/reading-group-the-culture-game-w-patrick-cruz-tickets-](https://www.eventbrite.com/e/reading-group-the-culture-game-w-patrick-cruz-tickets-)
 63324709912
 
 6PM, June 20, 2019 
@@ -22,7 +22,7 @@ Join Fillip and artist Patrick Cruz on Thursday, June 20, at 6pm at Dude Chillin
 Vancouver, for a a seminar-style discussion on the fraught cultural space non-Western 
 artists are often required to inhabit. The conversation will focus on a discussion of Olu 
 Oguibes essay Double Dutch and the Culture Game (PDF download at 
-https://fillip.ca/events/reading-group-patrick-cruz) which describes a contemporary cultural 
+[https://fillip.ca/events/reading-group-patrick-cruz](https://fillip.ca/events/reading-group-patrick-cruz)) which describes a contemporary cultural 
 context defined at once by entrenched cultural prejudices and a thin veneer of Western 
 liberalism and inclusion. 
 

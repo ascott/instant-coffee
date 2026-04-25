@@ -25,7 +25,7 @@ local air reports from his balcony in the West End of Vancouver Canada, on unced
 Musqueam, Squamish, and Tsleil-Waututh territories.
 
 The reports are tweeted in realtime at twitter.com/airtasting, later on facebook at
-#ThisWorldOfAir https://www.facebook.com/hashtag/ThisWorldOfAir and archived on
+#ThisWorldOfAir [https://www.facebook.com/hashtag/ThisWorldOfAir](https://www.facebook.com/hashtag/ThisWorldOfAir) and archived on
 airtasting.com.
 
 Youre invited to contribute to this ongoing atmospheric portrait by tweeting your
@@ -33,4 +33,4 @@ observations of the current air conditions with the tag #ThisWorldOfAir and addi
 geolocation:
 You can also post on facebook with the #ThisWorldOfAir tag.
 
-Facebook event: https://www.facebook.com/events/346261716373390
+Facebook event: [https://www.facebook.com/events/346261716373390](https://www.facebook.com/events/346261716373390)

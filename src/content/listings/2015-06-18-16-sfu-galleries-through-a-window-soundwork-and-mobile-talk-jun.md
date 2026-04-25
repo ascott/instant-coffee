@@ -31,7 +31,7 @@ These soundworks are specifically informed by the spaces that comprise
 SFU's Vancouver and Burnaby campuses as well as the Hastings Street
 corridor that runs between them. To preview the artists and composers on
 our online Audio Archive
-http://www.sfu.ca/galleries/through-a-window-public-projects/audio-archive.html
+[http://www.sfu.ca/galleries/through-a-window-public-projects/audio-archive.html](http://www.sfu.ca/galleries/through-a-window-public-projects/audio-archive.html)
 
 Board the Bus / Mobile Talks by SFU faculty and alumnus
 2 - 4:30PM

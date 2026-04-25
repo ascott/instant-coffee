@@ -48,14 +48,14 @@ Water rituals
 Building communities of care based on water teachings
 See call here:
 
-https://www.santarosaarts.com/about-5
+[https://www.santarosaarts.com/about-5](https://www.santarosaarts.com/about-5)
 
-https://www.santarosaarts.com/
+[https://www.santarosaarts.com/](https://www.santarosaarts.com/)
 
 Questions: info@santarosaarts.com
 
 Santa Rosa Arts and Healing
-https://www.santarosaarts.com/
+[https://www.santarosaarts.com/](https://www.santarosaarts.com/)
 We express the gratitude and privilege of working and living in the traditional
 territories of the Sinixt, Syilx and Tunaxa people also known as Christina Lake BC.
 We are

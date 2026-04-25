@@ -63,7 +63,7 @@ negging, and gatekeeping. The publication also features a brand new artist book,
 Rabbit-Hole"which Ahlers vividly describes as a feminist
 memoir/scrapbook/confessional commentary on the art world and my place within it.
 
-More details can be found at https://www.richmondartgallery.org/classification-crisis.
+More details can be found at [https://www.richmondartgallery.org/classification-crisis](https://www.richmondartgallery.org/classification-crisis).
 
 About the artist
 

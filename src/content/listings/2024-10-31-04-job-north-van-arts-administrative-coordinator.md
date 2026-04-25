@@ -9,5 +9,5 @@ summary: "JOB | North Van Arts | Administrative Coordinator"
 ---
 
 North Van Arts seeking for the position of Administrative Coordinator.
-https://northvanarts.ca/about/career-opportunities/
+[https://northvanarts.ca/about/career-opportunities/](https://northvanarts.ca/about/career-opportunities/)
 Start Date: immediate

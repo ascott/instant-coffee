@@ -50,7 +50,7 @@ It's going to be exciting.
 
 The cost of materials that you take home with you ($10-15) is included in the 
 workshop fee.
-http://vivomediaarts.com/education/workshops/circuit-bending
+[http://vivomediaarts.com/education/workshops/circuit-bending](http://vivomediaarts.com/education/workshops/circuit-bending)
 
 VIVO | Circuit Building Workshop | APR 9, 11
 
@@ -70,7 +70,7 @@ timer/oscillator, a punk atari sound synth or a 1970's distortion circuit.
 
 The cost of materials that you take home with you ($10-15) is included in the 
 workshop fee - $125 or $100 with VIVO Producer Membership (Extended) 
-http://vivomediaarts.com/education/workshops/circuit-building
+[http://vivomediaarts.com/education/workshops/circuit-building](http://vivomediaarts.com/education/workshops/circuit-building)
 
 VIVO | Interactive Video Feedback Workshop | APR 10, 20, 21
 
@@ -105,7 +105,7 @@ Making analog and digital play nice
 Advanced techniques
 
 $175 or $150 VIVO Producer Membership (Extended) 
-http://vivomediaarts.com/education/workshops/interactive-analogue-video-
+[http://vivomediaarts.com/education/workshops/interactive-analogue-video-](http://vivomediaarts.com/education/workshops/interactive-analogue-video-)
 feedback
 VIVO | openFRAMEWORKS Workshop | APR 13, 14
 
@@ -135,7 +135,7 @@ vision, serial communication, mobile applications, etc.
 Session IV
 Directed projects continued...
 $220 or $175 with VIVO Producer Membership (Extended)
-http://vivomediaarts.com/education/workshops/openframeworks
+[http://vivomediaarts.com/education/workshops/openframeworks](http://vivomediaarts.com/education/workshops/openframeworks)
 
 VIVO | Photo-Documentation: Beyond the Deluge Workshop | APR 15, 17 & 
 22, 24
@@ -168,7 +168,7 @@ workshop. Please come comfortable with your camera's basic functions
 your camera and USB cable to every class!
 
 $220 or $175 with VIVO Producer Membership (Extended)
-http://vivomediaarts.com/education/workshops/photo-documentation-beyond-
+[http://vivomediaarts.com/education/workshops/photo-documentation-beyond-](http://vivomediaarts.com/education/workshops/photo-documentation-beyond-)
 deluge
 VIVO | Creating Applications for Android Workshop | APR 16, 18, 23, 25
 
@@ -204,10 +204,10 @@ featured Android applications.
 Participants encouraged to bring their own laptop and Android phone, with the 
 latest version of both Processing and the Android SDK downloaded and 
 installed. They are both available on any OS, free of charge:
-http://processing.org/download/
-http://developer.android.com/sdk/index.html
+[http://processing.org/download/](http://processing.org/download/)
+[http://developer.android.com/sdk/index.html](http://developer.android.com/sdk/index.html)
 $220 or $175 with VIVO Producer Membership (Extended)
-http://vivomediaarts.com/education/workshops/creating-apps-android
+[http://vivomediaarts.com/education/workshops/creating-apps-android](http://vivomediaarts.com/education/workshops/creating-apps-android)
 
 VIVO | C4 Media and Interactivity for iOS Workshop | MAY 6, 8, 13, 15
 
@@ -252,4 +252,4 @@ In this session participants will continue working on their directed projects.
 New concepts and specific techniques that arise through their 
 experimentation will be discussed.
 $220 or $175 with VIVO Producer Membership (Extended)
-http://vivomediaarts.com/education/workshops/c4-media-and-interactivity-ios
+[http://vivomediaarts.com/education/workshops/c4-media-and-interactivity-ios](http://vivomediaarts.com/education/workshops/c4-media-and-interactivity-ios)

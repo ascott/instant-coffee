@@ -35,7 +35,7 @@ will likely work with the Design Board and project design team to further
 conceptualize the project including determining preparation of the site.
 
 For more information and submission guidelines:
-https://www.callforentry.org/festivals_unique_info.php?ID=2658&sortby=fair_name&apply=yes
+[https://www.callforentry.org/festivals_unique_info.php?ID=2658&sortby=fair_name&apply=yes](https://www.callforentry.org/festivals_unique_info.php?ID=2658&sortby=fair_name&apply=yes)
 
 For questions regarding the submission requirements or process, contact the
 Salt Lake City Arts Council by email at

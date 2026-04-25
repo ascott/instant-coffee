@@ -18,4 +18,4 @@ that celebrates the exhibition Aporia (Notes to a Medium). Directed by Paolo Bor
 and coach Joanne S. Na, this UBC School of Music graduate and undergraduate
 student ensemble will breathe life into the gallery during an afternoon program.
 
-https://belkin.ubc.ca/events/concert-at-the-belkin-aporia/
+[https://belkin.ubc.ca/events/concert-at-the-belkin-aporia/](https://belkin.ubc.ca/events/concert-at-the-belkin-aporia/)

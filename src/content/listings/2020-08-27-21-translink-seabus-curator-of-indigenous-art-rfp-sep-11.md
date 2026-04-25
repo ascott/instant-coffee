@@ -18,6 +18,6 @@ fabrication and installation, as well as coordinating project blessing ceremonie
 and/or launch events.
 
 For more information, please visit:
-http://discovery.ariba.com/rfx/8765307
+[http://discovery.ariba.com/rfx/8765307](http://discovery.ariba.com/rfx/8765307)
 
 Closing date: September 11, 2020

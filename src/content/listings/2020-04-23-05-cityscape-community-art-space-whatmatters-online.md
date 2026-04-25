@@ -11,4 +11,4 @@ summary: "CityScape Communit​y Art Space | ?WhatMatters! online"
 Our gallery space is closed to the public and we have moved our current exhibition ?What
 Matters!online. You can explore photos of the artwork and our gallery in our new virtual gallery.
 
-https://northvanarts.ca/events-exhibitions/what-matters/
+[https://northvanarts.ca/events-exhibitions/what-matters/](https://northvanarts.ca/events-exhibitions/what-matters/)

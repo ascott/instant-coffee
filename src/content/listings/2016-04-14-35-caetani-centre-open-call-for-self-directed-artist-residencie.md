@@ -32,8 +32,8 @@ Aug 19 - Sept 30
 Nov 1 - Flexible end date
 
 Links to more information:
-http://caetaniculturalcentre.org/artist-residencies/self-directed-air/
-http://caetaniculturalcentre.org/wp/wp-content/uploads/2015/07/SelfDirectedProgramGuidelines2015.pdf
+[http://caetaniculturalcentre.org/artist-residencies/self-directed-air/](http://caetaniculturalcentre.org/artist-residencies/self-directed-air/)
+[http://caetaniculturalcentre.org/wp/wp-content/uploads/2015/07/SelfDirectedProgramGuidelines2015.pdf](http://caetaniculturalcentre.org/wp/wp-content/uploads/2015/07/SelfDirectedProgramGuidelines2015.pdf)
 
 Caetani Cultural Society
 3401 Pleasant Valley Road

@@ -20,7 +20,7 @@ promote an understanding of instability not as a hindrance or limitation, but as
 pervasive condition that can be exposed and even harnessed to productive 
 critical ends.
 
-For more information, please see http://adgsa.wordpress.com.
+For more information, please see [http://adgsa.wordpress.com](http://adgsa.wordpress.com).
 
 Call for Artworks
 

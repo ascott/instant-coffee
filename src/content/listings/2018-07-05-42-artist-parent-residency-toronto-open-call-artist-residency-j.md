@@ -11,6 +11,6 @@ summary: "Artist Parent Residency (Toronto) | OPEN CALL ARTIST RESIDENCY | JUL 1
 OPEN CALL - MOTHRA: Artist Parent Project is looking for applicants for an upcoming 
 residency in Toronto. Artist-Parents who are primary caregivers to a young child are welcome 
 to apply at: 
-https://mothra-artist-parents.tumblr.com/
+[https://mothra-artist-parents.tumblr.com/](https://mothra-artist-parents.tumblr.com/)
 
 Deadline is July 15th. Residency is at Artscape Youngplace Sept 17th - 21st and is FREE!

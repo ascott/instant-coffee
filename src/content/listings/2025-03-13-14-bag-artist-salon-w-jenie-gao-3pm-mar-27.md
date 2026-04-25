@@ -30,5 +30,5 @@ Burnaby Art Gallery
 BC Canada
 V5G 2J3
 
-https://www.burnaby.ca/recreation-and-arts/events/artist-salon-and-open-studio-
+[https://www.burnaby.ca/recreation-and-arts/events/artist-salon-and-open-studio-](https://www.burnaby.ca/recreation-and-arts/events/artist-salon-and-open-studio-)
 jenie-gao

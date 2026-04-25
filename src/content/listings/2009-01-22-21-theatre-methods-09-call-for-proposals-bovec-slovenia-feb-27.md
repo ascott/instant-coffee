@@ -29,14 +29,14 @@ PRESENTATION FORMATS:
 - any other way of demonstration to the presenter's discretion.
 
 ACCOMODATION & VENUE (Bovec mountain resort):
-http://www.iugte.com/projects/slovenia.php
+[http://www.iugte.com/projects/slovenia.php](http://www.iugte.com/projects/slovenia.php)
 Nearest airports: Ljubljana (Slovenia), Trieste (Italy) or Klagenfurt
 (Austria).
 
 SUBMISSION GUIDELINES & REGISTRATION:
-http://www.iugte.com/projects/fest.reg.php
-http://www.iugte.com/projects/TM09.php
+[http://www.iugte.com/projects/fest.reg.php](http://www.iugte.com/projects/fest.reg.php)
+[http://www.iugte.com/projects/TM09.php](http://www.iugte.com/projects/TM09.php)
 
 You are also welcome to take part in the festival as a Participant!
 Visit the Photo Gallery of the previous conferences:
-http://picasaweb.google.ru/globtheatre
+[http://picasaweb.google.ru/globtheatre](http://picasaweb.google.ru/globtheatre)

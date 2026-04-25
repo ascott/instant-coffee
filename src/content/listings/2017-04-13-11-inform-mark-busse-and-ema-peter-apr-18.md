@@ -20,7 +20,7 @@ Mark Busse of HCMA Architecture + Design, Peter discusses the constructed nature
 of architectural photos, the symbiotic relationship between buildings and 
 photography, and how image capture affects design. She also shares technical 
 insights and experiences from her award-winning career.
-Free but RSVP required. Please RSVP using this form: http://bit.ly/2o2wTxI
+Free but RSVP required. Please RSVP using this form: [http://bit.ly/2o2wTxI](http://bit.ly/2o2wTxI)
 
 The Capture Speaker Series is by Capture Photography Festival and Inform 
 Interiors. Developed in partnership with IDS Vancouver.

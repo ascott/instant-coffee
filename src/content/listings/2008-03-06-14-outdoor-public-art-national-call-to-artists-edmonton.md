@@ -26,7 +26,7 @@ Submission Deadline: Thursday April 3, 2008 at 2:00pm MST
 Target Installation: April/May 2009
 All media suitable for Edmonton’s variant climate will be considered. This competition is open to artists working in craft media, visual art, light, sculptural or interdisciplinary media who are Canadian citizens or permanent residents of Canada. Artists may submit alone as or as creative teams.
 
-To Participate: Artists or Artistic Teams will be required to register their interest as VENDORS, free of charge, and obtain the RFEOI document, including site plans and photographs, by downloading the RFEOI from the Alberta Purchasing Connection website. http://vendor.purchasingconnection.ca/Opportunity.aspx?Guid=360D7094-B1FF-4FDD-9FA6-C9F1D1897D16   or www.purchasingconnection.ca  
+To Participate: Artists or Artistic Teams will be required to register their interest as VENDORS, free of charge, and obtain the RFEOI document, including site plans and photographs, by downloading the RFEOI from the Alberta Purchasing Connection website. [http://vendor.purchasingconnection.ca/Opportunity.aspx?Guid=360D7094-B1FF-4FDD-9FA6-C9F1D1897D16](http://vendor.purchasingconnection.ca/Opportunity.aspx?Guid=360D7094-B1FF-4FDD-9FA6-C9F1D1897D16)   or www.purchasingconnection.ca  
  
 
 Solicitation Number: CNS2008-02-53

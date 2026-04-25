@@ -31,7 +31,7 @@ Image and Object reflects the rich creative energy of Metro Vancouvers contempor
 scene and celebrates photography as a living, evolving medium. In rethinking what a
 photograph can be, the exhibition invites audiences to see and navigate photographic works
 in bold new ways.
-More information here: https://northvanarts.ca/events-exhibitions/edges/
+More information here: [https://northvanarts.ca/events-exhibitions/edges/](https://northvanarts.ca/events-exhibitions/edges/)
 
 Gallery Hours
 Wednesday " Saturday: 11am " 5pm

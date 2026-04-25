@@ -28,7 +28,7 @@ contexts of labour.
 A virtual artist talk with the artists and guest curator Sajdeep Soomal will be presented
 on March 29, in collaboration with the School of Creative Arts at the University of the
 Fraser Valley. The event is free and open to anyone, but you must register in advance:
-https://artisttalk_simranpreetanand.eventbrite.ca
+[https://artisttalk_simranpreetanand.eventbrite.ca](https://artisttalk_simranpreetanand.eventbrite.ca)
 
 The Reach Gallery Museum
 32388 Veterans Way

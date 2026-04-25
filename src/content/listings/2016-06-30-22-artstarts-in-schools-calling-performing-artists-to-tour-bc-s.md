@@ -15,7 +15,7 @@ annual ArtStarts Showcase and Conference and be positioned to tour British
 Columbia schools starting September 2017.
 
 The deadline to apply is October 7, 2016.
-Learn more and apply online at http://artstarts.com/showcase
+Learn more and apply online at [http://artstarts.com/showcase](http://artstarts.com/showcase)
 
 23. PLAYingMUSIC/DJing/DANCEing/PARTYing/RELAXing
 1.
@@ -53,7 +53,7 @@ My client list is currently small but I have written professionally for
 print and online publications. I would love to work with you to help you
 get the money you need to work on your next project, to work with a mentor,
 or to go to an artist residency. For more information, please visit:
-http://writer.laurabucci.com.
+[http://writer.laurabucci.com](http://writer.laurabucci.com).
 
 3.
 

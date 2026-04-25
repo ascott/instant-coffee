@@ -20,6 +20,6 @@ father. Hurt and confused, Jesus heads off on the most epic father quest of all 
 Along the way he meets Judas, Mary Magdalene, the Three Wise Men, Lepers, 
 Romans, he even has a battle with the spirit of Elvis! Jesus Christ: The Lost Years is 
 directed by Ryan Gladstone and stars Carly Pokoradi & Alex Gullason. Venue: Havana 
-Theatre, 1212 Commercial Drive | Box Office: https://www.showpass.com/jesus-christ-
+Theatre, 1212 Commercial Drive | Box Office: [https://www.showpass.com/jesus-christ-](https://www.showpass.com/jesus-christ-)
 the-lost-years/ |Run: March 13-23, 2018-8pm | More: www.monstertheatre.com 
-Facebook: https://www.facebook.com/events/232895754295748/
+Facebook: [https://www.facebook.com/events/232895754295748/](https://www.facebook.com/events/232895754295748/)

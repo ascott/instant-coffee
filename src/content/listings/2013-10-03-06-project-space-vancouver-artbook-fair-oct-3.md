@@ -56,11 +56,11 @@ collaboration with the Hammock Residency.
 
 Vancouver Art/Book Fair
 October 5 and 6, 12pm to 5pm (exhibitor list and schedule of programs and 
-performances coming soon at http://www.vancouverartbookfair.com)
+performances coming soon at [http://www.vancouverartbookfair.com](http://www.vancouverartbookfair.com))
 
 Artists' Books Weekend
 October 3 to 6 (full schedule coming soon to 
-http://vancouverartbookfair.com/artistsbooksweekend/
+[http://vancouverartbookfair.com/artistsbooksweekend/](http://vancouverartbookfair.com/artistsbooksweekend/)
 
 Event Overview
 

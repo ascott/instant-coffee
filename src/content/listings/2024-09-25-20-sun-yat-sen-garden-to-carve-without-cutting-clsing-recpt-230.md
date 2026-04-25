@@ -20,7 +20,7 @@ their Hall of One Hundred Rivers.
 Prior to the reception, there will be a XINEMA-curated film screening hosted by the
 Chinese Cultural Centre Museum (just off the Sun Yat-Sen Park) from 1:00-2:30pm.
 More information on the screening can be found here:
-https://www.unitpitt.ca/portfolio/light-grows-wild/
+[https://www.unitpitt.ca/portfolio/light-grows-wild/](https://www.unitpitt.ca/portfolio/light-grows-wild/)
 
 While tickets for the film screening are $15, attendance to the reception is free "
 please RSVP to info@unitpitt.ca if you would like to attend the reception only.
@@ -31,7 +31,7 @@ This is the final week to view the exhibition to carve without cutting, curated 
 Jong and presented by UNIT/PITT at the Dr. Sun Yat-Sen Garden and Park in
 Vancouver's Chinatown.
 
-Admission is free by reservation at the following link: https://www.eventbrite.ca/e/to-
+Admission is free by reservation at the following link: [https://www.eventbrite.ca/e/to-](https://www.eventbrite.ca/e/to-)
 carve-without-cutting-tickets-999468967587?aff=oddtdtcreator
 
 Both entrances to the Garden and the Park are located at 578 Carrall Street.
@@ -66,7 +66,7 @@ Amy Ching-Yan Lam & Robin Simpson
 Lou Lou Sainsbury & Gabi Dao
 Erin Skiffington & Landon Lim
 
-More information: https://www.unitpitt.ca/portfolio/to-carve-without-cutting/
+More information: [https://www.unitpitt.ca/portfolio/to-carve-without-cutting/](https://www.unitpitt.ca/portfolio/to-carve-without-cutting/)
 
 Dr. Sun Yat-Sen Classical Chinese Garden is a cultural heritage site and registered
 museum located in the heart of Vancouvers Chinatown. Managed by The Dr. Sun

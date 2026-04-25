@@ -22,4 +22,4 @@ artist's work and career.
 The residency will be held from Feb 24th 2018 to March 25th 2018
 Deadline: December 3rd 2017
 
-More info: http://bhor.org/how-to-apply/
+More info: [http://bhor.org/how-to-apply/](http://bhor.org/how-to-apply/)

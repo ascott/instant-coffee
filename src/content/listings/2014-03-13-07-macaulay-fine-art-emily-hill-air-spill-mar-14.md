@@ -33,4 +33,4 @@ new work.
 Emily Hill is a recent graduate of Emily Carr University of Art & Design. 
 
 mfineart.ca
-https://www.facebook.com/events/595432733864593/
+[https://www.facebook.com/events/595432733864593/](https://www.facebook.com/events/595432733864593/)

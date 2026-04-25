@@ -49,7 +49,7 @@ Please submit through Google form :
 Artwork Images: High-resolution images (300 DPI) of the artwork(s).
 Artwork Details: Title, dimensions, medium, and any special notes about your piece.
 Artist Bio: A short bio (up to 100 words) for inclusion in auction materials.
-GOOGLE FORM: https://forms.gle/CBmRtb9ckxnvKR3BA
+GOOGLE FORM: [https://forms.gle/CBmRtb9ckxnvKR3BA](https://forms.gle/CBmRtb9ckxnvKR3BA)
 Event Terms
 
 Artists grant permission for their artwork images to be used in event promotion.

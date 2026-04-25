@@ -15,7 +15,7 @@ The show runs until Thursday, April 27th.
 Come join us in celebrating the works of Langara Fine Arts graduating students!
 
 More information about Langara's Fine Arts program:
-http://langara.ca/programs-and-courses/programs/fine-arts/
+[http://langara.ca/programs-and-courses/programs/fine-arts/](http://langara.ca/programs-and-courses/programs/fine-arts/)
 
 Art Sale
 The 2017 Langara Fine Arts grad class will be putting on an Art Show from April 20th

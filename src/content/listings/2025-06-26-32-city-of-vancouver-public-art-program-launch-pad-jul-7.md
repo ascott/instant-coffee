@@ -13,6 +13,6 @@ program for exhibiting 2D artwork on the billboards along the Arbutus Greenway. 
 call is open to recent local graduates from art/design institutions or from
 apprenticeships. To learn more, please go here:
 
-https://vancouver.ca/parks-recreation-culture/artist-call-for-launch-pad-2026.aspx
+[https://vancouver.ca/parks-recreation-culture/artist-call-for-launch-pad-2026.aspx](https://vancouver.ca/parks-recreation-culture/artist-call-for-launch-pad-2026.aspx)
 
 Deadline to apply is July 7th at 4pm!

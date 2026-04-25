@@ -43,7 +43,7 @@ presented in a contemporary transient medium.
 Please join us for our opening reception Thursday August 18th in 
 room 106 at The Waldorf Hotel.
 
-http://blackandyellow.ca/
+[http://blackandyellow.ca/](http://blackandyellow.ca/)
 
 Born in Manila, The Philippines where he studied Engineering, de 
 Guzman immigrated to Canada in 1986 and currently lives and 
@@ -57,4 +57,4 @@ month residency at Stichting Duende in Rotterdam, The
 Netherlands, his project Digger premiered at Galerie Transit in 
 Mechelen, Belgium in March 2011.
 
-http://birchlibralato.com/​ artists/?artist=15
+[http://birchlibralato.com/​](http://birchlibralato.com/​) artists/?artist=15

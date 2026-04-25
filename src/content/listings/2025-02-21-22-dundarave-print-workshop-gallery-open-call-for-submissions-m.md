@@ -26,5 +26,5 @@ conversation as we examine the shifting ground beneath us.
 
 Deadline for online application: 11:59 pm, March 31st, 2025
 
-To apply, visit our website at https://www.dundaraveprintworkshop.com/opencall and
+To apply, visit our website at [https://www.dundaraveprintworkshop.com/opencall](https://www.dundaraveprintworkshop.com/opencall) and
 for any questions, email us at info@dundaraveprintworkshop.com

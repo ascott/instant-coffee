@@ -17,7 +17,7 @@ Fri 27 November, 7.30pm
 Cineworks Studio, 1131 Howe Street (lane entrance)
 $8 Cineworks Members; $10 General Admission
 
-http://bit.ly/1OF9egw
+[http://bit.ly/1OF9egw](http://bit.ly/1OF9egw)
 
 In partnership with Iris Film Collective and Cineworks, Film Archivist
 Kevin Rice from Colorado-based nonprofit organization, Process Reversal,
@@ -70,12 +70,12 @@ House; Saturday 28 Nov, 2.30pm; 3434 Falaise Avenue, Vancouver; FREE;
 
 Contact Printing and Colour Effects Workshop with Kevin Rice: Cineworks
 Annex; Sunday 29 Nov, 10.00am-5.00pm; $50 / $60 + taxes;
-Registration: http://bit.ly/1NzK6WY
+Registration: [http://bit.ly/1NzK6WY](http://bit.ly/1NzK6WY)
 
 PARTNER INFORMATION:
 
-http://processreversal.org/
-http://www.irisfilmcollective.com/
+[http://processreversal.org/](http://processreversal.org/)
+[http://www.irisfilmcollective.com/](http://www.irisfilmcollective.com/)
 
 Cineworks Independent Filmmakers Society (est.1980) is an artist-run
 production and exhibition centre that supports independent filmmakers and

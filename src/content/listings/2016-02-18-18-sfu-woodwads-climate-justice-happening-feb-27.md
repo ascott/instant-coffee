@@ -43,5 +43,5 @@ Dave Biddle, dantebids@gmail.com
 Claris Figueira, clris-figueira@hotmail.com 
 Jack Jardine, jack@sparxc.ca
 Laura Marks, lmarks@sfu.ca
-https://www.facebook.com/events/1244176408930918/
+[https://www.facebook.com/events/1244176408930918/](https://www.facebook.com/events/1244176408930918/)
 #ClimateJusticeHappening

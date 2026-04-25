@@ -19,7 +19,7 @@ September 30, 2008
 An Artspeak OFFSITE project,
 curated by Melanie O'Brian
 
-http://www.artspeak.ca
+[http://www.artspeak.ca](http://www.artspeak.ca)
 
 Althea Thauberger's site-specific event will take place on the 200 block of
 Carrall Street in front of Artspeak Gallery.
@@ -95,4 +95,4 @@ ARTSPEAK
 233 Carrall Street
 Vancouver, BC
 V6B 2J2 Canada
-http://www.artspeak.ca
+[http://www.artspeak.ca](http://www.artspeak.ca)

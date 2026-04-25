@@ -42,8 +42,8 @@ Raymond Boisjoly, Laura Matwichuk, Kim Nguyen, and Ryan Peter.
 Come celebrate the final show in Gallery Atsui's 2009/10 season.
 
 Stay up to date on what's happening at Gallery Atsui:
-Join our Facebook group: http://tiny.cc/atsuifb
-Follow us on Twitter: http://twitter.com/galleryatsui
+Join our Facebook group: [http://tiny.cc/atsuifb](http://tiny.cc/atsuifb)
+Follow us on Twitter: [http://twitter.com/galleryatsui](http://twitter.com/galleryatsui)
 Gallery Atsui
 602 East Hastings (at Princess)
 Vancouver, BC

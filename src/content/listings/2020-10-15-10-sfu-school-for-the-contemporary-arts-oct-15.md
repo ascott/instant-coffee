@@ -12,7 +12,7 @@ UAAC / AAUC KEYNOTE.1: Charmaine Nelson
 Thursday, October 15 | 1:30 PM " 3:00 PM (PDT)
 Zoom | FREE (link sent with registration)
 
-Please check back HERE for the Zoom link: https://uaac-aauc.com/2020/keynote1.html
+Please check back HERE for the Zoom link: [https://uaac-aauc.com/2020/keynote1.html](https://uaac-aauc.com/2020/keynote1.html)
 
 Please join us for a keynote lecture by Charmaine A. Nelson (Professor of Art History,
 McGill University), presented as part of the Universities Art Association of Canada's
@@ -45,7 +45,7 @@ UAAC / AAUC: Book Launch & Roundtable
 Friday, October 16 | 4:00 PM " 5:30 PM (PDT)
 Zoom | FREE (link sent with registration)
 
-Please check back HERE for the Zoom link: https://uaac-
+Please check back HERE for the Zoom link: [https://uaac-](https://uaac-)
 aauc.com/2020/booklaunch.html
 
 The Universities Art Association of Canada and the SFU School for the Contemporary
@@ -69,7 +69,7 @@ UAAC / AAUC: KEYNOTE.2: Stan Douglas
 Saturday, October 17 | 1:30 PM " 3:00 PM (PDT)
 Zoom | FREE (link sent with registration)
 
-Please check back HERE for the Zoom link: https://uaac-aauc.com/2020/keynote2.html
+Please check back HERE for the Zoom link: [https://uaac-aauc.com/2020/keynote2.html](https://uaac-aauc.com/2020/keynote2.html)
 
 Please join us for a keynote conversation between artist Stan Douglas and curator
 Melanie OBrian, to be followed by a live Q+A moderated by Claudette Lauzon,

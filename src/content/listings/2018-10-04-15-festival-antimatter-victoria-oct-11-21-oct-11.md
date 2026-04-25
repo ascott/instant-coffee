@@ -91,5 +91,5 @@ starting September 30.
 Antimatter is produced and programmed by Todd Eacrett and Deborah de Boer: 250 
 385 3327 / info@antimatter.ca
 
-Antimatter program guide: https://bit.ly/2Oesgjv | Press images: 
-https://bit.ly/2N4HtPI
+Antimatter program guide: [https://bit.ly/2Oesgjv](https://bit.ly/2Oesgjv) | Press images: 
+[https://bit.ly/2N4HtPI](https://bit.ly/2N4HtPI)

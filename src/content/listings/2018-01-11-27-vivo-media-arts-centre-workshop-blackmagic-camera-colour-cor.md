@@ -19,7 +19,7 @@ correction software in this comprehensive introduction by cinematographer Devan 
 Session 1: Sun Feb 4, 1pm-5:30pm
 Session 2: Sun Feb 11, 1pm-5:30pm
 
-SIGN UP & MORE INFO: https://blackmagic-colourcorrection.eventbrite.ca/
+SIGN UP & MORE INFO: [https://blackmagic-colourcorrection.eventbrite.ca/](https://blackmagic-colourcorrection.eventbrite.ca/)
 
 This workshop covers The Blackmagic Cinema Camera, one of VIVO's most 
 extraordinary production tools, as well as its free colour correction software, Davinci 

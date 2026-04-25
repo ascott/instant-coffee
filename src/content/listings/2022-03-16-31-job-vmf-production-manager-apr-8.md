@@ -17,4 +17,4 @@ LOCATION: Vancouver, BC. Combination of office and home work options between on-
 site event work
 REPORTING TO: Technical Director, Britany Lawrence
 COMPENSATION: $25-$30/hr commensurate with experience
-LEARN MORE + APPLY: https://vanmuralfest.ca/jobs
+LEARN MORE + APPLY: [https://vanmuralfest.ca/jobs](https://vanmuralfest.ca/jobs)

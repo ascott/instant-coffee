@@ -36,6 +36,6 @@ observer/artist connections are bridged.
 
 Registration Links:
 
-Opening Reception: https://lesgrandedames.eventbrite.ca
+Opening Reception: [https://lesgrandedames.eventbrite.ca](https://lesgrandedames.eventbrite.ca)
 
-Artist Talk: https://lesgrandedamesartisttalk.eventbrite.ca
+Artist Talk: [https://lesgrandedamesartisttalk.eventbrite.ca](https://lesgrandedamesartisttalk.eventbrite.ca)

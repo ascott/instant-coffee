@@ -28,23 +28,23 @@ most exciting and dynamic art events of the season.
 
 JEFF DEPNER's paintings pit architectonic organization against the organic,
 exploring compositional structure through the relationship between colours.
-http://jeffdepner.com/
+[http://jeffdepner.com/](http://jeffdepner.com/)
 
 RUSSELL LENG is an emerging artist in Vancouver. His paintings conjure a
 new sense of landscape by employing rigid shapes and organic marks to
 question relationships between natural and built environments.
 
-http://www.russellleng.com/
+[http://www.russellleng.com/](http://www.russellleng.com/)
 
 AARON MORAN creates geometrical assemblages from found wood, drawing
 attention to destructive acts of urban development. The resulting pieces
 become visual representations of the structures that once stood, as well as
 their resulting ravaged state, post-demolition.
 
-http://aaronmoran.tumblr.com/
+[http://aaronmoran.tumblr.com/](http://aaronmoran.tumblr.com/)
 
 SARAH GEE uses collaged paper to create intensely coloured, meditative,
 abstract works she calls heretical geometry. By superimposing psychedelia
 onto more rigorous mathematical forms the results are vibrant and mysterious.
 
-http://www.sarahgee.ca/
+[http://www.sarahgee.ca/](http://www.sarahgee.ca/)

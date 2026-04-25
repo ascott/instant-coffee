@@ -13,15 +13,15 @@ YOSHI SODEOKA
 
 The month we are featuring New-York based digital artist Yoshi Sodeoka. Sign up by 
 January 27 to receive your own copy of his latest work and join our growing community 
-of digital art patrons: http://www.decoymagazine.ca/bcc
+of digital art patrons: [http://www.decoymagazine.ca/bcc](http://www.decoymagazine.ca/bcc)
 
 Yoshi Sodeoka is an artist based in New York for over two decades, whose work is 
 characterised by his neo-psychedelic aesthetic and exploration of multiple media and 
 platforms. Primarily comprising of video, GIFs and print his practice also simultaneously 
-inhabits the world of fine art, music, publications, and advertising. https://sodeoka.com/
+inhabits the world of fine art, music, publications, and advertising. [https://sodeoka.com/](https://sodeoka.com/)
 
 This commission is in conjunction with our upcoming exhibition, The Channelers, taking 
 place from Feb 2 - Mar 3 at EMMEDIA (Calgary) for the 2018 Particle + Wave Festival, 
 featuring the work of Jeremy Bailey (Canada), Philip Huang (USA), Lorna Mills 
 (Canada), Yoshi Sodeoka (USA), Sydney Southam (Canada), and Rodell Warner 
-(Trinidad & Tobago): http://emmedia.ca/2018/01/the-channelers/
+(Trinidad & Tobago): [http://emmedia.ca/2018/01/the-channelers/](http://emmedia.ca/2018/01/the-channelers/)

@@ -50,8 +50,8 @@ Presented by: The Kootenay School of Writing, and the Canada Council
 
 WEBSITES
 
-http://www.kswnet.org/
-http://influencywest.wordpress.com/
+[http://www.kswnet.org/](http://www.kswnet.org/)
+[http://influencywest.wordpress.com/](http://influencywest.wordpress.com/)
 
 COMPLETE SCHEDULE
 

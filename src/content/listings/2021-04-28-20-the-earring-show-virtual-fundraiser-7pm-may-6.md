@@ -19,6 +19,6 @@ Opening virtual event: May 6, 2021, 7pm
 
 On display at CCBC Gallery: May 7-15
 
-More info: https://craftcouncilbc.ca/tes/
+More info: [https://craftcouncilbc.ca/tes/](https://craftcouncilbc.ca/tes/)
 
-Tickets: http://tes2021.eventbrite.ca/
+Tickets: [http://tes2021.eventbrite.ca/](http://tes2021.eventbrite.ca/)

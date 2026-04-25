@@ -31,8 +31,8 @@ announcements about walk-in days and times. Viewings also by appointment
 through info@galleryatsui.com
 
 Stay up to date on what's happening at Gallery Atsui:
-Join our Facebook group: http://tiny.cc/atsuifb
-Follow us on Twitter: http://twitter.com/galleryatsui
+Join our Facebook group: [http://tiny.cc/atsuifb](http://tiny.cc/atsuifb)
+Follow us on Twitter: [http://twitter.com/galleryatsui](http://twitter.com/galleryatsui)
 Gallery Atsui
 602 East Hastings (at Princess)
 Vancouver, BC

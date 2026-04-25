@@ -57,5 +57,5 @@ by appointment.
 
 REPUBLIC GALLERY
 732 Richards St, Third Floor, Vancouver BC V6B 3A4
-604.632.1590 | http://www.republicgallery.com
+604.632.1590 | [http://www.republicgallery.com](http://www.republicgallery.com)
 Wed - Sat 11 am - 4 pm and by appointment

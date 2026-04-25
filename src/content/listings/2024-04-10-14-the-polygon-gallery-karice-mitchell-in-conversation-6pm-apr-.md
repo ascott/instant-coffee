@@ -20,7 +20,7 @@ Talk at 6:00pm
 Reception from 7:00 - 7:30pm
 RSVPs are helpful
 
-RSVP Here: https://thepolygon.ca/event/will-to-adorn-karice-mitchell-in-
+RSVP Here: [https://thepolygon.ca/event/will-to-adorn-karice-mitchell-in-](https://thepolygon.ca/event/will-to-adorn-karice-mitchell-in-)
 conversation-with-chelsea-yuill/
 
 About the

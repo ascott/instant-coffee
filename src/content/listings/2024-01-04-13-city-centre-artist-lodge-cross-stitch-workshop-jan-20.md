@@ -31,7 +31,7 @@ $75
 Organized & run by City Centre Artist, Mallory Donen.
 
 Register through Eventbrite:
-https://www.eventbrite.ca/e/cross-stitch-workshop-
+[https://www.eventbrite.ca/e/cross-stitch-workshop-](https://www.eventbrite.ca/e/cross-stitch-workshop-)
 registration-768669690737?utm-campaign=social&utm-
 content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-
 source=cp&aff=ebdsshcopyurl

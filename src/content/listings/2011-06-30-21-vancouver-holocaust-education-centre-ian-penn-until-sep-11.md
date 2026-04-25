@@ -151,7 +151,7 @@ Paintings, sculptures, drawings and collages for sale - BBQ and
 Refreshments will be served ; )
 Moving to Montreal, everything must go. If you can't make it 
 but see something here that you like messages us.
-http://studiomovingsale.tumblr.com/
+[http://studiomovingsale.tumblr.com/](http://studiomovingsale.tumblr.com/)
 
 Les Ramsay, lesramsay@gmail.com, www.lesramsay.tumblr.com
 Colleen Heslin, colleenheslin@gmail.com, 

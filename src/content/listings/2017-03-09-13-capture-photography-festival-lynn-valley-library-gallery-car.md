@@ -47,4 +47,4 @@ City in Flux (Work in Progress) is part of Capture Photography Festival 2017
 capturephotofest.com
 
 North Vancouver Community Arts Council nvartscouncil.ca/events-exhibitions
-Delacajigafineart.com https://goo.gl/iUNq1D Delacajiga.com www.delacajiga.com
+Delacajigafineart.com [https://goo.gl/iUNq1D](https://goo.gl/iUNq1D) Delacajiga.com www.delacajiga.com

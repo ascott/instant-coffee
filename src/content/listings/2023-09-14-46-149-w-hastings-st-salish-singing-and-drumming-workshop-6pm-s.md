@@ -21,5 +21,5 @@ hand at Salish singing and drumming. There will be a limited number of drums
 available on the day of, but if you happen to have your own drum, you are encouraged
 to bring it with you!
 
-Register: https://www.eventbrite.ca/e/salish-singing-and-drumming-workshop-
+Register: [https://www.eventbrite.ca/e/salish-singing-and-drumming-workshop-](https://www.eventbrite.ca/e/salish-singing-and-drumming-workshop-)
 registration-667050605317

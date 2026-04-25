@@ -11,7 +11,7 @@ summary: "VIVO [ONLINE WORKSHOP] | Music Video Production | MAR 1"
 Music Video Production with director Hannah Dougherty
 
 More info and sign up at:
-https://musicvideoproduction.eventbrite.ca
+[https://musicvideoproduction.eventbrite.ca](https://musicvideoproduction.eventbrite.ca)
 
 12 hours total over 4 sessions, online // $134, or $92 for members
 ** By donation for those facing reduced income due to COVID-19

@@ -77,7 +77,7 @@ Theo Terry
 
 Ronan Nanning-Watson
 
-For more information, visit: https://hatchart.gallery/glovesoff
+For more information, visit: [https://hatchart.gallery/glovesoff](https://hatchart.gallery/glovesoff)
 
 Hatch Art Gallery
 NEST (Level 2), 6311 University Boulevard

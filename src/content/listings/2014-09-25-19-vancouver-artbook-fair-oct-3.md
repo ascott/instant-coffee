@@ -25,12 +25,12 @@ and the globe, and produce everything from books, magazines, zines and
 printed ephemera to digital, performative or other experimental forms of
 publication.
 
-Program and exhibitor list available at http://www.vancouverartbookfair.com
+Program and exhibitor list available at [http://www.vancouverartbookfair.com](http://www.vancouverartbookfair.com)
 
 VA/BF is also accompanied by the parallel series Artists' Books Week,
 comprised of events around artist publishing hosted across Vancouver from
 September 29 to October 5, 2014. Full schedule at:
-http://www.2014.vancouverartbookfair.com/artistsbooksweek
+[http://www.2014.vancouverartbookfair.com/artistsbooksweek](http://www.2014.vancouverartbookfair.com/artistsbooksweek)
 
 FRIDAY, OCTOBER 3
 
@@ -38,7 +38,7 @@ Members Only Preview
 Open to Members of Project Space and the Vancouver Art Gallery
 Vancouver Art Gallery, Lobby & Annex, 750 Hornby St.
 Friday, October 3, 6–8pm
-Memberships available at the door or http://www.projectspace.ca/memberships
+Memberships available at the door or [http://www.projectspace.ca/memberships](http://www.projectspace.ca/memberships)
 
 VA/BF Reception
 Free and open to the public
@@ -52,7 +52,7 @@ Vancouver Art/Book Fair
 Free and open to the public
 Vancouver Art Gallery Annex, 750 Hornby St.
 Saturday & Sunday, October 4 & 5, 12-5pm
-Full schedule: http://www.vancouverartbookfair.com
+Full schedule: [http://www.vancouverartbookfair.com](http://www.vancouverartbookfair.com)
 
 VA/BF has been made possible through the generosity of the following
 partners: Vancouver Art Gallery, City of Vancouver, Georgia Straight,

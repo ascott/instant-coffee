@@ -21,12 +21,12 @@ with light installations
 and printed matter in a synesthetic experience.
 
 AUDIO
-http://soundcloud.com/theaquarianfoundation
+[http://soundcloud.com/theaquarianfoundation](http://soundcloud.com/theaquarianfoundation)
 
 VIDEO
-http://weareleisure.com/2012/aquarian-foundation/
-http://vimeo.com/aquarianfoundation
-http://www.helenpittgallery.org/updates/this-weeks-video-aquarian-
+[http://weareleisure.com/2012/aquarian-foundation/](http://weareleisure.com/2012/aquarian-foundation/)
+[http://vimeo.com/aquarianfoundation](http://vimeo.com/aquarianfoundation)
+[http://www.helenpittgallery.org/updates/this-weeks-video-aquarian-](http://www.helenpittgallery.org/updates/this-weeks-video-aquarian-)
 foundatio/
 
 

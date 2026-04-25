@@ -165,6 +165,6 @@ asylum, borders, family separation, and settler colonialism.
 
 Hotam Press Gallery
 218 East 4th Ave., Vancouver BC V5T 1G5
-https://bookshopgallery.hotampress.com
+[https://bookshopgallery.hotampress.com](https://bookshopgallery.hotampress.com)
 
 Gallery Hours: Friday & Saturday, March 20 to May 1, 2021

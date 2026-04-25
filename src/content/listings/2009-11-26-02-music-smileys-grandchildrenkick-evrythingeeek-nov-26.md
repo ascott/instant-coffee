@@ -21,6 +21,6 @@ $5 - 9pm
 
 SMILEYS 911 West Pender
 
-http://www.myspace.com/grandchildren
-http://www.myspace.com/kickevrything
-http://www.myspace.com/wildpalmss
+[http://www.myspace.com/grandchildren](http://www.myspace.com/grandchildren)
+[http://www.myspace.com/kickevrything](http://www.myspace.com/kickevrything)
+[http://www.myspace.com/wildpalmss](http://www.myspace.com/wildpalmss)

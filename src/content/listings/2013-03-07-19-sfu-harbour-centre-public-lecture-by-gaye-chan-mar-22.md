@@ -28,7 +28,7 @@ in New York, Montreal, Vancouver, Sydney, Honolulu, San Francisco and
 Toronto. Chan’s collaborative projects include being a part of Eating in Public 
 and Downwind Productions. She was born in Hong Kong and immigrated to 
 the United States in 1969. She received her MFA from San Francisco Art 
-Institute. http://www.gayechan.com
+Institute. [http://www.gayechan.com](http://www.gayechan.com)
 
 Sponsored by the Centre for Policy Studies on Culture and Communities, 
 Simon Fraser University and The English Department SFU, The Asian 

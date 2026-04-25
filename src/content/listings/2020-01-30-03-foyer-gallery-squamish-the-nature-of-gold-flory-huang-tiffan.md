@@ -28,5 +28,5 @@ visual expression of optimism: Flory Huang seeks to provoke loving curiosity in 
 moment and Tiffany Blaise seeks to provide viewers a quiet and contemplative
 environment for themselves, much like they would in the physical natural terrain.
 
-More information also online at https://squamish.bc.libraries.coop/services-
+More information also online at [https://squamish.bc.libraries.coop/services-](https://squamish.bc.libraries.coop/services-)
 programs/our-services/foyer-gallery/

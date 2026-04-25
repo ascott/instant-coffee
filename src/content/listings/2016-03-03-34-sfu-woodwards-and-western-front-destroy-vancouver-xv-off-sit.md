@@ -51,7 +51,7 @@ Vilnius (Lituania). His work stands between musique concrete and DIY
 shamanism. Costumes and gestures work along with live electronic
 soundscapes improvised with soviet vintage electronics, acoustic
 objects and circuit bent gear.
-http://www.arma.lt/
+[http://www.arma.lt/](http://www.arma.lt/)
 
 BILL NACE + GREG KELLEY
 Kelley (nmperign, Heathen Shame, The BSC) and Nace (Body/Head,
@@ -94,4 +94,4 @@ projects. Beside solo works, he collaborated with other musicians, film-
 field and on stage. After accomplishing his latest project 'desert-sound'
 in the abandoned regions of the Atacama, he has become very
 interested in the resonance-patterns of glacier gaps.
-http://kutin.klingt.org/
+[http://kutin.klingt.org/](http://kutin.klingt.org/)

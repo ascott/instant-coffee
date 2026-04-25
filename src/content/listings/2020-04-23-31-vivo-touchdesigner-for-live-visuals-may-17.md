@@ -14,7 +14,7 @@ A beginner workshop on real-time video manipulation for live performance and int
 installations, with artist Yasushi Harada.
 
 SIGN UP & MORE INFO:
-https://touchdesigner-online.eventbrite.ca
+[https://touchdesigner-online.eventbrite.ca](https://touchdesigner-online.eventbrite.ca)
 
 9 hours total over 3 sessions, online // $50, or $30 with any VIVO Producer Membership
 (+GST)

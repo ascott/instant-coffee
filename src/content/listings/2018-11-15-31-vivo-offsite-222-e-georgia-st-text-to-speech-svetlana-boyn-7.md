@@ -41,8 +41,8 @@ diasporic narratives from the works of Dai Sil Kim-Gibson and Hwangbo Kangja tit
 29) Sa-I-Gu: From Women's Perspectives" (1993) and " / And Yet We 
 Survived (1995), respectively. 
 
-Website: http://www.vivomediaarts.com/text-to-speech-reading-group-2/
-Facebook event: https://www.facebook.com/events/272487346940185/
+Website: [http://www.vivomediaarts.com/text-to-speech-reading-group-2/](http://www.vivomediaarts.com/text-to-speech-reading-group-2/)
+Facebook event: [https://www.facebook.com/events/272487346940185/](https://www.facebook.com/events/272487346940185/)
 
 _
 PREVIOUS READINGS:

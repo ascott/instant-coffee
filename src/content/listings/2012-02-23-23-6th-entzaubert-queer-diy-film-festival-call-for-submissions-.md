@@ -15,7 +15,7 @@ we are ready to receive your submissions!
 go to our blog for the call-out and entry form, and to find out more 
 about the festival
 
-http://entzaubert.blogsport.de
+[http://entzaubert.blogsport.de](http://entzaubert.blogsport.de)
 
 xxxxxxx we are looking forward to hear from you !
 
@@ -54,8 +54,8 @@ write an email with the subject „workshop“ with your ideas!
 ******** CONTACT AND DEADLINE *******
 deadline: 1 april 2012
 contact: entzaubert AT gmail DOT com
-entry form and more information: http://entzaubert.blogsport.de
-venue: http://schwarzerkanal.squat.net
+entry form and more information: [http://entzaubert.blogsport.de](http://entzaubert.blogsport.de)
+venue: [http://schwarzerkanal.squat.net](http://schwarzerkanal.squat.net)
 
 ******* what is entzaubert? ******
 
@@ -157,4 +157,4 @@ dazu ermutigen, ihre Bilder und Worte rauszubringen um unsere
 Community und Vielfalt zu feiern!
 Mach mit, sei dabei!
 
-http://entzaubert.blogsport.de
+[http://entzaubert.blogsport.de](http://entzaubert.blogsport.de)

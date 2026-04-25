@@ -45,4 +45,4 @@ Liaison of Independent Filmmakers of Toronto (LIFT)
 Toronto, Ontario
 M6H 2A3
 Phone # During Covid: 647 209 9769
-http://www.lift.ca/workshop-registration
+[http://www.lift.ca/workshop-registration](http://www.lift.ca/workshop-registration)

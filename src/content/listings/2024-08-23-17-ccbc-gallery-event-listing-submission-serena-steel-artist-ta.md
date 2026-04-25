@@ -29,7 +29,7 @@ artist talk: 7 - 8p Delve deeper into Steels artistic journey and the inspiratio
 q"emxwqsem. Hear firsthand about the techniques, stories, and cultural influences
 that shape each piece in this thought-provoking exhibition.
 
-Webpage: https://www.eventbrite.ca/e/qemxweqsem-artist-talk-private-viewing-
+Webpage: [https://www.eventbrite.ca/e/qemxweqsem-artist-talk-private-viewing-](https://www.eventbrite.ca/e/qemxweqsem-artist-talk-private-viewing-)
 tickets-936911275847
 
 

@@ -55,4 +55,4 @@ Emily Carr University of Art + Design
 1399 Johnston Street, Vancouver, BC V6H 3R9
 E-mail: scottgal@ecuad.ca
 Web:
-http://chscott.ecuad.ca
+[http://chscott.ecuad.ca](http://chscott.ecuad.ca)

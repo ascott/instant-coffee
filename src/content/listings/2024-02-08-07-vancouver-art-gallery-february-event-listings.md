@@ -32,7 +32,7 @@ Short Film Showcase | February 22 at 7 PM at 8:15 PM
 
 Film Screening: When Morning Comes | February 29 at 6:30 PM
 
-Learn more: https://www.vanartgallery.bc.ca/celebrating-black-futures-2024/
+Learn more: [https://www.vanartgallery.bc.ca/celebrating-black-futures-2024/](https://www.vanartgallery.bc.ca/celebrating-black-futures-2024/)
 
 A Day of Delight
 with Jillian Christmas
@@ -41,7 +41,7 @@ Friday, February 16
 
 Join the Gallerys inaugural Poet in Residence Jillian Christmas for A Day of Delight
 which includes thoughtful conversations, workshops and poetic interpretations of the
-current exhibitions. Learn more: https://www.vanartgallery.bc.ca/poet-in-residence-
+current exhibitions. Learn more: [https://www.vanartgallery.bc.ca/poet-in-residence-](https://www.vanartgallery.bc.ca/poet-in-residence-)
 jillian-christmas
 
 J.E.H. MacDonald Up Close Book Launch
@@ -56,7 +56,7 @@ Hosted by Richard Hill, Smith Jarislowsky Senior Curator of Canadian Art at the
 Vancouver Art Gallery, the event will begin with a presentation by Douglas and Helwig,
 which will provide audience members with a unique, up-close view of the painting
 materials and methods used by renowned Group of Seven artist J.E.H. MacDonald.
-Find out more: https://www.vanartgallery.bc.ca/events/book-launch-jeh-macdonald-up-
+Find out more: [https://www.vanartgallery.bc.ca/events/book-launch-jeh-macdonald-up-](https://www.vanartgallery.bc.ca/events/book-launch-jeh-macdonald-up-)
 close
 
 Open Studio

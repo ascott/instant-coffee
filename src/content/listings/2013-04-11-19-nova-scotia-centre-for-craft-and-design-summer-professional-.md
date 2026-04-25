@@ -26,7 +26,7 @@ Black Gallery in September
 the deadline for all application forms is on Friday April 30th, 2013 at 
 4pm
 
-for more information and forms please find here http://www.craft-
+for more information and forms please find here [http://www.craft-](http://www.craft-)
 design.ns.ca/studios/residency
 
 Alexis Doiron

@@ -59,5 +59,5 @@ gallery@burnaby.ca
 
 Phone 604-297-4422
 
-https://www.burnaby.ca/recreation-and-arts/arts-and-culture-facilities/burnaby-art-
+[https://www.burnaby.ca/recreation-and-arts/arts-and-culture-facilities/burnaby-art-](https://www.burnaby.ca/recreation-and-arts/arts-and-culture-facilities/burnaby-art-)
 gallery/burnaby-art-gallery-advisory-committee

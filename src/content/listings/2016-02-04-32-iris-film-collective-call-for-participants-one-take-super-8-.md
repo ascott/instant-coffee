@@ -98,7 +98,7 @@ Wallflower Diner
 
 If you are interested, please email me at kunal@kunalsen.net
 Images of the space can be seen on the Craigslist Ad:
-http://vancouver.craigslist.ca/van/off/5425135035.html
+[http://vancouver.craigslist.ca/van/off/5425135035.html](http://vancouver.craigslist.ca/van/off/5425135035.html)
 
 
 2.

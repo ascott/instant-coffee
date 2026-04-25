@@ -32,8 +32,8 @@ Dinner: The Lexicon, Semi-precious: the faceting of a gemstone only appears
 complete and critical; Enters and Exits and COPY.
 
 TO SIGN UP:
-https://www.eventbrite.com/e/see-sounds-listening-party-with-justine-a-chambers-
+[https://www.eventbrite.com/e/see-sounds-listening-party-with-justine-a-chambers-](https://www.eventbrite.com/e/see-sounds-listening-party-with-justine-a-chambers-)
 tickets-124138556765?aff=ebdssbeac
 
 For more about Justine Please visit her website at:
-https://justineachambers.com/
+[https://justineachambers.com/](https://justineachambers.com/)

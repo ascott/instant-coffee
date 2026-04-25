@@ -14,4 +14,4 @@ Emerging artists across all artistic and cultural disciplines living in the City
 who are interested in building their careers and working with young people in an arts or
 culture-based capacity are invited to apply for Creative Spark Vancouver.
 
-https://artstarts.com/creativesparkvancouver
+[https://artstarts.com/creativesparkvancouver](https://artstarts.com/creativesparkvancouver)

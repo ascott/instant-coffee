@@ -21,7 +21,7 @@ and light refreshments from 11am until 1pm.
 
 RSVPs are helpful
 
-RSVP Here: https://thepolygon.ca/event/speaking-pictures-with-shellene-paull/
+RSVP Here: [https://thepolygon.ca/event/speaking-pictures-with-shellene-paull/](https://thepolygon.ca/event/speaking-pictures-with-shellene-paull/)
 
 Speaking Pictures invites Indigenous elders to come and speak to the public about
 photographs that highlight the stories, histories, and landscapes of the North Shore.

@@ -23,6 +23,6 @@ show that being trans is just one aspect of our complex lives. The passions that
 these people have are what drives these individuals to make their art, connect with their
 community and live fulfilling lives.
 
-More about this project: https://jscreatures.com/trans-passions-project
+More about this project: [https://jscreatures.com/trans-passions-project](https://jscreatures.com/trans-passions-project)
 instagram event:
-https://www.instagram.com/p/DCANYEwTiEd/?img_index=1
+[https://www.instagram.com/p/DCANYEwTiEd/?img_index=1](https://www.instagram.com/p/DCANYEwTiEd/?img_index=1)

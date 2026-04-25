@@ -54,7 +54,7 @@ Wednesday, October 14, 2020, 10:00 AM - 11:00 AM
 WHERE:
 Vancouver Art Gallery's ZOOM Channel
 CLICK HERE to register or
-https://zoom.us/webinar/register/WN_X86-PxAsQZ2wZs2U2ABHJA
+[https://zoom.us/webinar/register/WN_X86-PxAsQZ2wZs2U2ABHJA](https://zoom.us/webinar/register/WN_X86-PxAsQZ2wZs2U2ABHJA)
 
 contact Larah Luna (lluna@vanartgallery.bc.ca)
 

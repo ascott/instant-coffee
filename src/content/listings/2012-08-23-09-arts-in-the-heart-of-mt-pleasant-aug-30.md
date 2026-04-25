@@ -17,4 +17,4 @@ pm - 10:30 pm, behind Our Town Cafe at Main & Broadway. Themes will include
 hacking and more. The event will be hosted in an outdoor location behind Our 
 Town Cafe at Main & Kingsway. Tasty treats available from local food providers. 
 Check the blog for updates & rain dates: 
-http://vancouverpublicspace.wordpress.com/.
+[http://vancouverpublicspace.wordpress.com/](http://vancouverpublicspace.wordpress.com/).

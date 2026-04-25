@@ -19,4 +19,4 @@ much more, all priced to sell. Free items too! Cash, credit, debit
 accepted.
 
 For event information and for images of some sale items please visit:
-https://www.facebook.com/events/207243326343185/
+[https://www.facebook.com/events/207243326343185/](https://www.facebook.com/events/207243326343185/)

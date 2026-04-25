@@ -31,7 +31,7 @@ Indigenous artists, emerging artists, and other artist groups who are under-repr
 are all encouraged to apply.
 
 To view the call, interested artists should visit the posting on BC Bid here:
-http://www.bcbid.gov.bc.ca/open.dll/submitLogin?language=En&disID=45347246
+[http://www.bcbid.gov.bc.ca/open.dll/submitLogin?language=En&disID=45347246](http://www.bcbid.gov.bc.ca/open.dll/submitLogin?language=En&disID=45347246)
 (To download the document from BC Bid, click on Supplier Attachments Exist in the top
 right-hand corner of the screen)
 
@@ -43,4 +43,4 @@ system.)
 
 Website
 For more details about the Broadway Subway Project, please visit:
-https://engage.gov.bc.ca/broadwaysubway/
+[https://engage.gov.bc.ca/broadwaysubway/](https://engage.gov.bc.ca/broadwaysubway/)

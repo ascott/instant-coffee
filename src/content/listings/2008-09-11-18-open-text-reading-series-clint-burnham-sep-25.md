@@ -68,4 +68,4 @@ program at CapU, visit our blog.
 
 -- 
 
-http://www.capilanocreativewriting.blogspot.com
+[http://www.capilanocreativewriting.blogspot.com](http://www.capilanocreativewriting.blogspot.com)

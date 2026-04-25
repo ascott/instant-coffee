@@ -18,4 +18,4 @@ Join us for the 2023 edition of A Vancouver Minute: EPFC Norths Super 8 Commissi
 project. This year were premiering new short films by Varsha Gill, Zoe Kirk-
 Gushowaty, Wendy Oberlander and Christian Vistan. Filmmakers in attendance.
 Free, all-ages event! Refreshments will be served. More info:
-https://www.epfccollective.org/
+[https://www.epfccollective.org/](https://www.epfccollective.org/)

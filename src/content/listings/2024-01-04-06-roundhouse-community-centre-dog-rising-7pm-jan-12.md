@@ -43,9 +43,9 @@ Enhancing this captivating journey is a musical score by Clara Furey's loyal
 collaborator, Tomas Furey, adding another layer of depth and emotion to the
 experience.
 
-https://plasticorchidfactory.ca/dog-rising.html
+[https://plasticorchidfactory.ca/dog-rising.html](https://plasticorchidfactory.ca/dog-rising.html)
 
 Don't miss the contemporary dance workshop with Be Heintzman Hope (Tiotia:ke)!
 Professional and community dancers welcome " ' FREE '
 Thurs, Jan 11 from 1:00-2:30 PM at Roundhouse Community Centre
-Please register: https://buytickets.at/plasticorchidfactory/1097710
+Please register: [https://buytickets.at/plasticorchidfactory/1097710](https://buytickets.at/plasticorchidfactory/1097710)

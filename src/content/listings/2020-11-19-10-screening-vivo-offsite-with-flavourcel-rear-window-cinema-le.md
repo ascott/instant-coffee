@@ -12,7 +12,7 @@ REAR WINDOW CINEMA: LETTERS FROM ISOLATION, WAVE TWO
 OUTDOOR SCREENING
 An Offsite VIVO Partnership with flavourcel animation collective
 Friday November 20-27, 7-7:30pm PST
-https://www.instagram.com/rear_windowcinema/
+[https://www.instagram.com/rear_windowcinema/](https://www.instagram.com/rear_windowcinema/)
 FREE
 
 Wave two of Rear Window Cinema: Letters From Isolation will be running nightly from
@@ -38,4 +38,4 @@ between Emily Carr University, VIVO Media Arts Centre, and flavourcel animation
 collective with the support of the Social Sciences and Humanities Research Council.
 
 Follow the project and exhibition updates on Instagram at:
-https://www.instagram.com/rear_windowcinema/
+[https://www.instagram.com/rear_windowcinema/](https://www.instagram.com/rear_windowcinema/)

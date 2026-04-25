@@ -21,4 +21,4 @@ championing the arts and boldly interrogate the relationship between modes of
 communication
 and its connection to colonialism.
 
-Register now at: https://shadbolt-showcase-2025.eventbrite.ca
+Register now at: [https://shadbolt-showcase-2025.eventbrite.ca](https://shadbolt-showcase-2025.eventbrite.ca)

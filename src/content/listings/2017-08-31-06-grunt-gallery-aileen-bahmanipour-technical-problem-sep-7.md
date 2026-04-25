@@ -50,6 +50,6 @@ work was included in the 12th Belgrade International Biennial of Illustration in
 (2013), and the 4th Painting Biennial of Damonfar, Iran (2012). She is a recipient of the 
 Social Sciences and Humanities Research Council Scholarship, 2017.
 
-For more information visit http://grunt.ca/exhibitions/technical-problems/.
+For more information visit [http://grunt.ca/exhibitions/technical-problems/](http://grunt.ca/exhibitions/technical-problems/).
 
 This exhibition is held in conjunction with SWARM 18 festival of #artistrun culture.

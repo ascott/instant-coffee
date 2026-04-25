@@ -16,7 +16,7 @@ Rennie Collection at Wing Sang
 51 East Pender St
 19+
 Tickets $10 (includes one drink)
-To purchase: http://www.brownpapertickets.com/event/246101
+To purchase: [http://www.brownpapertickets.com/event/246101](http://www.brownpapertickets.com/event/246101)
 
 Rennie Collection is pleased to present, for ONE NIGHT ONLY, an 
 evening of cinema on May 25, 2012 by Italian artist Francesco Vezzoli. 
@@ -38,7 +38,7 @@ Sang.
 Admission to film night is $10 which includes one drink. TICKETS WILL 
 NOT BE AVAILABLE AT THE DOOR, so be sure to get yours in 
 advance, either online at 
-http://www.brownpapertickets.com/event/246101 or with cash at the 
+[http://www.brownpapertickets.com/event/246101](http://www.brownpapertickets.com/event/246101) or with cash at the 
 Rennie Collection office during regular office hours (Monday-Friday, 9 
 am - 5 pm). Due to the nature of the films, this event is strictly 19+. All 
 films are courtesy Galleria Franco Noero, Torino with special thanks to 

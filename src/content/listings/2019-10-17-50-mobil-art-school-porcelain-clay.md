@@ -23,5 +23,5 @@ potters will also be discussed.
 Class
 times are: October 23 6:30pm-9:30pm, & October 24 6:30pm-9:30pm Beginners
 are welcome.
-https://www.mobil-art.ca/event-info/porcelain-clay-workshop-with-tanis-saxby-oct-23-24
+[https://www.mobil-art.ca/event-info/porcelain-clay-workshop-with-tanis-saxby-oct-23-24](https://www.mobil-art.ca/event-info/porcelain-clay-workshop-with-tanis-saxby-oct-23-24)
 $125

@@ -18,7 +18,7 @@ or repurposed moving images.
 A shortlist of 10 films will be selected and uploaded to the Vucavu Cineworks streaming 
 channel for free public access from September 15 through to September 30. Shortlisted 
 artists will receive a screening fee with the option to keep their work on the Vucavu 
-platform (https://vucavu.com/en/home) and receive ongoing rental revenues of 70-
+platform ([https://vucavu.com/en/home](https://vucavu.com/en/home)) and receive ongoing rental revenues of 70-
 100%. Two films will be chosen for honourable mention and awarded $250 each. One 
 film will be selected as the Project-C Spotlight Film and
 awarded $1,000 with a $500 
@@ -29,6 +29,6 @@ applications from People of Colour, Indigenous or First Nations individuals, LGB
 persons with disabilities, and landed immigrants. Applicants do not have to be a current 
 Canadian Citizen, but do have to reside within the province of British Columbia. 
 
-Visit the Project-C website (https://cineworks.ca/project-C/) to find out more about 
+Visit the Project-C website ([https://cineworks.ca/project-C/](https://cineworks.ca/project-C/)) to find out more about 
 eligibility, judging criteria & the application process. Please reach out to us if you have 
 any questions or concerns.

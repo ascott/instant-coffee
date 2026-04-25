@@ -84,5 +84,5 @@ New Media Gallery
 Anvil Centre, 777
 Columbia Street
 New Westminster, BC
-https://newmediagallery.ca/
+[https://newmediagallery.ca/](https://newmediagallery.ca/)
 contact@newmediagallery.ca

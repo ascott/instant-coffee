@@ -17,7 +17,7 @@ www.griffinartprojects.ca
 Open Saturdays: 12 - 5PM
 
 Registration link:
-https://zoom.us/meeting/register/tJMqd-ysrj8rHtNCgyennvFC1Zk1yXPs8CtG
+[https://zoom.us/meeting/register/tJMqd-ysrj8rHtNCgyennvFC1Zk1yXPs8CtG](https://zoom.us/meeting/register/tJMqd-ysrj8rHtNCgyennvFC1Zk1yXPs8CtG)
 
 Join guest curator David MacWilliam for a live virtual tour of Griffin Art Projects current
 exhibition NOW BULLETIN Artworks, Letters and Printed Matter from the Garry Neill

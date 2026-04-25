@@ -88,7 +88,7 @@ aside by the artists as they moved on to project after project during their
 "Finding Aid" to the vast General Idea fonds [Archive], which is currently
 housed in the National Gallery of Canada's Library and Archive and is one
 of the most actively consulted archival holding at the gallery (see
-http://www.gallery.ca/english/library/biblio/ngc112.html). She researched
+[http://www.gallery.ca/english/library/biblio/ngc112.html](http://www.gallery.ca/english/library/biblio/ngc112.html)). She researched
 and compiled the complete body of âï¿½ï¿½editioned works' that was published in
 Barbara Fischer, ed. General Idea Editions" 1967-1995 (Mississauga:
 Blackwood Gallery, 2003). Bayer was recently a Research Fellow at the
@@ -107,8 +107,8 @@ and ephemeral artworks. She has been a contributor to Rhizome and her other
 writings have appeared in a wide range of exhibition catalogues,
 periodicals and other international publications.
 
-http://www.canadianart.ca/online/features/2010/01/28/caitlin-jones/
-http://www.rhizome.org/profile.php?1049882
+[http://www.canadianart.ca/online/features/2010/01/28/caitlin-jones/](http://www.canadianart.ca/online/features/2010/01/28/caitlin-jones/)
+[http://www.rhizome.org/profile.php?1049882](http://www.rhizome.org/profile.php?1049882)
 [Makiko Hara]
 
 Makiko Hara is the curator at Centre A: Vancouver international Centre for

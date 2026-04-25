@@ -14,7 +14,7 @@ Wednesday, October 25, 2023
 7:00 PM - 8:00 PM
 
 Register here:
-https://us02web.zoom.us/webinar/register/WN_QigJofneTSOa1n91lVwwgg
+[https://us02web.zoom.us/webinar/register/WN_QigJofneTSOa1n91lVwwgg](https://us02web.zoom.us/webinar/register/WN_QigJofneTSOa1n91lVwwgg)
 
 Artist Sonja Ahlers details the process of revisiting her career to prepare her archive,
 and how it led to the creation of Rabbit-Hole, the new work at the heart of her
@@ -52,5 +52,5 @@ from arts professionals and discuss opportunities in the arts community. Each mo
 presents a different guest presenter for inspirational talks and professional
 development advice for visual artists.
 Past live sessions from 2020 onwards are recorded and may be viewed online at the
-https://www.richmondartgallery.org/rag-at-home/ragathomevideo#artistsalon.
+[https://www.richmondartgallery.org/rag-at-home/ragathomevideo#artistsalon](https://www.richmondartgallery.org/rag-at-home/ragathomevideo#artistsalon).
 Program is supported by the City of Richmond Arts and Culture grant.

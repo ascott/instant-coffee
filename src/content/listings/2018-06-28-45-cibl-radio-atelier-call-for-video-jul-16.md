@@ -62,9 +62,9 @@ name (firstname_lastname.pdf).
 
 You can also send your curriculum vitae (max. 3 pages) and a link to your portfolio. 
 We will not accept artworks directly in our inbox. Please use WeTransfer 
-(https://wetransfer.com/) to send us your videos.
+([https://wetransfer.com/](https://wetransfer.com/)) to send us your videos.
 
 For any questions, please do not hesitate to contact us, subject Expo Instagram 
 Question: ateliercibl@gmail.com
-FACEBOOK: https://www.facebook.com/radioatelier/
-SHOW PAGE: http://www.radioatelier.ca/
+FACEBOOK: [https://www.facebook.com/radioatelier/](https://www.facebook.com/radioatelier/)
+SHOW PAGE: [http://www.radioatelier.ca/](http://www.radioatelier.ca/)

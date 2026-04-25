@@ -41,10 +41,10 @@ disseminating video art to the general public was exceptionally
 popular during its short run.
 
 For information about the project visit:
-http://www.mediafieldsjournal.org/storage/issue1/Hogan/Media-Fields-1-
+[http://www.mediafieldsjournal.org/storage/issue1/Hogan/Media-Fields-1-](http://www.mediafieldsjournal.org/storage/issue1/Hogan/Media-Fields-1-)
 Hogan.pdf
 
-http://www.thestar.com/entertainment/article/839799--queen-west-has-a-
+[http://www.thestar.com/entertainment/article/839799--queen-west-has-a-](http://www.thestar.com/entertainment/article/839799--queen-west-has-a-)
 surprise-in-store
 
 Terms
@@ -79,8 +79,8 @@ Toronto ON M6K 2G5
 Canada
 
 For submission forms please visit
-http://videorentalshop.blogspot.ca/
+[http://videorentalshop.blogspot.ca/](http://videorentalshop.blogspot.ca/)
 or
-http://www.suzannecarte.com/under-new-management-2013/
+[http://www.suzannecarte.com/under-new-management-2013/](http://www.suzannecarte.com/under-new-management-2013/)
 
 For further inquiries please contact suzannecarte@gmail.com

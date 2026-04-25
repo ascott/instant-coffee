@@ -10,7 +10,7 @@ summary: "PUBLICATION | WALLPAPERS | Series 3 | JUN 18"
 
 Series 3 of WALLPAPERS is now online:
 
-http://www.w-a-l-l-p-a-p-e-r-s.net/Series_3.html
+[http://www.w-a-l-l-p-a-p-e-r-s.net/Series_3.html](http://www.w-a-l-l-p-a-p-e-r-s.net/Series_3.html)
 
 In conjunction with:
 Beyond the Trees: Wallpapers in Dialogue with Emily Carr
@@ -18,4 +18,4 @@ Beyond the Trees: Wallpapers in Dialogue with Emily Carr
 Vancouver Art Gallery
 Through Sept 7
 more info:
-http://www.vanartgallery.bc.ca/the_exhibitions/exhibit_wallpapers.html
+[http://www.vanartgallery.bc.ca/the_exhibitions/exhibit_wallpapers.html](http://www.vanartgallery.bc.ca/the_exhibitions/exhibit_wallpapers.html)

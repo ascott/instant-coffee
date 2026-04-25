@@ -14,4 +14,4 @@ Photo vinyl, MDO panel, plywood, paint, 2014
 September 1 - 30, 2014
 
 The Crying Room, 157 East Cordova Street, Vancouver BC.
-http://www.thecryingroom.org/
+[http://www.thecryingroom.org/](http://www.thecryingroom.org/)

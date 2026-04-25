@@ -17,5 +17,5 @@ weaver Debra Sparrow on a tour of the new exhibition, The Fabric of Our Land: Sa
 Weaving. Debra will share her personal relationship to early Salish weavings and 
 illuminate their cultural contexts. It is Debras hope to use weaving to educate others 
 about the beauty and integrity of her peoples history. 
-For more information, visit: http://moa.ubc.ca/portfolio_page/debra-sparrows-tour-of-the-
+For more information, visit: [http://moa.ubc.ca/portfolio_page/debra-sparrows-tour-of-the-](http://moa.ubc.ca/portfolio_page/debra-sparrows-tour-of-the-)
 fabric-of-our-land/e

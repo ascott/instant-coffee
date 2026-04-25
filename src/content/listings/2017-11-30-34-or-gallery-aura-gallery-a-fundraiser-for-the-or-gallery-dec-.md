@@ -14,7 +14,7 @@ Aura Gallery: A Fundraiser for the Or Gallery
 
 Entry: free for Or Gallery members. Buy or renew an Or Gallery membership at the 
 door. See membership levels and prices here:
-http://orgallery.org/membership
+[http://orgallery.org/membership](http://orgallery.org/membership)
 
 Or Gallery
 555 Hamilton St., Vancouver, British Columbia

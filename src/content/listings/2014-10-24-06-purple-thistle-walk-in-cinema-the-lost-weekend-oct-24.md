@@ -20,5 +20,5 @@ Lost in the Wilderness: Saturday October 25th 7pm join us for "Walkabout"
 by Nicolas Roeg 
 Feature films will be preceded by short films from Iris Collective and Purple 
 Thistle. The event is all ages and free admission. please visit 
-http://purplethistle.ca/ for details on venue accessibility and 
-http://irisfilmcollective.tumblr.com for event details
+[http://purplethistle.ca/](http://purplethistle.ca/) for details on venue accessibility and 
+[http://irisfilmcollective.tumblr.com](http://irisfilmcollective.tumblr.com) for event details

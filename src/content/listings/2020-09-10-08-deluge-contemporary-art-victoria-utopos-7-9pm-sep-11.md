@@ -31,4 +31,4 @@ Monteiths paintings and Stursbergs sculptures
 work to abstract the unattainable Utopia by residing within intermediary spaces: between
 nature and culture and between the organic and the artificial.
 
-More details at http://www.deluge.ca/index.html
+More details at [http://www.deluge.ca/index.html](http://www.deluge.ca/index.html)

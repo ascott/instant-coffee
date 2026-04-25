@@ -59,7 +59,7 @@ to 5pm with extended hours to 8pm on Tuesdays. Admission is free.
 
 Please visit
 
-https://www.lipontgallery.ca/
+[https://www.lipontgallery.ca/](https://www.lipontgallery.ca/)
 
 for details.
 

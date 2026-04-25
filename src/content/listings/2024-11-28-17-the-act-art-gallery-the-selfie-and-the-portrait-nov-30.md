@@ -12,7 +12,7 @@ The Selfie and The Portrait
 
 Talk with Steve DiPaola
 
-https://theactmapleridge.org/picturing-ourselves
+[https://theactmapleridge.org/picturing-ourselves](https://theactmapleridge.org/picturing-ourselves)
 
 Gallery Talk: Saturday, November 30, 2-3pm
 

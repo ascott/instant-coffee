@@ -21,4 +21,4 @@ Info : Dec 4, 2025 - Jan 3, 2026. Alliance Francaise Vancouver, 6161 Cambie St, 
 Gallery (4th Floor)
 
 Exhibition:
-Opening: https://www.alliancefrancaise.ca/community/event-rsvp/?event_id=1188
+Opening: [https://www.alliancefrancaise.ca/community/event-rsvp/?event_id=1188](https://www.alliancefrancaise.ca/community/event-rsvp/?event_id=1188)

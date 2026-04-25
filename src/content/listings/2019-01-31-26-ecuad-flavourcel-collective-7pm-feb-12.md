@@ -25,5 +25,5 @@ Design, but also includes other fabulous places and schools as well. Core member
 include Amelia Earhart, Anna Firth, Alia Hijaab, Chhaya Naran, Chris Strickler, David 
 Grodetsky, Gil Goletski, Harlo Martens, Josh Neu, Julia Song, Kat Morris, Lana 
 Connors, Laurel Pucker, and Rowen Rinaldi.
-https://flavourcel.com/
-https://flavourcel.com/
+[https://flavourcel.com/](https://flavourcel.com/)
+[https://flavourcel.com/](https://flavourcel.com/)

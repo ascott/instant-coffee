@@ -16,7 +16,7 @@ Thursday Feb 18; 7:30pm-9:30pm
 Cineworks Studio, 1131 Howe Street (lane entrance)$15 Cineworks Members (+
 taxes)
 $20 General Admission; (+ taxes)
-Online booking only: http://bit.ly/1PiuR1L
+Online booking only: [http://bit.ly/1PiuR1L](http://bit.ly/1PiuR1L)
 
 This two-hour workshop will cover essential details of record-keeping, form
 filling and smart accountancy for DIY accounts, bookkeepers and

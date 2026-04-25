@@ -13,7 +13,7 @@ BFA Project 2021
 March 18 - 27, 2021 | Audain Gallery
 Tuesday - Saturday, 12 - 5PM | BY APPOINTMENT ONLY
 
-Registration required https://www.eventbrite.ca/e/bfa-project-2021-images-that-take-
+Registration required [https://www.eventbrite.ca/e/bfa-project-2021-images-that-take-](https://www.eventbrite.ca/e/bfa-project-2021-images-that-take-)
 images-that-give-tickets-137855167517
 
 Heba Y. Amin, Sabine Bitter (with Helmut Weber), Debbie Chan, Sena Cleave, DAAR

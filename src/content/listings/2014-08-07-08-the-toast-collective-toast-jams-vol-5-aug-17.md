@@ -25,7 +25,7 @@ The Music:
 
 Crawling Human will be performing!
 Crawling Human is Chris Albanese, Ross Birdwise, Dave Chokroun, Ben Wilson.
-http://theinstituteforthestudyofadvancedmusicalresearch.bandcamp.com/album/bare-life-ep
+[http://theinstituteforthestudyofadvancedmusicalresearch.bandcamp.com/album/bare-life-ep](http://theinstituteforthestudyofadvancedmusicalresearch.bandcamp.com/album/bare-life-ep)
 
 Toast & Jams is a collaboration project by General Assembly
 General Assembly is Clare Asquith and Andrea Creamer: artists,
@@ -39,7 +39,7 @@ The Toast Collective is a collection of collectives that operate, The
 Toast-an art, event and food-centric space in East Vancouver. The Toast is
 a DIY, flexible and community located place for artists, events and workshops.
 
-THE TOAST COLLECTIVE http://thetoast.org/
+THE TOAST COLLECTIVE [http://thetoast.org/](http://thetoast.org/)
 
 The Toast Collective is a store front with the following measurements:
 Front Door 40 inches across

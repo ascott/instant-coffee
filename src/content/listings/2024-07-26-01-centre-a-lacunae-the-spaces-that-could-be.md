@@ -11,7 +11,7 @@ summary: "Centre A | Lacunae: The spaces that could be"
 Lacunae: The spaces that could be
 July 11 - July 27, 2024
 Phoebe Bei, Kaila Bhullar, Rawan Hassan
-https://centrea.org/exhibitions/current/
+[https://centrea.org/exhibitions/current/](https://centrea.org/exhibitions/current/)
 
 "Lacunae: The spaces that could be" is a group exhibition as part of our SLOW
 Relations + Practices Emerging BIPOC Artist Residency this year. The program is a

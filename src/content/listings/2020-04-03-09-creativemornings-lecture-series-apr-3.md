@@ -14,4 +14,4 @@ coach Marianne Alvarez tell her inspirational story about the role creativity pl
 finding her life's purpose.
 
 More info and free registration:
-https://creativemornings.com/talks/marianne-alvarez/
+[https://creativemornings.com/talks/marianne-alvarez/](https://creativemornings.com/talks/marianne-alvarez/)

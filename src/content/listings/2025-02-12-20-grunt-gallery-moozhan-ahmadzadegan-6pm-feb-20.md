@@ -52,7 +52,7 @@ nuanced and open ways.
 
 Citations:
 Pavka, Evan. What Do We Mean By Queer Space? Azure Magazine, 29 June
-2020, https://www.azuremagazine.com/article/what-do-we-mean-by-queer-space/.
+2020, [https://www.azuremagazine.com/article/what-do-we-mean-by-queer-space/](https://www.azuremagazine.com/article/what-do-we-mean-by-queer-space/).
 
 This project was made possible with support from Canada Council for the Arts.
 
@@ -70,4 +70,4 @@ have been tended to by the people of Sylix Okanagan Nation and to present this
 artwork as a guest on the lands of the xmky"m (Musqueam), Swxw7mesh
 (Squamish), and slilwta/selilwitulh (Tsleil-Waututh) Nations.
 
-Moozhan Ahmadzadegan's Instagram: https://www.instagram.com/moozhans_art/
+Moozhan Ahmadzadegan's Instagram: [https://www.instagram.com/moozhans_art/](https://www.instagram.com/moozhans_art/)

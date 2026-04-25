@@ -135,4 +135,4 @@ alongside its ultimate, inevitable failure. The film guides the viewer through
 the process of making contact with Peter Berlin, an icon known for his work 
 in gay pornographic film in the early to mid 1970s.
 
-http://modelprojects.org/
+[http://modelprojects.org/](http://modelprojects.org/)

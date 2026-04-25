@@ -18,6 +18,6 @@ creating and presenting work in this medium. When you're not at VABF, consider c
 ABW events for more art book fun! (Who
 says you can ever have enough?)
 
-Directions + event details: https://www.facebook.com/events/336581730360629/
+Directions + event details: [https://www.facebook.com/events/336581730360629/](https://www.facebook.com/events/336581730360629/)
 
-Website: http://vancouverartbookfair.com/
+Website: [http://vancouverartbookfair.com/](http://vancouverartbookfair.com/)

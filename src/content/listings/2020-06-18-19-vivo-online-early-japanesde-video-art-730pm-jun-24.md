@@ -36,7 +36,7 @@ This is an exclusively online event. Prior registration is required. A secure li
 the lecture will be sent to the registered email address 24 hours before the start
 of the event.
 
-Sign up: https://jftor.org/event/jesse-cumming/
+Sign up: [https://jftor.org/event/jesse-cumming/](https://jftor.org/event/jesse-cumming/)
 
 VIVO is currently assisting Jesse Cumming with his
 west coast research. Jesse

@@ -25,7 +25,7 @@ Festival will take place Nov 23 - 26, 2016.
 
 How can I submit?
 For information on our film programs and guidelines on how to submit, visit
-our website: http://regentparkfilmfestival.com/film-submissions/.
+our website: [http://regentparkfilmfestival.com/film-submissions/](http://regentparkfilmfestival.com/film-submissions/).
 
 Deadline for submissions?
 Please submit your film by Friday, June 10th, 2016 (No Fees to Submit).

@@ -14,7 +14,7 @@ Wednesday, July 31, 7:00 PM - 8:00 PM
 
 Richmond Art Gallery
 
-https://www.richmondartgallery.org/
+[https://www.richmondartgallery.org/](https://www.richmondartgallery.org/)
 
 Guest presenter Ogheneofegor Obuwoma will share her multi-faceted arts practice
 as a film-maker, writer, curator and arts worker. As an emerging artist, she will
@@ -36,4 +36,4 @@ grounds their practice in traditions of care and re-imagination and lives in Van
 on unceded Coast Salish lands of the xmky"m (Musqueam), Swxw7mesh
 (Squamish), and slilwta (Tsleil-Waututh) Nations.
 
-More info: https://www.richmondartgallery.org/obuwoma
+More info: [https://www.richmondartgallery.org/obuwoma](https://www.richmondartgallery.org/obuwoma)

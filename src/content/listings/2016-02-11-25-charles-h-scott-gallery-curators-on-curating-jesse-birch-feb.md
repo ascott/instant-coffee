@@ -8,7 +8,7 @@ venue: "Charles H. Scott Gallery"
 summary: "Charles H. Scott Gallery | Curators on Curating: Jesse Birch | FEB 22"
 ---
 
-https://www.facebook.com/events/1071041139613946/
+[https://www.facebook.com/events/1071041139613946/](https://www.facebook.com/events/1071041139613946/)
 
 February 22, 2015 at 11:30 AM
 Charles H. Scott Gallery

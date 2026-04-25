@@ -14,7 +14,7 @@ SATURDAY, MARCH 27
 1:00 - 2:30 PM
 
 Registration link:
-https://us02web.zoom.us/webinar/register/WN_duVp4CDWS5CEqQkK45xL_Q
+[https://us02web.zoom.us/webinar/register/WN_duVp4CDWS5CEqQkK45xL_Q](https://us02web.zoom.us/webinar/register/WN_duVp4CDWS5CEqQkK45xL_Q)
 
 The Artist Salon is a free monthly online series for emerging and established visual artists
 to learn from arts professionals via inspirational talks and professional development advice.
@@ -41,7 +41,7 @@ Gallery, Burrard Arts Foundation, Vancouver Mural Festival and Indian Summer Fes
 and has been featured in numerous print and online publications, including The Globe and
 Mail and CBC. Sandeep lives and works in Vancouver, BC with her family.
 
-https://www.richmondartgallery.org/artist-salon-webinar-with-sandeep-johal
+[https://www.richmondartgallery.org/artist-salon-webinar-with-sandeep-johal](https://www.richmondartgallery.org/artist-salon-webinar-with-sandeep-johal)
 
 Questions? If you would like to send in your questions for the artist early, please email them
 to Kathy Tycholis: ktycholis@richmond.ca

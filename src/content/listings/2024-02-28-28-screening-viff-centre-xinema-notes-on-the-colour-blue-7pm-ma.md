@@ -13,7 +13,7 @@ Sunday, March 3rd, 7:00pm
 
 VIFF Centre Vancity Theatre (1181 Seymour Street, Vancouver BC)
 
-Tickets: https://viff.org/whats-on/xinema-blue/
+Tickets: [https://viff.org/whats-on/xinema-blue/](https://viff.org/whats-on/xinema-blue/)
 
 XINEMA is proud to present notes on the colour blue, a series of international and local
 experimental films that recount experiences of grief, love, distance, and interiority
@@ -27,5 +27,5 @@ Part one of notes on the colour blue will conclude with a Q&A with filmmaker Mar
 Mosavarzadeh.
 
 Website: www.xinema.ca
-Instagram: https://www.instagram.com/xin3ma/
-Open for ongoing submissions: https://forms.gle/cLCC7EiH1Ahmghir8
+Instagram: [https://www.instagram.com/xin3ma/](https://www.instagram.com/xin3ma/)
+Open for ongoing submissions: [https://forms.gle/cLCC7EiH1Ahmghir8](https://forms.gle/cLCC7EiH1Ahmghir8)

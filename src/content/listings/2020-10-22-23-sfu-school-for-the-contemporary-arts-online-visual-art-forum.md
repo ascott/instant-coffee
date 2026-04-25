@@ -11,7 +11,7 @@ summary: "SFU School for the Contemporary Arts | [ONLINE] VISUAL ART FORUM: Sanj
 VISUAL ART FORUM: Sanja Ivekovi-
 Tuesday, October 27, 2020 | 9:30 AM | Zoom
 
-https://www.eventbrite.ca/e/visual-art-forum-sanja-ivekovic-registration-120837928497
+[https://www.eventbrite.ca/e/visual-art-forum-sanja-ivekovic-registration-120837928497](https://www.eventbrite.ca/e/visual-art-forum-sanja-ivekovic-registration-120837928497)
 
 Please join us for a FREE talk by Sanja Ivekovi-, presented as part of the Fall 2020
 Visual Art Forum.

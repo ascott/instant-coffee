@@ -21,7 +21,7 @@ Admission is by
 donation, courtesy of BMO Financial Group
 RSVPs are helpful
 
-RSVP here: https://thepolygon.ca/event/an-echo-always-calls-at-least-twice-at-least-
+RSVP here: [https://thepolygon.ca/event/an-echo-always-calls-at-least-twice-at-least-](https://thepolygon.ca/event/an-echo-always-calls-at-least-twice-at-least-)
 twice/
 
 About Gabi Dao

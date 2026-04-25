@@ -20,7 +20,7 @@ VIFF CENTRE // VANCITY THEATRE
 
 FOR TICKETS VISIT:
 
-https://viff.org/whats-on/xinema-home-artifact/
+[https://viff.org/whats-on/xinema-home-artifact/](https://viff.org/whats-on/xinema-home-artifact/)
 
 Collectively entitled " , part one showcases works by a
 cohort of local artists: Kaila Bhullar, Luis Andrs Serrano, Monica Cheema and

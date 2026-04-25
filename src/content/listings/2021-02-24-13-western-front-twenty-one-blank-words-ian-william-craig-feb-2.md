@@ -31,4 +31,4 @@ please do not attend. The windows in the Grand Luxe Hall will also be open, plea
 accordingly.
 
 Free to attend. Register for a 45-minute time window below.
-http://https://front.bc.ca/events/twenty-one-blank-words/
+[http://https://front.bc.ca/events/twenty-one-blank-words/](http://https://front.bc.ca/events/twenty-one-blank-words/)

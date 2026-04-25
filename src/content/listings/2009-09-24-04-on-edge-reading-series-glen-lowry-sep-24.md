@@ -37,7 +37,7 @@ Oct 8 - Angela Carr
 
 Oct 15 - Prismatic Publics launch - Dorothy Trujillo Lusk, Catriona Strang
 and Daphne Marlatt, Rita Wong, and Lisa Robertson
-(http://www.chbooks.com/catalogue/prismatic_publics)
+([http://www.chbooks.com/catalogue/prismatic_publics](http://www.chbooks.com/catalogue/prismatic_publics))
 
 Oct 22 - Gregory Scofield (in the lecture hall SB 301, screening of the
 film, Singing Home the Bones, in collaboration with the VIWF)

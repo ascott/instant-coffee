@@ -20,7 +20,7 @@ Room 1002, Audain Art Centre
 ahva.ubc.ca
 
 *The event is free and open to the public, but space is limited and advanced
-registration is required: https://ahva.air.arts.ubc.ca/ahva-emeritus-lecture-scott-
+registration is required: [https://ahva.air.arts.ubc.ca/ahva-emeritus-lecture-scott-](https://ahva.air.arts.ubc.ca/ahva-emeritus-lecture-scott-)
 watson/
 
 The Engineered Smallpox Epidemic of 1862 and Its Subsequent Erasure from B.C.

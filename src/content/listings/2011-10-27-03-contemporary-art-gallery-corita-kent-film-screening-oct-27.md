@@ -20,8 +20,8 @@ A Free screening of a film about Corita Kent's life and work;
 by Aaron Rose. (20 min short film)
 
 for a sneak peak and a further description go to:
-http://aaronrose.tv/?p=175
-http://en.wikipedia.org/wiki/Aaron_Rose
+[http://aaronrose.tv/?p=175](http://aaronrose.tv/?p=175)
+[http://en.wikipedia.org/wiki/Aaron_Rose](http://en.wikipedia.org/wiki/Aaron_Rose)
 
 Places are free, open to all
 

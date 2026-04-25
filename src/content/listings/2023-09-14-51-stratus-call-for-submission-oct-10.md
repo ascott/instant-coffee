@@ -31,5 +31,5 @@ SUBMISSION DEADLINE: Tuesday, October 10th, 2023.
 
 SUBMISSION INFO: STRATUS website.
 INSTAGRAM:
-https://www.instagram.com/stratusjournal/?hl=en
+[https://www.instagram.com/stratusjournal/?hl=en](https://www.instagram.com/stratusjournal/?hl=en)
 EMAIL: hello@stratusjournal.com

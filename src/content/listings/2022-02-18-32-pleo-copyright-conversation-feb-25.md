@@ -22,5 +22,5 @@ poet, author, and lawyer M. nourbeSe Philip to discuss Philips experience of hav
 book-length poetry cycle Zong! misrepresented as a result of the text being translated
 without her consultation.
 
-https://www.pacificlegaloutreach.com/upcoming-events/copyright-conversation-zong-the-
+[https://www.pacificlegaloutreach.com/upcoming-events/copyright-conversation-zong-the-](https://www.pacificlegaloutreach.com/upcoming-events/copyright-conversation-zong-the-)
 politics-of-translation-with-m-nourbese-philip

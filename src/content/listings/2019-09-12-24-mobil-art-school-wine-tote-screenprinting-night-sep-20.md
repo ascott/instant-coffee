@@ -20,4 +20,4 @@ totes available for purchase.
 Sorry, we are unable to accommodate drop-ins. Please pre-register and read our FAQ.
 Cash Bar, 19+ only, No Minors, No Outside Drinks.
 $63
-https://www.mobil-art.ca/event-info/wine-tote-screenprinting-night-fri-sep-20
+[https://www.mobil-art.ca/event-info/wine-tote-screenprinting-night-fri-sep-20](https://www.mobil-art.ca/event-info/wine-tote-screenprinting-night-fri-sep-20)

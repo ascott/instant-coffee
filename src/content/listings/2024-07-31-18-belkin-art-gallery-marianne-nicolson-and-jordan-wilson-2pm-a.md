@@ -26,4 +26,4 @@ Everyone is welcome and admission is free.
 
 Please note, the Belkin will be closed Sunday, August 11 for a private gathering.
 
-https://belkin.ubc.ca/events/conversation-marianne-nicolson-and-jordan-wilson/
+[https://belkin.ubc.ca/events/conversation-marianne-nicolson-and-jordan-wilson/](https://belkin.ubc.ca/events/conversation-marianne-nicolson-and-jordan-wilson/)

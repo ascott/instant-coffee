@@ -72,4 +72,4 @@ Art, Sydney, he is currently a Board member of the Andy Warhol Museum,
 Pittsburgh. See www.terryesmith.net/web/
 
 Directions: Lasserre Building, Room 102, UBC
-http://www.maps.ubc.ca/PROD/index_detail.php?locat1=028
+[http://www.maps.ubc.ca/PROD/index_detail.php?locat1=028](http://www.maps.ubc.ca/PROD/index_detail.php?locat1=028)

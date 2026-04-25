@@ -36,6 +36,6 @@ The 24-hr Drawing Party is funded by the Vancouver Foundation.
 Project Space, 222 E Georgia St
 August 10 at Noon to August 11 at Noon
 
-Web - http://awesomedrawingparty.tumblr.com
+Web - [http://awesomedrawingparty.tumblr.com](http://awesomedrawingparty.tumblr.com)
 Email - awesomedrawingparty@gmail.com
 Twitter - @drawing_party

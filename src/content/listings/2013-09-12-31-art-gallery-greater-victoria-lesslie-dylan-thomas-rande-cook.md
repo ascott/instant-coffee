@@ -111,7 +111,7 @@ cocktails, and local brew from Lighthouse.
 
 Saturday, November 9, 1 p.m.
 XENALEKEN: Art and Decolonization
-$5 Tickets available in advance at http://decolonization.eventbrite.ca/
+$5 Tickets available in advance at [http://decolonization.eventbrite.ca/](http://decolonization.eventbrite.ca/)
 The AGGV and the City of Victoria collaborate to present a dynamic 
 discussion on the contribution of cultural production in the Indigenous 
 Resurgence Movement featuring Taiaiake Alfred from the Indigenous 

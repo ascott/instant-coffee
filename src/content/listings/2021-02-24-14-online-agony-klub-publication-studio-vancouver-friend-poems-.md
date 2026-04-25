@@ -15,15 +15,15 @@ readings by contributors Kay Higgins, Tiziana La Melia, Steffanie Ling, Colin Os
 Casey Wei. Readings will be followed by a brief discussion about process and context, and
 a Q&A with the contributors.
 
-Copies of Friend Poems will be available through http://agonyklub.com
-and http://bookmachine.ca and at the Printed Matter Virtual Art Book Fair.
+Copies of Friend Poems will be available through [http://agonyklub.com](http://agonyklub.com)
+and [http://bookmachine.ca](http://bookmachine.ca) and at the Printed Matter Virtual Art Book Fair.
 
 This event will be in the format of a Zoom webinar, live from the unceded Coast Salish
 territories of the xwmkwy"m (Musqueam), Skwxw7mesh (Squamish) and
 Sl"lwta"/Selilwitulh (Tsleil-Waututh) First Nations.
 
 Register for the online launch at
-https://us02web.zoom.us/webinar/register/WN_vZA8lhTxRlSPWXHuvmRg2Q
+[https://us02web.zoom.us/webinar/register/WN_vZA8lhTxRlSPWXHuvmRg2Q](https://us02web.zoom.us/webinar/register/WN_vZA8lhTxRlSPWXHuvmRg2Q)
 
 *
 

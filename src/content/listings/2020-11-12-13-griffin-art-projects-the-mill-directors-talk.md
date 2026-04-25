@@ -20,7 +20,7 @@ www.griffinartprojects.ca
 
 To register, please visit:
 
-https://zoom.us/meeting/register/tJYqdOihrTMqH9brHJL5TDEdvQloqGCzTzwd
+[https://zoom.us/meeting/register/tJYqdOihrTMqH9brHJL5TDEdvQloqGCzTzwd](https://zoom.us/meeting/register/tJYqdOihrTMqH9brHJL5TDEdvQloqGCzTzwd)
 
 Griffin Art Projects invites viewers to stream David Craigs The Mill, a gripping portrait of
 a rural community deeply divided over the fate of the local pulp mill. Welcome to Pictou
@@ -40,4 +40,4 @@ Neill Kennedy, as well as the legacy and careers of NSCAD grads across Canada an
 beyond.
 
 
-http://https://zoom.us/meeting/register/tJYqdOihrTMqH9brH
+[http://https://zoom.us/meeting/register/tJYqdOihrTMqH9brH](http://https://zoom.us/meeting/register/tJYqdOihrTMqH9brH)

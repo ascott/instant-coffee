@@ -37,7 +37,7 @@ Near-Death Experience (NDE)
 4:40-5:40 pm - Panel talk
 
 Register to view livestream on Zoom:
-https://ubc.zoom.us/meeting/register/u5UvdeGrqz0oGND1QUht_SaA1K2BadowBSq
+[https://ubc.zoom.us/meeting/register/u5UvdeGrqz0oGND1QUht_SaA1K2BadowBSq](https://ubc.zoom.us/meeting/register/u5UvdeGrqz0oGND1QUht_SaA1K2BadowBSq)
 D
 
 We acknowledge that the UBC Vancouver campus is situated on the traditional,

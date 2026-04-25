@@ -42,8 +42,8 @@ The Robson Reading Series is a free, multi-genre reading series that
 features some of the finest writers from Canada and abroad. Events are
 organized by the UBC Library and the UBC Bookstore, and sponsored in part
 by the Canada Council. For a list of upcoming events, visit
-<http://www.robsonreadingseries.ubc.ca/%20or%20http:/www.rsquare.bookstore.ubc.ca/common/author_evt.html>http://www.robsonreadingseries.ubc.ca/
-or http://www.rsquare.bookstore.ubc.ca/common/author_evt.html
+<[http://www.robsonreadingseries.ubc.ca/%20or%20http:/www.rsquare.bookstore.ubc.ca/common/author_evt.html](http://www.robsonreadingseries.ubc.ca/%20or%20http:/www.rsquare.bookstore.ubc.ca/common/author_evt.html)>[http://www.robsonreadingseries.ubc.ca/](http://www.robsonreadingseries.ubc.ca/)
+or [http://www.rsquare.bookstore.ubc.ca/common/author_evt.html](http://www.rsquare.bookstore.ubc.ca/common/author_evt.html)
 
 UBC Bookstore @ Robson Square
 rsquare@interchange.ubc.ca

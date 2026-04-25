@@ -16,4 +16,4 @@ Wise Hall
 19+
 
 Tickets:
-https://1080pcollection.bandcamp.com/merch/cfcf-w-ramzi-din-sink-live-performance-at-wise-hall
+[https://1080pcollection.bandcamp.com/merch/cfcf-w-ramzi-din-sink-live-performance-at-wise-hall](https://1080pcollection.bandcamp.com/merch/cfcf-w-ramzi-din-sink-live-performance-at-wise-hall)

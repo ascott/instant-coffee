@@ -46,7 +46,7 @@ Art possible.
 
 To learn how to submit artwork or see how you can get involved, please 
 visit our blog:
-http://papergirl-vancouver.blogspot.com
+[http://papergirl-vancouver.blogspot.com](http://papergirl-vancouver.blogspot.com)
 
 Important Dates:
 Deadline for artwork entries: July 18th, 2012
@@ -55,5 +55,5 @@ Papergirl Exhibition at the Roundhouse: July 22nd-27th, 2012
 Distribution of art to the public: July 28th, 2012
 
 Submission Form:
-https://docs.google.com/file/d/0B6xzuCN6gv6ZaTJDd2xoRmU3VDg/edit
+[https://docs.google.com/file/d/0B6xzuCN6gv6ZaTJDd2xoRmU3VDg/edit](https://docs.google.com/file/d/0B6xzuCN6gv6ZaTJDd2xoRmU3VDg/edit)
 ?pli=1

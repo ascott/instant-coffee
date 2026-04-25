@@ -28,5 +28,5 @@ Where - City Centre Artist Lodge, Studio# 211, 2111 Main Street
 
 When - Saturday, September 30, 12-3pm
 
-Register through eventbrite: https://www.eventbrite.ca/e/697475376627?
+Register through eventbrite: [https://www.eventbrite.ca/e/697475376627](https://www.eventbrite.ca/e/697475376627)?
 aff=oddtdtcreator

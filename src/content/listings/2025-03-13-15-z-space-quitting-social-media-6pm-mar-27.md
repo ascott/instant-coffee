@@ -41,5 +41,5 @@ Location: Z-Space, 505 Hamilton Street, #Unit 301, 302, 303 Vancouver, BC V6B
 Cost $10. Ticket sales will be donated to Z-Space to help them cover expenses.
 
 Reserve a spot on Eventbrite:
-https://www.eventbrite.ca/e/workshop-for-artists-why-
+[https://www.eventbrite.ca/e/workshop-for-artists-why-](https://www.eventbrite.ca/e/workshop-for-artists-why-)
 its-time-to-move-off-big-tech-social-media-tickets-1268174286429

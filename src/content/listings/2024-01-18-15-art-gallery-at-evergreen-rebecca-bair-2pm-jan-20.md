@@ -24,7 +24,7 @@ is wheelchair accessible. Pay parking available on-site, easy access from Lafarg
 Lake-Douglas College Skytrain
 Station.
 
-https://evergreenculturalcentre.ca/exhibit/
+[https://evergreenculturalcentre.ca/exhibit/](https://evergreenculturalcentre.ca/exhibit/)
 
 About the Artist
 Interdisciplinary artist Rebecca Bair uses a multitude of mediums to push the

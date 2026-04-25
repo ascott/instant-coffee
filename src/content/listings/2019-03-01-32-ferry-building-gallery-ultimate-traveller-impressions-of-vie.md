@@ -41,10 +41,10 @@ Northern Vietnam.
 
 Admission: $15 per lecture. Course #52635
 Register at 604-925-7270 or online
-https://ca.apm.activecommunities.com/westvanrec/Activity_Search/496
+[https://ca.apm.activecommunities.com/westvanrec/Activity_Search/496](https://ca.apm.activecommunities.com/westvanrec/Activity_Search/496)
 02
 Drop-ins also welcome (space permitting).
 
 For more information, please visit
-https://ferrybuildinggallery.com/programs_events/art_sundays___artist
+[https://ferrybuildinggallery.com/programs_events/art_sundays___artist](https://ferrybuildinggallery.com/programs_events/art_sundays___artist)
 _talks_workshops

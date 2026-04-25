@@ -25,7 +25,7 @@ What visitors are saying:
 
 Last day to visit: Sunday, March 30, 2025
 
-https://moa.ubc.ca/exhibition/to-be-seen-to-be-heard/?
+[https://moa.ubc.ca/exhibition/to-be-seen-to-be-heard/](https://moa.ubc.ca/exhibition/to-be-seen-to-be-heard/)?
 ml_recipient=148778063062107505&ml_link=148778048874874819&utm_source=n
 ewsletter&utm_medium=email&utm_term=2025-03-
 25&utm_campaign=+Closing+March+30+To+Be+Seen+To+Be+Heard

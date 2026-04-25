@@ -58,7 +58,7 @@ Department of Harpers BAZAAR
 Sho Sho Esquiro"Interdisciplinary Artist & Curator
 Viahsta Yuan is the Chief Curator of CICA Vancouver.
 
-For more information. Please read here: https://cicavancouver.com/exhibitions/cica-
+For more information. Please read here: [https://cicavancouver.com/exhibitions/cica-](https://cicavancouver.com/exhibitions/cica-)
 vancouver-x-jelina-couture-international-art-awards-2025/?back=ago
 
 Deadline for submission: November 3, 2024, 11:59 PM PST

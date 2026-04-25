@@ -36,7 +36,7 @@ analyses and experiences of writers, artists, curators, collectives,
 academics, and other arts professionals who share these same concerns.
 
 Complete details can be found at
-http://www.breachmagazine.ca/issue-3-call/. Direct submissions and queries
+[http://www.breachmagazine.ca/issue-3-call/](http://www.breachmagazine.ca/issue-3-call/). Direct submissions and queries
 to info@breachmagazine.ca by October 4 2015.
 
 22. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
@@ -96,7 +96,7 @@ Amenities include:
 It is an open-concept space (no walls), so if you prefer privacy, this may
 not be for you.
 
-http://www.thephoenixgallery.ca
+[http://www.thephoenixgallery.ca](http://www.thephoenixgallery.ca)
 info@thephoenixgallery.ca
 
 3.

@@ -21,4 +21,4 @@ contextual, poetic " that re-examine and complicate the earlier works. In doing 
 Farmer explores how art can be returned to, re-read, and re-situated under shifting
 historical and ethical awarenesses.
 
-https://audainartmuseum.com/2025/geoffrey-farmer-phantom-scripts/
+[https://audainartmuseum.com/2025/geoffrey-farmer-phantom-scripts/](https://audainartmuseum.com/2025/geoffrey-farmer-phantom-scripts/)

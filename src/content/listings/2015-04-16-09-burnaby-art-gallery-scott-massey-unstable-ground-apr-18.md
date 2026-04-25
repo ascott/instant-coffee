@@ -30,7 +30,7 @@ allowing for a fixed view of the stars; Massey employs a large format
 camera in the place of a telescope.
 
 Website:
-http://www.burnaby.ca/Things-To-Do/Arts-and-Heritage/Burnaby-Art-Gallery/Exhibitions/Scott-Massey--Unstable-Ground.html
+[http://www.burnaby.ca/Things-To-Do/Arts-and-Heritage/Burnaby-Art-Gallery/Exhibitions/Scott-Massey--Unstable-Ground.html](http://www.burnaby.ca/Things-To-Do/Arts-and-Heritage/Burnaby-Art-Gallery/Exhibitions/Scott-Massey--Unstable-Ground.html)
 
 Burnaby Art Gallery: 6344 Deer Lake Avenue, Burnaby, BC V5G 2J3
 General Inquiries: 604-297-4422 E-mail: gallery@burnaby.ca

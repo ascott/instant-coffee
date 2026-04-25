@@ -51,4 +51,4 @@ the ripped edge. It imbues the work with a hand done quality, more
 primitive than slick and so much more personal. The unusual pairings of details and
 scenes urge her images towards the provocative.
 
-https://www.richmondartgallery.org/mixedcollage#related
+[https://www.richmondartgallery.org/mixedcollage#related](https://www.richmondartgallery.org/mixedcollage#related)

@@ -39,7 +39,7 @@ P.opular S.ky is part of a series of three videos, along with K-Corea INC.
 K (Section A), Sibling Topics (Section A), under an umbrella title,
 Trill-ogy Comp. They serve as one part of his solo show Any Ever, currently
 on at the Powerplant in Toronto. All three films, as well as past work, can
-be seen at http://vimeo.com/trecartin.
+be seen at [http://vimeo.com/trecartin](http://vimeo.com/trecartin).
 
 Amy Kazymerchyk is the Director of Public Programs at VIVO Media Arts and
 programs Dim Cinema, a monthly evening of contemporary short-form moving

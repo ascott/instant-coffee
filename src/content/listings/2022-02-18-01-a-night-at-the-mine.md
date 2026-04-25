@@ -19,5 +19,5 @@ this once and lifetime art experience.
 
 Dress to impress.
 
-Additional tickets can also be purchased here: https://www.showpass.com/a-night-at-the-
+Additional tickets can also be purchased here: [https://www.showpass.com/a-night-at-the-](https://www.showpass.com/a-night-at-the-)
 mine-2/

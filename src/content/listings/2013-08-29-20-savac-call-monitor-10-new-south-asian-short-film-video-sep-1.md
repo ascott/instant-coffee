@@ -68,7 +68,7 @@ Canada, M5V 3A8
 
 For more information, please visit
 
-http://www.savac.net/m10-submissions.html
+[http://www.savac.net/m10-submissions.html](http://www.savac.net/m10-submissions.html)
 
 Or contact
 

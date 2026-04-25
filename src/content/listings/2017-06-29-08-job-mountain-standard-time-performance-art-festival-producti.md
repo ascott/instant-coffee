@@ -48,4 +48,4 @@ increasing opportunities for education and critical discourse surrounding
 contemporary performative practices.
 
 For more information on how to apply please visit
-http://mstfestival.org/news-2/
+[http://mstfestival.org/news-2/](http://mstfestival.org/news-2/)

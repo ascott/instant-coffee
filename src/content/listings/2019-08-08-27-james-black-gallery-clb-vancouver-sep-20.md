@@ -18,7 +18,7 @@ this! Call up your girl gang (or boy band) and re-experience the 90s.
 
 WANT THE 411? YOU CAN SUBMIT!
 Follow the link to enter all your details and your design.
-https://docs.google.com/forms/d/1Tn78tjQL9Rdr7x23mbhcqP2xB8mJ1Vodq7nNQZSFy
+[https://docs.google.com/forms/d/1Tn78tjQL9Rdr7x23mbhcqP2xB8mJ1Vodq7nNQZSFy](https://docs.google.com/forms/d/1Tn78tjQL9Rdr7x23mbhcqP2xB8mJ1Vodq7nNQZSFy)
 uM/edit
 Submissions close SEPT 20TH. Any and all illustration styles accepted, subject matter 
 can be anything 90's regardless of whichever pop-culture category it may belong to!

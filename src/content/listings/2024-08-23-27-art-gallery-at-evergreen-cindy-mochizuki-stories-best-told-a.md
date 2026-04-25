@@ -35,7 +35,7 @@ Lafarge Lake-Douglas Skytrain Station.
 "Cindy Mochizuki: stories best told at
 twilight" is on view at the Art Gallery at
 Evergreen from September 5-November 17, 2024. Visit our website for more
-information: https://evergreenculturalcentre.ca/upcoming-exhibition/
+information: [https://evergreenculturalcentre.ca/upcoming-exhibition/](https://evergreenculturalcentre.ca/upcoming-exhibition/)
 
 About the artist:
 Cindy Mochizukicreates multimedia installations, audio fiction, performances,

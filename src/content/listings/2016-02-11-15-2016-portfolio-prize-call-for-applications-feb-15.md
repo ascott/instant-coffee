@@ -64,4 +64,4 @@ Video works submitted must be at most 3 minutes in length.
 4 ::Submission
 
 Applications will be made online by February 15th 2016, please do so
-here: http://www.portfolioprize.com/apply
+here: [http://www.portfolioprize.com/apply](http://www.portfolioprize.com/apply)

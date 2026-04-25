@@ -42,7 +42,7 @@ documentary format. Work by ten artists engages with the conventions of
 source footage, narrative voice and re-enactment, questioning perceptions of
 such devices, while also reclaiming them in order to redefine their intent and
 potential. Read more here:
-http://www.contemporaryartgallery.ca/exhibitions/the-act-of-seeing-with-
+[http://www.contemporaryartgallery.ca/exhibitions/the-act-of-seeing-with-](http://www.contemporaryartgallery.ca/exhibitions/the-act-of-seeing-with-)
 ones-own-eyes/
 
 This exhibition is generously supported by Inform Interiors.
@@ -70,7 +70,7 @@ juxtaposition of appropriated texts creating both a familiarity and an oddly
 appropriate pairing suggestive of narratives that may exist to connect current
 news items with scripted dialogue.
 
-Read more here: http://www.contemporaryartgallery.ca/exhibitions/stefan-
+Read more here: [http://www.contemporaryartgallery.ca/exhibitions/stefan-](http://www.contemporaryartgallery.ca/exhibitions/stefan-)
 bruggemann-headlines-and-last-lines-in-the-movies/
 
 Contemporary Art Gallery

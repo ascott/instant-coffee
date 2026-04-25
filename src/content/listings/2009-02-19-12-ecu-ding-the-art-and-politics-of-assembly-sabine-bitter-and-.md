@@ -45,7 +45,7 @@ Serbia 2007; "Living Megastructures", 2003/2004, Venezuela, Germany, Austria
 Recent publications: "PHOTO ART, Fotografie im 21. Jahrhundert", DuMont
 Buchverlag, KÃ&#65533;Â¶ln 2007; "Live Like This!", Edition Camera Austria, Graz
 2005; "Caracas, Hecho en Venezuela", Revolver, Frankfurt 2005; More
-informations: http://www.lot.at
+informations: [http://www.lot.at](http://www.lot.at)
 
 Upcoming DING Speakers
 Mar. 5: Markus Miessen

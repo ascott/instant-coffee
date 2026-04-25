@@ -16,7 +16,7 @@ Conversation at 6:30pm
 Admission is by donation courtesy of BMO Financial Group
 RSVPs are helpful
 
-RSVP Here: https://thepolygon.ca/event/on-terada/
+RSVP Here: [https://thepolygon.ca/event/on-terada/](https://thepolygon.ca/event/on-terada/)
 
 Ron Terada (b. 1969 in Vancouver; lives and works in Vancouver) has developed a
 wide-ranging conceptual art practice over more than two decades, which includes

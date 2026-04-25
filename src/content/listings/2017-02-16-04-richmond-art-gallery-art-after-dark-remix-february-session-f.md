@@ -37,7 +37,7 @@ diploma, he is now producing and channeling his work through different art
 forms. Experienced in manipulating audio and recording on a whim, the sky is the 
 limit and the stage is set for him.
 
-To learn more about the program, visit http://www.richmondartgallery.org/learn-
+To learn more about the program, visit [http://www.richmondartgallery.org/learn-](http://www.richmondartgallery.org/learn-)
 and-create/adults/art-after-dark-remix/
 
 Program supported by the Hamber Foundation

@@ -21,7 +21,7 @@ Doors at 11:00am
 
 RSVPs are helpful
 
-RSVP here: https://thepolygon.ca/event/speaking-pictures-with-sam-seward/
+RSVP here: [https://thepolygon.ca/event/speaking-pictures-with-sam-seward/](https://thepolygon.ca/event/speaking-pictures-with-sam-seward/)
 
 About Sam Seward
 Sams ancestral name is Nekwimetstn. He belongs to 2 rich cultures, Snuneymexw

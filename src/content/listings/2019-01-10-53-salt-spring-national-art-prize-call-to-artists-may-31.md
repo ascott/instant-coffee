@@ -14,7 +14,7 @@ $40,000 in Awards
 
 Guidelines and submission details to be found on our website:
 
-http://saltspringartprize.ca/
+[http://saltspringartprize.ca/](http://saltspringartprize.ca/)
 
 54. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.

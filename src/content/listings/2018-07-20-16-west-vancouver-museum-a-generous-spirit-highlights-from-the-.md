@@ -29,4 +29,4 @@ Sylvia Tait, B.C. Binning, Atilla Richard Lukacs, Kim Kennedy Austin, and
 Babak Golkar, among many others.
 
 For exhibition info, please visit:
-https://westvancouvermuseum.ca/
+[https://westvancouvermuseum.ca/](https://westvancouvermuseum.ca/)

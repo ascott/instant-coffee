@@ -35,5 +35,5 @@ has been exhibited across Canada, including a feature in the 2023 Art Rental and
 Sales Program at the Vancouver Art Gallery. His unique blend of cultural influences
 and artistic disciplines continues to captivate and inspire audiences.
 
-THIS Gallery: https://thisgallery.org/
-Kai Liu: https://liu-kai.com/
+THIS Gallery: [https://thisgallery.org/](https://thisgallery.org/)
+Kai Liu: [https://liu-kai.com/](https://liu-kai.com/)

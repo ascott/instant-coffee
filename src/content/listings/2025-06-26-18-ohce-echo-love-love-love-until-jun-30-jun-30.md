@@ -18,6 +18,6 @@ Open Saturdays in June, 2 to 6pm, and by appointment through June 30.
 
 -_-
 
-Please see http://bedroomkitchen.garden/ohce-echo or write
+Please see [http://bedroomkitchen.garden/ohce-echo](http://bedroomkitchen.garden/ohce-echo) or write
 itsjoycewielandthanks@gmail.com for more information. Its pronounced echo echo,
 ;)

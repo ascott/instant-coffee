@@ -32,8 +32,8 @@ This residency is part of the 20th PuSh Festival.
 Co-Presented with The PuSh Festival and Community Partnered with: We The
 Roses.
 
-Residency info: https://www.vivomediaarts.com/programming/what-is-already-here
-Studio Showing info: https://www.vivomediaarts.com/programming/what-is-already-
+Residency info: [https://www.vivomediaarts.com/programming/what-is-already-here](https://www.vivomediaarts.com/programming/what-is-already-here)
+Studio Showing info: [https://www.vivomediaarts.com/programming/what-is-already-](https://www.vivomediaarts.com/programming/what-is-already-)
 here-studio-showing
-Community Engagement info: https://www.vivomediaarts.com/calls/what-is-already-
+Community Engagement info: [https://www.vivomediaarts.com/calls/what-is-already-](https://www.vivomediaarts.com/calls/what-is-already-)
 here

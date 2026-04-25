@@ -21,7 +21,7 @@ projects and the presentation structures will confront urban issues."
 DOWNTOWNSPACE
 800-block Granville Street near Robson Street
 Vancouver, BC Canada
-http://downtownspace.ca, http://Facebook.com/downtownspace
+[http://downtownspace.ca](http://downtownspace.ca), [http://Facebook.com/downtownspace](http://Facebook.com/downtownspace)
 
 For the first season of DOWNTOWNSPACE Koh, an artist known for work concerned 
 with public engagement and the built environment, is developing a multi-disciplinary 

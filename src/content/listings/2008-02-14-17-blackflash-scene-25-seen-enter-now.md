@@ -35,4 +35,4 @@ The two categories available for entry are:
 “Best Moving Image”
 
 Please visit our website for entry guidelines!
-http://www.blackflash.ca/scene-25-seen.html
+[http://www.blackflash.ca/scene-25-seen.html](http://www.blackflash.ca/scene-25-seen.html)

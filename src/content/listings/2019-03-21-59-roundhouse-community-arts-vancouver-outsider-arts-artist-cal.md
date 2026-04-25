@@ -93,4 +93,4 @@ Vancouver BC V6B 1H4
 Email applications accepted until midnight on April 15, 2019; Mail-in applications must be 
 postmarked on
 April 15 latest.
-Find out more about Community Arts Council of Vancouver at http://www.cacv.ca/for-artists/
+Find out more about Community Arts Council of Vancouver at [http://www.cacv.ca/for-artists/](http://www.cacv.ca/for-artists/)

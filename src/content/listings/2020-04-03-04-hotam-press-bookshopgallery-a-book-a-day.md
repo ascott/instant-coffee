@@ -16,4 +16,4 @@ We are entering the third week of our online exhibition of artist's books. Each 
 upload a new book. Please subscribe and check out on our YouTube channel Hotam
 Press.
 
-https://www.youtube.com/channel/UC6ML-NAWQ0CTuzlOj47pyXw/videos
+[https://www.youtube.com/channel/UC6ML-NAWQ0CTuzlOj47pyXw/videos](https://www.youtube.com/channel/UC6ML-NAWQ0CTuzlOj47pyXw/videos)

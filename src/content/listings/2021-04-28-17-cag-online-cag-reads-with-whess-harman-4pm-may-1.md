@@ -17,7 +17,7 @@ Saturday, May 1, 4 - 5.30pm PDT
 Contemporary Art Gallery
 
 Online via Zoom
-https://us02web.zoom.us/meeting/register/tZMsf--
+[https://us02web.zoom.us/meeting/register/tZMsf--](https://us02web.zoom.us/meeting/register/tZMsf--)
 vpjopHtEsa__7bHGX_XdPEgub5eUw
 
 We are pleased to announce our latest installment of CAG Reads, a book club where

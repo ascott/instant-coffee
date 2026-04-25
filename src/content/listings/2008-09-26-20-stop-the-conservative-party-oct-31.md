@@ -20,9 +20,9 @@ candidate will likely defeat the conservatives.
 
 This site shows that at a national level, strategic or smart voting will
 benefit all the opposition parties and prevent a Harper Majority:
-http://www.voteforenvironment.ca/
+[http://www.voteforenvironment.ca/](http://www.voteforenvironment.ca/)
 
 Please pass this on to others who might be interested. If you are away from
 the location you are registered to vote in you can mail in a vote or do an
 advance vote, check www.elections.ca/home.asp
-<http://www.elections.ca/home.asp>
+<[http://www.elections.ca/home.asp](http://www.elections.ca/home.asp)>

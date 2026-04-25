@@ -78,7 +78,7 @@ indicate that you are applying to Alchemy 2019 @ AGP and indicate the type of
 accommodation you would require.
 
 To apply, fill out the online form: 
-http://artscapegibraltarpoint.ca/artist-residences/book-a-residency/
+[http://artscapegibraltarpoint.ca/artist-residences/book-a-residency/](http://artscapegibraltarpoint.ca/artist-residences/book-a-residency/)
 
 *include your website or link to your work and indicate you are applying to Alchemy 
 Island '19*. A letter of up to 500 words sharing with us your thoughts about your 

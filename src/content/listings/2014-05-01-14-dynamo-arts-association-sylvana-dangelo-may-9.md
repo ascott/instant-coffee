@@ -59,8 +59,8 @@ and presentation. Her work focuses on the connections these moments have
 with the subject, their surroundings and the unifying effect of shared 
 experiences.
 
-http://www.sylvanaisthebest.com/
-http://5atanicpanic.tumblr.com/
+[http://www.sylvanaisthebest.com/](http://www.sylvanaisthebest.com/)
+[http://5atanicpanic.tumblr.com/](http://5atanicpanic.tumblr.com/)
 Share
 Tweet
 Forward to Friend

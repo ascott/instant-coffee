@@ -111,7 +111,7 @@ member of KSW from 2005-2006 and 2009-present.
 A further description of Lacan's four discourses will be available for
 workshop registrants.
 
-for more information click here : http://www.kswnet.org/
+for more information click here : [http://www.kswnet.org/](http://www.kswnet.org/)
 for more pertinent Lacan material write to Nancy Gillespie :
 gillespie.nancy@gmail.com
 

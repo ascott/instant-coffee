@@ -12,7 +12,7 @@ Education: Collage and Mixed Media, Fridays, July 18 - August 22, from 10:00 am 
 Noon, at Roundhouse Community Arts and Recreation Centre
 ID Code: 551693
 Register:
-https://anc.ca.apm.activecommunities.com/vancouver/activity/search/detail/548771?
+[https://anc.ca.apm.activecommunities.com/vancouver/activity/search/detail/548771](https://anc.ca.apm.activecommunities.com/vancouver/activity/search/detail/548771)?
 onlineSiteId=0&from_original_cui=true
 Call: (604) 713-1800
 Come Make Art with Us"No Experience Needed!
@@ -33,7 +33,7 @@ Education: Luxurious Oil Pastels, Fridays, July 18 - August 22, from 12:30 pm - 
 pm, at Roundhouse Community Arts and Recreation Centre
 ID Code: 552097
 Register:
-https://anc.ca.apm.activecommunities.com/vancouver/activity/search/detail/549175?
+[https://anc.ca.apm.activecommunities.com/vancouver/activity/search/detail/549175](https://anc.ca.apm.activecommunities.com/vancouver/activity/search/detail/549175)?
 onlineSiteId=0&from_original_cui=true
 Call: (604) 713-1800
 Curious about oil pastels or ready to take your skills further? These relaxed, hands-

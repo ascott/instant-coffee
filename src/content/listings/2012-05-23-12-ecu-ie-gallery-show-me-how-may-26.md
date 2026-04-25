@@ -38,4 +38,4 @@ ie, gallery | Emily Carr University of Art + Design
 
 1399 Johnston St, 190 N Bldg, Granville Island (across from OPUS)
 
-http://masters.ecuad.ca/iegallery/
+[http://masters.ecuad.ca/iegallery/](http://masters.ecuad.ca/iegallery/)

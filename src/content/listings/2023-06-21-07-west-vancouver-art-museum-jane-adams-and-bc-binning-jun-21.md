@@ -19,7 +19,7 @@ a child, Adams visited Binnings studio and became familiar with his paintings an
 designs. As she developed her own artistic practice, she came to recognize the impact
 of this early influence. This exhibition includes works by Binning from the Collection of
 the West Vancouver Art Museum.
-https://www.westvancouverartmuseum.ca/exhibitions/order-chaos-jane-adams-and-bc-
+[https://www.westvancouverartmuseum.ca/exhibitions/order-chaos-jane-adams-and-bc-](https://www.westvancouverartmuseum.ca/exhibitions/order-chaos-jane-adams-and-bc-)
 binning.
 
 Opening reception: June 20, 6-8 p.m.

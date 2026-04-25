@@ -8,5 +8,5 @@ venue: "JOB"
 summary: "JOB | Ferry Building Gallery | Summer Gallery Assistant | APR 19"
 ---
 
-https://tre.tbe.taleo.net/tre01/ats/careers/v2/viewRequisition?
+[https://tre.tbe.taleo.net/tre01/ats/careers/v2/viewRequisition](https://tre.tbe.taleo.net/tre01/ats/careers/v2/viewRequisition)?
 org=WESTVAN&cws=40&rid=1743

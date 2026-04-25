@@ -41,5 +41,5 @@ located in Vancouver at Dynamo Arts Association. Print Ready was founded in Janu
 
 Printreadyevents.com
 neoglyphicmedia.com
-http://www.perroverlag.com
+[http://www.perroverlag.com](http://www.perroverlag.com)
 www.sylvanaisthebest.com/zineclub

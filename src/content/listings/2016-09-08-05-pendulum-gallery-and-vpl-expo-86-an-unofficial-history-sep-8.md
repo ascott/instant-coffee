@@ -22,5 +22,5 @@ Join us for the public reception on September 8th (6-9pm) at which the
 Vancouver Public Library will be on site to capture audio memories of 
 Expo86 from exhibition visitors. The recorded memories are intended 
 to also be added to the VPL's This Vancouver online project. 
-(http://thisvancouver.vpl.ca/) The project is a collective archive of 
+([http://thisvancouver.vpl.ca/](http://thisvancouver.vpl.ca/)) The project is a collective archive of 
 memories, audio and images from participating Vancouverites.

@@ -39,4 +39,4 @@ A copy of the call is available at the Beaverton Arts Commission website
 Questions, contact:
 Valerie Otani otani@easystreet.net
 Beaverton Arts Commission at 503-526-2288.
-http://www.beavertonarts.org
+[http://www.beavertonarts.org](http://www.beavertonarts.org)

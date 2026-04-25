@@ -19,7 +19,7 @@ development of a web3 storage system for our sector.
 If you are interested in participating, please
 complete the survey by August 5, 2024!
 
-Survey link: https://221a.ca/event/survey-digital-preservation-of-cultural-assets/
+Survey link: [https://221a.ca/event/survey-digital-preservation-of-cultural-assets/](https://221a.ca/event/survey-digital-preservation-of-cultural-assets/)
 
 This research is being conducted by the Node Library; UBC Principle Investigator Dr.
 Victoria Lemieux; Hypha Worker Co-operative; and myself as part of a research

@@ -86,4 +86,4 @@ presentation of
 
 this project. 
 
-http://www.hammockresidency.com
+[http://www.hammockresidency.com](http://www.hammockresidency.com)

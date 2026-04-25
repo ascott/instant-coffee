@@ -17,7 +17,7 @@ FREE
 Richmond City Hall, 6911 No 3 Road
 
 To register:
-https://www.richmond.ca/culture/calendar/special-events/lulu.htm
+[https://www.richmond.ca/culture/calendar/special-events/lulu.htm](https://www.richmond.ca/culture/calendar/special-events/lulu.htm)
 
 In this presentation, Puya and Charlotte will delve into the story of Typha, a large-scale
 artwork located at the terminus of Hollybridge Way, near the Fraser River. The talk will

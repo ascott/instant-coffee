@@ -25,7 +25,7 @@ performed at such places as The Chan Centre, VIVO, Access ARC, The Western
 Front and Truck Gallery. Her current collaborative musical projects include
 MYTHS and Glaciers.
 
-http://asherpenn.tripod.com/LIEF.html
+[http://asherpenn.tripod.com/LIEF.html](http://asherpenn.tripod.com/LIEF.html)
 
 Art Opening - Friday,November 5 from 8-midnite
 Blimited: Limited Edition Screen printed shirt by Lief Hall available at

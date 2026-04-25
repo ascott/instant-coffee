@@ -13,7 +13,7 @@ ArtRich 2025 Exhibition Preparations for Artists
 Wednesday, July 30, 2025
 7:00 PM - 8:00 PM
 
-Register: https://www.eventbrite.ca/e/rag-artist-salon-artrich-2025-exhibition-
+Register: [https://www.eventbrite.ca/e/rag-artist-salon-artrich-2025-exhibition-](https://www.eventbrite.ca/e/rag-artist-salon-artrich-2025-exhibition-)
 preparations-for-artists-tickets-1432303330819
 
 The Richmond Arts Coalition (RAC), in partnership with the Richmond Art Gallery,
@@ -43,10 +43,10 @@ talent. Entries are not expected to fit a specific theme - we want to see the wo
 are most excited to share!
 
 For more details on how to apply, visit the
-https://richmondartscoalition.com/artrich2025/.
+[https://richmondartscoalition.com/artrich2025/](https://richmondartscoalition.com/artrich2025/).
 
 About Richmond Arts Coalition:
-The https://richmondartscoalition.com/ is your ArtsVoice for the arts and artists of
+The [https://richmondartscoalition.com/](https://richmondartscoalition.com/) is your ArtsVoice for the arts and artists of
 Richmond.
 V - a Volunteer-led organization, we
 O - Offer opportunities for artists and the arts within Richmond,
@@ -60,7 +60,7 @@ About the Artist Salon Series:
 The Artist Salon features art professionals leading inspirational artist talks and
 professional development for visual artists each month from February to November.
 Programs are either live-streamed via the Zoom platform or hosted in person. Past
-livestreams may be viewed as videos on the https://www.richmondartgallery.org/rag-
+livestreams may be viewed as videos on the [https://www.richmondartgallery.org/rag-](https://www.richmondartgallery.org/rag-)
 at-home/ragathomevideo page.
 
 www.richmondartgallery.org

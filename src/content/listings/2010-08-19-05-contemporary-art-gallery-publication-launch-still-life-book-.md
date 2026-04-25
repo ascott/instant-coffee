@@ -51,7 +51,7 @@ PUBLICATION: Contemporary Art Gallery: Vancouver, BC. 2010
 
 $33.00 CND
 
-To order: http://www.contemporaryartgallery.ca/#publications
+To order: [http://www.contemporaryartgallery.ca/#publications](http://www.contemporaryartgallery.ca/#publications)
 
 Discount available for Galleries, and Independent Booksellers
 

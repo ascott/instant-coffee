@@ -29,4 +29,4 @@ Todd Evanger
 Tristan Sober-Blodgett
 
 (Transportation up the hill will be provided ... please check FB event for more 
-info: https://www.facebook.com/events/229178397212733/)
+info: [https://www.facebook.com/events/229178397212733/](https://www.facebook.com/events/229178397212733/))

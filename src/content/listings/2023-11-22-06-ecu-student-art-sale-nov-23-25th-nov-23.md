@@ -21,7 +21,7 @@ students Emily Carr University is thrilled to invite the public to the 50th Anni
 edition of the Legendary Student Art Sale. This year will be the biggest sale in ECUs
 history, with thousands of artworks from more than 225 participating students.
 
-https://www.ecuad.ca/events/sas-event-2023?
+[https://www.ecuad.ca/events/sas-event-2023](https://www.ecuad.ca/events/sas-event-2023)?
 utm_source=Communications+%7C+Emix&utm_campaign=db4e94329f-
 EMAIL_CAMPAIGN_2023_11_15_10_15&utm_medium=email&utm_term=0_-
 db4e94329f-%5BLIST_EMAIL_ID%5D&mc_cid=db4e94329f&mc_eid=af86c4f785

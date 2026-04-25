@@ -40,7 +40,7 @@ Application Deadline: April 1, 2019
 
 More Information & How to Apply:
 
-http://milezerodance.com/2017/call-for-applications-workshop/
+[http://milezerodance.com/2017/call-for-applications-workshop/](http://milezerodance.com/2017/call-for-applications-workshop/)
 
 Zero Gravity Performance Art FESTIVAL (May 10 " 17, 2019)
 A 4-day festivalpresenting the work of established and emerging International and 

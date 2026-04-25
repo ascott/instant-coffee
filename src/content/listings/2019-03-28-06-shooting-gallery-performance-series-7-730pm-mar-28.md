@@ -20,13 +20,13 @@ Tracey Vath
 Lauren Marsden
 Curated by Sydney Southam
 *check out our blog and instagram for more info on the artists
-https://shootinggalleryperformance.wordpress.com/
+[https://shootinggalleryperformance.wordpress.com/](https://shootinggalleryperformance.wordpress.com/)
 instagram.com/shootinggalleryperformance
 
 Tix $17 online
 $20 at the door
 Our shows usually fill up so plan ahead or arrive early on the day : )
-https://squareup.com/store/shooting-gallery-performance
+[https://squareup.com/store/shooting-gallery-performance](https://squareup.com/store/shooting-gallery-performance)
 
 SGPS is a mixed bill show that happens twice a year featuring new, 
 weird and wonderful performance based art. This edition is presented 

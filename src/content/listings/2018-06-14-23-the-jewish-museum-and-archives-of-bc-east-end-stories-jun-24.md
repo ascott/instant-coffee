@@ -22,4 +22,4 @@ Sunday, June 24, 2018
 The Heatley
 696 East Hastings Street
 RSVPs required at
-https://www.eventbrite.ca/e/east-end-stories-launch-tickets-46426523983
+[https://www.eventbrite.ca/e/east-end-stories-launch-tickets-46426523983](https://www.eventbrite.ca/e/east-end-stories-launch-tickets-46426523983)

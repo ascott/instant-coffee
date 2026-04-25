@@ -10,7 +10,7 @@ summary: "SFU Vancouver Campus | Art and Identity in Transit | SEP 23"
 
 Art and Identity in Transit: A Conversation between Faune Ybarra and Josema Zamorano
 
-Link: https://vlacc.ca/events/art-and-identity-in-transit/
+Link: [https://vlacc.ca/events/art-and-identity-in-transit/](https://vlacc.ca/events/art-and-identity-in-transit/)
 
 Date: Saturday, September 23
 Time: 11:00 " 12:30 pm

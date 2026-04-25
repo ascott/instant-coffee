@@ -59,5 +59,5 @@ relationships and the pressing climate crisis.
 Ruth Beer, Seep | Swell is co-produced between the Art Gallery at Evergreen and
 the Burnaby Art Gallery, curated by Katherine Dennis and Jennifer Cane.
 
-https://www.burnaby.ca/recreation-and-arts/arts-and-culture-facilities/burnaby-art-
+[https://www.burnaby.ca/recreation-and-arts/arts-and-culture-facilities/burnaby-art-](https://www.burnaby.ca/recreation-and-arts/arts-and-culture-facilities/burnaby-art-)
 gallery/exhibitions/ruth-beer-seep-swell

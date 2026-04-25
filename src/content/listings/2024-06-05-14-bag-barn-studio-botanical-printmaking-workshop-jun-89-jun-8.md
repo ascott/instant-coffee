@@ -34,5 +34,5 @@ Burnaby, BC
 V5G 2J3
 
 For more information or to register:
-https://anc.ca.apm.activecommunities.com/burnaby/activity/search/detail/20555?
+[https://anc.ca.apm.activecommunities.com/burnaby/activity/search/detail/20555](https://anc.ca.apm.activecommunities.com/burnaby/activity/search/detail/20555)?
 onlineSiteId=0&from_original_cui=true

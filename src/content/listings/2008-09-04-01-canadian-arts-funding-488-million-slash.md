@@ -8,4 +8,4 @@ venue: "Canadian-Arts-Funding"
 summary: "Canadian-Arts-Funding | $48.8 million slash"
 ---
 
-http://www.thepetitionsite.com/1/Canadian-Arts-Funding
+[http://www.thepetitionsite.com/1/Canadian-Arts-Funding](http://www.thepetitionsite.com/1/Canadian-Arts-Funding)

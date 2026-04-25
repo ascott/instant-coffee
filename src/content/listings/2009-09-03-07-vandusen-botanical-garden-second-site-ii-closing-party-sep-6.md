@@ -45,5 +45,5 @@ experience. It causes a sense of curiosity and enchantment in the
 viewer that is designed to make people think about the relationship
 between human intervention, technology, and bio-diversity.
 
-Please visit http://www.secondsitecollective.net/ for more details.
-http://http://www.secondsitecollective.net/
+Please visit [http://www.secondsitecollective.net/](http://www.secondsitecollective.net/) for more details.
+[http://http://www.secondsitecollective.net/](http://http://www.secondsitecollective.net/)

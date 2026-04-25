@@ -24,7 +24,7 @@ program to allow for a wider range of artistic possibilities…
 Follow the link below to find the details including eligibility criteria, 
 submissions guidelines and more.
 
-http://www.nanaimo.ca/bid_opportunities/bid_details.aspx?id=723
+[http://www.nanaimo.ca/bid_opportunities/bid_details.aspx?id=723](http://www.nanaimo.ca/bid_opportunities/bid_details.aspx?id=723)
 
 For more information, contact:
 Kirsty MacDonald, Parks and Open Space Planner. 

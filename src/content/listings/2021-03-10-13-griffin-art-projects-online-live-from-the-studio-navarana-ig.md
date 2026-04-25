@@ -14,7 +14,7 @@ Griffin Art Projects
 
 www.griffinartprojects.ca
 
-Zoom link: https://zoom.us/webinar/register/WN_wfIQaUjASOqtEwxPytIBHA
+Zoom link: [https://zoom.us/webinar/register/WN_wfIQaUjASOqtEwxPytIBHA](https://zoom.us/webinar/register/WN_wfIQaUjASOqtEwxPytIBHA)
 
 Join Griffins current
 artist-in-residence, Navarana Igloliorte, for an artist talk live over zoom

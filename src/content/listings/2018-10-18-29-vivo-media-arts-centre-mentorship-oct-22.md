@@ -15,7 +15,7 @@ Call for participation, ages 16-24
 
 Deadline to Apply: Oct 22, 2018
 
-FREE to APPLY: http://vivomediaarts.com/epg
+FREE to APPLY: [http://vivomediaarts.com/epg](http://vivomediaarts.com/epg)
 
 Tuition covered by generous support of our sponsors.
 

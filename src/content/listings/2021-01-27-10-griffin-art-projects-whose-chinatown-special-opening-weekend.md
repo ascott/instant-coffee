@@ -29,7 +29,7 @@ Saturday, January 30th, 10:00am - 5:00pm
 Sunday, January 31, 10:00am " 5:00pm
 
 To ensure proper social distancing, bookings for the opening weekend can be made here:
-https://www.eventbrite.ca/e/whose-chinatown-special-opening-weekend-tickets-
+[https://www.eventbrite.ca/e/whose-chinatown-special-opening-weekend-tickets-](https://www.eventbrite.ca/e/whose-chinatown-special-opening-weekend-tickets-)
 137686464923
 
 Whose Chinatown? Examining Chinatown Gazes in Art, Archives, and Collections, brings

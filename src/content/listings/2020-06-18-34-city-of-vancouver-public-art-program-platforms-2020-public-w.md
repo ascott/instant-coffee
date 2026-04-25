@@ -22,4 +22,4 @@ Artists will be paid an artist fee of $2000 for selected works.
 
 For application details please follow this link:
 
-https://vancouver.ca/files/cov/platforms-2020-specifications.pdf
+[https://vancouver.ca/files/cov/platforms-2020-specifications.pdf](https://vancouver.ca/files/cov/platforms-2020-specifications.pdf)

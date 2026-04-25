@@ -41,4 +41,4 @@ The closing reception is on Thursday June 26, 7-10 pm. The project runs
 from June 2 - July 5, 2014.
 
 grunt gallery URL:
-http://grunt.ca/exhibitions/play-fall-rest-dance/
+[http://grunt.ca/exhibitions/play-fall-rest-dance/](http://grunt.ca/exhibitions/play-fall-rest-dance/)

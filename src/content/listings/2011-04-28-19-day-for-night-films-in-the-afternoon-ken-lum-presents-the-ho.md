@@ -11,7 +11,7 @@ summary: "Day for Night: Films in the Afternoon | Ken Lum presents: THE HOUSEMAI
 Day for Night: Films in the Afternoon
 May 1st, 2011 3:00pm
 
-More information at http://www.waldorfhotel.com/
+More information at [http://www.waldorfhotel.com/](http://www.waldorfhotel.com/)
 
 The Waldorf Hotel (1489 East Hastings, Phone: 604-253-7141)
 

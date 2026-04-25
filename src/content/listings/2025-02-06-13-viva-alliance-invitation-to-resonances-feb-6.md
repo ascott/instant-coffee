@@ -32,4 +32,4 @@ Venue:
 
 Wed love to see you there!
 
-Tickets: https://vivaalliance.ca/events/heydoo-hedayati
+Tickets: [https://vivaalliance.ca/events/heydoo-hedayati](https://vivaalliance.ca/events/heydoo-hedayati)

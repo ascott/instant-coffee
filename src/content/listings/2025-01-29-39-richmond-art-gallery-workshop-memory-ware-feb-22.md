@@ -12,7 +12,7 @@ Richmond Art Gallery hosts: Memory Ware Workshop with Alex Tedlie-Stursberg
 Saturday, February 22, 2025
 2:00 PM - 4:00 PM
 
-REGISTER: https://www.eventbrite.ca/e/memory-ware-workshop-with-alex-tedlie-
+REGISTER: [https://www.eventbrite.ca/e/memory-ware-workshop-with-alex-tedlie-](https://www.eventbrite.ca/e/memory-ware-workshop-with-alex-tedlie-)
 stursberg-tickets-1116840332499?aff=oddtdtcreator
 
 Creating Keepsakes from Found Objects:
@@ -37,7 +37,7 @@ non-refundable.
 
 About the Artist:
 Alex Tedli-Stursberg is one of the exhibiting artists in Richmond Art Gallery's group
-exhibition https://www.richmondartgallery.org/dear-plastic, from January 18 - March
+exhibition [https://www.richmondartgallery.org/dear-plastic](https://www.richmondartgallery.org/dear-plastic), from January 18 - March
 23, 2025.
 Tedlie-Stursberg is a multidisciplinary artist and educator working across
 various mediums with a key focus on sculpture and installation. His work has been

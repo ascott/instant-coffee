@@ -22,7 +22,7 @@ Dtournement | Samuel Roy-Bois
 Doors at 6:00pm
 Screening + Conversation at 6:30pm
 RSVPs are appreciated
-RSVP Here: https://thepolygon.ca/event/detournement-samuel-roy-bois-screening-
+RSVP Here: [https://thepolygon.ca/event/detournement-samuel-roy-bois-screening-](https://thepolygon.ca/event/detournement-samuel-roy-bois-screening-)
 conversation/
 
 About Samuel Roy-Bois

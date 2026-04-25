@@ -59,7 +59,7 @@ relationship, are encouraged. Of particular interest are projects that involve
 collaboration with groups, organizations and creators outside of the artistic realm. 
 
 INFORMATION AND APPLICATIONS:
-http://summerworks.ca/2016/apply/
+[http://summerworks.ca/2016/apply/](http://summerworks.ca/2016/apply/)
 
 36. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.

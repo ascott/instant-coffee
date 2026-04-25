@@ -36,10 +36,10 @@ Night School will take place at the Rhizome Café, Thursday May 31st
 at 7pm. It is by donation but no one will be turned away. Delicious food 
 and drinks will also be available.
 
-More info at https://www.facebook.com/events/420117818006969/
+More info at [https://www.facebook.com/events/420117818006969/](https://www.facebook.com/events/420117818006969/)
 
 May 31st, 2012
 7-9 pm
 Rhizome Cafe
 317 E Broadway Vancouver
-(http://www.rhizomecafe.ca/)
+([http://www.rhizomecafe.ca/](http://www.rhizomecafe.ca/))

@@ -28,9 +28,9 @@ ourselves. Life is Still awakens us to see beyond the surface, encouraging a dee
 appreciation for the simple and fleeting moments of everyday life. Through her work,
 Kong invites us to contemplate stillness and the beauty hidden in plain sight.
 
-THIS Website: https://thisgallery.org/
-Exhibition preview: https://thethisgallery.com/collections/carol-kong
-Full artist statement: https://thisgallery.org/project/carol-kong-life-is-still/
+THIS Website: [https://thisgallery.org/](https://thisgallery.org/)
+Exhibition preview: [https://thethisgallery.com/collections/carol-kong](https://thethisgallery.com/collections/carol-kong)
+Full artist statement: [https://thisgallery.org/project/carol-kong-life-is-still/](https://thisgallery.org/project/carol-kong-life-is-still/)
 
 The exhibition closes Saturday, February 15 at 5 pm.
 

@@ -21,7 +21,7 @@ engagement with place, while offering participants opportunities to connect with
 creatives in the community. A wide range of mediums, approaches, and themes are welcome.
 Priority will be given to artists who live or work in the Fraser Valley.
 
-Submission Link: http://bit.ly/4kGKpmM
+Submission Link: [http://bit.ly/4kGKpmM](http://bit.ly/4kGKpmM)
 
 Selected artists will be compensated in accordance with the CARFAC 2026 fee schedule. All
 general materials, marketing, and venue coordination will be provided by Fort Gallery.

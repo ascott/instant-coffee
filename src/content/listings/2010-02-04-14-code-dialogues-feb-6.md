@@ -32,4 +32,4 @@ Lantin Sara Diamond, Ralph Borland, Faisal Anwar, Dustin Rivers, Galen
 Scorer, Anais met det Ancxt, Johanna Berzowska, Brendan Wypich, Jer Thorp
 and Randy Lee Cutler.
 
-Please visit http://www.ecuad.ca/about/events/28354 for further information.
+Please visit [http://www.ecuad.ca/about/events/28354](http://www.ecuad.ca/about/events/28354) for further information.

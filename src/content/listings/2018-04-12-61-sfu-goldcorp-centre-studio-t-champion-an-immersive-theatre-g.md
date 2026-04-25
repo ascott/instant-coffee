@@ -30,4 +30,4 @@ Goldcorp Centre for the Arts, Studio T
 Vancouver, BC V6B 5K3
 
 Tickets & info here:
-https://www.eventbrite.ca/e/champion-tickets-44715287629
+[https://www.eventbrite.ca/e/champion-tickets-44715287629](https://www.eventbrite.ca/e/champion-tickets-44715287629)

@@ -26,4 +26,4 @@ Studio Life. Planned with the assistance of Jillian Ross Print, Parts & Labour, 
 
 The exhibition will be accompanied by a public program, titled Worldings, which includes a series of international and Canadian online public programs and residencies that explore the unique artistic perspectives and histories that exist in Canadian and South African experience as seen through the eyes of artists, writers, curators and arts administrators.
 
-More Information: https://www.griffinartprojects.ca/exhibitions/william-kentridge-the-colander
+More Information: [https://www.griffinartprojects.ca/exhibitions/william-kentridge-the-colander](https://www.griffinartprojects.ca/exhibitions/william-kentridge-the-colander)

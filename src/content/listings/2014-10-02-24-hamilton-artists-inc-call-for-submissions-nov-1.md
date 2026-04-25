@@ -22,7 +22,7 @@ may also choose to apply to the James Gallery which is primarily a members
 exhibition space. There are four specific calls for the James Gallery
 listed on the website. Please refer to the descriptions of the Galleries to
 decide which is more appropriate for your needs/ practice.
-http://www.theinc.ca/exhibition/submissions/
+[http://www.theinc.ca/exhibition/submissions/](http://www.theinc.ca/exhibition/submissions/)
 
 CANNON GALLERY:
 

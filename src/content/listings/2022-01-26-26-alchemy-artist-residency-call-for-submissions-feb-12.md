@@ -49,4 +49,4 @@ website.
 safety precautions to keep both community members and participating artists safe.
 
 Details about how and where to submit your application can be found at
-http://www.makealchemy.com
+[http://www.makealchemy.com](http://www.makealchemy.com)

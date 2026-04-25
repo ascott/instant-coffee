@@ -15,7 +15,7 @@ Saturday, February 10, 2024
 Zoom Webinar
 Tickets by Donation ($40 suggested)
 
-Buy tickets here: https://www.canadahelps.org/en/charities/capilano-review-
+Buy tickets here: [https://www.canadahelps.org/en/charities/capilano-review-](https://www.canadahelps.org/en/charities/capilano-review-)
 contemporary-arts-society/events/as-good-as-rocks-a-poetry-marathon-with-the-
 capilano-review/
 

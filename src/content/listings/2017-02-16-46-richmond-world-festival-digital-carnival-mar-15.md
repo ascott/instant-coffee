@@ -43,7 +43,7 @@ SUBMISSION DEADLINE: March 15, 2017
 Digital Carnival Curator: Wynne Palmer, integrated media artist/curator at 
 wynnepalmer.net
 
-For the submission form visit: http://cinevolutionmedia.com/digital-carnival-2017-
+For the submission form visit: [http://cinevolutionmedia.com/digital-carnival-2017-](http://cinevolutionmedia.com/digital-carnival-2017-)
 submissions/
 
 Please complete the form and submit, along with your proposal, CV, photo 

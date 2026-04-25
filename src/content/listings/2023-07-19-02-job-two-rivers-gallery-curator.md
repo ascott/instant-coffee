@@ -30,5 +30,5 @@ Two Rivers Gallery hires through a fair and balanced selection process. The Gall
 encourages LGBTQ+, persons with disabilities, individuals who self-identify as
 Indigenous and visible minorities to apply.
 
-Find full job description on our website: https://www.tworiversgallery.ca/join-support-
+Find full job description on our website: [https://www.tworiversgallery.ca/join-support-](https://www.tworiversgallery.ca/join-support-)
 old/job-listings/

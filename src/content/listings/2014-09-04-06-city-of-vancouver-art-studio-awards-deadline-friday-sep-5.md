@@ -34,7 +34,7 @@ VanCulture provides email updates from City of Vancouver Cultural Services
 Email culture@vancouver.ca
 Call 3-1-1 (604-873-7000 outside Vancouver)
 
-Visit us online: http://vancouver.ca/culture
+Visit us online: [http://vancouver.ca/culture](http://vancouver.ca/culture)
 Like us on Facebook: facebook.com/vanculture
 Follow us on Twitter: @VanCultureBC
 

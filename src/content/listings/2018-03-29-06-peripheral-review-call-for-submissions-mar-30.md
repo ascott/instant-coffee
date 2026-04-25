@@ -54,7 +54,7 @@ peripheralreview@gmail.com by midnight EST on Friday March 30,
 
 For more information visit: www.peripheralreview.com
 
-Subscribe to our email list here: http://eepurl.com/daokq1
+Subscribe to our email list here: [http://eepurl.com/daokq1](http://eepurl.com/daokq1)
 
 With all submissions please format according to the submission
 guidelines. For general inquires please note your query in the subject

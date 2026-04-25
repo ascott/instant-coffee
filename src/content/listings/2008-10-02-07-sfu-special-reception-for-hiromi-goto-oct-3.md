@@ -40,7 +40,7 @@ Hiromi Goto will be available for consultation at Simon Fraser University
 during the academic year of 2008-2009. To contact her please call the
 Department of English at 778-782-3136. For information on the
 Writer-in-Residence Program, please consult the Department of English
-website (www.sfu.ca/english <http://www.sfu.ca/english> ).
+website (www.sfu.ca/english <[http://www.sfu.ca/english](http://www.sfu.ca/english)> ).
 
 With Thanks
 

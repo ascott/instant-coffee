@@ -33,6 +33,6 @@ work
 
 "Like"
 
-http://www.facebook.com/pages/Everything-About-Sculpture/166344360111598
+[http://www.facebook.com/pages/Everything-About-Sculpture/166344360111598](http://www.facebook.com/pages/Everything-About-Sculpture/166344360111598)
 
 Each week EAS will upload a new album featuring one artist.

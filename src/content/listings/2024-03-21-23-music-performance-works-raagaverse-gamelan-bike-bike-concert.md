@@ -19,5 +19,5 @@ Robyn Jacob, and I Made Subandi, among others.
 
 Doors at 7:00. Performance at 8:00pm
 Advance Tickets - $20
-https://www.zeffy.com/en-CA/ticketing/362793da-2d14-4d03-a006-4fd9d59cfb53
+[https://www.zeffy.com/en-CA/ticketing/362793da-2d14-4d03-a006-4fd9d59cfb53](https://www.zeffy.com/en-CA/ticketing/362793da-2d14-4d03-a006-4fd9d59cfb53)
 Presented by Publik Secrets

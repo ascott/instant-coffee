@@ -42,7 +42,7 @@ Tourism, Culture and the Arts. Francisco Camacho will host an artist talk at the
 Western Front, the following evening on October 12th, where he will frame the 
 project Culture is a Common Purpose within his own artistic practice and 
 announce future developments with the project. (Please see our website 
-http://front.bc.ca for more precise details on these events)
+[http://front.bc.ca](http://front.bc.ca) for more precise details on these events)
 
 We would also like to invite you to take part in this project. We are searching for 
 active participation from our audience that reinforces the concept of a shared 
@@ -52,7 +52,7 @@ public culture, a cultural event or institution that is publicly funded, has inf
 your life, your education, your growth, and your community. Please send your 
 texts, photographs and videos to common_culture@front.bc.ca A blog is being 
 run to track and share the developments of this participation and Camacho’s 
-ongoing research http://cultureisacommon.tumblr.com/
+ongoing research [http://cultureisacommon.tumblr.com/](http://cultureisacommon.tumblr.com/)
 
 Biography The Columbian artist Francisco Camacho, seeks ways in which his 
 work can exist within official social channels. His projects are the results of 
@@ -75,7 +75,7 @@ from the Senate, the Minister of Culture, a strong man and a hip hop band.
 Western Front
 303 East 8th Avenue, Vancouver, BC Canada V5T 1S1
 T. +1 604 876 9343 F. +1 604 876 4099
-W. http://front.bc.ca E. exhibitions@front.bc.ca
+W. [http://front.bc.ca](http://front.bc.ca) E. exhibitions@front.bc.ca
 Gallery Hours: Tuesday – Friday 12 – 5pm
 Admission Free
 

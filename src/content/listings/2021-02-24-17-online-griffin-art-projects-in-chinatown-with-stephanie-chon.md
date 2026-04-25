@@ -15,7 +15,7 @@ Griffin Art Projects
 
 www.griffinartprojects.ca
 
-Zoom link: https://zoom.us/webinar/register/WN_K91ZzIt4TEWyrs-WsTkVBw
+Zoom link: [https://zoom.us/webinar/register/WN_K91ZzIt4TEWyrs-WsTkVBw](https://zoom.us/webinar/register/WN_K91ZzIt4TEWyrs-WsTkVBw)
 
 As development threatens Chinatowns across the globe, In Chinatown captures the
 enduring stories of the people and places of one of Vancouvers oldest neighbourhoods

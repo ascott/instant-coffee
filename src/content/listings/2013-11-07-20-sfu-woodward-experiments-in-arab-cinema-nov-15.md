@@ -29,9 +29,9 @@ in the region.
 
 A reception with cash bar and catering by Nuba follows the November 15 
 program.
-Event page http://sfuwoodwards.ca/index.php/events/details/experiments-in-
+Event page [http://sfuwoodwards.ca/index.php/events/details/experiments-in-](http://sfuwoodwards.ca/index.php/events/details/experiments-in-)
 arab-cinema
-Facebook page https://www.facebook.com/events/547142255367793/
+Facebook page [https://www.facebook.com/events/547142255367793/](https://www.facebook.com/events/547142255367793/)
 
 November 15 8 p.m. - The Glitch Program
 Digital glitch shows the physical nature of digital media, which, in many Arab 
@@ -131,5 +131,5 @@ SFU Woodward's Cultural Programs
 Goldcorp Centre for the Arts
 Tel: 778-782-9223
 
-Website: http://www.sfuwoodwards.ca
+Website: [http://www.sfuwoodwards.ca](http://www.sfuwoodwards.ca)
 Twitter: @SFU_W | Facebook: SFU Woodward's

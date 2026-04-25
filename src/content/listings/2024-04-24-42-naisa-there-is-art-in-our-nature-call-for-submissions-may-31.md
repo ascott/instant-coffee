@@ -15,7 +15,7 @@ Deadline May 31, 2024
 Categories: Sound Art/Electroacoustic, Sound+Image, Radio/Transmission Art,
 Interactive Installation
 
-Online Application Form - https://naisa.ca/naisa.ca/naisa-general-submission-form/
+Online Application Form - [https://naisa.ca/naisa.ca/naisa-general-submission-form/](https://naisa.ca/naisa.ca/naisa-general-submission-form/)
 
 New Adventures in Sound Art (NAISA) invites artists of all ages and nationalities to
 submit works on the theme There is Art in Our Nature for consideration in New

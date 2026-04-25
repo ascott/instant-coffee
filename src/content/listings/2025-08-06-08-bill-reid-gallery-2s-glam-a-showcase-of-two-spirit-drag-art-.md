@@ -38,5 +38,5 @@ $20 Regular Admission
 $15 BRG Members and Indigenous Peoples
 
 Get your tickets here:
-https://www.billreidgallery.ca/blogs/public-programs/2s-glam-showcase-two-spirit-
+[https://www.billreidgallery.ca/blogs/public-programs/2s-glam-showcase-two-spirit-](https://www.billreidgallery.ca/blogs/public-programs/2s-glam-showcase-two-spirit-)
 drag-art

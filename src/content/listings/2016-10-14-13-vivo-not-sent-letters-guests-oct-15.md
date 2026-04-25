@@ -42,7 +42,7 @@ extension of his ongoing Not Sent Letters project, an entanglement with the
 production of meaning, self and cultural memory, involving image/text
 epistolary detours online (since 2005), digital shorts, interdisciplinary
 performance works and cooperatively realized public events:
-http://notsentlettersproject.com
+[http://notsentlettersproject.com](http://notsentlettersproject.com)
 
 This is the twenty-first NOT SENT LETTERS & GUESTS event.
 
@@ -88,7 +88,7 @@ Sonia Monzano, and Me In A Few Days Or So, selected and read from the
 project archive.
 
 EXPLORE previous NOT SENT LETTERS & GUESTS events here:
-http://notsentlettersproject.com/category/events
+[http://notsentlettersproject.com/category/events](http://notsentlettersproject.com/category/events)
 
 Please email Jeremy Todd to host or contribute to a future Not Sent Letters
 & Guests event: jeremytodd@notsentlettersproject.com

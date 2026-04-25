@@ -29,6 +29,6 @@ features rarely seen works by American artist and writer Russell FitzGerald (193
 subcultural knowledge
 complicates archiving and transmission.
 
-https://belkin.ubc.ca/exhibitions/an-opulence-of-squander/
+[https://belkin.ubc.ca/exhibitions/an-opulence-of-squander/](https://belkin.ubc.ca/exhibitions/an-opulence-of-squander/)
 
-https://belkin.ubc.ca/exhibitions/russell-fitzgerald/
+[https://belkin.ubc.ca/exhibitions/russell-fitzgerald/](https://belkin.ubc.ca/exhibitions/russell-fitzgerald/)

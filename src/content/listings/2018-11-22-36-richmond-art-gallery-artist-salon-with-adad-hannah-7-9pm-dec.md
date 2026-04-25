@@ -46,7 +46,7 @@ Join us this evening to learn more about Hannah's artistic process and get invol
 an exciting new 2019 project!
 
 Free Admission. LIMITED SPACES! Registration required.
-https://www.eventbrite.ca/e/artist-salon-with-adad-hannah-tickets-52059305785 
+[https://www.eventbrite.ca/e/artist-salon-with-adad-hannah-tickets-52059305785](https://www.eventbrite.ca/e/artist-salon-with-adad-hannah-tickets-52059305785) 
 
 Artist Bio:
 Adad Hannah was born in New York in 1971, spent his childhood in Israel and England, 

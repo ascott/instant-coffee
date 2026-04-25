@@ -55,15 +55,15 @@ with Richmond Art Gallery. Bell is currently working on new textile pieces for
 Monument(al), a show with collagist Sarah Gee and sculptor Aaron Moran which 
 will run November 5-12 at Vancouver's East Van Studio.
 
-http://www.jessicabellart.com/
+[http://www.jessicabellart.com/](http://www.jessicabellart.com/)
 
 Kuh Del Rosario graduated from The Alberta College of Art and Design, with a 
 BFA in Painting (2003). Del Rosario recently exhibited at the Cutty Contemporary 
 in Vancouver, and will be showing at the XPACE Cultural Center in Toronto, ON 
 this coming November, 2011.
 
-http://www.kuhdelrosario.com/
+[http://www.kuhdelrosario.com/](http://www.kuhdelrosario.com/)
 
 Yactac are Janice and Justine Cheung, Peggy and Karen Ngan.
 yactacgallery@gmail.com
-http://www.yactac.com/
+[http://www.yactac.com/](http://www.yactac.com/)

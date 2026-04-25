@@ -30,7 +30,7 @@ rough sketch, a compilation of visual ideas, etc.,) is sufficient
 Suggested themes: Asian Diaspora, Chinatown, Asian Heritage, Celebration,
 Community, Harmony Please fill out the Google Form thoroughly
 
-(https://forms.gle/P4nFAqe4b7dnBCie6)
+([https://forms.gle/P4nFAqe4b7dnBCie6](https://forms.gle/P4nFAqe4b7dnBCie6))
 
 which can also be found on Centre As
 website and Instagram

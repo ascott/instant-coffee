@@ -25,7 +25,7 @@ Followed by a Deckchair Cinema screening of The Fifth Element.
 Admission is by a suggested donation of $10-$20, courtesy of BMO Financial Group
 RSVPs are helpful
 
-RSVP here: https://thepolygon.ca/event/conversation-publication-launch-alejandro-a-
+RSVP here: [https://thepolygon.ca/event/conversation-publication-launch-alejandro-a-](https://thepolygon.ca/event/conversation-publication-launch-alejandro-a-)
 barbosa-with-elliott-ramsey/
 
 Alejandro A. Barbosa: I Got Us the Moon is on view until September 28

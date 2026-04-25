@@ -63,7 +63,7 @@ Where did they come from?
 >>>>>>>>>>>>>>>>>>>>>>>
 
 Yactac Gallery | 7206 Ontario Street (@ 56th), Vancouver, BC, Canada
-http://www.yactac.com | contact us at: yactacgallery@gmail.com
+[http://www.yactac.com](http://www.yactac.com) | contact us at: yactacgallery@gmail.com
 
-Twitter: http://www.twitter.com/yactac
-Facebook: http://www.facebook.com/pages/Yactac/219495644734594
+Twitter: [http://www.twitter.com/yactac](http://www.twitter.com/yactac)
+Facebook: [http://www.facebook.com/pages/Yactac/219495644734594](http://www.facebook.com/pages/Yactac/219495644734594)

@@ -12,4 +12,4 @@ We are accepting submissions from visual and performing artists who self-identif
 outsider.
 Submissions are being accepted until April 22nd.
 
-Link: http://www.cacv.ca/vancouver-outsider-arts-festival-2019/
+Link: [http://www.cacv.ca/vancouver-outsider-arts-festival-2019/](http://www.cacv.ca/vancouver-outsider-arts-festival-2019/)

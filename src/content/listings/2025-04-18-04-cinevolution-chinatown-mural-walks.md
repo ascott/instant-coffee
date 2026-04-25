@@ -21,5 +21,5 @@ courtyard at the Suzhou Alley Women's Mural.
 Registration is Pay-What-You-Can, with a suggested donation of $10. All proceeds go
 to host organizations.
 
-To register for a tour and to learn more about the tour guides, visit https://chinatown-
+To register for a tour and to learn more about the tour guides, visit [https://chinatown-](https://chinatown-)
 mural-walks.eventbrite.ca/

@@ -23,5 +23,5 @@ for the cost of production and installation.
 More information:
 
 Download the call at:
-http://vancouver.ca/commsvcs/oca/PublicArt/artistopp.htm
+[http://vancouver.ca/commsvcs/oca/PublicArt/artistopp.htm](http://vancouver.ca/commsvcs/oca/PublicArt/artistopp.htm)
 Please send any questions to karen.henry@vancouver.ca

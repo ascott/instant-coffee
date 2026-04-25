@@ -75,7 +75,7 @@ the space. The space is available immediately.
 Email us at: info@thephoenixgallery.ca
 
 @watchthephoenix
-http://thephoenixgallery.ca/
+[http://thephoenixgallery.ca/](http://thephoenixgallery.ca/)
 
 2.
 Studio for Rent | FEB 1

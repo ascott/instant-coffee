@@ -45,7 +45,7 @@ There is a $5 (USD) Slideroom admin fee, but no jury fee.
 
 APPLY ONLINE:
 
-https://www.seymourartgallery.com/gallery-shop/submission-guidelines/
+[https://www.seymourartgallery.com/gallery-shop/submission-guidelines/](https://www.seymourartgallery.com/gallery-shop/submission-guidelines/)
 
 SUBMISSION DEADLINE: Sunday March 31, 2019
 

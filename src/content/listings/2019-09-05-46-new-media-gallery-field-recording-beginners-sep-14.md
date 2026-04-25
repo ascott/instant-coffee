@@ -34,6 +34,6 @@ Course ID 00028570
 Ages 18+
 
 Register here:
-https://bit.ly/2K03iBq
+[https://bit.ly/2K03iBq](https://bit.ly/2K03iBq)
 
 For information on how to register: newmediagallery.ca/programs/

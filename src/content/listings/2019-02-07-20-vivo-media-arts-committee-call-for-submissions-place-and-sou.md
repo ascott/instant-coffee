@@ -29,7 +29,7 @@ Artist Fee: $500 paid upon final piece submission
 Application: Please apply with your name, bio, a brief description of what your 
 project would be, and a link to your work and CV by February 12th 2019.
 
-Apply here: http://mediaartscommittee.org/call_for_artists_application
+Apply here: [http://mediaartscommittee.org/call_for_artists_application](http://mediaartscommittee.org/call_for_artists_application)
 
 Dates: Successful Applicants will be notified on February 25th. All pieces must be 
 completed by April 1st 2019.

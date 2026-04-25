@@ -40,4 +40,4 @@ Proposals will be reviewed by AAARCs curatorial committee, and invited artists a
 presenters will receive a professional fee (above CARFAC minimum) and travel and
 accommodation support.
 
-Download the full call for proposals: http://www.landstotravelthrough.ca/en
+Download the full call for proposals: [http://www.landstotravelthrough.ca/en](http://www.landstotravelthrough.ca/en)

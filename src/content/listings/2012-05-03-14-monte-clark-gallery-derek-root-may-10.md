@@ -16,10 +16,10 @@ May 10 to June 9, 2012
 Opening reception: Thursday May 10, 6pm to 8pm
 
 View information on the exhibition here 
-<http://monteclarkgallery.cmail2.com/t/r-l-dulkijt-phhudtiud-r/> .
+<[http://monteclarkgallery.cmail2.com/t/r-l-dulkijt-phhudtiud-r/](http://monteclarkgallery.cmail2.com/t/r-l-dulkijt-phhudtiud-r/)> .
 
 MONTE CLARK GALLERY
 2339 Granville Street
 Vancouver, BC V6H 3G4
-www.monteclarkgallery.com <http://monteclarkgallery.cmail2.com/t/r-l-
+www.monteclarkgallery.com <[http://monteclarkgallery.cmail2.com/t/r-l-](http://monteclarkgallery.cmail2.com/t/r-l-)
 dulkijt-phhudtiud-y/>

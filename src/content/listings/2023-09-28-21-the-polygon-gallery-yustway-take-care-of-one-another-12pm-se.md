@@ -27,7 +27,7 @@ The final day to see Hacer Memoria and its companion piece Severance is October
 1.
 
 RSVPs are helpful
-RSVP Here: https://thepolygon.ca/event/yuustway-take-care-of-one-another/
+RSVP Here: [https://thepolygon.ca/event/yuustway-take-care-of-one-another/](https://thepolygon.ca/event/yuustway-take-care-of-one-another/)
 
 About Cedar Brushing
 Cedar brushing is a traditional form of medicine used to help clear the mind and

@@ -113,7 +113,7 @@ Manager for Kent Monkman and was co-director of Butcher Gallery from
 Toronto, Pierre François Ouellette art contemporain 221 in Montreal, Esam 
 Caen in France, Preteen Gallery in Mexico and Dokfest in German. He has an 
 upcoming solo exhibition at OhMyDays Gallery in Singapore in the summer of 
-2014. http://bradtinmouth.com 
+2014. [http://bradtinmouth.com](http://bradtinmouth.com) 
 
 Jeffrey Hallbauer completed his BFA in 2009 at Emily Carr University, where 
 he studied with abstract painter Elizabeth McIntosh. In 2010, he had his first 

@@ -13,7 +13,7 @@ Celebration.
 Doors at 2:00pm
 Opening + reception to follow
 RSVPs are helpful
-RSVP Here: https://thepolygon.ca/event/living-with-the-eternal-opening-celebration/
+RSVP Here: [https://thepolygon.ca/event/living-with-the-eternal-opening-celebration/](https://thepolygon.ca/event/living-with-the-eternal-opening-celebration/)
 
 Simranpreet Anand: Living with the Eternal is on view in The Polygon's ground floor gallery
 from April 18 " September 6.

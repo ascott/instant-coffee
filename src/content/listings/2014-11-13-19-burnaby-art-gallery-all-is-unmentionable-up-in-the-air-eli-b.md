@@ -37,4 +37,4 @@ Hours: Tuesday-Friday 10am-4:30pm, Saturday & Sunday 12noon-5pm, Closed Mondays
 
 Admission: Suggested donation is $5
 
-http://www.burnaby.ca/Things-To-Do/Arts-and-Herita
+[http://www.burnaby.ca/Things-To-Do/Arts-and-Herita](http://www.burnaby.ca/Things-To-Do/Arts-and-Herita)

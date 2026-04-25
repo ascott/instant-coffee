@@ -28,4 +28,4 @@ art at this development should help to bridge the divide between
 natural and man-made elements.
 
 Submission requirements and other relevant details can be found at: 
-http://www.richmond.ca/culture/publicart/opportunities.htm
+[http://www.richmond.ca/culture/publicart/opportunities.htm](http://www.richmond.ca/culture/publicart/opportunities.htm)

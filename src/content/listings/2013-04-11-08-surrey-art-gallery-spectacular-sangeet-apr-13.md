@@ -51,7 +51,7 @@ living – and vibrant – artistic tradition.
 Spectacular Sangeet is curated by Naveen Girn and Jordan Strom
 
 Spectacular Sangeet is presented in collaboration with the Vancouver 
-International Bhangra Celebration Society http://vibc.org/
+International Bhangra Celebration Society [http://vibc.org/](http://vibc.org/)
 
 Ian Skedd, Whatever is Contained Within is Art, and Everything Else is 
 Life

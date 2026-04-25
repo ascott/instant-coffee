@@ -34,4 +34,4 @@ Application deadline: Position open until filled
 
 For a detailed job description and
 instructions on how to apply, please visit
-https://kag.bc.ca/employment
+[https://kag.bc.ca/employment](https://kag.bc.ca/employment)

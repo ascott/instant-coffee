@@ -21,4 +21,4 @@ not only with friends and family but also with nature. The garden provided
 youth with a safe place for building resiliency, such as mastery of food
 literacy skills, personal growth and managing stress.
 
-Learn more: http://artstarts.com/stories/diggingindeep-opening
+Learn more: [http://artstarts.com/stories/diggingindeep-opening](http://artstarts.com/stories/diggingindeep-opening)

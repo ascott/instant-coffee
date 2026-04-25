@@ -52,5 +52,5 @@ KEY DATE
 
 Deadline for submissions: Monday, October 5, 2015 - 12 Noon
 
-View the opportunity: http://vancouver.ca/parks-recreation-
+View the opportunity: [http://vancouver.ca/parks-recreation-](http://vancouver.ca/parks-recreation-)
 culture/platforms.aspx

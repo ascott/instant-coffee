@@ -20,7 +20,7 @@ wants to make the best of this crappy year by
 showcasing out artists at The World is Ending, Let's Party, a fundraising cabaret.
 
 This is a pay-what-you-can event, hosted on Zoom. Tickets are available on Eventbrite:
-https://www.eventbrite.ca/e/the-world-is-ending-lets-party-a-tsu-fundraiser-cabaret-
+[https://www.eventbrite.ca/e/the-world-is-ending-lets-party-a-tsu-fundraiser-cabaret-](https://www.eventbrite.ca/e/the-world-is-ending-lets-party-a-tsu-fundraiser-cabaret-)
 tickets-122932958789
 
 The Cabaret will be a fundraiser to celebrate our community of artists and to raise

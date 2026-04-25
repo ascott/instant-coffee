@@ -24,5 +24,5 @@ forms of becoming and the casting off of any biological limitations? Join us for
 about the male experience navigating gender and body politics, in hopes of creating
 greater expansion, and possibilities for all.
 
-More information at: https://www.eventbrite.ca/e/smutburger-presents-the-tea-on-t-a-
+More information at: [https://www.eventbrite.ca/e/smutburger-presents-the-tea-on-t-a-](https://www.eventbrite.ca/e/smutburger-presents-the-tea-on-t-a-)
 night-on-trans-creation-tickets-267445234897

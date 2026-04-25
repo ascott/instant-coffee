@@ -19,4 +19,4 @@ Submit your interest and a couple
 photos of the artwork to:
 crescentbeachpopup@surrey.ca
 
-https://www.surrey.ca/arts-culture/community-art/crescent-beach-pop-gallery
+[https://www.surrey.ca/arts-culture/community-art/crescent-beach-pop-gallery](https://www.surrey.ca/arts-culture/community-art/crescent-beach-pop-gallery)

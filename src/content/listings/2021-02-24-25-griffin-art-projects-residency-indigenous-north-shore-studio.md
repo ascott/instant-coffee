@@ -90,4 +90,4 @@ provide access to specialized tools and equipment. Residency projects may includ
 creative research, development and production of new or ongoing works.
 
 
-http://https://www.griffinartprojects.ca/residency-oppo
+[http://https://www.griffinartprojects.ca/residency-oppo](http://https://www.griffinartprojects.ca/residency-oppo)

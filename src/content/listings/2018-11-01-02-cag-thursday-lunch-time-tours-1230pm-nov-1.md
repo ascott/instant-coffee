@@ -25,7 +25,7 @@ How To Suffer Politely (And Other Etiquette)
 
 No reservation required. Simply just turn up!
 
-Find out more about the exhibitions at https://www.contemporaryartgallery.ca/whats-
+Find out more about the exhibitions at [https://www.contemporaryartgallery.ca/whats-](https://www.contemporaryartgallery.ca/whats-)
 on/
 
 Contemporary Art Gallery

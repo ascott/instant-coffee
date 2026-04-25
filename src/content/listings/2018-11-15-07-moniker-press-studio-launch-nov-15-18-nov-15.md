@@ -41,4 +41,4 @@ created to foster inclusive education and community around artists publishing an
 printmaking, offering opportunities for observation, practice and experimentation through the 
 medium of printed matter.
 
-Directions + event details: https://www.facebook.com/events/336361630459778/
+Directions + event details: [https://www.facebook.com/events/336361630459778/](https://www.facebook.com/events/336361630459778/)

@@ -32,4 +32,4 @@ equipment, and a dead fish fill the installation, creating an unsettling environ
 rich in symbology. In Fish Tail, Brault constructs a rhizomatic narrative through
 interwoven poetic fragments exploring desire, time, seduction, and longing.
 
-For further details, please visit https://westernfront.ca/events/fish-tail
+For further details, please visit [https://westernfront.ca/events/fish-tail](https://westernfront.ca/events/fish-tail)

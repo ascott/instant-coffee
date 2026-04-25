@@ -16,7 +16,7 @@ Music By Paisley Eva
 Event ends at 9pm
 Velvet Terrorism: Pussy Riot's Russia ends on Sunday, June 9.
 RSVPs are appreciated
-RSVP here: https://thepolygon.typeform.com/pussy-riot
+RSVP here: [https://thepolygon.typeform.com/pussy-riot](https://thepolygon.typeform.com/pussy-riot)
 
 About the Exhibition
 Velvet Terrorism: Pussy Riots Russia is the first survey exhibition of the infamous

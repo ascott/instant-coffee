@@ -26,7 +26,7 @@ Date: July. 19, 2025
 Time: 6:30, doors, 7pm food
 Location: Green Auto (details with ticket)
 Tickets: $40 + (optional) $25 wine pairing (seating is limited so snag em speedy)
-https://samosclub.square.site/?
+[https://samosclub.square.site/](https://samosclub.square.site/)?
 fbclid=PAQ0xDSwLXCBdleHRuA2FlbQIxMQABp_4oWwcmqVefaVSQ4n-
 BlM5KAVVN_kBB-RPbQj46NvenFG6dH21E-
 RMYGAc2_aem_Kc2xtGztzoaVvhIAg2RaSw#UF5LOACYUKT2QHMA4SZPNURU

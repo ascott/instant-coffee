@@ -43,4 +43,4 @@ caitlin.chaisson@gmail.com. Any questions regarding the event or the application
 process can also be directed to Caitlin Chaisson.
 
 
-http://www.farafield.ca
+[http://www.farafield.ca](http://www.farafield.ca)

@@ -21,7 +21,7 @@ throughout the Asia Pacific Rim.
 
 Link to video:
 
-https://www.youtube.com/watch?v=9It2AVchRF8&t=240s
+[https://www.youtube.com/watch?v=9It2AVchRF8&t=240s](https://www.youtube.com/watch?v=9It2AVchRF8&t=240s)
 
 More videos on books and art are available on the Hotam Press YouTube Channel.
 

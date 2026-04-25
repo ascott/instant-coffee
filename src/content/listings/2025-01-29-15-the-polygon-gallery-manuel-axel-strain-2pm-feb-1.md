@@ -15,7 +15,7 @@ floor gallery from February 1 - May 11. Opening Celebration on Saturday, Februar
 Doors at 2:00pm
 
 Ceremony + reception to follow
-RSVP here: https://thepolygon.typeform.com/manuel
+RSVP here: [https://thepolygon.typeform.com/manuel](https://thepolygon.typeform.com/manuel)
 Manuel Axel Strain: xlmx child is on view in The Polygon's ground floor gallery
 from February 1 - May 11.
 About the exhibition

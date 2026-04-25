@@ -42,7 +42,7 @@ this project happen ($40). This is submitted through Pay Pal.
 3) Submissions are preferred in electronic format.
 
 For details and to submit:
-http://www.vantageartprojects.com/Current_Submissions.html
+[http://www.vantageartprojects.com/Current_Submissions.html](http://www.vantageartprojects.com/Current_Submissions.html)
 
 Although we are accepting entries up to midnight on Saturday, March 21/09,
 we highly recommend that you try to submit as early as you can. This will

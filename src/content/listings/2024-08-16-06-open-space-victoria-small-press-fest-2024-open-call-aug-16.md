@@ -21,4 +21,4 @@ publishers, collectives,
 institutions and art book distributors for the tabling fair. Deadline: August 16. Apply
 here!
 
-https://openspacearts.ca/small-press-fest-2024
+[https://openspacearts.ca/small-press-fest-2024](https://openspacearts.ca/small-press-fest-2024)

@@ -34,6 +34,6 @@ Weeks and Whitford
 Willem Wilhelmus
 Zoe Kreye
 
-http://www.livebiennale.ca
+[http://www.livebiennale.ca](http://www.livebiennale.ca)
 Follow us on facebook, twitter, and instagram!
 #LIVE2015

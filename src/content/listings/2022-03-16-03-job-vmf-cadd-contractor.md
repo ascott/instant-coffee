@@ -17,4 +17,4 @@ COMPENSATION: Piece work per wall / $80 is standard. We often send multiple wall
 out in batches. Complexity considered, but not to exceed $150 / wall. (Negotiations for
 walls exceeding 10,000 sqft or extreme complexity.)
 *As a contractor, you must have your own accurate measuring device and computer.
-LEARN MORE + APPLY: https://vanmuralfest.ca/jobs
+LEARN MORE + APPLY: [https://vanmuralfest.ca/jobs](https://vanmuralfest.ca/jobs)

@@ -50,8 +50,8 @@ POETRY IS DEAD SUBSCRIBERS get a 10% discount on the NVPF poets' books and
 can become a Member of Project Space for only $10.
 
 Become a Project Space Member here:
-http://www.projectspace.ca/membership
+[http://www.projectspace.ca/membership](http://www.projectspace.ca/membership)
 Subscribe to Poetry Is Dead here:
-http://www.poetryisdead.ca/subscribe
+[http://www.poetryisdead.ca/subscribe](http://www.poetryisdead.ca/subscribe)
 Check out the New Vancouver Poets Folio here:
-http://lemonhound.com/category/poetry-poetics/new-vancouv
+[http://lemonhound.com/category/poetry-poetics/new-vancouv](http://lemonhound.com/category/poetry-poetics/new-vancouv)

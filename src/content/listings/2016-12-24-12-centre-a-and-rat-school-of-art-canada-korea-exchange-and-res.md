@@ -58,4 +58,4 @@ Please send all inquiries and applications to residency@centrea.org by January 1
 2017
 
 For more information, please visit: 
-http://centrea.org/residency/
+[http://centrea.org/residency/](http://centrea.org/residency/)

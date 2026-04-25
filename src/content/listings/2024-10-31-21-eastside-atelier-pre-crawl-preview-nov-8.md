@@ -54,7 +54,7 @@ Stephanie Nichols
 Victoria Klassen
 Victoria Mitchell
 
-See facebook event for more details: https://www.facebook.com/events/s/eastside-
+See facebook event for more details: [https://www.facebook.com/events/s/eastside-](https://www.facebook.com/events/s/eastside-)
 ateliers-annual-pre-c/1711149652762360/
 
-Or follow us on instagram: https://www.instagram.com/eastsideatelierartists/
+Or follow us on instagram: [https://www.instagram.com/eastsideatelierartists/](https://www.instagram.com/eastsideatelierartists/)

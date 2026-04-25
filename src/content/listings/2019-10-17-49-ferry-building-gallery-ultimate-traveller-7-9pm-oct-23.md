@@ -20,7 +20,7 @@ become habituated to tourists.
 Cost: $15
 
 Register at 604-925-7270 (course #60208) or register online at
-https://ca.apm.activecommunities.com/westvanrec/Activity_Search/57174.
+[https://ca.apm.activecommunities.com/westvanrec/Activity_Search/57174](https://ca.apm.activecommunities.com/westvanrec/Activity_Search/57174).
 
 Ferry Building Gallery
 

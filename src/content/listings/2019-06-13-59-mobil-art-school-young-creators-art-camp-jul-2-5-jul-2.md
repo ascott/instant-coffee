@@ -21,4 +21,4 @@ throughout the week. The kids will end the week by displaying their work in an e
 beautiful space and be able to invite parents and friends to come and appreciate the work! We 
 guarantee a safe, fun environment. $224/week
 
-https://www.mobil-art.ca/event-info/young-creators-art-camp-july-2-5-2019
+[https://www.mobil-art.ca/event-info/young-creators-art-camp-july-2-5-2019](https://www.mobil-art.ca/event-info/young-creators-art-camp-july-2-5-2019)

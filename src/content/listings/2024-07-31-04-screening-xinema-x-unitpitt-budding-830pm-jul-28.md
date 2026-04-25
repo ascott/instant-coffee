@@ -45,6 +45,6 @@ Pay-what-you-can ($15 suggested donation) tickets are available here.
 
 Please email info@unitpitt.ca if you require financial or physical accommodation. For
 accessibility notes please visit
-https://www.unitpitt.ca/about/.
+[https://www.unitpitt.ca/about/](https://www.unitpitt.ca/about/).
 
 See more information about each film on our website!

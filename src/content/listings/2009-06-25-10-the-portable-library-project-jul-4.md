@@ -52,4 +52,4 @@ Vancouver
 
 For project and artist information:
 
-http://theportablelibraryproject.blogspot.com
+[http://theportablelibraryproject.blogspot.com](http://theportablelibraryproject.blogspot.com)

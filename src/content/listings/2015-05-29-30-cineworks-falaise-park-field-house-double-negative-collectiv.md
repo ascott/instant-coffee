@@ -8,7 +8,7 @@ venue: "Cineworks @ Falaise Park Field House"
 summary: "Cineworks @ Falaise Park Field House | Double Negative Collective | JUN 13"
 ---
 
-Falaise Park Field House, 3434 Falaise Avenue, Map https://goo.gl/kA5KbD
+Falaise Park Field House, 3434 Falaise Avenue, Map [https://goo.gl/kA5KbD](https://goo.gl/kA5KbD)
 Saturday Jun 13, 2.30pm
 FREE
 
@@ -30,7 +30,7 @@ elucidate what it is: impossible pasts and futures in a trajectory of
 unravelling present, images pausing and passing from somewhere up there, in
 back of the head." — from the Double Negative Collective Manifesto
 
-http://doublenegativecollective.blogspot.ca/
+[http://doublenegativecollective.blogspot.ca/](http://doublenegativecollective.blogspot.ca/)
 
 'Iris Film Collective is a Vancouver-based group of independent artists
 creating, exhibiting and touring film-based works—single channel, expanded,
@@ -39,7 +39,7 @@ accessibility of experimental media art. Above all, our interest in ciné
 film—actual celluloid—at a time when this medium is shifting from an
 industrial model to an artisanal one.'
 
-http://www.irisfilmcollective.com
+[http://www.irisfilmcollective.com](http://www.irisfilmcollective.com)
 
 Cineworks Independent Filmmakers Society (est.1980) is an artist-run
 production and exhibition centre that supports independent filmmakers and

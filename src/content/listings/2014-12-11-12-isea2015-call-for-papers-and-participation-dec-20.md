@@ -18,7 +18,7 @@ CALL FOR PARTICIPATION: ISEA2015
 
 August 14-18 2015, Vancouver, Canada.
 
-http://ISEA2015.org
+[http://ISEA2015.org](http://ISEA2015.org)
 
 Submission types:
 
@@ -42,12 +42,12 @@ ISEA2015 welcomes submissions for three broad categories:
 1 - An exciting art program that will run throughout the duration of the
 symposium. We welcome submission of artworks, installations and
 performances alike. Please see our call for artworks to find out how you
-can be part of it: http://isea2015.org/call-for-proposals/call-for-artworks/
+can be part of it: [http://isea2015.org/call-for-proposals/call-for-artworks/](http://isea2015.org/call-for-proposals/call-for-artworks/)
 
 2 - A set of workshops and tutorials will occur on Friday the 14th, and
 Saturday the 15th of August 2015. See the call for workshops, tutorials,
 and institutional presentations for more details on how to propose your
-own: http://isea2015.org/call-for-proposals/workshops-tutorials/
+own: [http://isea2015.org/call-for-proposals/workshops-tutorials/](http://isea2015.org/call-for-proposals/workshops-tutorials/)
 
 3 - The academic symposium will occur from Sunday the 16th to Tuesday the
 18th of August 2015. It includes the following activities for which we
@@ -74,14 +74,14 @@ proceedings will be available online, at no cost, prior to the symposium.
 
 For more details on how to contribute in any of the above categories, see
 our call for papers and panels here:
-http://isea2015.org/call-for-proposals/papers-posters-and-panels/
+[http://isea2015.org/call-for-proposals/papers-posters-and-panels/](http://isea2015.org/call-for-proposals/papers-posters-and-panels/)
 
 Submissions are to be made through our ISEA2015 EasyChair portal:
-https://www.easychair.org/conferences/?conf=isea2015
+[https://www.easychair.org/conferences/?conf=isea2015](https://www.easychair.org/conferences/?conf=isea2015)
 
 While, every submission relevant to the ISEA community will be reviewed and
 considered, the ones relevant to the ISEA2015 theme of DISRUPTION will be
-given priority: http://isea2015.org/about/theme/
+given priority: [http://isea2015.org/about/theme/](http://isea2015.org/about/theme/)
 
 Important dates:
 

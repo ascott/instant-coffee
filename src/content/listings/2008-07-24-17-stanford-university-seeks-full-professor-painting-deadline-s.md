@@ -32,4 +32,4 @@ Stanford University is an equal opportunity employer and is committed to
 increasing the diversity of its faculty. It welcomes nominations of and
 applicants from women and minority groups, as well as others who would
 bring additional dimensions to the university's research and teaching missions.
-http://www.hdkv.de/islands
+[http://www.hdkv.de/islands](http://www.hdkv.de/islands)

@@ -18,7 +18,7 @@ www.griffinartprojects.ca
 
 To register, please visit:
 
-https://zoom.us/meeting/register/tJYqdOihrTMqH9brHJL5TDEdvQloqGCzTzwd
+[https://zoom.us/meeting/register/tJYqdOihrTMqH9brHJL5TDEdvQloqGCzTzwd](https://zoom.us/meeting/register/tJYqdOihrTMqH9brHJL5TDEdvQloqGCzTzwd)
 
 Griffin Art Projects invites viewers to stream David Craigs The Mill, a gripping
 portrait of

@@ -18,4 +18,4 @@ artists inspiration from and love of Paris.
 Tues 1 - 8 p.m.Wed 11 - 6 p.m.Thurs 1 p.m. - 8 p.m.Fri 
 11 a.m. - 6 p.m.Sat 11 a.m. - 6 p.m. Sun - Mon CLOSED
 
-https://dfogstrom.weebly.com/
+[https://dfogstrom.weebly.com/](https://dfogstrom.weebly.com/)

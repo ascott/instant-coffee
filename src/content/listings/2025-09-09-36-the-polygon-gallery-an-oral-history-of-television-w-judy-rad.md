@@ -27,7 +27,7 @@ Doors at 6:30pm
 Reading at 7:00pm
 
 RSVPs are helpful
-RSVP here: https://thepolygon.ca/event/an-oral-history-of-television-with-judy-radul/
+RSVP here: [https://thepolygon.ca/event/an-oral-history-of-television-with-judy-radul/](https://thepolygon.ca/event/an-oral-history-of-television-with-judy-radul/)
 
 About the Artist
 Judy Raduls video installations often incorporate an original computer-controlled

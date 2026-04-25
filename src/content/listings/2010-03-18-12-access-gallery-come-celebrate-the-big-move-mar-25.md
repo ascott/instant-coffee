@@ -44,9 +44,9 @@ To reserve your place, please email access@vaarc.ca with your name, phone
 #, and meal choice. Seating is limited. We recommend early registration.
 
 For more information of the Long Table Dinner Series please see
-http://ltsmenu.blogspot.com/ and
+[http://ltsmenu.blogspot.com/](http://ltsmenu.blogspot.com/) and
 
-http://www.vanmag.com/Restaurants/The_Next_Course
+[http://www.vanmag.com/Restaurants/The_Next_Course](http://www.vanmag.com/Restaurants/The_Next_Course)
 
 Also note: we will have Life After Doomsday drink coasters at the dinner!
 

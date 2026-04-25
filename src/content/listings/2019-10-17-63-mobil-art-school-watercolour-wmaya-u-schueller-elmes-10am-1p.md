@@ -16,5 +16,5 @@ In this taster class you will learn about
 the basics of watercolour including: brush control, how to
 mix colours and how to achieve different levels of colour intensity - using patterns as a starting
 point.
-https://www.mobil-art.ca/event-info/watercolour-intro
+[https://www.mobil-art.ca/event-info/watercolour-intro](https://www.mobil-art.ca/event-info/watercolour-intro)
 $40

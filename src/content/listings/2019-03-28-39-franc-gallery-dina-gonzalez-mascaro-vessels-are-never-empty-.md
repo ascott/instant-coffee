@@ -33,4 +33,4 @@ Empty or Full, Spirit or Body, Dina GMs objects look back at us asking
 for a response.
 Franc Gallery I 1654 Franklin Street I Vancouver, BC
 
-http://francgallery.com I 604-428-4248
+[http://francgallery.com](http://francgallery.com) I 604-428-4248

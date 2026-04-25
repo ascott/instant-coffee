@@ -63,7 +63,7 @@ outlining your interest in the program to learning@contemporaryartgallery.ca
 by June 25, 2014.
 
 Click here for more information including mentors bios and the schedule: 
-http://www.contemporaryartgallery.ca/learning/emergingdancecall/
+[http://www.contemporaryartgallery.ca/learning/emergingdancecall/](http://www.contemporaryartgallery.ca/learning/emergingdancecall/)
 
 For more information on the Summer Intensive, contact: Shaun Dacey, 
 Curator, Learning and Public Programs : learning@contemporaryartgallery.ca 

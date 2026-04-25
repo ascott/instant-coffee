@@ -22,7 +22,7 @@ cultural sights of this fascinating island.
 Cost: $15
 
 Register at 604-925-7270 (course # 60209 ) or register online at
-https://ca.apm.activecommunities.com/westvanrec/Activity_Search/57175
+[https://ca.apm.activecommunities.com/westvanrec/Activity_Search/57175](https://ca.apm.activecommunities.com/westvanrec/Activity_Search/57175)
 
 Ferry Building Gallery
 

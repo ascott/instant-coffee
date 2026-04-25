@@ -15,7 +15,7 @@ Saturday, April 24
 1:00 - 2:30 pm
 Free live online webinar with English captions
 Registration link:
-https://us02web.zoom.us/webinar/register/WN_zP8ER11wT5uxs1qkemmLkw
+[https://us02web.zoom.us/webinar/register/WN_zP8ER11wT5uxs1qkemmLkw](https://us02web.zoom.us/webinar/register/WN_zP8ER11wT5uxs1qkemmLkw)
 
 Join in this months Artist Salon Webinar to learn more about the 2021 Branscombe House
 Artist in Residence, Rachel Rozanski.
@@ -50,9 +50,9 @@ Questions for the artist? If you would like to send in your questions early to t
 email them to ktycholis@richmond.ca
 
 Registration link:
-https://us02web.zoom.us/webinar/register/WN_zP8ER11wT5uxs1qkemmLkw
+[https://us02web.zoom.us/webinar/register/WN_zP8ER11wT5uxs1qkemmLkw](https://us02web.zoom.us/webinar/register/WN_zP8ER11wT5uxs1qkemmLkw)
 
 More information:
-https://www.richmondartgallery.org/artist-salon-webinar-with-rachel-rozanski
+[https://www.richmondartgallery.org/artist-salon-webinar-with-rachel-rozanski](https://www.richmondartgallery.org/artist-salon-webinar-with-rachel-rozanski)
 
 www.richmondartgallery.org

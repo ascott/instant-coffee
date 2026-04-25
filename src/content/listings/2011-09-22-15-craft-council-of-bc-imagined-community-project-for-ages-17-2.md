@@ -25,5 +25,5 @@ This event is open to youth between the ages of 17 and 24.
 
 You must register in advance to participate in this FREE event. Spaces are 
 limited. Register for the Imagined Community Project here 
-https://www.dollarsatwork.org/EventsAtWork/EventLogin.aspx?
+[https://www.dollarsatwork.org/EventsAtWork/EventLogin.aspx](https://www.dollarsatwork.org/EventsAtWork/EventLogin.aspx)?
 EventCounter=269

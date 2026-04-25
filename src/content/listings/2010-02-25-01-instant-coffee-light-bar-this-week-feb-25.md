@@ -44,11 +44,11 @@ FREDERICKSEN will host a night of karaoke interwoven with an illustrated
 lecture. Malcolm McLaren recently wrote, "Today there are two words that
 sum up the culture: 'authenticity' is one, and the other ... 'karaoke'!
 With Vancouver's karaoke experts, WEEKEND LEISURE,
-http://www.weekendleisure.ca/stuff.html. Lecture at 9pm. Guest bartender:
+[http://www.weekendleisure.ca/stuff.html](http://www.weekendleisure.ca/stuff.html). Lecture at 9pm. Guest bartender:
 Ron Tran
 
-See www.instantcoffee.org <http://www.instantcoffee.org>
-<http://www.instantcoffee.org> for a growing list of events, and for other
+See www.instantcoffee.org <[http://www.instantcoffee.org](http://www.instantcoffee.org)>
+<[http://www.instantcoffee.org](http://www.instantcoffee.org)> for a growing list of events, and for other
 information contact us@instantcoffee.org
 
 Where: Instant Coffee Light Bar: 33 West Cordova St. (blood alley entrance)
@@ -74,4 +74,4 @@ As part of Bright Light a collaborative project that brings together
 fourteen arts organizations from Vancouver's Downtown Eastside. Bright
 Light is commissioned by the City of Vancouver through its Olympic and
 Paralympic Public Art Program, www.bright-light.ca
-<http://www.bright-light.ca>
+<[http://www.bright-light.ca](http://www.bright-light.ca)>

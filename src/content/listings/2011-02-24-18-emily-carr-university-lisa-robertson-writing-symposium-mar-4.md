@@ -55,7 +55,7 @@ Vikram Uchida-Khanna (SFU)
 Casey Wei (SFU)
 
 For a detailed presentation schedule visit:
-http://liminalpositions.posterous.com/
+[http://liminalpositions.posterous.com/](http://liminalpositions.posterous.com/)
 
 The 2011 ECUAD student symposium is hosted
 by the Faculty of Community and Culture,

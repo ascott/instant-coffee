@@ -11,7 +11,7 @@ summary: "The ACT Art Gallery"
 [MAPLE RIDGE] | Architecture of Memory | JAN 11
 Architecture of Memory " A Solo Exhibition by Valerie Pugh
 
-https://theactmapleridge.org/aom
+[https://theactmapleridge.org/aom](https://theactmapleridge.org/aom)
 
 January 11 " April 19, 2025
 

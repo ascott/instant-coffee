@@ -35,7 +35,7 @@ integral elements of films that wash over the viewer and saturate the
 experience with sensuality rather than concrete memory.
 
 For P. Adams Sitney's Artforum article on Nathaniel Dorsky,
-see:http://canyoncinema.com/D/Dorsky_Sitney_art_forum.pdf
+see:[http://canyoncinema.com/D/Dorsky_Sitney_art_forum.pdf](http://canyoncinema.com/D/Dorsky_Sitney_art_forum.pdf)
 
 FILM COMMENT MAY/JUNE 2010: 50 Best Avant-Garde Films of the Decade
 In a new poll of 46 critics, programmers and film teachers just published

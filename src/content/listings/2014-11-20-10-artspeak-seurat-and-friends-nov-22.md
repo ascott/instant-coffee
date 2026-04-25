@@ -34,4 +34,4 @@ Artspeak,
 233 Carrall Street
 Vancouver, BC, V6B 2J2
 Tuesday–Saturday, 12–5pm
-http://www.artspeak.ca
+[http://www.artspeak.ca](http://www.artspeak.ca)

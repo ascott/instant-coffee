@@ -21,7 +21,7 @@ fall, stage your own desires: get a fantasy, make a Pinterest board, then
 have a dream wedding. Use the potency of symbols to devise your own
 yearnings, and donâ€™t settle for anything less.
 
-http://doesheworshipyou.weebly.com/
+[http://doesheworshipyou.weebly.com/](http://doesheworshipyou.weebly.com/)
 
 -
 
@@ -45,4 +45,4 @@ Europe.
 
 INDEX GALLERY 
 1305 Powell Street
-http://www.indexgallery.net
+[http://www.indexgallery.net](http://www.indexgallery.net)

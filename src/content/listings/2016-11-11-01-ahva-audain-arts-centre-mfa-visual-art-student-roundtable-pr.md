@@ -35,4 +35,4 @@ Carolyn Stockbridge, Into the Dark
 Moderator: Michelle Weinstein
 
 
-http://ahva.ubc.ca
+[http://ahva.ubc.ca](http://ahva.ubc.ca)

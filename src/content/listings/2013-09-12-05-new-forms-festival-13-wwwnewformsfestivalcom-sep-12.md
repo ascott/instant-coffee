@@ -27,7 +27,7 @@ www.newformsfestival.com/tickets
 
 Individual tickets available at:
 Red Cat Records (4332 Main St.)
-http://www.redcat.ca/
+[http://www.redcat.ca/](http://www.redcat.ca/)
 
 Thursday, Friday and Saturday nights at the Centre for Digital Media and 
 eatART are 19+ events
@@ -40,103 +40,103 @@ Music:
 
 Jeff Mills –STAR PEOPLE- (Axis Records)
 *World Premier*
-http://www.axisrecords.com/
+[http://www.axisrecords.com/](http://www.axisrecords.com/)
 
 Donald Buchla -Live- (Buchla Electronic Musical Instruments)
-http://www.buchla.com/
+[http://www.buchla.com/](http://www.buchla.com/)
 
 Dopplereffekt –Live- (Leisure System / Dataphysix Engineering / Rephlex)
-http://www.discogs.com/artist/Dopplereffekt
+[http://www.discogs.com/artist/Dopplereffekt](http://www.discogs.com/artist/Dopplereffekt)
 
 Kassem Mosse –Live- (Workshop / FXHE)
-http://www.workshopsound.com/
+[http://www.workshopsound.com/](http://www.workshopsound.com/)
 
 Kahn –DJ- (Punch Drunk / Deep Medi Musik / Black Box)
-https://soundcloud.com/kahn
+[https://soundcloud.com/kahn](https://soundcloud.com/kahn)
 
 Daniel Wang –DJ- (Balihu / Environ)
-http://www.discogs.com/artist/Daniel+Wang
+[http://www.discogs.com/artist/Daniel+Wang](http://www.discogs.com/artist/Daniel+Wang)
 
 Lee Gamble –Live– (PAN / Cyrk / Entr’acte)
-http://www.cyrk.org/leegamble
+[http://www.cyrk.org/leegamble](http://www.cyrk.org/leegamble)
 
 EPROM –DJ- (Warp Records / Rwina Records / Leisure System)
-https://soundcloud.com/eprom
+[https://soundcloud.com/eprom](https://soundcloud.com/eprom)
 
 Delroy Edwards –DJ- (L.I.E.S.)
-https://soundcloud.com/delroy-edwards
+[https://soundcloud.com/delroy-edwards](https://soundcloud.com/delroy-edwards)
 
 Anthony Naples -DJ- (Proibito / Trilogy Tapes)
-https://soundcloud.com/proibito
+[https://soundcloud.com/proibito](https://soundcloud.com/proibito)
 
 214 –Live- (Frustrated Funk / Clone)
-https://soundcloud.com/214_electro
+[https://soundcloud.com/214_electro](https://soundcloud.com/214_electro)
 
 No UFO’s –Live- (Public Information / Spectrum Spools / Nice Up Int’l)
-http://www.niceupintl.com/
+[http://www.niceupintl.com/](http://www.niceupintl.com/)
 
 Evy Jane -Live- (King Deluxe / Hybridity Music)
-http://evyjane.tumblr.com/
+[http://evyjane.tumblr.com/](http://evyjane.tumblr.com/)
 
 The Passenger –Live- (More Than Human)
-https://soundcloud.com/the-passenger
+[https://soundcloud.com/the-passenger](https://soundcloud.com/the-passenger)
 
 Calamalka –Live- (Hybridity Music)
-http://hybriditymusic.com/artists/calamalka/
+[http://hybriditymusic.com/artists/calamalka/](http://hybriditymusic.com/artists/calamalka/)
 
 Rod Skimmins –DJ-
-http://bangtheparty77-84.com/
+[http://bangtheparty77-84.com/](http://bangtheparty77-84.com/)
 
 Neu Balance –Live- 
-https://soundcloud.com/neubalance
+[https://soundcloud.com/neubalance](https://soundcloud.com/neubalance)
 
 Frank Grimes –Live- (Crude / Aufect) 
-https://soundcloud.com/frankgrimes
+[https://soundcloud.com/frankgrimes](https://soundcloud.com/frankgrimes)
 
 Pender Street Steppers –Live- (Mood Hut) 
-https://soundcloud.com/pender-street-steppers
+[https://soundcloud.com/pender-street-steppers](https://soundcloud.com/pender-street-steppers)
 
 Kline -Live- (Chapel Sound) 
-https://soundcloud.com/kline
+[https://soundcloud.com/kline](https://soundcloud.com/kline)
 
 Sarah Davachi -Live-
-http://www.sarahdavachi.com/
+[http://www.sarahdavachi.com/](http://www.sarahdavachi.com/)
 
 Richard Smith -Live-
-http://www.electricmusicbox.com/
+[http://www.electricmusicbox.com/](http://www.electricmusicbox.com/)
 
 Visual Artists / Lectures / Screenings:
 
 Lars Bang Larsen 
-http://d13.documenta.de/#/participants/participants/lars-bang-larsen/
+[http://d13.documenta.de/#/participants/participants/lars-bang-larsen/](http://d13.documenta.de/#/participants/participants/lars-bang-larsen/)
 
 The Otolith Group 
-http://www.otolithgroup.org/
+[http://www.otolithgroup.org/](http://www.otolithgroup.org/)
 
 1024 Architecture Paris 
-http://www.1024architecture.net/
+[http://www.1024architecture.net/](http://www.1024architecture.net/)
 
 Soda_Jerk 
-http://www.sodajerk.com.au/
+[http://www.sodajerk.com.au/](http://www.sodajerk.com.au/)
 
 Reece Terris 
-http://www.reeceterris.com/
+[http://www.reeceterris.com/](http://www.reeceterris.com/)
 
 Cedric Bomford 
-http://www.bomfordstudios.com/
+[http://www.bomfordstudios.com/](http://www.bomfordstudios.com/)
 
 Innes Yates
-http://bnode.com/
+[http://bnode.com/](http://bnode.com/)
 
 Frieda-raye Green
 
 Strawberry Jacuzzi
-http://www.strawberryjacuzzi.com/
+[http://www.strawberryjacuzzi.com/](http://www.strawberryjacuzzi.com/)
 
 Josephin Böttger
 Sergej Tolksdorf
 Trapez
-http://www.josephinboettger.de/
+[http://www.josephinboettger.de/](http://www.josephinboettger.de/)
 
 ++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -161,12 +161,12 @@ www.newformsfestival.com/volunteer
 ++++++++++++++++++++++++++++++++++++++++++++++
 
 Online:
-https://twitter.com/NewFormsFest
-https://soundcloud.com/newformsfestival
-http://www.residentadvisor.net/event.aspx?474686
+[https://twitter.com/NewFormsFest](https://twitter.com/NewFormsFest)
+[https://soundcloud.com/newformsfestival](https://soundcloud.com/newformsfestival)
+[http://www.residentadvisor.net/event.aspx?474686](http://www.residentadvisor.net/event.aspx?474686)
 
 Jeff Mills presents: STAR PEOPLE
-https://www.facebook.com/events/621742591177732/
+[https://www.facebook.com/events/621742591177732/](https://www.facebook.com/events/621742591177732/)
 
 Genesis of an Instrument: The Pioneering work of Donald Buchla
-https://www.facebook.com/events/403205649785912/
+[https://www.facebook.com/events/403205649785912/](https://www.facebook.com/events/403205649785912/)

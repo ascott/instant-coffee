@@ -19,7 +19,7 @@ layering techniques to create stunning works of art. Each student will be provid
 a handmade printmaking plate and a frame to take home. Suitable for beginners, ages
 14 and up.
 
-More info at https://ferrybuildinggallery.ca/programs/workshops/colour-explosion-
+More info at [https://ferrybuildinggallery.ca/programs/workshops/colour-explosion-](https://ferrybuildinggallery.ca/programs/workshops/colour-explosion-)
 printmaking-mary-hay
 
 Location: Harmony Room (downstairs), The Music Box, 1564 Argyle Ave, West

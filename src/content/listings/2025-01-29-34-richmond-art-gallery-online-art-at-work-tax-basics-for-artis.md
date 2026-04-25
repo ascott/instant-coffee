@@ -13,7 +13,7 @@ Free online workshop
 Saturday, February 15, 2025
 10:00 AM - 1:00 PM
 
-REGISTER: https://us02web.zoom.us/webinar/register/WN_cY-
+REGISTER: [https://us02web.zoom.us/webinar/register/WN_cY-](https://us02web.zoom.us/webinar/register/WN_cY-)
 h2b_aSTe1uyGXHNH5ew
 
 What do you need to know to keep track of your finances and file
@@ -37,7 +37,7 @@ personal taxes for the self-employed since 1996. In 2003 Marianna joined Quantum
 Accounting Services Inc., a Vancouver-based accounting and bookkeeping firm that
 focuses on arts organizations and artists. She has been presenting workshops for
 self-employed artists and craftspeople for the past ten years.
-To contact QAS, https://quantumaccounting.ca/contact/.
+To contact QAS, [https://quantumaccounting.ca/contact/](https://quantumaccounting.ca/contact/).
 
 More info: Richmond Art Gallery website - www.richmondartgallery.org
 ________________________________________

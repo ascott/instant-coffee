@@ -11,7 +11,7 @@ summary: "Gibson Art Museum | Games for Receiving the World | APR 19"
 Sunday Workshop: Games for Receiving the World
 Sunday April 19, 1pm"4pm
 Gibson Art Museum
-Free with registration: https://gibson.sfu.ca/whats-on/games-for-receiving-the-world
+Free with registration: [https://gibson.sfu.ca/whats-on/games-for-receiving-the-world](https://gibson.sfu.ca/whats-on/games-for-receiving-the-world)
 Using a range of media, including drawing, exploration with found objects, collage, creative
 writing, and zine-making, you will work collaboratively to invent new games and visual
 prompts that can serve as frameworks for receiving the world -- and navigating it together
@@ -22,7 +22,7 @@ EVENT | Gibson Art Museum | Games Day | APR 16
 Games Day
 Thursday April 16, 12"4pm
 Gibson Art Museum
-More info: https://gibson.sfu.ca/whats-on/games-day
+More info: [https://gibson.sfu.ca/whats-on/games-day](https://gibson.sfu.ca/whats-on/games-day)
 Put that exam study stress on hold, grab some pals and try your hand at our favourite card-
 based games alongside Maggie Groat's S LOWER F: ACTIVITY BOOK! Come early to grab a
 slice of pizza. All ages are welcome.

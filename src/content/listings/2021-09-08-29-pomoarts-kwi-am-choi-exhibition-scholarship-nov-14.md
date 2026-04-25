@@ -26,7 +26,7 @@ candidates for the award. Scholarship funds may to be applied to the artists cos
 creating new work and mounting a 4-week solo exhibition to take place sometime between
 May and August 2022 at PoMoArts.
 
-Please visit https://pomoarts.ca/scholarships-residencies to view the application guidelines
+Please visit [https://pomoarts.ca/scholarships-residencies](https://pomoarts.ca/scholarships-residencies) to view the application guidelines
 and submit an application.
 
 Application Deadline: November 14, 2021

@@ -34,8 +34,8 @@ limited edition booklets. His comics have appeared in Kramers Ergot, The Ganzfel
 New York Times Magazine, The LA Weekly and many Canadian monthlies and
 weeklies.
 
-Online Preview: https://thethisgallery.com/collections/marc-bell
+Online Preview: [https://thethisgallery.com/collections/marc-bell](https://thethisgallery.com/collections/marc-bell)
 
-Artist website: https://marcbelldept.com/
+Artist website: [https://marcbelldept.com/](https://marcbelldept.com/)
 
-Artist Instagram: https://www.instagram.com/marcbelldept/
+Artist Instagram: [https://www.instagram.com/marcbelldept/](https://www.instagram.com/marcbelldept/)

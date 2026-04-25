@@ -8,7 +8,7 @@ venue: "VIVO Workshops"
 summary: "VIVO Workshops | CIRCUIT BUILDING | JAN 13"
 ---
 
-VIVO Workshops: http://vivomediaarts.com > Education
+VIVO Workshops: [http://vivomediaarts.com](http://vivomediaarts.com) > Education
 
 CIRCUIT BUILDING
 

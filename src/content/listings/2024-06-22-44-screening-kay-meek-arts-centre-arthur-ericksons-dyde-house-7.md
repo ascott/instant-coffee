@@ -10,7 +10,7 @@ summary: "SCREENING | Kay Meek Arts Centre | Arthur Erickson’s Dyde House | 7P
 
 July 12, 2024, 7 - 9 p.m.
 
-Registration: https://westvancouverartmuseum.ca/event/home/west-coast-modern-
+Registration: [https://westvancouverartmuseum.ca/event/home/west-coast-modern-](https://westvancouverartmuseum.ca/event/home/west-coast-modern-)
 week-film-screening-arthur-ericksons-dyde-house-qa-max-amerongen
 
 TICKETED $12-15

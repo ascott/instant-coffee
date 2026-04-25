@@ -29,7 +29,7 @@ together through his cooking. Participants will be invited to sample the dish as
 the project launch reception. Saturday, October 19, 11am-4pm. BC Artscape, 268 Keefer
 Street. 4th Flr. Maximum 15 participants. Please RSVP at 2020maulaunch.eventbrite.com.
 
-https://www.eventbrite.com/e/2020-mau-calendar-launch-the-chicken-dish-tickets-
+[https://www.eventbrite.com/e/2020-mau-calendar-launch-the-chicken-dish-tickets-](https://www.eventbrite.com/e/2020-mau-calendar-launch-the-chicken-dish-tickets-)
 68642917815
 
 This event is part of Vancouver Art Book Fair's 2019 Art Book Week. A limited-edition of

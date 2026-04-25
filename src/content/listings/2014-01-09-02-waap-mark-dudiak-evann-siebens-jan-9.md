@@ -61,7 +61,7 @@ Olympics. Recent shows include MediaArtLab/Urban Screen,
 St.Petersberg, Russia; On Main, Vancouver; Harcourt House, 
 Edmonton and Winsor Gallery, Vancouver, with an upcoming show at 
 Gallery 295, Vancouver. She recently won the ID/Identities Istanbul 
-2012 Best Video Prize for Chromatic Revelry. http://evannsiebens.com/
+2012 Best Video Prize for Chromatic Revelry. [http://evannsiebens.com/](http://evannsiebens.com/)
 
 Mark Dudiak is a multi-disciplinary artist working in painting, installation 
 and video. He holds a BFA from the Emily Carr University, Vancouver 

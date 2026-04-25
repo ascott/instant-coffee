@@ -37,4 +37,4 @@ WORKSHOP | Intro to Raspberry Pi | VIVO Media Arts Centre | Oct.
 7th Register via Eventbrite
 
 MORE INFO ON ALL VIVO WORKSHOPS:
-http://www.vivomediaarts.com/education/upcoming-workshops/
+[http://www.vivomediaarts.com/education/upcoming-workshops/](http://www.vivomediaarts.com/education/upcoming-workshops/)

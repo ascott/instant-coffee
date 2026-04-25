@@ -32,7 +32,7 @@ practice is delicate and magical within an epidemiological, digital age.
 Co-created and conceived by Ileanna Cheladyn, Vanessa Goodman, Brady Marks,
 James Proudfoot, and Alice Weber.
 
-More info + tickets: http://plasticorchidfactory.ca/table-dancing.html
+More info + tickets: [http://plasticorchidfactory.ca/table-dancing.html](http://plasticorchidfactory.ca/table-dancing.html)
 
 Presented by plastic orchid factory @orchidfactory
 Co-produced with Action at a Distance @ActionDistance
@@ -41,9 +41,9 @@ Co-produced with Action at a Distance @ActionDistance
 06. PERFORMANCE |
 Western Front | Tremor | JULY 21&22 | JUL 21
 July 21-22 | 8:45 p.m. - 9:30 p.m.
-Tickets: https://www.eventbrite.ca/e/samita-sinha-tremor-tickets-676224374307?
+Tickets: [https://www.eventbrite.ca/e/samita-sinha-tremor-tickets-676224374307](https://www.eventbrite.ca/e/samita-sinha-tremor-tickets-676224374307)?
 aff=oddtdtcreator
-Livestream: https://vimeo.com/event/3561073
+Livestream: [https://vimeo.com/event/3561073](https://vimeo.com/event/3561073)
 
 Western Front is pleased to present Tremor, a new performance by Samita Sinha.
 Tremor is the emergence of voice through wreckage and a celebration of the body
@@ -114,7 +114,7 @@ Thanks to Darrell Jones who acted as a thought partner to Sinha across the
 development of Tremor, and to Aram Bajakian for initiating the project at Western
 Front.
 
-https://westernfront.ca/events/tremor
+[https://westernfront.ca/events/tremor](https://westernfront.ca/events/tremor)
 
 Western Front
 303 E 8th Ave

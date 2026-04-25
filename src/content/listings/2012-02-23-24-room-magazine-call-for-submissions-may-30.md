@@ -13,7 +13,7 @@ May 30,2012
 Seeking cover art and literary submissions.
 
 Room is Canada’s oldest literary journal by, and about women.
-http://www.roommagazine.com/
+[http://www.roommagazine.com/](http://www.roommagazine.com/)
 
 Theme for 35.4: Women’s work, unionization, the work we do freely 
 from our hearts, birthing a child into the fresh air, all of these things are 
@@ -32,7 +32,7 @@ issue available from our website.)
 Please submit to the attention of Lorrie Miller by May 30, 2012.
 
 For full submission details (how and what to submit), go to our 
-submission page <http://www.roommagazine.com/submit.html
+submission page <[http://www.roommagazine.com/submit.html](http://www.roommagazine.com/submit.html)
 
 ART SUBMISSION INFO: send us you most engaging work. These are 
 not images to illustrate the literature, but submissions of their own 
@@ -51,7 +51,7 @@ Canadian women writers and artists that reflect women’s strength,
 sensuality, vulnerability, and wit.
 
 Newsroom: to stay current with Room’s calls and events, sign-up for 
-our newsletter <http://www.roommagazine.com/newsletter.html
+our newsletter <[http://www.roommagazine.com/newsletter.html](http://www.roommagazine.com/newsletter.html)
 For Queries: <mailto:contactus@roommagazine.com>
 
 

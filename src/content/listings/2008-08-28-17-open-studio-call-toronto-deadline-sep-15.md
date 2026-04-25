@@ -21,7 +21,7 @@ September 15, 2008.
 
 For more information about each program and guidelines on how to apply for
 them, including digital submission requirements, visit
-http://www.openstudio.on.ca.
+[http://www.openstudio.on.ca](http://www.openstudio.on.ca).
 
 Â 
 EXHIBITION PROGRAM IN THE OPEN STUDIO GALLERY
@@ -36,7 +36,7 @@ groups and curators will be considered. CAR/FAC Artist Fees are paid.
 Submissions are being accepted to exhibit in the Open Studio Gallery for
 the period between June 2009 and June 2010. Â 
 
-Visit http://www.openstudio.on.ca for full submission details.
+Visit [http://www.openstudio.on.ca](http://www.openstudio.on.ca) for full submission details.
 
 Mail Application to:
 The Gallery Â Committee
@@ -55,7 +55,7 @@ in the Open Studio Gallery. Â
 
 Projects will be scheduled between September 2009 and April 2010.
 
-Visit http://www.openstudio.on.ca for full submission details.
+Visit [http://www.openstudio.on.ca](http://www.openstudio.on.ca) for full submission details.
 
 Mail Application to:
 The Visiting Artist Committee
@@ -76,7 +76,7 @@ required to sign the standard studio rental contract.
 Â 
 Projects will be scheduled between September 2009 and June 2010.
 
-Visit http://www.openstudio.on.ca for full submission details.
+Visit [http://www.openstudio.on.ca](http://www.openstudio.on.ca) for full submission details.
 Â 
 Mail Application to:
 The Guest Renter Committee
@@ -90,4 +90,4 @@ Image: Janice Wu: Explanere. Open Studio Gallery, March 2008.
 
 Open Studio
 401 Richmond Street West, Suite 104 Toronto ON M5V 3A8 Phone/Fax: 416.504.8238
-E-mail: office@openstudio.on.ca Â Website: http://www.openstudio.on.ca
+E-mail: office@openstudio.on.ca Â Website: [http://www.openstudio.on.ca](http://www.openstudio.on.ca)

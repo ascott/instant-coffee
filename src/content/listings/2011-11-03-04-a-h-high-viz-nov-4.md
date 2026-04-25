@@ -29,6 +29,6 @@ curatorial ideas.
 Gallery Hours: Friday - Monday, 12 - 5 PM
 Gallery Location: 350 East 2nd Ave, Suite 110
 
-http://deirdremcadams.com/
+[http://deirdremcadams.com/](http://deirdremcadams.com/)
 
-http://www.ellacollier.com/
+[http://www.ellacollier.com/](http://www.ellacollier.com/)

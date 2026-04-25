@@ -12,7 +12,7 @@ Community Arts Dialogue
 
 When: Saturday, March 29 from 12:00 pm to 3:00 pm
 Where: UBC Learning Exchange - 612 Main Street, Vancouver, BC
-RSVP: https://march-dialogue.eventbrite.ca
+RSVP: [https://march-dialogue.eventbrite.ca](https://march-dialogue.eventbrite.ca)
 
 Join Community Arts Vancouver for a Saturday Dialogue session at the UBC 
 Learning Exchange.
@@ -31,4 +31,4 @@ Foundation and the Province of British Columbia for funding for our
 Downtown Eastside Community Arts Program.
 
 More about: Community Arts Council of Vancouver
-Visit: http://cacv.ca or http://communityarts.ning.com
+Visit: [http://cacv.ca](http://cacv.ca) or [http://communityarts.ning.com](http://communityarts.ning.com)

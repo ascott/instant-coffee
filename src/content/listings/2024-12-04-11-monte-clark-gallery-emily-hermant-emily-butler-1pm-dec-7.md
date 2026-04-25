@@ -19,5 +19,5 @@ Join us for an engaging dialogue between artist Emily Hermant and Vancouver base
 curator and writer Emily Butler about art and technology.
 
 Event capacity is limited, please rsvp:
-https://www.eventbrite.ca/e/in-conversation-emily-hermant-emily-butler-tickets-
+[https://www.eventbrite.ca/e/in-conversation-emily-hermant-emily-butler-tickets-](https://www.eventbrite.ca/e/in-conversation-emily-hermant-emily-butler-tickets-)
 1099423919539?aff=oddtdtcreator

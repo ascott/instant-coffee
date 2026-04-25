@@ -26,7 +26,7 @@ Trio.
 
 Tickets:
 Tickets are sold on a sliding scale from $10 to $21 here:
-https://www.goelevent.com/VLAFF/e/Search
+[https://www.goelevent.com/VLAFF/e/Search](https://www.goelevent.com/VLAFF/e/Search)
 
 Nos vemos en el cine!
 www.vlaff.org

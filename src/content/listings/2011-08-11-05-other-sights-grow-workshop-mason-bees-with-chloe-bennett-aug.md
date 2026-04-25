@@ -54,8 +54,8 @@ and creative experiments in urban agriculture.
 To get involved in Grow or take part in upcoming events contact Holly 
 Schmidt or visit
 
-http://othersights.ca/
-http://www.grow-urbanagricultureproject.ca/
+[http://othersights.ca/](http://othersights.ca/)
+[http://www.grow-urbanagricultureproject.ca/](http://www.grow-urbanagricultureproject.ca/)
 
 Other Sights gratefully acknowledges support from the City of 
 Vancouver’s 125th Anniversary grants program, the Canon 

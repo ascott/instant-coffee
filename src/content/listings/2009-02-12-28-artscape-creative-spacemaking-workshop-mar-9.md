@@ -40,7 +40,7 @@ Speakers that have been confirmed include:
 * Joe Lobko, Partner, du Toit Architects Limited
 
 For detailed speaker information visit:
-http://vancouver.ca/creativecity/spacemaking/speakers.htm
+[http://vancouver.ca/creativecity/spacemaking/speakers.htm](http://vancouver.ca/creativecity/spacemaking/speakers.htm)
 
 Registration
 

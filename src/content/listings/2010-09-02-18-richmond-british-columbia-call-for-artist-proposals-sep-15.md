@@ -24,7 +24,7 @@ detailed design for a bas-relief to be fabricated and installed by the
 City of Richmond. Artists are encouraged to consider creative designs as
 they interpret the theme, "A Working River".
 Full project information is available at:
-http://www.richmond.ca/culture/publicart/opportunities.htm
+[http://www.richmond.ca/culture/publicart/opportunities.htm](http://www.richmond.ca/culture/publicart/opportunities.htm)
 
 Please send any questions to Eric Fiss, Public Art Planner, City
 of Richmond mailto:efiss@richmond.ca
@@ -40,9 +40,9 @@ of information and functioning of all links. For more detail about a
 particular call, please use the contact information provided. For your
 convenience, all calls distributed through this list are posted online,
 until their expiry, at
-http://vancouver.ca/commsvcs/oca/PublicArt/artistopp.htm.
+[http://vancouver.ca/commsvcs/oca/PublicArt/artistopp.htm](http://vancouver.ca/commsvcs/oca/PublicArt/artistopp.htm).
 
 NEW: You can manage your subscription to this mailing list and join
 others by visiting Cultural Services online at:
-http://vancouver.ca/commsvcs/cultural/lists/index.htm. Please feel free
+[http://vancouver.ca/commsvcs/cultural/lists/index.htm](http://vancouver.ca/commsvcs/cultural/lists/index.htm). Please feel free
 to forward or direct others towards this link as well!

@@ -11,7 +11,7 @@ summary: "grunt gallery | Diptychs - Mark Igloliorte | JUN 4"
 Diptychs by Mark Igloliorte @ grunt gallery
 Opening: Thursday, June 4 (7-10pm)
 Exhibition Dates: June 4 – July 18, 2015
-URL: http://grunt.ca/exhibitions/diptychs/
+URL: [http://grunt.ca/exhibitions/diptychs/](http://grunt.ca/exhibitions/diptychs/)
 
 Diptychs by artist Mark Igloliorte features over a hundred observational
 works of still lifes and studio vignette paintings, a series that has been

@@ -77,5 +77,5 @@ symbolic imagery, and the notion of a painter’s vocabulary.
 
 Unity Gallery is an ongoing collaborative project with no fixed location.
 It seeks to promote vital contemporary work in Vancouver.
-For more information visit: http://www.unitygallery.ca or contact
+For more information visit: [http://www.unitygallery.ca](http://www.unitygallery.ca) or contact
 hello@unitygallery.ca

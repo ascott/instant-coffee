@@ -46,5 +46,5 @@ Gallery.
 Satellite Gallery is located at 560 Seymour Street and is open Wednesday to 
 Saturday 12:00 – 6:00 PM.
 
-For additional information go to: http://www.satellitegallery.ca or call 604-681-
+For additional information go to: [http://www.satellitegallery.ca](http://www.satellitegallery.ca) or call 604-681-
 8425.

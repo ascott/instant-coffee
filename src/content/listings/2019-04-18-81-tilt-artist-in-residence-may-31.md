@@ -42,6 +42,6 @@ If interested, contact Liz at 604-961-8741 or eabarnes@telus.net
 Thank you for posting!
 
 Elizabeth Barnes 
-http://ElizabethBarnes.ca 
+[http://ElizabethBarnes.ca](http://ElizabethBarnes.ca) 
 
 604-961-8741

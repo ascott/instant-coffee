@@ -19,7 +19,7 @@ Opening – Friday Oct. 23rd, 8pm grunt gallery
 Artist talk Saturday, October 24, 2009, 2:00 - 3:30 pm, 
 Bill Reid Gallery of Northwest Coast Art
 630 Hornby Street, Vancouver, British Columbia
-http://www.billreidgallery.ca/
+[http://www.billreidgallery.ca/](http://www.billreidgallery.ca/)
 
 Alaskan artist Nicholas Galanin brings his transformative work to grunt gallery, which extends from 
 his series, 'The Imaginary Indian' a series that juxtaposes manufactured Northwest Coast masks 
@@ -49,11 +49,11 @@ He deftly navigates "the politics of cultural representation," as he balances bo
 aesthetic spectrum. With a fiercely independent spirit, Galanin has found the best of both worlds
 and has given them back to his audience in stunning form. 
 
-http://nicholasgalanin.com/
+[http://nicholasgalanin.com/](http://nicholasgalanin.com/)
 
 For More Information Please Contact:
 Demian Petryshyn
 Programming and Communications Coordinator
 604.875.9516 / demian@grunt.ca
 
-http://www.grunt.ca
+[http://www.grunt.ca](http://www.grunt.ca)

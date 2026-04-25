@@ -12,4 +12,4 @@ were launching our ARTISTS STUDIO PROGRAM and we are looking for artists. Its
 Class A studios, no hazardous or toxic materials allowed, work only, 5 available, semi-
 private and up to 310sqft.
 
-Info and submission : https://www.alliancefrancaise.ca/en/community/artists-studios/
+Info and submission : [https://www.alliancefrancaise.ca/en/community/artists-studios/](https://www.alliancefrancaise.ca/en/community/artists-studios/)

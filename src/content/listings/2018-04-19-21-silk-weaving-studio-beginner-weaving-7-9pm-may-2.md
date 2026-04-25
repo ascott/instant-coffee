@@ -22,5 +22,5 @@ duration of the workshop and an additional week.
 Amanda Wood is a contemporary textile artist. Her practice is defined by processes and 
 she brings that approach to her weaving workshops.
 
-For more information: http://www.amandawoodstudio.com/events/2017/11/22/beginner-
+For more information: [http://www.amandawoodstudio.com/events/2017/11/22/beginner-](http://www.amandawoodstudio.com/events/2017/11/22/beginner-)
 weaving-classes-p57rh

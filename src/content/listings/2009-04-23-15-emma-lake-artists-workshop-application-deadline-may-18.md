@@ -17,5 +17,5 @@ studio space are provided for the two weeks. Participating artists share a large
 guest artist– an environment that contributes to a dynamic and creative atmosphere. The sharing of 
 ideas, attitudes and work processes takes place on a personal level.
 Early Application Deadline has been extended to May 18
-For more information http://www.emmalake.usask.ca/1artistsworkshop.html
+For more information [http://www.emmalake.usask.ca/1artistsworkshop.html](http://www.emmalake.usask.ca/1artistsworkshop.html)
 contact: knainsilowry@yahoo.com for more information

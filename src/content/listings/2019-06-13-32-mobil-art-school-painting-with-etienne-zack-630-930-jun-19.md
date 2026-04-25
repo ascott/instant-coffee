@@ -19,6 +19,6 @@ acrylic gel transfer.
 
 This class is open to all skill levels.
 
-https://www.mobil-art.ca/book-online/painting-space-exploration-jun-19/book
+[https://www.mobil-art.ca/book-online/painting-space-exploration-jun-19/book](https://www.mobil-art.ca/book-online/painting-space-exploration-jun-19/book)
 
 Mobil Art School, 268 Keefer Street, Vancouver, BC

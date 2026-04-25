@@ -29,4 +29,4 @@ Venue: The Gallery @ Artech
 Doors at 7:00pm, music at 8:00pm.
 
 INFO &
-TICKETS:https://sidedooraccess.com/shows/yH4NtSRvQNIgddWw46V2
+TICKETS:[https://sidedooraccess.com/shows/yH4NtSRvQNIgddWw46V2](https://sidedooraccess.com/shows/yH4NtSRvQNIgddWw46V2)

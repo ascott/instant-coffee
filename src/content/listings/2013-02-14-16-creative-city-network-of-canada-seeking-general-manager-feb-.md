@@ -38,7 +38,7 @@ on local cultural development, and promote the case for strengthening the
 local cultural sector.
 
 More Details at:
-http://www.creativecity.ca/career-development/job-
+[http://www.creativecity.ca/career-development/job-](http://www.creativecity.ca/career-development/job-)
 listing/cc_job_listings/545.php
 
 ---

@@ -20,7 +20,7 @@ Auf dem Michaeliskloster 4
 D-21335 Lueneburg
 Phone: +49-4131-26-1360
 
-http://www.kuenstlerstaette-bleckede.de
+[http://www.kuenstlerstaette-bleckede.de](http://www.kuenstlerstaette-bleckede.de)
 
 Since 1979 the Kuenstlerstaette Schloss Bleckede has been seeking to
 promote young artists who explore innovative positions in the field of
@@ -52,4 +52,4 @@ info@halle-fuer-kunst.de
 
 The call for applications is open to all artists of all nationalities.
 Application forms, criteria and more information are available at
-http://www.kuenstlerstaette-bleckede.de
+[http://www.kuenstlerstaette-bleckede.de](http://www.kuenstlerstaette-bleckede.de)

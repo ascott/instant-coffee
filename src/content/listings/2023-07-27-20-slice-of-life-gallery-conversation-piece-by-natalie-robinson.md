@@ -22,5 +22,5 @@ Slice of Life Gallery: 1636 Venables Street, Vancouver BC V5L 2H2
 
 Free entry / by donation
 
-https://www.slicevancouver.ca/product/august-3-8-conversation-piece-with-natart-
+[https://www.slicevancouver.ca/product/august-3-8-conversation-piece-with-natart-](https://www.slicevancouver.ca/product/august-3-8-conversation-piece-with-natart-)
 acct/6742?cp=true&sa=false&sbp=false&q=true

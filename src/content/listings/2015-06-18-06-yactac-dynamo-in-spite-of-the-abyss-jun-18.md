@@ -59,5 +59,5 @@ subtlety, minor protests echo loudly. The complex relation to the material
 economy lies embedded in repetition, concentric circles which coalesce over
 time.
 
-http://www.yactac.com
-http://www.facebook.com/Yactac
+[http://www.yactac.com](http://www.yactac.com)
+[http://www.facebook.com/Yactac](http://www.facebook.com/Yactac)

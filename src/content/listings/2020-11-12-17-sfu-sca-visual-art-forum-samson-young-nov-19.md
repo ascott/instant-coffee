@@ -10,7 +10,7 @@ summary: "SFU SCA | VISUAL ART FORUM: Samson Young | NOV 19"
 
 Thursday, November 19, 2020 | 7:00 PM | Zoom
 
-RSVP HERE: https://www.eventbrite.ca/e/visual-art-forum-samson-young-registration-
+RSVP HERE: [https://www.eventbrite.ca/e/visual-art-forum-samson-young-registration-](https://www.eventbrite.ca/e/visual-art-forum-samson-young-registration-)
 120876385523
 
 Please join us for a FREE talk by Samson Young, presented as part of the Fall 2020

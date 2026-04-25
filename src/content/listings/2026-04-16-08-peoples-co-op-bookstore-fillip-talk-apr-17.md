@@ -25,4 +25,4 @@ The conversation will focus on the traditions of autocoscienza, and experimental
 practice associated with Lonzis work in relation to the analysis of reproductive labour,
 developed in Italian workerist feminism, specifically Leopoldina Fortunatis classic work, The
 Arcana of Reproduction: Housewives, Prostitutes, Workers and Capital, recently released in
-unabridged translation by Verso. For more information, visit: https://fillip.ca/o2cu
+unabridged translation by Verso. For more information, visit: [https://fillip.ca/o2cu](https://fillip.ca/o2cu)

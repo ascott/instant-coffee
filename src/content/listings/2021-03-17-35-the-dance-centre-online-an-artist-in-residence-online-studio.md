@@ -13,7 +13,7 @@ An Artist-in-Residence Online Studio Showing
 Ne. Sans Opera & Dance
 Streaming on demand April 6, 2021 | 5pm until April 13, 2021 | 5pm PST
 Tickets on a sliding scale: $0/$10/$20
-Details and tickets: https://thedancecentre.ca/event/idan-cohen/
+Details and tickets: [https://thedancecentre.ca/event/idan-cohen/](https://thedancecentre.ca/event/idan-cohen/)
 
 Choreographer and opera director Idan Cohen shows excerpts from his research to
 stage C W Gluck's monumental opera Orfeo ed Euridice as an innovative contemporary

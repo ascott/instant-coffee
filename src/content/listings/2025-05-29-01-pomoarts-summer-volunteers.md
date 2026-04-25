@@ -25,4 +25,4 @@ fill the streets, from waterfronts to commercial hubs, alleyways to park benches
 secret locations
 
 Come volunteer with us this summer! Pop over to our website now and complete a
-volunteer application here https://www.pomoarts.ca/get-involved/volunteer
+volunteer application here [https://www.pomoarts.ca/get-involved/volunteer](https://www.pomoarts.ca/get-involved/volunteer)

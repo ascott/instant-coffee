@@ -10,7 +10,7 @@ summary: "VIVO Media Arts Centre | Video Editing Intermediate | OCT 16"
 
 Video Editing Intermediate
 
-SIGN UP & MORE INFO: https://video-editing-intermediate.eventbrite.ca
+SIGN UP & MORE INFO: [https://video-editing-intermediate.eventbrite.ca](https://video-editing-intermediate.eventbrite.ca)
 
 Sharpen your editing craft to tell more enticing stories with award-winning
 video artist Flick Harrison!

@@ -36,4 +36,4 @@ based curator and artist.
 DEADLINE: October 4th @ 6PM MDT
 
 Further details and application information can be found on our website:
-https://www.exposurephotofestival.com/
+[https://www.exposurephotofestival.com/](https://www.exposurephotofestival.com/)

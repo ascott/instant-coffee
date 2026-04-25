@@ -58,7 +58,7 @@ Architecture, CASM, Arts Santa Mònica, Barcelona. Etchells has also
 published several books of fiction including Certain Fragments; Endland 
 Stories; The Dream Dictionary for the Modern Dreamer and a novel titled The 
 Broken World.
-To see more visit: http://www.contemporaryartgallery.ca/exhibitions/tim-
+To see more visit: [http://www.contemporaryartgallery.ca/exhibitions/tim-](http://www.contemporaryartgallery.ca/exhibitions/tim-)
 etchells-who-knows/
 NOTES TO EDITORS: 
 1.	Public Events: Exhibition Opening & Public Programmes

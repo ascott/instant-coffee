@@ -38,4 +38,4 @@ and a re-imagining of media and journalism.
 
 For more details on this event visit: www.freshmedia.me
 
-You can also check out Fresh Media on Facebook: http://on.fb.me/ac3ZPJ
+You can also check out Fresh Media on Facebook: [http://on.fb.me/ac3ZPJ](http://on.fb.me/ac3ZPJ)

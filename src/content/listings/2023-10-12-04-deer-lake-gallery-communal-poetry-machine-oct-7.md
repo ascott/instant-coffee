@@ -36,4 +36,4 @@ by a dark history of colonization and whose occupants, sorting through the stick
 mess of our different histories and needs and ways of communicating, form
 community.
 
-For more info, visit https://deerlakegallery.ca/
+For more info, visit [https://deerlakegallery.ca/](https://deerlakegallery.ca/)

@@ -26,4 +26,4 @@ Hope to see you there.
 
 Opening October 18 5-10pm Runs until October 23
 
-https://www.michaelrozen.com/
+[https://www.michaelrozen.com/](https://www.michaelrozen.com/)

@@ -49,7 +49,7 @@ What to Send
 
 A completed and signed application form. Please be sure to indicate the value of each work 
 for insurance purposes: 
-http://www.tworiversgallery.ca/files/9515/3972/9361/Reconciliation_Call_PDF.pdf
+[http://www.tworiversgallery.ca/files/9515/3972/9361/Reconciliation_Call_PDF.pdf](http://www.tworiversgallery.ca/files/9515/3972/9361/Reconciliation_Call_PDF.pdf)
 A current resum, curriculum vitae or a short statement about yourself.
 A short description of each artwork submitted (2 " 3 sentences).
 Good quality photographs or high-resolution JPG files (min. 1 MB) of completed artwork. 

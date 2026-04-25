@@ -21,7 +21,7 @@ chronicled my passage through time. I have always been clumsy, tripping,
 dropping, falling with alarming regularity. This tape accepts the extent of
 the consequences." L.S.
 
-http://www.ccca.ca/artists/media_detail.html?languagePref=fr&mkey=53709&link_id=264
+[http://www.ccca.ca/artists/media_detail.html?languagePref=fr&mkey=53709&link_id=264](http://www.ccca.ca/artists/media_detail.html?languagePref=fr&mkey=53709&link_id=264)
 
 "Women in Revolt"(1971) by Paul Morrissey.
 This film is a satire of the women's liberation movement, staring a trio

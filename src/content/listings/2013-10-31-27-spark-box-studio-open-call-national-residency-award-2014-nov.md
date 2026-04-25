@@ -25,4 +25,4 @@ winner between January 5 and April 30, 2014.
 
 DEADLINE: November 30, 2013
 
-Application: http://sparkboxstudio.com/nationalaward/
+Application: [http://sparkboxstudio.com/nationalaward/](http://sparkboxstudio.com/nationalaward/)

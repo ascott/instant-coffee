@@ -43,11 +43,11 @@ Thursday, August 20, 2015 from 5:00 pm – 8:00 pm
 Canadian Native Friendship Centre 11728-95 Street, Edmonton, AB
 Please RSVP Dawn Saunders-Dahl or phone (780) 424–2787 ext. 229
 Visit the Facebook event for more information
-http://www.mailoutinteractive.com/Industry/Redirect.aspx?u=1263459&q=905515963&lm=63855551&r=709795&qz=bd1c42e19948cbe83fe938cac7fbb2cf
+[http://www.mailoutinteractive.com/Industry/Redirect.aspx?u=1263459&q=905515963&lm=63855551&r=709795&qz=bd1c42e19948cbe83fe938cac7fbb2cf](http://www.mailoutinteractive.com/Industry/Redirect.aspx?u=1263459&q=905515963&lm=63855551&r=709795&qz=bd1c42e19948cbe83fe938cac7fbb2cf)
 
 City of Edmonton & EAC Public Art personnel will outline the specifics of
 the project and requirements. Notes from the session will be available
 online afterwards
 
 Full Call
-http://www.mailoutinteractive.com/Industry/LandingPage.aspx?id=1925805&lm=63855551&q=905515963&qz=ac698986da22685192bb60f0e5979253
+[http://www.mailoutinteractive.com/Industry/LandingPage.aspx?id=1925805&lm=63855551&q=905515963&qz=ac698986da22685192bb60f0e5979253](http://www.mailoutinteractive.com/Industry/LandingPage.aspx?id=1925805&lm=63855551&q=905515963&qz=ac698986da22685192bb60f0e5979253)

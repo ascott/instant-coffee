@@ -18,5 +18,5 @@ embodied artistic practice. Her work confronts the dominant narratives and socia
 structures of colonialism, and implicates us all in her concern with the social realities of
 Indigenous experience of capital.
 
-https://moa.ubc.ca/exhibition/value/?
+[https://moa.ubc.ca/exhibition/value/](https://moa.ubc.ca/exhibition/value/)?
 ml_link=167622406888753002&ml_recipient=167622419882706744

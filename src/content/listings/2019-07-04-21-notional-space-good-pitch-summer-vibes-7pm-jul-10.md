@@ -27,5 +27,5 @@ Notional Space
 1523 East Pender Street
 Vancouver, Coast Salish Territory
 
-More info and registration: https://www.eventbrite.ca/e/good-pitch-summer-vibes-at-the-
+More info and registration: [https://www.eventbrite.ca/e/good-pitch-summer-vibes-at-the-](https://www.eventbrite.ca/e/good-pitch-summer-vibes-at-the-)
 notional-space-tickets-63604308198

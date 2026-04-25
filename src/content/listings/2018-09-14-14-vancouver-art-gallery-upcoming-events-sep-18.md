@@ -26,7 +26,7 @@ Wisdom will present his album Music For Art Galleries"1,000 Recordings In
 Alphabetical Order For Enhanced Viewing.
 
 Tickets: $12 Members | $15 General Admission | $10 Students available
-at https://etickets.vanartgallery.bc.ca/Info.aspx?EventID=12
+at [https://etickets.vanartgallery.bc.ca/Info.aspx?EventID=12](https://etickets.vanartgallery.bc.ca/Info.aspx?EventID=12)
 
 OPENING:
 

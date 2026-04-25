@@ -39,5 +39,5 @@ have been published by the magazines Canadian Art and Fillip, the Centre Andr
 Chastel, the Muse dart contemporain de Montral, Les presses du rel, Sternberg
 Press and the Vancouver Art Gallery, among others.
 
-https://fonderiedarling.org/en/Conversation-Vikky-Alexander-Vincent-Bonin-Caroline-
+[https://fonderiedarling.org/en/Conversation-Vikky-Alexander-Vincent-Bonin-Caroline-](https://fonderiedarling.org/en/Conversation-Vikky-Alexander-Vincent-Bonin-Caroline-)
 Andrieux.html

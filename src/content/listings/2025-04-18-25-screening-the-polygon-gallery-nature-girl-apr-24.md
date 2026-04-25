@@ -15,7 +15,7 @@ Outreach.
 Doors at 6:00pm
 Screening at 6:30pm
 Discussion at 7:00pm
-RSVP here: https://thepolygon.ca/event/film-screening-nature-girl/
+RSVP here: [https://thepolygon.ca/event/film-screening-nature-girl/](https://thepolygon.ca/event/film-screening-nature-girl/)
 
 Nature Girl (2024)
 37 mins

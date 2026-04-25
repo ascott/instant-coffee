@@ -25,4 +25,4 @@ Afternoon Projects, Vancouver (2022). She graduated from Emily Carr University o
 Gallery Hours: Thursday, Friday, Saturday 1-5 pm and by appointment
 afternoonprojects.org
 Book Appointment
-https://calendly.com/afternoon/mourner-s-revery
+[https://calendly.com/afternoon/mourner-s-revery](https://calendly.com/afternoon/mourner-s-revery)

@@ -40,4 +40,4 @@ FOLLOW US ON TWITTER:
 www.twitter.com/ECUCAG2011
 
 VIEW THE BLOG:
-http://ecucag2011.blogspot.com/
+[http://ecucag2011.blogspot.com/](http://ecucag2011.blogspot.com/)

@@ -18,7 +18,7 @@ June 25th to July 7th, 2015
 Opening Reception on Friday, June 26th at 6:30pm
 
 @ The Blank Tank Gallery (#102 - 148 Alexander St, Gastown - Vancouver)
-Please RSVP on Facebook: https://www.facebook.com/events/888360164532343/
+Please RSVP on Facebook: [https://www.facebook.com/events/888360164532343/](https://www.facebook.com/events/888360164532343/)
 
 Artist Bio:
 Born in 1954 in Tehran, Majid graduated as a civil Engineer from Tabriz
@@ -33,6 +33,6 @@ One of his residential buildings was among the nominees of the AGA KHAN
 AWARD for Architecture in 2013.
 
 Download the poster:
-http://blanktank.ca/wp-content/uploads/2015/06/Poster-Rumi-MajidSheikhakbari-BlankTank-2015.jpg
+[http://blanktank.ca/wp-content/uploads/2015/06/Poster-Rumi-MajidSheikhakbari-BlankTank-2015.jpg](http://blanktank.ca/wp-content/uploads/2015/06/Poster-Rumi-MajidSheikhakbari-BlankTank-2015.jpg)
 
-Details and timings: http://blanktank.ca/rumi/
+Details and timings: [http://blanktank.ca/rumi/](http://blanktank.ca/rumi/)

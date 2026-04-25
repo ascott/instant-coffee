@@ -39,4 +39,4 @@ are uninstalled artists will be notified and must pick up their work within two 
 Benjamin Lumb Art House,1370 Marine Drive, West Vancouver
 gallery@benjaminlumb.art
 
-https://www.artsy.net/partner/benjamin-lumb-art-house
+[https://www.artsy.net/partner/benjamin-lumb-art-house](https://www.artsy.net/partner/benjamin-lumb-art-house)

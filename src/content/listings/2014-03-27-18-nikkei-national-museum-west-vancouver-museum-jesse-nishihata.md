@@ -17,7 +17,7 @@ Nikkei National Museum 6688 Southoaks Crescent (at Kingsway &
 Sperling)
 Burnaby, BC V5E 4M7
 T: 604.777.7000
-W: http://centre.nikkeiplace.org/j_nishihata_exhibit/
+W: [http://centre.nikkeiplace.org/j_nishihata_exhibit/](http://centre.nikkeiplace.org/j_nishihata_exhibit/)
 Admission by donation
 Parking free
 

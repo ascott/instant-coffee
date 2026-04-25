@@ -38,4 +38,4 @@ Burnaby, BC
 Free event, open to the public
 
 More information here:
-https://www.facebook.com/events/845849248859113/
+[https://www.facebook.com/events/845849248859113/](https://www.facebook.com/events/845849248859113/)

@@ -18,7 +18,7 @@ Artist Fees per opportunity:
 Site 1: $17,000
 Site 2: $4,000
 Deadline for Submissions: June 23, 2025 at midnight. Application Form link:
-https://forms.gle/d5vbHMNkyPeLjY337
+[https://forms.gle/d5vbHMNkyPeLjY337](https://forms.gle/d5vbHMNkyPeLjY337)
 
 Thanks,
 

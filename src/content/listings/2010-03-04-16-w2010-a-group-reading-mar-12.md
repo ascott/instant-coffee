@@ -86,7 +86,7 @@ towards something of a cultural front to face ’a world that seems to hold
 together only through the infinite management of its own collapse’ (The
 Coming Insurrection 7). From deep in the collapse, we reach out."
 
-For more information click here : http://www.kswnet.org/
+For more information click here : [http://www.kswnet.org/](http://www.kswnet.org/)
 
 >>> send your poetry, poetics and contemporary arts listings to
 info@kswnet.org for posting to our community calendar <<<

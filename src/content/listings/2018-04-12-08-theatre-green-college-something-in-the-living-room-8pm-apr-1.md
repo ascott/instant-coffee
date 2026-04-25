@@ -8,7 +8,7 @@ venue: "THEATRE"
 summary: "THEATRE | Green College | SOMETHING IN THE LIVING ROOM | 8PM | APR 12"
 ---
 
-SOMETHING IN THE LIVING ROOM (https://www.greencollege.ubc.ca/green-
+SOMETHING IN THE LIVING ROOM ([https://www.greencollege.ubc.ca/green-](https://www.greencollege.ubc.ca/green-)
 college-players-theatrical-performance-something-living-room) 
 Written by Kavelina Torres
 Directed by Mathieu Aubin

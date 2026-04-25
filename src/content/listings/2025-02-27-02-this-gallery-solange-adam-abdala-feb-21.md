@@ -31,9 +31,9 @@ landscapes that are at once surreal, fantastical, and ominous, challenging the n
 of photographic fidelity.
 
 Online gallery:
-https://thisgallery.org/project/solange-adum-abdala-la-conversion-de-
+[https://thisgallery.org/project/solange-adum-abdala-la-conversion-de-](https://thisgallery.org/project/solange-adum-abdala-la-conversion-de-)
 la-huella/
-Artist website: https://solangeadum.com
+Artist website: [https://solangeadum.com](https://solangeadum.com)
 
 THIS Gallery
 Lower Ground Level

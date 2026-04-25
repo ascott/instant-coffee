@@ -16,7 +16,7 @@ Saturday Jun 11; 10:00am-6:00pm
 Cineworks Studio, 1131 Howe Street (lane entrance)
 $85 (+ taxes) Cineworks Members; Young Artists (24 and under); Seniors
 $125 (+taxes) General Admission
-Online bookings: http://dancefilmworkshop.eventbrite.ca
+Online bookings: [http://dancefilmworkshop.eventbrite.ca](http://dancefilmworkshop.eventbrite.ca)
 
 Esteemed international Dance Film director, Daniel Conrad, leads this
 full-day workshop for filmmakers, choreographers, and dancers who wish to

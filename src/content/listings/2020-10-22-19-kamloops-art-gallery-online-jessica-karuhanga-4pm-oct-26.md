@@ -11,4 +11,4 @@ summary: "Kamloops Art Gallery [ONLINE] | JESSICA KARUHANGA | 4PM | OCT 26"
 ARTISTS TALK with JESSICA KARUHANGA
 MONDAY, OCTOBER 26, 4:00 pm
 (PDT)
-REGISTER: https://us02web.zoom.us/webinar/register/WN_TeJnBaq7R3a0zB-AXl5Ixw
+REGISTER: [https://us02web.zoom.us/webinar/register/WN_TeJnBaq7R3a0zB-AXl5Ixw](https://us02web.zoom.us/webinar/register/WN_TeJnBaq7R3a0zB-AXl5Ixw)

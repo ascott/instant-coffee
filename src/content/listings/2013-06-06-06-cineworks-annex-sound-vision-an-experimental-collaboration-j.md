@@ -12,7 +12,7 @@ Sound + Vision: An Experimental Collaboration
 
 June 7, 2013, 7-10pm, 235 Alexander St, Cineworks Annex,
 
-Facebook Event: http://www.facebook.com/events/305101332956674/
+Facebook Event: [http://www.facebook.com/events/305101332956674/](http://www.facebook.com/events/305101332956674/)
 
 Free to attend
 

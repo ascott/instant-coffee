@@ -25,7 +25,7 @@ Time: 12 - 3 pm PT
 Location: Centre A (205-268 Keefer St., Vancouver, BC V6A 1X5)
 
 No RSVP required, please feel free to register for our Dashboard to save yourself time
-setting up: https://outreachdashboard.wmflabs.org/courses/Centre_A/Centre_A_-
+setting up: [https://outreachdashboard.wmflabs.org/courses/Centre_A/Centre_A_-](https://outreachdashboard.wmflabs.org/courses/Centre_A/Centre_A_-)
 _Art_and_Feminism_Wikipedia_Edit-a-thon_2024_(Feb_-_April_2024)?
 enroll=husijawq
 

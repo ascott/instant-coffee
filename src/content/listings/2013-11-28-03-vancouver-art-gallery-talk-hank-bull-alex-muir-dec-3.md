@@ -22,7 +22,7 @@ Born in 1949, Hank Bull traveled Europe in 1968, studied under Robert Markle and
 Alex Muir is an MA student in English at Simon Fraser University, and an art worker with ongoing ties to VIVO Media Arts Centre and the Western Front. He has worked on numerous archival video projects, both as a curator and supporting the process of digital transfer. He has also been involved in the facilitation of No Reading After the Internet, an ongoing series of discussion salons that occur in Toronto and Vancouver.
 
 Videos Now Online
-Talks and lectures held at the Vancouver Art Gallery are now posted on our website. You can view our talks online at http://vanartgallery.bc.ca/videos/
+Talks and lectures held at the Vancouver Art Gallery are now posted on our website. You can view our talks online at [http://vanartgallery.bc.ca/videos/](http://vanartgallery.bc.ca/videos/)
 
 Vancouver Art Gallery
 750 Hornby Street Vancouver BC V6Z 2H7

@@ -68,7 +68,7 @@ Instructor: Joyelle Brandt
 
 Join Joyelle for weekly songs, stories & family art activities.
 
-Learn more and register... https://northvanarts.ca/education/stories-and-songs-online-
+Learn more and register... [https://northvanarts.ca/education/stories-and-songs-online-](https://northvanarts.ca/education/stories-and-songs-online-)
 class/
 
 
@@ -83,7 +83,7 @@ a more mindful space.
 
 We invite families (or those isolating together) to do this activity together.
 
-Learn more and register... https://northvanarts.ca/education/mindfulness-through-art-
+Learn more and register... [https://northvanarts.ca/education/mindfulness-through-art-](https://northvanarts.ca/education/mindfulness-through-art-)
 journaling/
 
 

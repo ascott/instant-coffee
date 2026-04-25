@@ -39,4 +39,4 @@ info@audaingallery.ca
 www.audaingallery.ca
 
 Event link:
-http://www.facebook.com/events/208693485936086/?fref=ts
+[http://www.facebook.com/events/208693485936086/?fref=ts](http://www.facebook.com/events/208693485936086/?fref=ts)

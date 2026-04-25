@@ -43,6 +43,6 @@ to think about how we engage, care for, and conserve past works of art and artis
 and the ecological lessons that experience might hold.
 
 Register for the link at belkin.ubc.ca or
-https://ubc.zoom.us/webinar/register/WN_yU8a01RKQfK8MNqKOdXG3w
+[https://ubc.zoom.us/webinar/register/WN_yU8a01RKQfK8MNqKOdXG3w](https://ubc.zoom.us/webinar/register/WN_yU8a01RKQfK8MNqKOdXG3w)
 
-https://belkin.ubc.ca/events/conversation-of-other-earths/
+[https://belkin.ubc.ca/events/conversation-of-other-earths/](https://belkin.ubc.ca/events/conversation-of-other-earths/)

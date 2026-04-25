@@ -15,7 +15,7 @@ Video
 Monday, October 21, 2013 – 7:30pm
 1131 Howe St. Vancouver
 Tix: $11/$9 + $3membership
-http://www.dimcinema.ca / http://www.thecinematheque.ca
+[http://www.dimcinema.ca](http://www.dimcinema.ca) / [http://www.thecinematheque.ca](http://www.thecinematheque.ca)
 
 Programmed by Michèle Smith
 

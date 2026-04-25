@@ -19,5 +19,5 @@ book by David A. Robertson (Cree), followed by a reflective craft activity.
 Location: CCM
 
 Cost: Free with admission
-Webpage link: https://www.chinesecanadianmuseum.ca/programs/truth-and-
+Webpage link: [https://www.chinesecanadianmuseum.ca/programs/truth-and-](https://www.chinesecanadianmuseum.ca/programs/truth-and-)
 reconciliation-at-the-museum

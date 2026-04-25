@@ -11,4 +11,4 @@ summary: "NEWS | Arts in the Classroom Grants"
 Exciting news for BC-based artists and educators! The Artists in the Classroom Grants,
 in collaboration with @BCArtsCouncil, are now open for applications. Get up to $10,000
 in funding to bring arts-infused learning experiences to classrooms across BC. Apply by
-May 28 https://artstarts.com/aic
+May 28 [https://artstarts.com/aic](https://artstarts.com/aic)

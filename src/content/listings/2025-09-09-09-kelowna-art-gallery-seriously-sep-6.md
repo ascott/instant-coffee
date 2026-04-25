@@ -58,6 +58,6 @@ The Kelowna Art Gallery is located at 1315 Water Street in the heart of Kelownas
 Culture District. For more information visit kelownaartgallery.com or call 250-762-
 2226.
 
-Exhibition Webpage: https://kelownaartgallery.com/seriously/
+Exhibition Webpage: [https://kelownaartgallery.com/seriously/](https://kelownaartgallery.com/seriously/)
 
-KAG IG: https://www.instagram.com/kelownaartgallery/
+KAG IG: [https://www.instagram.com/kelownaartgallery/](https://www.instagram.com/kelownaartgallery/)

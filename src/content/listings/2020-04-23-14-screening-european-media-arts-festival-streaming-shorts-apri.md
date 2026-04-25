@@ -8,7 +8,7 @@ venue: "SCREENING"
 summary: "SCREENING | European Media Arts Festival | Streaming Shorts | April 22-26 | APR 22"
 ---
 
-https://streaming.emaf.de/
+[https://streaming.emaf.de/](https://streaming.emaf.de/)
 
 Like countless other cultural events in recent weeks, we too have been faced with the
 question of whether and how under present conditions

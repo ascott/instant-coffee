@@ -20,5 +20,5 @@ Limited quantity totes available for purchase on site.
 Come meet folks, learn about what's happening in Sudan, and help local Sudanese
 organizers raise funds for evacuation efforts.
 Stand with the people of Sudan! Oppose imperialism!
-Share widely!!! https://www.instagram.com/p/DTJ8UHBEXUk/?
+Share widely!!! [https://www.instagram.com/p/DTJ8UHBEXUk/](https://www.instagram.com/p/DTJ8UHBEXUk/)?
 igsh=MXZxdmw3eWUwaGZjNw==

@@ -11,7 +11,7 @@ summary: "Cineworks | When Colour Bursts Through | OCT 24"
 Event Title: When Colour Bursts Through: posAbilities & Cineworks
 Date & Time: Thursday, October 24th; 7:00pm - 8:30pm; Doors at 6:30pm
 Location: Cineworks Independent Filmmakers Society, #300-1131 Howe St
-Link to event page: https://www.facebook.com/events/438361636800250/
+Link to event page: [https://www.facebook.com/events/438361636800250/](https://www.facebook.com/events/438361636800250/)
 
 Blurb:
 In partnership with posAbilities, Cineworks presents three new collaborative film works
@@ -56,4 +56,4 @@ work in our cozy space!
 
 Featuring live music by Jalopy and Jiten Beairsto, Emily Burton, & Sarah Kwok
 
-More information: https://www.facebook.com/events/430846401122300/
+More information: [https://www.facebook.com/events/430846401122300/](https://www.facebook.com/events/430846401122300/)

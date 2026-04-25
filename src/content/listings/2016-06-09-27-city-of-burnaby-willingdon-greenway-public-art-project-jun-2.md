@@ -18,7 +18,7 @@ regional or national artists.
 
 Closing Date is June 27 and full information can be found here:
 
-https://www.burnaby.ca/Assets/New+Things+To+Do/Arts+$!26+Heritage/Burnaby+Art+Gallery/Willingdon+Greenway+Public+Art+Project.pdf
+[https://www.burnaby.ca/Assets/New+Things+To+Do/Arts+$!26+Heritage/Burnaby+Art+Gallery/Willingdon+Greenway+Public+Art+Project.pdf](https://www.burnaby.ca/Assets/New+Things+To+Do/Arts+$!26+Heritage/Burnaby+Art+Gallery/Willingdon+Greenway+Public+Art+Project.pdf)
 
 28. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.

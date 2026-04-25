@@ -26,7 +26,7 @@ exhibition explores the increasing influence of research-based, materially drive
 practices on the global fashion scene, while acknowledging the proliferation of
 creative practices that challenge the aesthetic, material and technological
 conventions of fashion. More info:
-https://www.vanartgallery.bc.ca/exhibitions/fashion-fictions
+[https://www.vanartgallery.bc.ca/exhibitions/fashion-fictions](https://www.vanartgallery.bc.ca/exhibitions/fashion-fictions)
 
 Emily Carr: A Room of Her Own
 
@@ -36,4 +36,4 @@ Drawing on the Vancouver Art Gallery archives, A Room of Her Own explores the
 historical intersections of the
 Emily Carr Collection and the Gallery and speculates
 about possibilities for the future. More info:
-https://www.vanartgallery.bc.ca/exhibitions/parviztanavoli
+[https://www.vanartgallery.bc.ca/exhibitions/parviztanavoli](https://www.vanartgallery.bc.ca/exhibitions/parviztanavoli)

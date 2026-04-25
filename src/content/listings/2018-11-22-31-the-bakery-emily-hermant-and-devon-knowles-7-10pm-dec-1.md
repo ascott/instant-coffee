@@ -48,4 +48,4 @@ British Columbia Arts Council and the Canada Council for the Arts. She is curren
 Faculty Instructor at Langara College and her works have been included in numerous 
 private collections.
 
-http://thebakeryonfranklin.com
+[http://thebakeryonfranklin.com](http://thebakeryonfranklin.com)

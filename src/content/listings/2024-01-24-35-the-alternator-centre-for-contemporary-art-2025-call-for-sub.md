@@ -47,7 +47,7 @@ successful applicants CAR/FAC fees. The deadline for applications will be March 
 2024
 (Midnight).
 To see the full description of submission requirements for both the Main and Project
-Galleries please visit https://www.alternatorcentre.com/submit-main-project-gallery.
+Galleries please visit [https://www.alternatorcentre.com/submit-main-project-gallery](https://www.alternatorcentre.com/submit-main-project-gallery).
 
 36. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.

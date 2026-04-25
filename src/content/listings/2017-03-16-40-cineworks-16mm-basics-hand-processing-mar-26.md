@@ -19,7 +19,7 @@ VIVO)
 $40 + taxes | General Admission
 
 REGISTER:
-https://16mm-basics-hand-processing-mar.eventbrite.ca
+[https://16mm-basics-hand-processing-mar.eventbrite.ca](https://16mm-basics-hand-processing-mar.eventbrite.ca)
 
 A 3 hour entry-level workshop introducing participants to the principles and 
 practice of processing 16mm black and white film by hand.
@@ -35,7 +35,7 @@ Film shot in the 16mm Basics: Intro to Bolex workshop on Sunday 12 Mar will be
 processed in this workshop. If interested in both components, please register for 
 the Bolex workshop via the following link:
 
-https://16mm-basics-bolex-mar.eventbrite.ca
+[https://16mm-basics-bolex-mar.eventbrite.ca](https://16mm-basics-bolex-mar.eventbrite.ca)
 
 Please note: access to membership discounts can be obtained with a Cineworks 
 General Membership ($40 annually). Please call 604-685-3841 for details, or 

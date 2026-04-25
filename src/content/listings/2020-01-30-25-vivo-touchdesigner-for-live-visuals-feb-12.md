@@ -11,7 +11,7 @@ summary: "VIVO | TouchDesigner for Live Visuals | FEB 12"
 TouchDesigner for Live Visuals
 
 SIGN UP & MORE INFO:
-https://touchdesigner-yasushi.eventbrite.ca
+[https://touchdesigner-yasushi.eventbrite.ca](https://touchdesigner-yasushi.eventbrite.ca)
 
 A beginner workshop on real-time video manipulation for live performance and interactive
 installations, with artist Yasushi Harada.
@@ -24,10 +24,10 @@ Session 2: Wed, Feb 19, 6pm - 10pm
 Session 3: Wed, Feb 26, 6pm - 10pm
 
 Two extended subsidies available for this workshop:
-https://forms.gle/3kHxj2ZNWPALpj7JA
+[https://forms.gle/3kHxj2ZNWPALpj7JA](https://forms.gle/3kHxj2ZNWPALpj7JA)
 
 This workshop introduces you to live video manipulation for performance and interactive
-installations using TouchDesigner (http://derivative.ca/).
+installations using TouchDesigner ([http://derivative.ca/](http://derivative.ca/)).
 
 If you're dizzy after reading the extensive list of features TouchDesigner offers -- realtime 3D
 rendering & compositing, projection mapping, lighting & audio for live shows, VR tools -- this

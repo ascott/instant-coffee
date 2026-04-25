@@ -13,7 +13,7 @@ category: Music
 org: Patchbay Neighborhood Sound Lab
 Date + time: Saturday, May 31, 9-11pm
 Location: Elm Park Fieldhouse (5837 Larch St, Vancouver)
-Tickets: https://www.eventbrite.com/e/satellite-tickets-1353624921579?
+Tickets: [https://www.eventbrite.com/e/satellite-tickets-1353624921579](https://www.eventbrite.com/e/satellite-tickets-1353624921579)?
 aff=ebdssbdestsearch
 
 write up:

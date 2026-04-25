@@ -15,5 +15,5 @@ Why I Design event.
 On the evening of Saturday, November 3, from 7-11pm, a big party packs over
 two dozen designers into museum spaces for drinks, demonstrations and discussion.
 
-https://museumofvancouver.ca/wid2018
+[https://museumofvancouver.ca/wid2018](https://museumofvancouver.ca/wid2018)
 1100 Chestnut St, Vancouver, BC

@@ -23,5 +23,5 @@ Sep 27, 2024 - Nov 29, 2024
 $166 #173925 ($25 drop in rate available)
 Music Box- Harmony Room
 Link for registration:
-https://anc.ca.apm.activecommunities.com/westvanrec/activity/search/detail/170891?
+[https://anc.ca.apm.activecommunities.com/westvanrec/activity/search/detail/170891](https://anc.ca.apm.activecommunities.com/westvanrec/activity/search/detail/170891)?
 onlineSiteId=0&from_original_cui=true

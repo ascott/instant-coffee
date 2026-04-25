@@ -59,4 +59,4 @@ Notification of acceptance
 will take place in May 2025, and project opportunities will
 be ongoing until the end of 2027
 
-https://www.burnaby.ca/our-city/about-burnaby/public-art/public-art-roster
+[https://www.burnaby.ca/our-city/about-burnaby/public-art/public-art-roster](https://www.burnaby.ca/our-city/about-burnaby/public-art/public-art-roster)

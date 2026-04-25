@@ -56,7 +56,7 @@ portable video transmission;
 * 2 X (2000+ lumen) XGA video projectors;
 * 1 X 42" 720p flat panel display screen;
 * 2 X new MacBook Pro laptops loaded with Pure Data, Gimp, and Modul8;
-* A streaming video server using Movino technology (http://movino.org)
+* A streaming video server using Movino technology ([http://movino.org](http://movino.org))
 that integrates with the FearlessCity.ca Drupal 5 site.
 * We will provide logistical and support services for utilizing this
 equipment.

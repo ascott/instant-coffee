@@ -14,7 +14,7 @@ Tuesday, April 15, 2025
 Location: Richmond Cultural Centre Performance Hall & Richmond Art Gallery
 7700 Minoru Gate, Richmond BC
 
-RSVP: https://www.eventbrite.ca/e/performance-by-mary-sui-yee-wong-and-
+RSVP: [https://www.eventbrite.ca/e/performance-by-mary-sui-yee-wong-and-](https://www.eventbrite.ca/e/performance-by-mary-sui-yee-wong-and-)
 curatorial-tour-with-zoe-chan-tickets-1301241942679
 
 Mary Sui Yee Wong activates her most recent artwork with an intimate live
@@ -22,7 +22,7 @@ performance followed by a tour of Wong's exhibition Restless by Nature: 1990s to
 Present.
 
 Free admission, everyone welcome to attend.
-RSVP encouraged. https://www.richmondartgallery.org/performance_wong
+RSVP encouraged. [https://www.richmondartgallery.org/performance_wong](https://www.richmondartgallery.org/performance_wong)
 
 About the Artist:
 Mary Sui Yee Wong is a Montral-based multidisciplinary artist who immigrated to

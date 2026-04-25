@@ -36,4 +36,4 @@ Fax: (867) 393-6300
 gallery@yac.ca
 
 
-http://http://yukonartscentre.com/gallery.htm
+[http://http://yukonartscentre.com/gallery.htm](http://http://yukonartscentre.com/gallery.htm)

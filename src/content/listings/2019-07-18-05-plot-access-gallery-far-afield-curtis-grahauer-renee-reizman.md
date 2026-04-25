@@ -34,7 +34,7 @@ presented his short film Tidal Pool for Platforms: Coastal City, a public art pr
 City of Vancouver. He has participated in residencies in Dawson City, Reykjavk, and 
 Sointula, and currently lives in Kelowna, British Columbia.
 
-http://www.curtisgrahauer.com/
+[http://www.curtisgrahauer.com/](http://www.curtisgrahauer.com/)
 
 Rene Reizman is an interdisciplinary curator, artist, and writer at the crossroads of 
 curation, social practice, and critical spatial practice. She conducts long-term research 
@@ -43,7 +43,7 @@ technology. Rene embeds herself in communities to identify object-oriented netwo
 that shape culture and society. She holds an MFA in Critical and Curatorial Studies from 
 University of California, Irvine.
 
-https://reneereizman.com/
+[https://reneereizman.com/](https://reneereizman.com/)
 
 This talk takes place as part of the multifaceted research creation project, Under the 
 Beating Sun, From Summer to Summer, presented by Far Afield at Access Gallery's 

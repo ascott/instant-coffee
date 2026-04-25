@@ -12,7 +12,7 @@ DIM Cinema at the Pacific Cinematheque
 Luke Fowler: All Divided Selves
 Monday May 27, 2013 - 6:30pm + 8:30pm (Double Bill)
 1131 Howe St. Vancouver 
-http://www.dimcinema.ca / http://www.thecinematheque.ca
+[http://www.dimcinema.ca](http://www.dimcinema.ca) / [http://www.thecinematheque.ca](http://www.thecinematheque.ca)
 
 “His work is unashamedly polemical, but the polemic is in favour of the 
 proposition that the same discontinuities, paradoxes and breakdowns 

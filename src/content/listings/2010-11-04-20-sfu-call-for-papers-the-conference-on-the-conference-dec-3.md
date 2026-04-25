@@ -20,7 +20,7 @@ Contemporary Arts Graduate Candidate's Symposium/Exhibition
 
 Vancouver, BC. Canada
 
-http://theconferenceontheconference.ca/
+[http://theconferenceontheconference.ca/](http://theconferenceontheconference.ca/)
 
 Call
 for Papers: The Conference on The Conference
@@ -88,4 +88,4 @@ symposium/exhibition organizing committee can reserve affordable hotel
 rooms nearby the conference site. For more information on the
 symposium/exhibition also contact: submissions@theconferenceontheconference.ca
 
-For full details see: http://theconferenceontheconference.ca/
+For full details see: [http://theconferenceontheconference.ca/](http://theconferenceontheconference.ca/)

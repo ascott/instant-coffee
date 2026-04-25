@@ -15,7 +15,7 @@ booked the best in local performers and professional artists set against the bea
 Deer Lake Park. The Festival activities are surrounded by majestic trees and park on
 nearby Deer Lake, Burnaby.
 
-http://www.burnabyartscouncil.org/
+[http://www.burnabyartscouncil.org/](http://www.burnabyartscouncil.org/)
 
 6584 Deer Lake Avenue
 Burnaby, BC V5G 3T7

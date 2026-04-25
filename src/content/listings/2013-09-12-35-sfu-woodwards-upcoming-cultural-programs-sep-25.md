@@ -17,7 +17,7 @@ Russell Wallace
 September 25, 2013 | 7:00-9:00 PM.
 SFU's Goldcorp Centre for the Arts, 149 W. Hastings St. sfuwoodwards.ca
 
-Direct link: http://sfuwoodwards.ca/index.php/events/details/coast-salish-
+Direct link: [http://sfuwoodwards.ca/index.php/events/details/coast-salish-](http://sfuwoodwards.ca/index.php/events/details/coast-salish-)
 drumming-workshop-march-2013
 
 ---
@@ -30,7 +30,7 @@ West Asia. Hosted with Centre A and SFU Woodward's
 Thursday, September 19th, 2013, 7:00 PM. Free admission.
 SFU's Goldcorp Centre for the Arts, 149 W. Hastings St. sfuwoodwards.ca
 
-Direct link: http://sfuwoodwards.ca/index.php/events/details/centre-a-visiting-
+Direct link: [http://sfuwoodwards.ca/index.php/events/details/centre-a-visiting-](http://sfuwoodwards.ca/index.php/events/details/centre-a-visiting-)
 international-speaker-hammad-nasar-head-of-research-progr
 
 ---
@@ -42,11 +42,11 @@ girl group learns about love, friendship and war when entertaining the U.S.
 troops in Vietnam in 1968. PG-13.
 September 19, 2013 | Doors open 6:45, presentations 7:15, film starts 7:30. 
 All proceeds from this screening benefit the Passion Foundation.
-Tickets: Advance $12/$10 at https://reelcausesthesapphires.eventbrite.ca. 
+Tickets: Advance $12/$10 at [https://reelcausesthesapphires.eventbrite.ca](https://reelcausesthesapphires.eventbrite.ca). 
 Door: $15/$13.
 SFU's Goldcorp Centre for the Arts, 149 W. Hastings St. sfuwoodwards.ca
 
-Direct link; http://sfuwoodwards.ca/index.php/events/details/reel-causes-the-
+Direct link; [http://sfuwoodwards.ca/index.php/events/details/reel-causes-the-](http://sfuwoodwards.ca/index.php/events/details/reel-causes-the-)
 sapphires
 
 ---
@@ -60,7 +60,7 @@ Sunday, September 22, 2013 | 7:30 PM. Tickets: $25 general | $20
 student/seniors.
 SFU's Goldcorp Centre for the Arts, 149 W. Hastings St. sfuwoodwards.ca
 
-Direct link: http://sfuwoodwards.ca/index.php/events/details/marcel-duchamp-
+Direct link: [http://sfuwoodwards.ca/index.php/events/details/marcel-duchamp-](http://sfuwoodwards.ca/index.php/events/details/marcel-duchamp-)
 with-frederic-cherbuf
 
 ---
@@ -74,7 +74,7 @@ experience of upcoming DanceHouse presentations.
 Tuesday, September 24, 2013 | 7:00 PM
 SFU's Goldcorp Centre for the Arts, 149 W. Hastings St. sfuwoodwards.ca
 
-Direct link: http://sfuwoodwards.ca/index.php/events/details/speaking-of-
+Direct link: [http://sfuwoodwards.ca/index.php/events/details/speaking-of-](http://sfuwoodwards.ca/index.php/events/details/speaking-of-)
 dance-with-jim-smith-of-dancehouse-vancouver-and-janet-smith-of
 
 ---
@@ -87,7 +87,7 @@ Dogs of the Perimeter. Free
 September 27, 2013 | 7:00 - 9:00 PM (Doors open at 6:45). SFU's Goldcorp 
 Centre for the Arts, 149 W. Hastings St. sfuwoodwards.ca
 
-http://sfuwoodwards.ca/index.php/events/details/the-sfu-department-of-
+[http://sfuwoodwards.ca/index.php/events/details/the-sfu-department-of-](http://sfuwoodwards.ca/index.php/events/details/the-sfu-department-of-)
 english-writer-in-residence-inaugural-reading-by-made
 
 ---
@@ -108,5 +108,5 @@ SFU Woodward's Cultural Programs
 Goldcorp Centre for the Arts
 Tel: 778-782-9223
 
-Website: http://www.sfuwoodwards.ca
+Website: [http://www.sfuwoodwards.ca](http://www.sfuwoodwards.ca)
 Twitter: @SFU_W | Facebook: SFU Woodward's

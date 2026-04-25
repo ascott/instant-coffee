@@ -21,7 +21,7 @@ current exhibition, Let the real world in.
 
 Everyone is welcome to join in the conversation.
 Free drop-in, registration not required but RSVP is appreciated.
-REGISTER: https://www.eventbrite.ca/e/rag-talkback-tour-with-daniella-barreto-
+REGISTER: [https://www.eventbrite.ca/e/rag-talkback-tour-with-daniella-barreto-](https://www.eventbrite.ca/e/rag-talkback-tour-with-daniella-barreto-)
 tickets-772557750027
 If the Eventbrite RSVP is full, please email ktycholis@richmond.ca
 to reserve your

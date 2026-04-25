@@ -11,7 +11,7 @@ summary: "Artscape Gibraltar Point | Call for Submissions: Alchemy | APR 15"
 OPEN CALL, deadline April 15: Join us on Toronto Island Aug 8-18,
 2016 to explore Alchemy: the intersection of artistic practice and the
 growing, cooking and sharing of food from our gardens. Link here for
-more information: http://artscapegibraltarpoint.ca/programmed-
+more information: [http://artscapegibraltarpoint.ca/programmed-](http://artscapegibraltarpoint.ca/programmed-)
 residency/alchemy-exploring-the-intersections-between-art-food/
 
 39. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing

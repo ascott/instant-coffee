@@ -19,4 +19,4 @@ For more details, please see the attached press release or visit our website:
 Naturescopic | Ferry Building Gallery
 
 
-https://ferrybuildinggallery.ca/exhibitions/nature
+[https://ferrybuildinggallery.ca/exhibitions/nature](https://ferrybuildinggallery.ca/exhibitions/nature)

@@ -27,8 +27,8 @@ visual artists, dancers, musicians, poets, choreographers, theatre
 artists, celebration artists, video artists, and performance artists,
 are invited to submit proposals. Application packages and community
 centre profiles are available on line at
-http://www.city.vancouver.bc.ca/Parks/arts/index.htm
-<http://www.city.vancouver.bc.ca/parks/arts/air.htm>
+[http://www.city.vancouver.bc.ca/Parks/arts/index.htm](http://www.city.vancouver.bc.ca/Parks/arts/index.htm)
+<[http://www.city.vancouver.bc.ca/parks/arts/air.htm](http://www.city.vancouver.bc.ca/parks/arts/air.htm)>
 
 The program provides: an artist's fee of $8,000; artist-intern
 fee of $2,000; and a materials budget of up to $2,000. After artists are
@@ -60,4 +60,4 @@ about the specific communities please call the contact people at the
 centres. For information about the program please contact Danita Noyes,
 Community Arts Programmer, danita.noyes@vancouver.ca 604-257-8496.
 
-http://www.city.vancouver.bc.ca/Parks/arts/index.htm
+[http://www.city.vancouver.bc.ca/Parks/arts/index.htm](http://www.city.vancouver.bc.ca/Parks/arts/index.htm)

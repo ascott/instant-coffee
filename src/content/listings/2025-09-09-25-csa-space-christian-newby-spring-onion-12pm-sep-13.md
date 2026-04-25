@@ -19,7 +19,7 @@ continues through to Saturday November 1st, 2025
 (to access, go to Pulp Fiction bookstore downstairs and ask for the key)
 #5-2414 Main St. Vancouver
 
-https://csaspace.blogspot.com/
+[https://csaspace.blogspot.com/](https://csaspace.blogspot.com/)
 
 Spring Onion is a suite of 3 textile works made by Christian Newby since the year
 2020. Using an industrial carpet making machine, he uses the carpet gun to make
@@ -28,5 +28,5 @@ years ago after completing his PhD at Kingston Universitys Contemporary Art
 Research Centre in London UK. Prior to this he got his MFA from Glasgow School of
 Art.
 
-https://christiannewby.com/
+[https://christiannewby.com/](https://christiannewby.com/)
 IG @newbychrist

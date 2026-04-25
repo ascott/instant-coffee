@@ -15,7 +15,7 @@ soundscapes with bold synthetic textures.
 Doors at 6:30pm
 Show at 7pm
 RSVPs are appreciated
-RSVP here: https://thepolygon.ca/event/the-error-curve-b-michaael-listening-party/
+RSVP here: [https://thepolygon.ca/event/the-error-curve-b-michaael-listening-party/](https://thepolygon.ca/event/the-error-curve-b-michaael-listening-party/)
 
 Branton Olfert, known professionally as B.Michaael, is a Vancouver-based composer,
 producer, and sound artist whose work explores the intersection of synthetic and

@@ -25,7 +25,7 @@ Artist Yvette Poorter and gallerist Annette Witteman will present a screening/ta
 
 Availability is limited, so ACT NOW. DEADLINE:	June 7, 2008 
 
-For more information, check out the website at: http://thisneckofthewoods.net (follow link to Knock on Woods for specifics of the para-site residency and recent hosts/residents). 
+For more information, check out the website at: [http://thisneckofthewoods.net](http://thisneckofthewoods.net) (follow link to Knock on Woods for specifics of the para-site residency and recent hosts/residents). 
 
 Or contact:  Yvette Poorter at tnotw@yahoo.ca
 

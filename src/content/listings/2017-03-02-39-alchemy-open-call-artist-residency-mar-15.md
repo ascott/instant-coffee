@@ -48,7 +48,7 @@ automobile. The "County" is known for its strong agricultural roots, a thriving 
 and cultural community, outstanding natural beauty and farm to table cuisine. It 
 is Ontario's fastest growing wine region and the home of Sandbanks Provincial 
 Park, the world's largest freshwater sandbar. For more about our location: 
-http://prince-edward-county.com
+[http://prince-edward-county.com](http://prince-edward-county.com)
 
 Cost plus taxes: $1175.00 for private bedroom, or $1050.00 for shared bedroom 
 (fee includes accommodation, shared dinners, work space, artist talks and 

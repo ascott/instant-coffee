@@ -37,5 +37,5 @@ stories in a visual language that thread together in continuous dialogue. She
 references real and imagined places, creating dreamlike compositions that seek
 what is not always obvious, and attempt to leave space for the unknown.
 
-https://www.ellamacqueen-denz.com/
-https://portalpopupgallery.square.site/
+[https://www.ellamacqueen-denz.com/](https://www.ellamacqueen-denz.com/)
+[https://portalpopupgallery.square.site/](https://portalpopupgallery.square.site/)

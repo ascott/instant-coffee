@@ -38,7 +38,7 @@ xmkwy"m (Musqueam), Skwxw7mesh (Squamish), St:l and Sl"lwta"/Selilwitulh
 
 THE IDEAL CANDIDATE 
 qualifies for Young Canada Works as a new graduate (within 2 years) 
-http://canada.pch.gc.ca/eng/1459433313024
+[http://canada.pch.gc.ca/eng/1459433313024](http://canada.pch.gc.ca/eng/1459433313024)
 
 and has: 
 effective communication and writing skills;

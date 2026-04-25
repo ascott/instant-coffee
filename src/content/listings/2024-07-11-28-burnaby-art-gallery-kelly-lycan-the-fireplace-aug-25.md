@@ -83,7 +83,7 @@ storylines. This workshop is a writing
 workshop " students will not be improvising or performing. 18+ only. Maximum
 capacity: 16. Tickets: $150 at www.theimprovcentre.ca
 
-Media can download publicity images at https://shorturl.at/Tfhe1.
+Media can download publicity images at [https://shorturl.at/Tfhe1](https://shorturl.at/Tfhe1).
 
 For more information on The Improv Centre, please visit www.theimprovcentre.ca.
 
@@ -103,4 +103,4 @@ proud member of the International Theatresports Institute. Our administrative
 office, 186-seat theatre, and fully-licensed bar, lounge, and waterfront patio are
 located on Granville Island.
 
-http://www.theimprovcentre.ca
+[http://www.theimprovcentre.ca](http://www.theimprovcentre.ca)

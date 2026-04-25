@@ -24,4 +24,4 @@ investigations in visual culture and the arts will be reviewed and considered.
 Submissions will be accepted until March 15 2015, 23:59 PST.
 
 More
-http://cmajournal.ca/call-for-submissions/
+[http://cmajournal.ca/call-for-submissions/](http://cmajournal.ca/call-for-submissions/)

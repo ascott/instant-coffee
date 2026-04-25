@@ -8,12 +8,12 @@ venue: "Emily Carr University"
 summary: "Emily Carr University | Brendan Tang | JAN 12"
 ---
 
-Visual Art Forums | Brendan Tang (http://www.ecuad.ca/about/events/319048)
+Visual Art Forums | Brendan Tang ([http://www.ecuad.ca/about/events/319048](http://www.ecuad.ca/about/events/319048))
 Artist Talk
 Monday, January 12, 2015 | 6pm
 ECU Lecture Theatre | Room 301, South Building
-Add event to calendar (http://ate.so/?aDh8oxU)
-http://www.ecuad.ca/about/events/317184
+Add event to calendar ([http://ate.so/?aDh8oxU](http://ate.so/?aDh8oxU))
+[http://www.ecuad.ca/about/events/317184](http://www.ecuad.ca/about/events/317184)
 
 Join us for an Artist Talk by Brendan Tang, Visiting Artist in Ceramics in
 the Faculty of Visual Art + Material Practice. Brendan LS Tang was born in

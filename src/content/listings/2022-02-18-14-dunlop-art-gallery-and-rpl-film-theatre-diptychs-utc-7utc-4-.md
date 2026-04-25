@@ -30,4 +30,4 @@ Tomas
 Pronouns: he, him, his
 Curator of Performance and Moving Image, Dunlop Art Gallery and RPL Film Theatre
 Regina Public Library
-https://www.reginalibrary.ca/dunlop-art-gallery
+[https://www.reginalibrary.ca/dunlop-art-gallery](https://www.reginalibrary.ca/dunlop-art-gallery)

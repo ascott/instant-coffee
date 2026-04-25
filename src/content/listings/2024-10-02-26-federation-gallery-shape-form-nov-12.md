@@ -15,8 +15,8 @@ sculpture submissions.
 Open to artworks of any size, subjects, and styles
 Open to available, sold and not for sale artwork.
 
-Painting submission link: https://artists.ca/submissions/view/id/1937
-Sculpture submission link: https://artists.ca/submissions/view/id/1938
+Painting submission link: [https://artists.ca/submissions/view/id/1937](https://artists.ca/submissions/view/id/1937)
+Sculpture submission link: [https://artists.ca/submissions/view/id/1938](https://artists.ca/submissions/view/id/1938)
 
 About the FCA:
 The Federation of Canadian Artists (FCA) is a registered charity founded in 1941 by

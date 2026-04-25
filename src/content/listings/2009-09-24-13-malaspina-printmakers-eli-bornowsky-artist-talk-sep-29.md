@@ -53,4 +53,4 @@ Vancouver, BC V6H 3S3
 malaspinagallery@telus.net
 
 
-http://www.malaspinaprintmakers.com
+[http://www.malaspinaprintmakers.com](http://www.malaspinaprintmakers.com)

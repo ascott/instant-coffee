@@ -40,4 +40,4 @@ With support from the Audain Endowment for Curatorial Studies through the
 Department of Art History, Visual Art and Theory in collaboration with the Morris and
 Helen Belkin Art Gallery at the University of British Columbia.
 
-See events and guided tours here: https://westvancouverartmuseum.ca/events
+See events and guided tours here: [https://westvancouverartmuseum.ca/events](https://westvancouverartmuseum.ca/events)

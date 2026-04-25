@@ -29,4 +29,4 @@ any cards left!
 
 This show is produced and curated by Chris Bentzen and Jim Hoehnle.
 
-http://www.hotartcard.com for more details.
+[http://www.hotartcard.com](http://www.hotartcard.com) for more details.

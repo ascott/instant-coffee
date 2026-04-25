@@ -39,7 +39,7 @@ or senior artists.
 
 For more information about eligibility and how to apply:
 www.submissions.casv.ca
-http://www.casv.ca/emerging-artists-prize
+[http://www.casv.ca/emerging-artists-prize](http://www.casv.ca/emerging-artists-prize)
 or email: info@casv.ca
 
 48. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing

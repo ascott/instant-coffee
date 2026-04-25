@@ -23,8 +23,8 @@ seed, youll explore the beginning process of writing a poem. No prior experience
 poetry writing is necessary to participate.
 
 Details: June 3rd from 4-5pm PT. Online.
-Register for the intro: https://form.jotform.com/250286733923259
+Register for the intro: [https://form.jotform.com/250286733923259](https://form.jotform.com/250286733923259)
 
 *This free intro is for an 8-week online poetry writing workshop starting June 17th.
-Learn about the series here: https://9creativelives.com/classes/breathe-into-poetry-
+Learn about the series here: [https://9creativelives.com/classes/breathe-into-poetry-](https://9creativelives.com/classes/breathe-into-poetry-)
 writing/workshops/metaphor-and-renewal-series/

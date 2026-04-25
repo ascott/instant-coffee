@@ -38,7 +38,7 @@ career in the cultural sector or as an administrator, this is a great opportunit
 learn all aspects of nonprofit operations and hone your skills!
 
 For the full job posting and instructions on how to apply, visit: 
-https://bit.ly/2E96hXY
+[https://bit.ly/2E96hXY](https://bit.ly/2E96hXY)
 
 Accessibility Coordinator (closing August 30)
 Part-Time Contract | Remote Work | Salary $18/hr
@@ -52,4 +52,4 @@ technology-mediated experiences within the arts sector and
 beyond.
 
 For the full job posting and instructions on how to apply, visit: 
-https://bit.ly/2E7CX45
+[https://bit.ly/2E7CX45](https://bit.ly/2E7CX45)

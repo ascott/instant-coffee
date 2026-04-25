@@ -12,11 +12,11 @@ ISEA2015 - CALL FOR PROPOSALS: ARTWORKS
 
 This is the ISEA2015 call for artworks and performances. Additional CFPs 
 for papers, notes, short papers/posters and panels, workshops and 
-tutorials, can be found at http://isea2015.org/.
+tutorials, can be found at [http://isea2015.org/](http://isea2015.org/).
 
 The 21st International Symposium on Electronic Art invites proposals. We 
 ask that you consider the ISEA2015 theme of Disruption 
-http://isea2015.org/about/theme/. Submissions may take the Symposium 
+[http://isea2015.org/about/theme/](http://isea2015.org/about/theme/). Submissions may take the Symposium 
 sub-themes into consideration or may think beyond them under the 
 overarching theme of disruption.
 

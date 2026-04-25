@@ -23,7 +23,7 @@ Orcana & prOphecy sun.
 July 30th and 31st, 7.30pm till late at Selectors' Records, 8 E 
 Pender St, Vancouver, BC V6A 3V6.
 
-Tickets: https://www.eventbrite.ca/e/tidal-signal-tickets-
+Tickets: [https://www.eventbrite.ca/e/tidal-signal-tickets-](https://www.eventbrite.ca/e/tidal-signal-tickets-)
 26380322254 
 
 Or $10-15 sliding scale on the door
@@ -32,6 +32,6 @@ Or $10-15 sliding scale on the door
 
 For more info:
 
-https://yawnsafissure.wordpress.com/
+[https://yawnsafissure.wordpress.com/](https://yawnsafissure.wordpress.com/)
 
-https://www.facebook.com/events/633885966767812/
+[https://www.facebook.com/events/633885966767812/](https://www.facebook.com/events/633885966767812/)

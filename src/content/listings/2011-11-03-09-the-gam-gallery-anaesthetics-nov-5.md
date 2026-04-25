@@ -56,6 +56,6 @@ Visual Art and Theory at The University of British Columbia.
 The Gam Gallery
 110 E Hastings St. Vancouver BC, Canada, V6A 1N4
 thegam@live.com
-http://www.gamgallery.com
+[http://www.gamgallery.com](http://www.gamgallery.com)
 
 h. tues, thurs, fri & sat 1 to 5 pm

@@ -26,5 +26,5 @@ $5 at the door
 BYOB
 
 More info:
-http://overmindproductions.com/new-studio-grand-opening/
-http://www.facebook.com/event.php?eid=184501924925313
+[http://overmindproductions.com/new-studio-grand-opening/](http://overmindproductions.com/new-studio-grand-opening/)
+[http://www.facebook.com/event.php?eid=184501924925313](http://www.facebook.com/event.php?eid=184501924925313)

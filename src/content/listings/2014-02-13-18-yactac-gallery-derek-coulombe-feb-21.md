@@ -26,7 +26,7 @@ a dialogue on the nature of architectural space, the implications of entropy,
 and pictorial abstraction. Slow Rooms is a visual exploration of swimming 
 pools and other domestically contained bodies of water.
 
-http://www.yactac.com
+[http://www.yactac.com](http://www.yactac.com)
 yactacgallery@gmail.com
 Look us up on facebook and twitter.
 

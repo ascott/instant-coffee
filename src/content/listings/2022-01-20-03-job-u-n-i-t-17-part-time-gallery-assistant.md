@@ -12,7 +12,7 @@ Unit
 17 is seeking applicants for a part-time gallery assistant to begin February 2022.
 
 For more information please visit the link below:
-https://bit.ly/3tAfMar
+[https://bit.ly/3tAfMar](https://bit.ly/3tAfMar)
 
 U N I T 17
 2954 West 4th Avenue

@@ -28,7 +28,7 @@ processes, the development of collaborative skills or an artwork, which in
 some form remains in the community.
 
 For more information and submission guidelines:
-http://roundhouse.ca/events/sott-2015-residency-call-for-artists/
+[http://roundhouse.ca/events/sott-2015-residency-call-for-artists/](http://roundhouse.ca/events/sott-2015-residency-call-for-artists/)
 
 For questions regarding the submission requirements or process, contact
 Cyndy Chwelos by email at cyndy.chwelos@vancouver.ca

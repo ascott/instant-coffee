@@ -47,7 +47,7 @@ ongoing investigations of the growing, making, preserving, celebrating,
 and sharing of food.
 
 For more information or questions about Alchemy programming visit:
-https://makealchemy.com/or contact: claire@makealchemy.com
+[https://makealchemy.com/or](https://makealchemy.com/or) contact: claire@makealchemy.com
 
 DISCIPLINES, WORK EQUIPMENT & ASSISTANCE
 
@@ -87,7 +87,7 @@ TO APPLY
 
 Fill out an application
 at www.artscapegibraltarpoint.ca. The link to the
-application page is: http://artscapegibraltarpoint.ca/artist-
+application page is: [http://artscapegibraltarpoint.ca/artist-](http://artscapegibraltarpoint.ca/artist-)
 residences/book-a-residency// Please clearly indicate that you are
 applying to Alchemy Island 2020. Applicants are required to provide a link to their web
 site, an artist CV and :

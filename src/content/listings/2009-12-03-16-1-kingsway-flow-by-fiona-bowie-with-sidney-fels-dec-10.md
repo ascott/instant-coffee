@@ -36,7 +36,7 @@ from translucent to clear.
 
 For those in other cities or otherwise unable to attend the opening, there
 will be a live feed set up at the projects website.
-http://flow1kingsway.com/
+[http://flow1kingsway.com/](http://flow1kingsway.com/)
 
 As well as mixing at 1 Kingsway, guests are invited over to Gene cafe
 across the street for a good vantage point (they have good coffee too).
@@ -69,4 +69,4 @@ the projection surface switches from translucent to clear.
 
 For those in other cities or otherwise unable to attend the opening,
 there will be a live feed set up at the projects website.
-http://flow1kingsway.com/
+[http://flow1kingsway.com/](http://flow1kingsway.com/)

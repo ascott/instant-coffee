@@ -15,4 +15,4 @@ Six-Day, Art for Social Change (ASC) Summer Intensive Workshop
  the arts and creativity as ways to help create social, environmental and 
  political change. 
 
- Details & registration here: http://ow.ly/yerTm
+ Details & registration here: [http://ow.ly/yerTm](http://ow.ly/yerTm)

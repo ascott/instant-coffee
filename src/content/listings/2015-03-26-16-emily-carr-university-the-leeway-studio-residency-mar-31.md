@@ -49,11 +49,11 @@ access (wood, metal, print)].
 
 How to Apply
 
-Visit http://blogs.eciad.ca/leeway/studio-residency/ to complete an
+Visit [http://blogs.eciad.ca/leeway/studio-residency/](http://blogs.eciad.ca/leeway/studio-residency/) to complete an
 application form via slideroom.com
 
 Deadline for Summer Term Residency: March 31, 2015
 
 For more information:
 Email: theleeway@ecuad.ca
-http://blogs.eciad.ca/leeway/
+[http://blogs.eciad.ca/leeway/](http://blogs.eciad.ca/leeway/)

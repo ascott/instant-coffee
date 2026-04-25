@@ -40,4 +40,4 @@ latest book of
 poetry, titled lettuce lettuce please go bad, was published by Talon
 Books in April 2024.
 
-https://orgallery.org/exhibitions-projects/country-mouse-city-mouse-hamster/
+[https://orgallery.org/exhibitions-projects/country-mouse-city-mouse-hamster/](https://orgallery.org/exhibitions-projects/country-mouse-city-mouse-hamster/)

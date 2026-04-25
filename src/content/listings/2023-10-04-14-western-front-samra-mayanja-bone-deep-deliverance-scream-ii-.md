@@ -40,7 +40,7 @@ alto saxophonist Andromeda Monk.
 A presentation of the performance will also be held on Oct, 13, 2023 at 6:00 p.m. in
 EDAMs ground floor studio space that is accessible to wheelchair users.
 
-Visit our website for more information: https://westernfront.ca/events/bone-deep-
+Visit our website for more information: [https://westernfront.ca/events/bone-deep-](https://westernfront.ca/events/bone-deep-)
 deliverance-scream-ii
 
 Western Front

@@ -28,8 +28,8 @@ FEB 27, 28 MAR 6, 7, 13, 14, 20, 21 APR 3, 4
 
 Book your tickets here!
 
-https://www.zeffy.com/en-CA/ticketing/counterclockwork
+[https://www.zeffy.com/en-CA/ticketing/counterclockwork](https://www.zeffy.com/en-CA/ticketing/counterclockwork)
 
-https://leakyheaven.com/counterclockwork/
+[https://leakyheaven.com/counterclockwork/](https://leakyheaven.com/counterclockwork/)
 
 Some may experience vertigo and/or claustrophobia.

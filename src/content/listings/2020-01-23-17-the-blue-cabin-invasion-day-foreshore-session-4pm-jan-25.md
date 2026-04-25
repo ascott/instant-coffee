@@ -17,7 +17,7 @@ January 25th, 4pm-5:30pm at the Blue Cabin
 (Aquabus Ferry Dock at Plaza of Nations, 750 Pacific Boulevard, Vancouver)
 
 Accessibility: Info can
-be found at: https://thebluecabin.ca/faq/ or email
+be found at: [https://thebluecabin.ca/faq/](https://thebluecabin.ca/faq/) or email
 sunshine@othersights.ca
 
 Other Sights in collaboration with Blue Cabin present Invasion Day, a Foreshore
@@ -71,8 +71,8 @@ following organisations:
 Fire Relief Fund for First Nations Communities and First Nations Fire Knowledge Land
 Lore
 
-https://www.gofundme.com/f/fire-relief-fund-for-first-nations-communities
-https://ca.gofundme.com/f/first-nations-fire-knowledge-land-lore
+[https://www.gofundme.com/f/fire-relief-fund-for-first-nations-communities](https://www.gofundme.com/f/fire-relief-fund-for-first-nations-communities)
+[https://ca.gofundme.com/f/first-nations-fire-knowledge-land-lore](https://ca.gofundme.com/f/first-nations-fire-knowledge-land-lore)
 
 Related Programs:
 

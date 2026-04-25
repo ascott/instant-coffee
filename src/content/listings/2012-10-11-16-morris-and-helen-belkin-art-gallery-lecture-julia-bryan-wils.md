@@ -107,7 +107,7 @@ Morris/Trasov Archive is housed at the Belkin Art Gallery and contains
 over 10,000 items dating predominantly from 1969 to 1974 and is 
 related to the international art networks cultivated by Morris and 
 Trasov. For more information on the Morris/Trasov Archive or to view 
-the collection, go to http://www.belkin.ubc.ca/morris-trasov/morris-
+the collection, go to [http://www.belkin.ubc.ca/morris-trasov/morris-](http://www.belkin.ubc.ca/morris-trasov/morris-)
 trasov-archive
 
 Fiftieth Anniversary of Fluxus is a collaboration of the Morris and Helen 

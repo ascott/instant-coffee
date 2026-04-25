@@ -28,7 +28,7 @@ instagram.com/ovila79
 Tune in on Thursday October 22nd from 12:15-1pm. The Zoom link will be available via
 the grunt gallery Facebook page!
 
-https://www.facebook.com/gruntgallery
+[https://www.facebook.com/gruntgallery](https://www.facebook.com/gruntgallery)
 
 Spark Talks are presented by grunt gallery. This season of artist talks is curated by
 Alanna Irene Edwards.

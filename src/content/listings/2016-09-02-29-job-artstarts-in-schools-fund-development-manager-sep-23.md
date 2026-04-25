@@ -19,5 +19,5 @@ time salaried position based in Vancouver, BC, that reports directly to
 the Executive Director. The deadline to apply is Friday, September 23, 
 2016. Applicants are encouraged to apply early as submissions will be 
 reviewed as they are received. Learn more at 
-http://artstarts.com/stories/artstarts-job-fund-development-manager-
+[http://artstarts.com/stories/artstarts-job-fund-development-manager-](http://artstarts.com/stories/artstarts-job-fund-development-manager-)
 2016

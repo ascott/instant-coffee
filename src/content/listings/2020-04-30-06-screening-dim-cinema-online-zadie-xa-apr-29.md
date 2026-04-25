@@ -26,7 +26,7 @@ The program will begin with a conversation between guest curator Tobin Gibson an
 Zadie Xa.
 
 The virtual screening link will go live on The Cinematheque website on April 29:
-https://thecinematheque.ca/films/2020/zadie-xa
+[https://thecinematheque.ca/films/2020/zadie-xa](https://thecinematheque.ca/films/2020/zadie-xa)
 
 Child of Magohalmi and the Echos of Creation
 2019 50 min. HD video

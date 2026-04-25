@@ -21,4 +21,4 @@ fundraising, human resources, communications, cybersecurity, public art, placema
 community engagement
 
 Thanks for your consideration!
-https://stepspublicart.org/about/careers/board/
+[https://stepspublicart.org/about/careers/board/](https://stepspublicart.org/about/careers/board/)

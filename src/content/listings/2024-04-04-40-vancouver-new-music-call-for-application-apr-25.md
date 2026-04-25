@@ -12,7 +12,7 @@ Vancouver New Music
 Call for application
 On Curation " Mentorship Project
 Application deadline: April 25, 2024, 5pm PDT
-Apply here: https://newmusic.org/on-curation/
+Apply here: [https://newmusic.org/on-curation/](https://newmusic.org/on-curation/)
 
 Program description
 Vancouver New Musics On Curation Mentorship Project aims to develop and sustain
@@ -48,4 +48,4 @@ encourage applications from curators who are part of underrepresented and equity
 seeking communities.
 If you have any questions about the mentorship or application process please contact
 us at mentorship@newmusic.org
-More info and application form here: https://newmusic.org/on-curation/
+More info and application form here: [https://newmusic.org/on-curation/](https://newmusic.org/on-curation/)

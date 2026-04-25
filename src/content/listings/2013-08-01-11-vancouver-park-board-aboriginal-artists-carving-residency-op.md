@@ -35,7 +35,7 @@ throughout Vancouver.
 “To promote reconciliation by engaging Canadians in dialogue that 
 revitalizes the relationships between Aboriginal peoples and all 
 Canadians in order to build resilience.” - From the Reconciliation 
-website (http://reconciliationcanada.ca/about/vision-purpose-values/)
+website ([http://reconciliationcanada.ca/about/vision-purpose-values/](http://reconciliationcanada.ca/about/vision-purpose-values/))
 
 The artist will work in the Grandview-Woodlands Community to 
 enhance understanding of First Nations carving techniques, both 

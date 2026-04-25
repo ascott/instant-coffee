@@ -123,7 +123,7 @@ Masterclasses
 Rosario Ancer (Flamenco Rosario) Sep 18 |6pm-7:30pm
 Introduction to Flamenco
 Registration| Free
-https://www.zeffy.com/en-CA/ticketing/85f58328-11db-448b-95c3-965b188af4f1
+[https://www.zeffy.com/en-CA/ticketing/85f58328-11db-448b-95c3-965b188af4f1](https://www.zeffy.com/en-CA/ticketing/85f58328-11db-448b-95c3-965b188af4f1)
 Let us introduce you to the Art of Flamenco. For people with no or little flamenco
 training. No shoes need it, bring comfortable clothing. An overall view of flamenco
 techniques: Comps (flamenco rhythm), Zapateado (basic footwork) Palmas (hand
@@ -132,7 +132,7 @@ clapping), Braceo (arm and hand work) and a short dance sequence that includes i
 Myriam Allard (La Otra Orilla) Sep 23 | 11am1pm
 IntermediateAdvanced
 Registration | General $80.00 Members $70.00 (GST included)
-https://www.zeffy.com/en-CA/ticketing/bab613e2-fab7-4063-b24b-69f4bf0057d5
+[https://www.zeffy.com/en-CA/ticketing/bab613e2-fab7-4063-b24b-69f4bf0057d5](https://www.zeffy.com/en-CA/ticketing/bab613e2-fab7-4063-b24b-69f4bf0057d5)
 Come and take a 2-hour masterclass with Myriam Allard, from the company La Otra
 Orilla (Montreal), intermediate and advanced levels.
 
@@ -162,7 +162,7 @@ Flamenco Rosario
 Festival Pass:
 If you are planning on buying tickets for multiple shows (excluding Rocio Molina) you
 might be interested in getting the Festival pass, for a 30% discount off of your total
-purchase: https://www.zeffy.com/en-CA/ticketing/33bc0669-a687-48d2-a524-
+purchase: [https://www.zeffy.com/en-CA/ticketing/33bc0669-a687-48d2-a524-](https://www.zeffy.com/en-CA/ticketing/33bc0669-a687-48d2-a524-)
 b37627fd8853
 
 About the Vancouver International Flamenco Festival (VIFF)
@@ -209,7 +209,7 @@ Executive Director of Rosario Ancer Flamenco Arts Society, continuing to pursue 
 dream of cultivating a flamenco legacy in honour of the late Victor Kolstee.
 
 Please visit the festival website for more info:
-http://www.vancouverflamencofestival.org/
+[http://www.vancouverflamencofestival.org/](http://www.vancouverflamencofestival.org/)
 
 Media Contact: Jodi Smith - JLS Entertainment: Ph 604.736.4939, cell 604.838.9844
 e-mail: jls@jlsentertainment.ca

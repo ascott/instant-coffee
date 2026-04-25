@@ -36,9 +36,9 @@ practices.
 This event is free and open to the public, but space is limited; to reserve a spot,
 email belkin.rsvp@ubc.ca. Off Script will be live-streamed.
 
-https://belkin.ubc.ca/events/off-script/
+[https://belkin.ubc.ca/events/off-script/](https://belkin.ubc.ca/events/off-script/)
 
 Morris and Helen Belkin Art Gallery
 1825 Main Mall, Vancouver, BC
-http://www.belkin.ubc.ca
+[http://www.belkin.ubc.ca](http://www.belkin.ubc.ca)
 Open 10-5 Tue-Fri, 12-5 Sat-Sun

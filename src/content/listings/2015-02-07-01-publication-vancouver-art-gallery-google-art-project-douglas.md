@@ -28,4 +28,4 @@ engage visitors from around the globe to consider what defines contemporary
 culture through the artworks of Douglas Coupland.” 
 (...)
 
-http://google.com/culturalinstitute/collection/vancouver-
+[http://google.com/culturalinstitute/collection/vancouver-](http://google.com/culturalinstitute/collection/vancouver-)

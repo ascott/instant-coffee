@@ -50,8 +50,8 @@ remarkably in the most diverse yet inclusive fashion possible. In the end
 the vision presented isn’t absolute or conclusive: it brings together both the 
 promise and legacy of Vancouver’s creative culture.
 
-View the full portfolio here: http://vnbphoto.com/vancouver-creatives/
+View the full portfolio here: [http://vnbphoto.com/vancouver-creatives/](http://vnbphoto.com/vancouver-creatives/)
 
-Facebook event: https://www.facebook.com/events/1424557197816218/
+Facebook event: [https://www.facebook.com/events/1424557197816218/](https://www.facebook.com/events/1424557197816218/)
 
-Website: http://vnbphoto.com
+Website: [http://vnbphoto.com](http://vnbphoto.com)

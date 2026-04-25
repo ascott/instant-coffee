@@ -31,6 +31,6 @@ within the context of community revitalization in ways that catalyze
 positive economic and social change, and enhance quality of life.
 
 For more information and submission guidelines:
-https://www.callforentry.org/festivals_unique_info.php?ID=2396&sortby=fair_name&apply=yes
+[https://www.callforentry.org/festivals_unique_info.php?ID=2396&sortby=fair_name&apply=yes](https://www.callforentry.org/festivals_unique_info.php?ID=2396&sortby=fair_name&apply=yes)
 
 Questions may be addressed to corridorpublicart@gmail.com

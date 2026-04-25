@@ -23,6 +23,6 @@ Preservation Program, as well as Senior Scientist for Digital Library Initiative
 Library.
 
 Listen here:
-https://thepolygon.ca/news/the-polygon-podcast-episode-11-featuring-the-archivists/
+[https://thepolygon.ca/news/the-polygon-podcast-episode-11-featuring-the-archivists/](https://thepolygon.ca/news/the-polygon-podcast-episode-11-featuring-the-archivists/)
 
 Or on iTunes, Spotify, and Google Podcasts.

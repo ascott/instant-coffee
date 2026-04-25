@@ -22,4 +22,4 @@ the landlord.
 Drop in between 12-6pm, and knock on the door of #305 Cambie St to 
 be let in by a studio attendant.
 
-http://www.alexandrabischoff.com
+[http://www.alexandrabischoff.com](http://www.alexandrabischoff.com)

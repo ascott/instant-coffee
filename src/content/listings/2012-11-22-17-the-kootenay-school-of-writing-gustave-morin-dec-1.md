@@ -86,13 +86,13 @@ Morin, Dorothy Trujillo Lusk and Catriona Strang.
 
 Links to work by Gustave Morin
 
-spaghetti dreadful : http://www.ubu.com/ubu/morin_spaghetti.html
+spaghetti dreadful : [http://www.ubu.com/ubu/morin_spaghetti.html](http://www.ubu.com/ubu/morin_spaghetti.html)
 
-otoliths : http://the-otolith.blogspot.ca/2011/07/gustave-morin_26.html
+otoliths : [http://the-otolith.blogspot.ca/2011/07/gustave-morin_26.html](http://the-otolith.blogspot.ca/2011/07/gustave-morin_26.html)
 
-http://the-otolith.blogspot.ca/2010/04/gustave-morin_19.html
+[http://the-otolith.blogspot.ca/2010/04/gustave-morin_19.html](http://the-otolith.blogspot.ca/2010/04/gustave-morin_19.html)
 
-carousel : http://blog.carouselmagazine.ca/3-books-by-gustave-morin-now-
+carousel : [http://blog.carouselmagazine.ca/3-books-by-gustave-morin-now-](http://blog.carouselmagazine.ca/3-books-by-gustave-morin-now-)
 available/
 
-word for word : http://www.wordforword.info/vol13/Morin.htm
+word for word : [http://www.wordforword.info/vol13/Morin.htm](http://www.wordforword.info/vol13/Morin.htm)

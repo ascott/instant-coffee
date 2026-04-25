@@ -36,7 +36,7 @@ completion, would be advantageous.
 It is anticipated that interviews will be held on 20 January 2014.
 We value diversity at Anglia Ruskin University and welcome applications from 
 all sections of the community.
-https://www24.i-grasp.com/fe/tpl_angliaruskin01.asp?newms=jj&id...
+[https://www24.i-grasp.com/fe/tpl_angliaruskin01.asp?newms=jj&id](https://www24.i-grasp.com/fe/tpl_angliaruskin01.asp?newms=jj&id)...
 
-http://culturgen.ning.com/profiles/blogs/lsl-fine-art-sculpture-installation-
+[http://culturgen.ning.com/profiles/blogs/lsl-fine-art-sculpture-installation-](http://culturgen.ning.com/profiles/blogs/lsl-fine-art-sculpture-installation-)
 anglia-ruskin-uni

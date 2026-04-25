@@ -33,7 +33,7 @@ between purity and hybridity, nature and technology, matter and memory,
 rhythm and stillness and spans a diversity of forms, including 35mm, 16mm,
 Super-8 and HD video.
 
-Full program: http://bit.ly/1OGTN7j
+Full program: [http://bit.ly/1OGTN7j](http://bit.ly/1OGTN7j)
 
 To celebrate their forthcoming 20th anniversary, Loop Collective will also
 be launching a new, limited edition monograph, featuring critical essays by

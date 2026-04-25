@@ -30,4 +30,4 @@ Hotam Press Gallery
 
 Vancouver BC V5T 1G5
 
-https://bookshopgallery.hotampress.com
+[https://bookshopgallery.hotampress.com](https://bookshopgallery.hotampress.com)

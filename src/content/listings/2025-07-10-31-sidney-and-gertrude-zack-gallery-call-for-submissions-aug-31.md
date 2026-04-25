@@ -21,5 +21,5 @@ All proposals must be submitted by August 31, 2025.
 To submit please fill out this form completely. Proposals submitted by email or with
 incomplete forms will not be considered.
 
-https://docs.google.com/forms/d/13j9v_zsaKMUGYaOPutG6PjrR6z74MGwwH_zMuSf
+[https://docs.google.com/forms/d/13j9v_zsaKMUGYaOPutG6PjrR6z74MGwwH_zMuSf](https://docs.google.com/forms/d/13j9v_zsaKMUGYaOPutG6PjrR6z74MGwwH_zMuSf)
 kf98/viewform?pli=1&pli=1&edit_requested=true

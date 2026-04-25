@@ -32,7 +32,7 @@ asylum, borders, family separation, and settler colonialism.
 
 Hotam Press Gallery
 218 East 4th Ave., Vancouver BC V5T 1G5
-https://bookshopgallery.hotampress.com
+[https://bookshopgallery.hotampress.com](https://bookshopgallery.hotampress.com)
 
 Gallery Hours: Friday & Saturday, March 20 to May 1, 2021
 
@@ -41,7 +41,7 @@ EDUCATION | VIVO [ONLINE WORKSHOP] | Small File Media Aesthetics & Politics | MA
 Small File Media Aesthetics & Politics -- online workshop
 
 More info and sign up at:
-https://smallfilemedia.eventbrite.ca
+[https://smallfilemedia.eventbrite.ca](https://smallfilemedia.eventbrite.ca)
 
 Make beautiful low-bandwidth movies that stream with no damage to the planet, with
 Laura Marks and Radek Przedpelski of the Small File Media Festival.

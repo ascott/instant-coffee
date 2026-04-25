@@ -34,4 +34,4 @@ www.squidproject.net
 mail@squidproject.net
 
 
-http://www.squidproject.net
+[http://www.squidproject.net](http://www.squidproject.net)

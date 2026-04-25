@@ -15,7 +15,7 @@ Cineworks Studio, 300-1131 Howe Street (lane entrance)
 Vancouver, British Columbia V6Z 2L7
 $40"$60 + taxes
 
-REGISTER: https://bit.ly/2tTW2i7
+REGISTER: [https://bit.ly/2tTW2i7](https://bit.ly/2tTW2i7)
 
 A 4 hour entry-level workshop introducing participants to the principles and practice of 
 exposing film with a Bolex 16mm film camera.
@@ -38,12 +38,12 @@ Film shot in this workshop will be processed at the Analogue Basics: Intro to Ha
 Processing workshop on Sunday Jul 22. If interested in both components (optional), please 
 register for the Hand Processing workshop via the following link:
 
-https://bit.ly/2MMZG4p
+[https://bit.ly/2MMZG4p](https://bit.ly/2MMZG4p)
 
 Discounts
 Please note: access to membership discounts can be obtained with a Cineworks General 
 Membership ($40 annually). Please call 604-685-3841 for details, or see 
-http://cineworks.ca/connect#join
+[http://cineworks.ca/connect#join](http://cineworks.ca/connect#join)
 
 Accessibility: this venue is wheelchair accessible, but we apologize that it has no accessible 
 washroom. An accessible washroom is available at Breka Bakery in our immediate 

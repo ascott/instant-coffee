@@ -22,4 +22,4 @@ posed a challenge of their own, one that everyone must urgently meet, especially
 new global warning forces all of humanity to embrace uncertain futures and profound
 change.
 
-Find out more: https://thepolygon.ca/
+Find out more: [https://thepolygon.ca/](https://thepolygon.ca/)

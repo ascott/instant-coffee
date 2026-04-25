@@ -72,4 +72,4 @@ supported the provinces ceramic community through his leadership roles in
 the North-West Ceramics foundation and the Potters Guild of British Columbia.
 
 For more information about Satellite Gallery, go to
-http://www.satellitegallery.ca
+[http://www.satellitegallery.ca](http://www.satellitegallery.ca)

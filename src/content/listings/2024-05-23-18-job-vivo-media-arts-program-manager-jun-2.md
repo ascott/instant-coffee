@@ -18,7 +18,7 @@ weekend work would be required
 with notice.
 Compensation: $48,256 - $51,584 salary commensurate with experience
 Benefits: Health and Dental Coverage (50% employer paid), six weeks paid vacation
-More info: https://www.vivomediaarts.com/work-with-vivo
+More info: [https://www.vivomediaarts.com/work-with-vivo](https://www.vivomediaarts.com/work-with-vivo)
 
 VIVO Media Arts Centre (VIVO) is a settler-founded and operated organization
 located on the stolen, sacred and ancestral territories of the xmky"m
@@ -63,4 +63,4 @@ While we thank all candidates for their interest, only those short-listed will b
 contacted. If you have any questions, please email the General Manager
 (admin@vivomediaarts.com).
 
-Full job description: https://www.vivomediaarts.com/work-with-vivo
+Full job description: [https://www.vivomediaarts.com/work-with-vivo](https://www.vivomediaarts.com/work-with-vivo)

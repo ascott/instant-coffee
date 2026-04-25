@@ -11,7 +11,7 @@ summary: "Renegade Arts Company | Currently accepting submissions | OCT 4"
 ART + MUSIC SHOW ALL DAY EVENT!
 **Currently accepting submissions**
 
-event link: https://www.facebook.com/events/1472965246291661/
+event link: [https://www.facebook.com/events/1472965246291661/](https://www.facebook.com/events/1472965246291661/)
 
 Renegade Arts Company will be partnering up with The Drift Art Walk on Main
 Street this year. Renegade has a warehouse/labyrinth-like atmosphere. We
@@ -40,7 +40,7 @@ tickets may not be available at door)
 
 Tix available from Brown Paper Tickets at link below:
 
-http://www.brownpapertickets.com/event/855161
+[http://www.brownpapertickets.com/event/855161](http://www.brownpapertickets.com/event/855161)
 
 ✿ CHEERS! ✿
 

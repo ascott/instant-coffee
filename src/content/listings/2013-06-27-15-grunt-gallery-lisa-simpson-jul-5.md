@@ -58,13 +58,13 @@ has been playing the Singer, a sewing machine, since 2003. Her research
 focuses on her exhibitions in progress, where she emphasizes the creative 
 process, the performativity of the act of sewing, and audience participation as 
 the source of inspiration. 
-http://www.musicalsewing.blogspot.ca/
+[http://www.musicalsewing.blogspot.ca/](http://www.musicalsewing.blogspot.ca/)
 
 Visit grunt gallery's website to view the media release:
-http://grunt.ca/exhibitions/agente-costura/ 
+[http://grunt.ca/exhibitions/agente-costura/](http://grunt.ca/exhibitions/agente-costura/) 
 
 Add the Facebook Event:
-https://www.facebook.com/events/610585935641249/ 
+[https://www.facebook.com/events/610585935641249/](https://www.facebook.com/events/610585935641249/) 
 
 Quick Clicks
 Become a Member
@@ -81,6 +81,6 @@ Visit our support page to learn of the various ways you can give to grunt.
 Questions? Email Karlene at
 karlene@grunt.ca 
 
-grunt gallery | | karlene@grunt.ca | http://grunt.ca
+grunt gallery | | karlene@grunt.ca | [http://grunt.ca](http://grunt.ca)
 350 E 2nd, Unit 116
 Vancouver, V5T 4R8

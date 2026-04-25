@@ -11,7 +11,7 @@ summary: "VIVO Media Arts Centre | Media Arts Curator-in-Residence (CIR) | APR 2
 Deadline: THURSDAY APRIL 20 2017, no later than 11:59PM
 
 Download PDF: 
-https://drive.google.com/file/d/0BzRp8kZHyWlxQjBkX1phdnY2SDg/view
+[https://drive.google.com/file/d/0BzRp8kZHyWlxQjBkX1phdnY2SDg/view](https://drive.google.com/file/d/0BzRp8kZHyWlxQjBkX1phdnY2SDg/view)
 
 VIVO Media Arts Centre is looking for an independent media arts curator with a 
 focus on new media practices to develop and execute a curatorial project over 

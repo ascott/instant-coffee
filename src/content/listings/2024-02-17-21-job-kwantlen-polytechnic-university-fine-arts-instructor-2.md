@@ -20,7 +20,7 @@ Deadline for applications Feb 29, 2024
 POSITION TYPE: QUALIFIED FACULTY LIST
 POSITION START: As needed
 
-https://tre.tbe.taleo.net/tre01/ats/careers/v2/viewRequisition?
+[https://tre.tbe.taleo.net/tre01/ats/careers/v2/viewRequisition](https://tre.tbe.taleo.net/tre01/ats/careers/v2/viewRequisition)?
 org=JT63GS&cws=37&rid=3047
 
 FINE ARTS INSTRUCTOR - PAINTING AND DRAWING.
@@ -28,7 +28,7 @@ Deadline for applications March 8, 2024
 POSITION TYPE: One Year contract NR2, 100% (8 courses)
 POSITION START: SEPTEMBER 1 2024
 
-https://tre.tbe.taleo.net/tre01/ats/careers/v2/viewRequisition?
+[https://tre.tbe.taleo.net/tre01/ats/careers/v2/viewRequisition](https://tre.tbe.taleo.net/tre01/ats/careers/v2/viewRequisition)?
 org=JT63GS&cws=37&rid=3178
 
 Kwantlen Polytechnic University (KPU) is the
@@ -37,4 +37,4 @@ of British Columbia and serves communities in a unique regional environment sout
 of the st'l"w"/st:l/Fraser River in the lands known today as British Columbia.
 
 For more about our department and programs, please visit our website at:
-https://www.kpu.ca/arts/fine-arts
+[https://www.kpu.ca/arts/fine-arts](https://www.kpu.ca/arts/fine-arts)

@@ -14,7 +14,7 @@ Sunday, January 21st, 7:30pm
 
 VIFF Centres Studio Theatre (1181 Seymour Street, Vancouver BC)
 
-Tickets: https://viff.org/whats-on/xinema-farther-eye-see/
+Tickets: [https://viff.org/whats-on/xinema-farther-eye-see/](https://viff.org/whats-on/xinema-farther-eye-see/)
 
 XINEMA presents: Farther Than the Eye Can See, a screening of five short
 experimental films by local and international Palestinian filmmakers. These works
@@ -86,7 +86,7 @@ scene.
 
 Website: www.xinema.ca
 
-Instagram: https://www.instagram.com/xin3ma/
+Instagram: [https://www.instagram.com/xin3ma/](https://www.instagram.com/xin3ma/)
 
 Open for ongoing submissions:
-https://forms.gle/cLCC7EiH1Ahmghir8
+[https://forms.gle/cLCC7EiH1Ahmghir8](https://forms.gle/cLCC7EiH1Ahmghir8)

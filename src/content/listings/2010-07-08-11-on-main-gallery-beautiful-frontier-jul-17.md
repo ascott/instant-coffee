@@ -21,7 +21,7 @@ for further information: e: onmain@gmail.com or phone (604) 872-7713
 
 ‘Beautiful Frontier’ is a unique installation at On Main Gallery
 created for Vancouver's second annual Drawn Festival
-http://drawnfestival.ca Beautiful Frontier is a site-specific project.
+[http://drawnfestival.ca](http://drawnfestival.ca) Beautiful Frontier is a site-specific project.
 Scrolls are suspended exploring drawing as a traditional form and as a
 collaboration. Beautiful Frontier can be viewed from inside or from the
 street windows. As the illumination and glow of natural and artificial

@@ -23,7 +23,7 @@ Tickets: From $30 at firehallartscentre.ca | 604.689.0926
 
 Post Show Talkbacks: February 8, 15, 22, & 29
 
-http://www.firehallartscentre.ca/
+[http://www.firehallartscentre.ca/](http://www.firehallartscentre.ca/)
 
 
 33.

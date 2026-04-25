@@ -14,7 +14,7 @@ The Active Fiction Project is a public art initiative that explores the
 intersection of public space and literary fiction. We're looking for a few
 talented authors to work with us to create short pieces of fiction (max
 2500 words). More information on submission process here:
-http://activefictionproject.com/submissions/
+[http://activefictionproject.com/submissions/](http://activefictionproject.com/submissions/)
 
 Deadline: Sunday April 3, 2016
 
@@ -28,4 +28,4 @@ Why your writing would be a good fit for AFP (max 100 words)
 Publication credits, if available
 Funding: Successful applicants will receive a small honorarium.
 
-More details: http://activefictionproject.com/
+More details: [http://activefictionproject.com/](http://activefictionproject.com/)

@@ -24,4 +24,4 @@ Opening Reception July 27th 6-8pm for PoMoArts 25th Anniversary Exhibitions
 
 Read more about the exhibitions:
 
-https://pomoarts.ca/gallery
+[https://pomoarts.ca/gallery](https://pomoarts.ca/gallery)

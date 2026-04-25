@@ -63,7 +63,7 @@ Aug 20, noon - Louise Doucet. Disability community.
 Aug 21, noon - Bob McWhirter. Historical Society.
 Aug 22, noon - Chris Arnett. First Nations and Colonial history.
 
-For more details, see http://artspring.ca/event/artsprings-celebration-of-canadas-
+For more details, see [http://artspring.ca/event/artsprings-celebration-of-canadas-](http://artspring.ca/event/artsprings-celebration-of-canadas-)
 150-birthday-salt-spring-stories-gallery/
 
 Creation of the work in this exhibition was made possible thanks to grants from the

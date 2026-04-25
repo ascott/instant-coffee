@@ -106,7 +106,7 @@ not sent letters set:
 NOT SENT LETTERS is an entanglement by JEREMY TODD with technologies 
 of the self, the politics of meaning and the formation of cultural memory, involving 
 online image/text posts, digital film shorts and live events. A new set selected 
-from http://notsentletters.blogspot.com includes letters to The House That Karno 
+from [http://notsentletters.blogspot.com](http://notsentletters.blogspot.com) includes letters to The House That Karno 
 Built (first letter), The New Man (first letter) and Intentional Hamming (first letter), 
 with performance, image projection and live scores by ZUZIA JUSZKIEWICZ.
 
@@ -121,10 +121,10 @@ AITKEN & TRICIA BOER.
 more not sent letters & guests information:
 
 EXPLORE previous Not Sent Letters & Guests events here: 
-http://notsentlettersandguests.blogspot.com
+[http://notsentlettersandguests.blogspot.com](http://notsentlettersandguests.blogspot.com)
 
 FOR NOTIFICATIONS and news please "like" the project facebook page: 
-https://www.facebook.com/pages/Not-Sent-Letters-Project/147882091946917 
+[https://www.facebook.com/pages/Not-Sent-Letters-Project/147882091946917](https://www.facebook.com/pages/Not-Sent-Letters-Project/147882091946917) 
 
 EMAIL Jeremy Todd to host or contribute to a future Not Sent Letters & Guests 
 event: 

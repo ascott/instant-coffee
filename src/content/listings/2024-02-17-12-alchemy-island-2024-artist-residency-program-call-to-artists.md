@@ -51,7 +51,7 @@ www.makealchemy.com
 Deadline: February 22, 2024
 
 Questions before applying? Please email: claire@makealchemy.com
-http://makealchemy.com/
+[http://makealchemy.com/](http://makealchemy.com/)
 
 13.
 EDUCATION | Artist in residence Studio Program | Info Sessions | FEB 22
@@ -67,13 +67,13 @@ Wednesday, February 28, 2024 (in person)
 7- 8 pm
 
 To attend online, please register here to receive the zoom link
-https://us06web.zoom.us/meeting/register/tZUvcOippz0uGNcFKSW6_71ot-
+[https://us06web.zoom.us/meeting/register/tZUvcOippz0uGNcFKSW6_71ot-](https://us06web.zoom.us/meeting/register/tZUvcOippz0uGNcFKSW6_71ot-)
 ydYLvkQ4I3
 
 To attend in person session at Art and Discovery Studio at Florence Nightingale
 Elementary,
 
 2740 Guelph St. Please RSVP here:
-https://forms.gle/77TS4TgkzuKpABYD6
+[https://forms.gle/77TS4TgkzuKpABYD6](https://forms.gle/77TS4TgkzuKpABYD6)
 
 For any questions or comments email info@airsprogram.org

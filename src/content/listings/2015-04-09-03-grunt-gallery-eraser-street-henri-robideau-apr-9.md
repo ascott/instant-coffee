@@ -39,7 +39,7 @@ SPECIAL EVENTS:
 An Evening in the Archive with Henri Robideau: A fundraiser for the grunt
 Archive Saturday, April 25, 2015 Drinks at 6:30 pm, Dinner at 7:30 pm |
 Ticket Info:
-http://www.eventbrite.com/e/an-evening-in-the-archive-with-henri-robideau-tickets-16293120161
+[http://www.eventbrite.com/e/an-evening-in-the-archive-with-henri-robideau-tickets-16293120161](http://www.eventbrite.com/e/an-evening-in-the-archive-with-henri-robideau-tickets-16293120161)
 
 Panel with Clint Burnham Saturday, May 9, 2015 | Additional Info TBA
 

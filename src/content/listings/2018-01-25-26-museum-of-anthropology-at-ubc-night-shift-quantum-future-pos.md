@@ -13,7 +13,7 @@ Night Shift Quantum: Future Possibilities
 
 Deadline: February 15, 2018
 Event: April 5, 2018 at UBC Museum of Anthropology
-Info and submission: https://curiositycollider.org/submissions/#NightShift
+Info and submission: [https://curiositycollider.org/submissions/#NightShift](https://curiositycollider.org/submissions/#NightShift)
 
 Curiosity Collider has the pleasure of curating the April 5th 2018 edition of UBC 
 Museum of Anthropologys monthly Night Shift event. We will present Quantum: Future 
@@ -55,7 +55,7 @@ than 1 MB each, with an image list, OR
 Submit a link to a video up to 5 minutes to represent your work
 A link to your website
 Your name, address, email, and any other contact information
-Submit your package online at: https://curiositycollider.org/submissions/#NightShift
+Submit your package online at: [https://curiositycollider.org/submissions/#NightShift](https://curiositycollider.org/submissions/#NightShift)
 
 If you have any questions about this call for submissions, contact us at 
 submissions@curiositycollider.org.

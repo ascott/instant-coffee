@@ -21,7 +21,7 @@ Inspired by the work of Tomorrow Collective's Brief Encounters series,
 INTERSECTIONS will also feature a live event in the summer of 2013.
 
 Please visit 
-http://cineworks.ca/screeningroom/category/collaborations/intersections/ to 
+[http://cineworks.ca/screeningroom/category/collaborations/intersections/](http://cineworks.ca/screeningroom/category/collaborations/intersections/) to 
 watch the first INTERSECTIONS pairing. New works will then be released 
 online each month. Stay connected by following us on Twitter @Cineworks, 
 @TTC Vancouver and join our group page on Facebook for all the latest news, 

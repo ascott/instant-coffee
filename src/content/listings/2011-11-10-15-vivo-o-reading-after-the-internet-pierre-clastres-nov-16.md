@@ -29,7 +29,7 @@ hierarchy from horizontality and his look at societies without States is
 preoccupied with the means by which these formations preserve their 
 condition. It is likely that this salon will look at another text in addition, 
 but at the time of this release, we don't yet know what that will be. You 
-are welcome to check in at http://www.vivomediaarts.com/ closer to the 
+are welcome to check in at [http://www.vivomediaarts.com/](http://www.vivomediaarts.com/) closer to the 
 date for further details. 
 
 Pierre Clastres was a French anthropologist and ethnographer. He 

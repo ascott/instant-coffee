@@ -19,7 +19,7 @@ artists facing barriers and exclusion who work outside the mainstream
 All events are FREEand 100% of sales go to the artists. Daily raffle draw and online art 
 auction (July 31 to August 11)
 
-B-Roll clip. https://www.youtube.com/watch?v=MFKxkNSL_BM&feature=youtu.be
+B-Roll clip. [https://www.youtube.com/watch?v=MFKxkNSL_BM&feature=youtu.be](https://www.youtube.com/watch?v=MFKxkNSL_BM&feature=youtu.be)
 
 For more information on the Community Arts Council of Vancouver and complete VOAF 
 schedule go to www.cacv.ca. 

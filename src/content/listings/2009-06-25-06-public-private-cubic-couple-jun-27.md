@@ -54,4 +54,4 @@ Contact: For more information please contact Andrew: andrew_a01@yahoo.ca; 604-33
 
 Please RSVP to attend private reception after unveiling: andrew_a01@yahoo.ca
 
-Related works available for viewing at: http://www.a01creative.com/index.php
+Related works available for viewing at: [http://www.a01creative.com/index.php](http://www.a01creative.com/index.php)

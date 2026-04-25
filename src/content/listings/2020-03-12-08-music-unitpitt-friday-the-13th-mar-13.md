@@ -23,16 +23,16 @@ UNIT/PITT
 
 
 Strawberry:
-https://www.youtube.com/watch?v=RM_NXJnuAf0
+[https://www.youtube.com/watch?v=RM_NXJnuAf0](https://www.youtube.com/watch?v=RM_NXJnuAf0)
 
 JSN:
-https://agonyklub.com/2018/01/16/jsn-mirror-of-your-life-lp-cassette/
+[https://agonyklub.com/2018/01/16/jsn-mirror-of-your-life-lp-cassette/](https://agonyklub.com/2018/01/16/jsn-mirror-of-your-life-lp-cassette/)
 
 Tommy Tone:
-https://trashtronix.bandcamp.com/album/bad-to-the-tone
+[https://trashtronix.bandcamp.com/album/bad-to-the-tone](https://trashtronix.bandcamp.com/album/bad-to-the-tone)
 
 Judy Cult:
-https://judycult.bandcamp.com/track/networthin-demo
+[https://judycult.bandcamp.com/track/networthin-demo](https://judycult.bandcamp.com/track/networthin-demo)
 
 UNIT/PITT is located at 8 East Pender Street (southeast corner at Pender and Carrall
 intersection), on the ground floor, no stairs, but the tiles in front of the entrance are

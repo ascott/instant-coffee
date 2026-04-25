@@ -63,7 +63,7 @@ supplementary material, or just to chat Vancouver arts!
 
 Thank you.
 the VANDOCUMENT team
-the facebook event https://www.facebook.com/events/1479226292290976/
+the facebook event [https://www.facebook.com/events/1479226292290976/](https://www.facebook.com/events/1479226292290976/)
 
 
 Ash Tanasiychuk 778.881.8932

@@ -14,7 +14,7 @@ The Arts Integration Learning Lab: Indigenous Artists Edition will be presented 
 ArtStarts in Schools and IndigenEYEZ on October 23-27, 2017.
 
 Apply by September 5, 2017 at:
-http://artstarts.com/aill-indigenous
+[http://artstarts.com/aill-indigenous](http://artstarts.com/aill-indigenous)
 
 Calling Indigenous Artists in BC! Are you an Indigenous artist interested in working
 with schools? Would you like to inspire curiosity and learning in young people across

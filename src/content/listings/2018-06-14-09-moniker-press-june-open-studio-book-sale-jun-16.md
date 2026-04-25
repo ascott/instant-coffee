@@ -27,4 +27,4 @@ release, Janet Ford's 100 Days of Bulimia.
 
 MONIKERPRESS.CA
 
-Directions + event details: https://www.facebook.com/events/923192724529294/
+Directions + event details: [https://www.facebook.com/events/923192724529294/](https://www.facebook.com/events/923192724529294/)

@@ -67,10 +67,10 @@ A brilliantly original, painfully hilarious, and surprisingly touching
 ode to love and loss.
 "Jodi Wille, director of The Source Family
 
-Find out more about Robert Dayton: http://www.robertdayton.com/
+Find out more about Robert Dayton: [http://www.robertdayton.com/](http://www.robertdayton.com/)
 THE EMPTY BED excerpt available for download here:
-http://www.impulse-b.com/wp-content/uploads/2017/11/The-Empty-Bed-excerpt.pdf
+[http://www.impulse-b.com/wp-content/uploads/2017/11/The-Empty-Bed-excerpt.pdf](http://www.impulse-b.com/wp-content/uploads/2017/11/The-Empty-Bed-excerpt.pdf)
 
-http://www.impulse-b.com/
+[http://www.impulse-b.com/](http://www.impulse-b.com/)
 All press inquiries:
 mrdayton@gmail.com

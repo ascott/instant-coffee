@@ -15,7 +15,7 @@ At grunt gallery
 On Saturday March 26th at 2pm, Rah will present an artist talk at grunt gallery about
 her exhibition SuperNova and her multidisciplinary creative practice. This in-person
 event is limited to 12 attendees and masks are required. Details and registration here:
-https://grunt.ca/exhibitions/supernova-2/
+[https://grunt.ca/exhibitions/supernova-2/](https://grunt.ca/exhibitions/supernova-2/)
 
 SuperNova is a multidisciplinary video installation informed by Rahs experience as a
 Canadian-Iranian exilic and diasporic artist. Featuring a series of characters that she

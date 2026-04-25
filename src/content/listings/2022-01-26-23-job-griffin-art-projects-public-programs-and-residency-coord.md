@@ -14,7 +14,7 @@ Public Programs and Residency Coordinator
 
 PTE: 2 days per week, 9:00-5:00PM (One Year Contract)
 
-https://www.griffinartprojects.ca/careers
+[https://www.griffinartprojects.ca/careers](https://www.griffinartprojects.ca/careers)
 
 Hourly wage: $23.00/hr
 

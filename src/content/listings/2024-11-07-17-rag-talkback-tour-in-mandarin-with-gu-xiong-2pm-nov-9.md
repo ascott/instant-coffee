@@ -21,8 +21,8 @@ FOODWAYS.
 Join
 in for an informal discussion in Mandarin over a cup of tea.
 Limited spaces, RSVP to reserve a seat.
-https://www.eventbrite.ca/e/talkback-tour-in-mandarin-with-gu-xiong-tickets-
+[https://www.eventbrite.ca/e/talkback-tour-in-mandarin-with-gu-xiong-tickets-](https://www.eventbrite.ca/e/talkback-tour-in-mandarin-with-gu-xiong-tickets-)
 1037095559737
 
 More events:
-https://www.richmondartgallery.org/upcoming-events
+[https://www.richmondartgallery.org/upcoming-events](https://www.richmondartgallery.org/upcoming-events)

@@ -19,4 +19,4 @@ Clint Burnham, followed by a Q&A session and a catered reception.
 
 Learn how the 2023-24 Shadbolt Fellows are each carving new paths for the arts,
 humanities, and society at large. Register here:
-https://shadbolt-launch-2024.eventbrite.ca
+[https://shadbolt-launch-2024.eventbrite.ca](https://shadbolt-launch-2024.eventbrite.ca)

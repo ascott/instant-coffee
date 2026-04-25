@@ -22,4 +22,4 @@ Reign of the Beaver to the Urban Rez of Winnipegs North End.
 October 22 | 7 - 8:30 pm
 Online via Zoom
 Free, registration required
-https://moa.ubc.ca/event/online-curator-tour-of-shame-and-prejudice/
+[https://moa.ubc.ca/event/online-curator-tour-of-shame-and-prejudice/](https://moa.ubc.ca/event/online-curator-tour-of-shame-and-prejudice/)

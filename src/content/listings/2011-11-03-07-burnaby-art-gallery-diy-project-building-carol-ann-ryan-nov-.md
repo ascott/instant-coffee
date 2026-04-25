@@ -13,7 +13,7 @@ DIY Project Building: Local Funding Resources
 Art Historian, Educator, and Arts Administrator Carol-Ann Ryan will offer 
 insight and resources for arts-based funding within the Lower Mainland. 
 Ryan, who over this past summer launched a public art bike tour 
-(http://www.artwheelers.com/)through local funding, will share her 
+([http://www.artwheelers.com/](http://www.artwheelers.com/))through local funding, will share her 
 experience and expertise in navigating and approaching public and 
 private organizations for funding. This seminar is geared towards artists, 
 curators, community-based artist initiatives, and arts organizations.

@@ -45,11 +45,11 @@ working with wood and to reveal how his process hopes to unfold the
 unique energy that exists within this universal material.
 
 For more information and images on Brent Comber, please click here: 
-http://www.kostuikgallery.com/?
+[http://www.kostuikgallery.com/](http://www.kostuikgallery.com/)?
 section=Artists&a=20&artist=Brent++Comber&page=Artworks
 
 info@kostuikgallery.com
-http://www.kostuikgallery.com 
+[http://www.kostuikgallery.com](http://www.kostuikgallery.com) 
 
 January 26, 2012: Brent Comber recenlty acquired a large spruce from 
 Squamish. The tree was felled approximately 8 years ago. Comber 
@@ -72,4 +72,4 @@ Vancouver BC V6B 2W9
 Canada
 Tel. 604.737.3969
 info@kostuikgallery.com
-http://www.kostuikgallery.com
+[http://www.kostuikgallery.com](http://www.kostuikgallery.com)

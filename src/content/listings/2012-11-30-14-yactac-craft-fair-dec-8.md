@@ -36,5 +36,5 @@ Everyone welcome!
 
 www.yactac.com
 
-Twitter: http://www.twitter.com/yactac
-Facebook: https://www.facebook.com/events/377091732381642/?fref=ts
+Twitter: [http://www.twitter.com/yactac](http://www.twitter.com/yactac)
+Facebook: [https://www.facebook.com/events/377091732381642/?fref=ts](https://www.facebook.com/events/377091732381642/?fref=ts)

@@ -59,7 +59,7 @@ on rape and pillage. FAG is feminist in its resistance and in its attempts to
 reconcile “arts”  participation in oppressive systems. FAG is feminist in its 
 insistence on closing the gap between studio, gallery, art, activism, social 
 and home. FAG is not fixed. FAG is not success. 
-https://www.facebook.com/FeministArtGallery
+[https://www.facebook.com/FeministArtGallery](https://www.facebook.com/FeministArtGallery)
 
 As well as operating this truly alternative arts space, Deirdre Logue is 
 currently the Development Director at Vtape and Allyson Mitchell works as 
@@ -68,4 +68,4 @@ Studies at York University. Both have prolific international art practices.
 www.allysonmitchell.com and www.deirdrelogue.com
 
 For more information and to apply for the Summer Institute 2014, please visit 
-Plug In ICA’s website at http://plugin.org/summer-institute.
+Plug In ICA’s website at [http://plugin.org/summer-institute](http://plugin.org/summer-institute).

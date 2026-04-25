@@ -24,7 +24,7 @@ For written works (both artistic and journalistic), the suggested word
 count is short and witty (most pieces will be 500-700 words). Assignments
 are available (please send a sample of your writing). Submissions can be
 emailed to frontmagazine@front.bc.ca. For full submission guidelines,
-please see http://front.bc.ca/frontmagazine/submissions
+please see [http://front.bc.ca/frontmagazine/submissions](http://front.bc.ca/frontmagazine/submissions)
 
 Front Magazine is published in Vancouver by the Western Front Society and
 distributed liberally and for free throughout the lower mainland four times

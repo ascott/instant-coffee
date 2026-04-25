@@ -42,4 +42,4 @@ for costume by Tiziana La Melia for The Part of No Part (2012), 221A
 curatorial residency project curated by Dan Starling
 
 Read more:
-http://221a.ca/no-monologue
+[http://221a.ca/no-monologue](http://221a.ca/no-monologue)

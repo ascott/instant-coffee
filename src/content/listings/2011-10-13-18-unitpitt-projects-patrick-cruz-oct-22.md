@@ -49,4 +49,4 @@ artists and cultural workers.
 **
 
 UNIT/PITT Projects | 15 E Pender St., Vancouver BC Canada V6A 1S9 | 604 681 
-6740 | info@helenpittgallery.org | http://www.unitpitt.ca
+6740 | info@helenpittgallery.org | [http://www.unitpitt.ca](http://www.unitpitt.ca)

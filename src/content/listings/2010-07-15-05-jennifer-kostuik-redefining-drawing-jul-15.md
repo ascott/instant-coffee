@@ -98,7 +98,7 @@ time-based aspect of the drawing machine allows visitors to watch the
 drawing develop over the duration of the show.
 
 All images for the exhibition are listed under ReDefining Drawing at:
-http://www.kostuikgallery.com
+[http://www.kostuikgallery.com](http://www.kostuikgallery.com)
 
 Monday to Wednesday 10am – 6pm
 Thursday 10am – 8pm

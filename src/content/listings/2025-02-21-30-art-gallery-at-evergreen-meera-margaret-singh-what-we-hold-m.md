@@ -55,7 +55,7 @@ India; McCain Artist-in-Residence at the OCAD University, Toronto. She has
 exhibited widely in group and solo exhibitions throughout Canada and internationally.
 She is currently an Associate Professor in Photography at OCAD University.
 
-Follow the link for more information: https://evergreenculturalcentre.ca/exhibit/
+Follow the link for more information: [https://evergreenculturalcentre.ca/exhibit/](https://evergreenculturalcentre.ca/exhibit/)
 
 
 31. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing

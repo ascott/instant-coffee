@@ -27,7 +27,7 @@ pushes through his personal comfort zones to capture fleeting moments of
 beauty.
 
 Adam Flewelling
-https://cargocollective.com/AdamFlewelling/
+[https://cargocollective.com/AdamFlewelling/](https://cargocollective.com/AdamFlewelling/)
 
 Adam relies on the practice of collage to experiment with ideas quickly and
 effectively. He uses chance observation to create hastily produced
@@ -59,7 +59,7 @@ exceptionally rare way. His passion for street photography also pushes
 Trenton to face his anxiety head on each and every day.
 
 Benjamin Poulton
-https://www.benjaminpoulton.com/
+[https://www.benjaminpoulton.com/](https://www.benjaminpoulton.com/)
 The Divide is Uneven is a topography exploring personal feelings of
 division. Through the use of the subjects vulnerability and the repetitive
 abstract nature of the composition, I hope to show that there is a

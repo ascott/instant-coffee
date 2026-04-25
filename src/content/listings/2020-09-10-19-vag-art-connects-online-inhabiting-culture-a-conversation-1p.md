@@ -15,7 +15,7 @@ with Michelle Jacques, Anthony Kiendl, Janna Graham and Richard Hill
 Thursday, September 17 | 1 PM
 
 Register today
-at https://bit.ly/2QIy9W2!
+at [https://bit.ly/2QIy9W2](https://bit.ly/2QIy9W2)!
 
 Stay home. Stay safe. Stay connected with our new series of online gatherings, Art
 Connects!

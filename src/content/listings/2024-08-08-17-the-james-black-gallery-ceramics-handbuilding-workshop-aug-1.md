@@ -41,5 +41,5 @@ your
 
 pieces to the email address you provide at registration.
 
-To register, https://www.zeffy.com/en-CA/ticketing/960d1e27-7e88-46e4-b014-
+To register, [https://www.zeffy.com/en-CA/ticketing/960d1e27-7e88-46e4-b014-](https://www.zeffy.com/en-CA/ticketing/960d1e27-7e88-46e4-b014-)
 86b7b07d1d7a

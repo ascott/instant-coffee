@@ -31,7 +31,7 @@ Session 2 - Pre-Cinema Printing and Cyanotypes Friday, November 20th
 
 Session 3 - Ecoprocessing and PhytogramsFriday, November 27th
 
-We have limited seats, so sign up quick using this link - https://bit.ly/2ISqXWC
+We have limited seats, so sign up quick using this link - [https://bit.ly/2ISqXWC](https://bit.ly/2ISqXWC)
 
 Pick up of kits will be in downtown Vancouver - we will reach out after you book with
 instructions on how to pick it up.

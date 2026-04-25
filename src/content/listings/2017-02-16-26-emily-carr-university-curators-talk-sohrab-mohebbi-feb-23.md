@@ -24,7 +24,7 @@ presented in partnership with the Vancouver Art Gallery and 221A. The series is
 associated with the exhibition Vancouver Special: Ambivalent Pleasures and 
 supported by the Province of British Columbia's Creative Economy Strategy. 
 Further 
-Details: http://221a.ca/ambivalent-pleasures-ecuad-lecture
+Details: [http://221a.ca/ambivalent-pleasures-ecuad-lecture](http://221a.ca/ambivalent-pleasures-ecuad-lecture)
 
 Emily Carr University
 1399 Johnston Street

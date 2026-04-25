@@ -19,7 +19,7 @@ Doors at 6pm
 Talk at 6:30pm
 Book signing at 7:15pm
 Complimentary admission with RSVP
-RSVP here: https://thepolygon.ca/event/book-launch-pictures-on-the-wall-by-
+RSVP here: [https://thepolygon.ca/event/book-launch-pictures-on-the-wall-by-](https://thepolygon.ca/event/book-launch-pictures-on-the-wall-by-)
 michael-audain/
 
 About Pictures on Wall: Building a Canadian Art Collection

@@ -17,6 +17,6 @@ where youve been or where you are now? What does this word
 mean to you and what stories does it hold? Explore this theme through guided exercises
 and writing prompts with creative nonfiction writer, Taslim Jaffer. Write for yourself or to
 share with loved ones.
-https://www.youtube.com/watch?v=U45IZQVh2ho
+[https://www.youtube.com/watch?v=U45IZQVh2ho](https://www.youtube.com/watch?v=U45IZQVh2ho)
 
-https://northvanarts.ca/education/
+[https://northvanarts.ca/education/](https://northvanarts.ca/education/)

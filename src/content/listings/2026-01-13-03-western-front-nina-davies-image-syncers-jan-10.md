@@ -23,4 +23,4 @@ in the Grand Luxe Hall at 5:00 p.m. Together, they will discuss the works engage
 AI-generated imagery, choreography, the dissolution of reality, and the appeal of fakeness.
 The opening reception will continue following the talk until 7:00 p.m.
 
-To learn more, visit https://westernfront.ca/events/image-syncers
+To learn more, visit [https://westernfront.ca/events/image-syncers](https://westernfront.ca/events/image-syncers)

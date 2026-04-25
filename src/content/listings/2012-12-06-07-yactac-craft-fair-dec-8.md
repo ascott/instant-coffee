@@ -33,7 +33,7 @@ Come out, have fun, and enjoy yourselves!
 With goods ranging from publications, T-shirts, textiles, ceramics, dolls, 
 baked goods and more by:
 
-Mitmunk Design http://mitmunk.com/
+Mitmunk Design [http://mitmunk.com/](http://mitmunk.com/)
 Dennis Ha & Barry Doupé
 Justine and Janice Cheung
 Peggy and Karen Ngan
@@ -45,5 +45,5 @@ Everyone welcome! Bring your friends!
 
 http:www.yactac.com
 
-Twitter: http://www.twitter.com/yactac
-Facebook: https://www.facebook.com/events/377091732381642/?fref=ts
+Twitter: [http://www.twitter.com/yactac](http://www.twitter.com/yactac)
+Facebook: [https://www.facebook.com/events/377091732381642/?fref=ts](https://www.facebook.com/events/377091732381642/?fref=ts)

@@ -20,7 +20,7 @@ Residencies are 4 to 12 weeks in duration starting from January 1, 2009 through 
 
 The Artist in Residence program is located in the Macaulay Residence. Built in 1901, the home is now owned by Parks Canada as part of the Dawson Historical Complex National Historic Site of Canada.
 
-For more information, complete application guidelines and an application form, visit our website: http://www.kiac.org/programs/residence.html
+For more information, complete application guidelines and an application form, visit our website: [http://www.kiac.org/programs/residence.html](http://www.kiac.org/programs/residence.html)
 
 Klondike Institute of Art & Culture
 Dawson City, Yukon CANADA
@@ -45,7 +45,7 @@ The Odd Gallery is an artist-run initiative based in Dawson City, Yukon Canada.
 
 For more information and submission guidelines visit:
 
-http://www.kiac.org/odd/proposals.html
+[http://www.kiac.org/odd/proposals.html](http://www.kiac.org/odd/proposals.html)
 
 Klondike Institute of Art & Culture
 Dawson City, Yukon CANADA
@@ -64,8 +64,8 @@ The Odd Gallery seeks proposals from visual artists working in all media for gal
 
 Currently, project activities are presented as part of KIAC’s annual Yukon Riverside Arts Festival – taking place in mid-August – and include exhibitions, opening receptions, artists’ talks and guest lectures that are intended to stimulate and engage audiences in a re-examination of the various cultural and economic values imposed on the environment, while exploring alternative political, social, economic and aesthetic agendas and strategies towards a re-interpretation of the regional landscape and social infrastructure.
 For more information and submission guidelines visit:
-http://www.kiac.org/odd/proposals.html
-http://www.naturalmanufactured.org
+[http://www.kiac.org/odd/proposals.html](http://www.kiac.org/odd/proposals.html)
+[http://www.naturalmanufactured.org](http://www.naturalmanufactured.org)
 
 Klondike Institute of Art & Culture
 Dawson City, Yukon CANADA

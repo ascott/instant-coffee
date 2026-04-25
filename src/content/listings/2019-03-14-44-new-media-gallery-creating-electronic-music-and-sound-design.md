@@ -45,7 +45,7 @@ Learning Lab - Anvil Centre
 1.
 Selling new drawing table
 
-https://www.facebook.com/marketplace/item/254857708800824/
+[https://www.facebook.com/marketplace/item/254857708800824/](https://www.facebook.com/marketplace/item/254857708800824/)
 
 
 2.
@@ -89,7 +89,7 @@ No live music or instruments, only speakers at a medium volume
 
 Please email: gibson.randy@gmail.com
 
-Photos/Listing: https://vancouver.craigslist.org/van/off/d/vancouver-multiple-spaces-in-
+Photos/Listing: [https://vancouver.craigslist.org/van/off/d/vancouver-multiple-spaces-in-](https://vancouver.craigslist.org/van/off/d/vancouver-multiple-spaces-in-)
 shared/6840654837.html
 
 **The two photos (sorry for bad quality of those) show the spots available. First photo is 

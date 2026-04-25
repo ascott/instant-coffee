@@ -14,7 +14,7 @@ Soledad Ftima Muoz
 Tuesday, September 17
 to Friday, October 4, 2024
 Free, no registration needed.
-More info: https://www.vivomediaarts.com/programming/woven-memory
+More info: [https://www.vivomediaarts.com/programming/woven-memory](https://www.vivomediaarts.com/programming/woven-memory)
 
 Guest Contributors:
 Nancy Lee

@@ -42,5 +42,5 @@ Lower Ground Level
 268 Keefer Street, Vancouver, BC
 Open Fridays and Saturdays, noon - 5pm
 
-THIS Website: https://thisgallery.org/
+THIS Website: [https://thisgallery.org/](https://thisgallery.org/)
 Artist website: www.feliciafraser.com

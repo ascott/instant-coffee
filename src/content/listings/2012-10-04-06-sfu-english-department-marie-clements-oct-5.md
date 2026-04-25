@@ -49,7 +49,7 @@ During her time at SFU, Marie will both focus on her own writing and engage
 in a series of activities and events. The Writer-in-Residence program
 provides the opportunity to interested creative writers to consult with a
 professional writer for manuscript advice. For guidelines on how to submit
-your work, please visit our website at http://www.english.sfu.ca/. To book a
+your work, please visit our website at [http://www.english.sfu.ca/](http://www.english.sfu.ca/). To book a
 consultation with Marie, please email Elaine Tkaczuk in the Department of
 English at elt@sfu.ca.
 

@@ -20,6 +20,6 @@ Location: 23 East Pender Street, Vancouver, BC
 Date: November 7, 2024
 Time: 6pm-8pm
 
-Event info: https://massyarts.com/event/whatever-state-we-are/
-Event registration: https://www.eventbrite.ca/e/whatever-state-we-are-tickets-
+Event info: [https://massyarts.com/event/whatever-state-we-are/](https://massyarts.com/event/whatever-state-we-are/)
+Event registration: [https://www.eventbrite.ca/e/whatever-state-we-are-tickets-](https://www.eventbrite.ca/e/whatever-state-we-are-tickets-)
 1039484454987?aff=oddtdtcreator

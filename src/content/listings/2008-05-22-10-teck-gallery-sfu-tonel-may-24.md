@@ -18,6 +18,6 @@ Intended as an educational exhibit, this installation will display data and docu
 
 Tonel is a sessional instructor in the Department of Art History, Visual Art and Theory at the University of British Columbia. 
 
-This exhibition was created on the occasion of the Inaugural Symposium of the Canadian Academy of Independent Scholars. For further information: http://independentscholars.net
+This exhibition was created on the occasion of the Inaugural Symposium of the Canadian Academy of Independent Scholars. For further information: [http://independentscholars.net](http://independentscholars.net)
 
 The Teck Gallery is located on the concourse level of SFU’s Vancouver Campus, at 515 West Hastings Street | Open daily during campus hours | Closed holiday long weekends | For information: tel: 778-782-4266 | email: gallery@sfu.ca | web: sfu.ca/gallery

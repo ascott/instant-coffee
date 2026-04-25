@@ -27,7 +27,7 @@ We are looking for Volunteers to help fill our diverse Teams and Lead
 volunteer positions this year. If you love movies, the arts and being a
 part of an amazing community" than we have a spot for you!!
 
-Please visit our website https://www.viff.org/Online/volunteer to find out
+Please visit our website [https://www.viff.org/Online/volunteer](https://www.viff.org/Online/volunteer) to find out
 more!
 
 WHEN:

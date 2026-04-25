@@ -40,7 +40,7 @@ self-directed manner; experience working with diverse public audiences.
 Applications are due by Friday, March 10 at 5:00pm, and can be sent to
 mf.hiringcommittee@gmail.com with the subject "Operations Director Application".
 
-View the full call at http://www.modernfuel.org/news/789
+View the full call at [http://www.modernfuel.org/news/789](http://www.modernfuel.org/news/789)
 
 Modern Fuel Artist-Run Centre
 Suite 305-370 King St. W.

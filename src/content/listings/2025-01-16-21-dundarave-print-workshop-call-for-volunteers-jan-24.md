@@ -20,4 +20,4 @@ sell work in our gallery space.
 
 To apply, send us your resume via email at info@dundaraveprintworkshop.com by
 Friday, January 24th! For more information visit our website at
-https://www.dundaraveprintworkshop.com/
+[https://www.dundaraveprintworkshop.com/](https://www.dundaraveprintworkshop.com/)

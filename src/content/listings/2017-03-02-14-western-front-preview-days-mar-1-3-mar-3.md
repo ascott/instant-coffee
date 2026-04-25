@@ -21,7 +21,7 @@ Tanya Lukin Linklater, Paul Mathieu, Al McWilliams, Bridget Moser, Marisa Olson,
 Ciara Phillips, Dan Phillips, The Raiders, Krista Belle Stewart, Corin Sworn, Neil 
 Wedman, Olivia Whetung
 
-Online catalogue available at https://westernfrontauction2017.tumblr.com/
+Online catalogue available at [https://westernfrontauction2017.tumblr.com/](https://westernfrontauction2017.tumblr.com/)
 
 For tickets and more info on the Gala Dinner & Live Auction on March 4th, visit 
 front.bc.ca.

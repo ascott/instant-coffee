@@ -39,4 +39,4 @@ envelope.
 Please join us on Thursday July 21st to meet the artists. If you cannot make it, 
 we hope to see you during the exhibition which runs to August 6th. 
 
-More information at: http://www.CristallGallery.com/CURRENT
+More information at: [http://www.CristallGallery.com/CURRENT](http://www.CristallGallery.com/CURRENT)

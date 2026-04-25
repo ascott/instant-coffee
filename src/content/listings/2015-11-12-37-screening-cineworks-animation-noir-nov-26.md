@@ -16,7 +16,7 @@ Thu 26 November, 7.00pm
 Cineworks Studio, 1131 Howe Street (lane entrance)
 By donation
 
-http://bit.ly/1QvS3gO
+[http://bit.ly/1QvS3gO](http://bit.ly/1QvS3gO)
 
 Join us for an evening of screenings and a talk by Patrick Jenkins - a
 Toronto based artist/filmmaker who creates unique animated films using the

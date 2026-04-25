@@ -24,4 +24,4 @@ consider, in the end, the materiality of which we too are composed, and
 through which we live, dream, carry our histories, and make utterances in
 the world.
 
-http://facebook.com/events/307064722802040/
+[http://facebook.com/events/307064722802040/](http://facebook.com/events/307064722802040/)

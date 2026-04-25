@@ -58,7 +58,7 @@ wellbeing of Vancouver's only arts and mental health artist-run centre!
 
 Help us spread the word by sharing our call for public submissions on 
 Facebook:
-http://www.facebook.com/gallerygachet
+[http://www.facebook.com/gallerygachet](http://www.facebook.com/gallerygachet)
 
 HOW TO SUBMIT
 
@@ -83,4 +83,4 @@ located in Vancouver's Downtown Eastside established in 1992.
 Through artistic means, Gallery Gachet aims to demystify and 
 challenge issues related to mental health and social marginalization, to 
 educate the public and promote social and economic justice. 
-http://gachet.org
+[http://gachet.org](http://gachet.org)

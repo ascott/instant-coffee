@@ -40,4 +40,4 @@ wish to appropriate it as originating from them, and to acknowledge and apprecia
 the work of both Wyss and Riley, and for the honour and gift of Indigenous
 knowledge that they have been privileged to receive in their adult practice.
 
-https://www.fleetstudios.org/program/sunset-watch-parties-with-kay-slater
+[https://www.fleetstudios.org/program/sunset-watch-parties-with-kay-slater](https://www.fleetstudios.org/program/sunset-watch-parties-with-kay-slater)

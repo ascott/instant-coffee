@@ -11,6 +11,6 @@ summary: "Ferry Building Gallery | Annual Call for submissions | SEP 13"
 Ferry Building Gallerys Annual Call for submissions to
 exhibit at the gallery in 2025.
 
-https://ferrybuildinggallery.ca/submissions/annual-call-entry.
+[https://ferrybuildinggallery.ca/submissions/annual-call-entry](https://ferrybuildinggallery.ca/submissions/annual-call-entry).
 
 Submissions close on September 13.

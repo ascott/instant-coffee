@@ -18,10 +18,10 @@ please join us, for a nice roasting. 7PM. sharp.
 
 2280 East Hastings, Suite 212
 
-http://www.topdownbottomup.ca/shows/
+[http://www.topdownbottomup.ca/shows/](http://www.topdownbottomup.ca/shows/)
 
-http://www.meishuben.com/project/mfaUBC/html/nelly.html
+[http://www.meishuben.com/project/mfaUBC/html/nelly.html](http://www.meishuben.com/project/mfaUBC/html/nelly.html)
 
-http://sophiabartholomew.com
+[http://sophiabartholomew.com](http://sophiabartholomew.com)
 
-http://aversionofyourself.tumblr.com/
+[http://aversionofyourself.tumblr.com/](http://aversionofyourself.tumblr.com/)

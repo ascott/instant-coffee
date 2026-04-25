@@ -23,4 +23,4 @@ featured in this exhibition showcase the culmination of these students fourth ye
 advanced studio practice; exploring diverse themes through a wide variety of materials
 and mediums.
 
-https://www.instagram.com/beforetomorrow2025/
+[https://www.instagram.com/beforetomorrow2025/](https://www.instagram.com/beforetomorrow2025/)

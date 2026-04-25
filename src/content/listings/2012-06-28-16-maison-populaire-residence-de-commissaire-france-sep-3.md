@@ -58,5 +58,5 @@ programmation.
 d’être présent(e) lors des réunions de préparation, de montage, de 
 démontage et de promotion de l’exposition.
 
-Pour plus d'informations, visitez http://www.maisonpop.net/spip.php?
+Pour plus d'informations, visitez [http://www.maisonpop.net/spip.php](http://www.maisonpop.net/spip.php)?
 article1596

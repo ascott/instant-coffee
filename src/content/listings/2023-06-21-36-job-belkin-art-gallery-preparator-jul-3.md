@@ -23,7 +23,7 @@ The priority application deadline is July 3, 2023 11:59 PM.
 
 Use the following link to view the full posting and apply online:
 
-https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-
+[https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-](https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-)
 Campus/Preparator_JR13302
 
 The Morris and Helen Belkin Art Gallery at UBC is mandated to research, exhibit,
@@ -120,7 +120,7 @@ for the position is August 14, 2023.
 To apply for this position please submit a cover letter and CV using the following link
 to view the full posting and apply online:
 
-https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-
+[https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-](https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-)
 Campus/Preparator_JR13302
 
 Equity and diversity are essential to academic excellence. An open and diverse
@@ -131,7 +131,7 @@ including sex, sexual orientation, gender identity or expression, racialization,
 disability, political belief, religion, marital or family status, age, and/or status as a
 First Nation, Metis, Inuit, or Indigenous person.
 
-https://belkin.ubc.ca/careers-preparator/
+[https://belkin.ubc.ca/careers-preparator/](https://belkin.ubc.ca/careers-preparator/)
 
 FOR FURTHER INFORMATION PLEASE CONTACT: JANA TYNER AT
 jana.tyner@ubc.ca,
@@ -139,6 +139,6 @@ TEL: (604) 822-1389, OR FAX: (604) 822-6689
 
 Morris and Helen Belkin Art Gallery
 1825 Main Mall, Vancouver, BC Canada V6T 1Z2
-http://www.belkin.ubc.ca | belkin.gallery@ubc.ca
+[http://www.belkin.ubc.ca](http://www.belkin.ubc.ca) | belkin.gallery@ubc.ca
 t: (604) 822-2759 f: (604) 822-6689
 Open 10-5 Tue-Fri, 12-5 Sat-Sun

@@ -35,5 +35,5 @@ artist(s) will be paid fairly, following professional standards.
 Please see the application requirements and more information about the call for
 artists using the link below.
 
-https://www.dropbox.com/scl/fi/071huc6vmxhbzt62w2d74/2025-01-30-EN-Artist-
+[https://www.dropbox.com/scl/fi/071huc6vmxhbzt62w2d74/2025-01-30-EN-Artist-](https://www.dropbox.com/scl/fi/071huc6vmxhbzt62w2d74/2025-01-30-EN-Artist-)
 Call.pdf?rlkey=cm2nfhwr3ozanf5azjihimvqw&st=abovewzj&dl=0

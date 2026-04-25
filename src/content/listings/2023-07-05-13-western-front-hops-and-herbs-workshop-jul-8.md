@@ -23,7 +23,7 @@ By Donation (Suggested donation $5)
 
 Tickets:
 Buy
-https://www.eventbrite.ca/e/hops-and-herbs-tickets-669586028837?
+[https://www.eventbrite.ca/e/hops-and-herbs-tickets-669586028837](https://www.eventbrite.ca/e/hops-and-herbs-tickets-669586028837)?
 aff=oddtdtcreator
 
 To accompany our current solo exhibition by Sol Hashemi, titled Tasting Notes,

@@ -29,7 +29,7 @@ a bank account). My experience pales in comparison to what undocumented
 workers face in America today with bill SB1070 (new Arizona Law) & ICE
 (Immigration and Customs Enforcement).
 
-http://www.christopherrodrigues.com
+[http://www.christopherrodrigues.com](http://www.christopherrodrigues.com)
 
 DIRECTIONS TO VIVARIUM GALLERY: Street level converted store-front studio
 2130 Yew Street (one block west of Arbutus) between 5th & 6th on the east
@@ -42,5 +42,5 @@ visual art, 3D art objects and, with a 12x12ft rear projection screen,
 video, installations and performance based work. All exhibitions are
 archived online and work is sold through the website.
 
-http://www.vivariumgallery.com
+[http://www.vivariumgallery.com](http://www.vivariumgallery.com)
 vivariumgallery@gmail.com

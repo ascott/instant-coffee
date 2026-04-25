@@ -12,7 +12,7 @@ Exhibition Tour in Mandarin
 Saturday, February 8, 2025
 2:00 PM - 3:00 PM
 
-REGISTER: https://www.eventbrite.ca/e/-exhibition-tour-in-mandarin-tickets-
+REGISTER: [https://www.eventbrite.ca/e/-exhibition-tour-in-mandarin-tickets-](https://www.eventbrite.ca/e/-exhibition-tour-in-mandarin-tickets-)
 1116887964969
 
 Drop in for a tour of the current Richmond Art Gallery exhibitions in Mandarin,

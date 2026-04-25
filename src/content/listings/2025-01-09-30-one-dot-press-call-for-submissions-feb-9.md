@@ -148,7 +148,7 @@ Rental Dates: September 1, 2025 - February 28, 2026.
 Rental Cost: $700 per month for Studio Rental for Professional Practice Rate, or
 $1,100 for Commercial Rate.
 Deadline: January 28th, 2025
-Link: https://langleyarts.ca/submit/studio-rental
+Link: [https://langleyarts.ca/submit/studio-rental](https://langleyarts.ca/submit/studio-rental)
 
 4.
 North Vancouver | New Artist Project Spaces | JAN 15

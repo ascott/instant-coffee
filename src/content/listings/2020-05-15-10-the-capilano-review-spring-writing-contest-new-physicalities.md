@@ -46,4 +46,4 @@ Livesay Poetry Prize. Her most recent work, Wayside Sang (Talonbooks, 2017), won
 poetry.
 
 Please find the full contest details and portal to submit at:
-https://thecapilanoreview.com/new-physicalities/
+[https://thecapilanoreview.com/new-physicalities/](https://thecapilanoreview.com/new-physicalities/)

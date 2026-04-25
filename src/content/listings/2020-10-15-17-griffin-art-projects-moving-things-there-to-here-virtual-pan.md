@@ -18,7 +18,7 @@ www.griffinartprojects.ca
 
 To register, please visit:
 
-https://zoom.us/meeting/register/tJMrcu2qqDwsH9XXyfTwfuFJy6WrQedbluCV
+[https://zoom.us/meeting/register/tJMrcu2qqDwsH9XXyfTwfuFJy6WrQedbluCV](https://zoom.us/meeting/register/tJMrcu2qqDwsH9XXyfTwfuFJy6WrQedbluCV)
 
 A number of students who studied at a small art college in Halifax went on to become
 teachers and professors at a number of Fine Art Faculties in Universities across

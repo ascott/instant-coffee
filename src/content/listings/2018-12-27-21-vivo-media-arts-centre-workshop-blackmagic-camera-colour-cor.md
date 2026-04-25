@@ -13,7 +13,7 @@ Basics | JAN 26
 
 Blackmagic Camera & Colour Correction Basics
 
-SIGN UP & MORE INFO: https://bmcc-devanscott.eventbrite.ca/
+SIGN UP & MORE INFO: [https://bmcc-devanscott.eventbrite.ca/](https://bmcc-devanscott.eventbrite.ca/)
 
 Learn how to create beautiful videos with the Blackmagic Cinema Camera and its 
 colour correction software in this comprehensive introduction by cinematographer 
@@ -33,4 +33,4 @@ work! Learn how to use them through practical demonstrations and hands-on
 exercises, using footage you shoot and colour correct over two sessions.
 
 One Extended Subsidy is available for this workshop:
-https://goo.gl/forms/Sfpqz2Agn50vE1Rm2
+[https://goo.gl/forms/Sfpqz2Agn50vE1Rm2](https://goo.gl/forms/Sfpqz2Agn50vE1Rm2)

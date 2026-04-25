@@ -28,7 +28,7 @@ Tickets: From $30 at firehallartscentre.ca | 604.689.0926
 
 Post Show Talkbacks: February 8, 15, 22, & 29
 
-Photos: https://www.dropbox.com/scl/fo/ctfj66ak0tu6z0dlh2yh9/h?
+Photos: [https://www.dropbox.com/scl/fo/ctfj66ak0tu6z0dlh2yh9/h](https://www.dropbox.com/scl/fo/ctfj66ak0tu6z0dlh2yh9/h)?
 rlkey=fwwn3ooahkxb8nu6h9tf0vubh&dl=0
 
 (Vancouver, BC) " A crowd favourite when it premiered here at The Firehall in 2012

@@ -42,10 +42,10 @@ Robinson Fine Foods ( gourmet foods) www.robinsonfinefood.blogspot.com
 
 also featuring:
 
-It's Your Life (jewellery) http://itsyourlifeshop.com
+It's Your Life (jewellery) [http://itsyourlifeshop.com](http://itsyourlifeshop.com)
 Christina Kenton (small art and vegan baked goods)
 Momoko Murakami (pottery)
-Sassy Vintage (clothing) http://www.etsy.com/shop.php?user_id=5107854
+Sassy Vintage (clothing) [http://www.etsy.com/shop.php?user_id=5107854](http://www.etsy.com/shop.php?user_id=5107854)
 Shannon Munro (jewellery and felted bunnies)
 Prophecy Sun ( hand sewn little kitties)
 Vancouver is Awesome (community) www.vancouverisawesome.com

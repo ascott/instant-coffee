@@ -34,4 +34,4 @@ Deadline: February 5, 2024.
 Completion: Fall 2025
 
 For more information and to apply please visit:
-https://www.richmond.ca/culture/howartworks/publicart/artist-calls.htm
+[https://www.richmond.ca/culture/howartworks/publicart/artist-calls.htm](https://www.richmond.ca/culture/howartworks/publicart/artist-calls.htm)

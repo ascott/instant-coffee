@@ -17,4 +17,4 @@ animation, and GIF art.
 The deadline to apply for the award is September 15, 2016.
 
 Learn more about the EDAA and how to apply on our website:
-http://edaa.equitablebank.ca/.
+[http://edaa.equitablebank.ca/](http://edaa.equitablebank.ca/).

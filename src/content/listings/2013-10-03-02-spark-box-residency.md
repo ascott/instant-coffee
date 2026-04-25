@@ -22,4 +22,4 @@ opportunity is a unique way for established and emerging artists to cultivate ne
 ideas, access a rich library of arts resources, and focus on their career.
 
 For more information and the online application visit our website: 
-http://sparkboxstudio.com/nationalaward/
+[http://sparkboxstudio.com/nationalaward/](http://sparkboxstudio.com/nationalaward/)

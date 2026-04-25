@@ -24,4 +24,4 @@ the information age of the late 1950s-1960s when art, architecture and design me
 so aptly and, when Marshall McLuhan who was often at UBC during these years, uttered
 his phrase, "the medium is the message." Registration is not required, but seating is on
 a first come, first served basis
-http://https://belkin.ubc.ca/events/homecoming-2024/
+[http://https://belkin.ubc.ca/events/homecoming-2024/](http://https://belkin.ubc.ca/events/homecoming-2024/)

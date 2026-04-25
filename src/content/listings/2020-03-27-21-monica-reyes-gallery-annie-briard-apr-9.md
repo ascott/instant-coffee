@@ -36,4 +36,4 @@ undone, and perception begins.
 Supported by a Tricera Printing Grant.
 
 www.anniebriard.com / www.monicareyesgallery.com /
-https://capturephotofest.com/exhibitions/all-the-light-you-cannot-see/
+[https://capturephotofest.com/exhibitions/all-the-light-you-cannot-see/](https://capturephotofest.com/exhibitions/all-the-light-you-cannot-see/)

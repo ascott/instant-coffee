@@ -13,7 +13,7 @@ Thursday, June 5, 2025
 6:30 PM - 8:30 PM
 $ 5.-00 registration fee Includes all tools & materials.
 
-Register HERE: https://www.eventbrite.ca/e/rag-collage-club-june-session-tickets-
+Register HERE: [https://www.eventbrite.ca/e/rag-collage-club-june-session-tickets-](https://www.eventbrite.ca/e/rag-collage-club-june-session-tickets-)
 1345693578719?aff=oddtdtcreator
 
 This month's Creative Prompt : FASHION

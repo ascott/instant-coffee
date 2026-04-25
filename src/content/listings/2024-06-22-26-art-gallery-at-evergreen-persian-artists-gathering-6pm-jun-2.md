@@ -21,7 +21,7 @@ lake-side lobby. Join a conversation led by Bita Rezaei in this meet & greet to
 connect with fellow artists living in the Tri-Cities and surrounding area.
 
 This event is free and wheelchair accessible. Register here:
-https://evergreenculturalcentre.ca/events/unearthed-persian-artists-gathering/
+[https://evergreenculturalcentre.ca/events/unearthed-persian-artists-gathering/](https://evergreenculturalcentre.ca/events/unearthed-persian-artists-gathering/)
 
 About the Exhibition:
 unearthed: Mitra Mahmoodi & Jamal Tabasinejad

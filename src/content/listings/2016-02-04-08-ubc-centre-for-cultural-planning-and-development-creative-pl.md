@@ -56,5 +56,5 @@ needs of professionals working in all levels of government, arts and
 cultural organizations, and cultural industries.
 
 For more information about the program and other online professional
-development opportunities offered, visit https://cstudies.ubc.ca/study-
+development opportunities offered, visit [https://cstudies.ubc.ca/study-](https://cstudies.ubc.ca/study-)
 topic/cultural-planning-development

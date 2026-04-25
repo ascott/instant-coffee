@@ -59,7 +59,7 @@ memes and art selfies, to art-world race politics.
 Gallery is only accessible via the entrance on West Hastings Street.
 
 [1] Mirene Arsanios, Iman Mersal and Ghalya Saadawi, "Editorial," 
-makhzin, 2016, https://makhzin.org/issues/dictationship/editorial.
+makhzin, 2016, [https://makhzin.org/issues/dictationship/editorial](https://makhzin.org/issues/dictationship/editorial).
 
 Weiyi Chang
 Coordinator, Audain Gallery

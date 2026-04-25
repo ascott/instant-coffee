@@ -63,7 +63,7 @@ the UBC Hampton Fund.
 MakerLABS: Opening late fall, 2013! | 
 MakerLABS: Opening late fall, 2013!
 
-MakerLABS (http://www.makerlabs.ca/) is a digital fabrication studio and 
+MakerLABS ([http://www.makerlabs.ca/](http://www.makerlabs.ca/)) is a digital fabrication studio and 
 multidisciplinary workshop where you can make almost anything. It’s a personal 
 prototyping space that puts all the tools for 3D printing, laser cutting, 
 metalworking, woodworking, craft and apparel in your hands. It’s an educational 

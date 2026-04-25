@@ -21,7 +21,7 @@ artists. Were looking for someone who fits in well with the Team, has valid
 experience and enjoys this type of work.
 
 Visit the City of New Westminster website (jobs) for the full description :
-https://bit.ly/3LYg1V7
+[https://bit.ly/3LYg1V7](https://bit.ly/3LYg1V7)
 
 Pay Scale:
 $26.35 - $30.93 ph (2021 rates) + 12% in lieu of benefits.

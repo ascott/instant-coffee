@@ -26,4 +26,4 @@ wearable technology communities. The Cloaked In Code program will
 also be accessible to an international audience, hosted on the Subtle 
 Technologies website from May through August, 2016.
 
-Visit http://subtletechnologies.com/cloaked-in-code/ for full details.
+Visit [http://subtletechnologies.com/cloaked-in-code/](http://subtletechnologies.com/cloaked-in-code/) for full details.

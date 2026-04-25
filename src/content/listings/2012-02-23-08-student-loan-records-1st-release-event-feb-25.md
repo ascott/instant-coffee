@@ -55,7 +55,7 @@ Curated By:
 
 Natasha Lands & Daniel Rincon 
 
-EVENT LINK: http://www.facebook.com/events/297100727010073/
+EVENT LINK: [http://www.facebook.com/events/297100727010073/](http://www.facebook.com/events/297100727010073/)
 
 Followed by: 
 
@@ -78,9 +78,9 @@ Sensational pop compositions from the trippy mind of multi-
 instrumentalist Crystal Dorval. Lush, Copacabana sky gaze anthems 
 for dreamers and the grounded.
 
-http://crystaldorval.tumblr.com/
+[http://crystaldorval.tumblr.com/](http://crystaldorval.tumblr.com/)
 
-http://myfriendwallis.bandcamp.com/
+[http://myfriendwallis.bandcamp.com/](http://myfriendwallis.bandcamp.com/)
 
 WATERMELON 
 
@@ -89,9 +89,9 @@ Coast beach. Lee Hazlewood smoking a hookah in the background.
 Electric guitars ripped raw through a shimmer-sheen of jangle. 
 Hyperbole.
 
-http://watermelon.bandcamp.com/
+[http://watermelon.bandcamp.com/](http://watermelon.bandcamp.com/)
 
-http://www.myspace.com/watermelonmelonwater
+[http://www.myspace.com/watermelonmelonwater](http://www.myspace.com/watermelonmelonwater)
 
 With support from:
 
@@ -102,7 +102,7 @@ from the screaming trees’ clutches and funneled through their own
 acerbic sense of humour. The new underground movement’s golden 
 child.
 
-EVENT LINK: http://www.facebook.com/events/337426062964324/
+EVENT LINK: [http://www.facebook.com/events/337426062964324/](http://www.facebook.com/events/337426062964324/)
 
 STUDENT LOAN RECORDS 
 
@@ -127,4 +127,4 @@ Student Loan Records
 
 studentloanrecs@gmail.com
 
-http://studentloanrecords.tumblr.com/
+[http://studentloanrecords.tumblr.com/](http://studentloanrecords.tumblr.com/)

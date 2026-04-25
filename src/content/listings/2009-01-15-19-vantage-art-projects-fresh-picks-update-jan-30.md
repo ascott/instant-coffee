@@ -22,7 +22,7 @@ our mailing list and is sold exclusively through the Vantage Art Projects
 website.
 
 New Release: "Manifestation" by Montreal multi-media artist, Yechel Gagnon.
-See http://vantageartprojects.com/Fresh_Picks.html for all releases to date.
+See [http://vantageartprojects.com/Fresh_Picks.html](http://vantageartprojects.com/Fresh_Picks.html) for all releases to date.
 
 Vantage Art Projects
 882 E. Cordova Street

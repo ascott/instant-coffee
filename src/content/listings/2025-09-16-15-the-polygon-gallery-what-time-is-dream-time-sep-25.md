@@ -17,7 +17,7 @@ emerge.
 Doors at 6:30pm
 Talk + Conversation at 7:00pm
 RSVPs are helpful
-RSVP here: https://thepolygon.ca/event/what-time-is-dream-time-a-conversation-
+RSVP here: [https://thepolygon.ca/event/what-time-is-dream-time-a-conversation-](https://thepolygon.ca/event/what-time-is-dream-time-a-conversation-)
 with-daniel-boyd/
 
 About the Artist
@@ -48,4 +48,4 @@ Indigenous communities.
 Curated by Joelle Johnston, Indigenous Liaison and Community Outreach, with
 Daniel Pickering, Audiovisual Assistant/Canada Summer Jobs
 RSVPS are helpful
-RSVP here: https://thepolygon.ca/event/films-for-truth-and-reconciliation/
+RSVP here: [https://thepolygon.ca/event/films-for-truth-and-reconciliation/](https://thepolygon.ca/event/films-for-truth-and-reconciliation/)

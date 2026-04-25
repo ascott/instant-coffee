@@ -13,7 +13,7 @@ online screening of bpNichols First Screening:
 Computer Poems (1984).
 
 please join us from bed on Sunday, January 26, at 9am pacific"for the invitation please
-see: http://bedroomkitchen.garden/sdleeaetph/coming-soon_program-13_sleep-and-
+see: [http://bedroomkitchen.garden/sdleeaetph/coming-soon_program-13_sleep-and-](http://bedroomkitchen.garden/sdleeaetph/coming-soon_program-13_sleep-and-)
 her-brother-death.pdf
 
 run time 9 minutes, 19 seconds, plus opening remarks, with an optional"but hopefully

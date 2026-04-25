@@ -12,7 +12,7 @@ Upcoming League play
 Sunday March 31
 noon to 3pm 
 Elm Park in Kerrisdale
-http://league-league.org
+[http://league-league.org](http://league-league.org)
 
 Next League play date is Sunday March 31, noon to 3pm at Elm Park in 
 Kerrisdale.
@@ -28,9 +28,9 @@ Hiding relies on the unforeseen. Placing ‘easter eggs’ (secret messages or
 inside jokes) in games and computer programs has a long and cultish history. 
 Found objects — objects turned to unexpected uses — have made their way 
 into many a work of art. Scavenger hunts turn lived space into a source of 
-bounty. Through http://Geocaching.com there are some two million treasure 
+bounty. Through [http://Geocaching.com](http://Geocaching.com) there are some two million treasure 
 boxes hidden around the world, many in plain sight. In this vein, the 
-participants in the collaborative game SF0 <http://sf0.org> have set out all 
+participants in the collaborative game SF0 <[http://sf0.org](http://sf0.org)> have set out all 
 kinds of practical tasks for unexpected actions in city space, many of which 
 involve finding or placing objects.
 
@@ -42,4 +42,4 @@ Each game, its equipment, its playing field, and its strategies evolve through
 trial and improvisation. Everyone is welcome to drop in for problem-solving as 
 play. League is a project initiated by artist Germaine Koh within the 
 Vancouver Park Board Field House Residency Program. Fro more information 
-about the project, visit http://league-league.org.
+about the project, visit [http://league-league.org](http://league-league.org).

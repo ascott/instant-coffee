@@ -16,7 +16,7 @@ Guidelines
 
 Artists can submit up to six completed works.
 All artwork must have been produced within the last three years.
-Apply online at: https://form.jotform.com/202715878855267
+Apply online at: [https://form.jotform.com/202715878855267](https://form.jotform.com/202715878855267)
 
 Deadlines
 

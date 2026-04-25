@@ -10,7 +10,7 @@ summary: "CALL FOR SUBMISSIONS | First Fuck | Yuula Benivolski | DEC 30"
 
 "First Fuck" is a book about people's first sexual experiences.
 For more information and to apply please visit
-http://www.yuulabenivolski.com/first2.html
+[http://www.yuulabenivolski.com/first2.html](http://www.yuulabenivolski.com/first2.html)
 
 Review of first issue---------
 

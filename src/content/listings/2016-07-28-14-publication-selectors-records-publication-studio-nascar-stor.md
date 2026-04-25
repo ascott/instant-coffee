@@ -31,4 +31,4 @@ Copies of the book will be available for $20. The event will also be
 the first hosted in Publication Studio Vancouver's new space shared 
 with Selectors' Records!
 
-https://www.facebook.com/events/1796839453936598/
+[https://www.facebook.com/events/1796839453936598/](https://www.facebook.com/events/1796839453936598/)

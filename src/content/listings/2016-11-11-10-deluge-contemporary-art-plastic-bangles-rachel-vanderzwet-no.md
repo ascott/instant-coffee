@@ -33,4 +33,4 @@ Fundamentals from Niagara College. She has shown nationally in Toronto, Halifax,
 Guelph, Victoria and Vancouver and regularly exhibits with Robert Lynds Gallery in 
 Vancouver. 
 
-http://www.deluge.ca
+[http://www.deluge.ca](http://www.deluge.ca)

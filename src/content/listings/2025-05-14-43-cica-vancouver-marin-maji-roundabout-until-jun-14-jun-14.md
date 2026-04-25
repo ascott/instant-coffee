@@ -21,8 +21,8 @@ and brushing the surface to reveal fragments of colour beneath. The act is both
 additive and subtractive, as each gesture negotiates the slow logic of the drying
 medium.
 
-Plan your visit: https://cicavancouver.com/product/buy-ticket/. Read more:
-https://cicavancouver.com/exhibitions/marin-majic-roundabout/?back=ago
+Plan your visit: [https://cicavancouver.com/product/buy-ticket/](https://cicavancouver.com/product/buy-ticket/). Read more:
+[https://cicavancouver.com/exhibitions/marin-majic-roundabout/?back=ago](https://cicavancouver.com/exhibitions/marin-majic-roundabout/?back=ago)
 
 Until June 14, 2025
 

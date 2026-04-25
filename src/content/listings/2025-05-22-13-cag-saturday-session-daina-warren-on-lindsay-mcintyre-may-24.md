@@ -26,4 +26,4 @@ participate in the First Nations Curators Exchange at the 8th Asia-Pacific Trien
 Brisbane, Australia. She was also awarded the 2022 Manitoba Arts Award of Distinction.
 She is currently Executive Director, Indigenous Initiatives at Emily Carr University.
 
-https://cagvancouver.org/event/saturday-session-daina-warren
+[https://cagvancouver.org/event/saturday-session-daina-warren](https://cagvancouver.org/event/saturday-session-daina-warren)

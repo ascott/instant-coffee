@@ -19,5 +19,5 @@ Sunday, March 3, 2"3 p.m. at the Ferry Building Gallery, 1414 Argyle
 Ave, West Vancouver, BC V7T 1C2
 Cost: Free | No registration Required
 For more information, please visit
-https://ferrybuildinggallery.com/programs_events/art_sunday_workshop
+[https://ferrybuildinggallery.com/programs_events/art_sunday_workshop](https://ferrybuildinggallery.com/programs_events/art_sunday_workshop)
 s

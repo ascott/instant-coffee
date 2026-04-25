@@ -10,7 +10,7 @@ summary: "West Vancouver Museum | Ron Thom and the Allied Arts | JUL 5"
 
 West Vancouver Museum
 680 17th Street, West Vancouver, BC V7V 3T2
-http://westvancouvermuseum.ca/
+[http://westvancouvermuseum.ca/](http://westvancouvermuseum.ca/)
 604 925 7295
 Open Tuesday to Saturday 11 am to 5 pm
 Admission by Donation

@@ -23,19 +23,19 @@ Artist information session:
 Tuesday, Feb. 16, 5-7PM
 Roundhouse Community Centre (181 Roundhouse Mews)
 
-NEW ONLINE APPLICATION http://vancouver.ca/people-
+NEW ONLINE APPLICATION [http://vancouver.ca/people-](http://vancouver.ca/people-)
 programs/artists-in-communities-program.aspx
 
 2016 communities that are hosting residencies:
 
 1. Roundhouse Community Centre, 181 Roundhouse Mews,
-Vancouver: http://roundhouse.ca/
+Vancouver: [http://roundhouse.ca/](http://roundhouse.ca/)
 
 2. Britannia Community Centre, 1661 Napier Street, Vancouver:
-http://www.britanniacentre.org/
+[http://www.britanniacentre.org/](http://www.britanniacentre.org/)
 
 3. Kerrisdale Community Centre, 5670 East Boulevard, Vancouver:
-http://www.kerrisdalecc.com/
+[http://www.kerrisdalecc.com/](http://www.kerrisdalecc.com/)
 
 About the Artists In Communities Program:
 

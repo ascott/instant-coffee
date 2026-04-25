@@ -46,4 +46,4 @@ bathroom and other common areas in a clean, tidy and orderly
 manner, with respect for the other residents using the space.
 
 Links to more information and how to apply:
-http://caetani.org/self-directed-residencies-for-artists-and-writers/
+[http://caetani.org/self-directed-residencies-for-artists-and-writers/](http://caetani.org/self-directed-residencies-for-artists-and-writers/)

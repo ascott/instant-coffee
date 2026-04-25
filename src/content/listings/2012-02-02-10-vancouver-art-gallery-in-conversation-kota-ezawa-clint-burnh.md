@@ -38,10 +38,10 @@ Ezawa’s work brings to mind a range of associations with regards to
 democracy, collective decision making and the investment of the 
 individual in the creation of public space. Clint Burnham, co-curator 
 (with Lorna Brown) of the recent public art project Digital Natives 
-(http://digitalnatives.othersights.ca/ 
-<http://digitalnatives.othersights.ca/> ) and Stephen Collis, whose 
+([http://digitalnatives.othersights.ca/](http://digitalnatives.othersights.ca/) 
+<[http://digitalnatives.othersights.ca/](http://digitalnatives.othersights.ca/)> ) and Stephen Collis, whose 
 recent involvement in Occupy Vancouver is documented at 
-http://occupyvancouvervoice.com/ <http://occupyvancouvervoice.com/> 
+[http://occupyvancouvervoice.com/](http://occupyvancouvervoice.com/) <[http://occupyvancouvervoice.com/](http://occupyvancouvervoice.com/)> 
 , will give local perspective to Ezawa’s evocative image. Public space, 
 in our current historical moment, has become a contested territory, and 
 the occupation of it a powerful and controversial statement. In this 

@@ -31,4 +31,4 @@ All art supplies will be provided.
 
 Fee is $25 for 2 hours
 10 am - noon November 2nd
-Register: https://thethisgallery.com/products/workshop-materiality-and-mourning
+Register: [https://thethisgallery.com/products/workshop-materiality-and-mourning](https://thethisgallery.com/products/workshop-materiality-and-mourning)

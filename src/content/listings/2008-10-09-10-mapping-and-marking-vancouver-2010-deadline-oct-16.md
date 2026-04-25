@@ -13,7 +13,7 @@ October 16. For those who have not seen them, the questions and answers for
 this call are attached. Details of the Mapping and Marking call are below.
 
 The following artist and curator call from the City of Vancouver is posted
-online at http://vancouver.ca/commsvcs/oca/PublicArt/artistopp.htm.
+online at [http://vancouver.ca/commsvcs/oca/PublicArt/artistopp.htm](http://vancouver.ca/commsvcs/oca/PublicArt/artistopp.htm).
 
 Olympic and Paralympic Public Art Program
 Vancouver, BC
@@ -42,7 +42,7 @@ Vancouver and the Lower Mainland. Partnerships between local and non-local
 artists are eligible. Independent curators or non-profit art organizations
 may also apply to work with one or more artists.
 Call for Expressions of Interest:
-http://vancouver.ca/commsvcs/oca/publicart/pdf/artistinitiated2010.pdf
+[http://vancouver.ca/commsvcs/oca/publicart/pdf/artistinitiated2010.pdf](http://vancouver.ca/commsvcs/oca/publicart/pdf/artistinitiated2010.pdf)
 <file:///¥¥pdf¥artistinitiated2010.pdf>
 
 ---

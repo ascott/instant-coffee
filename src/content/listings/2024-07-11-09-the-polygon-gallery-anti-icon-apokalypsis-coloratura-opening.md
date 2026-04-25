@@ -14,7 +14,7 @@ Coloratura Opening Celebration.
 7:00 pm - Doors
 7:30 pm - Remarks
 RSVPs are helpful
-RSVP Here: https://thepolygon.ca/event/anti-icon-apokalypsis-opening-celebration/
+RSVP Here: [https://thepolygon.ca/event/anti-icon-apokalypsis-opening-celebration/](https://thepolygon.ca/event/anti-icon-apokalypsis-opening-celebration/)
 Anti-Icon: Apokalypsis is on view at The Polygon July 12 " September 29.
 Coloratura is on view at The Polygon until Spring 2025
 Stay late for an outdoor screening of Stop Making Sense at 9pm

@@ -31,5 +31,5 @@ Tla-
 o-qui-aht, and Lekwungen traditional territories he has called home.
 
 For more information, please visit:
-https://www.burnaby.ca/recreation-and-arts/arts-and-culture-facilities/burnaby-art-
+[https://www.burnaby.ca/recreation-and-arts/arts-and-culture-facilities/burnaby-art-](https://www.burnaby.ca/recreation-and-arts/arts-and-culture-facilities/burnaby-art-)
 gallery/exhibitions/roy-henry-vickers

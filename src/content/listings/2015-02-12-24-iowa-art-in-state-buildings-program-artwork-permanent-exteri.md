@@ -26,7 +26,7 @@ and site are very limited; therefore, the selection committee primarily
 seeks to purchase and place a new or existing work of art on the site.
 
 For more information and submission guidelines:
-http://www.facilities.uiowa.edu/art-on-campus/RFP%20-%20Art%20Building%20Replacement%20-%20020615.pdf
+[http://www.facilities.uiowa.edu/art-on-campus/RFP%20-%20Art%20Building%20Replacement%20-%20020615.pdf](http://www.facilities.uiowa.edu/art-on-campus/RFP%20-%20Art%20Building%20Replacement%20-%20020615.pdf)
 
 25. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.

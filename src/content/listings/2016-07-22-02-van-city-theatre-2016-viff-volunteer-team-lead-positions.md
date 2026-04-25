@@ -40,5 +40,5 @@ Marketing and Distribution - Volunteer Videographer
 Office - Administrative Team Lead
 
 To find out more information please visit 
-http://www.viff.org/volunteer to find the application and other 
+[http://www.viff.org/volunteer](http://www.viff.org/volunteer) to find the application and other 
 opportunities.

@@ -40,7 +40,7 @@ Laiwan is an artist, writer, and curator recognized for her interdisciplinary pr
 activism in the gay and feminist communities. Her work is part of the Vancouver Art Gallery’s 
 current exhibition, "How Soon is Now? Contemporary Art from Here" at the Vancouver Art Gallery 
 (to May 3, 2009). In 2007, she created an ongoing, interactive website "Call Numbers: The 
-Library Recordings", <http://thelibraryrecordings.eciad.ca/> a collaborative project with the 
+Library Recordings", <[http://thelibraryrecordings.eciad.ca/](http://thelibraryrecordings.eciad.ca/)> a collaborative project with the 
 Vancouver Public Library that was curated by Lorna Brown. Laiwan lives in Vancouver and 
 teaches in the MFA Interdisciplinary Arts Program at Goddard College in Washington State.
 
@@ -49,7 +49,7 @@ teaches in the MFA Interdisciplinary Arts Program at Goddard College in Washingt
 "Threshold (cont.)" is on view until May 10, 2009
 Walter C. Koerner Library, Main floor, 1958 Main Mall, UBC
 Library hours: Mon - Fri 8am - 11pm, Sat - Sun 10am - 11pm
-<http://www.library.ubc.ca/koerner>
+<[http://www.library.ubc.ca/koerner](http://www.library.ubc.ca/koerner)>
 
 This project is a collaboration of the Morris and Helen Belkin Art Gallery and Walter C. Koerner 
 Library at the University of British Columbia, and has been made possible by the generous 

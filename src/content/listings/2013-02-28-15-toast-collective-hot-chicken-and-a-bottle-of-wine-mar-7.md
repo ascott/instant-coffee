@@ -33,11 +33,11 @@ art, event and food-centric space at 648 Kingsway in East Vancouver. Toast
 is a D.I.Y., flexible and community-located space for artists, events and 
 workshops.
 
-http://thetoast.org/
+[http://thetoast.org/](http://thetoast.org/)
 
-http://m.facebook.com/events/268570623275383/?ref=22
+[http://m.facebook.com/events/268570623275383/?ref=22](http://m.facebook.com/events/268570623275383/?ref=22)
 
-https://www.facebook.com/groups/JUNKTION/
+[https://www.facebook.com/groups/JUNKTION/](https://www.facebook.com/groups/JUNKTION/)
 
 The Toast Collective is a store front with the following measurements:
 Front door: 40”  across

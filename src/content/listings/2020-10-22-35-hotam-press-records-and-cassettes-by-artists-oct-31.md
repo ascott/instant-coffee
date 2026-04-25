@@ -30,5 +30,5 @@ Hotam Press
 218 East 4th Ave.
 Vancouver BC
 V5T 1G5
-https://bookshopgallery.hotampress.com
+[https://bookshopgallery.hotampress.com](https://bookshopgallery.hotampress.com)
 Hours: Sat & Sun 12 to 5 PM

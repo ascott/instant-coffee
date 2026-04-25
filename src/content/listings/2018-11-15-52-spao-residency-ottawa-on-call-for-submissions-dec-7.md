@@ -46,7 +46,7 @@ help facilitate their residency.
 
 How to Apply
 Complete information about the Residency is posted on the SPAO website: 
-http://spao.ca/residency/ After completing the Artist-in-Residence form on the SPAO 
+[http://spao.ca/residency/](http://spao.ca/residency/) After completing the Artist-in-Residence form on the SPAO 
 website, applicants are asked to submit supporting documents and images via email to 
 info@spao.ca. The deadline for the next residency is December 7, 2018; however, space is 
 extremely limited and we encourage early applications.

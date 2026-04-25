@@ -35,7 +35,7 @@ This piece manifests the explosive energy found both within oneself and in the n
 There are undercurrents -- oceans and waves of emotion -- that eventually surface and explode 
 in myriad ways. Her expressive pathways reveal themselves both in her painting process and 
 within the landscape of the final work.
-http://www.huilinliu.com
+[http://www.huilinliu.com](http://www.huilinliu.com)
 
 The VIVARIUM GALLERY rests in the affluent neighborhood of Kitsilano in Vancouver; co-
 founded by jamie griffiths and Christopher Rodrigues in the summer of 2008. It is being 
@@ -46,7 +46,7 @@ can remain for sale even after the exhibition closes. The VIVARIUM GALLERY has d
 community based patronage through private invitation and word of mouth, rather than commercial 
 advertising. Our mission is to continue to provide exhibition opportunities for emerging artists,
 while fostering a meeting place for the local and artistic community.
-http://www.vivariumgallery.com
+[http://www.vivariumgallery.com](http://www.vivariumgallery.com)
 
 VIVARIUM GALLERY
 2130 Yew Street, Vancouver, BC, Canada

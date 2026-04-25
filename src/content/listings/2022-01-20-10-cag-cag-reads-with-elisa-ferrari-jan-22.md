@@ -24,4 +24,4 @@ from Jackie Wangs the sunflower cast a spell to save us from the void (2021) and
 Moures Sitting Shiva on Minto Avenue, By Toots (2017).
 
 To learn more, RSVP, and receive the texts:
-https://www.contemporaryartgallery.ca/events/cag-reads-elisa-ferrari/
+[https://www.contemporaryartgallery.ca/events/cag-reads-elisa-ferrari/](https://www.contemporaryartgallery.ca/events/cag-reads-elisa-ferrari/)

@@ -36,14 +36,14 @@ be given to proposals that respond to one or a collaboration of the priority the
 
 Learn more about the program by reading the Fieldhouse Activation Program Information 
 Guide (PDF).
-https://vancouver.ca/files/cov/2019-2021-fieldhouse-activation-program-guidelines.pdf
+[https://vancouver.ca/files/cov/2019-2021-fieldhouse-activation-program-guidelines.pdf](https://vancouver.ca/files/cov/2019-2021-fieldhouse-activation-program-guidelines.pdf)
 
 For more information on how to apply, the scope involved, and how your application will be 
 reviewed, visit the website by clicking the button below. 
 
 The application deadline is Monday, September 17, 2018.
 
-https://vancouver.ca/people-programs/fieldhouse-activation-program.aspx
+[https://vancouver.ca/people-programs/fieldhouse-activation-program.aspx](https://vancouver.ca/people-programs/fieldhouse-activation-program.aspx)
 
 Contact
 pbfieldhouses@vancouver.ca

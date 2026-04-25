@@ -25,7 +25,7 @@ Contact: Makiko Hara (curator)
 makiko.hara@centrea.org
 
 Exhibition info:
-http://centrea.org/index.cfm?go=site.index&section=exhibitions&tag=current
+[http://centrea.org/index.cfm?go=site.index&section=exhibitions&tag=current](http://centrea.org/index.cfm?go=site.index&section=exhibitions&tag=current)
 
 Centre A
 Vancouver International Centre for Contemporary Asian Art

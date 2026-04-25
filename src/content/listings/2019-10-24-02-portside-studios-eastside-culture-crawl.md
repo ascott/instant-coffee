@@ -13,6 +13,6 @@ days only)
 Studio artists in attendance.
 November 14 & 15, evenings only 5 - 10pm
 November 16 & 17, daily, 11am to 6 pm.
-https://portsidestudios.weebly.com/about.html
-https://culturecrawl.ca/
-https://culturecrawl.ca/artists/dorothy-doherty
+[https://portsidestudios.weebly.com/about.html](https://portsidestudios.weebly.com/about.html)
+[https://culturecrawl.ca/](https://culturecrawl.ca/)
+[https://culturecrawl.ca/artists/dorothy-doherty](https://culturecrawl.ca/artists/dorothy-doherty)

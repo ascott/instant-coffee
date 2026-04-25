@@ -34,9 +34,9 @@ how water teaches us interdependence with other humans and living creatures,
 both near and far.
 
 Please feel free to invite your friends! The event page is at 
-https://www.facebook.com/events/265810820505739/
+[https://www.facebook.com/events/265810820505739/](https://www.facebook.com/events/265810820505739/)
 
-For more info see https://www.wlupress.wlu.ca/Books/D/downstream
+For more info see [https://www.wlupress.wlu.ca/Books/D/downstream](https://www.wlupress.wlu.ca/Books/D/downstream)
 
 With grateful acknowledgement to the Coast Salish peoples whose lands we are 
 on, and the support of the Social Science and Humanities Research Council of 

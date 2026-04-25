@@ -19,7 +19,7 @@ distributors are invited to apply to participate in the inaugural Vancouver Phot
 Book Fair. 
 
 For more information and the application form, visit: 
-http://capturephotofest.com/vancouver-photo-book-fair/.
+[http://capturephotofest.com/vancouver-photo-book-fair/](http://capturephotofest.com/vancouver-photo-book-fair/).
 
 DESCRIPTION:
 The Vancouver Photo Book Fair surveys one of photography's earliest forms of 

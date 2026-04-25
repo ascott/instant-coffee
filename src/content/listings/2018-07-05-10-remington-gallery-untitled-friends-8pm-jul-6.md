@@ -34,7 +34,7 @@ The show will be a one night event. Artwork will be displayed in the front galle
 there will be a backroom/lounge area with music, drinks and space to chat and chill. 
 
 Find the event on facebook and follow us on Instagram!
-https://www.facebook.com/events/1052773474872889/
-https://www.instagram.com/untitledartspace/
+[https://www.facebook.com/events/1052773474872889/](https://www.facebook.com/events/1052773474872889/)
+[https://www.instagram.com/untitledartspace/](https://www.instagram.com/untitledartspace/)
 
 Special thanks to Dominion Cider and Postmark Brewing for sponsoring this show.

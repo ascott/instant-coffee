@@ -8,7 +8,7 @@ venue: "Eastside Atelier"
 summary: "Eastside Atelier | Soft Structures: Winter Wovens | JAN 10"
 ---
 
-https://tinyurl.com/softstructuresworkshop
+[https://tinyurl.com/softstructuresworkshop](https://tinyurl.com/softstructuresworkshop)
 
 January 10, 24 or 31 from 10am-2pm
 Eastside Atelier, 1310 William Street

@@ -107,4 +107,4 @@ members were exhibited at the Canadian War Museum in Ottawa Nov 8-11, 2014.
 Exhibition Info: info@michaelmichaelmichael.com
 www.michaelmichaelmichael.com
 www.fostereastman.com
-Facebook Event Page: https://www.facebook.com/events/1063227463705720/
+Facebook Event Page: [https://www.facebook.com/events/1063227463705720/](https://www.facebook.com/events/1063227463705720/)

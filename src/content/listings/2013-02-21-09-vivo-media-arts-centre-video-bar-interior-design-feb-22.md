@@ -14,7 +14,7 @@ Friday, February 22, 8PM-12AM
 1965 Main St. Vancouver
 Ambient social. FREE.
 
-http://www.vivomediaarts.com/event/video-bar-interior-design
+[http://www.vivomediaarts.com/event/video-bar-interior-design](http://www.vivomediaarts.com/event/video-bar-interior-design)
 Programmed by Shockk Mongoose
 
 INTERIOR DESIGN is a project by guitarist/composer Shockk Mongoose in 

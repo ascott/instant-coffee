@@ -23,7 +23,7 @@ diaspora culture in Canada and whose works can be optimized for online delivery.
 Galvanized Suns is a three day live-stream media event organized
 by the curatorial
 collective Diasporic Futurisms
-http://diasporicfuturisms.com/index.html
+[http://diasporicfuturisms.com/index.html](http://diasporicfuturisms.com/index.html)
 in partnership with Subtle Technologies. Galvanized Suns is the first of an ongoing project
 exploring diverse facets of transformative practice.
 
@@ -49,7 +49,7 @@ realism, fantasy, science fiction, speculative fiction, folklore, and related su
 
 Diasporic Futurisms Galvanized Suns is a project of Subtle Technologies 2020 Emerging
 Curator Mentorship Program.
-http://subtletechnologies.com/
+[http://subtletechnologies.com/](http://subtletechnologies.com/)
 Subtle Technologies is a Toronto-based platform for community-building and knowledge-
 sharing at the intersection of art, science and technology.
 

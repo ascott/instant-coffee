@@ -26,15 +26,15 @@ objects.
 This League play day will unfold in two locations:
 
 11:00am-1:00pm special appearance at Memorial Park West, for 
-Dunbar’s Salmonberry Days Festival (map: http://goo.gl/maps/BOsy3) 
+Dunbar’s Salmonberry Days Festival (map: [http://goo.gl/maps/BOsy3](http://goo.gl/maps/BOsy3)) 
 1:00-3:00pm at our regular location, Elm Park in Kerrisdale (map: 
-http://goo.gl/maps/Qh8M4).
+[http://goo.gl/maps/Qh8M4](http://goo.gl/maps/Qh8M4)).
 
 League is an open gathering for playing invented games and sports, to 
 practice improvisation, strategy, performance, and critical thinking as 
 play. Everyone is welcome to drop in; bring both body and mind. 
 League is project within the Vancouver Park Board Field House 
-Residency Program. More info: http://League-League.org
+Residency Program. More info: [http://League-League.org](http://League-League.org)
 
 Other League news
 
@@ -45,11 +45,11 @@ different sports-, creative- and business teams from across Vancouver
 will convene at Elm Park to test their teamwork, strategic skills, and 
 adaptability, competing against each other to play invented sports they 
 do not know. Participating teams include Roadhouse Interactive game 
-studio (http://roadhouseinteractive.com), Double Rainbow Dodgeball 
-League (http://doublerainbowdodgeball.ca), Rethink advertising 
-agency (http://www.rethinkcanada.com), Theatre Replacement 
-(http://www.theatrereplacement.org/), and the Daughters of Beer 
-(http://daughtersofbeer.tumblr.com/).
+studio ([http://roadhouseinteractive.com](http://roadhouseinteractive.com)), Double Rainbow Dodgeball 
+League ([http://doublerainbowdodgeball.ca](http://doublerainbowdodgeball.ca)), Rethink advertising 
+agency ([http://www.rethinkcanada.com](http://www.rethinkcanada.com)), Theatre Replacement 
+([http://www.theatrereplacement.org/](http://www.theatrereplacement.org/)), and the Daughters of Beer 
+([http://daughtersofbeer.tumblr.com/](http://daughtersofbeer.tumblr.com/)).
 
 A Toronto edition of The n Games will also take place as part of Nuit 
 Blanche, overnight on 5-6 October 2013.

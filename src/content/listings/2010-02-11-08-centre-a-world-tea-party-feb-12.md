@@ -19,7 +19,7 @@ Gallery Hours: 2:00 pm - 10:00 pm daily
 Free admission before 6:00 pm
 Opening Reception: Friday, February 12, 7:00 pm
 
-EVENT SCHEDULE: http://www.centrea.org
+EVENT SCHEDULE: [http://www.centrea.org](http://www.centrea.org)
 Follow us on Facebook, Flickr & Watch us LIVE on:
 
 Ustream
@@ -76,7 +76,7 @@ urban planning demonstrations, social events and a parade are just some of
 the manifestations that animate the historical heart of the city. The group
 includes artist-run centres, a fashion artist, an architecture studio, a
 commercial gallery, and a magazine.
-More information: http://bright-light.ca/
+More information: [http://bright-light.ca/](http://bright-light.ca/)
 
 Come have a cup of tea!
 

@@ -16,7 +16,7 @@ Opening hours: Thursdays 1pm to 7pm, Fridays-Sundays 12pm to 6pm
 
 Opening night: August 9th, 6-9pm
 Closing night and Auction: August 30, 6-9pm
-https://drivinginpalestine.cargo.site/
+[https://drivinginpalestine.cargo.site/](https://drivinginpalestine.cargo.site/)
 instagram @drivinginpalestine
 
 To drive in Palestine is to pass through a landscape cut by walls, watchtowers,

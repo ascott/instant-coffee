@@ -26,7 +26,7 @@ March 26 – April 30 and will be shown in the window of the
 soon-to-open UNIT/PITT Projects space at 15 E. Pender from April 8 –
 23.
 
-For more information, visit http://publicaccess.helenpittgallery.org
+For more information, visit [http://publicaccess.helenpittgallery.org](http://publicaccess.helenpittgallery.org)
 or contact the Helen Pitt Gallery at info@helenpittgallery.org or 604
 681 6740.
 

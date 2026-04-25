@@ -36,13 +36,13 @@ INVITED ARTISTS
 Lois Klassen is a Vancouver based artist, and MFA graduate at Emily 
 Carr University. Her collaborative and interdisciplinary artworks and 
 writings continually combine materialist and social art practices. 
-http://loisklassen.com/
+[http://loisklassen.com/](http://loisklassen.com/)
 YacTac Collective The Young Asian Canadian Twin Artists Collective 
 stems from the uniqueness of Yactac culture, one that is infused with 
 coincidences, cohesive thinking, *magic, and irony. Yactac as a 
 collective is dedicated to the necessities of art flow. To promote, 
 support, and encourage the creation of art daily; as they believe in the 
-innate creative qualities of art-making within us all. http://yactac.com/.
+innate creative qualities of art-making within us all. [http://yactac.com/](http://yactac.com/).
 Soledad Muñoz is an interdisciplinary canadian artist raised in Chile.
 Through the combination of new and old technologies she explores the 
 in-between and ever-changing bridges between sonic and visual 

@@ -41,7 +41,7 @@ Kalmensons Neither Country, Nor Graveyard (2017) and A House of Skin
 of the artist, the subject of the archive. - Svitlana Matviyenko
 
 Throughout the spring season, 221A hosts sum of the parts
-(http://221a.ca/sum-of-the-parts), a curatorial research project by Jenn
+([http://221a.ca/sum-of-the-parts](http://221a.ca/sum-of-the-parts)), a curatorial research project by Jenn
 Jackson which brings together a selection of films, performances and
 installations by Deanna Bowen, Felix Kalmenson, Divya Mehra, Krista Belle
 Stewart, and Casey Wei, who activate personal histories which are drawn

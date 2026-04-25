@@ -11,7 +11,7 @@ summary: "[ONLINE WORKSHOP] VIVO | Intro to Music Production & Ableton Live | MA
 Intro to Music Production & Ableton Live
 
 More info and sign up at:
-https://music-in-ableton.eventbrite.ca
+[https://music-in-ableton.eventbrite.ca](https://music-in-ableton.eventbrite.ca)
 
 Expand your music performance and composition methods with Ableton Live taught by
 composer-producer Alexandre Klinke.

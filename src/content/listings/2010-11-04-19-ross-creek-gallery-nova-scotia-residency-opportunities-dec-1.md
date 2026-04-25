@@ -20,7 +20,7 @@ spectacular rural environment along with the gifts of time and space to
 inspire talented artists of all disciplines. A Ross Creek Colony consists
 of use of a studio, accommodations, and three prepared meals a day for
 between four and eight weeks. See
-http://www.artscentre.ca/artists/colonyandresidency.html for more
+[http://www.artscentre.ca/artists/colonyandresidency.html](http://www.artscentre.ca/artists/colonyandresidency.html) for more
 information and application forms. Colonies do not include a public
 component. Residencies include a teaching or other public element with our
 local or wider community.

@@ -14,7 +14,7 @@ dance creation in partnership with the W2 Community Media Arts Society
 Dates: October 20, 21, 22, 23, 27, 28, 29, 30 2010
 Time: 8:00pm
 Advance Tickets: Tickets Tonight (604.684.2787) www.ticketstonight.ca
-<http://www.ticketstonight.ca/>
+<[http://www.ticketstonight.ca/](http://www.ticketstonight.ca/)>
 
 Co.ERASGA’s Shadow Machine is an interdisciplinary and collaborative
 production incorporating contemporary dance, video, audio, photography and

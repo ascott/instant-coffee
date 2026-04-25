@@ -50,9 +50,9 @@ ephemeral memories.
 So has showcased work in North America and Europe, and continues to diversify
 their studio practice by attending local and international artist residencies.
 
-Artist's website: https://katie.so/
+Artist's website: [https://katie.so/](https://katie.so/)
 
 Full artist
-statement: https://thisgallery.org/project/katie-so/
+statement: [https://thisgallery.org/project/katie-so/](https://thisgallery.org/project/katie-so/)
 
-Preview and purchase work online: https://thethisgallery.com/collections/katie-so
+Preview and purchase work online: [https://thethisgallery.com/collections/katie-so](https://thethisgallery.com/collections/katie-so)

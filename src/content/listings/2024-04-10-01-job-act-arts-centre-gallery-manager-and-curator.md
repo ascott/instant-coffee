@@ -38,7 +38,7 @@ and cultural programming and activities to over 80,000 patrons annually.
 
 Website:
 
-http://theactmapleridge.org
+[http://theactmapleridge.org](http://theactmapleridge.org)
 
 Job
 Description:

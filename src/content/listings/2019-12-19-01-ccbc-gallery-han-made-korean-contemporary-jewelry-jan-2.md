@@ -16,7 +16,7 @@ January 2, 2020 - February 12, 2020
 
 Opening reception: January 9, 2020, 7-9pm
 
-Free RSVP: http://hanmade.eventbrite.ca
+Free RSVP: [http://hanmade.eventbrite.ca](http://hanmade.eventbrite.ca)
 
 HAN made is introducing the inspirational work by 20 Korean jewelry artists.
 

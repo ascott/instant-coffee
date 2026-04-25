@@ -35,5 +35,5 @@ Starting from Scratch, Jorane, Robert Mason (kLoX), Niyaz, Abida Parveen, UK
 DJ/Producer Bally Sagoo and Tanya Tagaq.
 The event is co presented by Indian Summer Festival. 
 
-http://www.sfu.ca/galleries/SFUGalleriesEvents/2019/GurpreetChana_TalkandPerforma
+[http://www.sfu.ca/galleries/SFUGalleriesEvents/2019/GurpreetChana_TalkandPerforma](http://www.sfu.ca/galleries/SFUGalleriesEvents/2019/GurpreetChana_TalkandPerforma)
 nce.html

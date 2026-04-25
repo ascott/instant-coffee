@@ -39,7 +39,7 @@ in 2010, SLOW Relations + Practices is part of our 25th Anniversary programming
 that examines the organizations rich history as the only public gallery in Canada that
 focuses on Asian and Asian diasporic perspectives.
 
-For more information, please go to our website: https://centrea.org/opportunities/
+For more information, please go to our website: [https://centrea.org/opportunities/](https://centrea.org/opportunities/)
 
 This program is funded by
 the BC Multiculturalism & Anti-Racism Grant.

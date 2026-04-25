@@ -42,4 +42,4 @@ together in interesting ways. As a word-put-togetherer, Spenst was
 recently shortlisted for Snare Books' Robert Kroetsch Award, and his 
 project using Twitter to spell-check Finnegans Wake has attracted 
 some attention. See the Wake translations here: 
-http://twitter.com/twinnegganswake
+[http://twitter.com/twinnegganswake](http://twitter.com/twinnegganswake)

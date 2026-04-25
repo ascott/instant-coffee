@@ -25,4 +25,4 @@ exhibition by Andrew Lee, and Khan Lee. Ascending: Black, White, and brown
 Saturday July 2nd and Sunday July 3rd will be last chance to come see this
 exhibition. DAA is open 12:00-5:00 on those days.
 
-http://mtwebsit.blogspot.ca/2016/06/stairway-to-seven.html
+[http://mtwebsit.blogspot.ca/2016/06/stairway-to-seven.html](http://mtwebsit.blogspot.ca/2016/06/stairway-to-seven.html)

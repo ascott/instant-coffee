@@ -54,7 +54,7 @@ from painting and sculpture to video, performance and literary works. Through
 shifting contexts, SiteFactory is in conversation with a diverse range of 
 landscapes and art practices, exploring the intersection of contemporary art, 
 collaborative action and migration.
-http://www.sitefactory.ca
+[http://www.sitefactory.ca](http://www.sitefactory.ca)
 
 LOIS KLASSEN is a Vancouver-based artist and writer engaged in social 
 practice. Her on-going projects Comforter Art Action and Slofemists (with Lori 
@@ -70,7 +70,7 @@ She has worked as an art educator, a research ethics coordinator, and an
 Occupational Therapist. Her current PhD research (Queen's University) concerns 
 ethical formations in socially situated research-creation projects. Klassen received 
 a Master of Applied Art in Visual Art from Emily Carr University in 2011.
-- http://loisklassen.com 
+- [http://loisklassen.com](http://loisklassen.com) 
 
 LEAH WEINSTEIN's art practice investigates connections between material 
 culture and the social ideals of a larger collective. Using everyday objects and 

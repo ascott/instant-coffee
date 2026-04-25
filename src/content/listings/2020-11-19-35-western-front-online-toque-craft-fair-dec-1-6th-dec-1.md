@@ -33,4 +33,4 @@ Avenue, Vancouver on Friday, December 11, 4pm-8pm and Saturday, December 12,
 You can also follow all the incredible things that will be available during Toque at our
 Instagram @toquecraftfair
 
-http://toquecraftfair.com/
+[http://toquecraftfair.com/](http://toquecraftfair.com/)

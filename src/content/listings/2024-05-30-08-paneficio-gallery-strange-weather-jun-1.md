@@ -38,7 +38,7 @@ obsessive pencil drawing, and acrylic paint. The visual balance of materials is 
 core of these pieces. Everything is
 done with intention.
 
-https://www.paneficiogallery.com/
-https://www.instagram.com/paneficiogallery/
+[https://www.paneficiogallery.com/](https://www.paneficiogallery.com/)
+[https://www.instagram.com/paneficiogallery/](https://www.instagram.com/paneficiogallery/)
 800 Keefer Street
 Vancouver, BC

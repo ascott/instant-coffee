@@ -21,5 +21,5 @@ AB-2019-01987
 Solicitation Number:
 QU4918
 Link to APC:
-http://vendor.purchasingconnection.ca/Opportunity.aspx?
+[http://vendor.purchasingconnection.ca/Opportunity.aspx](http://vendor.purchasingconnection.ca/Opportunity.aspx)?
 Guid=D038E727-1164-4393-87F8-0665C979A8DE

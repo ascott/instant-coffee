@@ -30,7 +30,7 @@ the title Three Readings: Camera, Tape and Sound (Kathy Acker, Steve
 McCaffery/bpNicol, and Kevin Davies, as introduced by George Bowering). The
 screening and talk took place on January 12, 2011 in the Grande Luxe Hall.
 
-To download the PDF please visit http://front.bc.ca/mediaarts/events/3376.
+To download the PDF please visit [http://front.bc.ca/mediaarts/events/3376](http://front.bc.ca/mediaarts/events/3376).
 The file is available for download to the right side of the page.
 
 For more information please contact Sarah Todd at sarahtodd@front.bc.ca

@@ -38,5 +38,5 @@ Reserve a spot for the FREE INTRO to this series on February 11th from 6:30-
 The actual workshop will be taking place in person, in Vancouver BC. Workshop will
 run Tuesdays from 6:30-8:30pm, starting on Tuesday, Feb 25th.
 
-Learn more: https://9creativelives.com/classes/breathe-into-poetry-
+Learn more: [https://9creativelives.com/classes/breathe-into-poetry-](https://9creativelives.com/classes/breathe-into-poetry-)
 writing/workshops/voice-and-narrative-series/

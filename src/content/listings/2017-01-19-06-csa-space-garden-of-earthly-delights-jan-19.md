@@ -18,7 +18,7 @@ capacity.
 CSA Space, 2422 Main Street, Vancouver (Entrance through Pulpfiction Books)
 
 Tickets: $10 -> PURCHASE HERE
-http://gruntgallery.bigcartel.com/product/mere-phantoms-garden-of-earthly-
+[http://gruntgallery.bigcartel.com/product/mere-phantoms-garden-of-earthly-](http://gruntgallery.bigcartel.com/product/mere-phantoms-garden-of-earthly-)
 delights-performance
 
 Inspired by the Hieronymus Bosch painting of the same name, this is an 

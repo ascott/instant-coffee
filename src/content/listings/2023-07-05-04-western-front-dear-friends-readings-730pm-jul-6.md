@@ -26,12 +26,12 @@ Free
 
 Attend In-Person:
 Register
-https://www.eventbrite.ca/e/dear-friends-dm-bradford-danielle-lafrance-jane-shi-
+[https://www.eventbrite.ca/e/dear-friends-dm-bradford-danielle-lafrance-jane-shi-](https://www.eventbrite.ca/e/dear-friends-dm-bradford-danielle-lafrance-jane-shi-)
 tickets-664888388067?aff=oddtdtcreator
 
 Livestream:
 Watch
-https://vimeo.com/event/3519363
+[https://vimeo.com/event/3519363](https://vimeo.com/event/3519363)
 
 Western Front and The Capilano Review are pleased to invite you to the third event
 in our new monthly reading series, Dear Friends &. Please join us for an evening of

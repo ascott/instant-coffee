@@ -16,7 +16,7 @@ rescoring of the film.
 OCT. 22 | 6:30PM | VIFF CENTRE
 
 Tickets:
-https://viff.org/whats-on/metropolis-reworked/
+[https://viff.org/whats-on/metropolis-reworked/](https://viff.org/whats-on/metropolis-reworked/)
 A cautionary sci-fi epic, Metropolis holds up an unsettling mirror to our present-day
 anxieties around artificial intelligence, class division, the automation of labour, and
 the blurred boundaries of the human. It imagines a dystopian future brought about

@@ -47,4 +47,4 @@ documents to prove eligibility
 Length of Internship: 24 hours/week for 30 weeks (February - August 2019)
 
 For more details, please see the full listing on our website: 
-http://centrea.org/opportunities/
+[http://centrea.org/opportunities/](http://centrea.org/opportunities/)

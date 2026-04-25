@@ -123,7 +123,7 @@ Street (in Vanier Park).
 Images of standout garments and the curators, can be downloaded from this
 Dropbox:
 
-https://www.dropbox.com/sh/zp6mzocarzwba25/AABx9h_Zl_ghInH3f5bMPc2Ia?dl=0
+[https://www.dropbox.com/sh/zp6mzocarzwba25/AABx9h_Zl_ghInH3f5bMPc2Ia?dl=0](https://www.dropbox.com/sh/zp6mzocarzwba25/AABx9h_Zl_ghInH3f5bMPc2Ia?dl=0)
 
 --
 

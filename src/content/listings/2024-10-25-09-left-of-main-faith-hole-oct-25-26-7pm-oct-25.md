@@ -13,4 +13,4 @@ October 25 + 26 | 7 PM
 Tickets $10-$50
 Left of Main, 211 Keefer Street, Historic Chinatown
 
-https://www.tickettailor.com/events/plasticorchidfactory/1400124
+[https://www.tickettailor.com/events/plasticorchidfactory/1400124](https://www.tickettailor.com/events/plasticorchidfactory/1400124)

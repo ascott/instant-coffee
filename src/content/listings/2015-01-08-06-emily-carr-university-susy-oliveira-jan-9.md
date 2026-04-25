@@ -8,10 +8,10 @@ venue: "Emily Carr University"
 summary: "Emily Carr University | Susy Oliveira | JAN 9"
 ---
 
-Artist Talk | Susy Oliveira (http://www.ecuad.ca/about/events/319004)
+Artist Talk | Susy Oliveira ([http://www.ecuad.ca/about/events/319004](http://www.ecuad.ca/about/events/319004))
 Friday, January 9, 2015 | 11:30am
 Room 245 | 2nd Floor, North Building
-Add event to calendar (http://ate.so/?rcrAiDi)
+Add event to calendar ([http://ate.so/?rcrAiDi](http://ate.so/?rcrAiDi))
 
 Emily Carr’s Print Media department and Malaspina Printmakers present the
 second in a series of artists' talks in conjunction with their exhibitions

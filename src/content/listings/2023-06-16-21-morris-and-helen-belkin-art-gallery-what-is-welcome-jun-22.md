@@ -36,7 +36,7 @@ Columbia through the BC Arts Council, our Belkin Curators Forum members, and our
 individual donors who financially support our acquisitions and donate artworks to the
 collection.
 
-https://belkin.ubc.ca/exhibitions/what-is-welcome/
+[https://belkin.ubc.ca/exhibitions/what-is-welcome/](https://belkin.ubc.ca/exhibitions/what-is-welcome/)
 
 FOR FURTHER INFORMATION PLEASE CONTACT: JANA TYNER AT
 jana.tyner@ubc.ca,

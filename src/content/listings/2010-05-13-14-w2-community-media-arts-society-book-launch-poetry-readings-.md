@@ -36,15 +36,15 @@ Christine Leclerc lives in Vancouver. She is the author of Counterfeit, a
 book of poetry published by CUE. Her work has also appeared in 42opus, The
 Apocalypse Anthology, Dandelion, FRONT, Interim, memewar, OCHO, the Open
 Text Anthology (Vol II), and subTerrain. She teaches Creative Writing at
-Langara College Continuing Studies. http://christineleclerc.com/
+Langara College Continuing Studies. [http://christineleclerc.com/](http://christineleclerc.com/)
 
 Nikki Reimer is the author of [sic] (Frontenac House, 2010) and fist things
 first (Wrinkle Press Chapbook, 2009). She is a poet, blogger, curator, arts
 event planner and photographer of cats in East Vancouver, and a member of
-the Kootenay School of Writing collective. http://nikkireimer.com/
+the Kootenay School of Writing collective. [http://nikkireimer.com/](http://nikkireimer.com/)
 
 The Real feat.The Unreal works in and with the areas of free jazz &
 free/situated improvisation. With Jonathon Wilcke and Dave Chokroun.
-http://wilcke.ca/TheRealfeaturingtheUnreal.html
+[http://wilcke.ca/TheRealfeaturingtheUnreal.html](http://wilcke.ca/TheRealfeaturingtheUnreal.html)
 
 ---------30-----------

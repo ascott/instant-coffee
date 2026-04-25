@@ -18,4 +18,4 @@ presenting Surreys diverse histories through art.
 
 Deadline: March 22
 
-https://www.surrey.ca/arts-culture/community-art/community-art-artist-calls
+[https://www.surrey.ca/arts-culture/community-art/community-art-artist-calls](https://www.surrey.ca/arts-culture/community-art/community-art-artist-calls)

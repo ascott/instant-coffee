@@ -47,8 +47,8 @@ at grunt gallery on Friday April 5, 2013 from 7-10 pm. The exhibition will run
 from April 5 - May 4, 2013.
 
 Media Release: 
-http://grunt.ca/exhibitions/strange-songs-of-trust-and-treachery/.
+[http://grunt.ca/exhibitions/strange-songs-of-trust-and-treachery/](http://grunt.ca/exhibitions/strange-songs-of-trust-and-treachery/).
 
-grunt gallery | karlene@grunt.ca | http://grunt.ca
+grunt gallery | karlene@grunt.ca | [http://grunt.ca](http://grunt.ca)
 350 E 2nd, Unit 116
 Vancouver, V5T 4R8

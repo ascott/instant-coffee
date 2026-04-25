@@ -10,5 +10,5 @@ summary: "Kamloops Art Gallery [ONLINE] | MARINA ROY | 7PM | OCT 29"
 
 ARTISTS TALK with MARINA ROY
 THURSDAY, OCTOBER 29, 7:00 pm (PDT)
-REGISTER: https://us02web.zoom.us/webinar/register/WN_yBrWvnWFQ-
+REGISTER: [https://us02web.zoom.us/webinar/register/WN_yBrWvnWFQ-](https://us02web.zoom.us/webinar/register/WN_yBrWvnWFQ-)
 GW8_RWA810og

@@ -19,7 +19,7 @@ Funded by a Neighbourhood Small Grant. Materials supplied.
 
 Location: The Golden Horn Caf, 2857 Cambie at West 12th Ave
 
-More info and to register: https://louisephillips.ca/
+More info and to register: [https://louisephillips.ca/](https://louisephillips.ca/)
 
 ZINE /ZEEN/: short for magazine or fanzine, is a small-circulation
 self-published work

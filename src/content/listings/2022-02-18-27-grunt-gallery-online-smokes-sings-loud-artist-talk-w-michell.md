@@ -41,4 +41,4 @@ you. Here, struggle transforms, shines bright.
 This event will be presented on Zoom with auto-captioning. A recorded version with
 captions and ASL interpretation will be available at a later date.
 
-Details and event access here: https://grunt.ca/exhibitions/smokes-sings-loud/
+Details and event access here: [https://grunt.ca/exhibitions/smokes-sings-loud/](https://grunt.ca/exhibitions/smokes-sings-loud/)

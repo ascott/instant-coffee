@@ -22,4 +22,4 @@ by 5:00 p.m. PST.
 
 Roster Timeline: 2024"2026
 
-Link: https://www.richmond.ca/culture/howartworks/publicart/artist-calls.htm
+Link: [https://www.richmond.ca/culture/howartworks/publicart/artist-calls.htm](https://www.richmond.ca/culture/howartworks/publicart/artist-calls.htm)

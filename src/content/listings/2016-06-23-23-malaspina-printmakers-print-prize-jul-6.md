@@ -36,9 +36,9 @@ Curator Jennifer Cane.
 
 More information:
 
-http://ow.ly/OeJW301y1Ks
+[http://ow.ly/OeJW301y1Ks](http://ow.ly/OeJW301y1Ks)
 
-http://ow.ly/KePg301y1Cw
+[http://ow.ly/KePg301y1Cw](http://ow.ly/KePg301y1Cw)
 
 Questions and submissions:
 101printprize@malaspinaprintmakers.com

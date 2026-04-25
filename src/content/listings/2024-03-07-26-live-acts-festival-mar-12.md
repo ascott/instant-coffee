@@ -27,4 +27,4 @@ every Program. Once you've clicked through the individual ticket option in the l
 please make sure to select the correct date and time that you're after. Please note: space
 is limited, so plan your attendance now, and grab your tickets quickly.
 
-https://www.sfu.ca/sca/events---news/events/live-acts-festival---2024.html
+[https://www.sfu.ca/sca/events---news/events/live-acts-festival---2024.html](https://www.sfu.ca/sca/events---news/events/live-acts-festival---2024.html)

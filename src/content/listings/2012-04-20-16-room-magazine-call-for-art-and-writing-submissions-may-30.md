@@ -18,4 +18,4 @@ non-traditional women¹s labours‹ we want to see them all.
 Please submit to the attention of Lorrie Miller by May 30, 2012.
 
 For full submission details (how and what to submit) go to our submission
-page http://www.roommagazine.com/submit.html
+page [http://www.roommagazine.com/submit.html](http://www.roommagazine.com/submit.html)

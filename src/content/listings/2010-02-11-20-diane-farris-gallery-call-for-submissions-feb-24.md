@@ -43,4 +43,4 @@ piece, including frame when applicable)
 Price of each work: up to $1,000 CDN
 
 Please refer to this link for full information and submission form:
-http://www.dianefarrisgallery.com/blog
+[http://www.dianefarrisgallery.com/blog](http://www.dianefarrisgallery.com/blog)

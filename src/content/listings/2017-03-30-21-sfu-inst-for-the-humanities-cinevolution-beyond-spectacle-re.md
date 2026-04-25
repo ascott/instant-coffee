@@ -10,8 +10,8 @@ summary: "SFU Inst for the Humanities & Cinevolution | Beyond Spectacle residenc
 
 when: April 3 to 9 
 at: The Gold Saucer Studio (211 - 207 West Hastings Street, Vancouver.)
-More information at http://www.beyondspectacle.org/
-Facebook: https://www.facebook.com/beyondspectacle
+More information at [http://www.beyondspectacle.org/](http://www.beyondspectacle.org/)
+Facebook: [https://www.facebook.com/beyondspectacle](https://www.facebook.com/beyondspectacle)
 
 The hybrid conference/residency Spectacle of Fascism and Beyond Spectacle is 
 activating the intellectual, artistic, and activist legacy of The Situationist 

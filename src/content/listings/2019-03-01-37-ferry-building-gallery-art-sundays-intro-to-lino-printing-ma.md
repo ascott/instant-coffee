@@ -31,9 +31,9 @@ Vancouver
 Cost: $25 | Course #53303
 
 Register at 604-925-7270 or online
-https://ca.apm.activecommunities.com/westvanrec/Activity_Search/wor
+[https://ca.apm.activecommunities.com/westvanrec/Activity_Search/wor](https://ca.apm.activecommunities.com/westvanrec/Activity_Search/wor)
 kshop-introduction-to-lino-printing/50270
 
 For more information, please visit
-https://ferrybuildinggallery.com/programs_events/art_sundays___artist
+[https://ferrybuildinggallery.com/programs_events/art_sundays___artist](https://ferrybuildinggallery.com/programs_events/art_sundays___artist)
 _talks_workshops

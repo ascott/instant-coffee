@@ -11,7 +11,7 @@ summary: "JOB | VIVO | GENERAL MANAGER | FEB 22"
 VIVO GENERAL MANAGER JOB CALL
 The application deadline is February 22nd, 2021 at 5PM. Interviews will take place
 during the week of March 1st, 2021.
-https://www.vivomediaarts.com/join-participate/employment-and-internships
+[https://www.vivomediaarts.com/join-participate/employment-and-internships](https://www.vivomediaarts.com/join-participate/employment-and-internships)
 
 POSITION SUMMARY:
 
@@ -164,7 +164,7 @@ community
 HIRING PROCESS:
 
 To Apply:
-All candidates are asked to fill out a Google Form (https://tinyurl.com/vivo-media-arts-
+All candidates are asked to fill out a Google Form ([https://tinyurl.com/vivo-media-arts-](https://tinyurl.com/vivo-media-arts-)
 gm-hire) in lieu of a cover letter. The form will also ask you to include your CV in a PDF
 format. The deadline to submit this form is 5:00 PM on February 22th, 2021. If you
 have any problems with the form, please email S F Ho (board@vivomediaarts.com)

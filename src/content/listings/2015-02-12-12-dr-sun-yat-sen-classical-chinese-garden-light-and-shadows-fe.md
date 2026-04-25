@@ -41,6 +41,6 @@ mirror, blinking, and laughing. Using special effects, the puppets may cry
 and the audience will see tears of puppets falling drop by drop down their
 cheeks. The traditional techniques of expression are still used today.
 
-Box Office: https://light-and-shadows.eventbrite.ca
-Facebook: https://www.facebook.com/events/676244932484183/?ref=br_tf
-http://vancouverchinesegarden.com/
+Box Office: [https://light-and-shadows.eventbrite.ca](https://light-and-shadows.eventbrite.ca)
+Facebook: [https://www.facebook.com/events/676244932484183/?ref=br_tf](https://www.facebook.com/events/676244932484183/?ref=br_tf)
+[http://vancouverchinesegarden.com/](http://vancouverchinesegarden.com/)

@@ -29,4 +29,4 @@ Free for Members or with Gallery Admission
 Vancouver Art Gallery
 750 Hornby Street Vancouver BC V6Z 2H7
 604.662.4700
-http://www.vanartgallery.bc.ca
+[http://www.vanartgallery.bc.ca](http://www.vanartgallery.bc.ca)

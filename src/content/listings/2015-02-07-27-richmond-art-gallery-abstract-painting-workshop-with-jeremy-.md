@@ -22,7 +22,7 @@ Fine Arts from Emily Carr University of Art & Design in 2007. He was the
 winner of the 2008 RBC Canadian Painting Competition, and has exhibited
 across Canada in solo and group exhibitions at various galleries and
 museums. Hof lives and works in Vancouver, BC and is represented by Jessica
-Bradley Gallery in Toronto, ON. http://jeremyhofstudio.com/
+Bradley Gallery in Toronto, ON. [http://jeremyhofstudio.com/](http://jeremyhofstudio.com/)
 
 To register:
 Online: www.richmond.ca/guide
@@ -34,7 +34,7 @@ This workshop is offered as part of the exhibition “Close Listening” : Eli
 Bornowsky, Jeremy Hof, Monique Mouton, Jinny Yu. Organized and circulated
 by the Ottawa Art Gallery, on view at the Richmond Art Gallery from January
 31-March 29, 2015.
-https://www.facebook.com/events/1594191410816645/
+[https://www.facebook.com/events/1594191410816645/](https://www.facebook.com/events/1594191410816645/)
 
 For more information, contact:
 
@@ -44,4 +44,4 @@ Richmond Art Gallery
 7700 Minoru Gate
 Richmond, BC V6Y 1R9
 Tel: 604-247-8313
-http://richmondartgallery.org
+[http://richmondartgallery.org](http://richmondartgallery.org)

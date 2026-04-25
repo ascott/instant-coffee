@@ -18,13 +18,13 @@ off the skeletons, we're throwing a mouthful of a Post-Break-In-Thank-You-Fundra
 Summer-Concert-Dance-Party!
 
 featuring live sets by:
-USD: https://youtu.be/GvoLFqqPevo
-Autonomy: http://www.citr.ca/radio/copypaste/
-Tommy Tone: https://youtu.be/VwrNprtV4j8
-Pavel: https://youtu.be/5vfLMUoky5E
-Aileen Bryant: https://youtu.be/H_DkEOMnCHk
+USD: [https://youtu.be/GvoLFqqPevo](https://youtu.be/GvoLFqqPevo)
+Autonomy: [http://www.citr.ca/radio/copypaste/](http://www.citr.ca/radio/copypaste/)
+Tommy Tone: [https://youtu.be/VwrNprtV4j8](https://youtu.be/VwrNprtV4j8)
+Pavel: [https://youtu.be/5vfLMUoky5E](https://youtu.be/5vfLMUoky5E)
+Aileen Bryant: [https://youtu.be/H_DkEOMnCHk](https://youtu.be/H_DkEOMnCHk)
 ~*featuring Francesca Belcourt & Innessa Roosen*~
-Johan Bjrk: https://soundcloud.com/johanbjorck
+Johan Bjrk: [https://soundcloud.com/johanbjorck](https://soundcloud.com/johanbjorck)
 +
 special DJs~ ~ ~
 *~* projections by Nicolas Sassoon & Sylvain Sailly *~*

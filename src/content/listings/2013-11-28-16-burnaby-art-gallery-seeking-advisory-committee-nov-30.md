@@ -13,4 +13,4 @@ The Burnaby Art Gallery is currently seeking members so serve on the Burnaby Art
 Nominations must be submitted by November 30, 2013. Qualified applicants will be notified in early December and scheduled for an interview in January.	The first meeting for new appointees will be held on February 18, 2014. The committee meets six times annually on the third Tuesday of the month.
  
 Apply Online.
-http://www.burnaby.ca/Things-To-Do/Arts-and-Heritage/Burnaby-Art-Gallery/About-Burnaby-Art-Gallery/Burnaby-Art-Gallery-Advisory-Committee.html
+[http://www.burnaby.ca/Things-To-Do/Arts-and-Heritage/Burnaby-Art-Gallery/About-Burnaby-Art-Gallery/Burnaby-Art-Gallery-Advisory-Committee.html](http://www.burnaby.ca/Things-To-Do/Arts-and-Heritage/Burnaby-Art-Gallery/About-Burnaby-Art-Gallery/Burnaby-Art-Gallery-Advisory-Committee.html)

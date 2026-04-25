@@ -11,4 +11,4 @@ summary: "JOB | CreativePEI | Executive Director"
 CreativePEI has begun the search for a new Executive Director.
 
 Wed greatly appreciate if you could share the job post with your networks -
-https://creativepei.ca/careers/
+[https://creativepei.ca/careers/](https://creativepei.ca/careers/)

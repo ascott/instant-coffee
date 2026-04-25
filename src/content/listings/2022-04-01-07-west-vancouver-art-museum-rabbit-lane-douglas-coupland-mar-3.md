@@ -31,5 +31,5 @@ West Coast Modern architecture, which is swiftly disappearing. This project, lik
 of Couplands written work, is both genre-bending and chronoclastic, exploring how
 time can be condensed and contracted to change our perceptions.
 
-Learn more: https://westvancouverartmuseum.ca/exhibitions/rabbit-lane-douglas-
+Learn more: [https://westvancouverartmuseum.ca/exhibitions/rabbit-lane-douglas-](https://westvancouverartmuseum.ca/exhibitions/rabbit-lane-douglas-)
 coupland.

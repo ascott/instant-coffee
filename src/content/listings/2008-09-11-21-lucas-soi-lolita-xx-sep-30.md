@@ -61,7 +61,7 @@ be printing a limited edition in October.
 
 Please judge for yourself by viewing the .PDF below:
 
-http://www.lucassoi.ca/images/lolita_by_lucas_soi.pdf
+[http://www.lucassoi.ca/images/lolita_by_lucas_soi.pdf](http://www.lucassoi.ca/images/lolita_by_lucas_soi.pdf)
 
 Website: www.lucassoi.ca
 Contact: books@lucassoi.ca

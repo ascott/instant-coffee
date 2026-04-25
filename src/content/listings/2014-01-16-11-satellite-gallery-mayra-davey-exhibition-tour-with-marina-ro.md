@@ -12,9 +12,9 @@ Exhibition Tour with Marina Roy
 Moyra Davey: Ornament and Reproach
 Saturday, January 18 at 2:30pm
 Satellite Gallery, 560 Seymour St, 2nd Floor
-http://www.satellitegallery.ca
+[http://www.satellitegallery.ca](http://www.satellitegallery.ca)
 
-Join the event: https://www.facebook.com/events/484341458350580/?
+Join the event: [https://www.facebook.com/events/484341458350580/](https://www.facebook.com/events/484341458350580/)?
 ref=22
 
 Join us at Satellite Gallery as artist Marina Roy will consider the current 

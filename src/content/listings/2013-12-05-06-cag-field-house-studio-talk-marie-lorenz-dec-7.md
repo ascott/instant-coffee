@@ -24,4 +24,4 @@ Burrard Marina Field House.
 Her work combines psycho-geographic exploration with highly crafted, material forms. In her ongoing project
 'The Tide and Current Taxi', Lorenz ferries people throughout New York in a boat she has specially made.
 
-http://www.contemporaryartgallery.ca/exhibitions/burrard-marina-field-house/
+[http://www.contemporaryartgallery.ca/exhibitions/burrard-marina-field-house/](http://www.contemporaryartgallery.ca/exhibitions/burrard-marina-field-house/)

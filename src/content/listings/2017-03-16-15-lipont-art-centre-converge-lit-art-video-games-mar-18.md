@@ -43,5 +43,5 @@ Lorne Turner, and Barry Magrill will display their photographic work and paintin
 Multimedia artist David Simeonidis will present his art and music as 
 Snapdragonia.
 
-Get tickets here: https://www.eventbrite.ca/e/converge-lit-art-music-videogames-
+Get tickets here: [https://www.eventbrite.ca/e/converge-lit-art-music-videogames-](https://www.eventbrite.ca/e/converge-lit-art-music-videogames-)
 tickets-30230301646?aff=erelexpmlt

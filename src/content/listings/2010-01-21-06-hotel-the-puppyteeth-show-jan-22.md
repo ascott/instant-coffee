@@ -21,4 +21,4 @@ Bring a date. Bring four dates. Take it in---deep.
 Truly,
 
 Rev.Puppyteeth, esq.
-http://www.eatpuppyteeth.com/
+[http://www.eatpuppyteeth.com/](http://www.eatpuppyteeth.com/)

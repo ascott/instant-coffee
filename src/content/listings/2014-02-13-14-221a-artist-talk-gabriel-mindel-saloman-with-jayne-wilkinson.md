@@ -27,7 +27,7 @@ Gabriel Mindel-Saloman (Vancouver) and Luke Munn (Auckland, New
 Zealand) that responds to contemporary forms of surveillance, considering 
 how design can work to counteract an excessively coded city.
 
-For more info http://221a.ca/no-linguistic-content/
+For more info [http://221a.ca/no-linguistic-content/](http://221a.ca/no-linguistic-content/)
 
 100-221 E Georgia
 Vancouver, BC

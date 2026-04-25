@@ -11,7 +11,7 @@ summary: "SFU | VISUAL ART FORUM: Sandra Brewster | OCT 1"
 VISUAL ART FORUM: Sandra Brewster
 Thursday, October 1, 2020 | 4:00 PM | Zoom
 
-RSVP HERE: https://www.eventbrite.ca/e/visual-art-forum-sandra-brewster-registration-
+RSVP HERE: [https://www.eventbrite.ca/e/visual-art-forum-sandra-brewster-registration-](https://www.eventbrite.ca/e/visual-art-forum-sandra-brewster-registration-)
 120672593977
 
 Please join us for a FREE talk by Sandra Brewster, presented as part of the Fall 2020

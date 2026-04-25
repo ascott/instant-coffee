@@ -16,7 +16,7 @@ Friday Feb 26; 7:30pm-9:30pm
 Cineworks Studio, 1131 Howe Street (lane entrance)
 $8 Concessions (+ taxes) (Cineworks Members; Students; Seniors)
 $10 General Admission (+taxes)
-Online bookings: http://movie-palace-ghosts.eventbrite.ca
+Online bookings: [http://movie-palace-ghosts.eventbrite.ca](http://movie-palace-ghosts.eventbrite.ca)
 
 A rare opportunity to see works by Palestinian filmmaker, Khalil Al-Mozian,
 and Canadian filmmaker, Lindsay McIntyre, each using the crumbling grandeur

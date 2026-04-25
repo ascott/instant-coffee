@@ -27,5 +27,5 @@ across the albums length, producing a profound calm that rises in arcs of tonal
 colour.
 
 For more information and to reserve your tickets, visit our website:
-https://westernfront.ca/events/concert-by-paul-chiyokten-wagner-and-jessika-
+[https://westernfront.ca/events/concert-by-paul-chiyokten-wagner-and-jessika-](https://westernfront.ca/events/concert-by-paul-chiyokten-wagner-and-jessika-)
 kenney-eyvind-kang

@@ -18,5 +18,5 @@ consider how your home affects your identity, and how you can capture
 the nature of home in a postcard.
 
 For more information please go to 
-http://postcardsfromhomeexchange.wordpress.com/ or contact Stacey 
+[http://postcardsfromhomeexchange.wordpress.com/](http://postcardsfromhomeexchange.wordpress.com/) or contact Stacey 
 Cann at home.postcard.exchange@gmail.com

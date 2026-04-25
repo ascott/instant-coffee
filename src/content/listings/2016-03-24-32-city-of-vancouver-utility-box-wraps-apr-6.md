@@ -24,7 +24,7 @@ year's projects will be rolled out City-wide, many in partnership with
 Business Improvement Associations.
 
 Link to Call:
-http://vancouver.ca/files/cov/call-for-artists-utility-box-wraps-submission-guidelines-2016.pdf
+[http://vancouver.ca/files/cov/call-for-artists-utility-box-wraps-submission-guidelines-2016.pdf](http://vancouver.ca/files/cov/call-for-artists-utility-box-wraps-submission-guidelines-2016.pdf)
 
 For additional information or questions, please email the Integrated
 Graffiti Management Program at

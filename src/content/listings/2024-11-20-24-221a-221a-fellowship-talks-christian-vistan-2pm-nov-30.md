@@ -18,7 +18,7 @@ and their practice as they begin their 18-month residency, and
 dream of their work in
 community.
 
-Free Admission by RSVP: https://221a.ca/event/221a-fellowship-talks-christian-vistan/
+Free Admission by RSVP: [https://221a.ca/event/221a-fellowship-talks-christian-vistan/](https://221a.ca/event/221a-fellowship-talks-christian-vistan/)
 
 - Childminding for 18mo"6yrs by RA/ECEA childcare workers through Pacific
 Immigrant Resources Society; please let us know by November 25

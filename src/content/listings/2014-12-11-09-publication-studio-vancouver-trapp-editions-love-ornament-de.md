@@ -60,4 +60,4 @@ Publication Studio Vancouver
 Vancouver, BC V6A 1Z7
 Email: psvancouver@publicationstudio.biz
 Web: bookmachine.ca
-http://www.publicationstudio.biz
+[http://www.publicationstudio.biz](http://www.publicationstudio.biz)

@@ -36,16 +36,16 @@ awarded the Langui Prize for Painting / Young Belgian Art Prize and received fel
 from Institut Franais, Villa Medicis Hors Les Murs, and FNAGP. Residencies include the 
 Rupert Vilnius, CAC La Galerie Noisy le Sec, Los Angeles Contemporary Archives, 
 Bundanon Trust in Australia, RMIT in Melbourne, EMS Studio in Stockholm.
-https://feliciaatkinson.com/
-http://shelter-press.org/
+[https://feliciaatkinson.com/](https://feliciaatkinson.com/)
+[http://shelter-press.org/](http://shelter-press.org/)
 
 ***On April 18th at 7:00pm: As part of the Western Front's Scriveners Monthly, Flicia will 
 present a talk about her publishing practice through the lens of some of her own books such 
 as Ambient Park, Animals, Audio Book, and Improvising Sculpture As Delayed Fictions.*** 
-More information here: https://front.bc.ca/events/felicia-atkinson-improvising-animals-as-
+More information here: [https://front.bc.ca/events/felicia-atkinson-improvising-animals-as-](https://front.bc.ca/events/felicia-atkinson-improvising-animals-as-)
 delayed-audiobooks-in-an-ambient-park/
 
-more information: https://www.facebook.com/events/845916162411913/?
+more information: [https://www.facebook.com/events/845916162411913/](https://www.facebook.com/events/845916162411913/)?
 notif_t=plan_user_associated&notif_id=1555010942444090
 
 Admission is by donation (suggested $5-10). 
@@ -53,4 +53,4 @@ Doors are at 8:00 with the performance starting at 9:00pm sharp.
 As space is limited, please arrive early. 
 
 Sign up for Deep Blue's newsletter at:
-http://deepbluestudios.org/
+[http://deepbluestudios.org/](http://deepbluestudios.org/)

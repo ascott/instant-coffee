@@ -18,7 +18,7 @@ Doors at 6:30pm
 Films at 7pm
 Artist Q&A to follow
 
-Find out more and RSVP: https://thepolygon.ca/event/water-is-living/
+Find out more and RSVP: [https://thepolygon.ca/event/water-is-living/](https://thepolygon.ca/event/water-is-living/)
 About the Artists
 
 Sydney Frances Pascal is a member of Ll"wat nation. She is currently living and

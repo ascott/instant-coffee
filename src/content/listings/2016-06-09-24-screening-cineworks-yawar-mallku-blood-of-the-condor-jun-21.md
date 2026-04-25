@@ -40,7 +40,7 @@ accessibility of experimental media art. Above all, their interest in cin
 filmactual celluloidat a time when this medium is shifting to a
 post-industry model, is of key interest in all their pursuits.
 
-http://www.irisfilmcollective.com/
+[http://www.irisfilmcollective.com/](http://www.irisfilmcollective.com/)
 
 Cineworks Independent Filmmakers Society (est. 1980) is an artist-run
 production and exhibition centre that supports independent filmmakers and

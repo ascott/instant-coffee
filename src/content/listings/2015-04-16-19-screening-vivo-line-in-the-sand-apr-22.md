@@ -59,7 +59,7 @@ intrinsic link between place and identity felt by many who live in the path
 of the pipeline by holding the first screenings in the regions in question.” 
 x
 
-Facebook Event: https://www.facebook.com/events/1064891950192880/
+Facebook Event: [https://www.facebook.com/events/1064891950192880/](https://www.facebook.com/events/1064891950192880/)
 
 VIVO Media Arts Centre is located at 2625 Kaslo Street, between Broadway
 and Grandview Hwy, or just up the street from Renfrew Skytrain. Call

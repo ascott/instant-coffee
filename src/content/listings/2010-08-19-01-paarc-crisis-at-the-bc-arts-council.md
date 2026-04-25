@@ -46,7 +46,7 @@ Keith Higgins
 President, Pacific Association of Artist-Run Centres
 
 A copy of Ms. Danzo's resignation letter can be found here:
-http://stopbcartscuts.wordpress.com/2010/08/17/jane-danzo-chair-of-bc-arts-council-resignation-letter/
+[http://stopbcartscuts.wordpress.com/2010/08/17/jane-danzo-chair-of-bc-arts-council-resignation-letter/](http://stopbcartscuts.wordpress.com/2010/08/17/jane-danzo-chair-of-bc-arts-council-resignation-letter/)
 
 For further comment:
 

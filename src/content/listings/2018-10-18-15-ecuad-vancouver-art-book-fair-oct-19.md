@@ -26,4 +26,4 @@ the art of publishing.
 These events are free and open to the public. Be sure to visit VABF for complete details 
 on all events.
 
-http://vancouverartbookfair.com
+[http://vancouverartbookfair.com](http://vancouverartbookfair.com)

@@ -27,6 +27,6 @@ Like all BAF events, this one is free and open to the public - but this time, it
 
 Tune in via Instagram Live or Facebook Live at 2pm on Saturday, July 18th. Find us on
 both platforms @burrardarts or join the Facebook event for updates at:
-https://www.facebook.com/events/282648652804038/
+[https://www.facebook.com/events/282648652804038/](https://www.facebook.com/events/282648652804038/)
 
 We hope to see you there!

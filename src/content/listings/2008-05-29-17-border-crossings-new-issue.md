@@ -25,7 +25,7 @@ For the Art Pages, Winnipeg artist RICHARD WILLIAMS presents a series of drawing
 The review section, as always, is broad and far-ranging and includes: HAROLD KLUNDER, LIDA ABDUL, MATTHEW BROWN, JASPER JOHNS, BRENDAN FERNANDES, ADRIENNE SPIER,
 1973: SORRY OUT OF GAS, SUBCONSCIOUS CITY, and more.
 
-Check our recently redesigned website, http://www.bordercrossingsmag.com to locate a newsstand near you
+Check our recently redesigned website, [http://www.bordercrossingsmag.com](http://www.bordercrossingsmag.com) to locate a newsstand near you
 -- or subscribe to BORDER CROSSINGS and receive our current series of Limited Edition Artists’ Buttons.
 
 Now in it’s second quarter century, BORDER CROSSINGS: A Magazine of the Arts, is published quarterly at Winnipeg, Manitoba, Canada.  BORDER CROSSINGS is Edited by Meeka Walsh. The interviews, a noted feature in every issue, are by Contributing Editor Robert Enright.

@@ -44,4 +44,4 @@ The complexities of community art
 Ethics in public and large-scale performance
 Questions of ‘commitment’ within art practice
 
-For more information visit http://kapsula.ca/
+For more information visit [http://kapsula.ca/](http://kapsula.ca/)

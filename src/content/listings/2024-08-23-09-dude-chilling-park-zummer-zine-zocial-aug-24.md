@@ -20,7 +20,7 @@ postponed if it is raining, scorching or low air
 quality.
 
 RSVP + INFO HERE:
-https://drive.google.com/drive/folders/12nBs94F0GjnZLVp1H84of2EiXN0nAa7N?
+[https://drive.google.com/drive/folders/12nBs94F0GjnZLVp1H84of2EiXN0nAa7N](https://drive.google.com/drive/folders/12nBs94F0GjnZLVp1H84of2EiXN0nAa7N)?
 usp=share_link
 
 Facebook event:

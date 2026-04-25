@@ -14,7 +14,7 @@ Saturday, March 14, 2026
 1:00 PM - 2:30 PM
 
 RSVP:
-https://www.eventbrite.ca/e/artist-salon-integrating-ecology-into-public-art-tickets-
+[https://www.eventbrite.ca/e/artist-salon-integrating-ecology-into-public-art-tickets-](https://www.eventbrite.ca/e/artist-salon-integrating-ecology-into-public-art-tickets-)
 1982471829609?aff=oddtdtcreator
 
 Rebecca Bayer & Jeremy Venditti lead a discussion and tour of the recently completed
@@ -45,7 +45,7 @@ the layered relationships between people and their surroundings.
 Bayer holds a Master of Architecture from the University of British Columbia, a Master of
 Fine Art from Central Saint Martins UAL, and a Bachelor of Fine Art from Queens
 University. She teaches at Emily Carr University of Art + Design.
-http://www.rebeccabayer.com/
+[http://www.rebeccabayer.com/](http://www.rebeccabayer.com/)
 
 Jeremy Vendetti is a geomorphologist who leads the River Dynamics Laboratory at SFU.
 His research focuses on fluid dynamics, sediment transport and bedrock erosion processes

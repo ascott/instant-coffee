@@ -26,7 +26,7 @@ Performances 7pm
 Artist Q&A 8pm
 RSVPs are helpful
 
-RSVP Here: https://thepolygon.ca/event/multong-bakla-a-silent-presence-of-beauty/
+RSVP Here: [https://thepolygon.ca/event/multong-bakla-a-silent-presence-of-beauty/](https://thepolygon.ca/event/multong-bakla-a-silent-presence-of-beauty/)
 
 *Content Notes: Many elements of this performance incorporate Baybayin (or
 Alibata), a pre-colonial Philippine script being reclaimed through this process as a

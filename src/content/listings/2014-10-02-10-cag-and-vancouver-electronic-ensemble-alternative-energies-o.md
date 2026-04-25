@@ -26,4 +26,4 @@ Players will be scattered across the gallery rooms, as sound, light and
 colour flow throughout the building creating an abstract sonic environment.
 
 - See more at:
-http://www.contemporaryartgallery.ca/events/vancouver-electronic-ensemble-alternative-energies/#sthash.ePC7ma18.dpuf
+[http://www.contemporaryartgallery.ca/events/vancouver-electronic-ensemble-alternative-energies/#sthash.ePC7ma18.dpuf](http://www.contemporaryartgallery.ca/events/vancouver-electronic-ensemble-alternative-energies/#sthash.ePC7ma18.dpuf)

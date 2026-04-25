@@ -22,7 +22,7 @@ demystify mental diversities, challenge stigmatization and marginalization, and 
 social and economic justice. We believe that the expression and practice of art and 
 participation in culture-building are a human right, and that art and culture are critical 
 elements of a healthy society. For more information on Gallery Gachets vision and 
-Basis of Unity, please visit http://gachet.org/about
+Basis of Unity, please visit [http://gachet.org/about](http://gachet.org/about)
 
 Gallery Gachet welcomes proposals for exhibitions and projects that engage our 
 mandate in interesting and challenging ways. We welcome work in any medium, 

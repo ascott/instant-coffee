@@ -39,5 +39,5 @@ wear a mask (N95 masks are encouraged and recommended as they offer the best
 protection), and consent to having their temperature checked at the front door. We ask
 that if you are showing any symptoms, that you stay home. Thank you kindly.
 
-Register at: https://www.eventbrite.ca/e/fanzine-launch-dreaming-hand-in-hand-by-
+Register at: [https://www.eventbrite.ca/e/fanzine-launch-dreaming-hand-in-hand-by-](https://www.eventbrite.ca/e/fanzine-launch-dreaming-hand-in-hand-by-)
 yarrow-society-tickets-278036132557

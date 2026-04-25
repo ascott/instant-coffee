@@ -10,7 +10,7 @@ summary: "SFU School for the CA [ONLINE] | MFA @ SCA: Information Session | 230P
 
 November 26, 2020 | 2:30 PM - 4:00 PM (PT) | Zoom / RSVP
 
-RSVP HERE: https://www.eventbrite.ca/e/mfa-info-session-sfu-school-for-the-
+RSVP HERE: [https://www.eventbrite.ca/e/mfa-info-session-sfu-school-for-the-](https://www.eventbrite.ca/e/mfa-info-session-sfu-school-for-the-)
 contemporary-arts-registration-128292960699
 
 Please join us for an introduction to the SCA's Master of Fine Arts in Interdisciplinary
@@ -35,7 +35,7 @@ who
 want to develop the theoretical or scholarly context of their practice.
 
 For more information about the MFA program, please click
-https://www.sfu.ca/sca/programs/mfa.html
+[https://www.sfu.ca/sca/programs/mfa.html](https://www.sfu.ca/sca/programs/mfa.html)
 and for information about applying to the
 program, please click
-https://www.sfu.ca/sca/future-students/graduate.html
+[https://www.sfu.ca/sca/future-students/graduate.html](https://www.sfu.ca/sca/future-students/graduate.html)

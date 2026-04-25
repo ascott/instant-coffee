@@ -30,4 +30,4 @@ now-famous artwork, recently presented at the Tate Modern, London.
 
 Admission is by donation, courtesy of BMO Financial Group
 
-https://thepolygon.ca/exhibition/the-clock/
+[https://thepolygon.ca/exhibition/the-clock/](https://thepolygon.ca/exhibition/the-clock/)

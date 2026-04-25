@@ -17,4 +17,4 @@ The reading of his work is tied to the place of its making and exhibition,
 self-reflexively exposing the conditions of production and display.
 
 See more at: 
-http://www.kag.bc.ca/exhibitions/current.htm#sthash.ZELIGgjd.dpuf
+[http://www.kag.bc.ca/exhibitions/current.htm#sthash.ZELIGgjd.dpuf](http://www.kag.bc.ca/exhibitions/current.htm#sthash.ZELIGgjd.dpuf)

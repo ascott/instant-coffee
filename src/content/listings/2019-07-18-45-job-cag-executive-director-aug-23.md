@@ -43,7 +43,7 @@ lwta"/Selilwitulh (Tsleil-Waututh) Nations.
 
 CAG is partnering with the executive search firm Perrett Laver on this search process. 
 Further information, including details of how to apply, can be downloaded at 
-http://www.perrettlaver.com/candidates quoting reference 4245. Applications should 
+[http://www.perrettlaver.com/candidates](http://www.perrettlaver.com/candidates) quoting reference 4245. Applications should 
 consist of a comprehensive curriculum vitae and a maximum two-page covering letter 
 that summarizes your interest in this post and provides evidence of your ability to match 
 the criteria outlined in this brief. For any informal inquiries please contact Caroline 

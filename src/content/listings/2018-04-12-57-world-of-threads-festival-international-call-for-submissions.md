@@ -25,7 +25,7 @@ received. Your work might inspire an entire exhibition! For Festivals 2016, 2014
 to work that is not made of fibre materials but instead uses techniques of fibre like 
 sewing and weaving.
 
-For details: http://worldofthreadsfestival.com/submissions.html
+For details: [http://worldofthreadsfestival.com/submissions.html](http://worldofthreadsfestival.com/submissions.html)
 
 Fibre Artist Interviews: Some artists who are accepted will be invited to participate in 
 our interview series.

@@ -18,10 +18,10 @@ Griffin Art Projects
 
 www.griffinartprojects.ca
 
-http://griffinartprojects.ca/events/2020/open-studio-lindsay-mcintyre/
+[http://griffinartprojects.ca/events/2020/open-studio-lindsay-mcintyre/](http://griffinartprojects.ca/events/2020/open-studio-lindsay-mcintyre/)
 
 Lindsay McIntyre will be presenting a live artist talk online, over Zoom. To register,
-please visit, https://zoom.us/meeting/register/tJIqfu2prz0uEtUO1y1Sv6kLafycvefNYGhn
+please visit, [https://zoom.us/meeting/register/tJIqfu2prz0uEtUO1y1Sv6kLafycvefNYGhn](https://zoom.us/meeting/register/tJIqfu2prz0uEtUO1y1Sv6kLafycvefNYGhn)
 
 Lindsay McIntyre is a film artist with an MFA in Film Production from Concordia and a
 BFA in Painting and Drawing from the University of Alberta. She applies her interest in

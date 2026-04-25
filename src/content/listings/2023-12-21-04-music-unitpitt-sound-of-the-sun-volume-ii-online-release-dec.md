@@ -11,7 +11,7 @@ summary: "MUSIC | UNIT/PITT | Sound of the Sun, Volume II [ONLINE RELEASE] | DEC
 Sound of the Sun, Volume II
 UNIT/PITT
 Curated by Catherine de Montreuil and Marisa Kriangwiwat Holmes
-Listen at: http://tinyurl.com/yr598s9p
+Listen at: [http://tinyurl.com/yr598s9p](http://tinyurl.com/yr598s9p)
 
 Dates:
 December 21, 2023: Online release

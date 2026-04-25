@@ -22,7 +22,7 @@ extremely diverse natural environments. How did the architects design in concert
 natural elements of climate in these regions? Looking at architects own houses, where
 often they designed for challenging sites, with more modest budgets, Williams will
 compare and contrast their approaches. More information:
-https://www.westvancouverartmuseum.ca/event/home/barry-downs-lecture.
+[https://www.westvancouverartmuseum.ca/event/home/barry-downs-lecture](https://www.westvancouverartmuseum.ca/event/home/barry-downs-lecture).
 
 For questions about West Coast Modern Week, please contact Alison Powell at
 apowell@westvancouver.ca or 604 925 7296.

@@ -15,7 +15,7 @@ Contact: Jennifer Daerendinger: Tel: 604-970-4785 - Email:
 jen@roamgallery.com 
 Deadline March 29, 2019, $5 submission fee (ROAM Gallery 
 Members) $25 Non-Members, if you want to become a member see 
-http://www.roamgallery.com/memberships.html 
+[http://www.roamgallery.com/memberships.html](http://www.roamgallery.com/memberships.html) 
 
 ROAM Gallery is very pleased to welcome "It's A Family Affair" with 
 Canuck the infamous Vancouver Crow. We are taking submissions for 

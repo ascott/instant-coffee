@@ -17,7 +17,7 @@ morning in 2009, a vital community of artist studios was decimated.
 Artist and curator Kathleen Ritter’s studio was among those
 destroyed...
 
-To see more go to: http://fusemagazine.org/category/artist-projects
+To see more go to: [http://fusemagazine.org/category/artist-projects](http://fusemagazine.org/category/artist-projects)
 
 This artist's project by Jem Noble is a FUSE online exclusive
 publication, now available on the web for your viewing pleasure. If

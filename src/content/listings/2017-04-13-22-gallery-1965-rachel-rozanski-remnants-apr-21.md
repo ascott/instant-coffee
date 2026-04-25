@@ -25,4 +25,4 @@ transformations occurring in urban and rural ecosystems as we enter the
 Anthropocene. She is interested in how scientific concepts can be visualised to build 
 new translations.
 
-https://www.facebook.com/events/674112419464769/
+[https://www.facebook.com/events/674112419464769/](https://www.facebook.com/events/674112419464769/)

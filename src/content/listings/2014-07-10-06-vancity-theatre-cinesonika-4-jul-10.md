@@ -14,4 +14,4 @@ Experimental: 6pm, 2) Animation: 8pm, 3) Documentary & Narrative, 10pm. All
 screenings are free for VIFF members. Non-VIFF members may purchase a
 1-year membership for $12, which comes with a free ticket for any screening
 at Vancity Theatre. Full schedule and preview clips are on the CINESONIKA
-website, http://www.cinesonika.com/
+website, [http://www.cinesonika.com/](http://www.cinesonika.com/)

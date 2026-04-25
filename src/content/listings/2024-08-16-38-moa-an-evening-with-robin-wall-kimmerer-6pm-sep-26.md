@@ -41,7 +41,7 @@ Chan Centre for the Performing Arts at UBC
 Free, registration required
 
 Book:
-https://moa.ubc.ca/event/dal-grauer-memorial-lecture-robin-wall-kimmerer/?
+[https://moa.ubc.ca/event/dal-grauer-memorial-lecture-robin-wall-kimmerer/](https://moa.ubc.ca/event/dal-grauer-memorial-lecture-robin-wall-kimmerer/)?
 ml_recipient=129579113830680432&ml_link=129579104505693338&utm_source=n
 ewsletter&utm_medium=email&utm_term=2024-08-
 15&utm_campaign=+Announcing+An+evening+with+Robin+Wall+Kimmerer+

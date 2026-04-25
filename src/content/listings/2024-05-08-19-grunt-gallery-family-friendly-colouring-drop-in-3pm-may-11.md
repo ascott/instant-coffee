@@ -27,7 +27,7 @@ Children must be supervised by their parents or guardians.
 
 This event is in conjunction with Maria-Margarettas exhibition, a memory of you: of
 holding, of carrying together, currently on view at grunt through June 1st:
-https://grunt.ca/exhibitions/a-memory-with-you-of-holding-of-carrying-together/
+[https://grunt.ca/exhibitions/a-memory-with-you-of-holding-of-carrying-together/](https://grunt.ca/exhibitions/a-memory-with-you-of-holding-of-carrying-together/)
 
 Accessibility:
 grunt gallery is accessed from the sidewalk via a 106 long, 64 wide concrete ramp

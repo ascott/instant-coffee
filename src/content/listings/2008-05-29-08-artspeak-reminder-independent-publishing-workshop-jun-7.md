@@ -35,5 +35,5 @@ Canada V6B 2J2
 T (604) 688-0051
 F (604) 685-1912
 E artspeak@artspeak.ca
-W http://www.artspeak.ca
+W [http://www.artspeak.ca](http://www.artspeak.ca)
 H Tuesday to Saturday 12 to 5pm

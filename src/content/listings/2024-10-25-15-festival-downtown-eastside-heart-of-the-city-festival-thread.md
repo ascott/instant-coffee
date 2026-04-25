@@ -11,7 +11,7 @@ summary: "FESTIVAL | Downtown Eastside Heart of the City Festival | Threads of C
 We are thrilled to announce the upcoming 2024 Downtown Eastside Heart of the City
 Festival!
 
-https://www.heartofthecityfestival.com/3d-flip-book/heart-of-the-city-festival-program-
+[https://www.heartofthecityfestival.com/3d-flip-book/heart-of-the-city-festival-program-](https://www.heartofthecityfestival.com/3d-flip-book/heart-of-the-city-festival-program-)
 2024/
 
 Guided by the theme Threads of Connection, our 21st annual Festival offers a feast of

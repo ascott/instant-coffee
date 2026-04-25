@@ -41,4 +41,4 @@ Play, Fall, Rest, Dance by Valerie Salez @ grunt gallery
  from June 2 - July 5, 2014.
 
  grunt gallery URL:
- http://grunt.ca/exhibitions/play-fall-rest-dance/
+ [http://grunt.ca/exhibitions/play-fall-rest-dance/](http://grunt.ca/exhibitions/play-fall-rest-dance/)

@@ -44,4 +44,4 @@ Application Deadline:
 The written application deadline isMarch 17, 2024, at 11:45PM
 The interview deadline is March 15, 2024, at 6PM
 
-APPLY NOW: https://evergreenculturalcentre.ca/exhibit/emerging-creators-incubator/
+APPLY NOW: [https://evergreenculturalcentre.ca/exhibit/emerging-creators-incubator/](https://evergreenculturalcentre.ca/exhibit/emerging-creators-incubator/)

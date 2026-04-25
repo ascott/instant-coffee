@@ -55,5 +55,5 @@ Centre.
 
 ArcPost.ca is the online resource for all event listings and details.
 
-Facebook https://www.facebook.com/InstitutionsbyArtists 
+Facebook [https://www.facebook.com/InstitutionsbyArtists](https://www.facebook.com/InstitutionsbyArtists) 
 Twitter: #IBA2012

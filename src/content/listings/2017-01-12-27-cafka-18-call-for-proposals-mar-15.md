@@ -15,7 +15,7 @@ curatorial research.
 
 For the on-line application form and instructions how to apply, please go to:
 
-http://www.cafka.org/news/cafka18-call-proposals
+[http://www.cafka.org/news/cafka18-call-proposals](http://www.cafka.org/news/cafka18-call-proposals)
 
 Deadline for submissions is midnight on March 15, 2017.
 

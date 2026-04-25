@@ -17,7 +17,7 @@ Doors at 6:30pm
 Collage Party at 7:00pm
 RSVPs are helpful
 
-RSVP here: https://thepolygon.ca/event/collage-party-september-issue/
+RSVP here: [https://thepolygon.ca/event/collage-party-september-issue/](https://thepolygon.ca/event/collage-party-september-issue/)
 About the artists Samuel Olsen is a multidisciplinary artist experimenting primarily in
 fine art portraiture under the alias Greasy Dart, along with his lucrative Nail Art
 business Greasy Nails. With high impact colours driving his intuitive aesthetic,

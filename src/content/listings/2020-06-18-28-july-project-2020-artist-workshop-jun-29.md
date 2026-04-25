@@ -23,12 +23,12 @@ people. These groups will decide when and how they will interact " digitally, or
 distanced at an outdoor space, or even at What Lab, depending on everyones
 comfort level. Expect 4-5 meetings, once a week starting in early July.
 
-To find out more or to register, visit http://whatlab.ca/jp-2020/
+To find out more or to register, visit [http://whatlab.ca/jp-2020/](http://whatlab.ca/jp-2020/)
 
 Questions? Email us at studio@whatlab.ca
 
 click here to sign up Deadline is June 29th!
-http://whatlab.ca/july-project-2020-application/
+[http://whatlab.ca/july-project-2020-application/](http://whatlab.ca/july-project-2020-application/)
 
 29. EDUCATION
 | Richmond Art Gallery | Webinar with Priscilla Yu | 7PM | JUN 30
@@ -56,10 +56,10 @@ internationally over the past few years. With a
 personal style involving abstracted perspective and a geometric language, she
 creates worlds that dwell in a strange gravity.
 
-To register: https://us02web.zoom.us/webinar/register/WN_0a-
+To register: [https://us02web.zoom.us/webinar/register/WN_0a-](https://us02web.zoom.us/webinar/register/WN_0a-)
 fFeetQWOOKLi4GAzeug
 
 More details:
-http://www.richmondartgallery.org/artist-salon-webinar-with-priscilla-yu/
+[http://www.richmondartgallery.org/artist-salon-webinar-with-priscilla-yu/](http://www.richmondartgallery.org/artist-salon-webinar-with-priscilla-yu/)
 
-https://www.priscillayu.ca
+[https://www.priscillayu.ca](https://www.priscillayu.ca)

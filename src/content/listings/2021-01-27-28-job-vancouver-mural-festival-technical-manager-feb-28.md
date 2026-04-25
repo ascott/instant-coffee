@@ -27,4 +27,4 @@ project timing, which is generally in full tilt at the height of the summer mont
 support the TD in estimations, budgeting, site plans, safety planning, site team recruitment,
 scheduling, and seeing to the overall success of our on-site work
 
-To apply: https://vanmuralfest.ca/joinourteam
+To apply: [https://vanmuralfest.ca/joinourteam](https://vanmuralfest.ca/joinourteam)

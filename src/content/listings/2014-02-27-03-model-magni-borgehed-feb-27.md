@@ -16,5 +16,5 @@ Model
 Opening Reception Feb. 27th
 7pm-11pm
 
-http://modelprojects.org/
-http://www.magniborgehed.com/
+[http://modelprojects.org/](http://modelprojects.org/)
+[http://www.magniborgehed.com/](http://www.magniborgehed.com/)

@@ -18,10 +18,10 @@ Fri. August 24th
 
 The third in a series of monthly open air film + music nights, FILM + SOUND
 No. 3 takes place in conjunction with the INTEGRATE ARTS FESTIVAL
-http://integratearts.ca/. "Capital City Archives" features SURPRISING local
+[http://integratearts.ca/](http://integratearts.ca/). "Capital City Archives" features SURPRISING local
 shorts from the 80s, 90s and 00s paired w/ ethereal and atmospheric LIVE
-SOUNDS by Ora Cogan (https://oracogan.bandcamp.com/), Elan Noon
-(https://elannoon.bandcamp.com/) and guest DJs.
+SOUNDS by Ora Cogan ([https://oracogan.bandcamp.com/](https://oracogan.bandcamp.com/)), Elan Noon
+([https://elannoon.bandcamp.com/](https://elannoon.bandcamp.com/)) and guest DJs.
 
 Animation, Experimental, FILM, Early Digital, VHS and more... Refreshments
 & snacks available (cash only). 10 mins by bike from downtown Victoria. All

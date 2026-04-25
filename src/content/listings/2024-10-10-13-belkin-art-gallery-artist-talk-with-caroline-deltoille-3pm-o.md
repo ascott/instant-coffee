@@ -39,4 +39,4 @@ Astronomy and the Morris and Helen Belkin Art Gallery through Quantum Studio,
 which is part of a larger program of residencies sponsored by the Embassy of
 France in Western Canada.
 
-https://belkin.ubc.ca/events/artist-talk-caroline-deletoille/
+[https://belkin.ubc.ca/events/artist-talk-caroline-deletoille/](https://belkin.ubc.ca/events/artist-talk-caroline-deletoille/)

@@ -79,7 +79,7 @@ Girls Only is based on a seemingly senseless rhyming game set in the
 Panathenaic Stadium in Athens. If there is no rhyme or reason for why
 something happens, then maybe is there no obvious explanation for it.
 
-Biographies: http://cineworks.ca/attend/event/161
+Biographies: [http://cineworks.ca/attend/event/161](http://cineworks.ca/attend/event/161)
 
 Iris Film Collective is a Vancouver-based group of independent artists
 creating, exhibiting and touring film-based workssingle channel, 

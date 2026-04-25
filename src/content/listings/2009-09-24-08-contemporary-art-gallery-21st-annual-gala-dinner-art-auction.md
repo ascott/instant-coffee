@@ -23,4 +23,4 @@ T: 604 681 2700
 F: 604 683 2710
 
 
-http://www.contemporaryartgallery.ca
+[http://www.contemporaryartgallery.ca](http://www.contemporaryartgallery.ca)

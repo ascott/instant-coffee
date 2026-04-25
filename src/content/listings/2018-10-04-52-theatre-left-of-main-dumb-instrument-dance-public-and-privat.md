@@ -19,7 +19,7 @@ Performance Venue: Left of Main (211 Keefer Street)
 
 $25 General Admission
 
-Tickets: Brown Paper Tickets https://publicandprivate.bpt.me
+Tickets: Brown Paper Tickets [https://publicandprivate.bpt.me](https://publicandprivate.bpt.me)
 
 604 862 2912
 

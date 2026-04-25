@@ -25,7 +25,7 @@ of creative practice. She has been a recipient of the Shadbolt Foundation VIVA
 Award and a finalist for the Sobey Art Award. In 2018-19 she is the City of 
 Vancouvers first Engineering Artist in Residence. Germaine Koh is currently 
 exhibiting Home Made Home at the Evergreen Cultural Centre until November 4th.
-http://germainekoh.com I http://homemadehome.ca 
+[http://germainekoh.com](http://germainekoh.com) I [http://homemadehome.ca](http://homemadehome.ca) 
 
 This event is presented by the Audain Faculty of Art.
 This venue is wheelchair accessible.

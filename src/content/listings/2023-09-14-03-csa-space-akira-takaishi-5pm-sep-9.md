@@ -37,10 +37,10 @@ somewhere to escape into, and at the same time, be trapped by. Takaishi has had
 numerous solo and group shows, and recently also curated a group show
 'Subterraneans' at Gallery M, Tokyo (2021).
 
-http://www.akiratakaishi.com
+[http://www.akiratakaishi.com](http://www.akiratakaishi.com)
 
 This exhibition is co-presented with Maiko Jinushis solo exhibition, Intimacy and
 Distances at Centre A curated by Makiko Hara
-https://centrea.org/exhibitions/current/
+[https://centrea.org/exhibitions/current/](https://centrea.org/exhibitions/current/)
 
 The exhibition is supported by Toshiaki Ogasawara Memorial Foundation

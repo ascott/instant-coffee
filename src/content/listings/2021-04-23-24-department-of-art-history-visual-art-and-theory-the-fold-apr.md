@@ -25,7 +25,7 @@ Exhibition dates: April 20 to 29, 2021
 Opening celebration: Tuesday, April 20, 4:00 PM, via Zoom. Register
 here.
 Physical exhibition: AHVA Gallery and Room 1002 in the Audain Art Centre, UBC
-Virtual exhibition: https://the-fold-visa-undergraduate-final-show.webflow.io/
+Virtual exhibition: [https://the-fold-visa-undergraduate-final-show.webflow.io/](https://the-fold-visa-undergraduate-final-show.webflow.io/)
 
 Exhibiting artists: James Albers, Galen Allan, Charlotte Assier, Bridget Bi, Paige
 Braithwaite, Sai Di, Jayden Dreher, Emma Garm-Straker, Jessica Girard, Wendy Hanlon,

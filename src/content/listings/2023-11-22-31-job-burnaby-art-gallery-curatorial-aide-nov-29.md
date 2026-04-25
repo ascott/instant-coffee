@@ -67,7 +67,7 @@ confirmation email within one hour of submitting your application online.
 We thank all applicants for their interest; however, only those considered for an
 interview will be contacted.
 
-https://tre.tbe.taleo.net/tre01/ats/careers/v2/viewRequisition?
+[https://tre.tbe.taleo.net/tre01/ats/careers/v2/viewRequisition](https://tre.tbe.taleo.net/tre01/ats/careers/v2/viewRequisition)?
 org=CITYBURNABY&cws=37&rid=6012
 
 32.

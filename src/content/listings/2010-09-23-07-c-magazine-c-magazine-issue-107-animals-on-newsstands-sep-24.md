@@ -62,8 +62,8 @@ SAVE THE DATE
 C School Forum on “Animals”  in contemporary art
 Tuesday November 2, 7 pm
 FREE
-http://cmagazine.com
-http://www.thedrakehotel.ca
+[http://cmagazine.com](http://cmagazine.com)
+[http://www.thedrakehotel.ca](http://www.thedrakehotel.ca)
 
 Venue Sponsor: The Drake Hotel
 
@@ -100,4 +100,4 @@ C Magazine PO Box 5 Stn B Toronto M5T 2T2
 
 check us out on Facebook
 C Christmas Gift Subscriptions are just $15!
-Subscribe online at http://cmagazine.com
+Subscribe online at [http://cmagazine.com](http://cmagazine.com)

@@ -27,7 +27,7 @@ Unit 4, 258 East 1st Ave, Vancouver, BC
 (604) 620-0049
 
 info@paulkylegallery.com
-https://www.paulkylegallery.com/
+[https://www.paulkylegallery.com/](https://www.paulkylegallery.com/)
 
 Paul Kyle Gallery proudly announces the opening of The Collaborators, a pivotal
 retrospective of Nettie Wild, one of Canadas leading documentary artists. The exhibition is

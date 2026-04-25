@@ -27,5 +27,5 @@ first four week period of full-time work from April 29 - June 4.
 THE CANDIDATE
 Please visit the City website for further details on this position and how to
 apply. Applications must be sent through the HR Department, as noted.
-https://www.newwestcity.ca/database/files/library/Posting_2022_29_Exhibit_Preparator__
+[https://www.newwestcity.ca/database/files/library/Posting_2022_29_Exhibit_Preparator__](https://www.newwestcity.ca/database/files/library/Posting_2022_29_Exhibit_Preparator__)
 _New_Media_Gallery.pdf

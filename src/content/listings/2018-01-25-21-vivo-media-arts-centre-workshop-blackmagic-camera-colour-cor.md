@@ -10,7 +10,7 @@ summary: "VIVO Media Arts Centre | WORKSHOP | Blackmagic Camera & Colour Correct
 
 Blackmagic Camera & Colour Correction Basics
 
-SIGN UP & MORE INFO: https://blackmagic-colourcorrection.eventbrite.ca/
+SIGN UP & MORE INFO: [https://blackmagic-colourcorrection.eventbrite.ca/](https://blackmagic-colourcorrection.eventbrite.ca/)
 
 Learn how to create beautiful videos with the Blackmagic Cinema Camera and its colour 
 correction software in this comprehensive introduction by cinematographer Devan Scott!

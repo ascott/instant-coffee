@@ -22,7 +22,7 @@ Fellowship will take place in partnership with Centre for Contemporary Arts
 (CCA) Glasgow, a dynamic organisation in one of Europe’s most culturally-
 vibrant cities. The Fellowship is funded partly by CCA, and partly by the 
 Curating.info community itself through a crowdfunding campaign. Please donate 
-to the campaign here: http://rockethub.com/projects/2505-curating-info-
+to the campaign here: [http://rockethub.com/projects/2505-curating-info-](http://rockethub.com/projects/2505-curating-info-)
 fellowship.
 
 The Fellow will work at the CCA in Glasgow, Scotland four days per week over 
@@ -41,4 +41,4 @@ Biennial; and Michelle Kasprzak, Founder and Editor-in-Chief of Curating.info.
 Interested in applying? Download further information and the application form 
 here.
 
-More info about CCA: http://cca-glasgow.com
+More info about CCA: [http://cca-glasgow.com](http://cca-glasgow.com)

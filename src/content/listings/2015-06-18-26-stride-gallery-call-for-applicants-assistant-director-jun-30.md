@@ -79,4 +79,4 @@ director@stride.ab.ca, Subject: ATTN: Stride Gallery Hiring Committee.
 Please include contact information for two suitable employment references.
 
 link:
-http://www.stride.ab.ca/opportunities.html#employmentopportunities
+[http://www.stride.ab.ca/opportunities.html#employmentopportunities](http://www.stride.ab.ca/opportunities.html#employmentopportunities)

@@ -23,4 +23,4 @@ Vancouver, BC V5T 3E2
 See Pulpfiction Books, 2422 Main Street, for admission
 
 Carol Sawyer is represented by Republic Gallery
-http://www.republicgallery.com/
+[http://www.republicgallery.com/](http://www.republicgallery.com/)

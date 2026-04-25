@@ -52,5 +52,5 @@ rock to form a new kind of crystal.
 The Gam Gallery
 110 E Hastings St. Vancouver BC, Canada, V6A 1N4
 thegam@live.com
-http://www.gamgallery.com
+[http://www.gamgallery.com](http://www.gamgallery.com)
 h. Wens - Sat 1 to 5 pm

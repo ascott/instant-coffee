@@ -17,7 +17,7 @@ Membership
 Session 1: Saturday June 10, 12:30pm-5pm
 Session 2: Saturday June 17, 12:30pm-5pm
 
-Sign up on Eventbrite " https://camera-lights-sound-with-alysha-
+Sign up on Eventbrite " [https://camera-lights-sound-with-alysha-](https://camera-lights-sound-with-alysha-)
 seriani.eventbrite.ca
 
 Basic technical aspects of camera operation, sound recording, and lighting 
@@ -33,4 +33,4 @@ get you started on your videos! It also benefits participants interested in VIVO
 more intermediary video-making workshops.
 
 Visit VIVO Education for many more details:
-http://www.vivomediaarts.com/education/upcoming-workshops
+[http://www.vivomediaarts.com/education/upcoming-workshops](http://www.vivomediaarts.com/education/upcoming-workshops)

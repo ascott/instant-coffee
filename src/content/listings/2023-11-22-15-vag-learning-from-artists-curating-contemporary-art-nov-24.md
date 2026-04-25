@@ -25,4 +25,4 @@ If you are unable to make it in person, tune in online. This
 discussion will be
 livestreamed on Zoom.
 
-Learn more: https://www.vanartgallery.bc.ca/events/nov24talk
+Learn more: [https://www.vanartgallery.bc.ca/events/nov24talk](https://www.vanartgallery.bc.ca/events/nov24talk)

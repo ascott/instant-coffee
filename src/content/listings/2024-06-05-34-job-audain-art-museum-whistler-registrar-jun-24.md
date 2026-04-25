@@ -8,5 +8,5 @@ venue: "JOB"
 summary: "JOB | Audain Art Museum [WHISTLER] | Registrar | JUN 24"
 ---
 
-https://audainartmuseum.com/wp-content/uploads/2024/05/Audain-Art-Museum-
+[https://audainartmuseum.com/wp-content/uploads/2024/05/Audain-Art-Museum-](https://audainartmuseum.com/wp-content/uploads/2024/05/Audain-Art-Museum-)
 Registrar-Job-Description_May-20242.pdf

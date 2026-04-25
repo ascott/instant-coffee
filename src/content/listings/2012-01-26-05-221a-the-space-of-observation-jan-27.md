@@ -8,7 +8,7 @@ venue: "221A"
 summary: "221A | The Space of Observation | JAN 27"
 ---
 
-http://221a.ca/the-space-of-observation
+[http://221a.ca/the-space-of-observation](http://221a.ca/the-space-of-observation)
 
 Exhibition: Jan 28 – Feb 26, 2012
 Artist Talk: 2:00pm, Jan 28

@@ -11,7 +11,7 @@ summary: "On-line exhibition | Ubiquitous: technology and the human experience"
 On-line exhibition:
 Ubiquitous: technology and the human experience
 Link to the album:
-https://flic.kr/s/aHsmHAMgvf
+[https://flic.kr/s/aHsmHAMgvf](https://flic.kr/s/aHsmHAMgvf)
 Click on an image and descriptions appear below the image.
 Your comments and thoughts are welcome.
 Enjoy!

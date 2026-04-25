@@ -44,4 +44,4 @@ creative plan to get you in.
 number of reservations for 3 PM, 4 PM and 5 PM daily. Contact us to reserve. 
 
 For more info: plasticorchidfactory.com (with hyperlink direct to this page if possible: 
-http://www.plasticorchidfactory.com/i-miss-doing-nothing/)
+[http://www.plasticorchidfactory.com/i-miss-doing-nothing/](http://www.plasticorchidfactory.com/i-miss-doing-nothing/))

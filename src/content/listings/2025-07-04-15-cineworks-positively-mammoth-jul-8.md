@@ -43,7 +43,7 @@ The Black Box Studio at Cineworks Independent Filmmakers Society at 1131 Howe
 Street.
 
 Here's our analog video guide to get to our space! -
-https://www.youtube.com/watch?v=HvuTPa8_ZAE
+[https://www.youtube.com/watch?v=HvuTPa8_ZAE](https://www.youtube.com/watch?v=HvuTPa8_ZAE)
 
 $120 - non/general members
 

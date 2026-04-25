@@ -35,9 +35,9 @@ Marketing Systems Ltd. which has made this annual series possible.
 Mary Kelly has suggested the following as preliminary readings for her
 lecture:
 
-http://www.frieze.com/issue/article/the_body_politic/
+[http://www.frieze.com/issue/article/the_body_politic/](http://www.frieze.com/issue/article/the_body_politic/)
 
-http://www.mitpressjournals.org/doi/pdf/10.1162/grey.2006.1.24.26?cookieSet=
+[http://www.mitpressjournals.org/doi/pdf/10.1162/grey.2006.1.24.26?cookieSet=](http://www.mitpressjournals.org/doi/pdf/10.1162/grey.2006.1.24.26?cookieSet=)
 1
 
 Whitney Friesen

@@ -23,7 +23,7 @@ industry will benefit from the results.
 We have partnered with industry experts from USA, France, The Netherlands,
 UK, Israel, Brazil, India, and Japan to judge the event, and act as your mentors
 as you progress in the competition. Find out who's on the Global Judges Panel:
-https://yvarts.ca/vanjam-2020-judges
+[https://yvarts.ca/vanjam-2020-judges](https://yvarts.ca/vanjam-2020-judges)
 
 PRIZES:
 1st place - $2000 value including 3 songs record/mix/master
@@ -33,4 +33,4 @@ Audience Choice Award - world wide votes!
 
 HOW TO ENTER
 All you need to do is upload a video of your live performance from the past 12
-months. For the complete rules & submission page visit https://yvarts.ca/vanjam
+months. For the complete rules & submission page visit [https://yvarts.ca/vanjam](https://yvarts.ca/vanjam)

@@ -47,7 +47,7 @@ available Fringe show!
 For more information on DAREU! contact Eric Rhys Miller:
 eric@theonlyanimal.com
 Download PDF Application:
-http://www.theonlyanimal.com/sites/default/files/dareu_application.pdf
+[http://www.theonlyanimal.com/sites/default/files/dareu_application.pdf](http://www.theonlyanimal.com/sites/default/files/dareu_application.pdf)
 Return completed applications to eric@theonlyanimal.com
 Applications must be submitted by February 15.
 Eric Rhys Miller

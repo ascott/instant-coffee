@@ -27,4 +27,4 @@ parameters and creates counterpoint within the solo voice. Allison Hrabluik
 will be premiering her latest video Corundum (2010) with sound by Andrea Young.
 
 For further details about the composers and compositions being presented:
-http://web.me.com/andrelizyoung/aey/current_projects.html
+[http://web.me.com/andrelizyoung/aey/current_projects.html](http://web.me.com/andrelizyoung/aey/current_projects.html)

@@ -8,7 +8,7 @@ venue: "FESTIVAL"
 summary: "FESTIVAL | New Forms Festival | TRANSFORM | DEC 8&9 | DEC 8"
 ---
 
-https://newforms.ca/Transform
+[https://newforms.ca/Transform](https://newforms.ca/Transform)
 
 New Forms Festival is proud to collaborate with Acceleration Radio and Fromlife to
 present the 21st edition of the festival that will be centered on experimental

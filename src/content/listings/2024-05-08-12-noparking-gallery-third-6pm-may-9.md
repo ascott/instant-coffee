@@ -60,6 +60,6 @@ NoParking Gallery
 4906 Main Street
 Vancouver, BC
 
-boymoder: https://boymodermusic.bandcamp.com/
-clara conrado (image flyer and updates): https://www.instagram.com/claralclaralc/
-NoParking Gallery: https://www.instagram.com/claralclaralc/
+boymoder: [https://boymodermusic.bandcamp.com/](https://boymodermusic.bandcamp.com/)
+clara conrado (image flyer and updates): [https://www.instagram.com/claralclaralc/](https://www.instagram.com/claralclaralc/)
+NoParking Gallery: [https://www.instagram.com/claralclaralc/](https://www.instagram.com/claralclaralc/)

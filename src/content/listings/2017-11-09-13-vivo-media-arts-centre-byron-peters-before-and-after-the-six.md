@@ -79,6 +79,6 @@ exhibition curated by Jamelie Hassan at Artcite (Windsor). She is presently deve
 body of work around listening, place, and memory with assistance from a Project Grant 
 from the Canada Council for the Arts.
 
-More info: http://www.vivomediaarts.com/before-and-after-the-sixth-radar-conference/
-FB: https://www.facebook.com/events/376714759407925/?
+More info: [http://www.vivomediaarts.com/before-and-after-the-sixth-radar-conference/](http://www.vivomediaarts.com/before-and-after-the-sixth-radar-conference/)
+FB: [https://www.facebook.com/events/376714759407925/](https://www.facebook.com/events/376714759407925/)?
 notif_t=plan_user_associated&notif_id=1509852444847803

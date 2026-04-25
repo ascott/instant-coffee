@@ -14,4 +14,4 @@ applications to exhibit fine craft in the Mary E. Black Gallery. The
 deadline for applications is March 18, 2016 - at 4pm. Full details about
 the guidelines and submission process can be found on our website at the
 following link.
-http://www.craft-design.ns.ca/exhibits/call-exhibition-submissions
+[http://www.craft-design.ns.ca/exhibits/call-exhibition-submissions](http://www.craft-design.ns.ca/exhibits/call-exhibition-submissions)

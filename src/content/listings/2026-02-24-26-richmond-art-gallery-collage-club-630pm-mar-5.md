@@ -13,7 +13,7 @@ Thursday, March 5, 2026
 6:30 PM - 8:30 PM
 
 REGISTER:
-https://www.eventbrite.ca/e/1982733558447?aff=oddtdtcreator
+[https://www.eventbrite.ca/e/1982733558447?aff=oddtdtcreator](https://www.eventbrite.ca/e/1982733558447?aff=oddtdtcreator)
 
 MONTHLY PROMPT: COLOUR
 

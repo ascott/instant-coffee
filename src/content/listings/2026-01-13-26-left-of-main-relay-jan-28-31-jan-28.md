@@ -30,4 +30,4 @@ Jan 28th 4pm and Jan 31 at 6
 
 Venue: Left of Main, 211 Keefer St, Historic Chinatown, MST Territories
 
-Info and Tickets: https://plasticorchidfactory.ca/left-of-push/left-of-push-relay/
+Info and Tickets: [https://plasticorchidfactory.ca/left-of-push/left-of-push-relay/](https://plasticorchidfactory.ca/left-of-push/left-of-push-relay/)

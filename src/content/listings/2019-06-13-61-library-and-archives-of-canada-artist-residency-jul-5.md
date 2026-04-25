@@ -42,7 +42,7 @@ exhibition/event showcasing their residency work - their other work(s) outside o
 residency may be included. This may take the form of an artist talk, a public workshop, a 
 screening, etc.
 
-Details: https://counterarchive.ca/air-lac 
+Details: [https://counterarchive.ca/air-lac](https://counterarchive.ca/air-lac) 
 
 TO APPLY, PLEASE SUBMIT THE FOLLOWING BY JULY 5, 2019:
 - Up-to-date CV

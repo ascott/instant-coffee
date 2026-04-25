@@ -20,7 +20,7 @@ presented alongside the premiere of a newly commissioned film work, wherein the 
 regalia are activated through healing dance, ceremony and song upon the territory in which
 they were conceived.
 
-Visit https://orgallery.org/exhibitions-projects/fireline-kinship/ for more info.
+Visit [https://orgallery.org/exhibitions-projects/fireline-kinship/](https://orgallery.org/exhibitions-projects/fireline-kinship/) for more info.
 
 Artist Bio:
 

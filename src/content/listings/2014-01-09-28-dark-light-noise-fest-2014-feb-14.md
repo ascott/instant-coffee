@@ -17,10 +17,10 @@ FEBRUARY 14 - 15
 TWO DAYS OF LIVE SETS
 
 FRIDAY, FEB 14 LINE UP:
-https://www.facebook.com/events/195181800673682
+[https://www.facebook.com/events/195181800673682](https://www.facebook.com/events/195181800673682)
 
 SATURDAY, FEB 15 LINE UP & BONUS INFO:
-https://www.facebook.com/events/174627686072497
+[https://www.facebook.com/events/174627686072497](https://www.facebook.com/events/174627686072497)
 
 Tickets:
 

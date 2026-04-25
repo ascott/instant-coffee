@@ -20,7 +20,7 @@ Surrey Art Gallery
 
 Surrey, BC V3W 3L1
 
-https://www.surrey.ca/arts-culture/surrey-art-gallery/exhibitions/takao-tanabe-
+[https://www.surrey.ca/arts-culture/surrey-art-gallery/exhibitions/takao-tanabe-](https://www.surrey.ca/arts-culture/surrey-art-gallery/exhibitions/takao-tanabe-)
 printmaker
 
 Takao Tanabe is among Canadas most

@@ -11,6 +11,6 @@ summary: "West Vancouver Art Museum | TOUR OF RABBIT LANE: DOUGLAS COUPLAND | 2 
 Join us for a free in-person curatorial tour of the West Vancouver Art
 Museums current
 exhibition, Rabbit Lane: Douglas Coupland. Registration is not required. Visitors are
-welcome to drop in to this tour. https://westvancouverartmuseum.ca/event/tour/rabbit-
+welcome to drop in to this tour. [https://westvancouverartmuseum.ca/event/tour/rabbit-](https://westvancouverartmuseum.ca/event/tour/rabbit-)
 lane-douglas-coupland. Click to see more events:
-https://westvancouverartmuseum.ca/events
+[https://westvancouverartmuseum.ca/events](https://westvancouverartmuseum.ca/events)

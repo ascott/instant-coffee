@@ -58,7 +58,7 @@ public spaces and at our downtown Satellite Gallery.
 Image above: La Pieta by Greg Semu, backlit photograph, 2010
 
 Please find the high resolution images on the Satellite Gallery website at
-http://www.satellitegallery.ca/press_future.html
+[http://www.satellitegallery.ca/press_future.html](http://www.satellitegallery.ca/press_future.html)
 
 Wednesday to Saturday
 12 - 6 pm

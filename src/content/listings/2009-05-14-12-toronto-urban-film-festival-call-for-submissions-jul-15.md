@@ -37,11 +37,11 @@ Urban Diversity - Urban Encounters - Urban Ideas - Urban Imaginary - Urban
 Journeys - Urban Natural - Urban Secret
 
 For more information or to submit your film online:
-www.torontourbanfilmfestival.com <http://www.torontourbanfilmfestival.com>
+www.torontourbanfilmfestival.com <[http://www.torontourbanfilmfestival.com](http://www.torontourbanfilmfestival.com)>
 
 TUFF is co-produced by Art for Commuters (www.art4commuters.com
-<http://www.art4commuters.com> ) and Onestop Media Group
-(www.onestopmediagroup.com <http://www.onestopmediagroup.com> ).
+<[http://www.art4commuters.com](http://www.art4commuters.com)> ) and Onestop Media Group
+(www.onestopmediagroup.com <[http://www.onestopmediagroup.com](http://www.onestopmediagroup.com)> ).
 
 Contact: A4C@torontourbanfilmfestival.com
 

@@ -88,19 +88,19 @@ matter.
 
 Lets learn together:
 
-https://www.thecanadianencyclopedia.ca/en/article/oka-crisis
+[https://www.thecanadianencyclopedia.ca/en/article/oka-crisis](https://www.thecanadianencyclopedia.ca/en/article/oka-crisis)
 
-https://hir.harvard.edu/bloody-blockades-the-legacy-of-the-oka-crisis/
+[https://hir.harvard.edu/bloody-blockades-the-legacy-of-the-oka-crisis/](https://hir.harvard.edu/bloody-blockades-the-legacy-of-the-oka-crisis/)
 
-https://www.uvic.ca/socialsciences/ethnographicmapping/projects/oka/index.php
+[https://www.uvic.ca/socialsciences/ethnographicmapping/projects/oka/index.php](https://www.uvic.ca/socialsciences/ethnographicmapping/projects/oka/index.php)
 
-https://waneekhornmiller.com/bio
+[https://waneekhornmiller.com/bio](https://waneekhornmiller.com/bio)
 
-https://www.youtube.com/watch?v=TgYtF32ml5Q
+[https://www.youtube.com/watch?v=TgYtF32ml5Q](https://www.youtube.com/watch?v=TgYtF32ml5Q)
 
-https://www.aptnnews.ca/featured/decades-after-the-siege-kanehsatake-and-
+[https://www.aptnnews.ca/featured/decades-after-the-siege-kanehsatake-and-](https://www.aptnnews.ca/featured/decades-after-the-siege-kanehsatake-and-)
 kahnawake-demands-an-apology/
 
-https://www.nfb.ca/directors/alanis-obomsawin/
+[https://www.nfb.ca/directors/alanis-obomsawin/](https://www.nfb.ca/directors/alanis-obomsawin/)
 
-https://www.nfb.ca/film/kanehsatake_270_years_of_resistance/
+[https://www.nfb.ca/film/kanehsatake_270_years_of_resistance/](https://www.nfb.ca/film/kanehsatake_270_years_of_resistance/)

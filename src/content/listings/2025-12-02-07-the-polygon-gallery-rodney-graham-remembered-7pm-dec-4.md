@@ -24,4 +24,4 @@ Doors at 6:30pm
 Presentations at 7:00pm
 
 RSVP here:
-https://thepolygon.ca/event/rodney-graham-remembered/
+[https://thepolygon.ca/event/rodney-graham-remembered/](https://thepolygon.ca/event/rodney-graham-remembered/)

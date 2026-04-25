@@ -21,7 +21,7 @@ Fine Arts in media and photography from NSCAD University, she has
 recently exhibited at Gallery 44 in Toronto and completed a residency 
 at the Banff Centre for the Arts. 
 
-http://staceyho.com/
+[http://staceyho.com/](http://staceyho.com/)
 
 >>>>
 
@@ -49,7 +49,7 @@ reflects a perpetual stillness, gathers dust."
 >>>>
 
 Yactac Gallery | 7206 Ontario Street (@ 56th), Vancouver, BC
-http://www.yactac.com | yactacgallery@gmail.com
+[http://www.yactac.com](http://www.yactac.com) | yactacgallery@gmail.com
 
-Twitter: http://www.twitter.com/yactac
-Facebook: http://www.facebook.com/pages/Yactac/219495644734594
+Twitter: [http://www.twitter.com/yactac](http://www.twitter.com/yactac)
+Facebook: [http://www.facebook.com/pages/Yactac/219495644734594](http://www.facebook.com/pages/Yactac/219495644734594)

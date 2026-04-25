@@ -31,4 +31,4 @@ of language and appropriation as an artistic strategy. In her use of materials
 she exposes a tension between research and improvisation to allow humour 
 to build on the historical and cultural specificities of her sources.
 
-http://downdownonthecorner.tumblr.com
+[http://downdownonthecorner.tumblr.com](http://downdownonthecorner.tumblr.com)

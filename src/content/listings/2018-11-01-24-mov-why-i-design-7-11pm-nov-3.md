@@ -29,6 +29,6 @@ Location: Museum of Vancouver, 1100 Chestnut Street, Vancouver, V6J 3J9
 Admission: $18 Advance | $23 General Admission + At the Door | $18 MOV 
 Members 
 
-Website: https://museumofvancouver.ca/wid2018
+Website: [https://museumofvancouver.ca/wid2018](https://museumofvancouver.ca/wid2018)
 
-Video from past event: https://www.youtube.com/watch?v=4ULPFw6AU_A
+Video from past event: [https://www.youtube.com/watch?v=4ULPFw6AU_A](https://www.youtube.com/watch?v=4ULPFw6AU_A)

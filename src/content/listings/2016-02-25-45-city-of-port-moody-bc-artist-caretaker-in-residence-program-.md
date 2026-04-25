@@ -26,7 +26,7 @@ studio/residence space.
 
 Complete details on the program, including the application process, can be
 found on the City of Port Moody's website:
-http://portmoody.ca/index.aspx?page=1362
+[http://portmoody.ca/index.aspx?page=1362](http://portmoody.ca/index.aspx?page=1362)
 
 46. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.

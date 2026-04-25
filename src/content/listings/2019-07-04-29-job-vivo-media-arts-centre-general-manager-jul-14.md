@@ -209,7 +209,7 @@ living up to these values in a prohibitively expensive city requires investment 
 and practitioners.
 
 How to apply
-Please provide a C.V., cover letter, and qualifications here: https://jobs.wnn.ca/vivo/.
+Please provide a C.V., cover letter, and qualifications here: [https://jobs.wnn.ca/vivo/](https://jobs.wnn.ca/vivo/).
 
 DO NOT SEND APPLICATIONS VIA EMAIL.
 
@@ -219,7 +219,7 @@ Hiring Committee " General Manager.
 
 The Satellite Video Exchange Society is an equal opportunity employer and encourages 
 applications from self-identified members of equity-seeking groups (for a definition of 
-equity-seeking groups please see https://canadacouncil.ca/glossary/equity-seeking-
+equity-seeking groups please see [https://canadacouncil.ca/glossary/equity-seeking-](https://canadacouncil.ca/glossary/equity-seeking-)
 groups).
 
 We thank all who express interest in this position, however, only those selected for an 

@@ -24,4 +24,4 @@ experience an experimental art installation that reimagines the constellations. 
 bring a blanket to enjoy the stargazing along with downtempo, ambient and tribal beats, 
 plus live music and throat singing!
 
-LEARN MORE: http://moa.ubc.ca/blackout
+LEARN MORE: [http://moa.ubc.ca/blackout](http://moa.ubc.ca/blackout)

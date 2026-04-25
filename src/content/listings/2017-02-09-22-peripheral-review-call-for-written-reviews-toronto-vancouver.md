@@ -48,4 +48,4 @@ guidelines. For general inquires please note your query in the subject line.
 
 For more information visit:
 
-http://www.peripheralreview.com
+[http://www.peripheralreview.com](http://www.peripheralreview.com)

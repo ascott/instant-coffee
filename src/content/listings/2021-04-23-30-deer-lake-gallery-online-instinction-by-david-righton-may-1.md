@@ -19,9 +19,9 @@ recombining them into narratives. Through a combination of acrylic, bright colou
 multilayering techniques, this series presents a story as told by David Righton. Nature
 meets modern daily life.
 
-May 8 Artist talk registration:https://zoom.us/meeting/register/tJwsd-iurTksGtaqP-
+May 8 Artist talk registration:[https://zoom.us/meeting/register/tJwsd-iurTksGtaqP-](https://zoom.us/meeting/register/tJwsd-iurTksGtaqP-)
 RmsXXNR8vXHxyPY_UP
 
 More info:
 
-https://burnabyartscouncil.org/event/instinction-by-david-righton/
+[https://burnabyartscouncil.org/event/instinction-by-david-righton/](https://burnabyartscouncil.org/event/instinction-by-david-righton/)

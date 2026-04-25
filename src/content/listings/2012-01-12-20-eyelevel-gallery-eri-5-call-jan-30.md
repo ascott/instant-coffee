@@ -30,7 +30,7 @@ include the following:
 Eyelevel Gallery to help cover operating costs)
 - Photos of the work
 
-Please login or register at http://reshelving.ca and use the online
+Please login or register at [http://reshelving.ca](http://reshelving.ca) and use the online
 submission form to send us images of your work. You may submit as many
 items as you wish.
 
@@ -42,7 +42,7 @@ The ERI5 Team
 submissions@reshelving.ca
 
 Eyelevel Gallery
-http://eyelevelgallery.ca
+[http://eyelevelgallery.ca](http://eyelevelgallery.ca)
 +1-902-425-6412
 
 Eyelevel Gallery is a not for profit charitable organization dedicated

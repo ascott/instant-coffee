@@ -21,4 +21,4 @@ bid to witness it destroyed!
 Whether you're an art enthusiast, a curious explorer, or simply seeking an unforgettable
 experience, join us and ignite your imagination at the "Buy It or Burn It" Art Show!
 
-Instagram - https://www.instagram.com/david_jardine_art
+Instagram - [https://www.instagram.com/david_jardine_art](https://www.instagram.com/david_jardine_art)

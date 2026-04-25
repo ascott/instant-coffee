@@ -27,5 +27,5 @@ mythology, spirituality and religion, and considers the relevance and role of th
 traditions in contemporary society.
 
 Read the full exhibition text by Carmen Levy-Milne at
-https://deerlakegallery.ca/exhibition/the-tide-is-higher-or-lower-she-couldnt-tell-you-
+[https://deerlakegallery.ca/exhibition/the-tide-is-higher-or-lower-she-couldnt-tell-you-](https://deerlakegallery.ca/exhibition/the-tide-is-higher-or-lower-she-couldnt-tell-you-)
 which/

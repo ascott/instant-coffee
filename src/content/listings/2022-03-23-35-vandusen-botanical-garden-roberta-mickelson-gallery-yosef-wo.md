@@ -27,4 +27,4 @@ pieces using the plants she has foraged, grown and processed.
 Join us Sunday, April 3 from 1 - 3pm for a reception. The gallery is open Monday to
 Wednesday from 10am to 3pm.
 
-(https://www.vandusengarden.org/learn/library/)
+([https://www.vandusengarden.org/learn/library/](https://www.vandusengarden.org/learn/library/))

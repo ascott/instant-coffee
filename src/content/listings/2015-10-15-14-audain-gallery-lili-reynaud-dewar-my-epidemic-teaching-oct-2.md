@@ -11,7 +11,7 @@ summary: "Audain Gallery | Lili Reynaud-Dewar: My Epidemic (Teaching...) | OCT 2
 Lili Reynaud-Dewar: My Epidemic (Teaching Bjarne Melgaard's Class)
 OCT 22 - DEC 12 2015
 Audain Gallery, Vancouver
-http://www.sfu.ca/galleries/audain-gallery/Current.html
+[http://www.sfu.ca/galleries/audain-gallery/Current.html](http://www.sfu.ca/galleries/audain-gallery/Current.html)
 
 Opening Reception and Artist's Talk
 WED, OCT 21 2015 / 7 - 10PM

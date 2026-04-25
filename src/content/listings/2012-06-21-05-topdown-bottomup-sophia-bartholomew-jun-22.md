@@ -23,4 +23,4 @@ Please join us at the opening, this Friday, TOMORROW! :) June 22 7PM
 at 2280 East Hastings Suite 212
 artist run event: July 10 7PM 2280 East Hastings Suite 212
 
-http://www.topdownbottomup.ca/shows/
+[http://www.topdownbottomup.ca/shows/](http://www.topdownbottomup.ca/shows/)

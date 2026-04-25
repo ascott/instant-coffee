@@ -38,7 +38,7 @@ dancers in the upcoming performances that are part of the Richmond Art Gallerys 
 exhibition, Brendan Fernandes: Inaction.
 
 Visit this link to register -
-https://us02web.zoom.us/webinar/register/WN_j9cD8YPBROaOKRzeQIPozA
+[https://us02web.zoom.us/webinar/register/WN_j9cD8YPBROaOKRzeQIPozA](https://us02web.zoom.us/webinar/register/WN_j9cD8YPBROaOKRzeQIPozA)
 
 Session Format: This session is a free live-streamed webinar on the Zoom
 platform or

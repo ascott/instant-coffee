@@ -81,4 +81,4 @@ West Vancouver Museum
 West Vancouver, BC 
 V7V 3T2
 604.925.7296
-http://westvancouvermuseum.ca
+[http://westvancouvermuseum.ca](http://westvancouvermuseum.ca)

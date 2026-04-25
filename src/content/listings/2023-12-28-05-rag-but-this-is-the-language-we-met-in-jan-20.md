@@ -26,7 +26,7 @@ language has evolved over time: while some aspects of it have changed, others ha
 remained the same, emphasizing the advantages and drawbacks of modern
 communication.
 
-More info: https://www.richmondartgallery.org/but-this-is-the-language-we-met-in-
+More info: [https://www.richmondartgallery.org/but-this-is-the-language-we-met-in-](https://www.richmondartgallery.org/but-this-is-the-language-we-met-in-)
 %e6%88%91%e4%bb%ac%e5%9c%a8%e8%bf%99%e4%b8%aa%e8%af%ad%e8%
 a8%80%e4%b8%ad%e7%9b%b8%e9%81%87
 

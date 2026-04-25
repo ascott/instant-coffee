@@ -69,7 +69,7 @@ display.
 5. Write a brief description of how this opportunity would benefit you, your group 
 or your company/organization.
 6. Have your credit card or PayPal account information on-hand and register 
-online at: http://creativemix2011.eventbrite.com
+online at: [http://creativemix2011.eventbrite.com](http://creativemix2011.eventbrite.com)
 
 -
 
@@ -77,5 +77,5 @@ QUESTIONS
 Contact: Eileen Rothe
 Phone: 604-788-2019
 Email: eileen@creativemix.ca
-Twitter: http://www.twitter.com/creativemixca
-Web: http://www.creativemix.ca
+Twitter: [http://www.twitter.com/creativemixca](http://www.twitter.com/creativemixca)
+Web: [http://www.creativemix.ca](http://www.creativemix.ca)

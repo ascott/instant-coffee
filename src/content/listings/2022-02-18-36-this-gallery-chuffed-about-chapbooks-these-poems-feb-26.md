@@ -21,4 +21,4 @@ people, so arrive early!
 
 THIS Gallery - 475 Main Street (Main and Pender) - Buzz 227 for entry.
 
-https://thisgallery.org/
+[https://thisgallery.org/](https://thisgallery.org/)

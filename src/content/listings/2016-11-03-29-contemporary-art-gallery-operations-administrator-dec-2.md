@@ -11,7 +11,7 @@ summary: "Contemporary Art Gallery | Operations administrator | DEC 2"
 The Contemporary Art Gallery is seeking to appoint a new Operations Administrator 
 to take up post in 2017.
 
-http://www.contemporaryartgallery.ca/wpcontent/uploads/2016/10/Operations_Admin
+[http://www.contemporaryartgallery.ca/wpcontent/uploads/2016/10/Operations_Admin](http://www.contemporaryartgallery.ca/wpcontent/uploads/2016/10/Operations_Admin)
 istrator_2016.pdf
 
 30. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing

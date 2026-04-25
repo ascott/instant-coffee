@@ -16,7 +16,7 @@ Garry Point Park
 Sunday July 28
 4 - 6:30pm
 
-Directions for cars and transit: https://www.richmondmaritimefestival.ca/about/getting-
+Directions for cars and transit: [https://www.richmondmaritimefestival.ca/about/getting-](https://www.richmondmaritimefestival.ca/about/getting-)
 festival/
 
 In partnership with LIVE 2019 International Performance Art Biennale and Richmond 

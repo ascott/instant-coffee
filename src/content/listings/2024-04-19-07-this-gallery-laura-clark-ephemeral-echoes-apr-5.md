@@ -35,7 +35,7 @@ Lower Ground Level
 268 Keefer Street
 Vancouver, BC
 
-THIS Gallery: https://thisgallery.org/
-Artist Website: https://www.lauraclark.ca/
-Full Artist Statement: https://thisgallery.org/project/laura-clark/
-Online shop: https://thethisgallery.com/collections/laura-clark
+THIS Gallery: [https://thisgallery.org/](https://thisgallery.org/)
+Artist Website: [https://www.lauraclark.ca/](https://www.lauraclark.ca/)
+Full Artist Statement: [https://thisgallery.org/project/laura-clark/](https://thisgallery.org/project/laura-clark/)
+Online shop: [https://thethisgallery.com/collections/laura-clark](https://thethisgallery.com/collections/laura-clark)

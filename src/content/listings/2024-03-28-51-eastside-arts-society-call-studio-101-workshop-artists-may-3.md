@@ -27,8 +27,8 @@ Length: 1.5-hour workshops
 Artist & Materials Fee: See Call linked below
 
 SEE FULL CALL HERE
-https://drive.google.com/file/d/1k8cqY34i9cnh67ShcYekinZm3uJVrLB4/view?
+[https://drive.google.com/file/d/1k8cqY34i9cnh67ShcYekinZm3uJVrLB4/view](https://drive.google.com/file/d/1k8cqY34i9cnh67ShcYekinZm3uJVrLB4/view)?
 usp=sharing
 
 APPLY HERE
-https://forms.gle/bGmsrLcbhCj4PPnh7
+[https://forms.gle/bGmsrLcbhCj4PPnh7](https://forms.gle/bGmsrLcbhCj4PPnh7)

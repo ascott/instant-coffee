@@ -35,4 +35,4 @@ Venue: The Gallery @ Artech
 336 E 1st Ave Vancouver BC
 Doors at 6:30pm, music at 7pm.
 
-INFO & TICKETS: https://sidedooraccess.com/shows/pCKgbQmrY0zyaEOR04F8
+INFO & TICKETS: [https://sidedooraccess.com/shows/pCKgbQmrY0zyaEOR04F8](https://sidedooraccess.com/shows/pCKgbQmrY0zyaEOR04F8)

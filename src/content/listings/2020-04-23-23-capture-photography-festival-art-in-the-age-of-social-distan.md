@@ -10,7 +10,7 @@ summary: "Capture Photography Festival | Art in the Age of Social Distancing | 1
 
 Art in the Age of Social Distancing
 
-https://capturephotofest.com/events/art-in-the-age-of-social-distancing/
+[https://capturephotofest.com/events/art-in-the-age-of-social-distancing/](https://capturephotofest.com/events/art-in-the-age-of-social-distancing/)
 
 In this illustrated talk, curator Cliff Lauson discusses the complex relationship between lens-
 based image culture and the experience economy. Recently, most countries around the
@@ -29,4 +29,4 @@ Umbrella. Lauson is also a fellow of the Royal Society of the Arts and a qualifi
 Dr. Lauson is a contributor to Captures 2020 catalogue. You can read his essay, Selfie-
 Portraiture, at this link.
 
-https://issuu.com/capturephotographyfestival/docs/capture_catalogue_2020-issuu-final
+[https://issuu.com/capturephotographyfestival/docs/capture_catalogue_2020-issuu-final](https://issuu.com/capturephotographyfestival/docs/capture_catalogue_2020-issuu-final)

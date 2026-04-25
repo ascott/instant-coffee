@@ -26,14 +26,14 @@ means to salvage. In this context, salvation takes on a dialogue of
 restoration, process, and transformation outside of the didacticism of
 dogma.
 
-http://www.heidi-nagtegaal.com/ <http://www.heidi-nagtegaal.com/>
+[http://www.heidi-nagtegaal.com/](http://www.heidi-nagtegaal.com/) <[http://www.heidi-nagtegaal.com/](http://www.heidi-nagtegaal.com/)>
 
 PERFORMANCE 9PM
 AMOR DE COSMOS // Critically interested by dub + rave cultures, Amor de
 Cosmos is over the top, with lights, survivalist visuals, and extreme
 sounds. They'll make you shake, shave off excess emotional baggage, and
 shiver off the debts of the past.
-http://www.myspace.com/amordecosmos <http://www.myspace.com/amordecosmos>
+[http://www.myspace.com/amordecosmos](http://www.myspace.com/amordecosmos) <[http://www.myspace.com/amordecosmos](http://www.myspace.com/amordecosmos)>
 
 SECRET ARTIST DJS
 10 PM KMONEY KRYSTALLS (Kristoff Steinruck),
@@ -57,4 +57,4 @@ creating Portals between us.
 
 + POTENTIAL VISIT FROM THE BAD ENERGY TRAP
 
-http://www.heidi-nagtegaal.com
+[http://www.heidi-nagtegaal.com](http://www.heidi-nagtegaal.com)

@@ -18,7 +18,7 @@ $135 + taxes | Concessions; Community Partner Members (WIFTV, DOC BC,
 VIVO)
 $150 + taxes | Member Admission
 
-REGISTER: https://colour-contact-printing-apr.eventbrite.ca
+REGISTER: [https://colour-contact-printing-apr.eventbrite.ca](https://colour-contact-printing-apr.eventbrite.ca)
 
 Duration: 7 hours, including 1 hour lunch break
 
@@ -66,7 +66,7 @@ projects (we have two: one for 16mm and one for 35mm).
 Please note: access to membership discounts can be obtained with a Cineworks
 General Membership ($40 annually). Please call 604-685-3841 for details, or 
 come to an orientation at our Howe Street location
-(see http://www.cineworks.ca/attend#events for bi-weekly schedule details).
+(see [http://www.cineworks.ca/attend#events](http://www.cineworks.ca/attend#events) for bi-weekly schedule details).
 
 Cineworks gratefully acknowledges and pays respect to the Musqueam, 
 Squamish and Tsleil-Waututh First Nations on whose unceded traditional 

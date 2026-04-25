@@ -22,7 +22,7 @@ Three sessions, 9 hours total | $70, or $58 with VIVO Extended Producer Membersh
 (+GST)
 
 Sign up on Eventbrite:
-https://sound-design-with-alexandre-klinke.eventbrite.ca
+[https://sound-design-with-alexandre-klinke.eventbrite.ca](https://sound-design-with-alexandre-klinke.eventbrite.ca)
 
 In this introductory workshop, students will get to create different sound effects for film, 
 video and multimedia as well as creating custom virtual instruments for music 
@@ -31,4 +31,4 @@ audio workstation, and powerful free plugin synthesizers such as Synth1 and Tyre
 Learn the basics of audio synthesis, sampling and effects.
 
 Visit VIVO Education for many more details: 
-http://www.vivomediaarts.com/education/upcoming-workshops
+[http://www.vivomediaarts.com/education/upcoming-workshops](http://www.vivomediaarts.com/education/upcoming-workshops)

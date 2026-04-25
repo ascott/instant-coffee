@@ -9,7 +9,7 @@ summary: "SPOOX AUDIO ZINE: Issue 14: Rote Notes | CALLING ALL AUDIOS - SPOOX : 
 ---
 
 CALLING ALL AUDIOS - SPOOX : 12 - 13 -14
-http://spooxaudiozine.org/
+[http://spooxaudiozine.org/](http://spooxaudiozine.org/)
 
 Deadline February 15th, 2017.
 

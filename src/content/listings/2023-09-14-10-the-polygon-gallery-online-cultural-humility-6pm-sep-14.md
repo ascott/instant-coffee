@@ -24,7 +24,7 @@ Please note this is an online event
 Advance registration required
 Click here
 to register:
-https://us02web.zoom.us/webinar/register/WN_b7HX9SmgRA-
+[https://us02web.zoom.us/webinar/register/WN_b7HX9SmgRA-](https://us02web.zoom.us/webinar/register/WN_b7HX9SmgRA-)
 BYf3W2ujqQA#/registration
 
 6pm: Screening of Sussan Yez's short documentary the land teaches us our

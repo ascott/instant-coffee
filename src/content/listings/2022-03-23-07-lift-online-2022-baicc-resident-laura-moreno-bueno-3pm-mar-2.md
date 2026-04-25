@@ -29,13 +29,13 @@ that uses photosensitive microphones to create a soundtrack out of the play of c
 and shadow that falls upon the screen, generating a synesthetic experience. Her
 project explores the transfiguration of the colours of the city into sounds, by discovering
 what Toronto sounds like using the eyes instead of the ears.
-https://lauramorenobueno.com
+[https://lauramorenobueno.com](https://lauramorenobueno.com)
 
 Online Artist Talk presented on Zoom
 Thursday, March 24, 2022
 6:00pm EST / 12:00am midnight CET
 
-FREE. Advanced registration required: https://lift.ca/workshop-registration/?
+FREE. Advanced registration required: [https://lift.ca/workshop-registration/](https://lift.ca/workshop-registration/)?
 workshopcat=0&event=934
 
 Total running time of the presentation, with a Q&A, will be approximately 60 minutes.

@@ -14,7 +14,7 @@ wall. The theme for this call is Local Flora and Fauna. Showcase your 2D artwork
 including paintings, photography, and prints. Open to all ages and artists at any level of
 their artistic journey.
 
-- Find all details here: https://www.surrey.ca/arts-culture/community-
+- Find all details here: [https://www.surrey.ca/arts-culture/community-](https://www.surrey.ca/arts-culture/community-)
 art/community-art-artist-calls
 
 - Deadline to Apply: January 16, 2025

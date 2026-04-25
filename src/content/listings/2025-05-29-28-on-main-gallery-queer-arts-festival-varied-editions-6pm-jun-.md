@@ -22,5 +22,5 @@ expression. Presented in partnership with Malaspina Printmakers Society.
 Join us for the free opening reception at On Main Gallery, Friday June 6, from 6 - 9pm.
 Following the opening, Varied Editions runs until June 28th, Tues - Sat, 12 - 6pm.
 
-Tickets and more information: https://www.eventbrite.ca/e/varied-editions-opening-
+Tickets and more information: [https://www.eventbrite.ca/e/varied-editions-opening-](https://www.eventbrite.ca/e/varied-editions-opening-)
 reception-tickets-1366188098379?aff=oddtdtcreator

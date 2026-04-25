@@ -14,7 +14,7 @@ industrial wooden beam structure at the south edge of False Creek (east of the C
 Bridge).
 
 This new public artwork was produced by local artist Justin Langlois 
-(http://justinlanglois.com) as part of the Citys first Artist-in-Residence program. Since 
+([http://justinlanglois.com](http://justinlanglois.com)) as part of the Citys first Artist-in-Residence program. Since 
 mid-2016, Justin has been working with the Sustainability Group, learning about the 
 various initiatives and themes that shape the Greenest City Action Plan and contributing 
 to ideas and opportunities for greater engagement. The work produced aims to open up 

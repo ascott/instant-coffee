@@ -25,6 +25,6 @@ your own props and vintage costumes to take one-of-a-kind, memorable
 portraits! Together, we will create a collaborative piece with these
 photographs. Opening remarks and exhibition overview are at 2pm and the
 workshop begins at 3pm. For ages 13-100. Admission is free. Learn more and
-RSVP at http://artstarts.com/gallery
+RSVP at [http://artstarts.com/gallery](http://artstarts.com/gallery)
 
 View Finders is presented as part of the Capture Photography Festival

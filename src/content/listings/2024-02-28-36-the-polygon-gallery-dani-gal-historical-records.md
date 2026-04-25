@@ -23,7 +23,7 @@ gallery
 
 RSVPs are helpful
 
-RSVP here: https://thepolygon.ca/event/historical-records-opening-celebration-
+RSVP here: [https://thepolygon.ca/event/historical-records-opening-celebration-](https://thepolygon.ca/event/historical-records-opening-celebration-)
 performance/
 
 Dani Gal: Historical Records is on view March 9 - July 14 in The Polygon's ground

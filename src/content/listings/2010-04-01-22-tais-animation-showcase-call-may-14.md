@@ -32,7 +32,7 @@ artist bio and contact information, as well as two film stills (tiff or jpg
 @ 300 dpi 2 x 3). Description, bio, contact info and film stills may be
 emailed to tais@bellnet.ca or included in submission package. Submission
 form can be found here:
-http://www.tais.ca/tais_showcase_submission_form_2010.pdf
+[http://www.tais.ca/tais_showcase_submission_form_2010.pdf](http://www.tais.ca/tais_showcase_submission_form_2010.pdf)
 
 Deadline for submissions:
 Friday May 14, 2010, 5:00 pm

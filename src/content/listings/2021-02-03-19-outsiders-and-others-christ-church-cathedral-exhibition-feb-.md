@@ -71,4 +71,4 @@ and Others.
 If you have any questions, comments or concerns, please email Yuri Arajs at
 outsidersandothers@gmail.com and please put Christ Church in the subject line.
 
-https://www.outsidersandothers.com/news
+[https://www.outsidersandothers.com/news](https://www.outsidersandothers.com/news)

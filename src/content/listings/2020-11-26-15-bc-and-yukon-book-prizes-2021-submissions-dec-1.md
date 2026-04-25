@@ -21,4 +21,4 @@ Duthie Booksellers' Choice Award.
 
 For more information about submitting to the 2021 BC and Yukon Book Prizes visit our
 website.
-http://https://bcyukonbookprizes.com/submission-form-for-
+[http://https://bcyukonbookprizes.com/submission-form-for-](http://https://bcyukonbookprizes.com/submission-form-for-)

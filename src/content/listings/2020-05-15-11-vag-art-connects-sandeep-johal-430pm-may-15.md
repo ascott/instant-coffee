@@ -30,5 +30,5 @@ has transformed boarded-up storefronts in Vancouver with vibrant imagery and
 messages of hope. Johals mural, located at 1132 Robson Street, features a monkey
 and a bird and encourages us all to hang in there.
 
-To register for the event, please visit: http://www.vanartgallery.bc.ca/events/art-
+To register for the event, please visit: [http://www.vanartgallery.bc.ca/events/art-](http://www.vanartgallery.bc.ca/events/art-)
 connects-sandeep-johal

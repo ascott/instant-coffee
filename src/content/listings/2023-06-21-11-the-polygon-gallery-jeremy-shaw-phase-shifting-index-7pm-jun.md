@@ -14,7 +14,7 @@ Celebration.
 
 Artist in attendance
 
-Please RSVP here: https://thepolygon.ca/event/phase-shifting-index-opening-
+Please RSVP here: [https://thepolygon.ca/event/phase-shifting-index-opening-](https://thepolygon.ca/event/phase-shifting-index-opening-)
 celebration/
 
 Jeremy Shaw: Phase Shifting Index is on view at The Polygon June 23 - September

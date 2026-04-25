@@ -20,7 +20,7 @@ September 7, 2024 from 2 - 5 pm
 SlideNight Vol. V featuring Richard Sandler, Jackie Dives, Chad Wong, and Alex
 Waterhouse-Hayward
 September 19, 2024, 7pm
-Tickets available: https://www.gallery881.com/tickets/p/slidenight-volume-5
+Tickets available: [https://www.gallery881.com/tickets/p/slidenight-volume-5](https://www.gallery881.com/tickets/p/slidenight-volume-5)
 
 Artist Talk with
 Richard Sandler

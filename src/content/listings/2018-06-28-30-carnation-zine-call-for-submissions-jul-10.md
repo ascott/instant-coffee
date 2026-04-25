@@ -12,7 +12,7 @@ Carnation is a new submission-based zine! We publish art and writing created
 through a lens of diaspora and displacement, prioritizing contributions from black, 
 Indigenous, and people of colour.
 
-https://www.facebook.com/events/333761187150707/?ti=as
+[https://www.facebook.com/events/333761187150707/?ti=as](https://www.facebook.com/events/333761187150707/?ti=as)
 
 Submissions:
 Topics may include but are not limited to: space/place, language, home, memory, 

@@ -23,4 +23,4 @@ Dalanna Gail Bowen - DTES Centre for the Arts/Quilt Project for Missing Women
 Fazakas Gallery 
 688 East Hastings Street 
 Vancouver BC V6A 1R1
-http://www.fazakasgallery.com/
+[http://www.fazakasgallery.com/](http://www.fazakasgallery.com/)

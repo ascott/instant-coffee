@@ -13,7 +13,7 @@ the University of British Columbia is pleased to announce the exhibition,
 "Lorna Brown: Threshold, (cont.)".
 
 Koerner Library: Main floor, 1958 Main Mall, UBC
-<http://www.maps.ubc.ca/PROD/index_detail.php?locat1=515-1>
+<[http://www.maps.ubc.ca/PROD/index_detail.php?locat1=515-1](http://www.maps.ubc.ca/PROD/index_detail.php?locat1=515-1)>
 Library Hours: Monday - Friday 8 am to 11 pm; Saturday - Sunday 10 am to 11 pm
 
 This work by Lorna Brown is part of on ongoing inquiry into the topic of

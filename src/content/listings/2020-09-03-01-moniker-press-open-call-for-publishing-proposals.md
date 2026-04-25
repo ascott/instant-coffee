@@ -24,7 +24,7 @@ our publishing projects visit the website.
 
 Applications will be reviewed approximately every two months but you can 
 submit an idea at anytime through this form: 
-https://forms.gle/ZvTCzAjQ7xeRbzvRA
+[https://forms.gle/ZvTCzAjQ7xeRbzvRA](https://forms.gle/ZvTCzAjQ7xeRbzvRA)
 
 Moniker Press is a risograph print and publishing studio that works 
 collaboratively with artists and writers to produce small editions of books, zines 

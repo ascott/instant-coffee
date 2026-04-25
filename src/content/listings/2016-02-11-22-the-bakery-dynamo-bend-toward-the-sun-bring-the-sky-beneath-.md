@@ -39,6 +39,6 @@ permeable.
 
 *Exhibition runs February 19th-March 4th, 2016.
 The Bakery: Wed & Thurs 5p - 7p, Sat, 11a - 5p
-http://thebakeryonfranklin.com/
+[http://thebakeryonfranklin.com/](http://thebakeryonfranklin.com/)
 Dynamo Arts Association: by appointment 604 600 5180
-http://www.dynamoarts.ca/
+[http://www.dynamoarts.ca/](http://www.dynamoarts.ca/)

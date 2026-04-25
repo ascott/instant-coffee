@@ -67,4 +67,4 @@ Program Facilitator
 
 publicart@langara.bc.ca <mailto:publicart@langara.bc.ca>
 
-langarapublicart.ca <http://langarapublicart.ca/>
+langarapublicart.ca <[http://langarapublicart.ca/](http://langarapublicart.ca/)>

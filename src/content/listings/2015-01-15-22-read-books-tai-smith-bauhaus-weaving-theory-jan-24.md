@@ -30,4 +30,4 @@ Emily Carr University of Art + Design
 1399 Johnston Street
 Vancouver, BC V6H 3R9
 Tel: +1 604 844 3809
-http://chscott.ecuad.ca
+[http://chscott.ecuad.ca](http://chscott.ecuad.ca)

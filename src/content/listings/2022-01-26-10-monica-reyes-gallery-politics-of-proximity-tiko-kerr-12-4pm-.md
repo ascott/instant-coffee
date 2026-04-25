@@ -46,5 +46,5 @@ figurative illusions which encourage viewers to reconsider their relationship to
 familiar.
 
 Book a viewing time:
-https://squareup.com/appointments/book/6y29784jq2kqjx/6DH0FTF9E6WHY/services
+[https://squareup.com/appointments/book/6y29784jq2kqjx/6DH0FTF9E6WHY/services](https://squareup.com/appointments/book/6y29784jq2kqjx/6DH0FTF9E6WHY/services)
 ?mc_cid=890875c038&mc_eid=5202ea64de

@@ -46,6 +46,6 @@ how breast cancer puts a woman's body on strike from being able to fulfill
 her work. The tension between the temporal distance and the material
 proximity of these two texts frame the exhibition.
 
-http://www.sfu.ca/galleries/audain-gallery/The-Fraud-That-Goes-By-The-Name-Of-Love.html
+[http://www.sfu.ca/galleries/audain-gallery/The-Fraud-That-Goes-By-The-Name-Of-Love.html](http://www.sfu.ca/galleries/audain-gallery/The-Fraud-That-Goes-By-The-Name-Of-Love.html)
 audaingallery@sfu.ca
 779-782-9102

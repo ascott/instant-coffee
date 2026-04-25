@@ -13,7 +13,7 @@ Speaker Series: Ardele Lister
 Feb 5 at 12pm PST
 ZOOM
 
-RSVP: https://www.eventbrite.com/e/137050404449
+RSVP: [https://www.eventbrite.com/e/137050404449](https://www.eventbrite.com/e/137050404449)
 
 ReIssue is kicking off 2021 with a series of free, virtual talks and presentations by
 artists, writers, and artist-writers whose practices, though varied, meet at the
@@ -62,7 +62,7 @@ University.
 
 Her works are in the permanent collections of the Museum of Modern Art (NY), the
 Centre Pompidou (Paris), the National Gallery of Canada (Ottawa), the Stedelijk
-Museum (Amsterdam) and the Kunsthalle (Berlin). http://ardelelister.com/
+Museum (Amsterdam) and the Kunsthalle (Berlin). [http://ardelelister.com/](http://ardelelister.com/)
 
 About:
 ReIssue is an
@@ -70,7 +70,7 @@ interdisciplinary art writing platform focused on shaping and sustaining a
 contemporary west coast discourse rooted in critical engagement with experimental art
 practices. ReIssue is a partnership between UNIT PITT Society for Art and Critical
 Awareness and VIVO Media Arts Centre, funded through a Vancouver Foundation
-Systems Change Grant. https://reissue.pub/
+Systems Change Grant. [https://reissue.pub/](https://reissue.pub/)
 
 ReIssue operates on unceded Musqueam, Tsleil-Waututh, and Squamish homelands
 known as Vancouver, British Columbia.

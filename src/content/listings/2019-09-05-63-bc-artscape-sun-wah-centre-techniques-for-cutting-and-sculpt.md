@@ -14,7 +14,7 @@ BC Artscape Sun Wah Centre
 268 Keefer Street, 3rd floor
 Cost: $100
 
-Register through eventbrite: https://www.eventbrite.com/e/paper-play-techniques-for-cutting-
+Register through eventbrite: [https://www.eventbrite.com/e/paper-play-techniques-for-cutting-](https://www.eventbrite.com/e/paper-play-techniques-for-cutting-)
 and-sculpting-paper-tickets-68642440387
 
 Rachael Ashe is a Vancouver-based artist working in paper-cut, sculpture, and installation work.

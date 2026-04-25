@@ -65,12 +65,12 @@ dialogue on matters important to Canadians.
 
 Resources
 
-Exhibition Webpage: https://kelownaartgallery.com/in-a-strange-place/
+Exhibition Webpage: [https://kelownaartgallery.com/in-a-strange-place/](https://kelownaartgallery.com/in-a-strange-place/)
 
-Living Things Festival: https://livingthingsfestival.com/event/in-a-strange-place-art-
+Living Things Festival: [https://livingthingsfestival.com/event/in-a-strange-place-art-](https://livingthingsfestival.com/event/in-a-strange-place-art-)
 installation/
 
-Mia + Eric IG: https://www.instagram.com/mia.and.eric/
+Mia + Eric IG: [https://www.instagram.com/mia.and.eric/](https://www.instagram.com/mia.and.eric/)
 
 Kelowna Art Gallery
 

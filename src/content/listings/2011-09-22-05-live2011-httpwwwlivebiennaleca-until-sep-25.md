@@ -11,7 +11,7 @@ summary: "LIVE2011 | http://www.livebiennale.ca | until | SEP 25"
 LIVE 2011 | Sept 15 to 25
 
 Find out more about the festival's phenomenal line up here:
-http://www.livebiennale.ca/
+[http://www.livebiennale.ca/](http://www.livebiennale.ca/)
 
 Thursday, Sept 22, Centre A, 8:00PM
 Nobuo Kubota
@@ -51,4 +51,4 @@ Creative Destruction by Matthew Buckingham
 _____
 
 If you post images of the shows on flickr or twitter use the tag "urlive" and they
-will show up on our website http://www.livebiennale.ca/
+will show up on our website [http://www.livebiennale.ca/](http://www.livebiennale.ca/)

@@ -13,7 +13,7 @@ Origo Club will be hosting SHAN SHUI a Two Person Exhibition from July 25th to A
 
 LocationOrigo Club Art Gallery
 Address110 - 6888 River Road, Richmond
-Website: https://origoclub.ca/art-gallery/shan-shui/
+Website: [https://origoclub.ca/art-gallery/shan-shui/](https://origoclub.ca/art-gallery/shan-shui/)
 
 The Opening Reception will be held on Thursday July 25th, 2019 from 7-9pm. 
 

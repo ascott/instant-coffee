@@ -43,7 +43,7 @@ intersection of disability and contemporary art. She held the position
 Director/Curator of the Dunlop Art Gallery in Regina, Saskatchewan,
 Canada from 2007-2010, and has curated approximately 30 exhibitions
 over the last ten years in various cities across the USA, England,
-Australia and Canada. http://www.amandacachia.com/
+Australia and Canada. [http://www.amandacachia.com/](http://www.amandacachia.com/)
 
 Margaret Dragu works in video, installation, new media & performance
 art. Dragu's performancesspan relational, durational, interventionist &

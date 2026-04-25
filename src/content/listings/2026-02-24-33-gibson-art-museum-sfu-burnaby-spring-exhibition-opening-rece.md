@@ -19,4 +19,4 @@ Activities in the Tuey Art Studio
 Free Parking in SFU's North Parking Lot
 
 Link to opening reception details:
-https://gibson.sfu.ca/whats-on/2026-spring-exhibitions-reception
+[https://gibson.sfu.ca/whats-on/2026-spring-exhibitions-reception](https://gibson.sfu.ca/whats-on/2026-spring-exhibitions-reception)

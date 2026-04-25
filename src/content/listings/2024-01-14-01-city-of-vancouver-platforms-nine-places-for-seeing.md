@@ -26,4 +26,4 @@ and Robson at various times throughout the day with a dedicated showing at 12 no
 daily. The work will be up until February 26th.
 
 You can learn more about this work and the works of other featured artists on the Citys
-website at https://vancouver.ca/platforms
+website at [https://vancouver.ca/platforms](https://vancouver.ca/platforms)

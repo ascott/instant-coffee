@@ -21,7 +21,7 @@ and contemporary artists are invited to submit concepts for a temporary
 pop-up public space at Ship Point Plaza in Victoria, BC.
 
 Link to Call:
-http://www.victoria.ca/EN/main/departments/parks-rec-culture/parks/harbour-pathway/ship-point-pop-up-design-competition.html
+[http://www.victoria.ca/EN/main/departments/parks-rec-culture/parks/harbour-pathway/ship-point-pop-up-design-competition.html](http://www.victoria.ca/EN/main/departments/parks-rec-culture/parks/harbour-pathway/ship-point-pop-up-design-competition.html)
 
 For additional information or questions, please email the City of Victoria
 at engage@victoria.ca

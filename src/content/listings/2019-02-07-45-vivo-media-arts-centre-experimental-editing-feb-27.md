@@ -11,7 +11,7 @@ summary: "VIVO Media Arts Centre | Experimental Editing | FEB 27"
 Experimental Editing
 
 SIGN UP & MORE INFO: 
-https://experimental-editing.eventbrite.ca
+[https://experimental-editing.eventbrite.ca](https://experimental-editing.eventbrite.ca)
 
 Inspiring techniques to stoke your editing process, with editor Will Ross.
 
@@ -33,4 +33,4 @@ blending, contrast, rhythm, rapid cutting, graphic montage in novel and expressi
 ways.
 
 One Extended Subsidy available for this workshop: 
-https://goo.gl/forms/z1t2E8tlBfiz2r693
+[https://goo.gl/forms/z1t2E8tlBfiz2r693](https://goo.gl/forms/z1t2E8tlBfiz2r693)

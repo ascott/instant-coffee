@@ -19,4 +19,4 @@ spectacles to intimate, immersive encounters - guaranteed to invigorate and prov
 PuSh Passes start at $119, single tickets from $10.
 
 2017 PuSh Passes and tickets available at: 
-http://pushfestival.ca
+[http://pushfestival.ca](http://pushfestival.ca)

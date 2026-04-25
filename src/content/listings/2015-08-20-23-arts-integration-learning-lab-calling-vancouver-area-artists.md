@@ -27,7 +27,7 @@ materials and lunch. Presented by ArtStarts in Schools, this opportunity is
 made possible through support from BC Arts Council and the Province of BC's
 Creative Futures program.
 
-Apply by October 9, 2015. Learn more at http://artstarts.com/infusion
+Apply by October 9, 2015. Learn more at [http://artstarts.com/infusion](http://artstarts.com/infusion)
 
 24. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.
@@ -72,7 +72,7 @@ street parking
 The Bakery also has a project/gallery space which provides an intimate
 environment for new art and artists to showcase engaging art that combines
 artistry with experimentation and investigation.
-http://thebakeryonfranklin.tumblr.com
+[http://thebakeryonfranklin.tumblr.com](http://thebakeryonfranklin.tumblr.com)
 
 If our space is something that your interested in contact us at
 info@thebakeryonfranklin.com to set up a viewing and include a little

@@ -41,6 +41,6 @@ Interested in applying? To learn more about the program and application process,
 highly recommend attending the upcoming info session on September 26 (Thursday)
 at 3:00pm Pacific
 Time. The info session will be held virtually via Zoom. Please
-register at https://2024shadbolt.eventbrite.ca.
+register at [https://2024shadbolt.eventbrite.ca](https://2024shadbolt.eventbrite.ca).
 
 Questions? Please emailshadbolt_fellows@sfu.ca

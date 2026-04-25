@@ -33,5 +33,5 @@ at the door.
 Note: Event ticket includes FREE admission to Haida Now and Wild 
 Things: The Power of Nature in Our Lives exhibitions. Please arrive 
 early with your event ticket to view the exhibits.
-Purchase Tickets Here: https://www.eventbrite.ca/e/coast-salish-
+Purchase Tickets Here: [https://www.eventbrite.ca/e/coast-salish-](https://www.eventbrite.ca/e/coast-salish-)
 blanket-workshop-tickets-57234390603

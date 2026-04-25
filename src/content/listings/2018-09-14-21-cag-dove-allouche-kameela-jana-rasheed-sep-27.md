@@ -26,4 +26,4 @@ An Alphabetical Accumulation of Approximate Observations
 How To Suffer Politely (And Other Etiquette)
 September 28, 2018 - March 17, 2019
 
-Find out more at https://www.contemporaryartgallery.ca/whats-on/
+Find out more at [https://www.contemporaryartgallery.ca/whats-on/](https://www.contemporaryartgallery.ca/whats-on/)

@@ -62,8 +62,8 @@ Reception: Saturday, September 7, 2-4pm
 Hannah Jickling and Helen Reed | TBA
 TBA
 
-Webpage: http://www.burnaby.ca/Things-To-Do/Arts-and-
+Webpage: [http://www.burnaby.ca/Things-To-Do/Arts-and-](http://www.burnaby.ca/Things-To-Do/Arts-and-)
 Heritage/Burnaby-Art-Gallery/Exhibitions/KIOSK.html
 
 Follow us on Tumblr for Kiosk features: 
-http://burnabyartgallery.tumblr.com/
+[http://burnabyartgallery.tumblr.com/](http://burnabyartgallery.tumblr.com/)

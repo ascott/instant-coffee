@@ -38,6 +38,6 @@ MFA in Documentary Media with a project that follows one girl over 2 years in
 an internal displacement camp, all the while questioning her role of witness. 
 For more information about Lara, visit www.lararosenoff.com. You can also 
 check out one of her most recent projects at 
-http://www.hernameisbeatrice.com.
+[http://www.hernameisbeatrice.com](http://www.hernameisbeatrice.com).
 
 Hosted by: www.peacegeeks.org

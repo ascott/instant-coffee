@@ -32,5 +32,5 @@ Bring your own blank garment and get fresh EarthBall prints!
 
 Grab presales here for a discounted price
 
-https://www.eventbrite.ca/e/earthball-actual-earth-music-record-release-party-tickets-
+[https://www.eventbrite.ca/e/earthball-actual-earth-music-record-release-party-tickets-](https://www.eventbrite.ca/e/earthball-actual-earth-music-record-release-party-tickets-)
 1271175814079?aff=oddtdtcreator

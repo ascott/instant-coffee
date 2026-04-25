@@ -21,9 +21,9 @@ We will have 3 keynotes spanning Dance theory, Neuroscience, and Computer
 Science
 We will also organize a highly acclaimed dance and technology performance
 by the french Company Adrien M | Claire B, called "Hanakai"
-http://www.am-cb.net/projets/hakanai/
+[http://www.am-cb.net/projets/hakanai/](http://www.am-cb.net/projets/hakanai/)
 
 Submission deadline: 1st of March 2015 (5:00pm PST)
 
 For more information:
-http://moco.iat.sfu.ca/call-for-papers/
+[http://moco.iat.sfu.ca/call-for-papers/](http://moco.iat.sfu.ca/call-for-papers/)

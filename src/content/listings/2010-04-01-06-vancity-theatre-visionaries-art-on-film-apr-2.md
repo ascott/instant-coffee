@@ -296,6 +296,6 @@ person wishing to see these unclassified films must belong to the VIFC
 Society and be 18 years or older. Valid for one year based on the date of
 purchase, the VIFC basic membership cost is $2.00.
 
-For More Membership Information go to http://www.vifc.org/membership.html.
+For More Membership Information go to [http://www.vifc.org/membership.html](http://www.vifc.org/membership.html).
 
 Vancity Theatre is located at 1181 Seymour St. (at Davie)

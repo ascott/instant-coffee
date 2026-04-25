@@ -25,5 +25,5 @@ and to ask your own questions about writing, wandering, and what it means to 'go
 nowhere' in a world obsessed with achievement. Tickets are free but please RSVP
 here as spots are limited.
 
-https://www.eventbrite.ca/e/the-way-around-a-qa-with-nicholas-triolo-tickets-
+[https://www.eventbrite.ca/e/the-way-around-a-qa-with-nicholas-triolo-tickets-](https://www.eventbrite.ca/e/the-way-around-a-qa-with-nicholas-triolo-tickets-)
 1417752448739?aff=oddtdtcreator

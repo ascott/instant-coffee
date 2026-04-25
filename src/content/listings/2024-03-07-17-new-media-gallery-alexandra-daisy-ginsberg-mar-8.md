@@ -10,7 +10,7 @@ summary: "New Media Gallery | Alexandra Daisy Ginsberg | MAR 8"
 
 Zoom Artist Talk with Alexandra Daisy Ginsberg on March 8 at 10am
 
-Zoom Registration: https://newmediagallery.ca/international-womens-day-2024/
+Zoom Registration: [https://newmediagallery.ca/international-womens-day-2024/](https://newmediagallery.ca/international-womens-day-2024/)
 
 As part of the ZOOVEILLANCE exhibition, and in recognition of International Womens
 Day we are delighted to announce a Virtual Talk by London-based Alexandra Daisy
@@ -37,4 +37,4 @@ architecture at the University of Cambridge, was a visiting scholar
 at Harvard University, and received her MA in Design Interactions from the RCA.
 
 For more information : contact@newmediagallery.ca
-https://newmediagallery.ca
+[https://newmediagallery.ca](https://newmediagallery.ca)

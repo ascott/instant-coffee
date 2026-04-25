@@ -60,6 +60,6 @@ Access to FIELD Satellite can be gained by requesting a key at FIELD
 Contemporary at 17 West Broadway, Vancouver, BC (just a few doors 
 down) or by appointment.
 
-For more information: http://www.field-contemporary.com/
+For more information: [http://www.field-contemporary.com/](http://www.field-contemporary.com/)
 Or contact info@field-contemporary.com or Vanessa Brown at 
 vanessanbrown@gmail.com

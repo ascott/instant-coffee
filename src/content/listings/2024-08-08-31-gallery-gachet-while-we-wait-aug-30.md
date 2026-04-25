@@ -71,9 +71,9 @@ Location: downtown Vancouver near
 Burrard Station.
 Contact: Alecska at operations@billreidgallery.ca
 Photos:
-https://cdn.shopify.com/s/files/1/2457/3259/files/large_crate_PXL_20240308_203138291
+[https://cdn.shopify.com/s/files/1/2457/3259/files/large_crate_PXL_20240308_203138291](https://cdn.shopify.com/s/files/1/2457/3259/files/large_crate_PXL_20240308_203138291)
 .jpg?v=1712793276
-https://cdn.shopify.com/s/files/1/2457/3259/files/large_crate_PXL_20240226_235339438
+[https://cdn.shopify.com/s/files/1/2457/3259/files/large_crate_PXL_20240226_235339438](https://cdn.shopify.com/s/files/1/2457/3259/files/large_crate_PXL_20240226_235339438)
 .jpg?v=1712793277
 
 3.

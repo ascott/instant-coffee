@@ -26,8 +26,8 @@ The working language is English.
 The nearest international airports are located in Graz and Vienna, 
 Austria. 
 Accommodation and meals are organized.
-Programme & Registration: http://www.iugte.com/projects/director
-http://youtu.be/8pN6pCaJhXA
+Programme & Registration: [http://www.iugte.com/projects/director](http://www.iugte.com/projects/director)
+[http://youtu.be/8pN6pCaJhXA](http://youtu.be/8pN6pCaJhXA)
 
 * * * * * * * * * * * *
 tounsubscribe@mail.ru

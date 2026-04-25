@@ -45,5 +45,5 @@ FREE! Limited to 15 participants
 
 This is a FREE event! Participation limited to 15.
 
-RSVP here: https://www.eventbrite.ca/e/elemental-poetics-spellcasting-for-re-
+RSVP here: [https://www.eventbrite.ca/e/elemental-poetics-spellcasting-for-re-](https://www.eventbrite.ca/e/elemental-poetics-spellcasting-for-re-)
 enchantment-tickets-999743428507?aff=oddtdtcreator

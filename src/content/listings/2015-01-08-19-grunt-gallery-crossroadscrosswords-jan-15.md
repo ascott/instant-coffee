@@ -48,4 +48,4 @@ the opening. The exhibition runs from January 15 to February 21, 2015.
 grunt gallery
 116 - 350 E 2nd Ave, Vancouver, BC V5T 4R8
 t: 604.875.9516
-http://grunt.ca
+[http://grunt.ca](http://grunt.ca)

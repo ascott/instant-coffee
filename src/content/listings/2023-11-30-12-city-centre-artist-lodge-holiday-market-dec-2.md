@@ -24,6 +24,6 @@ Free Photos with Santa! (12-4pm)
 Bingo Card Game (win a City Centre Sticker)
 
 Follow our Instagram for more details
-https://www.instagram.com/city_centre_artist_lodge
+[https://www.instagram.com/city_centre_artist_lodge](https://www.instagram.com/city_centre_artist_lodge)
 
 Support local & give the gift of art this holiday season!

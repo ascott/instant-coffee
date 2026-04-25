@@ -13,7 +13,7 @@ A Praire Town March 13- April 4, 2021
 David Burdeny is available for an in person Saturday March 13th from 2-5pm at Kostuik
 Gallery, or through a scheduled appointment or telephone interview.
 Attached 6 photographs.
-To view the entire series of 19 photographs:https://www.kostuikgallery.com/a-prairie-town/
+To view the entire series of 19 photographs:[https://www.kostuikgallery.com/a-prairie-town/](https://www.kostuikgallery.com/a-prairie-town/)
 Contact: Jennifer Kostuik
 604-737-3969
 

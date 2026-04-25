@@ -38,7 +38,7 @@ The world without art is grey.
 
 At the back of the pamphlet there will be an address to a blog:
 
-http://worldwithoutart.wordpress.com/
+[http://worldwithoutart.wordpress.com/](http://worldwithoutart.wordpress.com/)
 
 This blog will tell them in greater detail what they are seeing and why.
 
@@ -67,7 +67,7 @@ We need volunteers to:
 
 - take photographs
 
-TO SIGN UP PLEASE GO TO: http://www.doodle.com/d4in8ivup2hm4hhx
+TO SIGN UP PLEASE GO TO: [http://www.doodle.com/d4in8ivup2hm4hhx](http://www.doodle.com/d4in8ivup2hm4hhx)
 
 Please email Justine Chambers at movingjac@gmail.com and tell her what you are prepared to 
 do. She will give you more details.

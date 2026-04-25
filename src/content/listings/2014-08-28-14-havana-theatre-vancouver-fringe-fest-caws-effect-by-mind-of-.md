@@ -38,7 +38,7 @@ Sun Sept 14 ­ 2:45
 
 Tix $14
 +one time fringe membership fee
-at http://www.vancouverfringe.com/show/14PBH2/
+at [http://www.vancouverfringe.com/show/14PBH2/](http://www.vancouverfringe.com/show/14PBH2/)
 
 Mind of a Snail is a shadow puppetry duo currently based out of Vancouver
 B.C. Since 2003, Chloé Ziner and Jessica Gabriel have been developing a

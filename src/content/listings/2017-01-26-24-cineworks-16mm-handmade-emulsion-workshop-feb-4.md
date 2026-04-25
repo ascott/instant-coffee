@@ -20,7 +20,7 @@ $170 + taxes | General Admission
 $150 + taxes | Concession
 $130 + taxes | Member Admission
 
-REGISTER: http://bit.ly/2jwiwy2
+REGISTER: [http://bit.ly/2jwiwy2](http://bit.ly/2jwiwy2)
 
 The alchemical nature and serendipity of the handmade image are explored in this 
 immersive how-to of hand-brewed emulsion.
@@ -58,4 +58,4 @@ and our work is based. We also gratefully acknowledge the support of Canada Coun
 for the Arts, British Columbia Arts Council, The Province of British Columbia and the 
 City of Vancouver.
 
-http://cineworks.ca
+[http://cineworks.ca](http://cineworks.ca)

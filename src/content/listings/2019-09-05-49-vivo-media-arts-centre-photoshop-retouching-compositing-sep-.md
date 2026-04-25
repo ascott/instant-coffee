@@ -15,7 +15,7 @@ photos to blend different elements to create any image desired. Retouching photo
 essential skill for any media artist.
 
 SIGN UP & MORE INFO:
-https://retouch-composite.eventbrite.ca
+[https://retouch-composite.eventbrite.ca](https://retouch-composite.eventbrite.ca)
 
 12 hours total over 3 sessions // $170, or $125 with any VIVO Producer Membership
 (+GST)
@@ -25,7 +25,7 @@ Session 2: Sat, Sept 21, 1pm - 5pm
 Session 3: Sat, Sept 28, 1pm - 5pm
 
 One extended subsidy is available for this workshop:
-https://forms.gle/q5C1ZKhrbnESWWRY8
+[https://forms.gle/q5C1ZKhrbnESWWRY8](https://forms.gle/q5C1ZKhrbnESWWRY8)
 
 Video showing examples of what you'll learn:
-https://www.youtube.com/watch?v=ayb7jFwqnGg
+[https://www.youtube.com/watch?v=ayb7jFwqnGg](https://www.youtube.com/watch?v=ayb7jFwqnGg)

@@ -111,6 +111,6 @@ a candidate's studies, and is presented in partial fulfillment of the
 requirements for the degree of Master of Fine Arts.
 
 Presented with the School for the Contemporary Arts at SFU.
-https://www.sfu.ca/galleries/audain-
+[https://www.sfu.ca/galleries/audain-](https://www.sfu.ca/galleries/audain-)
 gallery/MFAGraduatingExhibition2016.html
-https://www.facebook.com/events/1379621638733874/
+[https://www.facebook.com/events/1379621638733874/](https://www.facebook.com/events/1379621638733874/)

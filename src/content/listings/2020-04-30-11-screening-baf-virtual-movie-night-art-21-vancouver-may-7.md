@@ -21,5 +21,5 @@ We'll be using Metastream, a free browser extension, to watch and chat about thi
 movie together virtually!
 
 For more information and directions on how to join, RSVP Virtual Movie Night Facebook
-event: https://www.facebook.com/events/1022846774783976/
+event: [https://www.facebook.com/events/1022846774783976/](https://www.facebook.com/events/1022846774783976/)
 --

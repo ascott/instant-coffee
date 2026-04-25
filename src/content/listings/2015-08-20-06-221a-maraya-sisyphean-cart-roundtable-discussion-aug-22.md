@@ -29,7 +29,7 @@ large-scale urban developments that share the same architects, engineers
 and urban planners by the Vancouver-based collaborative team of artists M.
 Simon Levin and Henry Tsang and cultural theorist/writer Glen Lowry.
 
-Read more: http://221a.ca/maraya
+Read more: [http://221a.ca/maraya](http://221a.ca/maraya)
 
 221A
 221 E Georgia St

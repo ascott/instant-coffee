@@ -51,7 +51,7 @@ California (Davis) will present the keynote address on broader issues
 concerning Indigenous womanhood and representation.
 
 Visit
-http://www.sfu.ca/gsws/RuthWynnWoodwardProfessorship/CurrentActivities/index.html
+[http://www.sfu.ca/gsws/RuthWynnWoodwardProfessorship/CurrentActivities/index.html](http://www.sfu.ca/gsws/RuthWynnWoodwardProfessorship/CurrentActivities/index.html)
 
 Circulate Widely!
 

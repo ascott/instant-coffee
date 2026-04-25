@@ -25,13 +25,13 @@ IG: laura_marie_clark
 If you are interested in having some insight into my photography practice and wearable
 art collection, please take
 a moment to watch these recent videos:
-https://m.youtube.com/watch?v=vI4qEyfvlho
+[https://m.youtube.com/watch?v=vI4qEyfvlho](https://m.youtube.com/watch?v=vI4qEyfvlho)
 
-https://www.youtube.com/watch?v=Zpm-qSV5ryg
+[https://www.youtube.com/watch?v=Zpm-qSV5ryg](https://www.youtube.com/watch?v=Zpm-qSV5ryg)
 
 For further information on work, and to connect with me Livestream and by Live Chat,
 please visit:
-https://culturecrawl.ca/artist/6866 during the dates below. I will be checking Live Chat
+[https://culturecrawl.ca/artist/6866](https://culturecrawl.ca/artist/6866) during the dates below. I will be checking Live Chat
 regularly throughout
 the Crawl dates so please check back for replies.
 

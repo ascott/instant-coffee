@@ -31,7 +31,7 @@ Cathy Weis, and Ricardo Miranda Zuñiga.
 Deadline: April 1, 2012
 
 More Info: 
-http://franklinfurnace.org/artists/franklin_furnace_fund/how_to_apply.ph
+[http://franklinfurnace.org/artists/franklin_furnace_fund/how_to_apply.ph](http://franklinfurnace.org/artists/franklin_furnace_fund/how_to_apply.ph)
 p
 
 ~~~~~~~~~~~~~~~~~~~~~~~~
@@ -49,11 +49,11 @@ Franklin Furnace Archive, Inc.
 Brooklyn, NY 11217-1506
 T 718 398 7255
 F 718 398 7256
-http://www.franklinfurnace.org
+[http://www.franklinfurnace.org](http://www.franklinfurnace.org)
 mail@franklinfurnace.org
 
 JOIN TODAY!
-http://franklinfurnace.org/support/membership2011/index.php
+[http://franklinfurnace.org/support/membership2011/index.php](http://franklinfurnace.org/support/membership2011/index.php)
 
 Martha Wilson, Founding Director
 Michael Katchen, Senior Archivist

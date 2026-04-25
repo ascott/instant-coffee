@@ -35,7 +35,7 @@ A book, co-published with Publication Studio Vancou will accompany this
 exhibition. There will also be nightly presentations of Chris von
 Szombathy's music and video in the windows of 15 East Pender Street.
 
-https://www.facebook.com/event.php?eid=134414353300865
+[https://www.facebook.com/event.php?eid=134414353300865](https://www.facebook.com/event.php?eid=134414353300865)
 
 UNIT/PITT Projects gratefully acknowledges the financial assistance of the
 British Columbia Arts Council, the Canada Council, the City of Vancouver,

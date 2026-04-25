@@ -33,4 +33,4 @@ This is a free event, open to everyone.
 The Visual Art Forums are presented by the Audain Faculty of Visual
 Art and Material Practice at Emily Carr University.
 
-http://www.ecuad.ca/calendar/visual-art-forums-graeme-patterson
+[http://www.ecuad.ca/calendar/visual-art-forums-graeme-patterson](http://www.ecuad.ca/calendar/visual-art-forums-graeme-patterson)

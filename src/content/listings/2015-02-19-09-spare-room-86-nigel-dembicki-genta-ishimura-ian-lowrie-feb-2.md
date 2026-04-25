@@ -33,7 +33,7 @@ archive of soil samples, a glimpse into narrowed-perspective walls and
 deliberate assignments of medium-sized rocks in odd-number based systems.
 
 Dembicki, Ishimura and Lowrie are part of an architectural design
-collective studioCAMP (http://studiocamp.ca/)
+collective studioCAMP ([http://studiocamp.ca/](http://studiocamp.ca/))
 
 SPARE ROOM is an exhibition space located in Vancouver that observes the
 relationship between art and space through site-specific works.
@@ -42,4 +42,4 @@ deconstruct) the concept of space as an environment, situation, or place in
 order to analyze the experimental stages of spatial design.
 
 For more information please visit:
-http://spare-room.ca/
+[http://spare-room.ca/](http://spare-room.ca/)

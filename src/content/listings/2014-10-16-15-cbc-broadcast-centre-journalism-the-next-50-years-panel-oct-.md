@@ -13,7 +13,7 @@ Oct.23 at CBC Broadcast Centre, Studio 700.
 Time:	6:30 PM - 8:30 PM
 Admission: Free
 
-Website:	http://www.eventbrite.ca/e/journalism-the-next-50-years-tickets-
+Website:	[http://www.eventbrite.ca/e/journalism-the-next-50-years-tickets-](http://www.eventbrite.ca/e/journalism-the-next-50-years-tickets-)
 13213665429
 
 Event Info: On the 50th anniversary of the Langara Journalism program, 

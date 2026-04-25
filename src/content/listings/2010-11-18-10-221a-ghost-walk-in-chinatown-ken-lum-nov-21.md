@@ -57,7 +57,7 @@ automatically followed in aimless strolls; and the appealing or
 repelling character of certain places.
 
 Walking Home Projects
-http://walkinghomeprojects.com
+[http://walkinghomeprojects.com](http://walkinghomeprojects.com)
 
 221A Artist Run Centre
 221 E. Georgia St.
@@ -66,4 +66,4 @@ V6A 1Z6
 
 T: 604 568 0812
 E: hello@221a.ca
-W: http://221a.ca
+W: [http://221a.ca](http://221a.ca)

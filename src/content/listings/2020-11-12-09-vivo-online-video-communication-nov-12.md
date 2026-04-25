@@ -24,4 +24,4 @@ Video screening: Vox Populi. (Dec 8-Dec 15)
 This free exhibition is a special edition of VIVOs Sticky Impulse Archive Nights series.
 
 
-http://www.vivomediaarts.com/archive/video-communication
+[http://www.vivomediaarts.com/archive/video-communication](http://www.vivomediaarts.com/archive/video-communication)

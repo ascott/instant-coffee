@@ -19,7 +19,7 @@ Victoria, BC V8W 1J4
 Hours: Tues-Sat. 10am-5:30pm
 Sun-Mon. 11am-5pm
 
-http://www.madronagallery.com/exhibitions/harry-stanbridge-and-linda-stanbridge
+[http://www.madronagallery.com/exhibitions/harry-stanbridge-and-linda-stanbridge](http://www.madronagallery.com/exhibitions/harry-stanbridge-and-linda-stanbridge)
 
 info@madronagallery.com
 1 (250) 380 4660

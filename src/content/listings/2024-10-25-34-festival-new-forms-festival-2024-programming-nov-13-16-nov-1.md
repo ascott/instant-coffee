@@ -8,4 +8,4 @@ venue: "FESTIVAL"
 summary: "FESTIVAL | New Forms Festival | 2024 programming | NOV 13-16 | NOV 13"
 ---
 
-https://newforms.ca/
+[https://newforms.ca/](https://newforms.ca/)

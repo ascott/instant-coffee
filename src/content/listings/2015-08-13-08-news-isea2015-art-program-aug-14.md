@@ -58,7 +58,7 @@ ISEA2015 pass.
 August 16th, August 18th, Wong Theatre, SFU Woodwards: MUTEK: 
 Martin Messier, Betafeed, Myriam Bleau, Wolg, artificiel, Nicolas 
 Bernier, Maotik&Metametrik, Herman Kolgen. For tickets please see 
-https://www.eventbrite.ca/e/isea2015-the-21st-international-
+[https://www.eventbrite.ca/e/isea2015-the-21st-international-](https://www.eventbrite.ca/e/isea2015-the-21st-international-)
 symposium-on-electronic-art-tickets-17931634000?
 quant_37593047=1&invite=&err=4&referrer=&discount=&affiliate=
 &eventpassword=&w=&selecteddate= 
@@ -72,14 +72,14 @@ Followed by CIRCUIT with concurrent openings at grunt gallery
 and 221A (M. Simon Levyn, Glen Albert Lowry, Henry Tsang and 
 neverhitsend) August 18th, Wong Theatre, SFU Woodwards: Keynote 
 by the Yes Men. For tickets please see 
-https://www.eventbrite.ca/e/isea2015-the-21st-international- 
+[https://www.eventbrite.ca/e/isea2015-the-21st-international-](https://www.eventbrite.ca/e/isea2015-the-21st-international-) 
 symposium-on-electronic-art-tickets-17931634000 
 August 19th, SFU Woodwards: Rosa Menkman on IRD: Institutions of 
 Resolution Disputes.
 
 ISEA2015 online registration ends August 6th, and options range from 
 free and ticketed events to full registration. Registration available onsite 
-at SFU. http://isea2015.org/for-attendees/registration/
+at SFU. [http://isea2015.org/for-attendees/registration/](http://isea2015.org/for-attendees/registration/)
 
 Academic Directors: Philippe Pasquier, Thecla Schiphorst
 Artistic Directors: Kate Armstrong, Malcolm Levy
@@ -89,4 +89,4 @@ please contact:
 Maria Fedorova, Communications & Social Media Chair
 International Symposium on Electronic Art 2015
 E-mail: isea2015-press@sfu.ca
-http://isea2015.org/
+[http://isea2015.org/](http://isea2015.org/)

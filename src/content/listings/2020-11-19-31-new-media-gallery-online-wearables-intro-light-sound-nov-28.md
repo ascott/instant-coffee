@@ -20,7 +20,7 @@ garments to make reactive/interactive apparel, robotics and sensory devices. Hel
 explore light and touch sensors. This series will also teach coding using Arduino and
 Processing software.
 Requirements: Purchase of a base Lilypad wearable kit.
-Commercially: https://bit.ly/3bPPmGz + Arduino IDE, micro-B USB cable, sewing
+Commercially: [https://bit.ly/3bPPmGz](https://bit.ly/3bPPmGz) + Arduino IDE, micro-B USB cable, sewing
 materials.
 
 New Media Gallery
@@ -35,7 +35,7 @@ Virtual Learning Lab - Zoom Invitation
 Ages 18+
 Saturdays, November 28, December 5
 1:30pm - 4:00pm
-47976 - https://bit.ly/2IlNmv6 (link fixed)
+47976 - [https://bit.ly/2IlNmv6](https://bit.ly/2IlNmv6) (link fixed)
 Registration Fee $30 (2 classes)
 Kit : $60.00
 NMG Instructor: Mark Nazemi

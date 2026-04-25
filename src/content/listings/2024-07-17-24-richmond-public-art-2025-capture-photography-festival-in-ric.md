@@ -23,6 +23,6 @@ Exhibition Duration: April 2025 - March 2026
 
 For more information and to
 apply please see here:
-https://www.richmond.ca/culture/howartworks/publicart/artist-calls.htm
+[https://www.richmond.ca/culture/howartworks/publicart/artist-calls.htm](https://www.richmond.ca/culture/howartworks/publicart/artist-calls.htm)
 
 Richmond Public Art

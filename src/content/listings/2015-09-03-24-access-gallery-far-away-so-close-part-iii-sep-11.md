@@ -14,11 +14,11 @@ September 12—October 31, 2015
 
 Exhibition Opening (in conjunction with SWARM16)
 Friday, September 11, 2015, 7:00 PM
-https://www.facebook.com/events/441732839346452/
+[https://www.facebook.com/events/441732839346452/](https://www.facebook.com/events/441732839346452/)
 
 In Conversation: Alana Bartol & David Semeniuk with Kimberly Phillips
 Saturday, September 12, 2015, 2:00 PM
-https://www.facebook.com/events/519777251512788/
+[https://www.facebook.com/events/519777251512788/](https://www.facebook.com/events/519777251512788/)
 
 Publication Launch: A Reading & Conversation
 Mike Bourscheid & Steffanie Ling

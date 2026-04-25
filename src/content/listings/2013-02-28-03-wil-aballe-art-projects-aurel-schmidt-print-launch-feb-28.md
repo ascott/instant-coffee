@@ -56,4 +56,4 @@ while promoting a modern, equitable economy that sustains our planet in
 every way. Sierra Club BC works with different levels of government and First 
 Nations to provide science-based conservation viewpoints and advice on 
 policy decisions that affect a range of environmental issues. Please visit 
-http://www.sierraclub.bc.ca/ to find out more and to get involved.
+[http://www.sierraclub.bc.ca/](http://www.sierraclub.bc.ca/) to find out more and to get involved.

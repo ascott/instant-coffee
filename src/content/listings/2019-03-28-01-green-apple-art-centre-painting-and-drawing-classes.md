@@ -18,4 +18,4 @@ Acrylic Class: Every Thursdays 12:30-3:00 PM
 Figure Drawing Class: Every Wednesday 12:30-3:00 PM
 
 Registration is open now at:
-https://www.greenappleartcenter.ca/art-for-adults
+[https://www.greenappleartcenter.ca/art-for-adults](https://www.greenappleartcenter.ca/art-for-adults)

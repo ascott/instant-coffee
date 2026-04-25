@@ -24,9 +24,9 @@ VIFF Vancity Theatre
 Cineworks members: $9 (only with promo code online)
 Concessions: $9
 Non-members: $11
-Tickets: http://bit.ly/1M5A6zi
+Tickets: [http://bit.ly/1M5A6zi](http://bit.ly/1M5A6zi)
 Special Offer: This screening is FREE with a ticket to Ghost Materialities
-– details at http://bit.ly/1OGRKAj
+– details at [http://bit.ly/1OGRKAj](http://bit.ly/1OGRKAj)
 
 This is a one-off screening opportunity made possible by exceptional
 permission granted to Jem Noble (Cineworks) by Producer Evan English,
@@ -65,7 +65,7 @@ is a not-for-profit cultural organization that operates the internationally
 acclaimed Vancouver International Film Festival (VIFF), the annual VIFF
 Industry Conference and the year-round programming of the Vancity Theatre
 at the Vancouver International Film Centre.
-http://www.viff.org/
+[http://www.viff.org/](http://www.viff.org/)
 
 Cineworks Independent Filmmakers Society (est.1980) is an artist-run
 production and exhibition centre that supports independent filmmakers and

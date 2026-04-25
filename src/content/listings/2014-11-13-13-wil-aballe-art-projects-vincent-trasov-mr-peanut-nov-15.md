@@ -62,8 +62,8 @@ Library at the University of British Columbia has an exhibition of
 artifacts from the campaign at Koerner Library, 1958 Main Mall. It will run
 until January 4, 2015.
 
-http://www.belkin.ubc.ca/current/mr-peanut-campaign-for-mayor-koerner-library
+[http://www.belkin.ubc.ca/current/mr-peanut-campaign-for-mayor-koerner-library](http://www.belkin.ubc.ca/current/mr-peanut-campaign-for-mayor-koerner-library)
 
 This exhibition has been made possible in partnership with the Burrard Arts
 Foundation and with generous assistance by Port Capital Group.
-http://www.WAAPart.com
+[http://www.WAAPart.com](http://www.WAAPart.com)

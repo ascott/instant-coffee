@@ -15,7 +15,7 @@ Griffin Art Projects
 
 www.griffinartprojects.ca
 
-Zoom link: https://zoom.us/webinar/register/WN_mlqMTWLQQ26PcbFLVbkYfg
+Zoom link: [https://zoom.us/webinar/register/WN_mlqMTWLQQ26PcbFLVbkYfg](https://zoom.us/webinar/register/WN_mlqMTWLQQ26PcbFLVbkYfg)
 
 Join two Canadian artists live over zoom for a conversation focused on the photographic
 documentation of Chinatowns across North America. Morris Lum and Suzanne Girard

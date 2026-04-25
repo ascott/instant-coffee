@@ -45,7 +45,7 @@ Come talk shit about your best friend: Art.
 which has been postponed until mid-April.
 
 About the STAG:
-http://thestaglibrary.tumblr.com/#108763539907
+[http://thestaglibrary.tumblr.com/#108763539907](http://thestaglibrary.tumblr.com/#108763539907)
 
 The STAG Library is a semi-public, semi-private lending and reference
 library run out of the Strathcona home of Aja Rose Bond and Gabriel

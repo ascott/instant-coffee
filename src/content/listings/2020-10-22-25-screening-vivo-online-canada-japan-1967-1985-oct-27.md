@@ -15,7 +15,7 @@ A STICKY IMPULSE ARCHIVE NIGHTS SPECIAL PRESENTATION
 Video
 Communication: Art & Technology Between Canada and Japan, 1967"1985
 Tuesday October 27- December 15
-https://vivomediaarts.com/archive/video-communication/
+[https://vivomediaarts.com/archive/video-communication/](https://vivomediaarts.com/archive/video-communication/)
 FREE
 
 Video Communication: Art & Technology Between Canada and Japan, 1967"1985
@@ -29,4 +29,4 @@ Canadian and Japanese video artists: Moira Simpson and Liz Walker " both
 filmmakers, Metro Media producers, and co-founders of the Vancouver feminist film
 collective, ISIS Women & Film " and Mihato Taura, videomaker and co-founder (with
 Ko Nakajima) of Video Earth Tokyo Collective (est. 1971). Visit:
-http://vivomediaarts.com/archive/video-communication/
+[http://vivomediaarts.com/archive/video-communication/](http://vivomediaarts.com/archive/video-communication/)

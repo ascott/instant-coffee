@@ -29,7 +29,7 @@ Uprising: On Poetry and Finance (Semiotext(e) 2012), After The Future
 
 His visit is in conjunction with Brady Cranfield and Jamie Hilder’s
 exhibition Due To Injuries… at 221A. For more information about the
-exhibition, please visit: http://221a.ca/due-to-injuries/.
+exhibition, please visit: [http://221a.ca/due-to-injuries/](http://221a.ca/due-to-injuries/).
 
 In the weeks following Berardi's lecture, four respondents will
 deliver talks at 221A in two sessions, on October 1st and 8rd:

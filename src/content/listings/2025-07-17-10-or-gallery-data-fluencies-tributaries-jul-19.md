@@ -34,4 +34,4 @@ struggle to wrap our heads around questions of intellectual property, consentful
 practice, and the impacts of automation on human existence at large. " Roopa
 Vasudevan
 
-More info here: https://orgallery.org/exhibitions-projects/data-fluencies-tributaries/
+More info here: [https://orgallery.org/exhibitions-projects/data-fluencies-tributaries/](https://orgallery.org/exhibitions-projects/data-fluencies-tributaries/)

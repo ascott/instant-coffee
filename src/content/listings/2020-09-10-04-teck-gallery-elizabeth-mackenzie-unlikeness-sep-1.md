@@ -56,7 +56,7 @@ practices as they age with wisdom.
 
 Curated by Makiko Hara
 
-Exhibition Webpage: http://www.sfu.ca/galleries/teck-gallery/Unlikeness.html
+Exhibition Webpage: [http://www.sfu.ca/galleries/teck-gallery/Unlikeness.html](http://www.sfu.ca/galleries/teck-gallery/Unlikeness.html)
 
 Teck Gallery
 Simon Fraser University, Harbour Centre

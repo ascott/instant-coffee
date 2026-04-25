@@ -26,7 +26,7 @@ $10 ~ 8pm
 there will be refreshments ~
 
 seating limited. get your tickets now!
-https://www.eventbrite.ca/e/chamber-punk-no-1-tickets-11489466303
+[https://www.eventbrite.ca/e/chamber-punk-no-1-tickets-11489466303](https://www.eventbrite.ca/e/chamber-punk-no-1-tickets-11489466303)
 
 Centre A
 229 East Georgia St., Vancouver, British Columbia V6A 1Z6

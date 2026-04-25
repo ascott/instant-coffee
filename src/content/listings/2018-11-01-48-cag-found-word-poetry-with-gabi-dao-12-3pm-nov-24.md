@@ -22,4 +22,4 @@ audio recordings and printed material to create your own found word poems.
 
 No reservation required, simply just turn up!
 
-Find out more about the exhibitions at https://www.contemporaryartgallery.ca/whats-on/
+Find out more about the exhibitions at [https://www.contemporaryartgallery.ca/whats-on/](https://www.contemporaryartgallery.ca/whats-on/)

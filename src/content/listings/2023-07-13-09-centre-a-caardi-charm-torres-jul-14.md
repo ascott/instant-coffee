@@ -29,7 +29,7 @@ your learning.
 
 Sign-ups will be necessary, and will be
 available on Zoom:
-https://us02web.zoom.us/meeting/register/tZ0rc-ihpjItHNydIk4anQy5ZLAZPuiAuJGa
+[https://us02web.zoom.us/meeting/register/tZ0rc-ihpjItHNydIk4anQy5ZLAZPuiAuJGa](https://us02web.zoom.us/meeting/register/tZ0rc-ihpjItHNydIk4anQy5ZLAZPuiAuJGa)
 
 Date: July 14, 2023
 Time: 1 " 3 PM PDT

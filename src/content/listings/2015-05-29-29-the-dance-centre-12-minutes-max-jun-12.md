@@ -18,7 +18,7 @@ Friday June 12, 2015 at 8pm
 Scotiabank Dance Centre, 677 Davie St, Vancouver
 Tickets $28/$22 students & seniors from Tickets Tonight: 604.684.2787
 www.ticketstonight.ca
-Info http://thedancecentre.ca/programs/12_minutes_max
+Info [http://thedancecentre.ca/programs/12_minutes_max](http://thedancecentre.ca/programs/12_minutes_max)
 
 12 Minutes Max showcases five eclectic contemporary dance works each
 lasting 12 minutes or less, by some of Vancouver’s most exciting and

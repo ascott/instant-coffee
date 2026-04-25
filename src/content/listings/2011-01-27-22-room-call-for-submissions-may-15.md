@@ -10,7 +10,7 @@ summary: "Room | Call for Submissions | MAY 15"
 
 Call for Submissions for Winter 2011:deadline May 15, 2011
 Room is Canada¹s oldest literary journal by, for, and about women.
-http://www.roommagazine.com/
+[http://www.roommagazine.com/](http://www.roommagazine.com/)
 
 Room is a space where women can speak, connect, and showcase 
 their
@@ -45,7 +45,7 @@ available from our website.)
 Please submit to the attention of Amber Hitchen by May 15, 2011.
 For full submission details (how and what to submit), go to our 
 submission
-page: http://www.roommagazine.com/submit.html
+page: [http://www.roommagazine.com/submit.html](http://www.roommagazine.com/submit.html)
 
 ADDITIONAL ART SUBMISSION INFO: send us you most engaging 
 work. These are
@@ -73,7 +73,7 @@ the issue has been published.
 
 Newsroom: to stay current with Room¹s calls and events, sign-up 
 for our
-newsletter at: http://www.roommagazine.com/newsletter.html
+newsletter at: [http://www.roommagazine.com/newsletter.html](http://www.roommagazine.com/newsletter.html)
 
 Contact: contactus@roommagazine.com or 
 arteditor@roommagazine.com

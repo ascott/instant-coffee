@@ -39,7 +39,7 @@ goods. With his unique approach to wagashi art, he pioneered the use of a pair o
 needles to create shapes and contours that were otherwise unattainable. His work
 was featured in the trendsetting So Good magazine in 2017, marking the
 introduction of traditional Japanese confectionery art to the Western world of sweets.
-Website: https://www.ichi-ka.jp/en
+Website: [https://www.ichi-ka.jp/en](https://www.ichi-ka.jp/en)
 
 About Wagashi
 Wagashi are traditional Japanese sweets that come in a range of shapes and sizes;
@@ -51,5 +51,5 @@ and nature.
 These programs are co-presented by NNMCC & Gusta Cooking Studio, and
 supported by Djin Arts and Modo.
 
-Event webpage: https://centre.nikkeiplace.org/events/kado-2023/
+Event webpage: [https://centre.nikkeiplace.org/events/kado-2023/](https://centre.nikkeiplace.org/events/kado-2023/)
 Click for Images

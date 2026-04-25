@@ -29,7 +29,7 @@ Public Art Advisory Committee members (as well as immediate
 family members) may not apply.
 
 Download the Call to Artists at 
-http://www.richmond.ca/culture/publicart/opportunities.htm
+[http://www.richmond.ca/culture/publicart/opportunities.htm](http://www.richmond.ca/culture/publicart/opportunities.htm)
 
 For more information contact Richmond Public Art
 jcanhoto@richmond.ca

@@ -36,4 +36,4 @@ Discover the video created from this collaborative choreography and join Marie V
 from Radio Canada and some of the artists of the project [EN NOS APARTS / ASIDE] to
 discuss the new creative perspectives on a Pan-Canadian and global scale enabled by
 digital technologies.
-RSVP https://bit.ly/3sapIUH
+RSVP [https://bit.ly/3sapIUH](https://bit.ly/3sapIUH)

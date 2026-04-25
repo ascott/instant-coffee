@@ -25,5 +25,5 @@ equal partners in society. From Victorian fashion becoming aerodynamic, to a spa
 debris installation, I wanted to go on a Space Walk but I had nothing to wear will traverse
 history, fashion, and space travel.
 
-Learn more: https://northvanarts.ca/events-exhibitions/i-wanted-to-go-on-a-space-walk-
+Learn more: [https://northvanarts.ca/events-exhibitions/i-wanted-to-go-on-a-space-walk-](https://northvanarts.ca/events-exhibitions/i-wanted-to-go-on-a-space-walk-)
 but-i-had-nothing-to-wear/

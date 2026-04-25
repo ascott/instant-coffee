@@ -24,7 +24,7 @@ encouraging public interest and educational opportunities in contemporary art. C
 at www.gpag.ca
 
 Deadline: April 30, 2021
-Visit http://www.gpag.ca/submissions for further information.
+Visit [http://www.gpag.ca/submissions](http://www.gpag.ca/submissions) for further information.
 
 Contact:
 Christina Symons: 604-886-0531

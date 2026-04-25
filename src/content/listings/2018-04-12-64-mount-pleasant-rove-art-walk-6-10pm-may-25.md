@@ -18,7 +18,7 @@ the various venues.
 
 For more information, visit www.roveyvr.com
 
-RSVP on Facebook at https://www.facebook.com/events/810964195762580/
+RSVP on Facebook at [https://www.facebook.com/events/810964195762580/](https://www.facebook.com/events/810964195762580/)
 
 What: ROVE
 

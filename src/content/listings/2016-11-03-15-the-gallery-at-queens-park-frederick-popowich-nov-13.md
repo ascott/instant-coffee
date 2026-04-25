@@ -29,8 +29,8 @@ discuss several of the key influences and aesthetic ideas behind the project.
 
 The Gallery at Queen's Park, Queen's Park
 1st Street & 3rd Avenue park entrance, New Westminster, BC, V3L 1L7
-(Park Map - http://artscouncilnewwest.org/contact-us/)
+(Park Map - [http://artscouncilnewwest.org/contact-us/](http://artscouncilnewwest.org/contact-us/))
 
 Gallery Hours: Wed, 1-8pm; Thurs - Sun, 1-5pm. (Mon - Tues, Closed)
 
-Website: http://acnw.ca
+Website: [http://acnw.ca](http://acnw.ca)

@@ -14,7 +14,7 @@ BIOMASS, Volume 3: mud puddling.
 
 Shay Salehi, Sarah Davidson, Emily Chudnovsky. Curated by Liljana Mead Martin.
 
-https://biomasssss.com/
+[https://biomasssss.com/](https://biomasssss.com/)
 
 'Volume 3: mud puddling' brings together the works and practices of Shay Salehi,
 Sarah Davidson, and Emily Chudnovsky, offering personal insight on the ebbs and

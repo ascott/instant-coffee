@@ -36,4 +36,4 @@ Doors are at 7:00 pm and the screening will begin at 7:30 pm. Popcorn and
 admission are FREE.
 
 Video synopses can be found here:
-https://www.facebook.com/events/713711352096015/
+[https://www.facebook.com/events/713711352096015/](https://www.facebook.com/events/713711352096015/)

@@ -24,4 +24,4 @@ artists.
 TO VIEW: Drop by VIVO at 2625 Kalso Street, Vancouver, during regular hours 
 (Tuesday - Friday 11am-6pm) or during any VIVO event.
 
-FOR MORE INFO OR TO PURCHASE: http://www.vivomediaarts.com/fundraiser
+FOR MORE INFO OR TO PURCHASE: [http://www.vivomediaarts.com/fundraiser](http://www.vivomediaarts.com/fundraiser)

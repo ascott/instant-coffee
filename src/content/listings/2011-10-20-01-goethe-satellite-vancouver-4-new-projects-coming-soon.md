@@ -76,9 +76,9 @@ exchange between Canadian and German artists.
 Kate Armstrong
 
 Artist, writer, independent curator
-http://www.katearmstrong.com
-twitter: http://twitter.com/#!/kate_armstrong
+[http://www.katearmstrong.com](http://www.katearmstrong.com)
+twitter: [http://twitter.com/#!/kate_armstrong](http://twitter.com/#!/kate_armstrong)
 
 Revised Projects
-http://www.revisedprojects.com
+[http://www.revisedprojects.com](http://www.revisedprojects.com)
 mobile: (604) 788-2309

@@ -26,5 +26,5 @@ Instructor: Amanda Wood
 Level: Beginner
 Materials: included
 
-https://www.malaspinaprintmakers.com/bookmaking-introduction-to-the-stitched-
+[https://www.malaspinaprintmakers.com/bookmaking-introduction-to-the-stitched-](https://www.malaspinaprintmakers.com/bookmaking-introduction-to-the-stitched-)
 pamphlet-t.html

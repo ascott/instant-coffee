@@ -37,4 +37,4 @@ Korine's Gummo (1997). Mistakenly criticized as white trash nihilism,
 Gummo instead carried the torch of structuralist cinema into the late
 1990s. (OW)
 
-http://www.thecinematheque.ca/traces-that-resemble-us
+[http://www.thecinematheque.ca/traces-that-resemble-us](http://www.thecinematheque.ca/traces-that-resemble-us)

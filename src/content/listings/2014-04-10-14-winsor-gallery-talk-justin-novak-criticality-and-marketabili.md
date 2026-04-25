@@ -18,7 +18,7 @@ Join us on the occasion of Concurrent and the Canadian Art Gallery Hop for a
 talk by Justin Novak on the dynamic between criticality and marketability as it 
 relates to contemporary art and its audiences.
 
-Facebook event: https://www.facebook.com/events/434315133379238/
+Facebook event: [https://www.facebook.com/events/434315133379238/](https://www.facebook.com/events/434315133379238/)
 
 Justin Novak has been an Associate Professor of Visual Art and Material 
 Practice at Emily Carr since the Fall of 2007. He teaches in the areas of 

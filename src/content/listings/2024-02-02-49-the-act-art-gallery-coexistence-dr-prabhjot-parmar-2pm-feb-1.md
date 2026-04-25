@@ -34,4 +34,4 @@ ACT Art Gallery exhibitions as the catalyst to explore larger social, cultural, 
 artistic issues. The series welcomes thinkers and writers from a wide variety of
 disciplines whose work gives broader context to exhibitions in the gallery.
 
-Register here: https://theactmapleridge.org/real-and-imagined
+Register here: [https://theactmapleridge.org/real-and-imagined](https://theactmapleridge.org/real-and-imagined)

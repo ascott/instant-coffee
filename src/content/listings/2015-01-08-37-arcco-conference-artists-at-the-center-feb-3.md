@@ -109,4 +109,4 @@ ARCCO gratefully acknowledges the financial support of the Ontario Arts
 Council, the Ontario Trillium Foundation, and partner Artist-Run Centres
 and Collectives Conference / Conférence des collectifs et des centres
 d'artistes autogérés (arca).
-http://arcco.ca
+[http://arcco.ca](http://arcco.ca)

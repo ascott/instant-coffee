@@ -17,7 +17,7 @@ Griffin Art Projects
 www.griffinartprojects.ca
 
 Martha Wilson will be presenting a live talk over Zoom. To register, please visit:
-https://zoom.us/meeting/register/tJIocOuqpz4oEtCb5vJDp3IgGBOAqCVNAGrz
+[https://zoom.us/meeting/register/tJIocOuqpz4oEtCb5vJDp3IgGBOAqCVNAGrz](https://zoom.us/meeting/register/tJIocOuqpz4oEtCb5vJDp3IgGBOAqCVNAGrz)
 
 Join New York based artist and gallery director Martha Wilson for a live virtual Zoom
 talk presented in conjunction with Griffins upcoming exhibition Now Bulletin: Artworks,

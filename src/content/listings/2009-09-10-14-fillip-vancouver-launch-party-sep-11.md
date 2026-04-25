@@ -18,8 +18,8 @@ projects by Dexter Sinister, Christian Hillesø, and Johan Tirén.
 
 Vancouver Launch Party, Sept. 11th, 10pm
 Join us for the Vancouver launch of Fillip #10 and an evening of pop music with To Bad Catholics 
-(Nick Krgovich and Julia Chirka of No Kids: http://bit.ly/l7ly1) and Rose Melberg (of The Softies, Tiger 
-Trap, and Go Sailor: http://bit.ly/tFeko) at the Fillip offices, September 11th.
+(Nick Krgovich and Julia Chirka of No Kids: [http://bit.ly/l7ly1](http://bit.ly/l7ly1)) and Rose Melberg (of The Softies, Tiger 
+Trap, and Go Sailor: [http://bit.ly/tFeko](http://bit.ly/tFeko)) at the Fillip offices, September 11th.
 
 Fillip
 305 Cambie Street
@@ -27,4 +27,4 @@ Vancouver, BC V6B 2N4
 
 Tel. 604.781.4417
 
-http://http://www.fillip.ca
+[http://http://www.fillip.ca](http://http://www.fillip.ca)

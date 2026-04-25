@@ -13,7 +13,7 @@ Online Screenings and Talk
 October 20"25, 2020
 Presented by Fillip & The Cinematheque
 
-Please RSVP: https://www.eventbrite.com/e/penny-slinger-exorcisms-tickets-
+Please RSVP: [https://www.eventbrite.com/e/penny-slinger-exorcisms-tickets-](https://www.eventbrite.com/e/penny-slinger-exorcisms-tickets-)
 124597391151
 
 Fillip and The Cinematheque are pleased to present Penny Slinger: Exorcisms, a virtual

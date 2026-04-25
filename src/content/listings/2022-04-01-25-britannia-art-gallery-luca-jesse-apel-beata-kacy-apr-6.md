@@ -22,7 +22,7 @@ Paintings & jewelry by Beata Kacy
 
 April 6 " 29, 2022
 
-To learn more, visit: https://britanniaartgallery.weebly.com/luca-apel--beata-kacy.html
+To learn more, visit: [https://britanniaartgallery.weebly.com/luca-apel--beata-kacy.html](https://britanniaartgallery.weebly.com/luca-apel--beata-kacy.html)
 
 Britannia Art Gallery
 

@@ -47,5 +47,5 @@ and Technology, and Unit/Pitt Projects.
 
 After party at Selectors' Records (8 East Pender St.)
 
-Website: http://limitsofaurality.hotglue.me/
-Facebook event: https://www.facebook.com/events/419497191844205/
+Website: [http://limitsofaurality.hotglue.me/](http://limitsofaurality.hotglue.me/)
+Facebook event: [https://www.facebook.com/events/419497191844205/](https://www.facebook.com/events/419497191844205/)

@@ -25,7 +25,7 @@ Artists are invited to submit 4 pieces of work. There
 are no size limitations and each
 piece submitted must be ready to hang.
 
-Please complete submission form at http://connectionsalon.ca/call.html
+Please complete submission form at [http://connectionsalon.ca/call.html](http://connectionsalon.ca/call.html)
 
 Connection Salon Artists Collectives mission is to provide low barrier opportunities
 to artists that are underrepresented and have lived experience with mental health.

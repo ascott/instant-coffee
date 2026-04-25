@@ -23,7 +23,7 @@ Doors at 6:30pm
 Talk at 7:00pm
 Admission is by a suggested donation of $10-$20, courtesy of BMO Financial Group
 RSVPs are helpful
-RSVP here: https://thepolygon.ca/event/if-beauty-is-the-mother-of-pathology-what-is-
+RSVP here: [https://thepolygon.ca/event/if-beauty-is-the-mother-of-pathology-what-is-](https://thepolygon.ca/event/if-beauty-is-the-mother-of-pathology-what-is-)
 desire/
 About Moroti George
 Olumoroti (Moroti) Soji-George (he/they) is a curator, writer, and educator based in

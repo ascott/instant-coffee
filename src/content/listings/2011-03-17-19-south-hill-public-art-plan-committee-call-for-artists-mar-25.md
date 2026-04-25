@@ -42,12 +42,12 @@ info@southhillbia.ca.
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 Additional sources of Public Art call information include:
-- Cafe - https://www.callforentry.org - A US-based resouce that includes
+- Cafe - [https://www.callforentry.org](https://www.callforentry.org) - A US-based resouce that includes
 oportunities for Canadian and international artists
-- Akimbo - http://www.akimbo.ca/submissions/ - providing information
+- Akimbo - [http://www.akimbo.ca/submissions/](http://www.akimbo.ca/submissions/) - providing information
 from Toronto to national and international artists
 - the Public Art Directory -
-http://www.public-art-directory.com/page_service-home.html - A UK based
+[http://www.public-art-directory.com/page_service-home.html](http://www.public-art-directory.com/page_service-home.html) - A UK based
 serivce listing public art calls
 
 PLEASE NOTE: While the City of Vancouver is providing this notification
@@ -59,11 +59,11 @@ of information and functioning of all links. For more detail about a
 particular call, please use the contact information provided. For your
 convenience, all calls distributed through this list are posted online,
 until their expiry, at
-http://vancouver.ca/commsvcs/oca/PublicArt/artistopp.htm.
+[http://vancouver.ca/commsvcs/oca/PublicArt/artistopp.htm](http://vancouver.ca/commsvcs/oca/PublicArt/artistopp.htm).
 
 You can manage your subscription to this mailing list and join others by
 visiting Cultural Services online at:
-http://vancouver.ca/commsvcs/cultural/lists/index.htm
+[http://vancouver.ca/commsvcs/cultural/lists/index.htm](http://vancouver.ca/commsvcs/cultural/lists/index.htm)
 Please feel free to forward or direct others towards this link as well!
 
 CELEBRATE VANCOUVER'S 125 ANNIVERSARY WITH PUBLIC ART & OTHER CULTURAL
@@ -73,9 +73,9 @@ Vancouver 125 is a year-long celebration of Vancouver's history,
 diversity and innovative cultural scene during the city's 125th
 anniversary and year as a Cultural Capital of Canada. Join in the
 excitement of dozens of celebrations and events:
-http://CelebrateVancouver125.ca
+[http://CelebrateVancouver125.ca](http://CelebrateVancouver125.ca)
 
-Follow Vancouver 125 on Twitter: http://twitter.com/vancouver125
-Find us on Facebook: http://www.facebook.com/Vancouver125
-Flickr: http://www.flickr.com/photos/vancouver125/
-YouTube: http://www.youtube.com/user/125Vancouver?feature=mhum
+Follow Vancouver 125 on Twitter: [http://twitter.com/vancouver125](http://twitter.com/vancouver125)
+Find us on Facebook: [http://www.facebook.com/Vancouver125](http://www.facebook.com/Vancouver125)
+Flickr: [http://www.flickr.com/photos/vancouver125/](http://www.flickr.com/photos/vancouver125/)
+YouTube: [http://www.youtube.com/user/125Vancouver?feature=mhum](http://www.youtube.com/user/125Vancouver?feature=mhum)

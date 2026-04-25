@@ -32,9 +32,9 @@ of Hearing, Bowen Tang, resulting in an exhibition taking place in the month of 
 exhibition and mentorship with artwork production. This is in accordance
 with the 2025 CARFAC standard fee rate.
 
-Apply through: https://forms.gle/arafLh4s51fWwM7m9
+Apply through: [https://forms.gle/arafLh4s51fWwM7m9](https://forms.gle/arafLh4s51fWwM7m9)
 
-More details on: https://linktr.ee/shannacheng
+More details on: [https://linktr.ee/shannacheng](https://linktr.ee/shannacheng)
 
 Reach out to Us! If you would like us to go over the application with you, please
 reach out to:

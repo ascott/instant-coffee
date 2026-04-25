@@ -14,13 +14,13 @@ Thursday April 23
 8pm - 11pm
 The Planetarium
 HR MacMillan Space Centre
-http://www.spacecentre.ca/
+[http://www.spacecentre.ca/](http://www.spacecentre.ca/)
 
-TICKETS: http://bit.ly/19JbJN2
+TICKETS: [http://bit.ly/19JbJN2](http://bit.ly/19JbJN2)
 $16
 
 Laraaji
-LISTEN: http://bit.ly/1MYCv1L
+LISTEN: [http://bit.ly/1MYCv1L](http://bit.ly/1MYCv1L)
 
 Ambient and New Age pioneer Laraaji (aka Edward Larry Gordon) has been
 utilizing music as a rich and listenable healing tool since his the late
@@ -30,7 +30,7 @@ celestial solo releases and has linked with contemporary New Age celebrants
 like Blues Control and Sun Araw.
 
 Ramzi
-LISTEN: http://bit.ly/1bmPcGj
+LISTEN: [http://bit.ly/1bmPcGj](http://bit.ly/1bmPcGj)
 
 Vancouver (via Montreal) producer Phoebe Guillemot locks into hypnotic,
 tropically tinged grooves through both ambient and more overtly rhythmic

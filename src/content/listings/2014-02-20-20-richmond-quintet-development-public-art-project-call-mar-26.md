@@ -30,6 +30,6 @@ Deadline for Submissions: March 26, 2014, 5:00pm
 
 All information about the project is contained in the PDF Terms of Reference 
 document accessible from our ‘Call to Artists’ webpage: 
-http://www.richmond.ca/culture/publicart/opportunities.htm
+[http://www.richmond.ca/culture/publicart/opportunities.htm](http://www.richmond.ca/culture/publicart/opportunities.htm)
 
 Questions? Contact: publicart@richmond.ca

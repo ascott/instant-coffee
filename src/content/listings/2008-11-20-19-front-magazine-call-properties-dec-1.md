@@ -24,7 +24,7 @@ traders must still choose among animal, vegetable and mineral, but for the
 rest us, the old rule holds: neither a lender nor a borrower be.
 
 Further guidelines and upcoming themes are available at
-http://front.bc.ca/frontmagazine/submissions
+[http://front.bc.ca/frontmagazine/submissions](http://front.bc.ca/frontmagazine/submissions)
 Reply
 
 Reply to all

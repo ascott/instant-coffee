@@ -33,7 +33,7 @@ will have the opportunity to share their writing.
 
 Michael Turner is a Vancouver-based author of fiction, criticism and song.
 His books include Hard Core Logo, The Pornographer¹s Poem and most recently
-8×10. He blogs at this address: http://mtwebsit.blogspot.com/
+8×10. He blogs at this address: [http://mtwebsit.blogspot.com/](http://mtwebsit.blogspot.com/)
 
 Thursdays Writing Collective, directed by Elee Kraljii Gardiner, has been
 called, “the biggest, boldest, and by far the most vital conspiracy of

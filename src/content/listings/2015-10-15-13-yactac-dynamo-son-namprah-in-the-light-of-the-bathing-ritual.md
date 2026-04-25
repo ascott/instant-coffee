@@ -40,5 +40,5 @@ Tourism Authority of Thailand-
 --Special thanks to Dynamo Arts Association for hosting.
 
 Because it's great and we are Yactac!
-https://www.yactac.com
-https://www.facebook.com/events/708120432655474/
+[https://www.yactac.com](https://www.yactac.com)
+[https://www.facebook.com/events/708120432655474/](https://www.facebook.com/events/708120432655474/)

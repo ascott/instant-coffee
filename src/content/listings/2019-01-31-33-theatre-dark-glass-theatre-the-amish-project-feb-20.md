@@ -20,7 +20,7 @@ world seems to stop. The stunned community must find a way to keep going, and th
 choice? Immediate and startling compassion. Playing February 20-23rd (February 20 " 
 23 @ 8 pm February 21 & 23 @ 2 pm) Studio 1398 (The NEST), 1398 Cartwright St. 
 Granville Island, Vancouver BC V6H 3R8. Tickets $35 online at Brown Paper Tickets 
-https://www.brownpapertickets.com/event/3914101 
+[https://www.brownpapertickets.com/event/3914101](https://www.brownpapertickets.com/event/3914101) 
 
 Vancouver, BC " The Amish Project is a fictional exploration of the tragic events of the 
 Nickel Mines shooting, when the local milkman walked into an Amish schoolhouse and 

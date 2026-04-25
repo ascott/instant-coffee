@@ -20,7 +20,7 @@ a way to put in place the ontological relationship between life death and
 the body, and finally to let go
 Franc Gallery I 1654 Franklin Street I Vancouver, BC
 
-http://francgallery.com I 604-428-4248
+[http://francgallery.com](http://francgallery.com) I 604-428-4248
 
 Artist talk: Saturday, March 23rd, 3 pm
 A Conversation with Kate Hennessy, Associate Professor, School of 

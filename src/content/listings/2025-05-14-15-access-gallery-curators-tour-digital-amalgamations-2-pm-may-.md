@@ -24,7 +24,7 @@ An in-depth walkthrough of the exhibition starts at 2:00 pm"free to attend, no
 registration required.
 
 Learn more about Digital Amalgamations at the link below:
-https://accessgallery.ca/programming/digital-amalgamations
+[https://accessgallery.ca/programming/digital-amalgamations](https://accessgallery.ca/programming/digital-amalgamations)
 
 With gratitude as guests, Access is located on the unceded territories of the
 xmkwy"m (Musqueam), Skwxw7mesh (Squamish), and Sl"lwta"/Selilwitulh

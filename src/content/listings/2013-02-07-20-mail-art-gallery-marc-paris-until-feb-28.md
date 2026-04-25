@@ -27,8 +27,8 @@ tendencies with daily life.
 Mail Art Gallery
 8165 Main Street
 Vancouver, BC
-http://yactac.com/index.php?/post/new/
-http://twitter.com/mailartgallery
+[http://yactac.com/index.php?/post/new/](http://yactac.com/index.php?/post/new/)
+[http://twitter.com/mailartgallery](http://twitter.com/mailartgallery)
 
 Hours:
 Monday- Friday: 09:30 - 18:00

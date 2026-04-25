@@ -12,7 +12,7 @@ NIGHT VISION is a renegade outdoor photograph projection show in Vancouver, Cana
 premise of NIGHT VISION is to bring focus to contemporary photographers from around the world 
 in a community based setting. The second installment of NIGHT VISION takes place on 
 September 26, 2009 at dusk. Location will be disclosed the day before the event at 
-http://www.nightvisionexhibition.tumblr.com
+[http://www.nightvisionexhibition.tumblr.com](http://www.nightvisionexhibition.tumblr.com)
 
 Works by:
 
@@ -73,9 +73,9 @@ Ye Rin Mok | Los Angeles, CA
 Yvonne Hachkowski | Vancouver, Canada
 Zhengdong Xu | Vancouver, Canada
 
-Be sure to check out our contributing artists at http://www.nightvisionexhibition.tumblr.com
+Be sure to check out our contributing artists at [http://www.nightvisionexhibition.tumblr.com](http://www.nightvisionexhibition.tumblr.com)
 
-NIGHT VISION is an ongoing project by Jennilee Marigomen (http://www.jennileemarigomen.com 
+NIGHT VISION is an ongoing project by Jennilee Marigomen ([http://www.jennileemarigomen.com](http://www.jennileemarigomen.com) 
 )and Natasha Lands. Pre-show visuals by Marek Bula.
 
-http://http://www.nightvisionexhibition.tumblr.com
+[http://http://www.nightvisionexhibition.tumblr.com](http://http://www.nightvisionexhibition.tumblr.com)

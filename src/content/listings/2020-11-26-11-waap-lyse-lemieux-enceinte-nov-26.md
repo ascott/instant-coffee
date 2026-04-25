@@ -46,4 +46,4 @@ Council and is the 2017 recipient of the prestigious VIVA Award for Outstanding
 Achievement in the Visual Arts awarded annually by the Doris and Jack Shadbolt
 Foundation for the Visual Arts. Upcoming exhibitions include an exhibition surveying
 Lemieuxs comprehensive drawing practice at the Burnaby Art Gallery in June of this year.
-http://waapart.com
+[http://waapart.com](http://waapart.com)

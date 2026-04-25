@@ -22,4 +22,4 @@ Audain Art Centre.
 
 All are welcome.
 
-http://ahva.ubc.ca
+[http://ahva.ubc.ca](http://ahva.ubc.ca)

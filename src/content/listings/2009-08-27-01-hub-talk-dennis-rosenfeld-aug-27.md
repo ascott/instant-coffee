@@ -23,7 +23,7 @@ LAB CLOSURE
 
 Please note that the HUB:LAB will be closed from August 23 to September
 4th and reopen at it's new location within the Belkin Art Gallery on the
-UBC Campus. Please visit http://www.hubcentre.org/ for more details.
+UBC Campus. Please visit [http://www.hubcentre.org/](http://www.hubcentre.org/) for more details.
 
 About HUB: Centre for Art & Technology
 
@@ -33,4 +33,4 @@ information technologies. Built around the principles of the Open Source
 movement, HUB aims to create a collaborative, interdisciplinary
 environment that provides free and open access to current and emerging
 technologies. To learn more, please visit 
-http://http://www.hubcentre.org/hublab/
+[http://http://www.hubcentre.org/hublab/](http://http://www.hubcentre.org/hublab/)

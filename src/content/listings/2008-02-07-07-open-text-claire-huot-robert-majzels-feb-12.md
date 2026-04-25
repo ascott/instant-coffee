@@ -33,4 +33,4 @@ rfarr@capcollege.bc.ca
 
 -- 
 
-http://www.capilanocreativewriting.blogspot.com
+[http://www.capilanocreativewriting.blogspot.com](http://www.capilanocreativewriting.blogspot.com)

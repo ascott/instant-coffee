@@ -34,6 +34,6 @@ Deadline for Submission:
 July 15th
 Show date: Aug. 19th
 To submit please fill out the form below:
-https://forms.gle/emwMiE2eDpwxWwpQ7
+[https://forms.gle/emwMiE2eDpwxWwpQ7](https://forms.gle/emwMiE2eDpwxWwpQ7)
 
 For questions or inquiries email: katyslany@gmail.com

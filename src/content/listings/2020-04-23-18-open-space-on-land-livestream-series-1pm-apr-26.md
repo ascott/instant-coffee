@@ -31,9 +31,9 @@ May 10 - Tyrone Elliott and PEPAKIYE
 
 The livestreams can be accessed at
 
-https://www.instagram.com/openspacevic/
+[https://www.instagram.com/openspacevic/](https://www.instagram.com/openspacevic/)
 
 by clicking on the Open Space logo. They will be accessible there for 24 hours following the
 event, after which time they will be archived on the Open Space website,
 
-https://www.openspace.ca/programming/on-land
+[https://www.openspace.ca/programming/on-land](https://www.openspace.ca/programming/on-land)

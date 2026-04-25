@@ -22,7 +22,7 @@ Michael Turner was born in North Vancouver in 1962. He is the author of several 
 Justin Lukyn has lived in New York, San Francisco, Los Angeles, Boulder, Colorado, Atlanta, Georgia, and Halifax. For the past five years, he has made his home in East Vancouver. Henry Pepper, a collection of poems based on the Downtown Eastside, is his first book. 
 
 
-The Robson Reading Series is located down the steps from the Vancouver Art Gallery, beside the old skating rink. We are an ongoing multi-genre reading series that features some of the finest writers from Canada and abroad and are organized in collaboration between the UBC Library and the UBC Bookstore at Robson Square. For a complete list of upcoming events, please visit our website at http://www.robsonreadingseries.ubc.ca/
+The Robson Reading Series is located down the steps from the Vancouver Art Gallery, beside the old skating rink. We are an ongoing multi-genre reading series that features some of the finest writers from Canada and abroad and are organized in collaboration between the UBC Library and the UBC Bookstore at Robson Square. For a complete list of upcoming events, please visit our website at [http://www.robsonreadingseries.ubc.ca/](http://www.robsonreadingseries.ubc.ca/)
 
 
 

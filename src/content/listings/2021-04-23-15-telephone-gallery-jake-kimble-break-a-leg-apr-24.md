@@ -21,4 +21,4 @@ newsletter or follow us on social media @telephone_gallery for more updates!
 JAKE KIMBLE " BREAK A LEG
 April 24th " May 29th, 2021
 
-https://mfineart.ca/telephone-gallery/elementor-9519/
+[https://mfineart.ca/telephone-gallery/elementor-9519/](https://mfineart.ca/telephone-gallery/elementor-9519/)

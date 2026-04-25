@@ -14,5 +14,5 @@ Bhangu
 Thursday February 4, 12:00 PM PST
 Register to receive the meeting link
 
-https://www.eventbrite.ca/e/gives-on-and-with-reading-group-and-public-events-tickets-
+[https://www.eventbrite.ca/e/gives-on-and-with-reading-group-and-public-events-tickets-](https://www.eventbrite.ca/e/gives-on-and-with-reading-group-and-public-events-tickets-)
 136358767745

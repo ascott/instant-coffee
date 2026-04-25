@@ -14,7 +14,7 @@ March 16 - May 11, 2024
 
 Opening reception: Saturday, March 16, 2-4pm
 
-https://theactmapleridge.org/waking-ground
+[https://theactmapleridge.org/waking-ground](https://theactmapleridge.org/waking-ground)
 
 The ACT Art Gallery
 

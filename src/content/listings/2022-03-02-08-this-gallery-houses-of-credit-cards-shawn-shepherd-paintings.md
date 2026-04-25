@@ -26,7 +26,7 @@ the sale of a work of art. Just as the
 delicate card structure in each painting is tiered, so is the art market and the high-rise
 Shepherd resides in.
 
-https://www.shawnshepherd.com/
+[https://www.shawnshepherd.com/](https://www.shawnshepherd.com/)
 
 GALLERY HOURS: Thursday - Saturday 10 - 3
 

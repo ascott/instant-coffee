@@ -13,7 +13,7 @@ November 27 - December 4, 2020 | Vimeo
 Please join us for Tomoyo Yamada's MFA project, Friday Dinner, streaming FREE on
 SCA's Vimeo account from November 27 " December 4, 2020.
 
-SCA on VIMEO: https://vimeo.com/sfucontemporaryarts
+SCA on VIMEO: [https://vimeo.com/sfucontemporaryarts](https://vimeo.com/sfucontemporaryarts)
 
 Friday Dinner is a choreographic compilation of everyday gestural movement and those
 found in codified dance forms. Using

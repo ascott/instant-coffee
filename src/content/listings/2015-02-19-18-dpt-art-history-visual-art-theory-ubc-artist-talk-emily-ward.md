@@ -51,4 +51,4 @@ The Distinguished Visiting Artist Program is made possible by the generous
 support of the Rennie Collection.
 All events are free and open to the public.
 For more information please visit:
-http://ahva.ubc.ca
+[http://ahva.ubc.ca](http://ahva.ubc.ca)

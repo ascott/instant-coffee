@@ -24,4 +24,4 @@ Ridges 2024 Celebrate Earth Day festival in Memorial
 Peace Park Spirit Square. Pre-
 registration is required for this event.
 
-Tickets: $16 https://theactmapleridge.org/plant-presentation
+Tickets: $16 [https://theactmapleridge.org/plant-presentation](https://theactmapleridge.org/plant-presentation)

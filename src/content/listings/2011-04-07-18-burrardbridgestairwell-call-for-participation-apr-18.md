@@ -39,4 +39,4 @@ participate in the project and for more information please send your
 name/group to Josh Hite at joshdhite@gmail.com.
 
 More Info at:
-http://burrardbridgestairwell.blogspot.com/
+[http://burrardbridgestairwell.blogspot.com/](http://burrardbridgestairwell.blogspot.com/)

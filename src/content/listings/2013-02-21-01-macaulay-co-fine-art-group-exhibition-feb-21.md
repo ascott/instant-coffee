@@ -26,4 +26,4 @@ Macaulay & Co. Fine Art
 293 East 2nd Ave
 Vancouver BC
 Gallery 604 764 6706
-http://www.mfineart.ca
+[http://www.mfineart.ca](http://www.mfineart.ca)

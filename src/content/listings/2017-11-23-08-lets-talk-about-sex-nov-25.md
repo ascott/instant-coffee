@@ -35,4 +35,4 @@ Engagement at QMUNITY, will be joining us to share some information about what o
 support means to the organization and how it helps them to achieve their mission.
 
 MORE INFORMATION
-https://www.facebook.com/events/1900174980309207/
+[https://www.facebook.com/events/1900174980309207/](https://www.facebook.com/events/1900174980309207/)

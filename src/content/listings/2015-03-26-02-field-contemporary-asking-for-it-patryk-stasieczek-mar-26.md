@@ -49,4 +49,4 @@ Sean Alward, and Patryk Stasieczek. Mediated by Avalon Mott.
 
 FIELD Contemporary
 604-315-0501
-http://field-contemporary.com
+[http://field-contemporary.com](http://field-contemporary.com)

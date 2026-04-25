@@ -21,7 +21,7 @@ Salary: $50,000.00 (plus health and dental)
 Anticipated Start Date: January 2021 (flexible)
 
 Details about the position including a list of minimum qualifications, responsibilities and
-how to apply can be found at https://www.artciteinc.ca/jobs
+how to apply can be found at [https://www.artciteinc.ca/jobs](https://www.artciteinc.ca/jobs)
 
 Application Deadline: 10 November,
 2020

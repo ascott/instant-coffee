@@ -8,7 +8,7 @@ venue: "prairie artsters"
 summary: "prairie artsters | Vancouver Report | MAR 31"
 ---
 
-http://prairieartsters.blogspot.com/2011/03/vancouver-forecast-
+[http://prairieartsters.blogspot.com/2011/03/vancouver-forecast-](http://prairieartsters.blogspot.com/2011/03/vancouver-forecast-)
 march-2011.html
 
 amyfung.ca

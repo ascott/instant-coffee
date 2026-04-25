@@ -27,5 +27,5 @@ such as paintings or sculpture, as the size of the space doesnt
 permit these mediums. The space is self-contained and has all
 amenities you would need.
 
-Visit " https://linktr.ee/minuteresidency "or email "
+Visit " [https://linktr.ee/minuteresidency](https://linktr.ee/minuteresidency) "or email "
 MiNuteArtResidency@gmail.com " to apply.

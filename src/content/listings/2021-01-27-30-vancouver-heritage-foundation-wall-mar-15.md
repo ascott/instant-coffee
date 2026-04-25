@@ -22,7 +22,7 @@ curator will have the opportunity to explore the CBC Archives collection to rese
 inform their artwork intended for exhibition on The WALL.
 
 The deadline to apply is March 15, 2021 at 5pm.
-https://www.vancouverheritagefoundation.org/projects/the-wall/
+[https://www.vancouverheritagefoundation.org/projects/the-wall/](https://www.vancouverheritagefoundation.org/projects/the-wall/)
 [vancouverheritagefoundation.org]
 
 
@@ -74,8 +74,8 @@ for story-driven XR content.
 
 Submissions are now open for all sections of the Festival:
 features, documentaries, short
-films, and VIFF Immersed. More info can be found at http://goviff.org/submissions. Projects
-can be submitted via FilmFreeway at https://filmfreeway.com/VIFF.
+films, and VIFF Immersed. More info can be found at [http://goviff.org/submissions](http://goviff.org/submissions). Projects
+can be submitted via FilmFreeway at [https://filmfreeway.com/VIFF](https://filmfreeway.com/VIFF).
 
 Submissions Deadlines
 Canadian and International Features, Documentaries, and Shorts, and VIFF Immersed

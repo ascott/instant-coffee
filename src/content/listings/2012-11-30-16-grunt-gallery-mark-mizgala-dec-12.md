@@ -61,7 +61,7 @@ and Archive Magazine. Mark was nominated for Best Art Exhibit of 2011 in
 the Ottawa Xpress Magazine's Best of Ottawa reader's poll. His work is in 
 collections throughout North America and Europe.
 
-http://markmizgala.com/ 
+[http://markmizgala.com/](http://markmizgala.com/) 
 
 Don't forget to buy your tickets for the 
 ECLECTIC CABARET: grunt gallery Fundraiser!

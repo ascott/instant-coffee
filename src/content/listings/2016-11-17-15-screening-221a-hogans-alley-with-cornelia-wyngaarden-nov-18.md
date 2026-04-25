@@ -11,8 +11,8 @@ summary: "SCREENING | 221a | Hogan's Alley with Cornelia Wyngaarden | NOV 18"
 "Hogan's Alley" (1994) with Cornelia Wyngaarden
 Friday, November 18, 2016
 7-9pm
-http://www.221a.ca/rereading-room
-https://goo.gl/kX7leQ
+[http://www.221a.ca/rereading-room](http://www.221a.ca/rereading-room)
+[https://goo.gl/kX7leQ](https://goo.gl/kX7leQ)
 
 221A invites you to a screening of Andrea Fatona and Cornelia Wyngaarden's 
 "Hogan's Alley" (1994), on Friday, November 18 at 7pm. This event is part of a series 

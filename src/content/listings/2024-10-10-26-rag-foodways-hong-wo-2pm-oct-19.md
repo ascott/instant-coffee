@@ -25,7 +25,7 @@ kinship, socio-economic status, geography, and colonialist histories percolate
 through practices linked to food and food
 culture.
 
-https://www.richmondartgallery.org/foodways
+[https://www.richmondartgallery.org/foodways](https://www.richmondartgallery.org/foodways)
 
 HONG WO '
 
@@ -42,4 +42,4 @@ community for nearly a century. Featuring archival documents, photographs, and
 artifacts, it highlights the store's role in Richmonds early economy and Lams
 contributions to both business and the local Chinese community.
 
-https://www.richmondartgallery.org/hong-wo
+[https://www.richmondartgallery.org/hong-wo](https://www.richmondartgallery.org/hong-wo)

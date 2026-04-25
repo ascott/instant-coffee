@@ -12,7 +12,7 @@ regular tickets : $46
 
 Admission to CICA, wine and snacks included
 
-available at: https://curatedtastes.art/event/gallery-hop-and-wine-reception-
+available at: [https://curatedtastes.art/event/gallery-hop-and-wine-reception-](https://curatedtastes.art/event/gallery-hop-and-wine-reception-)
 downtown-east-vancouver/
 
 event limited to 20 people
@@ -69,4 +69,4 @@ Thank you for supporting your local arts community and small female-led
 businesses! We cant wait to introduce you to the wonderful people that make up our
 local art scene!
 
-more information at: https://curatedtastes.art/events/
+more information at: [https://curatedtastes.art/events/](https://curatedtastes.art/events/)

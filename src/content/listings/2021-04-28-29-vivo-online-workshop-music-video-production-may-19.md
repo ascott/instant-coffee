@@ -11,7 +11,7 @@ summary: "VIVO [ONLINE WORKSHOP] | Music Video Production | MAY 19"
 Music Video Production -- online workshop
 
 More info and sign up at:
-https://music-video-production.eventbrite.ca
+[https://music-video-production.eventbrite.ca](https://music-video-production.eventbrite.ca)
 
 Music video conception and editing workshop with director Hannah Dougherty.
 

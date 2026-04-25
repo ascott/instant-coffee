@@ -35,4 +35,4 @@ Show: 8 PM
 
 Location: CICA Vancouver (228 Abbott Street, Vancouver, BC V6B 1C8)
 
-Tickets: https://ra.co/events/1871265 (1st release: $25.60)
+Tickets: [https://ra.co/events/1871265](https://ra.co/events/1871265) (1st release: $25.60)

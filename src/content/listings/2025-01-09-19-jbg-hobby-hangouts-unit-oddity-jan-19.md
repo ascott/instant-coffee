@@ -19,7 +19,7 @@ and resiliency in our creative undertakings. People will also be welcome to also
 sketch and draw during the session as a form of art therapy through the process.
 
 Suggested donation $15 for cost of materials. PWYC tickets! RSVP through this link:
-https://www.zeffy.com/en-CA/ticketing/hobby-hangouts-unit-oddity-intensive-on-
+[https://www.zeffy.com/en-CA/ticketing/hobby-hangouts-unit-oddity-intensive-on-](https://www.zeffy.com/en-CA/ticketing/hobby-hangouts-unit-oddity-intensive-on-)
 artist-directive
 
 Hobby Hangouts sessions aim to promote studio members skillsharing and

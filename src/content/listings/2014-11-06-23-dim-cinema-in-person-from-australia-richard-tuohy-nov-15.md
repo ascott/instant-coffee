@@ -36,7 +36,7 @@ www.dimcinema.ca
 www.thecinematheque.ca/dim
 
 For updates and more information, visit us on Facebook
-(http://www.facebook.com/dimcinema/) and/or subscribe to our newsletter
+([http://www.facebook.com/dimcinema/](http://www.facebook.com/dimcinema/)) and/or subscribe to our newsletter
 
 --
 DIM CINEMA

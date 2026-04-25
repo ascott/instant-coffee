@@ -31,4 +31,4 @@ Deadline: December 17, 2010
 Display dates: March - May 2011
 
 Submissions can be emailed to frontmagazine@front.bc.ca. For full
-submission guidelines, please see http://front.bc.ca/frontmagazine/submissions
+submission guidelines, please see [http://front.bc.ca/frontmagazine/submissions](http://front.bc.ca/frontmagazine/submissions)

@@ -50,10 +50,10 @@ of mind and body, a simultaneity in the sense of quantum physics.
 
 433 Columbia Street
 Vancouver, B.C. V6A 2R9
-http://shuddergallery.com/
-http://twitter.com/shuddergallery
-http://samkeogh.net/
-http://www.rebecca-lamarre.com/
+[http://shuddergallery.com/](http://shuddergallery.com/)
+[http://twitter.com/shuddergallery](http://twitter.com/shuddergallery)
+[http://samkeogh.net/](http://samkeogh.net/)
+[http://www.rebecca-lamarre.com/](http://www.rebecca-lamarre.com/)
 
 Shudder Gallery is open to the public Thursday - Saturday 12:30 - 
 5:30 p.m. for more information e-mail us at 

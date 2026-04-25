@@ -14,7 +14,7 @@ Thursday, April 22 at 7pm PDT
 Zoom // Free
 
 Register by email: register@unitpitt.ca
-Register on Eventbrite: https://www.eventbrite.ca/e/poems-for-the-paris-commune-cecily-
+Register on Eventbrite: [https://www.eventbrite.ca/e/poems-for-the-paris-commune-cecily-](https://www.eventbrite.ca/e/poems-for-the-paris-commune-cecily-)
 nicholson-mercedes-eng-stephen-collis-tickets-150959137845
 
 Join us for an evening of readings & discussion with poets Cecily Nicholson, Mercedes
@@ -56,7 +56,7 @@ collection, A History of the Theories of Rain, appeared in 2021.
 This event is part of La Commune 2021, a virtual free school focused on the Paris
 Commune of 1871 created by writer and scholar Roxanne Panchasi, in collaboration with
 UNIT/PITT Society for Art and Critical Awareness. More information:
-https://www.unitpitt.ca/la-commune-2021/
+[https://www.unitpitt.ca/la-commune-2021/](https://www.unitpitt.ca/la-commune-2021/)
 
 UNIT/PITT is a charitable non-profit artist-run organization that supports art and critical
 awareness by offering the tools, space, resources, and mentorship for emerging artists and

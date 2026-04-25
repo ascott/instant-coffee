@@ -14,7 +14,7 @@ John Cussans is organizing an informal gathering to discuss a project he has bee
 working on called BC time-Slip: The Empire never Ended. He would like to re-situate it 
 back in the space where much of it was filmed to emphasize the time-slip thematic. Here 
 is the link to the project material.
-http://bctimeslip.skullcrackersuite.org/
+[http://bctimeslip.skullcrackersuite.org/](http://bctimeslip.skullcrackersuite.org/)
 
 He will be showing some of the edits of the material that he shot last summer in order to 
 start a conversation of where, if anywhere, the Skullcracker project might go next. The 

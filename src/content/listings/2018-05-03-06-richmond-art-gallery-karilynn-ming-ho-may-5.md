@@ -20,7 +20,7 @@ Alone".
 
 Free admission, everyone welcome to join in the discussion.
 RSVP via
-https://www.eventbrite.ca/e/artist-talk-with-karilynn-ming-ho-tickets-45604910515?aff=erelpanelorg
+[https://www.eventbrite.ca/e/artist-talk-with-karilynn-ming-ho-tickets-45604910515?aff=erelpanelorg](https://www.eventbrite.ca/e/artist-talk-with-karilynn-ming-ho-tickets-45604910515?aff=erelpanelorg)
 
 Karilynn Ming Ho is a Vancouver-based interdisciplinary artist working with
 video, performance, multi-media installation, sculpture and collage. Her

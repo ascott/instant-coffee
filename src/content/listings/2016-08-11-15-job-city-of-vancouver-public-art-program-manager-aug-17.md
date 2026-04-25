@@ -29,4 +29,4 @@ Department: Cultural Services, Community Services
 Competition #: 2016-0453
 Revised application close: August 17, 2016
 
-http://vancouver.ca/your-government/find-and-apply-for-a-job.aspx
+[http://vancouver.ca/your-government/find-and-apply-for-a-job.aspx](http://vancouver.ca/your-government/find-and-apply-for-a-job.aspx)

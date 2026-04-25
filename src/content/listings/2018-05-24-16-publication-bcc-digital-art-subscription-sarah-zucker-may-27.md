@@ -12,7 +12,7 @@ Bcc: Digital Art Subscription by Decoy Magazine // May 2018 // Commissioned
 Artist: Sarah Zucker
 
 Subscribe by May 27 to receive a copy of Sarah Zucker's commissioned
-artwork: http://www.decoymagazine.ca/bcc
+artwork: [http://www.decoymagazine.ca/bcc](http://www.decoymagazine.ca/bcc)
 
 Sarah Zucker is a writer and artist based in Los Angeles. Her work combines
 obsolete and cutting edge technologies with performance to yield visions of
@@ -36,4 +36,4 @@ LAist, AdHoc and more. She co-produced Prism Pipe, a monthly visual music
 event at pehrspace in Los Angeles from 2014-2016.
 
 She holds a BA in Theater/Creative Writing for the Media from Northwestern,
-and an MFA in Dramatic Writing from NYU. http://www.sarahzucker.com/
+and an MFA in Dramatic Writing from NYU. [http://www.sarahzucker.com/](http://www.sarahzucker.com/)

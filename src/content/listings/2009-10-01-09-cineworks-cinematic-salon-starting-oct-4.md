@@ -22,4 +22,4 @@ All salons are FREE and take place at the CINEWORKS STUDIO with street entrance 
 Pacific Cinémathèque at 1131 HOWE.
 
 Visit www.cineworks.ca for daily updates and panel additions
-http://www.cineworks.ca
+[http://www.cineworks.ca](http://www.cineworks.ca)

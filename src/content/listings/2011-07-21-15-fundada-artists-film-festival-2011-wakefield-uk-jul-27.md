@@ -161,9 +161,9 @@ speakers, Bob Milner for his amazing illustrations, The Hepworth Gallery for the
 cardboard, Sparrow+Castice for the transportation of the cardboard, Our friends, 
 family and colleagues for their ongoing support.
 
-http://fundadaartistsfilmfestival.blogspot.com/
+[http://fundadaartistsfilmfestival.blogspot.com/](http://fundadaartistsfilmfestival.blogspot.com/)
 
-Just launched! Fundada TV http://vimeo.com/fundada showcasing the Best of 
+Just launched! Fundada TV [http://vimeo.com/fundada](http://vimeo.com/fundada) showcasing the Best of 
 FAFF with a new film uploaded every week.
 
 To unsubscribe from info@temporaryartspace.co.uk reply with "remove" in 

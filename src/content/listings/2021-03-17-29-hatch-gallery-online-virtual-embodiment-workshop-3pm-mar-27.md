@@ -24,7 +24,7 @@ March 27, 3pm (PST) on ZOOM (link posted in event below!)
 ZOOM
 LINK TO WORKSHOP:
 
-https://zoom.us/j/98050891857?pwd=cGNvSkZZc0NhK1pTRXdxaEk3aHAyZz09
+[https://zoom.us/j/98050891857?pwd=cGNvSkZZc0NhK1pTRXdxaEk3aHAyZz09](https://zoom.us/j/98050891857?pwd=cGNvSkZZc0NhK1pTRXdxaEk3aHAyZz09)
 
 Meeting
 ID: 980 5089 1857

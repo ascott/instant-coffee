@@ -56,7 +56,7 @@ Mailed by post:
 Kent-Harrison Arts Council
 PO Box 502
 Agassiz, BC V0M 1A0
-http://kentharrisonartscouncil.com 
+[http://kentharrisonartscouncil.com](http://kentharrisonartscouncil.com) 
 
 Application Deadline: DECEMBER 1, 2014
 All emails must be received and mail postmarked no later than by Dec 1st

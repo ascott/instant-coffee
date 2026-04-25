@@ -36,5 +36,5 @@ For information, rates, and application forms to become a member of the Arts
 Council of Surrey in order to be eligible to enter this competition please contact ACS
 at 604-594-2700 or info@artscouncilofsurrey.ca
 
-Application form: https://artscouncilofsurrey.ca/wp-
+Application form: [https://artscouncilofsurrey.ca/wp-](https://artscouncilofsurrey.ca/wp-)
 content/uploads/2025/01/VIS_ARTS-2025-Entry-Form-FILLABLE-1.pdf

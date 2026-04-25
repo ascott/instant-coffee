@@ -46,11 +46,11 @@ civic community centre associations and cultural community centres.
 For more information:
 
 1. Review the program guidelines at:
-http://dev.vancouver.ca/commsvcs/cultural/gasp/grants/index.htm
+[http://dev.vancouver.ca/commsvcs/cultural/gasp/grants/index.htm](http://dev.vancouver.ca/commsvcs/cultural/gasp/grants/index.htm)
 
 2. Read the visioning and planning process undertaken by the
 Celebrate Vancouver's 125 Advisory Committee.
-http://vancouver.ca/commsvcs/cultural/celebrate125
+[http://vancouver.ca/commsvcs/cultural/celebrate125](http://vancouver.ca/commsvcs/cultural/celebrate125)
 
 3. Contact our office and speak with a Cultural Planner
 604.871.6434 begin_of_the_skype_highlighting		  604.871.6434	    end_of_the_skype_highlighting
@@ -61,7 +61,7 @@ neighbourhoods throughout Vancouver in September.
 
 NEW: You can manage your subscription to this mailing list, and join
 others by visiting Cultural Services online at:
-http://vancouver.ca/commsvcs/cultural/lists/index.htm. Please feel free
+[http://vancouver.ca/commsvcs/cultural/lists/index.htm](http://vancouver.ca/commsvcs/cultural/lists/index.htm). Please feel free
 to forward or direct others towards this link as well!
 
 

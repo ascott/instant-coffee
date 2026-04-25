@@ -10,7 +10,7 @@ summary: "Langara College | on-line: Claire Doherty and Lorna Brown"
 
 The Future is Floating 2
 
-On-line conversation http://www.othersights.ca/the-future-is-floating-2/
+On-line conversation [http://www.othersights.ca/the-future-is-floating-2/](http://www.othersights.ca/the-future-is-floating-2/)
 
 A conversation with Claire Doherty and Lorna Brown
 Founder and Director Claire Doherty discusses the origins and the 

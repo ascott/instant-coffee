@@ -18,7 +18,7 @@ Winter Thaw Special Rates!
 
 One session, 3 hours total | $25, or $20 with VIVO Extended Producer Membership
 
-Buy tickets online @ Eventbrite: https://final-cut-pro-with-flick-harrison.eventbrite.ca
+Buy tickets online @ Eventbrite: [https://final-cut-pro-with-flick-harrison.eventbrite.ca](https://final-cut-pro-with-flick-harrison.eventbrite.ca)
 
 Learn how to edit video, including importing, adding effects and titles, organizing 
 your files, and outputting to DVD, web, or master files on the once-and-future king of 
@@ -27,4 +27,4 @@ Final Cut Pro X has finally overcome the clunky launch and now it does pretty mu
 everything an editor needs it to do.
 
 Visit VIVO Education for many more details: 
-http://www.vivomediaarts.com/education/upcoming-workshops
+[http://www.vivomediaarts.com/education/upcoming-workshops](http://www.vivomediaarts.com/education/upcoming-workshops)

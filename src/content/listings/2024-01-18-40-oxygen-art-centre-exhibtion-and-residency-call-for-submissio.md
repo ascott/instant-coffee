@@ -37,7 +37,7 @@ website for more information.
 
 The deadline to apply is February 16, 2024, at 12:00 PM Midnight (PST) via Google
 Form:
-https://docs.google.com/forms/d/e/1FAIpQLSctphrzXpkaNwMIaI44im09cX8cIzVC4z
+[https://docs.google.com/forms/d/e/1FAIpQLSctphrzXpkaNwMIaI44im09cX8cIzVC4z](https://docs.google.com/forms/d/e/1FAIpQLSctphrzXpkaNwMIaI44im09cX8cIzVC4z)
 32a7qQsdWLk4kEiw/viewform?usp=sf_link
 
 All applications will be reviewed by Oxygens Exhibition & Residency Committee,

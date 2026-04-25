@@ -10,7 +10,7 @@ summary: "North Van Arts | WORKSHOP SCHEDULE | OCT 12"
 
 Listing Fall programming North Van Arts Community Arts Council
 
-https://northvanarts.ca/arts_education/
+[https://northvanarts.ca/arts_education/](https://northvanarts.ca/arts_education/)
 
 Watercolour: Fall Leaves (Intermediate)
 
@@ -91,4 +91,4 @@ Register Arts Education - North Van Arts
 
 TO BUY
 TICKETS CLICK HERE:
-https://northvanarts.ca/arts_education/
+[https://northvanarts.ca/arts_education/](https://northvanarts.ca/arts_education/)

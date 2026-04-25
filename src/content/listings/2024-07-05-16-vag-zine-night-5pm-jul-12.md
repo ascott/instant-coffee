@@ -15,7 +15,7 @@ presented by Jonathan Middleton of Vancouver Art Book Fair.
 This series of programs is presented in conjunction with the exhibition Copy Machine
 Manifestos: Artists Who Make Zines.
 
-Find out more and register at https://www.vanartgallery.bc.ca/events/zine-night-jul-12
+Find out more and register at [https://www.vanartgallery.bc.ca/events/zine-night-jul-12](https://www.vanartgallery.bc.ca/events/zine-night-jul-12)
 
 SCHEDULE OF EVENTS | JULY 12
 

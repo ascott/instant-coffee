@@ -19,24 +19,24 @@ Monday – Saturday, 10:00 am – 6:00 pm, and Sundays, 11:00 am – 5:00 pm.
 PAUL WONG
 OCTOBER 15 – NOVEMBER 5, 2011
 
-Paul Wong <http://winsorgallery.createsend3.com/t/r/l/thjiljt/tutjddzr/r/>
+Paul Wong <[http://winsorgallery.createsend3.com/t/r/l/thjiljt/tutjddzr/r/](http://winsorgallery.createsend3.com/t/r/l/thjiljt/tutjddzr/r/)>
 
 You can preview selected works at...
 
-Paul Wong <http://winsorgallery.createsend3.com/t/r/l/thjiljt/tutjddzr/y/>
-Paul Wong <http://winsorgallery.createsend3.com/t/r/l/thjiljt/tutjddzr/j/>
+Paul Wong <[http://winsorgallery.createsend3.com/t/r/l/thjiljt/tutjddzr/y/](http://winsorgallery.createsend3.com/t/r/l/thjiljt/tutjddzr/y/)>
+Paul Wong <[http://winsorgallery.createsend3.com/t/r/l/thjiljt/tutjddzr/j/](http://winsorgallery.createsend3.com/t/r/l/thjiljt/tutjddzr/j/)>
 
-Winsor Gallery <http://winsorgallery.createsend3.com/t/r/l/thjiljt/tutjddzr/t/>
+Winsor Gallery <[http://winsorgallery.createsend3.com/t/r/l/thjiljt/tutjddzr/t/](http://winsorgallery.createsend3.com/t/r/l/thjiljt/tutjddzr/t/)>
 3025 Granville Street
 Vancouver, BC
 V6H 3J9
 604 681 4870
 
 www.winsorgallery.com 
-<http://winsorgallery.createsend3.com/t/r/l/thjiljt/tutjddzr/i/>
+<[http://winsorgallery.createsend3.com/t/r/l/thjiljt/tutjddzr/i/](http://winsorgallery.createsend3.com/t/r/l/thjiljt/tutjddzr/i/)>
 
 You have received this email because you expressed interest in Winsor Gallery 
 exhibitions. If you no longer wish to receive our evites, please click here to 
-unsubscribe <http://winsorgallery.createsend3.com/t/r/u/thjiljt/tutjddzr/d/> .
+unsubscribe <[http://winsorgallery.createsend3.com/t/r/u/thjiljt/tutjddzr/d/](http://winsorgallery.createsend3.com/t/r/u/thjiljt/tutjddzr/d/)> .
 
-<https://createsend3.com/t/r/o/thjiljt/tutjddzr/o.gif>
+<[https://createsend3.com/t/r/o/thjiljt/tutjddzr/o.gif](https://createsend3.com/t/r/o/thjiljt/tutjddzr/o.gif)>

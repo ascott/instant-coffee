@@ -29,7 +29,7 @@ Artists: Graduating BFA / BA Visual Art students, Class of 2018
 AHVA Gallery (rm. 1001) and Studio 3000
 Audain Art Centre
 6398 University Boulevard, UBC
-https://ahva.ubc.ca/
+[https://ahva.ubc.ca/](https://ahva.ubc.ca/)
 
 We would like to acknowledge that this event is taking place on the traditional, 
 ancestral, and unceded territories of the xwmkwy"m (Musqueam) people.

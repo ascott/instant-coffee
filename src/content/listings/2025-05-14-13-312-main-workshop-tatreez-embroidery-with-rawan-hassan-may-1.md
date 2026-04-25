@@ -20,4 +20,4 @@ Palestinian motifs, and learn about Hassans artistic practice.
 Individuals of any skill/experience level are welcome. Workshop registration includes
 free access to the Gaza Remains the Story exhibition.
 
-Register: https://alawdavancouver.com/gaza-remains
+Register: [https://alawdavancouver.com/gaza-remains](https://alawdavancouver.com/gaza-remains)

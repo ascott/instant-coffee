@@ -35,4 +35,4 @@ by Annex Pro.
 
 For more information and updates, visit the website:
 
-http://www.skrol.org
+[http://www.skrol.org](http://www.skrol.org)

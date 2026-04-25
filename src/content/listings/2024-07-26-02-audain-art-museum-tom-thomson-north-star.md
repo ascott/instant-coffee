@@ -18,4 +18,4 @@ host of other Canadian
 museums and private collections, Tom Thomson: North Star, organized and circulated by
 the McMichael Canadian Art Collection, will provide a fresh view of one of Canadas
 most incandescent talents for audiences across the country. Learn more at
-https://audainartmuseum.com/exhibitions/tom-thomson-north-star/.
+[https://audainartmuseum.com/exhibitions/tom-thomson-north-star/](https://audainartmuseum.com/exhibitions/tom-thomson-north-star/).

@@ -42,7 +42,7 @@ Since 1983, DOC (formerly called the CIFC/Canadian Independent Film Caucus)
 – has been the champion of independent documentary film and television in
 Canada.
 
-http://docbc.org
+[http://docbc.org](http://docbc.org)
 
 Cineworks Independent Filmmakers Society (est.1980) is an artist-run
 production and exhibition centre that supports independent filmmakers and

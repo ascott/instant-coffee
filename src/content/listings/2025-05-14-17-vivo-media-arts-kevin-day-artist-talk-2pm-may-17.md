@@ -16,7 +16,7 @@ Saturday, May 17, 2025
 2 pm
 FREE, No Registration Required.
 
-More info: https://www.vivomediaarts.com/programming/the-medium-is-the-
+More info: [https://www.vivomediaarts.com/programming/the-medium-is-the-](https://www.vivomediaarts.com/programming/the-medium-is-the-)
 environment-artist-talk
 
 Artist chat with Kevin Day
@@ -51,5 +51,5 @@ information indicative of an information-based way of knowing. The works resist 
 extraction and abstraction of algorithmic processes through an insistence on the
 presence of noise in the information-capital complex.
 
-More info: https://www.vivomediaarts.com/programming/the-medium-is-the-
+More info: [https://www.vivomediaarts.com/programming/the-medium-is-the-](https://www.vivomediaarts.com/programming/the-medium-is-the-)
 environment-artist-talk

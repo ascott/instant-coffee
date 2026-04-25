@@ -36,4 +36,4 @@ non-profit society is operated by a volunteer board of arts professionals,
 and commissions works from established artists who have made an important
 contribution to contemporary art.
 
-For additional information, please visit http://www.cppsonline.com
+For additional information, please visit [http://www.cppsonline.com](http://www.cppsonline.com)

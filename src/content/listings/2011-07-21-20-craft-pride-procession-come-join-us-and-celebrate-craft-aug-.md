@@ -36,9 +36,9 @@ expression.
 For more information on CRAFT PRIDE PROCESSION, please check out our 
 blogs:
 
-http://craftprideprocessio​n.blogspot.com/
+[http://craftprideprocessio​n.blogspot.com/](http://craftprideprocessio​n.blogspot.com/)
 
-http://textilegroupvan.blo​gspot.com/
+[http://textilegroupvan.blo​gspot.com/](http://textilegroupvan.blo​gspot.com/)
 
 or email us at: textilegroupvan@gmail.com
 --

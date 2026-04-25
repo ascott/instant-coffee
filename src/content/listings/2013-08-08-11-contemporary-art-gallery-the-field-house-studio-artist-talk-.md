@@ -28,10 +28,10 @@ in the Faculty of Arts and Social Sciences at the University of Windsor. In the
 fall of 2013, he will join the Faculty of Culture + Community at Emily Carr 
 University of Art & Design.
 
-http://www.brokencitylab.org/projects/
+[http://www.brokencitylab.org/projects/](http://www.brokencitylab.org/projects/)
 
 Field House Studio at Burrard Marina
 1655 Whyte Avenue
 
-http://eblast.matchboxcreative.com/t/ViewEmail/y/098F9E3307BEFE89/2D08
+[http://eblast.matchboxcreative.com/t/ViewEmail/y/098F9E3307BEFE89/2D08](http://eblast.matchboxcreative.com/t/ViewEmail/y/098F9E3307BEFE89/2D08)
 E80B14EDBD63F6A1C87C670A6B9F

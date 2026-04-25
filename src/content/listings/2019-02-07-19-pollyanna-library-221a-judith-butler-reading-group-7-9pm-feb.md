@@ -33,4 +33,4 @@ Asad Haider, Universality, Mistaken Identity (2018)
 
 For access to study materials please email librarian@polly-anna.ca.
 
-http://polly-anna.ca/activity/judith-butler-6
+[http://polly-anna.ca/activity/judith-butler-6](http://polly-anna.ca/activity/judith-butler-6)

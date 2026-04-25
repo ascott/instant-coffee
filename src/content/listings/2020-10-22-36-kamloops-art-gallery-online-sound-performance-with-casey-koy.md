@@ -10,4 +10,4 @@ summary: "Kamloops Art Gallery [ONLINE] | SOUND PERFORMANCE with CASEY KOYCZAN |
 
 SOUND PERFORMANCE with CASEY KOYCZAN
 SATURDAY, OCTOBER 31, 7:00 pm (PDT)
-REGISTER: https://us02web.zoom.us/webinar/register/WN_oGrc-W4OSKiOZbetOfoMcQ
+REGISTER: [https://us02web.zoom.us/webinar/register/WN_oGrc-W4OSKiOZbetOfoMcQ](https://us02web.zoom.us/webinar/register/WN_oGrc-W4OSKiOZbetOfoMcQ)

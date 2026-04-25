@@ -8,7 +8,7 @@ venue: "Richmond Art Gallery"
 summary: "Richmond Art Gallery | Unit Bruises | The Marble in the Basement | 2PM | APR 20"
 ---
 
-https://www.richmondartgallery.org/
+[https://www.richmondartgallery.org/](https://www.richmondartgallery.org/)
 
 7700 Minoru Gate
 Richmond, BC V6Y 1R8
@@ -38,13 +38,13 @@ with the Morris and Helen Belkin Art Gallery at the University of British Columb
 Unit Bruises is part of the 2024 Capture Photography Festival Selected Exhibition
 Program.
 
-More info: https://www.richmondartgallery.org/unitbruises
+More info: [https://www.richmondartgallery.org/unitbruises](https://www.richmondartgallery.org/unitbruises)
 
 ===========================================
 
 Richmond Art Gallery | Hazel Meyer: The Marble in the Basement | April 20
 
-https://www.richmondartgallery.org/
+[https://www.richmondartgallery.org/](https://www.richmondartgallery.org/)
 
 7700 Minoru Gate
 Richmond, BC V6Y 1R8
@@ -73,4 +73,4 @@ work recovers the queer
 aesthetics, politics, and bodies often effaced within histories
 of infrastructure, athletics, and illness.
 
-More info: https://www.richmondartgallery.org/hazelmeyer
+More info: [https://www.richmondartgallery.org/hazelmeyer](https://www.richmondartgallery.org/hazelmeyer)

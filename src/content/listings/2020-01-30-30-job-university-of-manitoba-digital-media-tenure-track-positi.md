@@ -59,7 +59,7 @@ studio space in the adjoining Tache Hall building. The School of Art offers exce
 opportunities for research, collaboration, and teaching in both graduate and
 undergraduate programs. The School of Art offers an MFA in studio practice as well as
 BFA and BFA honours programs in studio practice and art history. For further
-information, please visit the School of Art website: http://www.umanitoba.ca/schools/art.
+information, please visit the School of Art website: [http://www.umanitoba.ca/schools/art](http://www.umanitoba.ca/schools/art).
 
 Additional Information :
 The University of Manitoba campuses are located on original lands of Anishinaabeg,

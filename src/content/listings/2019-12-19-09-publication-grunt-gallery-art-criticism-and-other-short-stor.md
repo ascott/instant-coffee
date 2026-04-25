@@ -36,7 +36,7 @@ Gray & Ryan Wilson Paulsen, Onya Hogan-Finlay, Ariana Jacob, Sam Korman,
 Vanessa Kwan, Hazel Meyer, Dan Nelson, Darren O'Donnell, Carmen Papalia, Helen
 Reed, and Maya Suess.
 
-More info: http://www.blankchequepress.com/product/art-criticism-other-short-stories
+More info: [http://www.blankchequepress.com/product/art-criticism-other-short-stories](http://www.blankchequepress.com/product/art-criticism-other-short-stories)
 
 ********
 grunt gallery is located on the unceded and ancestral territories of the xwmkwy"m
@@ -84,5 +84,5 @@ artists that share a
 commitment to being engaged and responsible to Chinatown and the surrounding area's
 communities.
 
-More info: https://www.bcartscape.ca/available-spaces-11-2019 /
+More info: [https://www.bcartscape.ca/available-spaces-11-2019](https://www.bcartscape.ca/available-spaces-11-2019) /
 operations@bcartscape.ca

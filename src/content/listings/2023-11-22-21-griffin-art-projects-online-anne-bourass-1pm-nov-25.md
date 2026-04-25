@@ -10,7 +10,7 @@ summary: "Griffin Art Projects [ONLINE] | Anne Bourassé | 1PM | NOV 25"
 
 Griffin Art Projects
 
-https://www.griffinartprojects.ca/
+[https://www.griffinartprojects.ca/](https://www.griffinartprojects.ca/)
 
 1:00 to 2:30 pm - Live From the Studio with Anne Bourrass, 2023
 Paris-Vancouver
@@ -29,7 +29,7 @@ des Arts Dcoratifs de Paris, Sciences Po Paris and Cornell University, USA. She 
 the winner of the ADIAF mergence Grant - Curator / Art Critic in France.
 
 To attend online, you must register for the webinar here:
-https://us06web.zoom.us/webinar/register/WN_kGv36-F-
+[https://us06web.zoom.us/webinar/register/WN_kGv36-F-](https://us06web.zoom.us/webinar/register/WN_kGv36-F-)
 R_CQKfgolvFNPw#/registration
 
 This

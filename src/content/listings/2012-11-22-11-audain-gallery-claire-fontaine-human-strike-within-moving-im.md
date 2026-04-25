@@ -51,10 +51,10 @@ human social reproduction. An explication and further theorization of this
 notion can be found in these texts, available online, by Claire Fontaine:
 
 Human Strike Within the Field of Libidinal Economy:
-http://theanarchistlibrary.org/library/claire-fontaine-human-strike-within-the-
+[http://theanarchistlibrary.org/library/claire-fontaine-human-strike-within-the-](http://theanarchistlibrary.org/library/claire-fontaine-human-strike-within-the-)
 field-of-libidinal-economy.pdf
 Ready-Made Artist and Human Strike: A few Clarifications:
-http://www.clairefontaine.ws/pdf/readymade_eng.pdf
+[http://www.clairefontaine.ws/pdf/readymade_eng.pdf](http://www.clairefontaine.ws/pdf/readymade_eng.pdf)
 About the exhibition:
 Running from October 12 to December 22, 2012, Carelessness Causes Fire 
 is the first solo exhibition in Canada by the Paris-based “collective artist” 

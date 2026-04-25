@@ -30,7 +30,7 @@ Max. 250 words answering the question:
 
 $125 honorarium fee
 
-Apply through GoogleForm at https://tr.ee/tW1-0VQfpt.
+Apply through GoogleForm at [https://tr.ee/tW1-0VQfpt](https://tr.ee/tW1-0VQfpt).
 
 Reach out to us at letters2mygrandparents@gmail.com.
 

@@ -27,4 +27,4 @@ Artists/Students who have recently graduated with their MFA in painting are
 also invited to apply.
 
 Please go to the site for more information or to download an applications:
-http://www.joeplaskett.com.
+[http://www.joeplaskett.com](http://www.joeplaskett.com).

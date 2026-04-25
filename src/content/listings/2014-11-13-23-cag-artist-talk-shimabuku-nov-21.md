@@ -18,4 +18,4 @@ Friday November 21, 6.30pm
 CAG, 555 Nelson Street, Vancouver
 
 
-http://www.contemporaryartgallery.ca
+[http://www.contemporaryartgallery.ca](http://www.contemporaryartgallery.ca)

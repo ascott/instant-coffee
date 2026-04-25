@@ -23,6 +23,6 @@ Venue: CBC Studio 700,
 700 Hamilton Street 
 Tickets: Pay What You Want at the Door (suggested $7, $17 or $27)
 or pre-purchase a ticket here
-https://www.eventbrite.ca/e/movin-on-up-2019-tickets-63816013414
+[https://www.eventbrite.ca/e/movin-on-up-2019-tickets-63816013414](https://www.eventbrite.ca/e/movin-on-up-2019-tickets-63816013414)
 Date: Saturday, June 22nd 2019. Doors at 6:30pm, reading starts at 7pm
-Facebook: https://www.facebook.com/events/2487913728104074/
+Facebook: [https://www.facebook.com/events/2487913728104074/](https://www.facebook.com/events/2487913728104074/)

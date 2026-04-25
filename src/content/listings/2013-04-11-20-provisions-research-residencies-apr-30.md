@@ -98,7 +98,7 @@ Research Residencies are kindly supported by The Open Society
 Foundation, The Andy Warhol Foundation, Comet Ping Pong, and 
 other generous donors.
 
-More about Research Residencies online @ http://provisionslibrary.org
+More about Research Residencies online @ [http://provisionslibrary.org](http://provisionslibrary.org)
 
 - - --the abouts - - 
 

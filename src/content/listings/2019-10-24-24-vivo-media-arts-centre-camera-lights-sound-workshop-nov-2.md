@@ -10,7 +10,7 @@ summary: "VIVO Media Arts Centre | Camera Lights Sound Workshop | NOV 2"
 
 Camera Lights Sound workshop
 
-SIGN UP & MORE INFO: https://cls-alysha.eventbrite.ca
+SIGN UP & MORE INFO: [https://cls-alysha.eventbrite.ca](https://cls-alysha.eventbrite.ca)
 
 Learn the basics needed to shoot your first videos with the help of artist
 Alysha Seriani
@@ -37,4 +37,4 @@ primer to get you started on your videos! It also benefits participants
 interested in VIVOs more intermediary video-making workshops.
 
 Two extended subsidies available for this workshop:
-https://forms.gle/7hr7hRDoiPhYyrEx6
+[https://forms.gle/7hr7hRDoiPhYyrEx6](https://forms.gle/7hr7hRDoiPhYyrEx6)

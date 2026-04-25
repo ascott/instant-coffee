@@ -34,4 +34,4 @@ them directly:
 
 Steve Oliver steve.oliver@canadacouncil.ca for one-on-ones in Burnaby, BC.
 
-For more info on funding opportunities see: https://canadacouncil.ca/funding/grants
+For more info on funding opportunities see: [https://canadacouncil.ca/funding/grants](https://canadacouncil.ca/funding/grants)

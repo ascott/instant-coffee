@@ -31,7 +31,7 @@ A. Jarislowsky Curator, Audain Art Museum and Emmy Lee Wall, Executive Director
 and Chief Curator, Capture Photography Festival as a Featured Exhibition for the
 2024 Festival.
 
-Learn more: https://audainartmuseum.com/exhibitions/otherwise-disregarded-
+Learn more: [https://audainartmuseum.com/exhibitions/otherwise-disregarded-](https://audainartmuseum.com/exhibitions/otherwise-disregarded-)
 whistler/
 
 ~
@@ -55,5 +55,5 @@ This work was commissioned by The Circle Project, an evolving collaboration of
 artists and formerly incarcerated women in the Vancouver region dedicated to
 producing provocative art together.
 
-Learn more and register: https://www.eventbrite.ca/e/public-artist-discussion-tickets-
+Learn more and register: [https://www.eventbrite.ca/e/public-artist-discussion-tickets-](https://www.eventbrite.ca/e/public-artist-discussion-tickets-)
 870295004787?aff=oddtdtcreator

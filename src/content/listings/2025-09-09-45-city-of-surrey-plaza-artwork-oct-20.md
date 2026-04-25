@@ -27,7 +27,7 @@ Project Budget: $250,000
 
 Details
 
-Please read the Artist Call for complete details: https://www.surrey.ca/arts-
+Please read the Artist Call for complete details: [https://www.surrey.ca/arts-](https://www.surrey.ca/arts-)
 culture/public-art/artist-calls-project-updates
 
 How to Apply

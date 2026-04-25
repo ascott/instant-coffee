@@ -14,7 +14,7 @@ Saturday, May 25, 2024
 Richmond Art Gallery, 7700 Minoru Gate
 
 Tickets:
-https://www.eventbrite.ca/e/artist-talk-with-paul-wong-tickets-885027469987?
+[https://www.eventbrite.ca/e/artist-talk-with-paul-wong-tickets-885027469987](https://www.eventbrite.ca/e/artist-talk-with-paul-wong-tickets-885027469987)?
 aff=oddtdtcreator
 
 Join exhibiting artist Paul Wong and guest curator Michael Dang in conversation

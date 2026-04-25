@@ -45,7 +45,7 @@ studios range from $1.30 per square foot to $2.82 per square foot, and include u
 internet, waste & recycling, as well as regular cleaning and maintenance of common
 areas.
 
-View all current vacancies at https://221a.ca/housing-studios-and-work-spaces/all-
+View all current vacancies at [https://221a.ca/housing-studios-and-work-spaces/all-](https://221a.ca/housing-studios-and-work-spaces/all-)
 vacancies/
 
 2.
@@ -57,5 +57,5 @@ libraries and the experience of sharing space with friends at school. Writers, e
 graphic and interaction designers, industrial designers, architects and engineers, arts
 administrators, students and researchers: we welcome you to join us!
 
-Book a tour with our Membership & Events Coordinator via https://221a.ca/housing-
+Book a tour with our Membership & Events Coordinator via [https://221a.ca/housing-](https://221a.ca/housing-)
 studios-and-work-spaces/coworking/, or reach out via email at coworking@221a.ca.

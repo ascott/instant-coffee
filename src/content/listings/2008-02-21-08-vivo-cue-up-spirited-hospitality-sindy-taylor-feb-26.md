@@ -29,4 +29,4 @@ Sindy Taylor is an intuitive healer and has worked with many different modalitie
 Sindy Taylor: www.spiritualhealingarts.com Clairvoyant/Reiki Master/Visionary Artist/Intuitive Energy Healing
 
 For more information about Cue Up please email:
-cueup@videoinstudios.com or visit our blog at http://www.cueup.typepad.com
+cueup@videoinstudios.com or visit our blog at [http://www.cueup.typepad.com](http://www.cueup.typepad.com)

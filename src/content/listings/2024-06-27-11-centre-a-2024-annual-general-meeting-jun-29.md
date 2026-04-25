@@ -20,9 +20,9 @@ Time: 2 - 4 pm PT
 Location: Zoom
 
 Please RSVP as a current Member:
-https://us02web.zoom.us/meeting/register/tZErc-uupzwpHdKMVbKo0nz00alHgX5iHfYv
+[https://us02web.zoom.us/meeting/register/tZErc-uupzwpHdKMVbKo0nz00alHgX5iHfYv](https://us02web.zoom.us/meeting/register/tZErc-uupzwpHdKMVbKo0nz00alHgX5iHfYv)
 or
 purchase a Centre A Membership:
-https://centrea.org/support/membership/
+[https://centrea.org/support/membership/](https://centrea.org/support/membership/)
 
 We will send any relevant documents to attendees 48 hours in advance. See you there!

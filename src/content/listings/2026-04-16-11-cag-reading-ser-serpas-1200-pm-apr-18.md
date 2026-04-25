@@ -30,4 +30,4 @@ Genve; Hammer Museum, Los Angeles; Punta della Dogana, Venice; and Kunsthalle
 Fribourg, Switzerland. She is the author of two books of poems, *Guesthouse* (Kona Books,
 2021) and *Carman*, *Based on the Opera* (Koenig Books, 2019).
 
-https://cagvancouver.org/event/reading-ser-serpas
+[https://cagvancouver.org/event/reading-ser-serpas](https://cagvancouver.org/event/reading-ser-serpas)

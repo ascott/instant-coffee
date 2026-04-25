@@ -48,10 +48,10 @@ in over ten years, and Rope Of Sand (Soi Fischer, Toronto), a survey
 of new tendencies in painting.
 
 Application forms are available at 
-http://www.soifischer.com/residency.html
+[http://www.soifischer.com/residency.html](http://www.soifischer.com/residency.html)
 
 For more information about Artscape Gibraltar Point, Toronto Island, 
-Ontario please visit: http://www.torontoartscape.org/artscape-gibraltar-
+Ontario please visit: [http://www.torontoartscape.org/artscape-gibraltar-](http://www.torontoartscape.org/artscape-gibraltar-)
 point/artscape-lodge
 
 For more information please contact Lucas Soi at +1 (416) 887 - 4854 

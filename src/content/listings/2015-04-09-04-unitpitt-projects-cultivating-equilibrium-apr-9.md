@@ -51,4 +51,4 @@ structuring narratives around fragments of the everyday.
 UNIT/PITT Projects
 236 East Pender Street, Vancouver BC Canada V6A 1T7
 +1 604 681 6740
-http://unitpitt.ca
+[http://unitpitt.ca](http://unitpitt.ca)

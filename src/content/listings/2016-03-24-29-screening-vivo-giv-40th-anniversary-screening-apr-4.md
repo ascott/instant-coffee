@@ -25,5 +25,5 @@ comprised of English, French, and silent works.
 
 Program Notes and Video Synopses can be found on VIVO's website:
 
-http://www.vivomediaarts.com/9970-2/
-https://www.facebook.com/events/1665776573677331/
+[http://www.vivomediaarts.com/9970-2/](http://www.vivomediaarts.com/9970-2/)
+[https://www.facebook.com/events/1665776573677331/](https://www.facebook.com/events/1665776573677331/)

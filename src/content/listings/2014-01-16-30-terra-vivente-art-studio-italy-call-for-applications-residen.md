@@ -20,7 +20,7 @@ favoured. The studio is independently run and cannot offer financial assistance
 at this time; a fee covers the cost of accommodation and use of the studio in two 
 buildings that are set on the hill in the historic centre of town, overlooking the 
 verdant valley below. Please visit website for details: 
-http://www.terraviventeartstudio.com.
+[http://www.terraviventeartstudio.com](http://www.terraviventeartstudio.com).
 
 Many thanks,
 Helena Wadsley
@@ -53,8 +53,8 @@ onsite to answer any questions you have about the writers’ centre.
 Dates: Jan 25-26 - 10am-11pm
 
 Social Media
-Website: http://www.bluminwarehouse.com
-Facebook: http://www.facebook.com/BluminWarehouse
+Website: [http://www.bluminwarehouse.com](http://www.bluminwarehouse.com)
+Facebook: [http://www.facebook.com/BluminWarehouse](http://www.facebook.com/BluminWarehouse)
 Twitter: @bluminwarehouse
 
 Thanks very much, Candie Tanaka

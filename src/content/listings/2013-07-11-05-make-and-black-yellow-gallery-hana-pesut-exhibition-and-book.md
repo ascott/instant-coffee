@@ -56,6 +56,6 @@ www.makeisawesome.com
 facebook.com/pages/Black-Yellow
 @BY_Gallery
 
-Facebook event: https://www.facebook.com/events/215358898616429/?fref=ts
+Facebook event: [https://www.facebook.com/events/215358898616429/?fref=ts](https://www.facebook.com/events/215358898616429/?fref=ts)
 
 Generously sponsored by Clou Studio and Cariboo Brewing Company.

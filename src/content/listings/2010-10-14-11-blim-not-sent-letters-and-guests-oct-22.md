@@ -44,7 +44,7 @@ PIETRO SAMMARCO is a Vancouver-based interdisciplinary artist who playfully expl
 
 NOT SENT LETTERS is an ongoing series of epistolary detours by JEREMY TODD (an entanglement w/ practices of the self and the politics of meaning) involving online image/text posts, digital film shorts and multi-media performances. A new Letters set at Blim will include live improvisational electronic music scores by ANDREW SHORT, image projection, and individual Not Sent Letters selected from the project blog and read by MARGARET DRAGU, DAVID LEITH, SORESSA GARDNER, GUADALUPE MARTINEZ & CHARLENE VICKERS.
 
-Explore previous Not Sent Letters and Guests events and links to the Not Sent Letters project here: http://www.notsentlettersandguests.blogspot.com
+Explore previous Not Sent Letters and Guests events and links to the Not Sent Letters project here: [http://www.notsentlettersandguests.blogspot.com](http://www.notsentlettersandguests.blogspot.com)
 
 Email Jeremy if you would like to arrange for, host or contribute to a future Not Sent Letters and Guests event: jeremytodd@shaw.ca
 

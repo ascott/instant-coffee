@@ -15,4 +15,4 @@ and Publishing Society.
 
 -- 
 
-http://www.capilanocreativewriting.blogspot.com
+[http://www.capilanocreativewriting.blogspot.com](http://www.capilanocreativewriting.blogspot.com)

@@ -25,7 +25,7 @@ creating and curating the Subtext Reading Series (1995-2009) in
 Seattle, and the last few years has been working to induce collective 
 thought via a series of related reading groupuscles, a project with a 
 two word name: "autonomous university." He blogs at 
-http://rmutts.blogspot.com/
+[http://rmutts.blogspot.com/](http://rmutts.blogspot.com/)
 
 Will Owen teaches the globe's prospective hospitality migrants 
 barista-English, so that they can get a BC "Serving it Right" license 

@@ -37,10 +37,10 @@ support the artists. No one turned away for lack of funds.
 3/17 Vancouver @ FIELD Contemporary 8PM
 
 Tour Event Page:
-https://www.facebook.com/events/403888526845638/
+[https://www.facebook.com/events/403888526845638/](https://www.facebook.com/events/403888526845638/)
 
 Websitch:
-https://emotional.store/100-Year-Plan
+[https://emotional.store/100-Year-Plan](https://emotional.store/100-Year-Plan)
 Emotional.Store is the collaborative duo of artists Scotty Wagner and Bailey Hikawa. 
 They create large scale, multimedia projects that explore the newly forming collective 
 consciousness brought about by the union of the physical with the virtual, and the onset 

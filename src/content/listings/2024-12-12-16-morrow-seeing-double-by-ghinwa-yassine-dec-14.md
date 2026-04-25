@@ -60,4 +60,4 @@ Special Thanks to:
 
 Robert A.D Frick
 
-Tickets: https://www.eventbrite.ca/e/seeing-double-tickets-1084942214369
+Tickets: [https://www.eventbrite.ca/e/seeing-double-tickets-1084942214369](https://www.eventbrite.ca/e/seeing-double-tickets-1084942214369)

@@ -25,4 +25,4 @@ that reflects on the landscapes and communities framed by the 20.
 The tour begins at Gorilla Food (637 East Hastings) at 2:30pm on Sat April 22 and 
 will last about an hour, ending at Pasture to Plate (1420 Commercial Drive)
 
-https://www.facebook.com/events/267182807076392/
+[https://www.facebook.com/events/267182807076392/](https://www.facebook.com/events/267182807076392/)

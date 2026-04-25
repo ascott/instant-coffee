@@ -43,11 +43,11 @@ When Wong draped a little rubbery snake on Culture Seen he nearly hit the
 ceiling. Other passengers screamed...[there was] an odd feeling of
 displacement... as [they] watched one thing on the video and saw another on
 the street.’
-http://communities.canada.com/VANCOUVERSUN/blogs/cultureseen/archive/2010/02/21/taken-for-a-ride-on-zoooooming-video-bus.aspx
+[http://communities.canada.com/VANCOUVERSUN/blogs/cultureseen/archive/2010/02/21/taken-for-a-ride-on-zoooooming-video-bus.aspx](http://communities.canada.com/VANCOUVERSUN/blogs/cultureseen/archive/2010/02/21/taken-for-a-ride-on-zoooooming-video-bus.aspx)
 
-Catch Paul Wong in the air on Air Canada http://vimeo.com/9012941
+Catch Paul Wong in the air on Air Canada [http://vimeo.com/9012941](http://vimeo.com/9012941)
 
-’5’ WALL is up http://www.youtube.com/watch?v=pyll7m_uBfI
+’5’ WALL is up [http://www.youtube.com/watch?v=pyll7m_uBfI](http://www.youtube.com/watch?v=pyll7m_uBfI)
 
 For complete list of works, reviews, documentation, high-resolution
 downloads, and to experience ’5’ virtually visit www.5.paulwongprojects.com

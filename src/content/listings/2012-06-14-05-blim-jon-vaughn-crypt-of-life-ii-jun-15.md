@@ -31,8 +31,8 @@ Art History. Vaughn also frequently works in collaboration with partner
 Carrie Gates in an electronic audio and visual performance duo and in 
 bands with various friends in Saskatoon and across Canada.
 
-http://www.flickr.com/photos/jon_vaughn
-http://www.jonvaughn.ca
+[http://www.flickr.com/photos/jon_vaughn](http://www.flickr.com/photos/jon_vaughn)
+[http://www.jonvaughn.ca](http://www.jonvaughn.ca)
 
 BLIM
 Yuriko Iga - Director

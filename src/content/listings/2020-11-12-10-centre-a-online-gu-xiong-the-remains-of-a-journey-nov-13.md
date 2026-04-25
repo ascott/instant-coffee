@@ -15,7 +15,7 @@ Join us for an Online Opening Reception! The artist will be in attendance.
 
 Friday, November 13, 2020, 6 PM " 7:30 PM via Zoom
 Link (no registration required):
-https://us02web.zoom.us/j/81819687738?
+[https://us02web.zoom.us/j/81819687738](https://us02web.zoom.us/j/81819687738)?
 pwd=YmFaZ2NaQzFNNjR0MXFXSmpZY2szdz09
 
 Gu Xiong: The Remains of a Journey
@@ -86,4 +86,4 @@ Email: info@centrea.org
 We would like to acknowledge that Centre A is situated in Vancouver's Chinatown, on
 the unceded Coast Salish Territories of the xmky"m (Musqueam), Swxw7mesh
 (Squamish), and s"llwta" (Tsleil-Waututh) peoples.
-http://https://us02web.zoom.us/j/81819687738?pwd=YmFaZ2Na
+[http://https://us02web.zoom.us/j/81819687738?pwd=YmFaZ2Na](http://https://us02web.zoom.us/j/81819687738?pwd=YmFaZ2Na)

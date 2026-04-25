@@ -93,4 +93,4 @@ contributor to the North Vancouver cultural landscape.
 Please apply with a cover letter and resume before September 24, 2020, by email to
 info@griffinartprojects.ca with the subject line "Indigenous Curatorial and Marketing
 Assistant".
-http://www.griffinartprojects.ca
+[http://www.griffinartprojects.ca](http://www.griffinartprojects.ca)

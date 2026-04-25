@@ -16,7 +16,7 @@ The Imperial, 319 Main St, Vancouver
 
 Doors / Red Carpet Screening: 4:00 PM 
 Oscars Awards Screening: 5:30 PM
-Tickets: $70; http://bit.ly/20TWLZA
+Tickets: $70; [http://bit.ly/20TWLZA](http://bit.ly/20TWLZA)
 
 Dress up, rock the red carpet, watch the Oscars in style, and help raise 
 funds for Cineworks Independent Filmmakers Society -- an artist-run 

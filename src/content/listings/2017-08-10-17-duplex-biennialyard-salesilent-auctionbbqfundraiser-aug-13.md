@@ -33,4 +33,4 @@ Everybody, and every body!
 
 4257 Fraser St
 Vancouver, British Columbia
-http://projectduplex.ca/
+[http://projectduplex.ca/](http://projectduplex.ca/)

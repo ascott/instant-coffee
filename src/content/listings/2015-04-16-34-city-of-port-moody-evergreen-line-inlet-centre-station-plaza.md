@@ -24,7 +24,7 @@ opportunities consist of providing either an existing artwork or designing
 a site specific artwork for the plaza.
 
 For more information and submission guidelines:
-http://www.portmoody.ca/index.aspx?page=125&recordid=1249
+[http://www.portmoody.ca/index.aspx?page=125&recordid=1249](http://www.portmoody.ca/index.aspx?page=125&recordid=1249)
 
 For questions regarding the submission requirements or process, contact the
 City of Port Moody by email at ktracey@portmoody.ca.

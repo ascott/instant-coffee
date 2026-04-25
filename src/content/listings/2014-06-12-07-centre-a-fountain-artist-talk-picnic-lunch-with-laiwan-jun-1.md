@@ -33,7 +33,7 @@ The event is free and open to the public, rain or shine. A light lunch will be
 served – so do let us know if you can make it. Bring a blanket, bring a friend!
 
 *In the meantime, we invite you to explore this webwork and its many 
-streams of participation: http://www.laiwanette.net/fountain/ *
+streams of participation: [http://www.laiwanette.net/fountain/](http://www.laiwanette.net/fountain/) *
 
 Contact: info@centrea.org
 
@@ -67,7 +67,7 @@ water systems, and First Nations culture. From a very young age, she was
 inspired by the magic of the natural world. With a BFA from Concordia 
 University and training as a Master Gardener, Celia continues to work in 
 Vancouver as an artist, writer ecologist and conservationist.
-(http://www.falsecreekwatershed.org/)
+([http://www.falsecreekwatershed.org/](http://www.falsecreekwatershed.org/))
 
 LAIWAN is an artist, writer and educator recognized for her interdisciplinary 
 practice based in poetics and philosophy. Born in Zimbabwe of Chinese 

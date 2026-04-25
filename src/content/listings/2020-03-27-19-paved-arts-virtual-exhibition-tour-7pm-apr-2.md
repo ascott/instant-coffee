@@ -10,7 +10,7 @@ summary: "PAVED Arts | Virtual Exhibition Tour | 7PM | APR 2"
 
 VIRTUAL TALK AND TOUR: Pippa Lattey / Into Orbit
 PAVED ARTS FACEBOOK WATCH PARTY
-(https://www.facebook.com/events/261921311475677/)
+([https://www.facebook.com/events/261921311475677/](https://www.facebook.com/events/261921311475677/))
 
 Thursday, April 2, 2020 at 7pm
 

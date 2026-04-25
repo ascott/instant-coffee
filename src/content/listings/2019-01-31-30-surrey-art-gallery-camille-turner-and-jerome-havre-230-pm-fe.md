@@ -50,7 +50,7 @@ fashion ads. Camille is the founder of Outerregion, an Afrofuturist performance 
 She has lectured at various institutions such as University of Toronto, Algoma University, 
 and Toronto School of Art. She is a graduate of Ontario College of Art and Design and 
 York Universitys Masters in Environmental Studies program where she is currently a 
-PhD candidate. http://camilleturner.com/
+PhD candidate. [http://camilleturner.com/](http://camilleturner.com/)
 
 Jrme Havres multidisciplinary art practice focuses on issues of identity, community, 
 and territory, investigating the political and sociological processes of contemporary life 

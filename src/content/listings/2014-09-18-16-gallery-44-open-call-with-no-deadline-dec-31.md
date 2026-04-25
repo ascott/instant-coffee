@@ -21,7 +21,7 @@ the larger context of contemporary artistic practices and relevant cultural
 issues in today’s society.
 
 Submission guidelines can be viewed on our website:
-http://gallery44.org/call-for-submission/emerging-mid-career-
+[http://gallery44.org/call-for-submission/emerging-mid-career-](http://gallery44.org/call-for-submission/emerging-mid-career-)
 and-established-artists-and-curators
 
 PROOF 22 CALL FOR EMERGING CANADIAN ARTISTS – Deadline November 7
@@ -36,7 +36,7 @@ Germaine Koh, Nicholas Pye, Althea Thauberger, and Andrew Wright.
 The deadline for submissions is November 7, 2014.
 
 Submission guidelines can be viewed on our website:
-http://gallery44.org/call-for-submission/proof-22-call-emerging-
+[http://gallery44.org/call-for-submission/proof-22-call-emerging-](http://gallery44.org/call-for-submission/proof-22-call-emerging-)
 canadian-artists
 
 17. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing

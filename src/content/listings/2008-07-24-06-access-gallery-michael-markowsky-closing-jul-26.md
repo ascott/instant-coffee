@@ -17,7 +17,7 @@ Access Art Gallery
 206 Carrall Street
 Vancouver, BC
 (604) 689-2907
-http://www.vaarc.ca 
+[http://www.vaarc.ca](http://www.vaarc.ca) 
 Tuesday to Saturday from 12pm - 5pm
 
 Did you know that movie star Errol Flynn died in Glenn Gould’s Uncle’s West End apartment, 

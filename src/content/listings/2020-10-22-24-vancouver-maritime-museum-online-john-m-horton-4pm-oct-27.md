@@ -23,8 +23,8 @@ in this lavishly illustrated virtual presentation. The presentation will include
 current works in progress.
 
 Event Webpage:
-https://vanmaritime.com/2020/10/08/a-look-at-the-marine-art-of-john-m-horton-obc/
+[https://vanmaritime.com/2020/10/08/a-look-at-the-marine-art-of-john-m-horton-obc/](https://vanmaritime.com/2020/10/08/a-look-at-the-marine-art-of-john-m-horton-obc/)
 
 Ticket purchase link:
 
-https://vanmaritime.zaui.net/booking/web/#/default/activity/40?
+[https://vanmaritime.zaui.net/booking/web/#/default/activity/40](https://vanmaritime.zaui.net/booking/web/#/default/activity/40)?

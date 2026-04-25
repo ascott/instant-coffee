@@ -20,7 +20,7 @@ UNIT/PITT
 
 *Please note, we will be fundraising for UNIT/PITT through a sliding scale ticket
 option. Some tickets will be reserved at the door. No one will be turned away for lack
-of funds. RSVP Here: https://www.zeffy.com/en-CA/ticketing/i-dont-know-what-it-is-
+of funds. RSVP Here: [https://www.zeffy.com/en-CA/ticketing/i-dont-know-what-it-is-](https://www.zeffy.com/en-CA/ticketing/i-dont-know-what-it-is-)
 but-i-know-what-it-feels-like-a-david-lynch-memorial-screening
 
 As we mourn the recent loss of beloved filmmaker David Lynch, join us for a

@@ -18,7 +18,7 @@ Public Roundtable - Thursday March 4, 10am
 W2 Community Media Arts
 112 West Hastings St, Vancouver
 Contact: forthemomentshow@gmail.com
-Facebook event page: http://www.facebook.com/event.php?eid=279460648092
+Facebook event page: [http://www.facebook.com/event.php?eid=279460648092](http://www.facebook.com/event.php?eid=279460648092)
 www.611forum.com
 
 Organized and curated by the third year undergraduate students in the

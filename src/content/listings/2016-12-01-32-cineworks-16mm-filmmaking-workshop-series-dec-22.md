@@ -16,7 +16,7 @@ Concession Admission $600
 Cineworks Members $500
 Includes all camera film, print film and processing
 
-REGISTER: https://16mm-filmmaking-2017.eventbrite.ca
+REGISTER: [https://16mm-filmmaking-2017.eventbrite.ca](https://16mm-filmmaking-2017.eventbrite.ca)
 
 This course is an in-depth and intimate collection of 5 workshops, and 5 
 supervised analog studio /lab sessions with 700' Kodak Tri-X Reversal B&W 
@@ -51,7 +51,7 @@ Use of Cineworks facilities and equipment will be available to participants outs
 of workshop hours to allow them to practice learned skills and apply them to their 
 project. 
 
-More information: https://16mm-filmmaking-2017.eventbrite.ca
+More information: [https://16mm-filmmaking-2017.eventbrite.ca](https://16mm-filmmaking-2017.eventbrite.ca)
 
 Cineworks Independent Filmmakers Society (est. 1980) is an artist-run production 
 and exhibition centre that supports independent filmmakers and media artists 

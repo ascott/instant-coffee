@@ -18,7 +18,7 @@ Van Arts provides all tools and materials required for gallery preparation and
 exhibition installation. Applicants must be
 available 9-am-5pm on predetermined installation days.
 
-Learn more: https://northvanarts.ca/wp-content/uploads/2024/05/Gallery-
+Learn more: [https://northvanarts.ca/wp-content/uploads/2024/05/Gallery-](https://northvanarts.ca/wp-content/uploads/2024/05/Gallery-)
 Installer-posting-2024-revised.pdf
 
 Exhibitions Manager
@@ -27,5 +27,5 @@ organizational and leadership skills to successfully curate and deliver memorabl
 gallery exhibitions across multiple North Van Arts venues which foster community
 engagement and inclusivity.
 
-Learn more: https://northvanarts.ca/wp-content/uploads/2024/06/Exhibitions-
+Learn more: [https://northvanarts.ca/wp-content/uploads/2024/06/Exhibitions-](https://northvanarts.ca/wp-content/uploads/2024/06/Exhibitions-)
 Manager-Job-Description-June-4-2024.pdf

@@ -18,7 +18,7 @@ vancouver's dubstep & bass music monthy. brought to you by lighta! sound.
 10pm - late. $15. VIVO (main & 4th ave). non-smoking venue. serious sound.
 beer & wine at the bar.
 
-http://images.tribe.net/tribe/upload/photo/06b/094/06b0944b-649b-496b-bd12-7bcadeea4d6a
+[http://images.tribe.net/tribe/upload/photo/06b/094/06b0944b-649b-496b-bd12-7bcadeea4d6a](http://images.tribe.net/tribe/upload/photo/06b/094/06b0944b-649b-496b-bd12-7bcadeea4d6a)
 
 
 
@@ -26,20 +26,20 @@ http://images.tribe.net/tribe/upload/photo/06b/094/06b0944b-649b-496b-bd12-7bcad
 konspiracy group )
 
 north america's dubstep ambassador. been there from the start. resident @
-Dubwar.nyc. ALL dub-plate set. http://www.myspace.com/joenice
+Dubwar.nyc. ALL dub-plate set. [http://www.myspace.com/joenice](http://www.myspace.com/joenice)
 
 
 
 / / SUPERISK bristol ( dubstep.fm -
-http://www.myspace.com/superiskninthentity )
+[http://www.myspace.com/superiskninthentity](http://www.myspace.com/superiskninthentity) )
 
 
 / / DJ CURE ( lighta! sound - aufect recordings -
-http://www.myspace.com/djcure_vertigo )
+[http://www.myspace.com/djcure_vertigo](http://www.myspace.com/djcure_vertigo) )
 
 
 / / DAEGA SOUND SYSTEM ( lighta! sound - dpr recordings -
-http://www.myspace.com/daega )
+[http://www.myspace.com/daega](http://www.myspace.com/daega) )
 
 
-/ / DANGAMOUSE ( tongue'n'groove.uk - http://www.myspace.com/dangamouse )
+/ / DANGAMOUSE ( tongue'n'groove.uk - [http://www.myspace.com/dangamouse](http://www.myspace.com/dangamouse) )

@@ -27,6 +27,6 @@ distance of downtown Vernon.)
 NOT INCLUDED IN THE RESIDENCY: travel expenses, food, health insurance, writing 
 materials, shipping costs and other personal expenses.
 
-LEARN MORE + APPLY HERE: https://www.caetani.org/kpc3-writer-in-residence/
+LEARN MORE + APPLY HERE: [https://www.caetani.org/kpc3-writer-in-residence/](https://www.caetani.org/kpc3-writer-in-residence/)
 
 E-mail air@caetani.org with any questions

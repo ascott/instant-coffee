@@ -31,7 +31,7 @@ and gallery space, The Phoenix is located in the lower level of the
 historic Phoenix building on west Hastings street. It is an emerging 
 gallery and studio space having hosted several exhibitions by local 
 artists, performers, and makers. 
-http://www.thephoenixgallery.ca/#home 
-https://www.facebook.com/events/212334472445530/
+[http://www.thephoenixgallery.ca/#home](http://www.thephoenixgallery.ca/#home) 
+[https://www.facebook.com/events/212334472445530/](https://www.facebook.com/events/212334472445530/)
 The Phoenix is located at 45 West Hastings St. Entrance located to the 
 rear of building off the alley. Feb 27 2016 8-11pm.

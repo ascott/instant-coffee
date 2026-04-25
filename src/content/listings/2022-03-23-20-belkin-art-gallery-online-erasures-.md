@@ -26,7 +26,7 @@ workers.
 
 To register
 for the Zoom link for this online panel, visit
-https://us06web.zoom.us/webinar/register/WN_Q8HOZu-nRECRX0nIB4bGsA
+[https://us06web.zoom.us/webinar/register/WN_Q8HOZu-nRECRX0nIB4bGsA](https://us06web.zoom.us/webinar/register/WN_Q8HOZu-nRECRX0nIB4bGsA)
 
 Moderated by Laiwan, Erasures: Cultural Activism and Periodicals invites her former
 collaborators Frederick Thomas Edwards, John Kozachenko and Joyce Jenje
@@ -39,7 +39,7 @@ pathways forged by activists who were drawn to the periodical as a space of
 consciousness, and who have fought against the erasure of experience from dominant
 discourse.
 
-https://belkin.ubc.ca/events/panel-discussion-and-periodicals/
+[https://belkin.ubc.ca/events/panel-discussion-and-periodicals/](https://belkin.ubc.ca/events/panel-discussion-and-periodicals/)
 
 21.
 EVENT | Burnaby Art Gallery | Dan Starling: Unsettled Histories | 7PM | MAR 31
@@ -65,7 +65,7 @@ Please join us on Thursday, March 31, 2022, 7:00pm - 9:00pm. Proof of vaccinatio
 
 * Cash bar available.
 
-Learn more: https://www.burnaby.ca/recreation-and-arts/arts-and-culture-
+Learn more: [https://www.burnaby.ca/recreation-and-arts/arts-and-culture-](https://www.burnaby.ca/recreation-and-arts/arts-and-culture-)
 facilities/burnaby-art-gallery/exhibitions/dan-starling-unsettled-histories
 
-http://https://www.burnaby.ca/recreation-and-arts/arts-an
+[http://https://www.burnaby.ca/recreation-and-arts/arts-an](http://https://www.burnaby.ca/recreation-and-arts/arts-an)

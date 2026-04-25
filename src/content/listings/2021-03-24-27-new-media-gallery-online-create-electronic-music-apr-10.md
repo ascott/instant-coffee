@@ -20,13 +20,13 @@ New Media Gallery [ONLINE] | Create Electronic Music | Apr 10
 
 For students new to playing music
 
-https://bit.ly/2OpFKuD
+[https://bit.ly/2OpFKuD](https://bit.ly/2OpFKuD)
 
 4:30pm - 6:00pm ( Composers Ages 8-14)
 
 For students who play music or are familiar with music notation
 
-https://bit.ly/2NgEV6Y
+[https://bit.ly/2NgEV6Y](https://bit.ly/2NgEV6Y)
 
 Saturdays, Apr 10, 17 + 24, May 1
 

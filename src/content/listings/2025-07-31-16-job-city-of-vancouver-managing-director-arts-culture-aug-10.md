@@ -67,5 +67,5 @@ Salary Information: Pay Grade RNG-131: $154969 to $203905 per annum
 
 Application Close: August 10, 2025
 
-https://jobs.vancouver.ca/job/Vancouver-Managing-Director-Arts-&-Culture-Brit-V6A-
+[https://jobs.vancouver.ca/job/Vancouver-Managing-Director-Arts-&-Culture-Brit-V6A-](https://jobs.vancouver.ca/job/Vancouver-Managing-Director-Arts-&-Culture-Brit-V6A-)
 4K6/1309039000/

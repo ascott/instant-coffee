@@ -39,23 +39,23 @@ MacTilstra, Brynna Childs,
 MUSICAL ACCOMPANIMENT BY:
 
 ANIMAL BODIES
-http://www.myspace.com/animalbodies
-http://radio3.cbc.ca/#/bands/Animal-Bodies
-http://discorder.ca/discorder-magazine/index.php/2010/11/30/animal-bodies/
-http://needsmoreram.bandcamp.com/album/animal-bodies-cs
+[http://www.myspace.com/animalbodies](http://www.myspace.com/animalbodies)
+[http://radio3.cbc.ca/#/bands/Animal-Bodies](http://radio3.cbc.ca/#/bands/Animal-Bodies)
+[http://discorder.ca/discorder-magazine/index.php/2010/11/30/animal-bodies/](http://discorder.ca/discorder-magazine/index.php/2010/11/30/animal-bodies/)
+[http://needsmoreram.bandcamp.com/album/animal-bodies-cs](http://needsmoreram.bandcamp.com/album/animal-bodies-cs)
 
 CHANNELS 3x4
-http://www.myspace.com/ch3x4
+[http://www.myspace.com/ch3x4](http://www.myspace.com/ch3x4)
 
 MAGNETICRING
-http://soundcloud.com/magneticring
-http://www.oticsound.com/
+[http://soundcloud.com/magneticring](http://soundcloud.com/magneticring)
+[http://www.oticsound.com/](http://www.oticsound.com/)
 
 HOLZKOFT
-http://www.myspace.com/holzkopf
+[http://www.myspace.com/holzkopf](http://www.myspace.com/holzkopf)
 
 CRYSTAL DORVAL
-http://soundcloud.com/crystaldorval
+[http://soundcloud.com/crystaldorval](http://soundcloud.com/crystaldorval)
 
 Afterhours entertainment provided by:
 
@@ -63,18 +63,18 @@ JASON LEV
 (Sounds of Gold, History of Dance)
 
 LOVE DANCING
-http://www.facebook.com/lovedancing
+[http://www.facebook.com/lovedancing](http://www.facebook.com/lovedancing)
 
 Drop Out Video Arts Society
-http://www.dropoutvideo.com
+[http://www.dropoutvideo.com](http://www.dropoutvideo.com)
 
 BYOB and Artist Rafaël Rozendaal:
 
-http://www.byobworldwide.com/
+[http://www.byobworldwide.com/](http://www.byobworldwide.com/)
 
 W2
 
-http://www.creativetechnology.org
+[http://www.creativetechnology.org](http://www.creativetechnology.org)
 
 POSTER BY MELANIE COLES
-http://www.melanie-coles.com/
+[http://www.melanie-coles.com/](http://www.melanie-coles.com/)

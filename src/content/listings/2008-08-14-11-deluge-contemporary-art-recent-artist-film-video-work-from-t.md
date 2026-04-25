@@ -37,7 +37,7 @@ by UK and internationally based artists: Jordan Baseman, Dave Griffiths, Alexand
 Dunbar & Jack Holden, Jim Hollands, Esther Johnson, Lisa Keiko Kirton, Rob Kennedy, Jeremy 
 Newman, Alex Pearl, Erica Scourti, Josh Weinstein, and Marilyn Whittle.
 
-For more information visit http://www.deluge.ws
+For more information visit [http://www.deluge.ws](http://www.deluge.ws)
 
 Contact: Deborah de Boer/Todd Eacrett, (250) 385-3327
 

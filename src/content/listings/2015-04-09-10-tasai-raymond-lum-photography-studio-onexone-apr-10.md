@@ -30,4 +30,4 @@ Masters of Journalism from UBC, and has produced pieces for the CBC. (And,
 apparently, all of her professional credits rhyme.)
 
 Early bird tickets: $5 ($10 after April 08)
-http://www.tasai.ca/2015/03/23/onexone-april-edition/
+[http://www.tasai.ca/2015/03/23/onexone-april-edition/](http://www.tasai.ca/2015/03/23/onexone-april-edition/)

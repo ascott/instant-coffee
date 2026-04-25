@@ -21,4 +21,4 @@ Located in the window space of Gene coffee shop, on the corner of Main St and Ki
 
 Programmed by Guadalupe Martinez and Kate Moss.
 
-http://downdownonthecorner.tumblr.com/
+[http://downdownonthecorner.tumblr.com/](http://downdownonthecorner.tumblr.com/)

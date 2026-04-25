@@ -28,7 +28,7 @@ Katayoon Yousefbigloo, each work intimately embodies sounds, images, tastes,
 consciousness, and spirits in their physical relations to us, with the hope that our co-
 existence will become temporal, energetic, and successive in space.
 
-https://accessgallery.ca/programming/book-imaginary-beings
+[https://accessgallery.ca/programming/book-imaginary-beings](https://accessgallery.ca/programming/book-imaginary-beings)
 
 Access Gallery,
 222 E Georgia St, Vancouver, BC V6A 1Z7

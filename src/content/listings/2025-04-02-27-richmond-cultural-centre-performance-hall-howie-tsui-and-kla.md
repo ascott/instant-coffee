@@ -16,7 +16,7 @@ Thursday, April 10, 2025
 Location: Richmond Cultural Centre Performance Hall
 
 Register here for this free event
-https://www.eventbrite.com/e/lulu-lecture-series-howie-tsui-and-klara-manhal-tickets-
+[https://www.eventbrite.com/e/lulu-lecture-series-howie-tsui-and-klara-manhal-tickets-](https://www.eventbrite.com/e/lulu-lecture-series-howie-tsui-and-klara-manhal-tickets-)
 1261711676589
 
 The Breath Below, by Vancouver-based contemporary artist Howie Tsui, is a

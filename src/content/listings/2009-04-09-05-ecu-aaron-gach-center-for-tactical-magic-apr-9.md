@@ -36,4 +36,4 @@ Museum of Contemporary Art in Chicago and Grand Arts in Kansas. Recently he pres
 NYC as part of Creative Time's "Democracy in America: The National Campaign" and in Frankfurt, 
 Germany at the Frankfurter Kunstverein
 
-http://www.tacticalmagic.org/
+[http://www.tacticalmagic.org/](http://www.tacticalmagic.org/)

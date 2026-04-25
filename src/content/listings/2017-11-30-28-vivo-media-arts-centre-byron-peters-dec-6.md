@@ -24,5 +24,5 @@ school system.
 
 Exhibition runs November 16 - December 16, 2017
 
-Website: http://www.vivomediaarts.com/before-and-after-the-sixth-radar-conference/
-FB event: https://www.facebook.com/events/188054211753477/
+Website: [http://www.vivomediaarts.com/before-and-after-the-sixth-radar-conference/](http://www.vivomediaarts.com/before-and-after-the-sixth-radar-conference/)
+FB event: [https://www.facebook.com/events/188054211753477/](https://www.facebook.com/events/188054211753477/)

@@ -69,7 +69,7 @@ Application deadline: September 26, 2008
 
 Other internships are also available, 
 
-visit: http://www.banffcentre.ca/bnmi/training/workstudy/current.aspx for details. 
+visit: [http://www.banffcentre.ca/bnmi/training/workstudy/current.aspx](http://www.banffcentre.ca/bnmi/training/workstudy/current.aspx) for details. 
 
 For more information and to apply to these and other opportunities: 
 

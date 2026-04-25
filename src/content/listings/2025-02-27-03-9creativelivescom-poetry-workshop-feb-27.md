@@ -22,7 +22,7 @@ world. Different theme related to voice each week.
 
 6 participants max. 4 spots remaining.
 
-Free intro on Feb 27th from 6-7pm: https://form.jotform.com/242226623430245
+Free intro on Feb 27th from 6-7pm: [https://form.jotform.com/242226623430245](https://form.jotform.com/242226623430245)
 
-Learn more/register: https://9creativelives.com/classes/breathe-into-poetry-
+Learn more/register: [https://9creativelives.com/classes/breathe-into-poetry-](https://9creativelives.com/classes/breathe-into-poetry-)
 writing/workshops/voice-and-narrative-series/

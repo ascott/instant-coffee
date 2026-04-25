@@ -23,7 +23,7 @@ several independent cinemas throughout the province in compliance with COVID-19
 capacity restrictions and the latest provincial health and safety regulations. To explore
 VIFFs 2020 programming, and to purchase Single Tickets and Subscriptions, visit: viff.org
 
-https://viff.org
+[https://viff.org](https://viff.org)
 
 Address:
 VIFF Centre

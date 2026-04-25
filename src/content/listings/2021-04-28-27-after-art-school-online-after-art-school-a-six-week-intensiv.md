@@ -54,4 +54,4 @@ Art School is $85.
 For more information on accessible pricing options please reach out at
 thegatheredgallery@gmail.com
 
-https://www.thegatheredgallery.com/afterartschool
+[https://www.thegatheredgallery.com/afterartschool](https://www.thegatheredgallery.com/afterartschool)

@@ -23,7 +23,7 @@ Share your Self Portrait as a Pot with us on your Instagram feed or story by tag
 Insta, Facebook and Twitter to our 33+ thousand followers.
 
 Working from home with little ones? Find prompts, tips and easy-to-find materials on our
-website here: https://www.contemporaryartgallery.ca/cag-at-home/art-making-
+website here: [https://www.contemporaryartgallery.ca/cag-at-home/art-making-](https://www.contemporaryartgallery.ca/cag-at-home/art-making-)
 activities/self-portrait-as-a-pot/
 
 Or do us one better and show us how far you can take each activity!

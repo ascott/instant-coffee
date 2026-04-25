@@ -29,4 +29,4 @@ JEM Gallery
 Vancouver, BC, V6A 4G8
 
 
-http://http://www.facebook.com/thejemgallery
+[http://http://www.facebook.com/thejemgallery](http://http://www.facebook.com/thejemgallery)

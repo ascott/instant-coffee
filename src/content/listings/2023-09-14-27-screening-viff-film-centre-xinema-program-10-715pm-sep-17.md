@@ -13,7 +13,7 @@ XINEMA Program 10: Duties in the Domestic Cinema
 Sunday, September 17th, 7:15pm in VIFF's Vancity Theatre
 
 Tickets:
-https://viff.org/whats-on/xinema-program-10-domestic-cinema/
+[https://viff.org/whats-on/xinema-program-10-domestic-cinema/](https://viff.org/whats-on/xinema-program-10-domestic-cinema/)
 
 XINEMA
 presents: Duties in the Domestic Cinema, a collection of short films that
@@ -56,4 +56,4 @@ within and around "Vancouver", BC to strengthen and preserve the local
 experimental film scene.
 
 XINEMA
-https://www.instagram.com/xin3ma/
+[https://www.instagram.com/xin3ma/](https://www.instagram.com/xin3ma/)

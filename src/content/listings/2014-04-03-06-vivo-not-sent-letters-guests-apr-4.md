@@ -51,7 +51,7 @@ instigates each event as an extension of his ongoing Not Sent Letters Project,
 an entanglement with the production of meaning, self and cultural memory, 
 involving image/text epistolary detours online (since 2005), digital shorts, 
 interdisciplinary performance works and cooperatively realized public events: 
-http://notsentlettersproject.com/
+[http://notsentlettersproject.com/](http://notsentlettersproject.com/)
 
 Coupe
 is a multi-disciplinary artist collective experimenting with the construction of 
@@ -156,7 +156,7 @@ interdisciplinary artists Elizabeth Milton & Graham Meisner. The work
 incorporates performance, projections, live scoring, reading, audience 
 engagement and play with letters to Loading My Pack, Columbo Devotees and 
 Typing Into The Internet, from the project archive:
-http://notsentlettersproject.com/category/letters
+[http://notsentlettersproject.com/category/letters](http://notsentlettersproject.com/category/letters)
 
 Email
 Jeremy Todd to HOST or CONTRIBUTE to a future Not Sent Letters & Guests 
@@ -164,11 +164,11 @@ event: jeremytodd@notsentlettersproject.com
 
 Explore
 previous Not Sent Letters & Guests events here:
-http://notsentlettersproject.com/category/events
+[http://notsentlettersproject.com/category/events](http://notsentlettersproject.com/category/events)
 
 For Notifications
 and news “like”  the Not Sent Letters Project facebook page:
-https://www.facebook.com/pages/Not-Sent-Letters-
+[https://www.facebook.com/pages/Not-Sent-Letters-](https://www.facebook.com/pages/Not-Sent-Letters-)
 Project/147882091946917
 
 SPECIAL THANKS to all VIVO Media Arts Centre Staff & Volunteers.

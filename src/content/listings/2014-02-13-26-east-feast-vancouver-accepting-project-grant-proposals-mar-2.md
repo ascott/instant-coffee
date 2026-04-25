@@ -44,7 +44,7 @@ June 2015 for the winning project Winning artist(s) to present at EAST FEAST
 - Promotion and networking opportunities through event presentation and on 
 our project website
 
-COMPLETE SUBMISSION INFO: http://eastfeastvancouver.wordpress.com
+COMPLETE SUBMISSION INFO: [http://eastfeastvancouver.wordpress.com](http://eastfeastvancouver.wordpress.com)
 
 East FEAST Vancouver is organized by
 Britannia Community Services Centre Society and the Britannia Arts & Culture 
@@ -56,4 +56,4 @@ Laura Bucci
 Arts & Culture Committee
 Britannia Community Services Centre Society
 
-http://eastfeastvancouver.wordpress.com
+[http://eastfeastvancouver.wordpress.com](http://eastfeastvancouver.wordpress.com)

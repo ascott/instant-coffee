@@ -35,7 +35,7 @@ stories, lands and waters at
 the heart of his work.
 
 For more information, please visit:
-https://www.burnaby.ca/recreation-and-arts/arts-and-culture-facilities/burnaby-art-
+[https://www.burnaby.ca/recreation-and-arts/arts-and-culture-facilities/burnaby-art-](https://www.burnaby.ca/recreation-and-arts/arts-and-culture-facilities/burnaby-art-)
 gallery/exhibitions/roy-henry-vickers
 
 
@@ -58,13 +58,13 @@ Burnaby Art Gallery
 6344 Deer Lake Ave
 
 April 22:
-https://anc.ca.apm.activecommunities.com/burnaby/activity/search/detail/20556?
+[https://anc.ca.apm.activecommunities.com/burnaby/activity/search/detail/20556](https://anc.ca.apm.activecommunities.com/burnaby/activity/search/detail/20556)?
 onlineSiteId=0&from_original_cui=true
 
 April 29:
-https://anc.ca.apm.activecommunities.com/burnaby/activity/search/detail/20624?
+[https://anc.ca.apm.activecommunities.com/burnaby/activity/search/detail/20624](https://anc.ca.apm.activecommunities.com/burnaby/activity/search/detail/20624)?
 onlineSiteId=0&from_original_cui=true
 
 May 6:
-https://anc.ca.apm.activecommunities.com/burnaby/activity/search/detail/20625?
+[https://anc.ca.apm.activecommunities.com/burnaby/activity/search/detail/20625](https://anc.ca.apm.activecommunities.com/burnaby/activity/search/detail/20625)?
 onlineSiteId=0&from_original_cui=true

@@ -23,4 +23,4 @@ fishing industry. This exhibit will feature artefacts from the Cannerys collecti
 have not been seen in over a decade! Celebrate with us at the exhibition opening on
 Saturday, May 10th from 12:30pm to 2:30pm.
 
-Website: https://gulfofgeorgiacannery.org/exhibits/cannery-recollections-exhibit/
+Website: [https://gulfofgeorgiacannery.org/exhibits/cannery-recollections-exhibit/](https://gulfofgeorgiacannery.org/exhibits/cannery-recollections-exhibit/)

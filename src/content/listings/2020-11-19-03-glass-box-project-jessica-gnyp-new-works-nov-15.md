@@ -11,7 +11,7 @@ summary: "Glass Box Project | Jessica Gnyp, new works | NOV 15"
 Jessica Gnyp, new works at Glass Box Projects
 November 15th to December 21st
 Open hours on Sundays 12pm - 6pm and by appointment
-book your visit via https://www.setarehyasan.net/glass-box-project
+book your visit via [https://www.setarehyasan.net/glass-box-project](https://www.setarehyasan.net/glass-box-project)
 
 Glass Box Projects is pleased to present new works by artist Jessica Gnyp. Jessica
 Gnyps artistic work engages with materials and processes used in museum and

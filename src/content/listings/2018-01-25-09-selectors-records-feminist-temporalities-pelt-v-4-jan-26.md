@@ -46,4 +46,4 @@ fabulous; historical time, felt time; the non-monumental rhythms that may be at 
 below the thresholds of human perception, but also the vast swaths of geologic time that 
 may supersede them; wild dreams; the patriarchy; the law.
 
-https://www.facebook.com/events/1478212968942740/
+[https://www.facebook.com/events/1478212968942740/](https://www.facebook.com/events/1478212968942740/)

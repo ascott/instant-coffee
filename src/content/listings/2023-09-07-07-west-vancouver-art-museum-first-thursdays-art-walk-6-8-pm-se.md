@@ -19,4 +19,4 @@ Live Painting with Sonia Mocnik
 
 Live Music with Doug Medley & the Salish Sea Celts
 
-Learn more about the walk and see the map: https://westvanartscouncil.ca/firstthursday
+Learn more about the walk and see the map: [https://westvanartscouncil.ca/firstthursday](https://westvanartscouncil.ca/firstthursday)

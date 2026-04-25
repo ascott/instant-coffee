@@ -36,31 +36,31 @@ Alexander Miranda, Eric Miranda, Matt Munn, Gordon Nicholas, Robert Ondzik,
 Craig Pettman, Aaron Read, Louise Reimer, Bob Scott, Weronika Stepien, 
 White Swallows, Casper Tayari, Anya Vetrova, Se Virtua, Tom Whalen, 
 Hershey Wollwurtz, Sharlena Wonnick, Jessica Yeandle-Hignell & Zine Club. 
-More info: https://www.facebook.com/events/240148612850923
+More info: [https://www.facebook.com/events/240148612850923](https://www.facebook.com/events/240148612850923)
 
 // FRIDAY JUNE 6
 
 Ask Around: Photographs by Steve Louie
 7PM - 11PM
 Remington Gallery - 108 E Hastings
-More info: https://www.facebook.com/events/657757607628782
+More info: [https://www.facebook.com/events/657757607628782](https://www.facebook.com/events/657757607628782)
 
 Again and Again
 Works by Caitlin McDonagh, Ola Volo, Andrea Wan
 8PM - Late
 Gam Gallery - 110 E Hastings
-More info: https://www.facebook.com/events/417189451754181/
+More info: [https://www.facebook.com/events/417189451754181/](https://www.facebook.com/events/417189451754181/)
 
 Moving Around
 Works by Tylor Macmillan
 7PM - 10PM
 Red Gate - 855 E Hastings
-More info: https://www.facebook.com/events/783330718367418/
+More info: [https://www.facebook.com/events/783330718367418/](https://www.facebook.com/events/783330718367418/)
 
 Day/Night/Artificial Light
 7PM - 10PM
 Cineworks - 235 Alexander
-More info: http://www.cineworks.ca/events/day/2014/06/06/
+More info: [http://www.cineworks.ca/events/day/2014/06/06/](http://www.cineworks.ca/events/day/2014/06/06/)
 
 // SATURDAY JUNE 7
 
@@ -71,7 +71,7 @@ Toast Collective - 648 Kingsway
 Print Ready Zine Show
 4PM - 11PM
 Dynamo Arts Association - 30 East 6th
-More info: https://www.facebook.com/events/878642722162027/
+More info: [https://www.facebook.com/events/878642722162027/](https://www.facebook.com/events/878642722162027/)
 
 The Taste for Eternity at Bargain Prices (and For a Handy Pocket-sized 
 Absolute)
@@ -79,6 +79,6 @@ Works by: Tara Dwelsdorf, Kristina Jaggard, Ashlee Luk, Andrea Lukic,
 Caitlin Prince, Hannah Tollefson, Sara Wylie and Katayoon Yousefbigloo
 7PM - 11PM
 Avenue Gallery - 165 E Hastings
-More info: https://www.facebook.com/events/276391215875217/
+More info: [https://www.facebook.com/events/276391215875217/](https://www.facebook.com/events/276391215875217/)
 
 // ART WASTE // artwaste.tumblr.com // artwaste2014@gmail.com

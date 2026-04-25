@@ -54,7 +54,7 @@ limited and registration for the event is mandatory.
 Register at: programs@moa.ubc.ca
 Parking for the event is available at the Rosegarden Parkade.
 
-http://othersights.ca/
+[http://othersights.ca/](http://othersights.ca/)
 
 Follow us on twitter @diginativ
 

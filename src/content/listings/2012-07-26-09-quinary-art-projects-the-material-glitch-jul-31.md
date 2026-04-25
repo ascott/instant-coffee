@@ -59,6 +59,6 @@ Imhotep
 Matilda Aslizadeh
 
 Read a more extensive Conceptual Introduction 
-(http://materialglitch.tumblr.com/introduction) and visit/subscribe to the 
-Web Archive (http://materialglitch.tumblr.com) for more material 
+([http://materialglitch.tumblr.com/introduction](http://materialglitch.tumblr.com/introduction)) and visit/subscribe to the 
+Web Archive ([http://materialglitch.tumblr.com](http://materialglitch.tumblr.com)) for more material 
 glitches.

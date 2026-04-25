@@ -13,7 +13,7 @@ City of Vancouver Artist Live/Work Studios: Deadline
 REMINDER: The deadline for applications to the Artist Live/Work Studio 
 Program is October 7th, 2011 at 4:30 PM. For general information on the 
 Program, photos of the studios, and ftp submission instructions, please access: 
-http://vancouver.ca/commsvcs/cultural/gasp/awards/artiststudio/index.htm
+[http://vancouver.ca/commsvcs/cultural/gasp/awards/artiststudio/index.htm](http://vancouver.ca/commsvcs/cultural/gasp/awards/artiststudio/index.htm)
 
 Incubating Talent - City to Award Four Artist Live/Work Studios
 

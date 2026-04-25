@@ -50,4 +50,4 @@ an exhibition featuring the sound art of Frederick C. Brummer, Ian
 Gregory James, Lee Hutzulak and Giorgio Magnanensi.
 
 Surrey Art Gallery is located at 13750 - 88 Avenue, Surrey, BC.
-604-501-5566 | www.arts.surrey.ca <http://www.arts.surrey.ca>
+604-501-5566 | www.arts.surrey.ca <[http://www.arts.surrey.ca](http://www.arts.surrey.ca)>

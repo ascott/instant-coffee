@@ -45,6 +45,6 @@ or phone the Charles H. Scott Gallery at 604.844.3809
 READ Books
 Charles H. Scott Gallery / Emily Carr University
 1399 Johnston Street, Vancouver, BC Canada V6H 3R9
-Tel: 604.844.3809, http://chscottgallery.eciad.ca
+Tel: 604.844.3809, [http://chscottgallery.eciad.ca](http://chscottgallery.eciad.ca)
 
 --

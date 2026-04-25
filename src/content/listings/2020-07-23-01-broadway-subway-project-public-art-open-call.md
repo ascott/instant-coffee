@@ -22,8 +22,8 @@ teams will be invited to participate in a Concept Proposal Presentation Stage. T
 selection will be made by the end of 2020.
 
 Information on the public art call is available on the Broadway Subway Project website
-https://engage.gov.bc.ca/broadwaysubway/procurement/. You can also find the
-opportunity on BC Bid at http://www.bcbid.gov.bc.ca/open.dll/submitLogin?
+[https://engage.gov.bc.ca/broadwaysubway/procurement/](https://engage.gov.bc.ca/broadwaysubway/procurement/). You can also find the
+opportunity on BC Bid at [http://www.bcbid.gov.bc.ca/open.dll/submitLogin](http://www.bcbid.gov.bc.ca/open.dll/submitLogin)?
 language=En&disID=45347246. To download the document from BC Bid, click on
 "Supplier Attachments Exist" in the top right-hand corner of the screen.
 
@@ -39,4 +39,4 @@ contact
 TICorpProposalContact@ticorp.ca.
 
 For more information on the Broadway Subway Project visit
-http://engage.gov.bc.ca/broadwaysubway/.
+[http://engage.gov.bc.ca/broadwaysubway/](http://engage.gov.bc.ca/broadwaysubway/).

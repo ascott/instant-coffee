@@ -66,13 +66,13 @@ aims to help a wider public understand contemporary art, demystify the art world
 people closer to art.
 
 Register on Eventbrite:
-https://www.eventbrite.ca/e/trascendiendo-fronteras-exploring-migration-through-visual-
+[https://www.eventbrite.ca/e/trascendiendo-fronteras-exploring-migration-through-visual-](https://www.eventbrite.ca/e/trascendiendo-fronteras-exploring-migration-through-visual-)
 art-part-ii-tickets-116692798301
 
 Or through FB:
 
-https://www.facebook.com/events/384290736079002/
+[https://www.facebook.com/events/384290736079002/](https://www.facebook.com/events/384290736079002/)
 
 Or Instagram:
 
-https://www.instagram.com/vlacc_ca/
+[https://www.instagram.com/vlacc_ca/](https://www.instagram.com/vlacc_ca/)

@@ -12,7 +12,7 @@ February 12, 2021
 
 7-8:30PM
 
-Online via Zoom (link available upon registration: https://bit.ly/3iDIbVm)
+Online via Zoom (link available upon registration: [https://bit.ly/3iDIbVm](https://bit.ly/3iDIbVm))
 
 FREE
 

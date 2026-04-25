@@ -19,9 +19,9 @@ events and web projects. A curatorial committee of 5-9 people consisting of cura
 programming staff, board members and artists meets for 5 days every August to
 review submissions.
 
-Full details: https://grunt.ca/submissions/
+Full details: [https://grunt.ca/submissions/](https://grunt.ca/submissions/)
 
-Submission form: https://forms.gle/eeccyQ9E9dW9JMpD7
+Submission form: [https://forms.gle/eeccyQ9E9dW9JMpD7](https://forms.gle/eeccyQ9E9dW9JMpD7)
 
 *If Google Forms are not accessible to you, you can submit your proposal by mail or
 by email: submissions@grunt.ca (Max. attachment size 25MB, you may send

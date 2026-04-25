@@ -16,7 +16,7 @@ Free admission
 
 Preview the works in Western Front's 42nd Anniversary Auction. All welcome
 to attend!
-View the catalogue online: http://westernfrontauction2015.tumblr.com/
+View the catalogue online: [http://westernfrontauction2015.tumblr.com/](http://westernfrontauction2015.tumblr.com/)
 
 For more information about the Gala Dinner and Live Auction on Feb 28th,
 please contact 604-876-9343 or development@front.bc.ca.

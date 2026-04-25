@@ -18,7 +18,7 @@ $35 + taxes | Concession
 $30 + taxes | Member Admission
 
 REGISTER: 
-https://16mm-basics-bolex-mar.eventbrite.ca
+[https://16mm-basics-bolex-mar.eventbrite.ca](https://16mm-basics-bolex-mar.eventbrite.ca)
 
 A 3 hour entry-level workshop introducing participants to the principles and practice of 
 exposing film with a Bolex 16mm film camera
@@ -35,7 +35,7 @@ Film shot in this workshop will be processed at the 16mm Basics: Intro to Hand
 Processing workshop on Sunday 26 Mar. If interested in both components, please 
 register for the Hand Processing workshop via the following link:
 
-https://16mm-basics-hand-processing-mar.eventbrite.ca
+[https://16mm-basics-hand-processing-mar.eventbrite.ca](https://16mm-basics-hand-processing-mar.eventbrite.ca)
 
 Please note: access to membership discounts can be obtained with a Cineworks 
 General Membership ($40 annually). Please call 604-685-3841 for details, or come to 

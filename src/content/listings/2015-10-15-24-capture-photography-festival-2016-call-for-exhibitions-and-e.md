@@ -28,4 +28,4 @@ present a diverse range of subject matter.
 
 Please find full exhibition and events submission requirements here:
 
-http://capturephotofest.com/were-accepting-submissions-for-the-2016-festival/
+[http://capturephotofest.com/were-accepting-submissions-for-the-2016-festival/](http://capturephotofest.com/were-accepting-submissions-for-the-2016-festival/)

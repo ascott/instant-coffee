@@ -25,4 +25,4 @@ $60 General Admission
 $55 Students, Seniors and MOV Members
 $50 Indigenous people
 
-https://museumofvancouver.ca/intro-to-comic-making
+[https://museumofvancouver.ca/intro-to-comic-making](https://museumofvancouver.ca/intro-to-comic-making)

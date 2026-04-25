@@ -86,4 +86,4 @@ Only short-listed applicants will be contacted.
 
 APPLICATION DEADLINE: April 30, 2008 
 
-http://www.artspeak.ca
+[http://www.artspeak.ca](http://www.artspeak.ca)

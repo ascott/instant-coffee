@@ -51,4 +51,4 @@ Admission: Always free and open to all!
 Gallery hours: Saturdays, 12-5pm
 Contact info: info@griffinartprojects.ca (604) 985-0136
 Location: 1174 Welch Street, North Vancouver, BC V7P 1B2
-http://www.griffinartprojects.ca
+[http://www.griffinartprojects.ca](http://www.griffinartprojects.ca)

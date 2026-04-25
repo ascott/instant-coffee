@@ -22,7 +22,7 @@ Two sessions, 9 hours total | $70, or $58 with VIVO Extended Producer Membership
 Session 1: Saturday Aug 26, 1pm-5:30pm
 Session 2: Saturday Sep 2, 1pm-5:30pm
 
-Sign up on Eventbrite - https://blackmagic_colourcorrection.eventbrite.ca
+Sign up on Eventbrite - [https://blackmagic_colourcorrection.eventbrite.ca](https://blackmagic_colourcorrection.eventbrite.ca)
 Or email us at education@vivomediaarts.com or call 604-872-8337
 
 This workshop covers The Blackmagic Cinema Camera, one of VIVO's most
@@ -33,4 +33,4 @@ work! Learn how to use them through practical demonstrations and hands-on
 exercises, using footage you shoot and colour correct over two sessions.
 
 Visit VIVO Education for many more details:
-http://www.vivomediaarts.com/education/upcoming-workshops
+[http://www.vivomediaarts.com/education/upcoming-workshops](http://www.vivomediaarts.com/education/upcoming-workshops)

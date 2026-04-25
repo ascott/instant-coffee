@@ -37,7 +37,7 @@ line joining them at a position such that the products of the distance to each b
 mass of each body are equal. Thus, Earth and the Moon move in complementary orbits
 about their common centre of mass."
 
-https://www.britannica.com/science/gravity-physics/Interaction-between-celestial-bodies
+[https://www.britannica.com/science/gravity-physics/Interaction-between-celestial-bodies](https://www.britannica.com/science/gravity-physics/Interaction-between-celestial-bodies)
 
 Address:
 4282 Perry Street (entrance at the backyard)

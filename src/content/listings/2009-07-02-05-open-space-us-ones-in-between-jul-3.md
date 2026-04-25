@@ -26,7 +26,7 @@ An opening reception will take place on Friday July 3, 8pm featuring music by Xa
 St. Christopher. 
 The closing will feature a screening, Tough Stuff from the Buff: experimental & activist video from 
 the fringes of buffalo, ny. on Friday July 24 at 8pm.
-http://tuffstuffbuff.wordpress.com/ 
+[http://tuffstuffbuff.wordpress.com/](http://tuffstuffbuff.wordpress.com/) 
 Every Tuesday at 8pm throughout the show’s duration Art Jams will commence, featuring film 
 screenings and drawing jams.
 Schedule:
@@ -43,4 +43,4 @@ V8W 1E6
 
 V 250-383-8833
 E openspace@openspace.ca
-W http://www.openspace.ca/web/
+W [http://www.openspace.ca/web/](http://www.openspace.ca/web/)

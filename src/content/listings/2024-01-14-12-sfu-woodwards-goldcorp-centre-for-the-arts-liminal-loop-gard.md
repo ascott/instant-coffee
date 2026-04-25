@@ -44,4 +44,4 @@ Wurzinger.
 Run Time includes a post-show Q & A.
 
 Tickets by donation:
-https://www.eventbrite.ca/e/liminal-loop-garden-tickets-778626200927
+[https://www.eventbrite.ca/e/liminal-loop-garden-tickets-778626200927](https://www.eventbrite.ca/e/liminal-loop-garden-tickets-778626200927)

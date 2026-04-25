@@ -33,5 +33,5 @@ Time: 2:30 PM - 5 PM
 Location: CICA
 Vancouver (228 Abbott Street, Vancouver BC V6B 1C8)
 
-Register here: https://www.eventbrite.ca/e/3d-plasticine-character-making-workshop-
+Register here: [https://www.eventbrite.ca/e/3d-plasticine-character-making-workshop-](https://www.eventbrite.ca/e/3d-plasticine-character-making-workshop-)
 by-weskin-will-hannan-tickets-921130314567

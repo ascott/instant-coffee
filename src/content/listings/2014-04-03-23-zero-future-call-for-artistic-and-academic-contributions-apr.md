@@ -19,5 +19,5 @@ contributions around the theme ZERO FUTURE. Deadline for submitting proposals
 is April 14.
 
 Please find the call both in English and French language in the attachment, and 
-online here: http://www.studioxx.org/newsletter/HTMlles11-
+online here: [http://www.studioxx.org/newsletter/HTMlles11-](http://www.studioxx.org/newsletter/HTMlles11-)
 AppelTextesCallPapers.xhtml

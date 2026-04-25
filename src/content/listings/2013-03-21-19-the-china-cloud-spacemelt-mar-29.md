@@ -36,6 +36,6 @@ collective music and art-making. It has been their experience that the
 stronger their voice and facility with instant structures, the less need 
 there is for verbal instruction and decisions in advance.
 
-http://www.spacemelt.ca
-http://www.facebook.com/spacemelt
-http://www.facebook.com/events/415067061912367/
+[http://www.spacemelt.ca](http://www.spacemelt.ca)
+[http://www.facebook.com/spacemelt](http://www.facebook.com/spacemelt)
+[http://www.facebook.com/events/415067061912367/](http://www.facebook.com/events/415067061912367/)

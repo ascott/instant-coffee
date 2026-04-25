@@ -27,5 +27,5 @@ below)
 Exhibition dates: March 15-23, 2024
 Public reception: Saturday, March 16, noon " 4
 
-Visit https://thisgallery.org/6x6-exhibition-submission-form/ to read the full
+Visit [https://thisgallery.org/6x6-exhibition-submission-form/](https://thisgallery.org/6x6-exhibition-submission-form/) to read the full
 submission guidelines

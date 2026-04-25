@@ -23,7 +23,7 @@ Back entrance
 
 Exhibition runs Apr 8 to May 13
 
-http://spare-room.ca/current-upcoming
+[http://spare-room.ca/current-upcoming](http://spare-room.ca/current-upcoming)
 
 _
 

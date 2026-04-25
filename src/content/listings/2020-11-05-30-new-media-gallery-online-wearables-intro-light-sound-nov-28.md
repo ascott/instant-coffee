@@ -22,7 +22,7 @@ Processing software.
 Requirements: Purchase of a base Lilypad wearable kit.
 
 Commercially:
-https://bit.ly/3bPPmGz
+[https://bit.ly/3bPPmGz](https://bit.ly/3bPPmGz)
 + Arduino IDE, micro-B USB cable, sewing materials.
 
 Virtual Learning Lab - Zoom Invitation
@@ -34,7 +34,7 @@ Saturdays, November 28, December 5
 1:30pm - 4:00pm
 
 47976 -
-https://bit.ly/2Zmzarm
+[https://bit.ly/2Zmzarm](https://bit.ly/2Zmzarm)
 
 Registration Fee $30 (2 classes)
 

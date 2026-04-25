@@ -27,4 +27,4 @@ This will be a 60 minute Zoom event (talk 30 minutes with 30 minute
 participation/discussion).
 September 18, 6:00 - 7:00 pm, Pay what you can.
 
-https://www.mobil-art.ca/event-info/jairo-salazar-art-history-talk-and-discussion
+[https://www.mobil-art.ca/event-info/jairo-salazar-art-history-talk-and-discussion](https://www.mobil-art.ca/event-info/jairo-salazar-art-history-talk-and-discussion)

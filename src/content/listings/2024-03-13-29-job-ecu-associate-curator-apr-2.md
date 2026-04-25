@@ -159,7 +159,7 @@ community,
 and the strategic goals of the University.
 Perform other related duties as required.
 
-To apply for this job, please visit https://ecuad.peopleadmin.ca. Competition closes
+To apply for this job, please visit [https://ecuad.peopleadmin.ca](https://ecuad.peopleadmin.ca). Competition closes
 on
 Tuesday, 2 April 2024.
 

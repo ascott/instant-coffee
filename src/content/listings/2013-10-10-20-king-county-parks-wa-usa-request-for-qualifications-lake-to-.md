@@ -33,7 +33,7 @@ corridor.
 Budget: up to $110,000 USD (all inclusive).
 
 For full details on the project and submission requirements go to:
-http://www.4culture.org/apply/index.aspx
+[http://www.4culture.org/apply/index.aspx](http://www.4culture.org/apply/index.aspx)
 
 Please direct any questions to 
 jordan.howland@4culture.org<mailto:jordan.howland@4culture.org> or 

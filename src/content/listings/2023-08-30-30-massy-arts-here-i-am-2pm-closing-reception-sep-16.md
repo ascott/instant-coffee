@@ -23,4 +23,4 @@ Kitten.
 Here I am, in the in-between/In Process, and Blue-Collar Sex Kitten run until
 September 21st. The gallery is open Wednesday to Sunday, 12pm to 5pm.
 
-https://massyarts.com/event/closing-reception-kyla-gilbert-otilia-sabina-nico-mcgiffin/
+[https://massyarts.com/event/closing-reception-kyla-gilbert-otilia-sabina-nico-mcgiffin/](https://massyarts.com/event/closing-reception-kyla-gilbert-otilia-sabina-nico-mcgiffin/)

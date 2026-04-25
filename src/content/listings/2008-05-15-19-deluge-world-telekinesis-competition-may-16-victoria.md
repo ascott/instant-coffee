@@ -50,9 +50,9 @@ About Noxious Sector
 Noxious Sector is a formalized forum for informal inquiry. Dedicated to the exploration of questions of the imaginative, the paranormal and the absurd, Noxious Sector attempts to redefine the meaning of artistic possibility through extended propositions that challenge consensual norms while also provoking stimulating forums for dialogue and discourse.
 
 
-http://www.noxioussector.net
+[http://www.noxioussector.net](http://www.noxioussector.net)
 
-http://www.deluge.ws
+[http://www.deluge.ws](http://www.deluge.ws)
 
 
 Contact: Deborah de Boer, Director/Curator

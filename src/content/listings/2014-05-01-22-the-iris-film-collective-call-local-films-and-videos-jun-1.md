@@ -36,7 +36,7 @@ Please spread the word…
 -The Iris Film Collective
 
 follow us at
-http://irisfilmcollective.tumblr.com/
+[http://irisfilmcollective.tumblr.com/](http://irisfilmcollective.tumblr.com/)
 
 23. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.
@@ -47,7 +47,7 @@ The Toast Collective is currently looking to support event rentals, workshops,
 practices and people that need space on an interim basis! 
 Please email andreacreamer@gmail.com with project proposals and to 
 discuss low barrier and accessible rates. Or fill out a form here to propose 
-ideas and events: http://thetoast.org/rentals/
+ideas and events: [http://thetoast.org/rentals/](http://thetoast.org/rentals/)
 
 We are also seeking new collective membership, to share in the use of our 
 collective flex space on an ongoing basis. Collective Membership Rent is 
@@ -55,7 +55,7 @@ $200/month. This gives you access to the entire space on the dates you
 choose to use, 
 we have a kitchen, storage spaces, and a main flex use space that has 
 hosted a variety of events and practices and often acts as a gallery space. 
-See a map of the main space here:http://thetoast.org/the-space/
+See a map of the main space here:[http://thetoast.org/the-space/](http://thetoast.org/the-space/)
 
 About the Toast Collective:
 
@@ -73,7 +73,7 @@ workshops.
 Some things we value are: arts, inclusiveness, community, shared/pooled 
 resources, accessibility
 
-To learn more: http://thetoast.org/ 
+To learn more: [http://thetoast.org/](http://thetoast.org/) 
 
 instant coffee service providers specializing in dead cliche retrieval, outmoded media revivial, zepplin launches and blame
 

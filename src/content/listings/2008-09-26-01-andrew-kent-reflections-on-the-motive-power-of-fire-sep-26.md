@@ -16,7 +16,7 @@ Time: 7:30pm - 10:30pm
 Location: Warehouse Space
 Address: 8559 Main Street, Vancouver BC
 Map:
-http://maps.google.ca/maps?f=q&hl=en&geocode=&q=8559+Main+St,+Vancouver,+BC&sll=49.891235,-97.15369&sspn=40.598246,74.970703&ie=UTF8&z=16&iwloc=addr
+[http://maps.google.ca/maps?f=q&hl=en&geocode=&q=8559+Main+St,+Vancouver,+BC&sll=49.891235,-97.15369&sspn=40.598246,74.970703&ie=UTF8&z=16&iwloc=addr](http://maps.google.ca/maps?f=q&hl=en&geocode=&q=8559+Main+St,+Vancouver,+BC&sll=49.891235,-97.15369&sspn=40.598246,74.970703&ie=UTF8&z=16&iwloc=addr)
 
 * The installation will be available to view during the Friday Sept. 26th
 evening opening, Saturday Sept. 27th 12pm to 5pm and Sunday Sept. 28th 12pm

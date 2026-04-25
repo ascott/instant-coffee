@@ -14,7 +14,7 @@ storefront
 located in the heart of Main St.
 
 SUBMIT your work here:
-https://docs.google.com/forms/d/e/1FAIpQLSc_BsXgH3LbNaj8XGuBMz2oiutzKt2oeZ0
+[https://docs.google.com/forms/d/e/1FAIpQLSc_BsXgH3LbNaj8XGuBMz2oiutzKt2oeZ0](https://docs.google.com/forms/d/e/1FAIpQLSc_BsXgH3LbNaj8XGuBMz2oiutzKt2oeZ0)
 8WXgFBG5eF8Ni9A/viewform?pli=1
 
 Pressure Point is a reduced-barriers space for local artists to sell their art work in a
@@ -25,4 +25,4 @@ targeted by systemic barriers. Pressure Point prioritizes support for local emer
 2SLGBTQIA+ and BIPoC artists in so-called Vancouver. To find out more about
 Pressure Point, visit our website:
 
-https://www.thejamesblack.gallery/pressurepoint
+[https://www.thejamesblack.gallery/pressurepoint](https://www.thejamesblack.gallery/pressurepoint)

@@ -15,7 +15,7 @@ Methods for Engaging Health, Science and Social Justice
 
 Please join us for the third in a series of free talks presented by the SCA's Dance Area.
 
-Zoom link: https://sfu.zoom.us/j/63683882088?
+Zoom link: [https://sfu.zoom.us/j/63683882088](https://sfu.zoom.us/j/63683882088)?
 pwd=Q1NydnM3OUNMbVVBT1ltNEdjNENjQT09#success
 
 Caro Novella is a performing artist-researcher and doctoral candidate in Performance

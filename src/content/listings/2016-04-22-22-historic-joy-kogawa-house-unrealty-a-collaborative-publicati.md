@@ -55,7 +55,7 @@ whether this work is in progress/ completed/ can be completed by May
 
 Proposals for the physical publication are due on May 5th. Ongoing 
 submissions for online content will be accepted until May 21st.
-For more information, visit: http://www.unrealtyvan.wordpress.com, or 
+For more information, visit: [http://www.unrealtyvan.wordpress.com](http://www.unrealtyvan.wordpress.com), or 
 contact: unrealtyvan@outlook.com.
 
 --

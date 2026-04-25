@@ -56,4 +56,4 @@ irrepressible systems of production and erosion.
 
 (written by Lee Plested)
 
-http://www.blanketgallery.com
+[http://www.blanketgallery.com](http://www.blanketgallery.com)

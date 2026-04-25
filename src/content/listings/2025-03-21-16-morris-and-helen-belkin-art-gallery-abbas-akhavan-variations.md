@@ -31,4 +31,4 @@ followed by a public reception at Green College.
 Abbas Akhavan's talk is presented by Green College with support from the Belkin
 and the Department of Art History, Visual Art and Theory.
 
-https://belkin.ubc.ca/events/artist-talk-abbas-akh
+[https://belkin.ubc.ca/events/artist-talk-abbas-akh](https://belkin.ubc.ca/events/artist-talk-abbas-akh)

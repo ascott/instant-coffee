@@ -37,7 +37,7 @@ Western Front staff will bake the cupcakes for the contest. Please
 bring your own inspired and original supplies for cupcake decoration!
 
 Grand prize to be announced.
-Please check http://www.front.bc.ca for more information.
+Please check [http://www.front.bc.ca](http://www.front.bc.ca) for more information.
 
 --
 Alissa Firth-Eagland

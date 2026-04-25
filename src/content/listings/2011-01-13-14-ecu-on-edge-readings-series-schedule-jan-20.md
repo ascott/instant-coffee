@@ -49,7 +49,7 @@ Award. She has been twice short-listed for Event magazine's literary
 non-fiction prize. She is a co-editor of and contributor to the 
 anthology, Double Lives: Writing and Motherhood, published by 
 MGill-Queens University Press (2008). Her latest book of poetry is 
-Enter the Chrysanthemum (2009). http://fionalam.net/
+Enter the Chrysanthemum (2009). [http://fionalam.net/](http://fionalam.net/)
 
 Montreal poet Erín Moure writes mainly in English, albeit 
 multilingually. She considers translation to be part of her practice, 

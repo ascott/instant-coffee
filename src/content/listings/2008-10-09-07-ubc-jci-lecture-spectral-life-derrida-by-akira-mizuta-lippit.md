@@ -40,7 +40,7 @@ cinema, which looks at the relationship of late-twentieth and early
 twenty-first century Japanese culture to the concept of the world.
 
 For details, see:
-http://ahva.ubc.ca/eventsCurrentJCI.cfm
+[http://ahva.ubc.ca/eventsCurrentJCI.cfm](http://ahva.ubc.ca/eventsCurrentJCI.cfm)
 
 Public Lecture: Tuesday October 14th 5:30pm Lasserre 102
 

@@ -15,7 +15,7 @@ DEADLINE:
 Jun. 25, 2024
 
 WEBSITE:
-http://standrewswesley.com/artist-in-residency/
+[http://standrewswesley.com/artist-in-residency/](http://standrewswesley.com/artist-in-residency/)
 
 CALL FOR ARTISTS DESCRIPTION:
 We are seeking a visual or literary artist for residency period
@@ -95,7 +95,7 @@ and integrity.
 Duration: Oct 2024-Feb 2025.
 
 HOW TO APPLY:
-Please apply at https://standrewswesley.com/artist-in-residency/ Applications
+Please apply at [https://standrewswesley.com/artist-in-residency/](https://standrewswesley.com/artist-in-residency/) Applications
 accepted from April 5 2024- June 25 2024. Review, processing and short list of
 artists created by Aug 15. Interviews in Aug/Sept 24. Announcement of successful
 application Sept 5 2024. Residency starts Oct 1 2024 and ends Feb 28 2025.

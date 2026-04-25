@@ -14,4 +14,4 @@ The Public Memorial for Jim Green will be on Saturday April 14th at the Orpheum.
 Doors will open at 12:30 and it will begin at 1:30. Please RSVP through the link 
 below:
 
-http://sfuwoodwards.ca/index.php/events/details/public-memorial-for-jim-green
+[http://sfuwoodwards.ca/index.php/events/details/public-memorial-for-jim-green](http://sfuwoodwards.ca/index.php/events/details/public-memorial-for-jim-green)

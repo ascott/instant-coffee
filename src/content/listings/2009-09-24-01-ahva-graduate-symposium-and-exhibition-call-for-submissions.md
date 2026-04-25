@@ -33,5 +33,5 @@ AHVA Graduate Symposium and Exhibition Committee invites proposals for papers,
 presentations, and projects from emerging scholars, including current and recently graduated 
 Masters, Doctoral students, Post-Doctoral scholars, and up-and-coming artists. For more 
 information, please consult the Call for Papers and Call for Artist Submissions, or visit the 
-symposium and exhibition website at: http://ahva.ubc.ca/infoDisplay.cfm?
+symposium and exhibition website at: [http://ahva.ubc.ca/infoDisplay.cfm](http://ahva.ubc.ca/infoDisplay.cfm)?
 Keyword=Graduate%20Symposium

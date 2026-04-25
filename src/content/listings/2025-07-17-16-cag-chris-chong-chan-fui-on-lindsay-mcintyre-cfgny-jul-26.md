@@ -25,4 +25,4 @@ Institute fellow (National Museum of Natural History), a Ford Foundation fellow,
 Rockefeller Foundation's Bellagio Arts Fellow, and an Assistant Professor, Film at the
 SFU School for the Contemporary Arts.
 
-https://cagvancouver.org/event/saturday-session-chris-chong-chan-fui
+[https://cagvancouver.org/event/saturday-session-chris-chong-chan-fui](https://cagvancouver.org/event/saturday-session-chris-chong-chan-fui)

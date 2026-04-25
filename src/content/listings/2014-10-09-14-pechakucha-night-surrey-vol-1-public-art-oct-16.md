@@ -19,7 +19,7 @@ short, fast-paced presentations about local and international public art.
 Doors open with a musical performance at 6:30pm, followed by the
 presentations from 7:00pm to 8:30pm. Tickets are $15. Call the Surrey Civic
 Theatres Box Office (604.501.5566, press 1) or visit
-https://tickets.surrey.ca to book your seat. Centre Stage is located in
+[https://tickets.surrey.ca](https://tickets.surrey.ca) to book your seat. Centre Stage is located in
 Surrey City Hall (13450 104 Avenue).
 
 PechaKucha is an international movement that creates forums for the
@@ -42,11 +42,11 @@ Eric Fiss (Richmond Public Art Program); Barbara Cole and Vanessa Kwan
 Art Gallery Offsite program); Karen Bubb (Little Mermaid sculpture by
 Edvard Eriksen in Denmark); and Bryan Lemos Beca and Steve DiPasquale (The
 Space of Difference interactive artwork on Surrey UrbanScreen
-http://www.surrey.ca/culture-recreation/15713.aspx).
+[http://www.surrey.ca/culture-recreation/15713.aspx](http://www.surrey.ca/culture-recreation/15713.aspx)).
 
 This event is presented by the City of Surrey Public Art Program with the
 BC Public Art Network. PechaKucha Night is devised and shared by Klein
 Dytham architecture, and Surrey Civic Theatres is pleased to launch the
 PechaKucha Night Surrey series at Centre Stage with Vol 1. Public Art.
 
-For more information visit: http://www.surrey.ca/culture-recreation/15802.aspx
+For more information visit: [http://www.surrey.ca/culture-recreation/15802.aspx](http://www.surrey.ca/culture-recreation/15802.aspx)

@@ -40,5 +40,5 @@ Gallery Berlin (DE)
 The talk is free to attend and open to the public. A Zoom link for this talk will be
 provided through your Eventbrite page after registration.
 
-To reserve your spot please visit https://www.eventbrite.ca/e/virtual-artist-talk-sondi-
+To reserve your spot please visit [https://www.eventbrite.ca/e/virtual-artist-talk-sondi-](https://www.eventbrite.ca/e/virtual-artist-talk-sondi-)
 at-access-gallery-tickets-1368091491479

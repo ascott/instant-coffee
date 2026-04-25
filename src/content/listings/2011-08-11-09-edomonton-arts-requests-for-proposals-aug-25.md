@@ -9,7 +9,7 @@ summary: "EDOMONTON ARTS | Requests for Proposals | AUG 25"
 ---
 
 For complete information on both of these calls visit: 
-http://publicart.edmontonarts.ca/calls/
+[http://publicart.edmontonarts.ca/calls/](http://publicart.edmontonarts.ca/calls/)
 
 Requests for Proposals
 Call to Artists - Highlands Branch Library Public Art Project

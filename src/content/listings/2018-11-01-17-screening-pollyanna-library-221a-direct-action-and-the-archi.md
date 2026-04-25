@@ -28,7 +28,7 @@ Sid Chow Tan is a video documentarian, community organizer, and media producer
 based in Vancouvers Downtown Eastside. He is best known for his leadership in the 
 struggle for redress of the Chinese head tax and exclusion laws.
 
-http://polly-anna.ca/activity/direct-action-and-the-archive-screening-sid-chow-tans-
+[http://polly-anna.ca/activity/direct-action-and-the-archive-screening-sid-chow-tans-](http://polly-anna.ca/activity/direct-action-and-the-archive-screening-sid-chow-tans-)
 video-journalism
 
 ---
@@ -41,7 +41,7 @@ events, panels, conversations, and screenings that highlight artist-run centre
 archives, artists working with archives, and the intersections between contemporary 
 art practices and social movements in Vancouver.
 
-For a full listing of Recollective programs, visit http://www.archivesweek.ca.
+For a full listing of Recollective programs, visit [http://www.archivesweek.ca](http://www.archivesweek.ca).
 
 The 15th Annual Downtown Eastside Heart of the City Festival celebrates the 
 creative and committed artists and activists who thrive in the heart of Vancouver. The 
@@ -50,7 +50,7 @@ Eastside community has an inspiring history of advocacy for human rights and soc
 justice.
 
 For a full listing of the 2018 Heart of the City Festival events, visit 
-http://www.heartofthecityfestival.com/.
+[http://www.heartofthecityfestival.com/](http://www.heartofthecityfestival.com/).
 
 ---
 

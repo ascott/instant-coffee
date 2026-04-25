@@ -13,5 +13,5 @@ join intellectual property advocates Kohel Haver and Martha Rans for a conversat
 parody, fair use/fair dealing and transformative use - all copyright questions answered. Drinks at 
 the bar. $10 or free for students. 303 West 8th Ave, Vancouver 
 
-https://www.eventbrite.ca/e/copyright-conversation-so-you-think-you-can-take-it-tickets-
+[https://www.eventbrite.ca/e/copyright-conversation-so-you-think-you-can-take-it-tickets-](https://www.eventbrite.ca/e/copyright-conversation-so-you-think-you-can-take-it-tickets-)
 60790535127

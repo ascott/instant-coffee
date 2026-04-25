@@ -42,4 +42,4 @@ The Kelowna Art Gallery is located at 1315 Water Street in the heart of the down
 Cultural District. For more information, please visit www.kelownaartgallery.com or call 250-
 762-2226.
 
-https://kelownaartgallery.com/nothing-to-be-done
+[https://kelownaartgallery.com/nothing-to-be-done](https://kelownaartgallery.com/nothing-to-be-done)

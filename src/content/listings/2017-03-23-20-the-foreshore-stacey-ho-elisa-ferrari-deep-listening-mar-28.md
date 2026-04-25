@@ -64,4 +64,4 @@ writers, curators, and activists. Adding to this exciting program, we have launc
 artist-in-residence series to provide space and time to artists interested in addressing 
 questions of the foreshore.
 
-http://www.theforeshore.org/
+[http://www.theforeshore.org/](http://www.theforeshore.org/)

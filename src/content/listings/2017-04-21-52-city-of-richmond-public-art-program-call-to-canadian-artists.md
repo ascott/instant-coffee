@@ -32,7 +32,7 @@ biologists) and consult with area residents to develop a concept proposal to be
 implemented in 2018.
 
 Link to complete Call to Artists: 
-http://www.richmond.ca/culture/publicart/opportunities.htm
+[http://www.richmond.ca/culture/publicart/opportunities.htm](http://www.richmond.ca/culture/publicart/opportunities.htm)
 
 For additional information or questions please contact:
 

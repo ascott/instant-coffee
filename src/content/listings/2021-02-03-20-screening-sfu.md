@@ -14,7 +14,7 @@ Screening: Anti-Ethnography
 February 8 - 14, 2021
 
 Presented online. Please register:
-https://watch.eventive.org/doxa/play/6008ac1a08fe850045e6c1ee
+[https://watch.eventive.org/doxa/play/6008ac1a08fe850045e6c1ee](https://watch.eventive.org/doxa/play/6008ac1a08fe850045e6c1ee)
 
 Presented in partnership with DOXA, and aligned with New Red Orders exhibition
 Give it Back at Audain Gallery, this screening program examines the violence inherent

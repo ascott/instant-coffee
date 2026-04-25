@@ -15,14 +15,14 @@ OPENING RECEPTION: Thursday 29 August, 7 PM
 Dalhousie Art Gallery is pleased to invite you to the opening reception for Atmospheric 
 Events: James Geurts, Andreas Schmid, Christine Sciulli. Curated by Peter Dykhuis and 
 Dr. Ralf Seippel, the exhibition is part of RESPONSIVE: International Light Art Project 
-Halifax (https://dal.us5.list-manage.com/track/click?
+Halifax ([https://dal.us5.list-manage.com/track/click](https://dal.us5.list-manage.com/track/click)?
 u=27f6210f69452ee6432ebdf7f&id=bad9253cbc&e=fdae747410) . Visiting artists 
 Andreas Schmid (Berlin) and Christine Sciulli (New York) will be in attendance. 
 Admission is free and all are welcome.
 
 The exhibition will continue to 24 November 2019.
 
-Join the Facebook Event: https://dal.us5.list-manage.com/track/click?
+Join the Facebook Event: [https://dal.us5.list-manage.com/track/click](https://dal.us5.list-manage.com/track/click)?
 u=27f6210f69452ee6432ebdf7f&id=899ef4cab0&e=fdae747410
 
 ACCESSIBILITY: Dalhousie Art Gallery is wheelchair accessible by elevator through the 

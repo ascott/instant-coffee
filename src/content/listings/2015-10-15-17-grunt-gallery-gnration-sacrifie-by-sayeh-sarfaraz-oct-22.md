@@ -36,8 +36,8 @@ Join us for the opening reception of Génération Sacrifiée on Thursday
 October 22nd (7 – 10pm) at grunt gallery. The artist will be in attendance
 at the opening. This exhibition occurs from Oct 22 – Nov 28, 2015.
 
-URL: http://grunt.ca/exhibitions/au-pays-des-mollahs/
-Facebook Event: https://www.facebook.com/events/421675221370331/
+URL: [http://grunt.ca/exhibitions/au-pays-des-mollahs/](http://grunt.ca/exhibitions/au-pays-des-mollahs/)
+Facebook Event: [https://www.facebook.com/events/421675221370331/](https://www.facebook.com/events/421675221370331/)
 
 Artist Bio:
 

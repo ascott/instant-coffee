@@ -40,7 +40,7 @@ Hours: Tues - Sat 10am-6pm
 Vancouver, British Columbia
 V5T 1A6
 
-https://www.facebook.com/winsorgallery?ref=hl
-https://twitter.com/WinsorGallery
-http://winsorgalery.blogspot.ca
-https://www.ecuad.ca/about/news/293820
+[https://www.facebook.com/winsorgallery?ref=hl](https://www.facebook.com/winsorgallery?ref=hl)
+[https://twitter.com/WinsorGallery](https://twitter.com/WinsorGallery)
+[http://winsorgalery.blogspot.ca](http://winsorgalery.blogspot.ca)
+[https://www.ecuad.ca/about/news/293820](https://www.ecuad.ca/about/news/293820)

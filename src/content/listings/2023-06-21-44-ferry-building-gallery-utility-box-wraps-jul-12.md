@@ -21,4 +21,4 @@ designs and artworks.
 We kindly request your assistance in spreading the word about this opportunity among
 your networks. The deadline for applications is July 12, 2023 at 4 p.m.
 
-For more information, please go to: https://ferrybuildinggallery.ca/wrap
+For more information, please go to: [https://ferrybuildinggallery.ca/wrap](https://ferrybuildinggallery.ca/wrap)

@@ -34,4 +34,4 @@ Completion:
 Exhibition 13, Part II: August 2019"February 2020
 
 For more information and how to apply for this opportunity please visit 
-https://www.richmond.ca/culture/publicart/opportunities.htm
+[https://www.richmond.ca/culture/publicart/opportunities.htm](https://www.richmond.ca/culture/publicart/opportunities.htm)

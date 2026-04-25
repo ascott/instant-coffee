@@ -31,5 +31,5 @@ trust about this opportunity and spread the word.
 Santa Nastro
 Fondazione Pino Pascali Museo d'Arte Contemporanea
 information and call:
-http://www.museopinopascali.it/museo/sac/articolo/bando-residenze-en.html
+[http://www.museopinopascali.it/museo/sac/articolo/bando-residenze-en.html](http://www.museopinopascali.it/museo/sac/articolo/bando-residenze-en.html)
 segreteria@museopinopascali.it

@@ -42,4 +42,4 @@ released two full-length albums, Splat, and The Basement Songs. The Basement
 Songs, which came out on EMI Music Canada, earned him national radio play as
 well as a Juno nomination for Best New Solo Artist.
 
-FREE REGISTRATION: https://creativemornings.com/talks/dominic-prevost
+FREE REGISTRATION: [https://creativemornings.com/talks/dominic-prevost](https://creativemornings.com/talks/dominic-prevost)

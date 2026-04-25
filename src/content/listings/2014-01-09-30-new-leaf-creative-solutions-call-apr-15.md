@@ -24,7 +24,7 @@ Deadline for entry is April 15, 2014. Entry fee is $40 CAD.
 Here is our website which contains all rules for entry, and our online 
 and printable application forms.
 
-http://www.bimpe.com/
+[http://www.bimpe.com/](http://www.bimpe.com/)
 
 New Leaf Creative Solutions
 Tel/Fax: 604-689-9918

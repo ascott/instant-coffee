@@ -32,5 +32,5 @@ has been exhibited across Canada, including a feature in the 2023 Art Rental and
 Sales Program at the Vancouver Art Gallery. His unique blend of cultural influences
 and artistic disciplines continues to captivate and inspire audiences.
 
-THIS Website: https://thisgallery.org/
-Artist website: https://liu-kai.com/
+THIS Website: [https://thisgallery.org/](https://thisgallery.org/)
+Artist website: [https://liu-kai.com/](https://liu-kai.com/)

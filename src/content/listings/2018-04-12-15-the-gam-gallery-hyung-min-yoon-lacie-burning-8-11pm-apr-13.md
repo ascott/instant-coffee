@@ -37,7 +37,7 @@ in 2014, and has been invited resident artist at numerous institutions, includin
 Gyeonggi Creation Centre 2014 and Kunsthalle Exnergasse in Vienna in 2013, and 
 was also selected as curatorial resident at 221A, Vancouver in 2012. 
 
-http://www.yoonhyungmin.com/thedoors/
+[http://www.yoonhyungmin.com/thedoors/](http://www.yoonhyungmin.com/thedoors/)
 _________________________________________
 
 The photographic work Reflection Series was born out of Burnings relationship with 
@@ -68,4 +68,4 @@ Indigeneity and identity from a Haudenosaunee perspective. More recently their
 practice has revolved around questions of Indigenous resistances, land issues, and 
 haunting. 
 
-https://burning.live/paintingdrawing/
+[https://burning.live/paintingdrawing/](https://burning.live/paintingdrawing/)

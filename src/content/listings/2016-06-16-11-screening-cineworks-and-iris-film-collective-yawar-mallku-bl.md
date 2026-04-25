@@ -41,4 +41,4 @@ Above all, their interest in cin filmactual celluloidat a time when this
 medium is shifting to a post-industry model, is of key interest in all 
 their pursuits.
 
-http://www.irisfilmcollective.com/
+[http://www.irisfilmcollective.com/](http://www.irisfilmcollective.com/)

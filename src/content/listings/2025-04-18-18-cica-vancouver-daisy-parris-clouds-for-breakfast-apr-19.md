@@ -29,7 +29,7 @@ CLOUDS FOR BREAKFAST
 SCARS IN BLOOM
 SCARS IN BLOOM
 
-Plan your visit: https://cicavancouver.com/product/buy-ticket/.
+Plan your visit: [https://cicavancouver.com/product/buy-ticket/](https://cicavancouver.com/product/buy-ticket/).
 
 Until April 19, 2025
 

@@ -13,7 +13,7 @@ DanceLab Sharing & Discussion: Company 605
 February 16, 4pm PST
 Online via zoom
 Free/$10
-Info and registration: https://thedancecentre.ca/event/company-605/
+Info and registration: [https://thedancecentre.ca/event/company-605/](https://thedancecentre.ca/event/company-605/)
 
 Company 605 discuss their
 creative process and share clips from their DanceLab

@@ -23,7 +23,7 @@ Participants will leave the program with one short-form experimental review (1,0
 words) and one longer piece (2,500 words) developed out of the ideas and
 methodologies explored in the workshops, and a $1000 honorarium.
 
-For more information, please go to https://centrea.org/opportunities/.
+For more information, please go to [https://centrea.org/opportunities/](https://centrea.org/opportunities/).
 
 This program is supported by the Sector Innovation Grant from the Canada Council for
 the Arts and the Regional Cultural Project Grant from Metro Vancouver.

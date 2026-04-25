@@ -18,7 +18,7 @@ Type of Call: Visual artists    
 
 Description: An evening of inspired debate and exhibition among leading thinkers about the 
 spread of Affluenza  the affliction of having to keep up with The Jones and accumulating debt 
-in trying to gain happiness. http://en.wikipedia.org/wiki/Affluenza 
+in trying to gain happiness. [http://en.wikipedia.org/wiki/Affluenza](http://en.wikipedia.org/wiki/Affluenza) 
 
 Affluenza is a two-pronged event:
 

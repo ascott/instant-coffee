@@ -30,7 +30,7 @@ ways. Our programming features a range of art practices from
 contemporary to outsider, and a diversity of mediums: photography, 
 video, performance art, drawing, 3D, installation, ceramics, textiles and 
 more. For more information on Gachet’s vision and Basis of Unity, 
-please see http://gachet.org/about.
+please see [http://gachet.org/about](http://gachet.org/about).
 
 We accept proposals for solo, group, juried, curated, or major 
 exhibition projects; as well as screenings, workshops, performances 

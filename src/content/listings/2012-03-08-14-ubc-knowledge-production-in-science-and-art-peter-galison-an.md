@@ -24,7 +24,7 @@ Date: Monday, March 12th 2012
 Time: 5:30pm
 Location: Lasserre Building, Room 102, 6333 Memorial Road, UBC 
 Vancouver Campus
-Directions: http://www.maps.ubc.ca/PROD/index_detail.php?
+Directions: [http://www.maps.ubc.ca/PROD/index_detail.php](http://www.maps.ubc.ca/PROD/index_detail.php)?
 show=y,n,n,n,n,y&bldg2Search=n&locat1=028&locat2
 
 The lecture will deliberate on the trajectory that has occurred from the 

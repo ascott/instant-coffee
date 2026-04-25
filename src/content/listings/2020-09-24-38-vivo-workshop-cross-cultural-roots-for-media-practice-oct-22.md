@@ -11,7 +11,7 @@ summary: "VIVO | WORKSHOP | Cross-Cultural Roots for Media Practice | OCT 22"
 Cross-Cultural Roots for Media Practice: Chinese Aesthetics
 
 More info and sign up at:
-https://crosscultural-with-siying.eventbrite.ca/
+[https://crosscultural-with-siying.eventbrite.ca/](https://crosscultural-with-siying.eventbrite.ca/)
 
 Inspire your media art practice with non-Western history, art, science, and philosophy with
 media theorist Siying Duan.

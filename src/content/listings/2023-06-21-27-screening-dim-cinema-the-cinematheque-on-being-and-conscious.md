@@ -43,7 +43,7 @@ Grace Ndiritu
 49 min. DCP
 
 Advance Tickets:
-https://thecinematheque.ca/films/2023/on-being-and-consciousness
+[https://thecinematheque.ca/films/2023/on-being-and-consciousness](https://thecinematheque.ca/films/2023/on-being-and-consciousness)
 
 28.
 EVENT | Whistler Public Library | Artist Book Reading - "Fire Season" | 6PM | JUN 28
@@ -66,5 +66,5 @@ publicservices@whistlerlibrary.ca to sign up!
 
 More information available here:
 
-https://www.whistlerlibrary.ca/event/fire-season-collective-sense-making-around-
+[https://www.whistlerlibrary.ca/event/fire-season-collective-sense-making-around-](https://www.whistlerlibrary.ca/event/fire-season-collective-sense-making-around-)
 wildfires/?occurrence=2023-06-28

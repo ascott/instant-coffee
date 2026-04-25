@@ -12,7 +12,7 @@ June 5, 2024
 
 7-8 p.m.
 
-ONLINE, Register: https://westvanlibrary.ca/event/architecture-talk-arthur-erickson-at-
+ONLINE, Register: [https://westvanlibrary.ca/event/architecture-talk-arthur-erickson-at-](https://westvanlibrary.ca/event/architecture-talk-arthur-erickson-at-)
 home-virtual/
 
 Join hosts Hilary Letwin, West Vancouver Art Museum Curator, and architect, Clinton

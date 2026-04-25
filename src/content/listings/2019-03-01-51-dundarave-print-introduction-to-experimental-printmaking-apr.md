@@ -36,5 +36,5 @@ You can reserve your space on the course in person at Dundarave
 Print Workshop on Granville Island from Wednesday - Sunday (11am - 
 5pm), or over the phone on 604 689 1650
 
-For more information visit https://dundaraveprintworkshop.com/ or 
+For more information visit [https://dundaraveprintworkshop.com/](https://dundaraveprintworkshop.com/) or 
 contact Maya directly: mayaelmes89@gmail.com

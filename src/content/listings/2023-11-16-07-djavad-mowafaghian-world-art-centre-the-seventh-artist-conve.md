@@ -35,4 +35,4 @@ Indigenous representation and discuss land-based gestures in contemporary art.
 This conversation is free and open to all, and is co-sponsored by Or Gallery, SFU
 Galleries, and the Audain Foundation. Registration is recommended but not required.
 
-Learn more: https://orgallery.org/events/the-seventh-artist-conversation
+Learn more: [https://orgallery.org/events/the-seventh-artist-conversation](https://orgallery.org/events/the-seventh-artist-conversation)

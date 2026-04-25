@@ -22,7 +22,7 @@ Centre A will open its 2010 program on January 17th, 2010 with a
 celebration of Art's 1,000,047th Birthday. Featuring performance, video
 projection, telecommunications-art, interview and light-making workshop,
 this all-day event will be live broadcasted on the Internet at
-http://tiny.cc/centrea, connecting with the Art's Birthday Eternal Network
+[http://tiny.cc/centrea](http://tiny.cc/centrea), connecting with the Art's Birthday Eternal Network
 around the world. Tea, cake and additional refreshments will be served.
 
 "Art's Birthday" is an annual event first proposed in 1963 by French artist
@@ -69,7 +69,7 @@ Hosted by Debra Zhou
 Guest speaker Hank Bull
 15:00-16:00
 
-A Listener's Lab (http://tiny.cc/soundlab) is a curatorial project by Debra
+A Listener's Lab ([http://tiny.cc/soundlab](http://tiny.cc/soundlab)) is a curatorial project by Debra
 Zhou to investigate and map the sound art presence in Vancouver through
 interviews and conversations with artists, curators, art historians and
 musicians. She’ll interview Hank Bull on the history of Art's Birthday in
@@ -86,12 +86,12 @@ Yokohama - BankART (Location TBC)
 
 Hosted by Hiroki Kehara, Kojima Radio,
 
-http://yaplog.jp/kojimaradio/ (in Japanese)
+[http://yaplog.jp/kojimaradio/](http://yaplog.jp/kojimaradio/) (in Japanese)
 
 Yokohama Club Scene (Location TBC)
 
 Hosted by Chikamichi Kawamura, SIX SQUARE BRIDGE,
-http://www.sixsquarebridge.com/contents/index.html (in Japanese)
+[http://www.sixsquarebridge.com/contents/index.html](http://www.sixsquarebridge.com/contents/index.html) (in Japanese)
 
 Art's Birthday Party 2009 at TKU (Tokyo Keizai University)
 

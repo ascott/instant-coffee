@@ -36,4 +36,4 @@ For More information, click on the link to our website, download PDFs of
 information, and read more about the residency. Feb 1st is the deadline for 
 submissions.
 
-http://yukonartscentre.com/programs/chilkoot_trail_artist_residency_program
+[http://yukonartscentre.com/programs/chilkoot_trail_artist_residency_program](http://yukonartscentre.com/programs/chilkoot_trail_artist_residency_program)

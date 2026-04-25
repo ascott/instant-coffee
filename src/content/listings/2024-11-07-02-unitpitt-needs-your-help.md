@@ -80,9 +80,9 @@ Angie Kwong, Madison Mayhew, Craig Stensrud, Marianne Thodas, Henry Tsang,
 Anna Zoria
 
 Donate Here:
-https://unitpitt.us5.list-manage.com/track/click?
+[https://unitpitt.us5.list-manage.com/track/click](https://unitpitt.us5.list-manage.com/track/click)?
 u=b13635d8f8ffb75200a43941e&id=4dc8da5883&e=0e18c5b7fb
 
 Become a Member for only $3:
-https://unitpitt.us5.list-manage.com/track/click?
+[https://unitpitt.us5.list-manage.com/track/click](https://unitpitt.us5.list-manage.com/track/click)?
 u=b13635d8f8ffb75200a43941e&id=ac2e63383d&e=0e18c5b7fb

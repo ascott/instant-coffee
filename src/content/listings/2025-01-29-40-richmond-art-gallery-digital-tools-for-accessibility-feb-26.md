@@ -16,10 +16,10 @@ Hosted as a FREE EVENT in person at Richmond Art Gallery, and online as a
 livestream.
 
 REGISTER FOR ONLINE SESSION:
-https://us02web.zoom.us/webinar/register/WN_tSbFzV9WTAKxGNiTHcokyQ
+[https://us02web.zoom.us/webinar/register/WN_tSbFzV9WTAKxGNiTHcokyQ](https://us02web.zoom.us/webinar/register/WN_tSbFzV9WTAKxGNiTHcokyQ)
 
 REGISTER FOR IN PERSON SESSION:
-https://www.eventbrite.ca/e/artist-salon-tarcila-neves-on-digital-tools-for-accessibility-
+[https://www.eventbrite.ca/e/artist-salon-tarcila-neves-on-digital-tools-for-accessibility-](https://www.eventbrite.ca/e/artist-salon-tarcila-neves-on-digital-tools-for-accessibility-)
 tickets-1218624150639?aff=oddtdtcreator
 
 Tarcila Neves' work focuses on blending traditional ad digital art, ensuring

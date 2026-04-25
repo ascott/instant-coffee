@@ -49,7 +49,7 @@ Co-curated by Brian Jungen and Melanie O'Brian.
 Co-presented with SFU Department of Sociology and Anthropology.
 
 For more information on the event, 
-http://www.sfu.ca/galleries/SFUGalleriesEvents/past-events/2017/Maps-and-
+[http://www.sfu.ca/galleries/SFUGalleriesEvents/past-events/2017/Maps-and-](http://www.sfu.ca/galleries/SFUGalleriesEvents/past-events/2017/Maps-and-)
 Dreams-Hugh-Brody.html
 For more information on the exhibition,
-http://www.sfu.ca/galleries/audain-gallery/Maps-and-Dreams.html
+[http://www.sfu.ca/galleries/audain-gallery/Maps-and-Dreams.html](http://www.sfu.ca/galleries/audain-gallery/Maps-and-Dreams.html)

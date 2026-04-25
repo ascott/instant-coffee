@@ -69,4 +69,4 @@ L8P 4W9
 
 For information: 
 
-http://www.hamiltonartistsinc.on.ca/submissions.shtml
+[http://www.hamiltonartistsinc.on.ca/submissions.shtml](http://www.hamiltonartistsinc.on.ca/submissions.shtml)

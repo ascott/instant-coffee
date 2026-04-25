@@ -13,7 +13,7 @@ Media Gallery and the Media Arts Alliance of
 the Pacific (MAAP) are
 thrilled to announce the launch of the website Digital Shift
 announcing the upcoming National Media Arts Virtual Gathering taking
-place September 17 to October 28, 2020: https://digitalshift.imaa.ca/
+place September 17 to October 28, 2020: [https://digitalshift.imaa.ca/](https://digitalshift.imaa.ca/)
 
 The programming will encourage and inspire discussions about
 Indigenous arts in Canada, Indigeneous digital sovereignty, digital
@@ -27,4 +27,4 @@ Thank you!
 Peter Sandmark
 FLUX media gallery and MediaNet Executive Director
 
-https://medianetvictoria.org
+[https://medianetvictoria.org](https://medianetvictoria.org)

@@ -23,5 +23,5 @@ its forms, along with selected sculpture and prints.
 With the passing of this enigmatic and remarkable collector, Gerd Metzdorffs stunning
 collection is presented to the public for the first time at Griffin Art Projects.
 
-More Info: https://www.griffinartprojects.ca/events/per-diem-part-ii-the-gerd-metzdorff-
+More Info: [https://www.griffinartprojects.ca/events/per-diem-part-ii-the-gerd-metzdorff-](https://www.griffinartprojects.ca/events/per-diem-part-ii-the-gerd-metzdorff-)
 collection-5

@@ -47,5 +47,5 @@ Day/Day Without Art on Saturday, December 1 (7 p.m) at Denman Cinema
 Cineworks.ca for more information on the event.
 Links of note:
 visualaids.org
-http://www.actuporalhistory.org
-Film Trailer: http://vimeo.com/33185730
+[http://www.actuporalhistory.org](http://www.actuporalhistory.org)
+Film Trailer: [http://vimeo.com/33185730](http://vimeo.com/33185730)

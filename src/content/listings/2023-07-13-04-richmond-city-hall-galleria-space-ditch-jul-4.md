@@ -26,4 +26,4 @@ Sat/Sun closed
 
 For more information:
 
-https://www.richmondartgallery.org/ditch
+[https://www.richmondartgallery.org/ditch](https://www.richmondartgallery.org/ditch)

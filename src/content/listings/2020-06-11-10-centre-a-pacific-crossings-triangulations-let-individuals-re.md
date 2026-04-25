@@ -24,7 +24,7 @@ PM (Vancouver) / Friday, June
 19, at 10 AM (Hong Kong). The talk will be in English and 
 Mandarin. The Mandarin part of the talk will be translated by Yun-Jou Chang.
 
-Register HERE: https://us02web.zoom.us/meeting/register/tZUldu-
+Register HERE: [https://us02web.zoom.us/meeting/register/tZUldu-](https://us02web.zoom.us/meeting/register/tZUldu-)
 pqjgiGtz_Wc0t6MHysEGlFv5S6DcE
 
 In this talk, the curatorial duo will reflect on the impacts of COVID-19, not just on the everyday 

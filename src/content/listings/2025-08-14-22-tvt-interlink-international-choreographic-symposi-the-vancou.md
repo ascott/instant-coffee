@@ -25,6 +25,6 @@ Presenting artists include Michael Caldwell, Wu-Kang Chen, Caroline Chien-MacCau
 Sammy Chien-MacCaull ", Wen Huang, Andrea Nann, Fangas Nayaw, Heidi
 Strauss and "- Su PinWen.
 
-Tickets can be booked here: https://www.vanartgallery.bc.ca/events/tvt-interlink-
+Tickets can be booked here: [https://www.vanartgallery.bc.ca/events/tvt-interlink-](https://www.vanartgallery.bc.ca/events/tvt-interlink-)
 symposium-2025/
 Tickets include access to all symposium programming across both days.

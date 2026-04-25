@@ -36,7 +36,7 @@ Cineworks Studio, 1131 Howe St (back lane entrance)
 
 Pay what you can
 
-Facebook Event: http://www.facebook.com/events/140351879445798/?
+Facebook Event: [http://www.facebook.com/events/140351879445798/](http://www.facebook.com/events/140351879445798/)?
 context=create
 
 *this event will coincide with an exhibition on Doreen Grey aka. Lenore Herb 

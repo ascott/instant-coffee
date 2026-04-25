@@ -23,4 +23,4 @@ multiple ways fabricators work with artists to realize public artwork projects.
 
 Free admission. Pre-registration is required:
 
-https://www.richmondartgallery.org/aaw-fabricators
+[https://www.richmondartgallery.org/aaw-fabricators](https://www.richmondartgallery.org/aaw-fabricators)

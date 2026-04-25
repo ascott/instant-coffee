@@ -47,7 +47,7 @@ MORE INFORMATION
 
 * Please retrieve more information on the Request for Submission
 information including photographs and plans from
-http://pointearts.com/pointe_opportunities.html.
+[http://pointearts.com/pointe_opportunities.html](http://pointearts.com/pointe_opportunities.html).
 
 * If you are having any difficulties please contact Susan Pointe
 at spointe@shaw.ca or 780 719-9044.

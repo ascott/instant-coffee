@@ -24,7 +24,7 @@ community on topics of interest or concern and provides the artist(s) with
 subsidized access to studio and/or live in space for a period of time.
 
 Detailed information about the call can be found at
-http://www.mapleridge.ca/EN/main/visitors/1682/public_art.html
+[http://www.mapleridge.ca/EN/main/visitors/1682/public_art.html](http://www.mapleridge.ca/EN/main/visitors/1682/public_art.html)
 
 Please direct any questions to Yvonne Chui at 
 ychui@mapleridge.ca<mailto:ychui@mapleridge.ca>

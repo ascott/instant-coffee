@@ -10,7 +10,7 @@ summary: "North Van Arts | Mother Tongue | FEB 26"
 
 Mother Tongue opens February 26
 CityScape Community ArtSpace
-https://northvanarts.ca/events-exhibitions/mother-tongue/
+[https://northvanarts.ca/events-exhibitions/mother-tongue/](https://northvanarts.ca/events-exhibitions/mother-tongue/)
 
 What is motherhood? What does it mean to be a mother? These questions are explored in
 Mother Tongue, the upcoming exhibition at North Van Arts.

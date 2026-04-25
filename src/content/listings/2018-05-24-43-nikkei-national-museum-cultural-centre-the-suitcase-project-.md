@@ -14,7 +14,7 @@ Photographed & curated by Kayla Isomura
 June 16-September 2, 2018
 Gallery hours: 11am-5pm
 Admission by donation.
-http://centre.nikkeiplace.org/exhibits/the-suitcase-project/
+[http://centre.nikkeiplace.org/exhibits/the-suitcase-project/](http://centre.nikkeiplace.org/exhibits/the-suitcase-project/)
 Vancouver photographer unpacks Japanese Canadian past, present.
 
 The Suitcase Project asks yonsei and gosei (4th and 5th generation Japanese 

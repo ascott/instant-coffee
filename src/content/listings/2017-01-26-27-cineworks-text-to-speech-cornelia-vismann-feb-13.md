@@ -14,7 +14,7 @@ Cornelia Vismann, Cultural Techniques and Sovereignty (2010)
 
 13 February 20177:00pm
 Cineworks Programs Office, 300-1131 Howe Street (lane entrance)
-SHARE: https://www.facebook.com/events/600647160138623/
+SHARE: [https://www.facebook.com/events/600647160138623/](https://www.facebook.com/events/600647160138623/)
 FREE
 
 A reading group organized by Western Front, Cineworks and VIVO, focused on 
@@ -28,7 +28,7 @@ form of introduction, and some portion of close reading (out loud).
 
 SESSION 8
 Cornelia Vismann, Cultural Techniques and Sovereignty (2010)
-DOWNLOAD: http://ow.ly/TlC6308mbkp
+DOWNLOAD: [http://ow.ly/TlC6308mbkp](http://ow.ly/TlC6308mbkp)
 
 Abstract:
 First published in 2010, Cornelia Vismann's article has already attained the status of a 

@@ -15,7 +15,7 @@ Exposition at
 
 W2 Storyeum. 
 
-http://www.facebook.com/event.php?eid=124247927644812
+[http://www.facebook.com/event.php?eid=124247927644812](http://www.facebook.com/event.php?eid=124247927644812)
 
 Deadline: February 28, 2011
 
@@ -31,18 +31,18 @@ large-scale group projection expo at W2 Storyeum. This event is set
 to take place on Friday, March 18, 2011. 
 
 Drop In/ Drop Out is affiliated with Dutch artist Rafaël Rozendaal’s 
-(http://www.newrafael.com) BYOB (Bring Your Own Beamer) project 
-(http://www.byobworldwide.com/). Simple in concept, but limitless in 
+([http://www.newrafael.com](http://www.newrafael.com)) BYOB (Bring Your Own Beamer) project 
+([http://www.byobworldwide.com/](http://www.byobworldwide.com/)). Simple in concept, but limitless in 
 possibilities,BYOB invites artists to showcase their projected video 
 works in a given exhibition space by bringing their own equipment. 
 The first BYOB took place on July 20, 2010 in Bureau Friedrich 
 Projectstudio, Berlin and has since enjoyed successful homes in 
-Kunsthalle Athena, Athens (http://www.kunsthalleathena.org/), 
+Kunsthalle Athena, Athens ([http://www.kunsthalleathena.org/](http://www.kunsthalleathena.org/)), 
 Spencer Brownstone Gallery, New York City 
-(http://www.spencerbrownstonegallery.com/), The Gayle and Ed 
+([http://www.spencerbrownstonegallery.com/](http://www.spencerbrownstonegallery.com/)), The Gayle and Ed 
 Roski MFA Gallery at the University of Southern California, and the 
 New American Art Union in Portland, Oregon 
-(http://www.newamericanartunion.com/). DOVA is to bring the first 
+([http://www.newamericanartunion.com/](http://www.newamericanartunion.com/)). DOVA is to bring the first 
 Canadian leg of this international movement to W2, as exhibitions in 
 Montreal and Toronto are planned for later in the year. 
 
@@ -58,7 +58,7 @@ low-income individuals who may not afford equipment to be
 included).
 
 For more information about BYOB visit 
-http://www.byobworldwide.com/
+[http://www.byobworldwide.com/](http://www.byobworldwide.com/)
 
 If you have any other questions, please contact 
 dova.society@gmail.com

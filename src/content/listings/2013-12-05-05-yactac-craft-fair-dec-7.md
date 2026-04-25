@@ -26,8 +26,8 @@ features local artisans including Happy Normad Creations, Caitlin ffrench who do
 
 Everyone welcome!
 
-https://www.facebook.com/events/686543411356564/
-https://www.facebook.com/hncshappynomadcreations
+[https://www.facebook.com/events/686543411356564/](https://www.facebook.com/events/686543411356564/)
+[https://www.facebook.com/hncshappynomadcreations](https://www.facebook.com/hncshappynomadcreations)
 
 >>>>>>>
 

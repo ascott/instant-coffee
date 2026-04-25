@@ -14,6 +14,6 @@ Submit your art installation, performance art, dance piece or activity for consi
 at this year's Camp Wavelength music and arts festival on Toronto Island, August 18-
 20, 2017!
 
-http://www.wavelengthmusic.ca/events/camp-wavelength/
+[http://www.wavelengthmusic.ca/events/camp-wavelength/](http://www.wavelengthmusic.ca/events/camp-wavelength/)
 
-Submission form: https://goo.gl/OeH9FO
+Submission form: [https://goo.gl/OeH9FO](https://goo.gl/OeH9FO)

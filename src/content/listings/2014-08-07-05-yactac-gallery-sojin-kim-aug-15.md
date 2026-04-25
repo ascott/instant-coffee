@@ -39,7 +39,7 @@ Sojin Kim has graduated from Emily Carr University of Arts and Design in
 2013. Kim's practice focuses on transnational identity and formation of
 identity in relation to spaces.
 
-http://www.yactac.com
+[http://www.yactac.com](http://www.yactac.com)
 yactacgallery@gmail.com
 Look us up on facebook and twitter.
 

@@ -94,12 +94,12 @@ interventions in housing provision that demonstrate there is another way.
 
 More
 
-https://221a.ca/fellows/architects-for-social-housing
+[https://221a.ca/fellows/architects-for-social-housing](https://221a.ca/fellows/architects-for-social-housing)
 
-http://polly-anna.ca/activity/architects-for-social-housing-for-a-socialist-architecturE-
+[http://polly-anna.ca/activity/architects-for-social-housing-for-a-socialist-architecturE-](http://polly-anna.ca/activity/architects-for-social-housing-for-a-socialist-architecturE-)
 under-capitalism-the-social
 
-http://polly-anna.ca/activity/architects-for-social-housing-for-a-socialist-architecture-
+[http://polly-anna.ca/activity/architects-for-social-housing-for-a-socialist-architecture-](http://polly-anna.ca/activity/architects-for-social-housing-for-a-socialist-architecture-)
 under-capitalism-the-social-2 
 
 Biography

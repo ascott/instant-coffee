@@ -28,7 +28,7 @@ research, plan and execute the project. International participants will be
 expected to attend meetings through online voice/video chat.
 
 Complete details of the Call:
-http://221a.ca/call-2013-14/
+[http://221a.ca/call-2013-14/](http://221a.ca/call-2013-14/)
 
 More Information:
 Bopha Chhay, Projects Coordinator at 

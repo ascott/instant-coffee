@@ -16,8 +16,8 @@ Goldcorp Centre for the Arts
 
 Friday March 7, 6:00-9:30 PM.
 Saturday March 8: 10:00 AM – 6:30 PM.
-www.incrediblemachines.info (http://incrediblemachines.info)
-In conjunction with Access Gallery (http://accessgallery.ca/), the independent 
+www.incrediblemachines.info ([http://incrediblemachines.info](http://incrediblemachines.info))
+In conjunction with Access Gallery ([http://accessgallery.ca/](http://accessgallery.ca/)), the independent 
 curator Mohammad Salemy presents Incredible Machines, a conference 
 addressing different aspects of the expanding role of networked computers 
 and digital processes in the production of knowledge.
@@ -71,38 +71,38 @@ conference are welcome to attend the conference online by using the
 following links during the events:
 
 Incredible Machine Session I (Friday): 
-(https://plus.google.com/u/0/events/c45ob9umutrb7v6fup3b7jcd0no) 
+([https://plus.google.com/u/0/events/c45ob9umutrb7v6fup3b7jcd0no](https://plus.google.com/u/0/events/c45ob9umutrb7v6fup3b7jcd0no)) 
 
 Incredible Machine Session II (Saturday): 
-(https://plus.google.com/u/1/b/102362388358530712839/events/cb2qo0qv5rt
+([https://plus.google.com/u/1/b/102362388358530712839/events/cb2qo0qv5rt](https://plus.google.com/u/1/b/102362388358530712839/events/cb2qo0qv5rt)
 ma49lg8h5ln3mtvg)
 
 Admission is free with registration:
-https://docs.google.com/forms/d/1NtLYo6Lrif4YmqsXEQginvlJNQm1V4Uow3
+[https://docs.google.com/forms/d/1NtLYo6Lrif4YmqsXEQginvlJNQm1V4Uow3](https://docs.google.com/forms/d/1NtLYo6Lrif4YmqsXEQginvlJNQm1V4Uow3)
 AnOt3eg1k/viewform
 The Incredible Machines conference marks the second phase of a multi-part 
 curatorial project by the independent curator Mohammad Salemy, which 
 began in September 2013 with an exhibition at Vancouver’s Access Gallery, 
 where he is currently curator-in-residence. The exhibition, Encyclonospace 
-Iranica (http://encyclonospace.com), showcased works by nine Iranian 
+Iranica ([http://encyclonospace.com](http://encyclonospace.com)), showcased works by nine Iranian 
 artists who responded to the relationship between telecomputation and 
 knowledge production proposed by the Iranian philosopher Reza Negarestani. 
 Incredible Machines is generously sponsored by the Canada Council for the 
-Arts (http://www.canadacouncil.ca/), with additional support from the 
+Arts ([http://www.canadacouncil.ca/](http://www.canadacouncil.ca/)), with additional support from the 
 University of British Columbia’s Department of Art History, Visual Art and 
-Theory (http://www.ahva.ubc.ca/), Simon Fraser University [Vancity Office 
-of Community Engagement (http://sfuwoodwards.ca/index.php/community), 
-the Institute for the Humanities (http://www.sfu.ca/humanities-institute/), 
+Theory ([http://www.ahva.ubc.ca/](http://www.ahva.ubc.ca/)), Simon Fraser University [Vancity Office 
+of Community Engagement ([http://sfuwoodwards.ca/index.php/community](http://sfuwoodwards.ca/index.php/community)), 
+the Institute for the Humanities ([http://www.sfu.ca/humanities-institute/](http://www.sfu.ca/humanities-institute/)), 
 Centre for the Comparative Study of Muslim Societies and Cultures 
-(http://www.ccsmsc.sfu.ca/)] and the Global Center for Advanced Studies 
-(http://www.globaladvancedstudies.org/).
+([http://www.ccsmsc.sfu.ca/](http://www.ccsmsc.sfu.ca/))] and the Global Center for Advanced Studies 
+([http://www.globaladvancedstudies.org/](http://www.globaladvancedstudies.org/)).
 Press Contact:
 Krista Bailie 
 
 Additional Information:
 Email (incrediblemachines2014@gmail.com)
-Website (http://accessgallery.ca/uncategorized/incredible-machines/)
-Google+ (https://plus.google.com/u/0/102362388358530712839/about)
-Facebook (https://www.facebook.com/incmachines2014)
-Twitter (http://www.twitter.com/incmachines2014)
-Instagram (http://instagram.com/incmachines2014)
+Website ([http://accessgallery.ca/uncategorized/incredible-machines/](http://accessgallery.ca/uncategorized/incredible-machines/))
+Google+ ([https://plus.google.com/u/0/102362388358530712839/about](https://plus.google.com/u/0/102362388358530712839/about))
+Facebook ([https://www.facebook.com/incmachines2014](https://www.facebook.com/incmachines2014))
+Twitter ([http://www.twitter.com/incmachines2014](http://www.twitter.com/incmachines2014))
+Instagram ([http://instagram.com/incmachines2014](http://instagram.com/incmachines2014))

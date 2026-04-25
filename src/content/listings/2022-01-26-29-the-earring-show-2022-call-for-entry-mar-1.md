@@ -29,4 +29,4 @@ Application Deadline: 11.:59pm PT, March 1st, 2022
 
 Application
 
-Website: https://craftcouncilbc.ca/the-earring-show/
+Website: [https://craftcouncilbc.ca/the-earring-show/](https://craftcouncilbc.ca/the-earring-show/)

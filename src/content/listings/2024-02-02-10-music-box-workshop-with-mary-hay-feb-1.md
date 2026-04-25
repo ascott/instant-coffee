@@ -19,7 +19,7 @@ a handmade printmaking plate and a frame to take home. Suitable for beginners, a
 14 and up.
 
 More info at
-https://ferrybuildinggallery.ca/programs/workshops/colour-explosion-
+[https://ferrybuildinggallery.ca/programs/workshops/colour-explosion-](https://ferrybuildinggallery.ca/programs/workshops/colour-explosion-)
 printmaking-mary-hay
 
 Location: Harmony Room (downstairs), The Music Box, 1564 Argyle Ave, West

@@ -18,20 +18,20 @@ be playing music around 9pm, and eventually we'll turn the gallery into a dance
 party!
 
 In case you can't come, I made this video that documents the exhibition so you 
-sort of feel like you actually saw it! http://www.youtube.com/watch?
+sort of feel like you actually saw it! [http://www.youtube.com/watch](http://www.youtube.com/watch)?
 v=jfxFLwdZvyw
 
 Here's the Facebook event page for Saturday night's show:
-http://www.facebook.com/event.php?eid=127786993994673
+[http://www.facebook.com/event.php?eid=127786993994673](http://www.facebook.com/event.php?eid=127786993994673)
 
 Some info about the musical group 'Resorts'
-http://resorts.bandcamp.com/
-http://soundcloud.com/resortsstudio
-http://www.facebook.com/resortsstudio
+[http://resorts.bandcamp.com/](http://resorts.bandcamp.com/)
+[http://soundcloud.com/resortsstudio](http://soundcloud.com/resortsstudio)
+[http://www.facebook.com/resortsstudio](http://www.facebook.com/resortsstudio)
 
 Info about Access Gallery:
-http://www.accessgallery.ca/
-http://www.facebook.com/pages/Access-Gallery/130018887042092
+[http://www.accessgallery.ca/](http://www.accessgallery.ca/)
+[http://www.facebook.com/pages/Access-Gallery/130018887042092](http://www.facebook.com/pages/Access-Gallery/130018887042092)
 
 Hope to see you on Saturday night 
 
@@ -39,10 +39,10 @@ Michael
 Michael Markowsky
 phone: (604) 788-5433
 e-mail: mmarkowsky@hotmail.com
-Website: http://www.michaelmarkowsky.com
-Website: http://www.spacemelt.com
-Blog: http://markowsky.blogspot.com/
-Twitter: http://twitter.com/markowsky or @markowsky
-LinkedIn: http://ca.linkedin.com/in/markowsky
-YouTube: http://www.youtube.com/user/mmarkowsky
-Facebook: http://www.facebook.com/pages/Michael-Markowsky/
+Website: [http://www.michaelmarkowsky.com](http://www.michaelmarkowsky.com)
+Website: [http://www.spacemelt.com](http://www.spacemelt.com)
+Blog: [http://markowsky.blogspot.com/](http://markowsky.blogspot.com/)
+Twitter: [http://twitter.com/markowsky](http://twitter.com/markowsky) or @markowsky
+LinkedIn: [http://ca.linkedin.com/in/markowsky](http://ca.linkedin.com/in/markowsky)
+YouTube: [http://www.youtube.com/user/mmarkowsky](http://www.youtube.com/user/mmarkowsky)
+Facebook: [http://www.facebook.com/pages/Michael-Markowsky/](http://www.facebook.com/pages/Michael-Markowsky/)

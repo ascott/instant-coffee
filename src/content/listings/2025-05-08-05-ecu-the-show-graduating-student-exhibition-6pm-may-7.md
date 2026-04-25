@@ -31,7 +31,7 @@ Open to Public? Yes
 
 Cost Free
 
-https://www.ecuad.ca/events/the-show-2025?
+[https://www.ecuad.ca/events/the-show-2025](https://www.ecuad.ca/events/the-show-2025)?
 utm_source=Communications+%7C+Emix&utm_campaign=112202e389-
 EMAIL_CAMPAIGN_2025_04_29_05_56&utm_medium=email&utm_term=0_-11220
 2e389-53677567&mc_cid=112202e389&mc_eid=af86c4f785

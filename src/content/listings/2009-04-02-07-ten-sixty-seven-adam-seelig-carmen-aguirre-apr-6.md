@@ -23,7 +23,7 @@ Playwrights Adam Seelig and Carmen Aguirre will read from their writings
 for theatre, followed with a discussion of poetry and theatre moderated by
 Brook Houglum.
 to read texts & for author information & to view our community calendar
-click here: http://www.kswnet.org/
+click here: [http://www.kswnet.org/](http://www.kswnet.org/)
 
 *+*+*+*+*+*+*
 

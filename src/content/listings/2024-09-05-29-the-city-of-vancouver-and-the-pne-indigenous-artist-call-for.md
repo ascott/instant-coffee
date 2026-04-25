@@ -22,4 +22,4 @@ To learn more about the call and to apply, please go here: Indigenous artist cal
 Amphitheatre | City of Vancouver
 
 
-http://https://vancouver.ca/parks-recreation-culture/arti
+[http://https://vancouver.ca/parks-recreation-culture/arti](http://https://vancouver.ca/parks-recreation-culture/arti)

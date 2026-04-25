@@ -25,5 +25,5 @@ exhibit.
 01 Magazine is set to release on July 15th, 2009 and it will feature fashion, art, architecture, and 
 vintage objects that reflect a taste for the obscure. Please celebrate with us.
 
-http://www.jennileemarigomen.com
-http://www.01magazine.com (coming soon)
+[http://www.jennileemarigomen.com](http://www.jennileemarigomen.com)
+[http://www.01magazine.com](http://www.01magazine.com) (coming soon)

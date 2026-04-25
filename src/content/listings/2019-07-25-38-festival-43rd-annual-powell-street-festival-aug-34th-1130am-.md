@@ -11,7 +11,7 @@ summary: "FESTIVAL | 43rd Annual Powell Street Festival | AUG 3+4TH | 1130AM - 7
 Powell Street Festival
 410-111 West Hastings Street
 Vancouver, BC
-http://www.powellstreetfestival.com/
+[http://www.powellstreetfestival.com/](http://www.powellstreetfestival.com/)
 
 Vancouver's annual celebration of Japanese Canadian arts & culture. All events are free!
 

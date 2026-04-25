@@ -23,6 +23,6 @@ dimensional printed page. Work must be submitted in digital format.
 DEADLINE: 
 
 All submissions must be received by midnight on April 30th, 2018. For more information 
-on the submission process, visit: https://tiwcollective.com/perpendicular/volume-3/ 
+on the submission process, visit: [https://tiwcollective.com/perpendicular/volume-3/](https://tiwcollective.com/perpendicular/volume-3/) 
 
 For more details contact: thisiswhatarts@gmail.com.

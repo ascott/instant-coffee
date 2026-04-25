@@ -18,7 +18,7 @@ world. We invite independent and innovative short films and videos that
 explore the aesthetic and form of the moving image and its relation to
 narrative. Monitor 8 encourages new, experimental and risk-taking work that
 challenges the viewer’s active engagement. Submission details are available
-online at <http://savac.net/submissions/273-monitor-8-call.html> and you
+online at <[http://savac.net/submissions/273-monitor-8-call.html](http://savac.net/submissions/273-monitor-8-call.html)> and you
 can learn more about the program here.
 
 -- 

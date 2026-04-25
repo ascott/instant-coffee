@@ -118,7 +118,7 @@ Event, and in anthologies such as The Best Canadian Poetry in English, 2011
 and Rocksalt. He enjoys making videopoems, one of which, Sky Canoe, was
 screened at film festivals in Vancouver, Bristol, and Dunbar. Al currently
 lives in Prince George where he teaches at a high school. For more, visit
-http://alrempel.com/.
+[http://alrempel.com/](http://alrempel.com/).
 
 We gratefully acknowledge the Canada Council for the Arts, and the Coast
 Salish peoples whose traditional territories we are on.

@@ -26,6 +26,6 @@ Performing at FUSE are artists:
 *Skeena Reece
 
 Check our website for information:
-http://www.vanartgallery.bc.ca/events_and_programs/fuse.html
+[http://www.vanartgallery.bc.ca/events_and_programs/fuse.html](http://www.vanartgallery.bc.ca/events_and_programs/fuse.html)
 
 Tickets $17.50. Gallery Members free.

@@ -44,7 +44,7 @@ copy of the magazine. The edition is produced in collaboration with the Or
 Gallery, Vancouver, and in support of the artists' forthcoming album 12 Sun
 Songs by the Or Gallery, Christoph Keller Editions, and JRP/Ringier.
 
-To subscribe to Fillip, visit http://fillip.ca/about/subscriptions
+To subscribe to Fillip, visit [http://fillip.ca/about/subscriptions](http://fillip.ca/about/subscriptions)
 
 Vancouver Launch, March 28, 8pm
 Join us for a launch of Fillip 9 at the Fillip offices in Vancouver on

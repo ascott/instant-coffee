@@ -21,6 +21,6 @@ No registration required, just show up!
 
 Everyone welcome to attend.
 
-Directions to the Gallery https://www.richmondartgallery.org/visit-us.
+Directions to the Gallery [https://www.richmondartgallery.org/visit-us](https://www.richmondartgallery.org/visit-us).
 
 www.richmondartgallery.org

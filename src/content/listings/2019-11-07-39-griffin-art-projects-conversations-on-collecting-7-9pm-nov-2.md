@@ -48,4 +48,4 @@ workshop and will be approx. $10-30 for both days.
 - Dress appropriately, as working with clay can get a little messy!
 - Sorry, we are unable to accommodate drop-ins. Please pre-register and read our FAQ.
 $95
-https://www.mobil-art.ca/event-info/porcelain-clay-workshop-with-tanis-saxby-nov-21-28
+[https://www.mobil-art.ca/event-info/porcelain-clay-workshop-with-tanis-saxby-nov-21-28](https://www.mobil-art.ca/event-info/porcelain-clay-workshop-with-tanis-saxby-nov-21-28)

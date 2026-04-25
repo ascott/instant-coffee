@@ -18,4 +18,4 @@ Bortolussi, this graduate and undergraduate student ensemble from the UBC School
 Music will animate the gallery for an afternoon program celebrating themes and responding
 to chosen works from this exhibition.
 
-https://belkin.ubc.ca/events/concert-abbas-akhavan/
+[https://belkin.ubc.ca/events/concert-abbas-akhavan/](https://belkin.ubc.ca/events/concert-abbas-akhavan/)

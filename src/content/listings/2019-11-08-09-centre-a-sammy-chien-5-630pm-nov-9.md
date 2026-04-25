@@ -27,6 +27,6 @@ Taiwanese-Canadian immigrant and queer artist-of-colour; interdisciplinary artis
 director, performer, researcher and mentor who works with film, sound art, new media,
 performance, movement and spiritual practice.
 
-https://www.facebook.com/events/2960717590820801/
+[https://www.facebook.com/events/2960717590820801/](https://www.facebook.com/events/2960717590820801/)
 
 Presented in partnership with Heart of the City Festival.

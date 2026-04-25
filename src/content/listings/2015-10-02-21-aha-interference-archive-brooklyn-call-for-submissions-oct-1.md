@@ -89,7 +89,7 @@ and topics of discussion include: health benefits, fair wages, job
 protection, better working conditions, and solidarity amongst freelance, 
 part-time, and full-time art handlers. 
 
-http://www.arthandlersalliance.org/ 
+[http://www.arthandlersalliance.org/](http://www.arthandlersalliance.org/) 
 
 Interference Archive: 
 
@@ -109,4 +109,4 @@ learn from each other and develop new skills. We work in collaboration
 with like-minded projects, and encourage critical as well as creative 
 engagement with our own histories and current struggles. 
 
-http://interferencearchive.org/
+[http://interferencearchive.org/](http://interferencearchive.org/)

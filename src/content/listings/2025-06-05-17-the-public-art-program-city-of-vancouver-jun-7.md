@@ -23,4 +23,4 @@ Submissions are open now through Monday, July 7th at 4:00 PM (PST).
 This is a great chance for new artists to gain exposure"spread the word!
 
 To learn more about the call and to apply, please go here:
-https://vancouver.ca/parks-recreation-culture/artist-call-for-launch-pad-2026.aspx
+[https://vancouver.ca/parks-recreation-culture/artist-call-for-launch-pad-2026.aspx](https://vancouver.ca/parks-recreation-culture/artist-call-for-launch-pad-2026.aspx)

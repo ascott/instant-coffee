@@ -16,5 +16,5 @@ St, Vancouver, BC
 Co-presented with the Vancouver Art Book Fair Projects
 
 For more information on the book:
-https://i-o.cc/books/queuejumping
-https://artmetropole.com/shop/14662
+[https://i-o.cc/books/queuejumping](https://i-o.cc/books/queuejumping)
+[https://artmetropole.com/shop/14662](https://artmetropole.com/shop/14662)

@@ -21,7 +21,7 @@ Lands of the Musqueam (xmky"m), Tsleil-Waututh (sl"ilw"ta") and Squamish
 xwumixw) Nations.
 
 This event is free and open to the public. For more information, and to join the Zoom
-Webinar, please visit https://uaac-aauc.com/2020/keynote2.html. Tickets not required.
+Webinar, please visit [https://uaac-aauc.com/2020/keynote2.html](https://uaac-aauc.com/2020/keynote2.html). Tickets not required.
 STAN DOUGLAS is a visual artist who lives and works in Vancouver and Los Angeles.
 His films, videos and photographs have been seen in exhibitions internationally,
 including Documentas IX, X and XI (1992, 1997, 2002) and four Venice Biennales

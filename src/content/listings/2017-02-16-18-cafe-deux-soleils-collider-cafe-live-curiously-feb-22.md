@@ -11,7 +11,7 @@ summary: "Cafe Deux Soleils | Collider Cafe: Live. Curiously. | FEB 22"
 Collider Cafe: Live. Curiously.
 When: Wednesday, February 22, 8-10pm
 Where: Cafe Deux Soleils (2096 Commercial Drive, Vancouver, BC V5N 4B2)
-Event info: http://bit.ly/LiveCuriously 
+Event info: [http://bit.ly/LiveCuriously](http://bit.ly/LiveCuriously) 
 
 ColliderCafe is a space for artists, scientists, makers, and anyone interested in 
 art+science. Meet, discover, connect, create.
@@ -38,6 +38,6 @@ Theresa Liao
 Community Relations Director, Curiosity Collider 
 
 Help us spark curiosity for science
-Find us: http://www.curiositycollider.org/
+Find us: [http://www.curiositycollider.org/](http://www.curiositycollider.org/)
 Follow us: @CCollider
-Like us: http://Facebook.com/CuriosityCollider
+Like us: [http://Facebook.com/CuriosityCollider](http://Facebook.com/CuriosityCollider)

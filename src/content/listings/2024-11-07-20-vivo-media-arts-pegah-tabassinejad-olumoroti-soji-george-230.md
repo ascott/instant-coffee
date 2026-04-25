@@ -34,5 +34,5 @@ and
 serendipity in an exploration of the cityscapes of Iran, Afghanistan, Turkey,
 Lebanon, Germany and Canada.
 
-For more information, visit https://www.vivomediaarts.com/programming/entropic-
+For more information, visit [https://www.vivomediaarts.com/programming/entropic-](https://www.vivomediaarts.com/programming/entropic-)
 fields-of-displacement.

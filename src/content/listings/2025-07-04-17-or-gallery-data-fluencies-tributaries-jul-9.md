@@ -12,7 +12,7 @@ Data Fluencies: Tributaries Virtual Artist Talk
 Wednesday, July 9, 5:30-7pm
 
 Webinar Registration Link:
-https://events.teams.microsoft.com/event/710503ae-8509-404a-9031-
+[https://events.teams.microsoft.com/event/710503ae-8509-404a-9031-](https://events.teams.microsoft.com/event/710503ae-8509-404a-9031-)
 a9c7ad1117eb@2b24cc9f-f307-435e-81ac-eb7e83ad07d9
 
 Please join us on Wednesday July 9, 2025, for a virtual artist talk with artists Lani
@@ -44,7 +44,7 @@ OR GALLERY
 
 xmkym, Swxw7mesh, and slilwta Territory
 
-https://orgallery.org
+[https://orgallery.org](https://orgallery.org)
 
 236 East Pender, Vancouver, BC Canada V6A 1T7
 +1 (604) 683-7395 | operations@orgallery.org

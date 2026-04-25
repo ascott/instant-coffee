@@ -26,5 +26,5 @@ Produced in partnership with The Capilano Review and with support from Kootenay
 School of Writing.
 
 For more information and to register, please visit our website:
-https://westernfront.ca/events/dear-friends-junie-desil-tawhida-tanya-evanson-isabella-
+[https://westernfront.ca/events/dear-friends-junie-desil-tawhida-tanya-evanson-isabella-](https://westernfront.ca/events/dear-friends-junie-desil-tawhida-tanya-evanson-isabella-)
 wang

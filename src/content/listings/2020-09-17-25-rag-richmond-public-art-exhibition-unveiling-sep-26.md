@@ -59,4 +59,4 @@ More info: www.richmondartgallery.org
 
 Project supported by the BC Arts Council Youth Engagement Program and Richmond
 Public Art Program.
-http://www.richmondartgallery.org
+[http://www.richmondartgallery.org](http://www.richmondartgallery.org)

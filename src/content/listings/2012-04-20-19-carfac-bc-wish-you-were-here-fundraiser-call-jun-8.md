@@ -18,7 +18,7 @@ is 50/50 between artist and organization.
 There are no extra fees past the necessary self addressed stamped 
 envelope (SASE). If you would like to renew or 
 become a new member to be eligible to show, please go to: 
-http://www.carfacbc.org/join. 
+[http://www.carfacbc.org/join](http://www.carfacbc.org/join). 
 To participate:
 1. Send in up to 5 original images for sale on a 5" x 7" (12.5 x 17.7 cm) 
 surface (ie; canvas board, paper or panel) 
@@ -116,7 +116,7 @@ Available for 3 months (May 1st to August 1st)
 24/7 access with key
 
 More info on Facebook: 
-https://www.facebook.com/events/320006074731794/
+[https://www.facebook.com/events/320006074731794/](https://www.facebook.com/events/320006074731794/)
 
 Email: sngplyn@gmail.com
 

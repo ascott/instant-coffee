@@ -20,7 +20,7 @@ Come join CultureBeast CEO Kenneth LaMarr Jr. for a keynote speech on the
 role of technology in the modern world; and how it's dramatically changing
 the City of Vancouver.
 
-http://www.youtube.com/watch?v=aNEW7wv1QGo
+[http://www.youtube.com/watch?v=aNEW7wv1QGo](http://www.youtube.com/watch?v=aNEW7wv1QGo)
 
 Opening Reception: Friday Feb 20 at 8PM
 Keynote presentation promptly at 9:30PM

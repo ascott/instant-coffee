@@ -8,7 +8,7 @@ venue: "SCREENING"
 summary: "SCREENING | VIFF Film Centre | Endless Cookie | 4PM | JUL 1"
 ---
 
-https://viff.org/whats-on/endless-cookie/
+[https://viff.org/whats-on/endless-cookie/](https://viff.org/whats-on/endless-cookie/)
 
 The less you know about Endless Cookie beforehand, the better you will be
 prepared.

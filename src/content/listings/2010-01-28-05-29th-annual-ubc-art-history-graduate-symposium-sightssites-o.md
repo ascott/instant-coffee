@@ -74,4 +74,4 @@ We welcome all to the Art History Graduate Symposium and Exhibition Opening
 Reception, Friday January 29th from 5:30 - 8:00 pm, at the gallery, located
 in rm. 112, Koerner Library.
 
-For a schedule or more information on the symposium: http://www.ahva.ubc.ca/
+For a schedule or more information on the symposium: [http://www.ahva.ubc.ca/](http://www.ahva.ubc.ca/)

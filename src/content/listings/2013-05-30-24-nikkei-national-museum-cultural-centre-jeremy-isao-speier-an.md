@@ -25,8 +25,8 @@ Museum hours: Tuesday-Sunday, 11am-5pm
 Admission by donation
 
 Event Page: 
-http://centre.nikkeiplace.org/double-zero/
-Website: http://www.nikkeiplace.org/
+[http://centre.nikkeiplace.org/double-zero/](http://centre.nikkeiplace.org/double-zero/)
+Website: [http://www.nikkeiplace.org/](http://www.nikkeiplace.org/)
 
 Nikkei National Museum & Cultural Centre presents Double Zero: The Point 
 Between Future Past, art by Jeremy Isao Speier and Junichiro Iwase. Speier 
@@ -50,7 +50,7 @@ Japanese Avant-Garde Counter Cinema
 Friday, July 12, 8-9 p.m.
 
 Press release
-http://eepurl.com/z3kU9
+[http://eepurl.com/z3kU9](http://eepurl.com/z3kU9)
 
 Moonwalker 2, 2013, eggshell, acrylic gel, mannequin, h 5'6"
 Junichiro Iwase

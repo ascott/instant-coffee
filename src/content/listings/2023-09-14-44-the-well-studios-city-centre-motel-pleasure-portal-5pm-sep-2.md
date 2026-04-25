@@ -43,6 +43,6 @@ Tickets by sliding scale $5-15
 lack of funds -please let us know via email at theimaginals.co@gmail.com. Thank
 you!
 
-Link for tickets: https://www.eventbrite.com/e/pleasure-portal-tickets-712616413877?
+Link for tickets: [https://www.eventbrite.com/e/pleasure-portal-tickets-712616413877](https://www.eventbrite.com/e/pleasure-portal-tickets-712616413877)?
 utm-campaign=social&utm-content=attendeeshare&utm-medium=discovery&utm-
 term=listing&utm-source=cp&aff=ebdsshcopyurl

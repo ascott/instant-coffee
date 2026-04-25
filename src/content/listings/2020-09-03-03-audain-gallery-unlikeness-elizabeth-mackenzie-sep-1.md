@@ -57,4 +57,4 @@ across the Pacific Ocean. Her ongoing, long-term research project considers the
 transformation of women artists' art practices as they age with wisdom. 
 Curated by Makiko Hara
 
-Exhibition Webpage: http://www.sfu.ca/galleries/teck-gallery/Unlikeness.html
+Exhibition Webpage: [http://www.sfu.ca/galleries/teck-gallery/Unlikeness.html](http://www.sfu.ca/galleries/teck-gallery/Unlikeness.html)

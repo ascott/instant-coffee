@@ -17,5 +17,5 @@ organ feel alive with possibility. " (from The Wire: Adventures in Sound and Mus
 
 Show at 7:00pm
 Advance Tickets
-https://www.eventbrite.ca/e/music-for-augmented-pipe-organ-tickets-1315727449219
+[https://www.eventbrite.ca/e/music-for-augmented-pipe-organ-tickets-1315727449219](https://www.eventbrite.ca/e/music-for-augmented-pipe-organ-tickets-1315727449219)
 St. Andrew's-Wesley United Church (1022 Nelson Street)

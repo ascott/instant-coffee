@@ -24,7 +24,7 @@ Vancouver Food Bank Society.
 
 Musical Guests:
 
-Twin Bandit - https://www.facebook.com/twinbandit
+Twin Bandit - [https://www.facebook.com/twinbandit](https://www.facebook.com/twinbandit)
 Twin Bandit is Hannah Walker and Jamie Elliott. Together they bring you an 
 intimate folk/roots performance with strong harmonies & original songs. 
 
@@ -40,4 +40,4 @@ to the tune of funk, indie and other classics.
 The Gam Gallery
 110 E Hastings St. Vancouver BC, Canada, V6A 1N4
 thegam@live.com
-http://www.gamgallery.com
+[http://www.gamgallery.com](http://www.gamgallery.com)

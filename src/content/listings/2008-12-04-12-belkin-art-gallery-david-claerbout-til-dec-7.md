@@ -42,4 +42,4 @@ with the Centre Georges Pompidou.
 
 For more information contact Naomi Sawada at 604-822-3640 or
 <naomi.sawada@ubc.ca> Morris and Helen Belkin Art Gallery, 1825 Main Mall,
-Vancouver, BC V6T 1Z2. <http://www.belkin.ubc.ca>
+Vancouver, BC V6T 1Z2. <[http://www.belkin.ubc.ca](http://www.belkin.ubc.ca)>

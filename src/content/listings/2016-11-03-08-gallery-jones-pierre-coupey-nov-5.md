@@ -15,4 +15,4 @@ parallel bodies of work, the "Untitled" oil on canvas and linen paintings and th
 "Stanzas", a suite of work on paper. Coupey will discuss his process, his enduring 
 commitment to abstraction, and the ramifications of his current work.
 
-http://www.galleryjones.com/contact/
+[http://www.galleryjones.com/contact/](http://www.galleryjones.com/contact/)

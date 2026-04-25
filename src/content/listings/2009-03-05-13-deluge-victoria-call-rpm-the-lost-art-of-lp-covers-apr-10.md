@@ -68,7 +68,7 @@ Kyra Kordoski, Exhibition Coordinator
 
 Deluge is on Facebook! Join our Facebook group for regular updates and
 event information:
-http://www.facebook.com/group.php?gid=55830682212
+[http://www.facebook.com/group.php?gid=55830682212](http://www.facebook.com/group.php?gid=55830682212)
 
 -- 
 

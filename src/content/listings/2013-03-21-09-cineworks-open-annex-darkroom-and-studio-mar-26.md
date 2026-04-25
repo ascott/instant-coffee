@@ -18,7 +18,7 @@ also be purchased for a reduction in cost.
 We also have a Community Night/ Orientation Night that is held monthly, 
 the next one will be March 27th. You can read more about it on the 
 Cineworks blog here 
-http://cineworkspost.wordpress.com/2013/02/08/news-at-the-annex/
+[http://cineworkspost.wordpress.com/2013/02/08/news-at-the-annex/](http://cineworkspost.wordpress.com/2013/02/08/news-at-the-annex/)
 
 We hope to see you there! If you have any questions please feel free to 
 email us. The space is in the basement of the ironworks building at 235 

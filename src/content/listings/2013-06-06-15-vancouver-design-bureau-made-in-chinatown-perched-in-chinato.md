@@ -44,6 +44,6 @@ Shumpei Kato, Andrew Siu & Jeffrey Liu, Diane Espiritu & Angel Dawn, Jacky
 Ling, Nick Santillan, and 
 www.vancouverdesignbureau.com
 info@vancouverdesignbureau.com
-https://www.facebook.com/VancouverDesignBureau
+[https://www.facebook.com/VancouverDesignBureau](https://www.facebook.com/VancouverDesignBureau)
 Twitter: @VanDesignBureau
 Instagram: @vancouverdesignbureau

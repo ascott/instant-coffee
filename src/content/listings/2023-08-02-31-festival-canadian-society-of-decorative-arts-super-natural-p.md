@@ -22,4 +22,4 @@ SYMPOSIUM PROGRAM
 csda-ccad.org
 
 REGISTER HERE
-https://csda-ccad.org/event-5279258/Registration
+[https://csda-ccad.org/event-5279258/Registration](https://csda-ccad.org/event-5279258/Registration)

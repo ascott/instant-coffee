@@ -65,4 +65,4 @@ Box 16, Whitehorse YT, Y1A 5X9
 Tel: (867) 667-8485
 Fax: (867) 393-6300
 gallerydirector@yac.ca
-http://yukonartscentre.com
+[http://yukonartscentre.com](http://yukonartscentre.com)

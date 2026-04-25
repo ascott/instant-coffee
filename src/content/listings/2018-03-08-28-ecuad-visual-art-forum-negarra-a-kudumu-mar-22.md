@@ -25,7 +25,7 @@ College and her MA from Leiden University. She is Manager of Public Programs at 
 Frye Art Museum in Seattle and Founder and Owner of Perpetuity Healing Arts.
 
 This is a free event, everyone is welcome. 
-https://www.ecuad.ca/calendar/visual-art-forum-negarra-a-kudumu
+[https://www.ecuad.ca/calendar/visual-art-forum-negarra-a-kudumu](https://www.ecuad.ca/calendar/visual-art-forum-negarra-a-kudumu)
 
 For more information: 
 Annie Briard

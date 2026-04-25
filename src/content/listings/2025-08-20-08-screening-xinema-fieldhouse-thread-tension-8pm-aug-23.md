@@ -13,7 +13,7 @@ Saturday, August 23 at 8pm
 XINEMA Fieldhouse (5050 Wales St.)
 
 PRESALE TICKETS:
-https://checkout.square.site/merchant/ML9B8XJFZJN83/checkout/OTMNHJN66R63
+[https://checkout.square.site/merchant/ML9B8XJFZJN83/checkout/OTMNHJN66R63](https://checkout.square.site/merchant/ML9B8XJFZJN83/checkout/OTMNHJN66R63)
 ZFTM67PMPPNX?src=sheet%0A
 
 Please join us on Saturday, August 23 for Thread Tension, an outdoor film screening

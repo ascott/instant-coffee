@@ -58,8 +58,8 @@ Refreshments will be provided for all workshops.
 
 For further details on the workshops and the exhibition, please go to
 
-http://centrea.org/index.cfm?go=site.index&section=exhibitions&tag=upcoming&id=95
-http://newmusic.org/events/co-lab-2/
+[http://centrea.org/index.cfm?go=site.index&section=exhibitions&tag=upcoming&id=95](http://centrea.org/index.cfm?go=site.index&section=exhibitions&tag=upcoming&id=95)
+[http://newmusic.org/events/co-lab-2/](http://newmusic.org/events/co-lab-2/)
 
 Centre A
 Vancouver International Centre for Contemporary Asian Art

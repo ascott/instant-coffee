@@ -41,4 +41,4 @@ Teck Gallery
 Simon Fraser University, Harbour Centre
 515 West Hastings Street, Vancouver BC V6B 5K3
 
-http://sfugalleries.ca
+[http://sfugalleries.ca](http://sfugalleries.ca)

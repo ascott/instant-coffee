@@ -19,7 +19,7 @@ $110 Cineworks Members (+ taxes)
 $140 General Admission (+ taxes)
 Instructors: David Feuillatre and Naim Sutherland
 
-REGISTRATION: https://green-screens-workshop.eventbrite.ca
+REGISTRATION: [https://green-screens-workshop.eventbrite.ca](https://green-screens-workshop.eventbrite.ca)
 
 Looking to learn more about green screen filmmaking and virtual
 cinematography? Our upcoming hands-on workshop will give you the tools and
@@ -51,7 +51,7 @@ Participants are welcome to bring their own laptop for additional hands-on
 time with software, but this is not essential. The workshop will use Adobe
 After Effects, so it is recommended that participants who wish to bring a
 laptop without the software install the 30-Day Trial, closer to the event:
-http://adobe.ly/1SYIrf2
+[http://adobe.ly/1SYIrf2](http://adobe.ly/1SYIrf2)
 
 INSTRUCTORS
 David Feuillatre, Visual Effects Supervisor

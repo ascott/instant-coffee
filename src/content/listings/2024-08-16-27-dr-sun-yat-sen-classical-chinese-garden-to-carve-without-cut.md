@@ -58,7 +58,7 @@ the Dr. Sun Yat-Sen Garden and Park, featuring live performances by Strawberry
 not mandatory, but highly encouraged!!
 
 RSVP FOR THE OPENING RECEPTION HERE:
-https://www.eventbrite.ca/e/to-carve-without-cutting-tickets-984189877417?
+[https://www.eventbrite.ca/e/to-carve-without-cutting-tickets-984189877417](https://www.eventbrite.ca/e/to-carve-without-cutting-tickets-984189877417)?
 aff=oddtdtcreator
 
 For the duration of the exhibition run, admission to the Dr. Sun Yat-Sen Garden and

@@ -16,7 +16,7 @@ April 3 " 12, 2025
 Opening Reception: April 3 | 6-9 pm
 Exhibition: April 4-12, Tuesday to Saturday 12-6 pm
 Artist Talk: April 12 | 2 pm
-More info: https://www.vivomediaarts.com/programming/emdr
+More info: [https://www.vivomediaarts.com/programming/emdr](https://www.vivomediaarts.com/programming/emdr)
 
 EMDR " a spatial cinematic work where fragmented memories and emotions unfold
 across four channels, perfectly synced to an experimental electronic score. Blurring
@@ -50,4 +50,4 @@ EMDR represents these deep feelings throughout the project via contemporary
 dance, shot in a black void, representing our characters deepest inner mental
 space.
 
-More info: https://www.vivomediaarts.com/programming/emdr
+More info: [https://www.vivomediaarts.com/programming/emdr](https://www.vivomediaarts.com/programming/emdr)

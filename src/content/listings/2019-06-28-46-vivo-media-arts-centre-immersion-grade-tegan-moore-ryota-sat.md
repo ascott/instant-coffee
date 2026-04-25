@@ -16,7 +16,7 @@ Regular exhibition date
 July 12 - August 3, 2019
 VIVO Media Arts Centre
 
-Facebook event: https://www.facebook.com/events/2065880117040344/
+Facebook event: [https://www.facebook.com/events/2065880117040344/](https://www.facebook.com/events/2065880117040344/)
 
 _ 
 

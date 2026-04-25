@@ -29,7 +29,7 @@ APPLICATION DEADLINE: March 1, 2008
 
 For more information, visit
 
-http://www.richmondartgallery.org
+[http://www.richmondartgallery.org](http://www.richmondartgallery.org)
 
 Or contact us at:
 

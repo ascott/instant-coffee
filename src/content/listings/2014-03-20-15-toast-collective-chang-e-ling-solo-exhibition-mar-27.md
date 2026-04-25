@@ -16,14 +16,14 @@ Thursday, March 27, 2014 | 7:30 PM
 Daniel Eric Howse is a 23 year-old, self-taught musician and painter from St. 
 John's, Newfoundland. Based out of Griffintown, Montreal, Daniel has been 
 performing under the name Chang E Ling with madcap rock & roll outfit, 
-People On Pause (http://peopleonpause.com/) since 2012.
+People On Pause ([http://peopleonpause.com/](http://peopleonpause.com/)) since 2012.
 
 It is with great pleasure that General Assembly announces Ling's sophomore 
 solo expositional effort: Chang E Ling | solo exhibition. Representing the 
 efforts of one year, a limited printed run of select works will be on display for 
 three weeks with gallery hours to be announced closer to the date. 
 
-http://cargocollective.com/changeling
+[http://cargocollective.com/changeling](http://cargocollective.com/changeling)
 
 General Assembly is Clare Asquith and Andrea Creamer: artists, 
 collaborators, instigators, organizers and co-producers.
@@ -39,7 +39,7 @@ art, event and food-centric space at 648 Kingsway in East Vancouver. The
 Toast is a DIY, flexible and community located place for artists, events and 
 workshops.
 
-THE TOAST COLLECTIVE http://thetoast.org/
+THE TOAST COLLECTIVE [http://thetoast.org/](http://thetoast.org/)
 
 The Toast Collective is a store front with the following measurements:
 Front Door 40 inches across

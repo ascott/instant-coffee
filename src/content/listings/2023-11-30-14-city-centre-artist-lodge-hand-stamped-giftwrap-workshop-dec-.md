@@ -28,7 +28,7 @@ City Centre Artist Lodge
 
 The Well Studios (Basement, East Stairwell)
 
-Plan ahead, register here: https://square.link/u/m69DaG4F
+Plan ahead, register here: [https://square.link/u/m69DaG4F](https://square.link/u/m69DaG4F)
 Day-of drop-ins also welcome!
 
 Swing by during the City Centre Artist Lodge Holiday Market:

@@ -35,7 +35,7 @@ submissions.
 CV or short biography
 Support Material: 10 samples of recent work and a detailed image list
 Project description or letter of intent
-For more information, please visit https://accessgallery.ca/submissions
+For more information, please visit [https://accessgallery.ca/submissions](https://accessgallery.ca/submissions)
 
 *
 

@@ -41,4 +41,4 @@ For program details and other information, see
 
 -- 
 
-http://www.capilanocreativewriting.blogspot.com
+[http://www.capilanocreativewriting.blogspot.com](http://www.capilanocreativewriting.blogspot.com)

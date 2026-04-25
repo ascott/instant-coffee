@@ -11,7 +11,7 @@ summary: "VIVO [ONLINE] | Advanced Colour Grading with DaVinci Resolve | APR 3"
 Advanced Colour Grading with DaVinci Resolve |
 
 More info and sign up at:
-https://advancedcolour.eventbrite.ca
+[https://advancedcolour.eventbrite.ca](https://advancedcolour.eventbrite.ca)
 
 Catalyze your unique visual style and give depth to your storytelling process in this
 workshop led by colourist Devan Scott.

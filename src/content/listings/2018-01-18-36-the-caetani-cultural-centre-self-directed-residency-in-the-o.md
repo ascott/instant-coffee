@@ -14,7 +14,7 @@ researchers, musicians and performers.
 Dates: February 1-28, 2018 (Dates Flexible)
 Deadline to Apply: January 25th 2018
 
-TO APPLY AND FOR MORE INFORMATION: http://caetani.org/self-directed-
+TO APPLY AND FOR MORE INFORMATION: [http://caetani.org/self-directed-](http://caetani.org/self-directed-)
 residencies-for-artists-and-writers/ 
 The Caetani Cultural Centre offers artists and writers creative living and working 
 spaces in an independent community atmosphere for self-directed residencies, 
@@ -68,5 +68,5 @@ participant submit an exit survey upon completion of their project.
 Artists-in-Residence are requested to leave a piece of art in the community, if 
 possible.
 
-TO APPLY AND FOR MORE INFORMATION: http://caetani.org/self-directed-
+TO APPLY AND FOR MORE INFORMATION: [http://caetani.org/self-directed-](http://caetani.org/self-directed-)
 residencies-for-artists-and-writers/

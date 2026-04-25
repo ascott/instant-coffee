@@ -33,7 +33,7 @@ Festival of Recorded Movement,
 
 @formvancouver
 
-http://www.f-o-r-m.ca/
+[http://www.f-o-r-m.ca/](http://www.f-o-r-m.ca/)
 
 Special thanks to Josh Hite, Sophia Wolfe, David Raymond and all the collaborators
 who helped make these films. Poster artwork created by Samantha Krystal.

@@ -15,7 +15,7 @@ Organizer: Middle East and North Africa Film Festival
 Presented Online through Eventive
 
 Free registration on:
-https://watch.eventive.org/menafilmfestival/play/5fb070e58807e60080ddd9e9/5fb0740
+[https://watch.eventive.org/menafilmfestival/play/5fb070e58807e60080ddd9e9/5fb0740](https://watch.eventive.org/menafilmfestival/play/5fb070e58807e60080ddd9e9/5fb0740)
 8a662240094087787
 Time and time again, Beirut faces loss, tragedy and upheavals. People contend with
 the intensity of tragic events
@@ -32,7 +32,7 @@ Curated and moderated by Ghinwa Yassine (@arts.embodiment) and Mandana
 Mansouri
 Find a curated selection of films by the artists in this document:
 
-https://docs.google.com/document/d/1gbEI7Zgp7iAWDvUDQqn12fpulEvT2jrqqpkJ1Fy
+[https://docs.google.com/document/d/1gbEI7Zgp7iAWDvUDQqn12fpulEvT2jrqqpkJ1Fy](https://docs.google.com/document/d/1gbEI7Zgp7iAWDvUDQqn12fpulEvT2jrqqpkJ1Fy)
 KTrM/edit?usp=sharing
 
 About the panelists:

@@ -56,7 +56,7 @@ March. Images available upon request.
 
 This is the launching event for the Powell Street Festival's 2010 season of
 events. More information at www.powellstreetfestival.com. Follow us on
-Twitter @ http://twitter.com/powellstfest Blim: www.blim.ca
+Twitter @ [http://twitter.com/powellstfest](http://twitter.com/powellstfest) Blim: www.blim.ca
 
 Info: 604.683.8240 or @ gm@powellstreetfestival.com
 

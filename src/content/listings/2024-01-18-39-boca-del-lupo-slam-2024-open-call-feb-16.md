@@ -23,4 +23,4 @@ of space.
 
 Follow the link below to find out more!
 
-https://bocadellupo.com/initiatives/slam
+[https://bocadellupo.com/initiatives/slam](https://bocadellupo.com/initiatives/slam)

@@ -11,7 +11,7 @@ summary: "SCREENING | VIVO [ONLINE] | Ex.Situ/In.Situ | OCT 22"
 ONLINE SCREENING
 Ex.Situ/In.Situ
 Thursday October 22 - October 28
-https://digitalshift.imaa.ca/space/cinema/
+[https://digitalshift.imaa.ca/space/cinema/](https://digitalshift.imaa.ca/space/cinema/)
 FREE
 
 As a part of this year's online IMAA conference, Digital Shift, Cinevolution and VIVO
@@ -21,4 +21,4 @@ program examines themes of permeability, temporality,
 fragmentation, and re/turn through the intimate topography of our material and narrative
 entanglements. Featuring works by Gabi Dao, Emma Joye Frank, Melissa General,
 Daniel Negatu, Naween Noppakun, Sara Wylie & Hannah Tollefson, and Yuan Zheng.
-Visit: https://digitalshift.imaa.ca/space/cinema
+Visit: [https://digitalshift.imaa.ca/space/cinema](https://digitalshift.imaa.ca/space/cinema)

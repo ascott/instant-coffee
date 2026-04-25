@@ -27,4 +27,4 @@ opportunity, an emerging Indigenous artist is defined as an Indigenous artist wh
 not yet exhibited in institutionally recognised art spaces.
 
 More Info:
-https://www.griffinartprojects.ca/residency-opportunities
+[https://www.griffinartprojects.ca/residency-opportunities](https://www.griffinartprojects.ca/residency-opportunities)

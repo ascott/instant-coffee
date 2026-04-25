@@ -20,7 +20,7 @@ Doors at 6:30pm
 Performances at 7pm
 RSVPs are
 appreciated
-RSVP here: https://thepolygon.ca/event/altar/
+RSVP here: [https://thepolygon.ca/event/altar/](https://thepolygon.ca/event/altar/)
 
 Lineup
 Tortillera* by Ximena Velzquez

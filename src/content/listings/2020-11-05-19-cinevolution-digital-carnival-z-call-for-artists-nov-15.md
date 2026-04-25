@@ -21,7 +21,7 @@ grapple with shifting social, environmental, physical, and emotional realities.
 
 For more information on the festival theme, please visit our website at the following
 link:
-http://cinevolutionmedia.com/digital-carnival-z-call-for-submissions/
+[http://cinevolutionmedia.com/digital-carnival-z-call-for-submissions/](http://cinevolutionmedia.com/digital-carnival-z-call-for-submissions/)
 
 Applications are being accepted NOW until November 15, 2020 at 11:59pm PST.
 

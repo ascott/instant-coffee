@@ -45,4 +45,4 @@ submissions@thecapilanoreview.com with the subject line On Collective Care
 
 Please send any questions about your submission to
 contact@thecapilanoreview.com before the deadline. View the full call here:
-https://thecapilanoreview.com/on-collective-care-ti-tcr-20-call-for-submissions/
+[https://thecapilanoreview.com/on-collective-care-ti-tcr-20-call-for-submissions/](https://thecapilanoreview.com/on-collective-care-ti-tcr-20-call-for-submissions/)

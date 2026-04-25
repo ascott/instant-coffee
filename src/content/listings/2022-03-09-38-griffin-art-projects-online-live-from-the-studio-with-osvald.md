@@ -9,7 +9,7 @@ summary: "Griffin Art Projects [ONLINE] | Live from the Studio with Osvaldo Cast
 ---
 
 Registration:
-https://us06web.zoom.us/webinar/register/WN_AjBvGMUOTCuRBCUEYlHxfw
+[https://us06web.zoom.us/webinar/register/WN_AjBvGMUOTCuRBCUEYlHxfw](https://us06web.zoom.us/webinar/register/WN_AjBvGMUOTCuRBCUEYlHxfw)
 
 Join Griffins artist-in-residence Osvaldo Castillo to learn more
 about what he has been up to throughout his time at Griffin Art

@@ -27,4 +27,4 @@ dreamscape. This surrealistic study inspired by the natural world beckons viewer
 navigate the layers of paint, constructing their own narratives. In this artistic journey, one
 finds a sacred space for reflection, contemplating themes of mortality and decay.
 
-https://portalpopupgallery.square.site/
+[https://portalpopupgallery.square.site/](https://portalpopupgallery.square.site/)

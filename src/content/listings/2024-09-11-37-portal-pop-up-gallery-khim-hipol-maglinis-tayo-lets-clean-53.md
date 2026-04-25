@@ -10,7 +10,7 @@ summary: "PORTAL POP-UP GALLERY | Khim Hipol: Maglinis Tayo (Let's Clean) | 530P
 
 PORTAL POP-UP GALLERY
 
-https://portalpopupgallery.square.site/
+[https://portalpopupgallery.square.site/](https://portalpopupgallery.square.site/)
 
 407 W. Cordova St., Vancouver BC
 
@@ -91,5 +91,5 @@ Please feel free to share with anyone who might resonate.
 To find out more visit: www.katyslany.com OR join me this Sunday September 8th for
 a FREE Somatic Interconnection class,
 
-register at:https://www.eventbrite.com/e/somatic-interconnection-class-tickets-
+register at:[https://www.eventbrite.com/e/somatic-interconnection-class-tickets-](https://www.eventbrite.com/e/somatic-interconnection-class-tickets-)
 1004621599247?aff=oddtdtcreator

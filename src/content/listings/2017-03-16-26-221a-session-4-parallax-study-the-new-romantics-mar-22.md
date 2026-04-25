@@ -12,7 +12,7 @@ Wednesday, March 22 at 6:30 PM - 8:30 PM
 
 Session 4:
 Boris Groys: Romantic Bureaucracy, Alexander Kojve's Post-historical Wisdom
-https://www.radicalphilosophy.com/dossiers/romantic-bureaucracy-2
+[https://www.radicalphilosophy.com/dossiers/romantic-bureaucracy-2](https://www.radicalphilosophy.com/dossiers/romantic-bureaucracy-2)
 
 Hosted at 221A by Jesse McKee
 
@@ -43,11 +43,11 @@ esse McKee is the Head of Strategy at 221A. Previously he was the Curator of
 Walter Phillips Gallery, The Banff Centre, Banff and Exhibitions Curator of 
 Western Front, Vancouver.
 
-Read more: http://221a.ca/ambivalent-pleasures-parallax-study
+Read more: [http://221a.ca/ambivalent-pleasures-parallax-study](http://221a.ca/ambivalent-pleasures-parallax-study)
 
 This event is co-presented with the Vancouver Art Gallery in the context of its 
 current exhibition, Vancouver Special: Ambivalent Pleasures. Read more about 
-the library and public program: http://221a.ca/vancouver-special-ambivalent-
+the library and public program: [http://221a.ca/vancouver-special-ambivalent-](http://221a.ca/vancouver-special-ambivalent-)
 pleasures-library-and-public-program
 
 221A thanks the British Columbia Arts Council for the support of its public 

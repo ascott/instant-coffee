@@ -34,7 +34,7 @@ way, we are looking forward to being surprised.
 General criteria are scientific, collaborative and pedagogical
 expertise.
 Full announcement at
-http://www.mah.se/templates/Job____98011.aspx
+[http://www.mah.se/templates/Job____98011.aspx](http://www.mah.se/templates/Job____98011.aspx)
 Application due on October 1, 2009.
 
 Artist-in-Residence Program (Visiting Professor)
@@ -62,4 +62,4 @@ travelling to Malmoe.
 The steering committee of Medea selects entrepreneurs. For
 further information, email Bo Reimer, Professor of Media and
 Communication Studies and Director of Medea (Bo.Reimer@mah.se).
-http://http://www.mah.se/templates/Job____98011.aspx
+[http://http://www.mah.se/templates/Job____98011.aspx](http://http://www.mah.se/templates/Job____98011.aspx)

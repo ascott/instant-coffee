@@ -11,7 +11,7 @@ summary: "WORKSHOP | Spare Room | Olfactory Sampler: Adolescent Brains"
 Facilitated by Megan Hepburn and SPARE ROOM
 Wednesday April 25, 2018
 7-9pm (please arrive early)
-FB: https://www.facebook.com/events/168563737177404/
+FB: [https://www.facebook.com/events/168563737177404/](https://www.facebook.com/events/168563737177404/)
 
 LIMITED SPOTS - Please R S V P with Subject headline: "Olfactory Sampler: 
 Adolescent Brains" with your FULL NAME to: i n f o @ s p a r e - r o o m . c a

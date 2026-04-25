@@ -12,7 +12,7 @@ Mumbai Sleeping
 (Dhruv Dhawan)
 Opening Reception: Saturday, May 30th, 6:30pm
 @ The Blank Tank Gallery (#102 - 148 Alexander St, Gastown - Vancouver)
-RSVP on Facebook: https://www.facebook.com/events/1437859176532572/
+RSVP on Facebook: [https://www.facebook.com/events/1437859176532572/](https://www.facebook.com/events/1437859176532572/)
 
 This collection has featured in the European edition of Photo® magazine and
 has been exhibited in Paris and Dubai. It is showing in Vancouver for the
@@ -45,6 +45,6 @@ has been exhibited in Paris and Dubai and is also available as a
 photography book on Amazon.
 
 Please click here to view a video preview of the exhibit:
-https://vimeo.com/128965212
+[https://vimeo.com/128965212](https://vimeo.com/128965212)
 
-Details at: http://blanktank.ca/mumbai-sleeping/
+Details at: [http://blanktank.ca/mumbai-sleeping/](http://blanktank.ca/mumbai-sleeping/)

@@ -16,4 +16,4 @@ Photographs By Alana Paterson'.
 
 This exhibition is organized in partnership with the 2019 Capture Photography Festival.
 
-https://thepolygon.ca/event/alana-paterson-opening-reception/
+[https://thepolygon.ca/event/alana-paterson-opening-reception/](https://thepolygon.ca/event/alana-paterson-opening-reception/)

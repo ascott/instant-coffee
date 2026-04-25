@@ -12,7 +12,7 @@ Exhibition Title: Chopper
 Opening Reception: Thursday, February 26, 2015 (7pm - 10pm)
 Exhibition Dates: February 26 - March 28, 2015
 Location: grunt gallery, 116-350 East 2nd Ave, Vancouver, BC
-URL: http://grunt.ca/exhibitions/chopper/
+URL: [http://grunt.ca/exhibitions/chopper/](http://grunt.ca/exhibitions/chopper/)
 
 grunt gallery is pleased to present Brandon Vickerd’s Chopper. Based out of
 Toronto, Brandon Vickerd is an artist whose work ranges from site-specific
@@ -47,9 +47,9 @@ awards and grants from the Canada Council for the Arts, the Toronto Arts
 Council and the Ontario Arts Council. He lives in Toronto and is a
 Professor of Visual Arts at York University.
 
-www.brandonvickerd.com (http://www.brandonvickerd.com/)
+www.brandonvickerd.com ([http://www.brandonvickerd.com/](http://www.brandonvickerd.com/))
 
 Contact Information:
-grunt.ca (http://grunt.ca/)
+grunt.ca ([http://grunt.ca/](http://grunt.ca/))
 604-875-9616
 116-350 East 2nd Ave, Vancouver, BC, V5T4R8

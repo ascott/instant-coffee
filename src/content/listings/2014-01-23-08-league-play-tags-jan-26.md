@@ -28,4 +28,4 @@ Vancouver Courier called League “The most incredible development
 in Vancouver recreation this year,... focused on mental exercise as 
 much as physical exertion.“ It's free and all are welcome; bring both 
 body and mind.
-http://league-league.org
+[http://league-league.org](http://league-league.org)

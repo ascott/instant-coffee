@@ -25,4 +25,4 @@ The Transparency Machine Event asks a writer to select a poem-text written by
 someone else and to facilitate a 20-minute discussion about it. A vintage overhead
 projector circa 19?? will be used in the making of this event.
 
-http://https://unitpitt.us5.list-manage.com/track/click?u
+[http://https://unitpitt.us5.list-manage.com/track/click?u](http://https://unitpitt.us5.list-manage.com/track/click?u)

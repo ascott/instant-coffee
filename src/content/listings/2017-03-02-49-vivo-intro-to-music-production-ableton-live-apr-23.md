@@ -22,7 +22,7 @@ Spring Cleaning Special Rates!
 Three sessions, 9 hours total | $70, or $58 with VIVO Extended Producer 
 Membership
 
-Sign up on Eventbrite - https://music-production-with-alexandre-
+Sign up on Eventbrite - [https://music-production-with-alexandre-](https://music-production-with-alexandre-)
 klinke.eventbrite.ca
 
 Ableton Live is one of the top music creation and performance platforms 
@@ -34,7 +34,7 @@ pieces and create their own synth patches.
 No prior experience necessary!
 
 Visit VIVO Education for many more details: 
-http://www.vivomediaarts.com/education/upcoming-workshops
+[http://www.vivomediaarts.com/education/upcoming-workshops](http://www.vivomediaarts.com/education/upcoming-workshops)
 
 50. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.

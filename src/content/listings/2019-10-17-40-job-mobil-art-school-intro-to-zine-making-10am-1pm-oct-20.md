@@ -25,4 +25,4 @@ cover brainstorming ideas, producing a layout, and will
 have a selection of materials on hand for you to try out both mark making and collage
 techniques.
 $63
-https://www.mobil-art.ca/event-info/intro-to-zine-making-1
+[https://www.mobil-art.ca/event-info/intro-to-zine-making-1](https://www.mobil-art.ca/event-info/intro-to-zine-making-1)

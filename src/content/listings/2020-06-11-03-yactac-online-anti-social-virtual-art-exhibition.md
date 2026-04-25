@@ -9,7 +9,7 @@ summary: "Yactac (Online) | Anti-Social | Virtual Art Exhibition"
 ---
 
 "Anti-Social" 
-Yactac Virtual Art Exhibition is now live - https://bit.ly/2LB487Q
+Yactac Virtual Art Exhibition is now live - [https://bit.ly/2LB487Q](https://bit.ly/2LB487Q)
 
 9 Rooms / 25+ Artists
 Zoom Opening May 30, 2020
@@ -37,4 +37,4 @@ Thank you for your support.
 Yactac
 
 Because it is great, and we are Yactac!
-https://www.yactac.com/
+[https://www.yactac.com/](https://www.yactac.com/)

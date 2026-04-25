@@ -54,4 +54,4 @@ process.
 For further information please contact the Charles H. Scott Gallery at
 604.844.3809.
 
-Emily Carr University, 1399 Johnston Street, Vancouver, BC, http://www.ecuad.ca
+Emily Carr University, 1399 Johnston Street, Vancouver, BC, [http://www.ecuad.ca](http://www.ecuad.ca)

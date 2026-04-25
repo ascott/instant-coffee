@@ -29,9 +29,9 @@ Location: The Ellis Building, 1024 Main Street, Vancouver B.C.
 
 Refreshments will be served. We look forward to seeing everyone there!
 
-RSVP Link: https://westcoastcreativessalon.com/rsvp/
+RSVP Link: [https://westcoastcreativessalon.com/rsvp/](https://westcoastcreativessalon.com/rsvp/)
 
 Want to learn more about us and how our salons are structured? Check out our website at
-https://westcoastcreativessalon.com/
+[https://westcoastcreativessalon.com/](https://westcoastcreativessalon.com/)
 
-Follow us on instagram: https://www.instagram.com/westcoastcreativessalon/
+Follow us on instagram: [https://www.instagram.com/westcoastcreativessalon/](https://www.instagram.com/westcoastcreativessalon/)

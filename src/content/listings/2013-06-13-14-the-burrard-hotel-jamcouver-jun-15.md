@@ -8,7 +8,7 @@ venue: "The Burrard Hotel"
 summary: "The Burrard Hotel | jamcouver | JUN 15"
 ---
 
-http://www.hoteltakeover.eventbrite.ca/
+[http://www.hoteltakeover.eventbrite.ca/](http://www.hoteltakeover.eventbrite.ca/)
 
 Color Magazine, Red Bull and Skullcandy invite you to staycation, Saturday
 June 15th, with 3 floors and 24 rooms at The Burrard transformed by
@@ -16,14 +16,14 @@ artists—both visual and sound—creating a unique interactive experience for
 those looking for a little more in a party.
 
 HUMANS in concert!!! +
-http://dashumans.bandcamp.com/
+[http://dashumans.bandcamp.com/](http://dashumans.bandcamp.com/)
 Announcing the 2013 Jamcouver skate teams, featuring the INSANE, all-new
 custom built skateboard ramp on-site for your entertainment.
 plus
 Student Loan Records’ Garage Party/Record release for
 Aaron Read & KoKo.
-http://aaronread.bandcamp.com/
-http://koko1.bandcamp.com/album/kill-me-first
+[http://aaronread.bandcamp.com/](http://aaronread.bandcamp.com/)
+[http://koko1.bandcamp.com/album/kill-me-first](http://koko1.bandcamp.com/album/kill-me-first)
 
 This is a one-night fundraiser in celebration of skateboarding, music, arts
 and culture that can't be missed!
@@ -33,34 +33,34 @@ Drinks
 Live Music
 Sun!
 
-Video Performance by HFOUR http://www.hfour.ca/
+Video Performance by HFOUR [http://www.hfour.ca/](http://www.hfour.ca/)
 &
 Deejays:
 GENIE (ReUp)
-http://www.facebook.com/reuptrippyshit
+[http://www.facebook.com/reuptrippyshit](http://www.facebook.com/reuptrippyshit)
 My!Gay!Husband! (Glory Days)
-http://www.myspace.com/mygayhusband
+[http://www.myspace.com/mygayhusband](http://www.myspace.com/mygayhusband)
 Cherchez La Femme (Happy Endings)
-http://www.fortunesoundclub.com/tag/cherchez-la-femme/
+[http://www.fortunesoundclub.com/tag/cherchez-la-femme/](http://www.fortunesoundclub.com/tag/cherchez-la-femme/)
 Mandy-Lyn
-http://www.mandy-lyn.com/
+[http://www.mandy-lyn.com/](http://www.mandy-lyn.com/)
 Dale Nelson Evans
-http://www.soundcloud.com/daleevans
+[http://www.soundcloud.com/daleevans](http://www.soundcloud.com/daleevans)
 
 #HotelRampParty
 
 COLOR MAGAZINE
-http://www.colormagazine.ca/
+[http://www.colormagazine.ca/](http://www.colormagazine.ca/)
 ARRIVAL
-http://arrivalagency.com/
+[http://arrivalagency.com/](http://arrivalagency.com/)
 NUBA
-http://www.nuba.ca/
+[http://www.nuba.ca/](http://www.nuba.ca/)
 RED BULL
-http://www.redbull.ca/
+[http://www.redbull.ca/](http://www.redbull.ca/)
 SKULLCANDY
-http://ca.skullcandy.com/
+[http://ca.skullcandy.com/](http://ca.skullcandy.com/)
 THE BURRARD
-http://theburrard.com/
+[http://theburrard.com/](http://theburrard.com/)
 
 SKATER REGISTRATION:
 Message us for the promo code. We're making a video and got $1000 from

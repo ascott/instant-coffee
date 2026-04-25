@@ -13,7 +13,7 @@ Thursday, October 4, 2018
 7:00 PM - 9:00 PM
 
 Get your tickets here:
-https://www.eventbrite.ca/e/artist-salon-with-vanessa-lam-tickets-49872348537
+[https://www.eventbrite.ca/e/artist-salon-with-vanessa-lam-tickets-49872348537](https://www.eventbrite.ca/e/artist-salon-with-vanessa-lam-tickets-49872348537)
 
 The Richmond Art Gallery's Artist Salon is a free monthly program for
 artists to connect, network and learn from each other.

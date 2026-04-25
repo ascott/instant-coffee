@@ -57,7 +57,7 @@ economic realities of being an artist.
 Week 4 – Feb 9th - The best ways to market yourself, get your work out into 
 different communities and online.
 
-For more information, please visit http://gachet.org/ or contact Lara Fitzgerald, 
+For more information, please visit [http://gachet.org/](http://gachet.org/) or contact Lara Fitzgerald, 
 Programming Director, programming@gachet.org, or 604 687 2468.
 To register for the workshop, please e-mail programming@gachet.org with 
 "Artist's Reality" in the subject heading.

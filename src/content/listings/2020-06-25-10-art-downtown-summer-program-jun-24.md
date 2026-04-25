@@ -22,11 +22,11 @@ consist of artists creating and showcasing their artwork to the public every
 Wednesday at Lot 19 between 11AM-2PM. The program begins on Wednesday
 June 17th and will continue until September 9th, 2020.
 
-For all of the dates, times and locations, please visit https://www.vanvaf.com/art-
+For all of the dates, times and locations, please visit [https://www.vanvaf.com/art-](https://www.vanvaf.com/art-)
 downtown. We hope you can join us in supporting all artists.
 
 Art Downtown is organized by The Vancouver Visual Art Foundation and the
 Downtown Vancouver Business Improvement Association (DVBIA).
 
 This event is weather dependent. Please see our Facebook page for updates on
-cancellations (https://www.facebook.com/artvancouverexhibition/).
+cancellations ([https://www.facebook.com/artvancouverexhibition/](https://www.facebook.com/artvancouverexhibition/)).

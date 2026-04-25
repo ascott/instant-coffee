@@ -35,7 +35,7 @@ kind in Canada. Line up is as follows:
 - Millie Wissar, Sound Designer/Field Recordist/ & guest.
 
 Tickets for the music event avail here:
-https://www.facebook.com/events/2423164867994348/
+[https://www.facebook.com/events/2423164867994348/](https://www.facebook.com/events/2423164867994348/)
 
 *~*~*~*~*~*~*~*
 

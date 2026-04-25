@@ -17,5 +17,5 @@ illusions within
 their 2D collage.
 
 Register here:
-https://www.contemporaryartgallery.ca/events/open-studio-jack-kenna/?
+[https://www.contemporaryartgallery.ca/events/open-studio-jack-kenna/](https://www.contemporaryartgallery.ca/events/open-studio-jack-kenna/)?
 mc_cid=2a872d7f49&mc_eid=aea072d008

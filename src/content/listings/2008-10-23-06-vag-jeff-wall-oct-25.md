@@ -18,7 +18,7 @@ Vancouver Art Gallery
 750 Hornby Street,
 Vancouver,¨BC V6Z 2H7
 
-http://www.vanartgallery.bc.ca
+[http://www.vanartgallery.bc.ca](http://www.vanartgallery.bc.ca)
 
 The Vancouver Art Gallery will present the institution's first solo
 exhibition of work by internationally renowned Vancouver artist Jeff Wall

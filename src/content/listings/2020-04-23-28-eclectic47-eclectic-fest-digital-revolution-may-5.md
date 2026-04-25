@@ -9,7 +9,7 @@ summary: "ECLECTIC47 | ECLECTIC Fest: Digital Revolution | MAY 5"
 ---
 
 Event Title: ECLECTIC Fest: Digital Revolution
-Website Link: http://eclectic47.com/eclectic-fest-about
+Website Link: [http://eclectic47.com/eclectic-fest-about](http://eclectic47.com/eclectic-fest-about)
 
 We are seeking short films of any genre for our digital film festival!
 Entry is free and open to all

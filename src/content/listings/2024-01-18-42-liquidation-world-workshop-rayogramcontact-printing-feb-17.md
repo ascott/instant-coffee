@@ -30,12 +30,12 @@ Workshop will include extended periods of standing under subdued light. Frequent
 breaks are welcomed. Contact liquidationworld2000@gmail.com with any inquiries.
 
 ---> SIGN UP HERE:
-https://liquidation-world.square.site/product/rayogram-contact-printing-workshop/229
+[https://liquidation-world.square.site/product/rayogram-contact-printing-workshop/229](https://liquidation-world.square.site/product/rayogram-contact-printing-workshop/229)
 
 Workshop instructor: Sidney Gordon
-Website: https://sidneygordon.ca/
-Instagram: https://www.instagram.com/dirttones/
+Website: [https://sidneygordon.ca/](https://sidneygordon.ca/)
+Instagram: [https://www.instagram.com/dirttones/](https://www.instagram.com/dirttones/)
 
 Liquidation World:
-Website: https://liquidworld.vision/
-Instagram: https://www.instagram.com/liquidationw0rld/
+Website: [https://liquidworld.vision/](https://liquidworld.vision/)
+Instagram: [https://www.instagram.com/liquidationw0rld/](https://www.instagram.com/liquidationw0rld/)

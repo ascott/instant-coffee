@@ -53,7 +53,7 @@ the expense of what (and who) exists here and now.
 
 Broadcasts from Here is curated by Becket MWN and Susan Gibb.
 
-https://westernfront.ca/events/broadcasts-from-here
+[https://westernfront.ca/events/broadcasts-from-here](https://westernfront.ca/events/broadcasts-from-here)
 
 Western Front is a non-profit artist-run centre in Vancouver.
 We acknowledge the xmky"m (Musqueam), Skwxw7mesh (Squamish), and

@@ -11,7 +11,7 @@ summary: "Richmond Art Gallery | MAIL ART EXHIBITION AUCTION - PART 2 | DEC 31"
 RAGA INTERNATIONAL MAIL ART EXHIBITION AUCTION - PART 2
 November 24, 2023 - December 31, 2023
 Artworks start at $5 CDN!
-https://app.charityauctionstoday.com/auctions/raga-mail-art-auction-part-2-40355
+[https://app.charityauctionstoday.com/auctions/raga-mail-art-auction-part-2-40355](https://app.charityauctionstoday.com/auctions/raga-mail-art-auction-part-2-40355)
 
 Join us for PART 2 of Collecting & Reassembling: International Mail Art Exhibition
 Fundraiser
@@ -35,7 +35,7 @@ and youth.
 How to participate in the online auction:
 1. Go to the website Charity Auctions Today and set Up Your Account : Start by
 creating your personal account, ensuring you're all set to bid on fantastic items and
-support our cause: https://app.charityauctionstoday.com/auctions/raga-mail-art-
+support our cause: [https://app.charityauctionstoday.com/auctions/raga-mail-art-](https://app.charityauctionstoday.com/auctions/raga-mail-art-)
 auction-part-2-40355
 2. Find artworks you want to bid on: Artworks can be discovered by searching for the
 artist name, city or country. Once you find the artwork

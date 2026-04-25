@@ -109,7 +109,7 @@ Centre A Moving Sale |
 Centre A Moving Sale - January 4th-11th, 2013
 Centre A is holding a moving sale in new year. We are giving away and selling 
 some office furniture and gallery equipment.
-Please check our Facebook (http://www.facebook.com/CentreAGallery) to 
+Please check our Facebook ([http://www.facebook.com/CentreAGallery](http://www.facebook.com/CentreAGallery)) to 
 see photos and information. The sale is only between Tuesday, January 4th to 
 Friday, January 11th between 1-5pm.
 If you are interested, please contact info@centrea.org with the subject line 

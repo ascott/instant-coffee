@@ -108,4 +108,4 @@ Application deadline: Monday, September 28th at 5:00pm
 grunt is an equal opportunity employer and welcomes all applicants.
 
 More info:
-http://grunt.ca/wordpress/wp-content/uploads/2015/09/grunt-Communications-Director-ad-Sept15-15.pdf
+[http://grunt.ca/wordpress/wp-content/uploads/2015/09/grunt-Communications-Director-ad-Sept15-15.pdf](http://grunt.ca/wordpress/wp-content/uploads/2015/09/grunt-Communications-Director-ad-Sept15-15.pdf)

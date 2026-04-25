@@ -27,7 +27,7 @@ and the Indigenous Art Intensive with funding from UBCs Grants for Catalyzing Re
 Clusters program. Through these interdisciplinary networks inside and beyond UBC, the
 Curatorial Research Cluster is dialogic about what curating can mean today.
 
-Register for the Zoom link here: https://belkin.ubc.ca/events/curatorial-conversation-tairone-
+Register for the Zoom link here: [https://belkin.ubc.ca/events/curatorial-conversation-tairone-](https://belkin.ubc.ca/events/curatorial-conversation-tairone-)
 bastien-christof-migone-and-jake-moore/
 
 For further information please contact:
@@ -35,6 +35,6 @@ Jana Tyner at jana.tyner@ubc.ca / (604) 822-1389
 
 Morris and Helen Belkin Art Gallery
 1825 Main Mall, Vancouver, BC Canada V6T 1Z2
-http://www.belkin.ubc.ca | belkin.gallery@ubc.ca
+[http://www.belkin.ubc.ca](http://www.belkin.ubc.ca) | belkin.gallery@ubc.ca
 t: (604) 822-2759 f: (604) 822-6689
 Open 10-5 Tue-Fri, 12-5 Sat-Sun

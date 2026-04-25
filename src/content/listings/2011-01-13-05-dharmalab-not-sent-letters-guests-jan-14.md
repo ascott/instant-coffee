@@ -85,7 +85,7 @@ NATASHA McHARDY, DINKA PIGNON, YI XIN TONG & DENNIS E.
 BOLEN.
 
 Explore previous Not Sent Letters & Guests events here:
-http://notsentlettersandguests.blogspot.com
+[http://notsentlettersandguests.blogspot.com](http://notsentlettersandguests.blogspot.com)
 Email Jeremy if you'd like to host or contribute to a future N. S. L. & 
 G. event:
 jeremytodd@shaw.ca

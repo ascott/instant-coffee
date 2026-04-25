@@ -31,4 +31,4 @@ Weinstein, and of course adapt as we go. Bonus points if you arrive on foot.
 League is an open gathering for the purpose of inventing games and sports; 
 it’s problem-solving as play. The project was launched by artist Germaine Koh 
 within the Vancouver Park Board field house residency program. More info: 
-http://league-league.org
+[http://league-league.org](http://league-league.org)

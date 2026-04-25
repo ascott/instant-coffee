@@ -51,10 +51,10 @@ within contemporary art.
 For more about his practice, please follow these links: 
 
 Field Journal " Practicing Accessibility by Jacqueline Bell
-http://field-journal.com/issue-5/an-interview-with-carmen-papalia
+[http://field-journal.com/issue-5/an-interview-with-carmen-papalia](http://field-journal.com/issue-5/an-interview-with-carmen-papalia)
 
 Art21 " You Can Do it with Your Eyes Closed by Carmen Papalia
-http://blog.art21.org/2014/10/07/you-can-do-it-with-your-eyes-closed/
+[http://blog.art21.org/2014/10/07/you-can-do-it-with-your-eyes-closed/](http://blog.art21.org/2014/10/07/you-can-do-it-with-your-eyes-closed/)
 
 CBC Radio " Interview by Hallie Cotnam
-http://www.cbc.ca/news/canada/ottawa/art-accessible-carmen-papalia-1.3562614
+[http://www.cbc.ca/news/canada/ottawa/art-accessible-carmen-papalia-1.3562614](http://www.cbc.ca/news/canada/ottawa/art-accessible-carmen-papalia-1.3562614)

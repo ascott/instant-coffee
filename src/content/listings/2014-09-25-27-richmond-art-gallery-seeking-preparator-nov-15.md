@@ -76,7 +76,7 @@ short-listed will be contacted.
 office / studio for rent |
 Bright, spacious private office for 2 artists or writers
 
-http://vancouver.craigslist.ca/van/off/4673558336.html
+[http://vancouver.craigslist.ca/van/off/4673558336.html](http://vancouver.craigslist.ca/van/off/4673558336.html)
 
 Private art or writing office space available for sub-let and likely
 full lease in the new year. Available immediately.

@@ -60,4 +60,4 @@ been selected for Vancouver’s Poetry in Transit program. Jennica is also a
 film and TV writer, and most recently wrote on YTV’s teen comedy Mr. 
 Young.
 
-http://sfuwoodwards.ca/index.php/events/details/too-true-the-poetry
+[http://sfuwoodwards.ca/index.php/events/details/too-true-the-poetry](http://sfuwoodwards.ca/index.php/events/details/too-true-the-poetry)

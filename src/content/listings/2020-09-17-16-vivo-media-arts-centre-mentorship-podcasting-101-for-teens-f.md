@@ -11,7 +11,7 @@ summary: "VIVO Media Arts Centre | Mentorship: Podcasting 101 for Teens (Free!) 
 Podcasting 101 for Teens
 
 More info & sign up:
-https://www.vivomediaarts.com/podcasting101
+[https://www.vivomediaarts.com/podcasting101](https://www.vivomediaarts.com/podcasting101)
 
 Application closes Sept 18, 2020.
 
@@ -40,4 +40,4 @@ Final audio documentaries will be shared with the public through VIVO's website.
 Know a friend who might be interested in this project? Tell them to apply too!
 
 
-http://https://www.vivomediaarts.com/podcasting101
+[http://https://www.vivomediaarts.com/podcasting101](http://https://www.vivomediaarts.com/podcasting101)

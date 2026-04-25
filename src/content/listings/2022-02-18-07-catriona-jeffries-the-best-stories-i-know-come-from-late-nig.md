@@ -59,5 +59,5 @@ recipient of the Eldon and Anne Foote Visual Arts Prize, Edmonton and she won th
 950 East Cordova Street
 Vancouver, BC
 V6A 1M6 Canada
-https://catrionajeffries.com
+[https://catrionajeffries.com](https://catrionajeffries.com)
 Exhibition hours are Thursday-Saturday 11-5

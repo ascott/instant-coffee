@@ -43,7 +43,7 @@ The Cultch
 Tickets: $15
 For tickets contact The Cultch box office
 Phone: (604) 251-1363
-Online: http://tickets.thecultch.com
+Online: [http://tickets.thecultch.com](http://tickets.thecultch.com)
 In person: 1895 Venables Street
 
 AFTER PARTY
@@ -59,6 +59,6 @@ District 319, 319 Main Street, Vancouver
 
 Tickets: $15
 OCCUPANCY LIMITED. No tickets will be available at the door.
-Tickets can be purchased at http://martincreedvancouver.eventbrite.com
+Tickets can be purchased at [http://martincreedvancouver.eventbrite.com](http://martincreedvancouver.eventbrite.com)
 All ticket sales to benefit Intersections Opportunities for Youth Society
 intersectionsmedia.com

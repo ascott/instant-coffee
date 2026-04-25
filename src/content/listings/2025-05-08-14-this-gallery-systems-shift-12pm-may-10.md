@@ -31,4 +31,4 @@ Lower Ground Level
 268 Keefer Street
 Vancouver, BC
 
-https://thisgallery.org/
+[https://thisgallery.org/](https://thisgallery.org/)

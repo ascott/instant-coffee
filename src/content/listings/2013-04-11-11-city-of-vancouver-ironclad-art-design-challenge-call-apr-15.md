@@ -33,13 +33,13 @@ hundreds of submissions, will be:
 
 * Vanessa Kwan, Vancouver artist and programmer and, with her 
 emerging artists' collective Norma, winner of the 2011 Mayor's Arts 
-Award for Public Art http://vanessakwan.com/;
+Award for Public Art [http://vanessakwan.com/](http://vanessakwan.com/);
 * Germaine Koh, internationally-acclaimed multi-disciplinary artist, 
 curator, writer, and winner of a 2010 VIVA Award 
-http://www.germainekoh.com/;
+[http://www.germainekoh.com/](http://www.germainekoh.com/);
 * Corinne Hunt, First Nations artist world-renowned for her 
 furnishings, totems, sculpture and jewelry, including the 2010 Olympic 
-medals http://www.corrinehunt.ca/;
+medals [http://www.corrinehunt.ca/](http://www.corrinehunt.ca/);
 * Bob Kronbauer, creative director and publisher of Vancouver Is 
 Awesome;
 * Sadhu Johnston, Deputy City Manager of Vancouver who has 
@@ -56,26 +56,26 @@ events throughout the city including:
 * Bard on the Beach - A pair of tickets to a performance of Twelfth 
 Night at Bard on the Beach Sunday, June 23 - 7pm performance. 
 www.bardonthebeach.org/2013/twelfth-
-night<http://www.bardonthebeach.org/2013/twelfth-night>
+night<[http://www.bardonthebeach.org/2013/twelfth-night](http://www.bardonthebeach.org/2013/twelfth-night)>
 * Science World of British Columbia - The recipient's choice of 
 either 2 adult VIP passes for the August Adult Evening, or 1 adult and 1 
 child General Admission passes for a daytime visit. 
-www.scienceworld.ca<http://www.scienceworld.ca>
+www.scienceworld.ca<[http://www.scienceworld.ca](http://www.scienceworld.ca)>
 * Museum of Vancouver - A pair of complimentary admission 
 passes. 
-www.museumofvancouver.ca<http://www.museumofvancouver.ca>
+www.museumofvancouver.ca<[http://www.museumofvancouver.ca](http://www.museumofvancouver.ca)>
 * Maritime Museum - A pair of admission passes. 
-www.vancouvermaritimemuseum.com/<http://www.vancouvermaritime
+www.vancouvermaritimemuseum.com/<[http://www.vancouvermaritime](http://www.vancouvermaritime)
 museum.com/>
 * Vancouver Park Board - A pair of complimentary admission 
 passes valid at any Park Board fitness centre, swimming pool or ice 
-rink. http://vancouver.ca/parks-recreation-culture/find-a-participating-
+rink. [http://vancouver.ca/parks-recreation-culture/find-a-participating-](http://vancouver.ca/parks-recreation-culture/find-a-participating-)
 facility-flexipass.aspx
 
 * In addition, the Vancouver Fringe has generously donated pairs 
 of ticket vouchers and memberships to this year's festival tor the 
 gallery ambassadors who will be sitting the show at the InterUrban 
-Gallery. www.vancouverfringe.com/<http://www.vancouverfringe.com/>
+Gallery. www.vancouverfringe.com/<[http://www.vancouverfringe.com/](http://www.vancouverfringe.com/)>
 
 MORE INFORMATION
 

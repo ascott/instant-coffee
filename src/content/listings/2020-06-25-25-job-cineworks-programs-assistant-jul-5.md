@@ -25,7 +25,7 @@ End Date: Sept 11th
 Applications Close: Midnight July 5th
 
 This is a Canada Summer Jobs Position and the potential employee must therefore
-meet the eligibility requirements as listed at: https://www.canada.ca/en/employment-
+meet the eligibility requirements as listed at: [https://www.canada.ca/en/employment-](https://www.canada.ca/en/employment-)
 social-development/services/funding/canada-summer-jobs/screening-eligibility.html
 
 Job Description:

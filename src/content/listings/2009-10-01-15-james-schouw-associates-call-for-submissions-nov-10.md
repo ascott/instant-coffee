@@ -25,7 +25,7 @@ James Schouw & Associates
 Vancouver, BC
 V6B 2Y9
 The link for project information is: 
-http://http://www.jamesschouw.ca/artists
+[http://http://www.jamesschouw.ca/artists](http://http://www.jamesschouw.ca/artists)
 
 16. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.

@@ -20,4 +20,4 @@ Deadline to apply is October 3rd.
 To learn more about the call and to apply, please go here: Indigenous artist call for
 PNE Amphitheatre | City of Vancouver
 
-http://https://vancouver.ca/parks-recreation-culture/arti
+[http://https://vancouver.ca/parks-recreation-culture/arti](http://https://vancouver.ca/parks-recreation-culture/arti)

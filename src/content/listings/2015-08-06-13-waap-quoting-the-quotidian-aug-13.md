@@ -14,7 +14,7 @@ EXHIBITION: Aug 13 - Sept 12, 2015
 
 Featured exhibition as part of ISEA 2015
 21st International Symposium on Electronic Art
-http://isea2015.org/
+[http://isea2015.org/](http://isea2015.org/)
 
 Wil Aballe Art Projects | WAAP
 105-1356 Frances St.

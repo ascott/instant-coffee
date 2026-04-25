@@ -13,7 +13,7 @@ Exhibition Dates: Aug 5 – Aug 22
 Reception: August 17 (7–10 pm)
 Location: grunt gallery, Unit 116 –350 East 2nd Ave
 
-URL: http://grunt.ca/exhibitions/arctic-noise/
+URL: [http://grunt.ca/exhibitions/arctic-noise/](http://grunt.ca/exhibitions/arctic-noise/)
 
 Join us on Monday, August 17th for the reception of ARCTICNOISE at grunt
 gallery (7–10pm). This exhibition runs from August 5 to 22 and is presented
@@ -50,16 +50,16 @@ A curatorial essay written by Yasmin Nurming-Por and Britt Gallpen will be
 available at the exhibition. This essay will also be included in a
 forthcoming publication for ARCTICNOISE.
 
-Facebook Event: https://www.facebook.com/events/1451774958462409/
+Facebook Event: [https://www.facebook.com/events/1451774958462409/](https://www.facebook.com/events/1451774958462409/)
 -
 
 ARCTICNOISE: Related Programming –
 
 Aug 15: WORKSHOP | Terminus: Archives, Ephemera, and Electronic Art @VIVO –
-https://www.facebook.com/events/691121607686882/
+[https://www.facebook.com/events/691121607686882/](https://www.facebook.com/events/691121607686882/)
 
 Aug 15: PERFORMANCE | Geronimo Inutiq at FUSE/DISTURBANCE –
-https://www.facebook.com/events/1462623120725769/
+[https://www.facebook.com/events/1462623120725769/](https://www.facebook.com/events/1462623120725769/)
 
 Aug 19: PANEL | ARCTICNOISE: DIALOGUES –
-https://www.facebook.com/events/1615533645402945/
+[https://www.facebook.com/events/1615533645402945/](https://www.facebook.com/events/1615533645402945/)

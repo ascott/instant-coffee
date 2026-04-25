@@ -18,7 +18,7 @@ Heidi Nagtegaal and Jenny Lee Craig.
 For the Winter Months of 2012, Blessing Stick will present one artist 
 project per month, on the beaches along the Vancouver - Victoria 
 Shorelines, connecting the communities of Blessing Stick and the 
-Ministry of Casual Living http://www.mocl.com/
+Ministry of Casual Living [http://www.mocl.com/](http://www.mocl.com/)
 
 For the final installation of this project, PrOphecy Sun will reign on 
 Snug Cove, Bowen Island BC. WINTER BEACH TOUR has featured 
@@ -54,4 +54,4 @@ See you there!
 Yours,
 Blessing Stick 
 
-http://blessingstick.wordpress.com/
+[http://blessingstick.wordpress.com/](http://blessingstick.wordpress.com/)

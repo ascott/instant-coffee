@@ -32,4 +32,4 @@ of ART, a membership program for artists in Seoul, South Korea.
 Co-sponsored by the Gyeonggi Cultural Foundation (Seoul, South Korea) and
 supervised by Henry Heng Lu, Yun-Jou Chang, and Mijoo Park.
 
-https://www.facebook.com/events/799208920507949/
+[https://www.facebook.com/events/799208920507949/](https://www.facebook.com/events/799208920507949/)

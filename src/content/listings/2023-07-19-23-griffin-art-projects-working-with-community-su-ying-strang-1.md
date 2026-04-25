@@ -17,5 +17,5 @@ research lab Pulling Back the Paper (The
 New Gallery, 2021). This event is presented
 in conjunction with Su Yings residency at Griffin Art Projects.
 
-More info: https://www.griffinartprojects.ca/events/live-from-the-studio-with-curator-in-
+More info: [https://www.griffinartprojects.ca/events/live-from-the-studio-with-curator-in-](https://www.griffinartprojects.ca/events/live-from-the-studio-with-curator-in-)
 residence-su-ying-strang

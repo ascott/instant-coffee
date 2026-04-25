@@ -36,5 +36,5 @@ Enter via main door, take elevator to 3rd floor, follow the signs!
 Simon Fraser University's Visual Art Studio
 611 Alexander Street, Suite #330
 Vancouver BC V6A 1E1
-https://www.sfu.ca/vancouver/about/our-locations/611-alexander-visual-art-
+[https://www.sfu.ca/vancouver/about/our-locations/611-alexander-visual-art-](https://www.sfu.ca/vancouver/about/our-locations/611-alexander-visual-art-)
 studios.html

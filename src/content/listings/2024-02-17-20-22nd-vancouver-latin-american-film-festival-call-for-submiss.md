@@ -29,5 +29,5 @@ VLAFF is also currently accepting applications for live MUSIC performances from
 local Latin/e/x artists to be part of our by-donation concert series during the festival.
 
 If this is you, fill out our application form here:
-http://tinyurl.com/AsiSuenaCallForMusicians
+[http://tinyurl.com/AsiSuenaCallForMusicians](http://tinyurl.com/AsiSuenaCallForMusicians)
 DEADLINE TO APPLY: March 31, 2024

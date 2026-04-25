@@ -24,7 +24,7 @@ Distilleries, groove to a DJ set from rising local music superstar Biawanna, and
 love and support for VABF by signing up to be a Member. Come mix and mingle with fellow
 art book fans and VABF exhibitors!
 
-Link for more info: https://www.facebook.com/events/458420968111411/
+Link for more info: [https://www.facebook.com/events/458420968111411/](https://www.facebook.com/events/458420968111411/)
 
 ABOUT
 

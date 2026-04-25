@@ -55,7 +55,7 @@ RENT ASSEMBLY CALL FOR PROPOSALS
 DEADLINE EXTENDED TO MAY 1st
 
 visit
-http://rentassembly.org/?page_id=21
+[http://rentassembly.org/?page_id=21](http://rentassembly.org/?page_id=21)
 
 follow on Twitter | friend on Facebook | forward to a friend 
 Copyright © 2013 The Kootenay School of Writing, All rights 

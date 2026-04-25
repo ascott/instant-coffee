@@ -34,7 +34,7 @@ March 13th 2024.
 
 Pricing is sliding scale from $120 to $240 for 6 weeks.
 
-To learn more and register visit- https://countyarts.regfox.com/photoshop-with-spark-
+To learn more and register visit- [https://countyarts.regfox.com/photoshop-with-spark-](https://countyarts.regfox.com/photoshop-with-spark-)
 box-studio-live-online
 
 This course is presented by the Prince Edward County Arts Council.

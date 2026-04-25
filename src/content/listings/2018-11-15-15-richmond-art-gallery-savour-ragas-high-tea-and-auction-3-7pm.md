@@ -51,7 +51,7 @@ Festival, Vancouver Art Gallery, Morris and Helen Belkin Art Gallery, Richmond C
 Indigo Spirit Books and Gift and many more.
 
 High Tea Menu
-provided by Gallery Cafe (https://www.thegallerycafe.ca/)
+provided by Gallery Cafe ([https://www.thegallerycafe.ca/](https://www.thegallerycafe.ca/))
 Selection of teas provided by Nikaido Tea
 + Special spiked tea cocktails - (Cash Bar)
 
@@ -77,7 +77,7 @@ Tickets at the door: $50
 
 Purchase online (below), or email: gallery@richmond.ca, phone: 604-247-8314
 
-http://www.richmondartgallery.org/upcoming/savour/
+[http://www.richmondartgallery.org/upcoming/savour/](http://www.richmondartgallery.org/upcoming/savour/)
 
 Buy tickets for Savour through Paypal using your credit card:
 You do not need a Paypal account.

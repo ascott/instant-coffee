@@ -25,5 +25,5 @@ The characteristic markers of his investigation are complex and generally identi
 autobiographical sources and the formal consequences of an evolving definition and making
 of art.
 
-https://www.openspacestore.ca/product/if-i-may-digress-richard-boulet-
+[https://www.openspacestore.ca/product/if-i-may-digress-richard-boulet-](https://www.openspacestore.ca/product/if-i-may-digress-richard-boulet-)
 collaborators/3QPNZOLZ4NMRIBOPYJCX6DBW?cp=true&sa=true&sbp=false&q=false

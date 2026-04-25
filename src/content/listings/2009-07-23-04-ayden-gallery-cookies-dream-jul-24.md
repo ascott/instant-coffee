@@ -36,4 +36,4 @@ Davidson Manaloto/ DEVOTION4/ Rachel Churchill/ Peyote Button/ Factory Femme
 
 more info: 
 
-http://www.wecandoubleyou.com
+[http://www.wecandoubleyou.com](http://www.wecandoubleyou.com)

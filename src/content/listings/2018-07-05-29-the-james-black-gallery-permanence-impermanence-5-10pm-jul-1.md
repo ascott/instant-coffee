@@ -35,5 +35,5 @@ kathoopertattoo@gmail.com and jaridblue@gmail.com
 
 ~*~~*~~*~~*~~*~~*~~*~~*~~*~~*~~*~~*~~*~ 
 Insta:
-https://www.instagram.com/kingmallard/
-https://www.instagram.com/khooops/
+[https://www.instagram.com/kingmallard/](https://www.instagram.com/kingmallard/)
+[https://www.instagram.com/khooops/](https://www.instagram.com/khooops/)

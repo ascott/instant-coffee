@@ -27,7 +27,7 @@ Up to five artists or artist teams will be shortlisted and will receive a
 fee of $250.00 (exclusive of GST) to prepare a proposal.
 
 For the full description of the project, go to:
-http://www.artsoffice.ca/public_art/call_to_artists/articles714.php
+[http://www.artsoffice.ca/public_art/call_to_artists/articles714.php](http://www.artsoffice.ca/public_art/call_to_artists/articles714.php)
 
 For questions regarding the submission requirements or process, contact
 Leesa Strimbicki by email at uam@telus.net or by phone at 604.430.1467.

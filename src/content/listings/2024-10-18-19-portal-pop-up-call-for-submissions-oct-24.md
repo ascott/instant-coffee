@@ -35,4 +35,4 @@ Submit through email: portalpopupgallery@gmail.com
 
 Submission deadline: end of day October 24, 2024
 
-Portal Pop-Up website: https://portalpopupgallery.square.site/
+Portal Pop-Up website: [https://portalpopupgallery.square.site/](https://portalpopupgallery.square.site/)

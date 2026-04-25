@@ -14,7 +14,7 @@ Sunday, December 13, 1"2PM
 
 Griffin Art Projects
 
-Online Discussion Registration Link: https://zoom.us/webinar/register/WN_RhwV6dhuT4"
+Online Discussion Registration Link: [https://zoom.us/webinar/register/WN_RhwV6dhuT4"](https://zoom.us/webinar/register/WN_RhwV6dhuT4")
 VhOyRBS28A
 
 Eighteen Drawings is the latest release from
@@ -39,4 +39,4 @@ Lynda Gammon who helped with layout and design, Rachel Topham Photography for su
 attention to detail, and to Lisa
 Baldissera of Griffin Art Projects and David McWilliam who
 curated NOW BULLETIN for their interest and enthusiasm in this project.
-http://www.griffinartprojects.ca
+[http://www.griffinartprojects.ca](http://www.griffinartprojects.ca)

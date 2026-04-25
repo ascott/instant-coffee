@@ -34,7 +34,7 @@ Appetizers, wine and beer will be served.
 
 HOW:
 Fill out this form to reserve your FREE spot for this new competition show:
-https://docs.google.com/forms/d/15HAzUtU2LKY3E84lOcHsNPX-N0Gt4EEnljVTxoC9iMc/viewform?c=0&w=1&usp=mail_form_link
+[https://docs.google.com/forms/d/15HAzUtU2LKY3E84lOcHsNPX-N0Gt4EEnljVTxoC9iMc/viewform?c=0&w=1&usp=mail_form_link](https://docs.google.com/forms/d/15HAzUtU2LKY3E84lOcHsNPX-N0Gt4EEnljVTxoC9iMc/viewform?c=0&w=1&usp=mail_form_link)
 All audience members will be required to sign a release before they can get
 in on the fun. You will be on camera. Large groups are encouraged to attend
 and can register directly by emailing at crash.gallery@larkproductions.ca

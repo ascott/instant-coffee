@@ -52,4 +52,4 @@ archives@artspace-arc.org
 and check out the site!
 
 
-http://www.artspace-arc.org
+[http://www.artspace-arc.org](http://www.artspace-arc.org)

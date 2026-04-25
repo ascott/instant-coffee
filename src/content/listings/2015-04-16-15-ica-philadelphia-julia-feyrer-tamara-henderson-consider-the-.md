@@ -37,4 +37,4 @@ Organized for the Walter Phillips Gallery at Banff Centre in Alberta,
 Canada by curator Jesse McKee. Organized at ICA by Alex Klein, Dorothy and
 Stephen R. Weber (CHE'60) Program Curator.
 
-http://icaphila.org/exhibitions/7096/julia-feyrer-
+[http://icaphila.org/exhibitions/7096/julia-feyrer-](http://icaphila.org/exhibitions/7096/julia-feyrer-)

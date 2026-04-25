@@ -21,7 +21,7 @@ Open House (artist in attendance): Saturday, November 7, 12 to 5pm
 
 Gallery Hours: Thursday-Sunday 12-5pm
 
-http://www.deluge.ca/dupcome.html
+[http://www.deluge.ca/dupcome.html](http://www.deluge.ca/dupcome.html)
 
 Located in Siberia on the edge of the Arctic Circle, Pleistocene Park is a rewilding
 study to relocate herds of animals to cultivate shrub forest back to grassland. Directed

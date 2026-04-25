@@ -26,9 +26,9 @@ with the natural material world.
 
 Learn more:
 
-https://craftcouncilbc.ca/dancecraft-vr/
+[https://craftcouncilbc.ca/dancecraft-vr/](https://craftcouncilbc.ca/dancecraft-vr/)
 
 Get your tickets to the panel discussion:
-https://www.eventbrite.ca/e/dancecraft-vr-tickets-940710589697?aff=oddtdtcreator
+[https://www.eventbrite.ca/e/dancecraft-vr-tickets-940710589697?aff=oddtdtcreator](https://www.eventbrite.ca/e/dancecraft-vr-tickets-940710589697?aff=oddtdtcreator)
 
 We look forward to welcoming you!

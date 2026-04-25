@@ -11,7 +11,7 @@ summary: "Griffin Art Projects [ONSITE & ONLINE] | Curator’s Tour | 12PM | NOV
 26
 Griffin Art Projects
 
-https://www.griffinartprojects.ca/
+[https://www.griffinartprojects.ca/](https://www.griffinartprojects.ca/)
 
 November 26, 12pm to 5pm - Curators Tour with Lisa Baldissera & Open Studios
 with Curator Anne Bourrass and Artist Maru Aponte, 2023 Paris-Vancouver
@@ -51,9 +51,9 @@ and was the first Puerto Rican to graduate from the painting department of The
 Royal Academy of Fine Arts Antwerp.
 
 To attend the tour in-person registration via Eventbrite
-https://www.eventbrite.ca/e/shift-curators-tour-with-lisa-baldissera-in-person-tickets-
+[https://www.eventbrite.ca/e/shift-curators-tour-with-lisa-baldissera-in-person-tickets-](https://www.eventbrite.ca/e/shift-curators-tour-with-lisa-baldissera-in-person-tickets-)
 732330148187?aff=oddtdtcreator is encouraged, but drop-ins are welcome!
 
 To attend online, registration on Zoom is required here:
-https://us06web.zoom.us/webinar/register/WN_xRkPjuhiQMy90FXxvORC2Q#/regist
+[https://us06web.zoom.us/webinar/register/WN_xRkPjuhiQMy90FXxvORC2Q#/regist](https://us06web.zoom.us/webinar/register/WN_xRkPjuhiQMy90FXxvORC2Q#/regist)
 ration

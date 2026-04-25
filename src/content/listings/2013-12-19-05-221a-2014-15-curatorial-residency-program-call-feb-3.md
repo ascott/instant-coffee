@@ -23,7 +23,7 @@ over the course of 2014, and to execute the project during 2015. Projects may
 include exhibitions, performances, publications, talks or special projects.
 
 Detailed information about the call can be found at
-http://221a.ca/call-2014-15/
+[http://221a.ca/call-2014-15/](http://221a.ca/call-2014-15/)
 
 Please direct any questions to Bopha Chhay at 
 bchhay@221a.ca<mailto:bchhay@221a.ca>

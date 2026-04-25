@@ -9,7 +9,7 @@ summary: "VIVO | 2010: Safe Assembly | FEB 13"
 ---
 
 VIVO 2010: Safe Assembly////the Evening News
-http://vivoeveningnews.wordpress.com/
+[http://vivoeveningnews.wordpress.com/](http://vivoeveningnews.wordpress.com/)
 
 7 pm////February 13th, 15th, 17th, 21st, 23rd, & 25th: 2010
 VIVO////1965 Main Street, Vancouver

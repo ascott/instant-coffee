@@ -54,6 +54,6 @@ traditional,
 
 Follow the Ground Floor Art Centre on Instagram:
 @groundfloorac
-https://www.instagram.com/groundfloorac/?hl=en
+[https://www.instagram.com/groundfloorac/?hl=en](https://www.instagram.com/groundfloorac/?hl=en)
 
 CONTACT US at groundfloorac@gmail.com

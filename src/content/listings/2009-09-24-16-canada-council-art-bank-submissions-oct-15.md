@@ -18,4 +18,4 @@ Deadline for submissions:
 October 15, 2009 (Postmarked) 
 
 Guidelines and application form: 
-http://www.artbank.ca/The+Collection/Purchase+Program+Information/
+[http://www.artbank.ca/The+Collection/Purchase+Program+Information/](http://www.artbank.ca/The+Collection/Purchase+Program+Information/)

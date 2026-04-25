@@ -34,6 +34,6 @@ Rupture Probe features recent works that probe transgender and non-binary
 experience, new erotic signifiers, and inventive strategies for dissent and
 celebration.
 
-Sign up: https://queerartsfestival.com/rupture-probe-media-night-with-vivo/
+Sign up: [https://queerartsfestival.com/rupture-probe-media-night-with-vivo/](https://queerartsfestival.com/rupture-probe-media-night-with-vivo/)
 
 A Co-Presentation of VIVO Media Arts Centre and Queer Arts Festival 2020

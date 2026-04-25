@@ -30,7 +30,7 @@ Location: Aldergrove Kinsmen Community Center 'Main Hall Gallery' (26770 29th
 Ave, Aldergrove BC V4W 3B8)
 
 To learn more about the exhibition and to apply, visit:
-https://www.langleyarts.ca/submit/art-fashion
+[https://www.langleyarts.ca/submit/art-fashion](https://www.langleyarts.ca/submit/art-fashion)
 
 37.
 CALL | FLEET: Edmonds | Open Call for Submissions | JUL 4

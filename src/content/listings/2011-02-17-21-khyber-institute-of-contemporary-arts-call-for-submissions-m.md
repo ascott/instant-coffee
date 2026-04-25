@@ -31,7 +31,7 @@ No email submissions, please.
 Deadline is March 31, 2011. 
 Successful applicants will be exhibiting in late 2012-early 2013. 
 For further information, and to download the Ballroom gallery floor 
-plan, please refer tohttp://www.khyber.ca/submissions-3/.
+plan, please refer to[http://www.khyber.ca/submissions-3/](http://www.khyber.ca/submissions-3/).
 
 Please mail submissions to: 
 
@@ -41,4 +41,4 @@ Halifax Nova Scotia
 B3J 1Z6 
 
 For more information on the Khyber and its programming, please 
-visit http://www.khyber.ca/ or contact us at khyberica@gmail.com.
+visit [http://www.khyber.ca/](http://www.khyber.ca/) or contact us at khyberica@gmail.com.

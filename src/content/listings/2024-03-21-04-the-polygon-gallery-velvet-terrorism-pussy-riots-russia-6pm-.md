@@ -25,7 +25,7 @@ Priority access for Gallery Members.)
 
 Admission is free. RSVPs are helpful, but do not guarantee a seat for the talk.
 
-RSVP here: https://thepolygon.ca/event/velvet-terrorism-pussy-riots-russia-opening-
+RSVP here: [https://thepolygon.ca/event/velvet-terrorism-pussy-riots-russia-opening-](https://thepolygon.ca/event/velvet-terrorism-pussy-riots-russia-opening-)
 celebration-artist-talk/
 
 Velvet Terrorism: Pussy Riot's Russia is on view at The Polygon March 22 " June 2.
@@ -60,4 +60,4 @@ Curated/Hosted by Joelle Johnston, Indigenous Liaison
 
 RSVPs are helpful
 
-RSVP here: https://thepolygon.ca/event/speaking-pictures/
+RSVP here: [https://thepolygon.ca/event/speaking-pictures/](https://thepolygon.ca/event/speaking-pictures/)

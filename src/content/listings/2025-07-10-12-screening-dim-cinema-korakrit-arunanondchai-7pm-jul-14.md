@@ -20,5 +20,5 @@ DIM Cinema presents a triple bill of works by Thai artist Korakrit Arunanondchai
 These films, made between 2018 and 2021, highlight narratives around
 phenomenology, centralizing non-human animals, ghosts, and shadow histories.
 
-More information and tickets https://thecinematheque.ca/films/2025/korakrit-
+More information and tickets [https://thecinematheque.ca/films/2025/korakrit-](https://thecinematheque.ca/films/2025/korakrit-)
 arunanondchai

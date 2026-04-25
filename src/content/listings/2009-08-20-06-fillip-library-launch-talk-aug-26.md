@@ -37,4 +37,4 @@ Fillip
 305 Cambie Street
 Vancouver, BC V6B 2N4
 
-http://http://fillip.ca/library
+[http://http://fillip.ca/library](http://http://fillip.ca/library)

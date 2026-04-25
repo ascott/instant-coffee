@@ -44,4 +44,4 @@ Dynamo Arts Association
 Vancouver, BC
 V5T 1J4
 
-https://www.facebook.com/events/1644754595850097/
+[https://www.facebook.com/events/1644754595850097/](https://www.facebook.com/events/1644754595850097/)

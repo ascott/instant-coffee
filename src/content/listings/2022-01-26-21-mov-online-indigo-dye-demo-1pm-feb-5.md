@@ -23,4 +23,4 @@ indigo vat, as well as techniques on dyeing their own animal and plant fibers. L
 you can zero in on the perfect shade of blue and how indigo can be used for many more
 colours.
 
-https://museumofvancouver.ca/online-indigo-dyeing-demo
+[https://museumofvancouver.ca/online-indigo-dyeing-demo](https://museumofvancouver.ca/online-indigo-dyeing-demo)

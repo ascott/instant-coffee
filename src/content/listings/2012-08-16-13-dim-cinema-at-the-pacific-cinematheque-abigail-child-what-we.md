@@ -42,7 +42,7 @@ utilizing archival material to examine the past. Child has also turned her
 vertical montage to installation, creating prismatic and interruptive 
 multiple screen narratives at galleries across the world. Harvard has 
 created an Abigail Child Collection dedicated to preserving and 
-exhibiting her work. http://abigailchild.com/
+exhibiting her work. [http://abigailchild.com/](http://abigailchild.com/)
 
 Mutiny. 1983, Colour and B&W, 16mm. 10 mins.  USA
 Game. 1972, B&W, 16mm. 40 mins. USA

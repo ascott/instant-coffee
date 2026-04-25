@@ -15,5 +15,5 @@ inspired artworks that mirror the deep connections both artists have with the na
 environment of the North Shore. The exhibition will open on April 11 and run until May
 5.
 
-https://ferrybuildinggallery.ca/
+[https://ferrybuildinggallery.ca/](https://ferrybuildinggallery.ca/)
 1414 Argyle Ave, West Vancouver, BC

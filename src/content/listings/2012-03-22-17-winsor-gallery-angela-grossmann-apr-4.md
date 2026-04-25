@@ -21,16 +21,16 @@ THE FUTURE IS FEMALE
 April 4 – May 6, 2012
 
 Angela Grossmannn 
-<http://winsorgallery.createsend1.com/t/r/l/dtikujk/tutjddzr/r/>
+<[http://winsorgallery.createsend1.com/t/r/l/dtikujk/tutjddzr/r/](http://winsorgallery.createsend1.com/t/r/l/dtikujk/tutjddzr/r/)>
 
 You can preview selected works at...
 
 Angela Grossmannn 
-<http://winsorgallery.createsend1.com/t/r/l/dtikujk/tutjddzr/y/>
+<[http://winsorgallery.createsend1.com/t/r/l/dtikujk/tutjddzr/y/](http://winsorgallery.createsend1.com/t/r/l/dtikujk/tutjddzr/y/)>
 Angela Grossmannn 
-<http://winsorgallery.createsend1.com/t/r/l/dtikujk/tutjddzr/j/>
+<[http://winsorgallery.createsend1.com/t/r/l/dtikujk/tutjddzr/j/](http://winsorgallery.createsend1.com/t/r/l/dtikujk/tutjddzr/j/)>
 
-Winsor Gallery <http://winsorgallery.createsend1.com/t/r/l/dtikujk/tutjddzr/t/>
+Winsor Gallery <[http://winsorgallery.createsend1.com/t/r/l/dtikujk/tutjddzr/t/](http://winsorgallery.createsend1.com/t/r/l/dtikujk/tutjddzr/t/)>
 3025 Granville Street
 Vancouver, BC
 V6H 3J9
@@ -38,15 +38,15 @@ V6H 3J9
 
 info@winsorgallery.com
 www.winsorgallery.com 
-<http://winsorgallery.createsend1.com/t/r/l/dtikujk/tutjddzr/i/>
+<[http://winsorgallery.createsend1.com/t/r/l/dtikujk/tutjddzr/i/](http://winsorgallery.createsend1.com/t/r/l/dtikujk/tutjddzr/i/)>
 
 Join Winsor Gallery on FACEBOOK 
-<http://winsorgallery.createsend1.com/t/r/l/dtikujk/tutjddzr/d/> , TWITTER 
-<http://winsorgallery.createsend1.com/t/r/l/dtikujk/tutjddzr/k/> & our BLOG 
-<http://winsorgallery.createsend1.com/t/r/l/dtikujk/tutjddzr/u/> .
+<[http://winsorgallery.createsend1.com/t/r/l/dtikujk/tutjddzr/d/](http://winsorgallery.createsend1.com/t/r/l/dtikujk/tutjddzr/d/)> , TWITTER 
+<[http://winsorgallery.createsend1.com/t/r/l/dtikujk/tutjddzr/k/](http://winsorgallery.createsend1.com/t/r/l/dtikujk/tutjddzr/k/)> & our BLOG 
+<[http://winsorgallery.createsend1.com/t/r/l/dtikujk/tutjddzr/u/](http://winsorgallery.createsend1.com/t/r/l/dtikujk/tutjddzr/u/)> .
 
 You have received this email because you expressed interest in Winsor Gallery 
 exhibitions. If you no longer wish to receive our evites, please click here to 
-unsubscribe <http://winsorgallery.createsend1.com/t/r/u/dtikujk/tutjddzr/o/> .
+unsubscribe <[http://winsorgallery.createsend1.com/t/r/u/dtikujk/tutjddzr/o/](http://winsorgallery.createsend1.com/t/r/u/dtikujk/tutjddzr/o/)> .
 
-<https://createsend1.com/t/r/o/dtikujk/tutjddzr/o.gif>
+<[https://createsend1.com/t/r/o/dtikujk/tutjddzr/o.gif](https://createsend1.com/t/r/o/dtikujk/tutjddzr/o.gif)>

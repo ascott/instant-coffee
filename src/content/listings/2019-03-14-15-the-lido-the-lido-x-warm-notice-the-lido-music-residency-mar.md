@@ -20,7 +20,7 @@ tech; visuals.
 
 There will be 4 residencies/year, with the first beginning in April 2019. Deadline to apply 
 is March 17. See the Google form for more info: 
-https://docs.google.com/forms/d/1a43zK5rIutk7cObo0zl3puRp3FMQi1O4JMqRwx0nJj8/
+[https://docs.google.com/forms/d/1a43zK5rIutk7cObo0zl3puRp3FMQi1O4JMqRwx0nJj8/](https://docs.google.com/forms/d/1a43zK5rIutk7cObo0zl3puRp3FMQi1O4JMqRwx0nJj8/)
 edit?ts=5c76340e
 
 Questions? yourwarmnotice@gmail.com

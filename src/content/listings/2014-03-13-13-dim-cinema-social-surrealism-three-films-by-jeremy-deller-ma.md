@@ -58,9 +58,9 @@ DIM Cinema at The Cinematheque
 Monday, March 17, 2014
 1131 Howe St. Vancouver BC
 Tix: $11/9 + $3membership
-dimcinema.ca (http://www.dimcinema.ca) / thecinematheque.ca
-(http://www.thecinematheque.ca)
+dimcinema.ca ([http://www.dimcinema.ca](http://www.dimcinema.ca)) / thecinematheque.ca
+([http://www.thecinematheque.ca](http://www.thecinematheque.ca))
 
 Contact: Michèle Smith, programming@dimcinema.ca
 For updates and more information, follow us on Facebook
-(http://www.facebook.com/dimcinema/)
+([http://www.facebook.com/dimcinema/](http://www.facebook.com/dimcinema/))

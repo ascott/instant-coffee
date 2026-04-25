@@ -14,7 +14,7 @@ Research Residency
 Rijksakademie Research Residency 
 call for entries
 
-http://www.rijksakademie.nl 
+[http://www.rijksakademie.nl](http://www.rijksakademie.nl) 
 
 The Rijksakademie Research Residency in Amsterdam is an international research and production place for talented, professional artists from all over the world. The Rijksakademie is more than a residency. It has extensive technical facilities, a library, artists’ documentation and art collections. In addition the Rijksakademie offers material basic facilities such as a studio, a work budget, mediation with accommodation and grants.
 
@@ -26,7 +26,7 @@ Resident artists pursue every medium and technique: painting, drawing, graphics,
 Application
 Each year approximately twenty-five artists are invited for a residency. Artists can apply for a residency from January to December 2009 by using the online application form. The deadline for application is 1 February 2008.
 
-More information: http://www.rijksakademie.nl
+More information: [http://www.rijksakademie.nl](http://www.rijksakademie.nl)
 
 53 Ludlow street
 New York, NY 10002, USA

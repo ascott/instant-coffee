@@ -53,15 +53,15 @@ of creative expression for subversion and disruption.
 
 VIEW the ISEA2015 Schedule
 
-http://isea2015.org/schedule/
+[http://isea2015.org/schedule/](http://isea2015.org/schedule/)
 
 REGISTER for ISEA2015
 
-http://isea2015.org/registration/
+[http://isea2015.org/registration/](http://isea2015.org/registration/)
 
 VOLUNTEER for ISEA2015
 
-http://isea2015.org/call-for-volunteers-2015/
+[http://isea2015.org/call-for-volunteers-2015/](http://isea2015.org/call-for-volunteers-2015/)
 
 ABOUT ISEA International
 

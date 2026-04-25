@@ -28,6 +28,6 @@ Micro Performance Series. These works have a long list of supporters (which you 
 on our website) and we are so thrilled that the Cantonese version was recently nominated 
 for a Dora Award! 
 
-http://bocadellupo.com/dblspk-taste-empire/
+[http://bocadellupo.com/dblspk-taste-empire/](http://bocadellupo.com/dblspk-taste-empire/)
 
 Admission is by donation.

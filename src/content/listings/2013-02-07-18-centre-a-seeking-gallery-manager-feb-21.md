@@ -9,7 +9,7 @@ summary: "Centre A | Seeking Gallery Manager | FEB 21"
 ---
 
 See a PDF version here: 
-http://www.centrea.org/media/pdf/centre%20a%20gallery%20manager
+[http://www.centrea.org/media/pdf/centre%20a%20gallery%20manager](http://www.centrea.org/media/pdf/centre%20a%20gallery%20manager)
 
 JOB OPPORTUNITY
 

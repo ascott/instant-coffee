@@ -23,5 +23,5 @@ as a social symptom...
 
 For the details for the open call please visit our website:
 
-http://ngbk.de/development/images/stories/PDF/burntout_ausschreibung
+[http://ngbk.de/development/images/stories/PDF/burntout_ausschreibung](http://ngbk.de/development/images/stories/PDF/burntout_ausschreibung)
 _englisch.pdf

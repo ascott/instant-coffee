@@ -14,7 +14,7 @@ Saturday, April 6 " 3pm
 
 Griffin Art Projects
 1174 Welch St, North Vancouver, BC V7P 2R5
-http://griffinartprojects.ca/
+[http://griffinartprojects.ca/](http://griffinartprojects.ca/)
 
 George Bowering is the oldest surviving editor of Tish. He apparently 
 wont stop writing books, and keeps reading books by his teachers and 
@@ -50,4 +50,4 @@ B.C. poet Fred Wahs most recent book is a collaboration with Rita
 Wong about the Columbia River,beholden: a poem as long as the river. 
 Talonbooks also recently published Scree: The Collected Earlier 
 Poems, 1962-1991. High Muck a Muck: Playing Chinese, An 
-Interactive Poem, is available online (http://highmuckamuck.ca/).
+Interactive Poem, is available online ([http://highmuckamuck.ca/](http://highmuckamuck.ca/)).

@@ -32,7 +32,7 @@ Opening Reception:
 Friday, December 12th, 5:30 pm " 9:00 pm " everyone is welcome to join the
 celebrations.
 
-For more information, please see: https://www.tree-museum.com/indwellers
+For more information, please see: [https://www.tree-museum.com/indwellers](https://www.tree-museum.com/indwellers)
 
 This exhibition features a selection of students artworks from Emily Carr University of Art
 + Designs drawing and illustration program, and the University of British Columbias post-

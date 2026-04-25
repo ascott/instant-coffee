@@ -17,7 +17,7 @@ Thu, February 24, 2022
 Free + Online "> register through Eventbrite link
 ASL interpretation will be provided. All are welcome!
 
-https://www.eventbrite.ca/e/janelle-ecoaborijanelle-pewapsconais-online-artist-talk-
+[https://www.eventbrite.ca/e/janelle-ecoaborijanelle-pewapsconais-online-artist-talk-](https://www.eventbrite.ca/e/janelle-ecoaborijanelle-pewapsconais-online-artist-talk-)
 tickets-263777003117
 
 Multidimensional spoken word poet Janelle ecoaborijanelle Pewapsconias will

@@ -39,4 +39,4 @@ Thank you,
 Art Committee
 Union Gospel Mission
 
-http://ugm.ca
+[http://ugm.ca](http://ugm.ca)

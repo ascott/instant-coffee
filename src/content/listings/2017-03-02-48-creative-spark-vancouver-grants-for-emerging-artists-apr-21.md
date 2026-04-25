@@ -17,4 +17,4 @@ Grants of up to $2,000 are available. Eligible artists must be living in the Cit
 Vancouver or residents and members of the Musqueam, Squamish or Tsleil-Waututh 
 First Nations. Learn more and apply by April 21, 2017 at 
 
-http://artstarts.com/creativesparkvancouver
+[http://artstarts.com/creativesparkvancouver](http://artstarts.com/creativesparkvancouver)

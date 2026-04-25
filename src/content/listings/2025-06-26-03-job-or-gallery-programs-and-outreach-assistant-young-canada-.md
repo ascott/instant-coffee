@@ -55,5 +55,5 @@ practice, and interest in the position.
 
 SEE JOB DETAILS HERE:
 
-https://orgallery.org/news/hiring-programs-and-outreach-assistant-young-canada-
+[https://orgallery.org/news/hiring-programs-and-outreach-assistant-young-canada-](https://orgallery.org/news/hiring-programs-and-outreach-assistant-young-canada-)
 works-student-part-time-position/

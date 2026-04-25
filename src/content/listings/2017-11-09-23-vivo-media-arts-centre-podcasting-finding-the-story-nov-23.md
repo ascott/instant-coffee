@@ -14,7 +14,7 @@ presented by VIVO Media Arts Centre, Media Democracy Day 2017, and CiTR 101.9FM
 Learn radio reporting and audio storytelling in this podcasting primer with producer-
 journalists Madeline Taylor & Alex de Boer of UBC radio CiTR 101.9 FM!
 
-Sign up and more info here: https://podcasting-the-story.eventbrite.ca
+Sign up and more info here: [https://podcasting-the-story.eventbrite.ca](https://podcasting-the-story.eventbrite.ca)
 
 2 sessions, 6 hours total
 

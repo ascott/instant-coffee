@@ -86,7 +86,7 @@ others.
 For more information about eligibility and how to apply, please see the 
 CASV 
 
-website at http://www.casv.ca and click on the Emerging Artist’s Prize 
+website at [http://www.casv.ca](http://www.casv.ca) and click on the Emerging Artist’s Prize 
 link. 
 
 MEDIA CONTACT: Rachel Lafo: emergingartistsprize@casv.ca 

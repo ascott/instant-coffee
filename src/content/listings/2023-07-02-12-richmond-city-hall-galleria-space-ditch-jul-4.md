@@ -21,4 +21,4 @@ Richmond City Hall Galleria Space
 Hours Mon-Fri 8:15 to 5pm
 Sat/Sun closed
 
-For more information: https://www.richmondartgallery.org/ditch
+For more information: [https://www.richmondartgallery.org/ditch](https://www.richmondartgallery.org/ditch)

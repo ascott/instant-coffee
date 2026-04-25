@@ -9,7 +9,7 @@ summary: "[ONLINE] UNIT/PITT | 2020-21 Community & Audience Survey | MAR 5"
 ---
 
 UNIT/PITT has just launched their 2020-21 Community & Audience survey:
-https://forms.gle/Qgu1GtJdHTzMW4of8
+[https://forms.gle/Qgu1GtJdHTzMW4of8](https://forms.gle/Qgu1GtJdHTzMW4of8)
 
 Purpose:
 This survey is intended for artists, writers, labourers, and the broader arts community-at-

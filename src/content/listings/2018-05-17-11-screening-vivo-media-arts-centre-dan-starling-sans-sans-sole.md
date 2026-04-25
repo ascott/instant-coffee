@@ -47,7 +47,7 @@ preserve information
 
 This screening is co-presented by Wil Aballe Art Projects.
 For more information, please visit
-http://www.waapart.com/portfolio/dan-starling-sans-sans-soleil/
+[http://www.waapart.com/portfolio/dan-starling-sans-sans-soleil/](http://www.waapart.com/portfolio/dan-starling-sans-sans-soleil/)
 
 Dan Starlings work plays with the conventions of narrative through
 intervention, extrapolation, reinterpretation and reconfiguration. His work

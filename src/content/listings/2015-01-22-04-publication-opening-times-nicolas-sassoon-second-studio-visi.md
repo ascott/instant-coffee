@@ -10,7 +10,7 @@ summary: "PUBLICATION | Opening Times | Nicolas Sassoon, Second Studio Visit | J
 
 Second Studio Visit
 Nicolas Sassoon
-http://pandora.otdac.org/second-studio-visit/
+[http://pandora.otdac.org/second-studio-visit/](http://pandora.otdac.org/second-studio-visit/)
 
 Second Studio Visit marks another chapter from Nicolas Sassoon’s project
 PANDORA, hosted on Opening Times, a not-for-profit digital art
@@ -22,4 +22,4 @@ commissioning body and platform for artworks whose primary means of
 encounter is online.
 otdac.org/
 
-http://pandora.otdac.org/second-studio-visit/
+[http://pandora.otdac.org/second-studio-visit/](http://pandora.otdac.org/second-studio-visit/)

@@ -21,11 +21,11 @@ reading from his first book, Company Town
 
 Saturday, August 9, from 6 to 9 PM, amid the ping-pong tables on Helena Gutteridge
 Plaza at Vancouver City Hall; more information:
-http://bedroomkitchen.garden/resonance-through-the-haze.html
+[http://bedroomkitchen.garden/resonance-through-the-haze.html](http://bedroomkitchen.garden/resonance-through-the-haze.html)
 
 This event is co-organized by Woojae Kim and Khan Lee, with readings organized
 by Francesca Bennett, and is supported by the City of Vancouver Community
-Placemaking Program: https://vancouver.ca/streets-transportation/community-
+Placemaking Program: [https://vancouver.ca/streets-transportation/community-](https://vancouver.ca/streets-transportation/community-)
 placemaking-program.aspx
 
 All welcome!

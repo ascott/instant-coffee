@@ -30,6 +30,6 @@ soso, and is the owner of Clothes Horse Records.
 
 the generosity of mechanics is curated by Mitch Speed.
 
-http://www.facebook.com/event.php?eid=319735303966&index=1
-http://www.woomagazine.ca
-http://www.troygronsdahl.com
+[http://www.facebook.com/event.php?eid=319735303966&index=1](http://www.facebook.com/event.php?eid=319735303966&index=1)
+[http://www.woomagazine.ca](http://www.woomagazine.ca)
+[http://www.troygronsdahl.com](http://www.troygronsdahl.com)

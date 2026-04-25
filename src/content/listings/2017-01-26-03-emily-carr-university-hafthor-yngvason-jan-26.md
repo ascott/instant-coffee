@@ -36,7 +36,7 @@ This event is the first in a series of Curator's talks to be held at Emily Carr 
 Art and Design, produced in partnership with the Vancouver Art Gallery and 221A. The 
 series is associated with the exhibition Vancouver Special: Ambivalent Pleasures and 
 supported by the Province of British Columbia's Creative Economy Strategy. Further 
-Details: http://221a.ca/vancouver-special-ambivalent-pleasures-library-and-public-
+Details: [http://221a.ca/vancouver-special-ambivalent-pleasures-library-and-public-](http://221a.ca/vancouver-special-ambivalent-pleasures-library-and-public-)
 program
 
 Emily Carr University of Art + Design

@@ -11,7 +11,7 @@ summary: "VIVO | WORKSHOP | Free Youth Mentorship: Queer Happenings | OCT 9"
 Queer Happenings
 
 More info & sign up:
-https://vivomediaarts.com/queer-happenings
+[https://vivomediaarts.com/queer-happenings](https://vivomediaarts.com/queer-happenings)
 
 Application deadline extended to Oct 9, 2020.
 

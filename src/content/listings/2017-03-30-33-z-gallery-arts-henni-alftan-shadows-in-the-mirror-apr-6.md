@@ -23,4 +23,4 @@ others.
 
 I invite you to view Alftan's complete catalogue for Shadows in the Mirror at the link 
 below: 
-https://zgalleryarts.com/product/shadows-in-the-mirror-henni/
+[https://zgalleryarts.com/product/shadows-in-the-mirror-henni/](https://zgalleryarts.com/product/shadows-in-the-mirror-henni/)

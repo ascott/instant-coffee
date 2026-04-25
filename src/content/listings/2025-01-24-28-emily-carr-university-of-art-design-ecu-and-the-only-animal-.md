@@ -29,7 +29,7 @@ Swxw7mesh, and slilwta territories. Her work extends to explore the land,
 memories, world-building and embodied response. Informed by dream interpretation
 and Kanyen'keh:ka epistemology Yake submerges into liminality through
 performances illuminated by archival recordings, synthesis, and noise.
-Link to toni's website: https://tonileahcyake.wordpress.com/
+Link to toni's website: [https://tonileahcyake.wordpress.com/](https://tonileahcyake.wordpress.com/)
 
 The Only Animal is teaming up with artist-activist, researcher and educator Julie
 Andreyev, alongside faculty and students at Emily Carr University and the Canadian
@@ -48,5 +48,5 @@ Innovation for Partnered Research grant, ECU-RIO NSERC Mobilize; and The
 Basically Good Media Lab
 
 REGISTER FOR FREE HERE:
-https://www.eventbrite.ca/e/listening-in-relation-with-toni-leah-c-yake-workshop-
+[https://www.eventbrite.ca/e/listening-in-relation-with-toni-leah-c-yake-workshop-](https://www.eventbrite.ca/e/listening-in-relation-with-toni-leah-c-yake-workshop-)
 series-tickets-1200526821039?aff=oddtdtcreator

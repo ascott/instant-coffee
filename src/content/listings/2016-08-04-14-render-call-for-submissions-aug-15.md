@@ -25,7 +25,7 @@ by Eva Michon).
 
 Render is looking for the best music videos of 2015 & 2016.
 
-You can submit your music video here: https://filmfreeway.com/festival/render.
+You can submit your music video here: [https://filmfreeway.com/festival/render](https://filmfreeway.com/festival/render).
 
 The final deadline is Monday, August 15th, 2016.
 
@@ -34,6 +34,6 @@ International Film Festival, on Friday, November 4th, 2016.
 
 Connect with us:
 
-Facebook: https://www.facebook.com/renderfestival
+Facebook: [https://www.facebook.com/renderfestival](https://www.facebook.com/renderfestival)
 Twitter: @RenderFestival
 Instagram: @render_festival

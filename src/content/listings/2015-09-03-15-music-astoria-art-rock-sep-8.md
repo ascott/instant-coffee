@@ -22,9 +22,9 @@ poetics.
 EXPERIENCE THIS (formerly kate moss and the bloody legends)
 JSN
 HAZY
-http://hazyhazyhaze.bandcamp.com
+[http://hazyhazyhaze.bandcamp.com](http://hazyhazyhaze.bandcamp.com)
 S1UGS
-http://soundcloud.com/s1ugs
+[http://soundcloud.com/s1ugs](http://soundcloud.com/s1ugs)
 JULIAN HOU
 
 #installations#visuals#greenscreen#busts#video#fog#artrock#questionmark

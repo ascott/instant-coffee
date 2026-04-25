@@ -15,7 +15,7 @@ collaborator Marin Vlez for a week-long residency to develop an iteration of MOU
 live arrangement of words, images, audio field recordings and the lighting work of Vlez. 
 
 More information on Santiago Muoz's exhibition and performance with Marin Vlez check 
-https://front.bc.ca/events/that-which-identifies-them/
+[https://front.bc.ca/events/that-which-identifies-them/](https://front.bc.ca/events/that-which-identifies-them/)
 
 Western Front
 303 East 8th Avenue, Vancouver, BC

@@ -32,5 +32,5 @@ Robyn Jacob, w/ Emma Postl and Emily Millard
 bring a blanket and a friend!
 all forms of creative loitering encouraged! 
 
-https://publiksecrets.com/field-house/
-https://www.facebook.com/events/661812274154068/
+[https://publiksecrets.com/field-house/](https://publiksecrets.com/field-house/)
+[https://www.facebook.com/events/661812274154068/](https://www.facebook.com/events/661812274154068/)

@@ -14,7 +14,7 @@ CityScape Community ArtSpace | 335 Lonsdale Avenue, North Vancouver
 Opening Reception: Thursday, October 23, 2025, 6pm - 8pm
 Edges explores the beauty and fragility of BCs Tafoni rock formations through art by De
 Jeffery, Ellen Pelto, Celeste Snowber, Carolyn Sullivan, and Sande Waters. More
-information here: https://northvanarts.ca/events-exhibitions/edges/
+information here: [https://northvanarts.ca/events-exhibitions/edges/](https://northvanarts.ca/events-exhibitions/edges/)
 
 Gallery Hours
 Wednesday " Saturday: 11am " 5pm

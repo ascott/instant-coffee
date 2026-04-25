@@ -17,7 +17,7 @@ The priority application deadline is July 5, 2023 11:59 PM.
 
 Use the following link to view the full posting and apply online:
 
-https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-
+[https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-](https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-)
 Campus/Curator-of-Outdoor-Art_JR13192-1
 
 The Morris and Helen Belkin Art Gallery at UBC is mandated to research, exhibit,
@@ -109,7 +109,7 @@ the position is October 10, 2023.
 To apply for this position please submit a cover letter and CV using the following link to
 view the full posting and apply online:
 
-https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-
+[https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-](https://ubc.wd10.myworkdayjobs.com/ubcstaffjobs/job/UBC-Vancouver-)
 Campus/Curator-of-Outdoor-Art_JR13192-1
 
 Equity and diversity are essential to academic excellence. An open and diverse
@@ -121,7 +121,7 @@ including sex, sexual orientation, gender identity or expression, racialization,
 political belief, religion, marital or family status, age, and/or status as a First Nation,
 Metis, Inuit, or Indigenous person.
 
-https://belkin.ubc.ca/careers-outdoor-art/
+[https://belkin.ubc.ca/careers-outdoor-art/](https://belkin.ubc.ca/careers-outdoor-art/)
 
 FOR FURTHER INFORMATION PLEASE CONTACT: JANA TYNER AT
 jana.tyner@ubc.ca,

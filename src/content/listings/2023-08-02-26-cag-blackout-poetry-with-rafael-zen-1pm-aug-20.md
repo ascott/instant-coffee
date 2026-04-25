@@ -22,7 +22,7 @@ ways found media can be used as a source of inspiration for other creative outpu
 such as visual arts, media arts, screenwriting, and storytelling.
 
 Registration for this event is free, but limited. A number of spots are reserved for
-families. RSVP to secure your place here: https://cagvancouver.org/event/open-
+families. RSVP to secure your place here: [https://cagvancouver.org/event/open-](https://cagvancouver.org/event/open-)
 studio-paige-smith
 
 Rafael Zen (he/they) is a queer Latinx media artist and performer working mostly

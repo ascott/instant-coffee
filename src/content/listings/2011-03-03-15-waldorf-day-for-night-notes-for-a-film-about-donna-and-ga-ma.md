@@ -11,7 +11,7 @@ summary: "Waldorf | Day for Night: | Notes for a Film about Donna and Ga | MAR 6
 Day for Night: Films in the Afternoon
 March 6th, 2011, Doors 2:00pm. Films at 2:30pm
 
-More information at http://www.waldorfhotel.com/
+More information at [http://www.waldorfhotel.com/](http://www.waldorfhotel.com/)
 
 The Waldorf Hotel (1489 East Hastings, Phone: 604-253-7141)
 

@@ -58,7 +58,7 @@ ongoing investigations of the growing, making, preserving, celebrating,
 and sharing of food.
 
 To apply or learn more about Alchemy programming visit:
-https://makealchemy.com
+[https://makealchemy.com](https://makealchemy.com)
 
 DISCIPLINES, WORK EQUIPMENT & ASSISTANCE
 

@@ -21,6 +21,6 @@ creation of a structural slab to support the piece.
 
 Deadline for submission is January 6, 2021.
 
-For more information visit: https://banff.ca/1153/Call-to-Artists
+For more information visit: [https://banff.ca/1153/Call-to-Artists](https://banff.ca/1153/Call-to-Artists)
 
-http://https://banff.ca/1153/Call-to-Artists
+[http://https://banff.ca/1153/Call-to-Artists](http://https://banff.ca/1153/Call-to-Artists)

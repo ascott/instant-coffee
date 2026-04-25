@@ -23,4 +23,4 @@ welcome. Edited by Leigh Tennant and Steven Cottingham. Published on unceded ter
 
 Please check out the edition at,
 
-http://qoqqoon.com/
+[http://qoqqoon.com/](http://qoqqoon.com/)

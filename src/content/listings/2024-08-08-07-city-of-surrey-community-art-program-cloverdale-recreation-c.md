@@ -25,4 +25,4 @@ The theme for this call is Abstracts and Interpretations: Non " Representational
 Showcase your 2D artworks, including paintings,
 photography, and prints. Open to all
 ages and artists at any level of their artistic journey.
-http://https://www.surrey.ca/arts-culture/community-art/c
+[http://https://www.surrey.ca/arts-culture/community-art/c](http://https://www.surrey.ca/arts-culture/community-art/c)

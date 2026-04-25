@@ -38,4 +38,4 @@ Cultural Centre
 
 6688 Southoaks Crescent, Burnaby BC V5E 4M7
 
-https://centre.nikkeiplace.org/exhibits/haq-history/
+[https://centre.nikkeiplace.org/exhibits/haq-history/](https://centre.nikkeiplace.org/exhibits/haq-history/)

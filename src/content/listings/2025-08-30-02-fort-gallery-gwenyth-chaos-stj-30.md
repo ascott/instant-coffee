@@ -59,7 +59,7 @@ with fellow art enthusiasts and experience /st-j/ 3.0 in person. See you there!
 
 Location: Fort Langley Community Hall, 9167 Glover Road Langley Twp, BC.
 
-RSVP here: https://www.eventbrite.ca/e/fort-gallery-staj-30-by-gwyneth-chao-
+RSVP here: [https://www.eventbrite.ca/e/fort-gallery-staj-30-by-gwyneth-chao-](https://www.eventbrite.ca/e/fort-gallery-staj-30-by-gwyneth-chao-)
 opening-reception-tickets-1574666362479?utm-campaign=social&utm-
 content=attendeeshare&utm-medium=discovery&utm-term=listing&utm-
 source=cp&aff=ebdsshcopyurl
@@ -77,7 +77,7 @@ BC.
 
 Date & Time: Sunday, September 14, 2-3pm
 
-RSVP here: https://www.eventbrite.ca/e/fort-gallery-staj-30-by-gwyneth-chao-artist-
+RSVP here: [https://www.eventbrite.ca/e/fort-gallery-staj-30-by-gwyneth-chao-artist-](https://www.eventbrite.ca/e/fort-gallery-staj-30-by-gwyneth-chao-artist-)
 talk-and-tour-tickets-1574744064889?aff=oddtdtcreator
 
 Workshop #1:
@@ -100,7 +100,7 @@ Location: Fort Langley Community Hall, 9167 Glover Road Langley Twp, BC.
 
 Date & Time: Sunday, September 7th from 2-4pm.
 
-RSVP here: https://www.eventbrite.ca/e/fort-gallery-staj-30-by-gwyneth-chao-co-
+RSVP here: [https://www.eventbrite.ca/e/fort-gallery-staj-30-by-gwyneth-chao-co-](https://www.eventbrite.ca/e/fort-gallery-staj-30-by-gwyneth-chao-co-)
 experimentation-lab-tickets-1574670886009?aff=oddtdtcreator
 
 Workshop #2:
@@ -123,5 +123,5 @@ Location: Fort Langley Community Hall, 9167 Glover Road Langley Twp, BC.
 
 Date & Time: Saturday September 13th from 2-4pm.
 
-RSVP here: https://www.eventbrite.ca/e/collective-learning-paper-making-from-food-
+RSVP here: [https://www.eventbrite.ca/e/collective-learning-paper-making-from-food-](https://www.eventbrite.ca/e/collective-learning-paper-making-from-food-)
 refuse-with-gwyneth-chao-tickets-1574676442629?aff=oddtdtcreator

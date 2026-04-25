@@ -21,7 +21,7 @@ Dear Artist:
 The committee and administration of e v+ a trust that you have already
 received by email and/or in hard copy by post the Official Application Form
 and the Submission Guidelines for OPEN e v+ a 2010. If not, please contact
-www.eva.ie <http://www.eva.ie/> or info@eva.ie or +353 (0)87 9477042.
+www.eva.ie <[http://www.eva.ie/](http://www.eva.ie/)> or info@eva.ie or +353 (0)87 9477042.
 
 The 2010 Curator, Elizabeth Hatz, whose CV and statement accompanies the
 Application Form, has asked us to pass on some further information about

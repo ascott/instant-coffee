@@ -30,7 +30,7 @@ grandparents’ generation. This feature live action and animated documentary
 explores why almost all Japanese-Canadians are marrying interracially, and
 how their mixed children perceive their unique multiracial identities.
 
-View trailer http://youtu.be/obK72DlHt_c
+View trailer [http://youtu.be/obK72DlHt_c](http://youtu.be/obK72DlHt_c)
 
 National Nikkei Museum & Heritage Centre,
 6688 Southoaks Crescent

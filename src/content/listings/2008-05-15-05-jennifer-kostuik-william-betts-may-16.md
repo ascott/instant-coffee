@@ -28,7 +28,7 @@ Canada
 
 Tel. 604.737.3969
 info@kostuikgallery.com
-http://www.kostuikgallery.com
+[http://www.kostuikgallery.com](http://www.kostuikgallery.com)
 
 Gallery Hours:
 Tuesday - Wednesday: 10am - 6pm

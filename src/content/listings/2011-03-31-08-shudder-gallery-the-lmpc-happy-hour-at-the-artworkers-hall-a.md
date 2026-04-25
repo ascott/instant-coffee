@@ -44,11 +44,11 @@ dialogue. Their work acts as a vehicle for community and knowledge
 production, while at the same time engaging in questions of
 productivity, definitions, value production, object-hood and economy.
 For more information about the Lower Mainland Painting Co. visit 
-http://www.lmpc.ca or email them directly at info@lmpc.ca
+[http://www.lmpc.ca](http://www.lmpc.ca) or email them directly at info@lmpc.ca
 
 -- 
 LMPC
 
 The Lower Mainland Painting Co. est. 2010
 
-http://www.lmpc.ca/
+[http://www.lmpc.ca/](http://www.lmpc.ca/)

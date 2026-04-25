@@ -8,7 +8,7 @@ venue: "DEPARTMENT OF PUBLIC IMAGINATION"
 summary: "DEPARTMENT OF PUBLIC IMAGINATION | residency, Boston | JUL 19"
 ---
 
-http://ds4si.org/residency/
+[http://ds4si.org/residency/](http://ds4si.org/residency/)
 
 ABOUT
 APPLY

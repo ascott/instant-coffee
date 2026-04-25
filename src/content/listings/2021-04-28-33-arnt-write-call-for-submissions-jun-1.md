@@ -22,4 +22,4 @@ The current deadline is June 1st.
 
 To submit please follow the guidelines on our website:
 
-https://arntwrite.wixsite.com/home/submit
+[https://arntwrite.wixsite.com/home/submit](https://arntwrite.wixsite.com/home/submit)

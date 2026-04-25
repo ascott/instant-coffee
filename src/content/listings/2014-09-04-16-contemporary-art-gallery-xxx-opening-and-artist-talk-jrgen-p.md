@@ -112,4 +112,4 @@ Contemporary Art Gallery, Vancouver
 www.contemporaryartgallery.ca
 
 - See more at:
-http://www.contemporaryartgallery.ca/exhibitions/jurgen-partenheimer-the-archive-the-raven-diaries/#sthash.q3xbRuZC.dpuf
+[http://www.contemporaryartgallery.ca/exhibitions/jurgen-partenheimer-the-archive-the-raven-diaries/#sthash.q3xbRuZC.dpuf](http://www.contemporaryartgallery.ca/exhibitions/jurgen-partenheimer-the-archive-the-raven-diaries/#sthash.q3xbRuZC.dpuf)

@@ -13,6 +13,6 @@ a FREE symposium of Indigenous moving image art.
 April 11th, 5:30pm - April 13th, 5:30pm
 520 E 1st Ave, Vancouver, BC
 Location: Emily Carr University
-https://shiftingforms.ca/
-Tickets: https://www.eventbrite.com/checkout-external/?
+[https://shiftingforms.ca/](https://shiftingforms.ca/)
+Tickets: [https://www.eventbrite.com/checkout-external/](https://www.eventbrite.com/checkout-external/)?
 eid=1279916537819&quantity_2335608533=1

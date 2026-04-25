@@ -28,7 +28,7 @@ Sincerely,
 Jacob Gleeson
 
 THETENTSHOP:
-http://thetentshop.ca/
+[http://thetentshop.ca/](http://thetentshop.ca/)
 facebook.com/thetentshop 
 
 SOLDER & SONS:
@@ -37,4 +37,4 @@ SOLDER & SONS:
 Tuesday to Friday 10-5
 Saturday 12-4
 
-http://solderandsons.tumblr.com/
+[http://solderandsons.tumblr.com/](http://solderandsons.tumblr.com/)

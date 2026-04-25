@@ -30,15 +30,15 @@ worked in mineral exploration around the world, settling in Vancouver in 2004. H
 subsequently took evening classes at Emily Carr University, kick-starting a hobby that
 transitioned to a full-time art practice in 2013.
 
-Gallery website: https://thisgallery.org/
+Gallery website: [https://thisgallery.org/](https://thisgallery.org/)
 
-Artist website: https://www.jeffwilsonart.org/
+Artist website: [https://www.jeffwilsonart.org/](https://www.jeffwilsonart.org/)
 
-Artist Instagram: https://www.instagram.com/jeffwilsonart/
+Artist Instagram: [https://www.instagram.com/jeffwilsonart/](https://www.instagram.com/jeffwilsonart/)
 
-Gallery artist page: https://thisgallery.org/project/jeff-wilson/
+Gallery artist page: [https://thisgallery.org/project/jeff-wilson/](https://thisgallery.org/project/jeff-wilson/)
 
-Gallery shop: https://thethisgallery.com/collections/jeff-wilson-north-by-northwest
+Gallery shop: [https://thethisgallery.com/collections/jeff-wilson-north-by-northwest](https://thethisgallery.com/collections/jeff-wilson-north-by-northwest)
 
 _____________
 
@@ -55,4 +55,4 @@ choose whichever suits you best. Studios range in price from $450 to $780. The s
 also includes an exhibition space that can be shared by all tenants. It can also be used
 to host events, so there is some earning potential.
 
-Find out more and see photos here: https://thisgallery.org/studios/
+Find out more and see photos here: [https://thisgallery.org/studios/](https://thisgallery.org/studios/)

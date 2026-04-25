@@ -68,7 +68,7 @@ accelerometers, realtime data and discuss how his work has transmitted the wind 
 very disparate locations. This special workshop has been made available to emerging 
 artists, by invitation, and will be streamed live for broad access.
 
-http://newmediagallery.ca/artalkdavidbowen/ 
+[http://newmediagallery.ca/artalkdavidbowen/](http://newmediagallery.ca/artalkdavidbowen/) 
 To view Live Stream - New Media Gallery Programmer, Chris Jung cjung@anvilcentre.ca 
 
 New Media Gallery + Learning Lab (311)

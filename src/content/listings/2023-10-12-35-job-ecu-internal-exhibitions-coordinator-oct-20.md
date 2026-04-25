@@ -98,7 +98,7 @@ initiatives in support of student
 professional development, space allocation and presentation opportunities.
 14 Completes internal event booking and risk assessment forms, as necessary.
 15 Performs other related duties as required.
-To apply for this job, please visit https://ecuad.peopleadmin.ca. Competition closes
+To apply for this job, please visit [https://ecuad.peopleadmin.ca](https://ecuad.peopleadmin.ca). Competition closes
 on Friday, 20 October 2023.
 
 Emily Carr University especially invites those who have demonstrated a commitment

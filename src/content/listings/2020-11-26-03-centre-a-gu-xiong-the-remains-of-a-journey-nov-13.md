@@ -59,4 +59,4 @@ accessibility needs, please contact us at (604) 683-8326 or info@centrea.org.
 Centre A is situated on the traditional, ancestral, and unceded Coast Salish territories of the
 Musqueam, Squamish, and Tsleil-Waututh peoples. We honour, respect, and give thanks to
 our hosts.
-http://centrea.org
+[http://centrea.org](http://centrea.org)

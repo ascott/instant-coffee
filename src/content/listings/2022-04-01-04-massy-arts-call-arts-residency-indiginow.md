@@ -25,4 +25,4 @@ related events; 3) venue for opening reception + workshop; 4) online room for vi
 performance or reading event.
 .
 Know more about the residency program at:
-https://massyarts.com/event/arts-residency-indiginow/
+[https://massyarts.com/event/arts-residency-indiginow/](https://massyarts.com/event/arts-residency-indiginow/)

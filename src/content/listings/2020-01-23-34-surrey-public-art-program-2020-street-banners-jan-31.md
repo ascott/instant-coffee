@@ -10,7 +10,7 @@ summary: "Surrey Public Art Program | 2020 Street Banners | JAN 31"
 
 Call for Concept Proposals for 2020 Street Banners
 
-- Download all details at https://www.surrey.ca/culture-recreation/30520.aspx
+- Download all details at [https://www.surrey.ca/culture-recreation/30520.aspx](https://www.surrey.ca/culture-recreation/30520.aspx)
 - Deadline to Apply: Friday, January 31, 2020, 4pm
 - Compensation: $2,500 for selected design
 - Eligibility: Open to all artists currently residing in BC

@@ -25,5 +25,5 @@ and Puerto Rican futurism. Rivera is building anticolonial narratives by using c
 as sewing to stitch together intergenerational experiences that act as a form of resistance
 to U.S. occupation in Puerto Rico.
 
-Details and event access here: https://grunt.ca/spark-fireside-artist-talk-series/
+Details and event access here: [https://grunt.ca/spark-fireside-artist-talk-series/](https://grunt.ca/spark-fireside-artist-talk-series/)
 This event will be held online via Zoom, with auto-generated captioning.

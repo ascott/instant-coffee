@@ -16,5 +16,5 @@ Explore the relief printing process by learning how to create a one colour lino 
 will learn how to design, carve and print your own lino cut, without the need for a printing 
 press.
 2 Linocut intensive sessions, $300
-https://www.mobil-art.ca/event-info/introduction-to-linocut-printing-saturdays-from-july-
+[https://www.mobil-art.ca/event-info/introduction-to-linocut-printing-saturdays-from-july-](https://www.mobil-art.ca/event-info/introduction-to-linocut-printing-saturdays-from-july-)
 20-27-2019

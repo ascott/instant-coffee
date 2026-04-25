@@ -107,7 +107,7 @@ Ground, 3rd and 4th floors of the Sun Wah Centre at 268 Keefer Street and is hom
 many cultural organizations, community groups and artists that share a commitment to
 being engaged and responsible to Chinatown and the surrounding area's communities.
 
-More info: https://www.bcabca.ca/available-spaces / operations@bcabca.ca
+More info: [https://www.bcabca.ca/available-spaces](https://www.bcabca.ca/available-spaces) / operations@bcabca.ca
 
 
 3.
@@ -130,7 +130,7 @@ Ground, 3rd and 4th floors of the Sun Wah Centre at 268 Keefer Street and is hom
 many cultural organizations, community groups and artists that share a commitment to
 being engaged and responsible to Chinatown and the surrounding area's communities.
 
-More info: https://www.bcabca.ca/available-spaces / operations@bcabca.ca
+More info: [https://www.bcabca.ca/available-spaces](https://www.bcabca.ca/available-spaces) / operations@bcabca.ca
 
 
 4.
@@ -159,7 +159,7 @@ Spot available immediately!
 
 Email us at: info@thephoenixgallery.ca
 
-http://thephoenixgallery.ca/
+[http://thephoenixgallery.ca/](http://thephoenixgallery.ca/)
 @watchthephoenix
 
 5.

@@ -54,7 +54,7 @@ If the cost of applying is prohibitive to you, please contact us at
 info(at)seymourartgallery.com
 
 Apply Online:
-https://www.seymourartgallery.com/exhibitions/calls-for-artists/
+[https://www.seymourartgallery.com/exhibitions/calls-for-artists/](https://www.seymourartgallery.com/exhibitions/calls-for-artists/)
 
 info(at)seymourartgallery.com
 

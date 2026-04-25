@@ -16,7 +16,7 @@ Room 102, Frederic Lasserre Building
 6333 Memorial Road, University of British Columbia
 
 The event is free and open to the public, but space is limited and advanced registration is
-required: https://ahva.air.arts.ubc.ca/germaine-koh-lecture-rsvp/
+required: [https://ahva.air.arts.ubc.ca/germaine-koh-lecture-rsvp/](https://ahva.air.arts.ubc.ca/germaine-koh-lecture-rsvp/)
 
 COVID-19 prevention protocols will be in place, including mandatory masks for the duration
 of the lecture.
@@ -35,8 +35,8 @@ ancestral territories of the Musqueam, Squamish and Tsleil-Waututh First Nations
 adapts familiar objects to create situations that look at the significance of everyday actions
 and common spaces, and which encourage connections between people, technology, and
 natural systems. Her current projects include Home Made Home
-(http://homemadehome.ca), an initiative to build and advocate for alternative forms of
-housing, and League (http://league-league.org), a participatory project using play as a form
+([http://homemadehome.ca](http://homemadehome.ca)), an initiative to build and advocate for alternative forms of
+housing, and League ([http://league-league.org](http://league-league.org)), a participatory project using play as a form
 of creative practice. From 2018 to 2020 she was the City of Vancouvers first Engineering
 Artist in Residence. Her exhibition
 history includes the BALTIC Centre, Muse d'art

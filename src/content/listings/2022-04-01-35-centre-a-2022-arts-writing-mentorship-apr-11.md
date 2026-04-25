@@ -41,7 +41,7 @@ writing and get to publish their works online and in-print, compensated with ind
 standard writers fees.
 
 Go HERE to find out more about the Mentorship Program and application details.
-https://centrea.org/2022/03/writing2022/
+[https://centrea.org/2022/03/writing2022/](https://centrea.org/2022/03/writing2022/)
 
 Centre A would like to acknowledge the generous support of the Canada Council for
 the Arts and the BC Arts Council for this project.

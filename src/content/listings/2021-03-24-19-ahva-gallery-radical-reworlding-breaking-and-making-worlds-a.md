@@ -28,7 +28,7 @@ Tuesday"Friday
 12"4 PM
 
 All UBC COVID-19 protocols and procedures apply to gallery visitors; see
-https://covid19.ubc.ca/ for more information. All AHVA Gallery visitors must perform a QR
+[https://covid19.ubc.ca/](https://covid19.ubc.ca/) for more information. All AHVA Gallery visitors must perform a QR
 code sign-in posted at the entrance to the Audain Art Centre and follow all building signage,
 guidelines and instructions from UBC staff to ensure everyone has a safe visit.
 

@@ -17,7 +17,7 @@ musical arts. The event is an exciting mix of art and sound, from the sweet soun
 classical music to chilled out beats of local folk bands. Expect the unexpected!
 
 RSVP HERE:
-https://www.eventbrite.ca/e/live-at-the-gallery-featuring-eddie-lam-and-sillken-tickets-
+[https://www.eventbrite.ca/e/live-at-the-gallery-featuring-eddie-lam-and-sillken-tickets-](https://www.eventbrite.ca/e/live-at-the-gallery-featuring-eddie-lam-and-sillken-tickets-)
 53403086068
 
 Deer Lake Gallery

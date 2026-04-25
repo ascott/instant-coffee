@@ -67,7 +67,7 @@ V6Y 1R9
 
 Canada
 
-More details available at: http://www.richmondartgallery.org/mail-art-2013.php
+More details available at: [http://www.richmondartgallery.org/mail-art-2013.php](http://www.richmondartgallery.org/mail-art-2013.php)
 
 For any questions, please contact the Exhibition Coordinator:
 

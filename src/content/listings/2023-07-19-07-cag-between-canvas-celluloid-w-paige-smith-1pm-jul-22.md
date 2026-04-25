@@ -24,7 +24,7 @@ Each participant will create a short segment, and the
 group's work will be stitched together and screened at the end of the workshop.
 
 Registration for this event is free, but limited. A number of spots are reserved for
-families. RSVP to secure your place here: https://cagvancouver.org/event/open-
+families. RSVP to secure your place here: [https://cagvancouver.org/event/open-](https://cagvancouver.org/event/open-)
 studio-paige-smith
 
 Paige Smith

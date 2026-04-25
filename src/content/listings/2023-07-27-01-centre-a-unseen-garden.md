@@ -11,7 +11,7 @@ summary: "Centre A | UNSEEN GARDEN"
 Centre A is pleased to announce Unseen Garden, a digital project developed by artists
 Chris Hamamoto and Frederico Prez Villoro.
 
-Brought to you in the form of a website (https://www.unseen.garden/), it compiles a
+Brought to you in the form of a website ([https://www.unseen.garden/](https://www.unseen.garden/)), it compiles a
 series of stock-image timelapses displaying flowers blooming and decaying with auto-
 generated captions added by a custom-made program.
 

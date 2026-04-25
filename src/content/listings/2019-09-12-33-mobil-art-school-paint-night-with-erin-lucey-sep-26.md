@@ -19,4 +19,4 @@ can also bring your own acrylics.
 Sorry, we are unable to accommodate drop-ins. Please pre-register and read our FAQ.
 Cash Bar, 19+ only, No Minors, No Outside Drinks.
 $65
-https://www.mobil-art.ca/event-info/paint-night-with-erin-lucey-at-mobil-art
+[https://www.mobil-art.ca/event-info/paint-night-with-erin-lucey-at-mobil-art](https://www.mobil-art.ca/event-info/paint-night-with-erin-lucey-at-mobil-art)

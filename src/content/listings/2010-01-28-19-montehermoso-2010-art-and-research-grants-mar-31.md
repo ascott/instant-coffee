@@ -19,7 +19,7 @@ Fray Zacarías Martínez, 2
 SPAIN
 info@montehermoso.net
 
-http://www.montehermoso.net
+[http://www.montehermoso.net](http://www.montehermoso.net)
 
 MONTEHERMOSO 2010 Art and Research Grants
 
@@ -70,7 +70,7 @@ development expenses.
 Application deadline: March 31st, 2010
 For further information
 (download of full requirements)
-http://www.montehermoso.net
+[http://www.montehermoso.net](http://www.montehermoso.net)
 info@montehermoso.net
 
 2009 Selected projects
@@ -138,7 +138,7 @@ Roy Arden, Stan Douglas, Juan A. Gaitán, Janice Kerbel, Tim Lee, Mark
 Lewis, Shirin Neshat, Isabelle Pauwels, Lisa Robertson, Kathy Slade, and
 Susan Sontag.
 
-See Artspeak's complete backlist and order online at http://www.artspeak.ca
+See Artspeak's complete backlist and order online at [http://www.artspeak.ca](http://www.artspeak.ca)
 
 Artspeak
 233 Carrall St.
@@ -177,4 +177,4 @@ anything that ever happened, whether a mood swing or a bodily
 collision, within the city limits of Vancouver, British Columbia.
 Extra points for specific details, addresses, and time-frames.
 
-Submit your stories here: http://reassemble.ca/vancouver-vancouver/
+Submit your stories here: [http://reassemble.ca/vancouver-vancouver/](http://reassemble.ca/vancouver-vancouver/)

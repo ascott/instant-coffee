@@ -10,7 +10,7 @@ summary: "221a | Rereading Room: The Vancovuer Women's Bookstore | NOV 10"
 
 Opening Reception: November 10 at 7pm
 Full duration: November 11, 2016 - January 14, 2017
-Public Programming: http://221a.ca/rereading-room
+Public Programming: [http://221a.ca/rereading-room](http://221a.ca/rereading-room)
 
 Rereading Room presents a collection of books, documents, and periodicals 
 selected from the titles offered by the Vancouver Women's Bookstore (1973-1996) 

@@ -24,7 +24,7 @@ This exhibition will present a 21st century account of Thomson, offering a close
 examination of his legacy. Alongside small, luminous en plein air oil on wood panels
 are several large oil on canvases, showcasing his mastery of form, depth, and colour.
 
-https://audainartmuseum.com/exhibitions/tom-thomson-north-star/?
+[https://audainartmuseum.com/exhibitions/tom-thomson-north-star/](https://audainartmuseum.com/exhibitions/tom-thomson-north-star/)?
 utm_source=Master+Mailing+List&utm_campaign=721f9b5659-
 april24_COPY_01&utm_medium=email&utm_term=0_488cf2cedc-721f9b5659-
 447725649&ct=t(april24_COPY_01)&mc_cid=721f9b5659&mc_eid=e779774abc

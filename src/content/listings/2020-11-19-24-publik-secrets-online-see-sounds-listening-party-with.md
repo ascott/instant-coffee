@@ -14,7 +14,7 @@ Publik Secrets
 See Sounds Listening Party with Helena Krobath
 Nov 26
 
-https://www.eventbrite.com/e/127933487505
+[https://www.eventbrite.com/e/127933487505](https://www.eventbrite.com/e/127933487505)
 
 The See Sounds Listening Parties provide a look in to the musical and sonic influences
 and processes of local artists.

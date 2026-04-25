@@ -55,5 +55,5 @@ BC V6A1X6
 
 Link to free tickets:
 
-https://www.eventbrite.ca/e/rafael-zen-khalil-alomar-open-rehearsal-tickets-
+[https://www.eventbrite.ca/e/rafael-zen-khalil-alomar-open-rehearsal-tickets-](https://www.eventbrite.ca/e/rafael-zen-khalil-alomar-open-rehearsal-tickets-)
 1000255580367?aff=oddtdtcreator

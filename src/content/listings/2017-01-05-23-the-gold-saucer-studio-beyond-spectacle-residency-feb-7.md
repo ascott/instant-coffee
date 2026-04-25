@@ -14,7 +14,7 @@ Project proposals will be accepted until February 7th, 2017.
 Residency to take place from March 30th to April 9th, 2017.
 
 The online call for proposal is here:
-http://www.beyondspectacle.org/call-for-proposals
+[http://www.beyondspectacle.org/call-for-proposals](http://www.beyondspectacle.org/call-for-proposals)
 
 Submission should be email to residency@beyondspectacle.org with the subject 
 line: "Beyond Spectacle Residency".

@@ -30,4 +30,4 @@ AHVA Gallery
 Room 1001
 Audain Art Centre
 6398 University Boulevard
-http://gallery.ahva.ubc.ca
+[http://gallery.ahva.ubc.ca](http://gallery.ahva.ubc.ca)

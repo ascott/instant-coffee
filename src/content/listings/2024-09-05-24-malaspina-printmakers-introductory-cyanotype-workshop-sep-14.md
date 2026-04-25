@@ -32,4 +32,4 @@ Instructor: Amanda Wood
 Level: Beginner
 Materials: included
 
-https://www.malaspinaprintmakers.com/introductory-cyanotype-september.html
+[https://www.malaspinaprintmakers.com/introductory-cyanotype-september.html](https://www.malaspinaprintmakers.com/introductory-cyanotype-september.html)

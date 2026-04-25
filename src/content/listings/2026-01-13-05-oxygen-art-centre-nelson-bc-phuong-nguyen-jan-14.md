@@ -22,4 +22,4 @@ Oxygen Art Centre is located at #3-320 Vernon Street along the alleyway behind B
 in Nelson, British Columbia. More information about how to access the facility can be found
 on Oxygens website or by contacting info@oxygenartcentre.org.
 
-https://oxygenartcentre.org/
+[https://oxygenartcentre.org/](https://oxygenartcentre.org/)

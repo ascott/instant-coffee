@@ -13,4 +13,4 @@ The Works Art & Design Festival 2020 Call to Enter
 The Works is now accepting proposals for major projects, group
 exhibitions, and site-specific environmental installations responding to
 the theme, Yield. The deadline to apply is November 1, 2019. For more
-information visit http://www.theworks.ab.ca/calls-to-enter
+information visit [http://www.theworks.ab.ca/calls-to-enter](http://www.theworks.ab.ca/calls-to-enter)

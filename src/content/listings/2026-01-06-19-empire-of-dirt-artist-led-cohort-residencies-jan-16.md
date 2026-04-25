@@ -48,7 +48,7 @@ camera's operability. What do digital images offer toward thinking through the t
 inhabit? How do images contribute to the persistence or erosion of what is deemed
 im/possible or in/evitable in the present?
 
-Learn more online at https://www.empireofdirtresidency.ca/funded-residencies
+Learn more online at [https://www.empireofdirtresidency.ca/funded-residencies](https://www.empireofdirtresidency.ca/funded-residencies)
 
 To apply:
 To apply, please send the following to eodresidency@gmail.com by 11:59 PM on January

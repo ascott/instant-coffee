@@ -13,7 +13,7 @@ Sunday, March 3rd, 7:00pm
 
 VIFF Centres Vancity Theatre (1181 Seymour Street, Vancouver BC)
 
-Tickets: https://viff.org/whats-on/xinema-blue/
+Tickets: [https://viff.org/whats-on/xinema-blue/](https://viff.org/whats-on/xinema-blue/)
 
 XINEMA is proud to present notes on the colour blue, a series of international and local
 experimental films that recount experiences of grief, love, distance, and interiority
@@ -98,8 +98,8 @@ within and beyond "Vancouver", BC to strengthen and preserve the experimental fi
 scene.
 
 Website: www.xinema.ca
-Instagram: https://www.instagram.com/xin3ma/
-Open for ongoing submissions: https://forms.gle/cLCC7EiH1Ahmghir8
+Instagram: [https://www.instagram.com/xin3ma/](https://www.instagram.com/xin3ma/)
+Open for ongoing submissions: [https://forms.gle/cLCC7EiH1Ahmghir8](https://forms.gle/cLCC7EiH1Ahmghir8)
 
 
 
@@ -107,14 +107,14 @@ Open for ongoing submissions: https://forms.gle/cLCC7EiH1Ahmghir8
 Shooting Gallery Performance Series #12 | MAR 4
 Shooting Gallery Performance Series #12
 
-FB event: https://www.facebook.com/events/1489995438214459/
+FB event: [https://www.facebook.com/events/1489995438214459/](https://www.facebook.com/events/1489995438214459/)
 
 March 4th - 9th, join us for a series of live digital presentations, followed by an in-person
 wrap up event!
 Featuring brand new screen-based works by adventurous performance artists.
 Head to our online store to purchase your by-donation series pass. Each morning of the
 series, you will receive an email in your inbox with links to the day's artistic offerings!
-https://shooting-gallery-performance.square.site
+[https://shooting-gallery-performance.square.site](https://shooting-gallery-performance.square.site)
 Featuring new performance by:
 Larkin Schering
 Juliana Loh

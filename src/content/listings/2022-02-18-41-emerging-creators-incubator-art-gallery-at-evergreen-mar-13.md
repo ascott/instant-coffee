@@ -55,7 +55,7 @@ is March 10, 2022 at 6:00 p.m.
 All applicants will be notified about the success of their applications before April 29,
 2022.
 
-APPLY NOW: https://evergreenculturalcentre.ca/exhibit/revisions-emerging-creators-
+APPLY NOW: [https://evergreenculturalcentre.ca/exhibit/revisions-emerging-creators-](https://evergreenculturalcentre.ca/exhibit/revisions-emerging-creators-)
 incubator/
 
 42.

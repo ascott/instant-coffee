@@ -17,12 +17,12 @@ give a presentation on synesthesia, discussing how she uses it in her work
 as well as screening a selection of short videos and animations of
 synesthetic imagery. For those wanting more information there will also be
 an info-kiosk of her synesthesia dvd publication.
-<http://www.kunstdk.dk/kunstner/ditte_lyngkaer_pedersen>
-<http://www.kunstdk.dk/kunstner/ditte_lyngkaer_pedersen>, 8pm. House djs:
+<[http://www.kunstdk.dk/kunstner/ditte_lyngkaer_pedersen](http://www.kunstdk.dk/kunstner/ditte_lyngkaer_pedersen)>
+<[http://www.kunstdk.dk/kunstner/ditte_lyngkaer_pedersen](http://www.kunstdk.dk/kunstner/ditte_lyngkaer_pedersen)>, 8pm. House djs:
 PETER GAZENDAM and LEE HENDERSON
 Â 
 Friday, March 19: CAM DALES of the ice cream social playing 50's and 60's
-hits, www.myspace.com/camdales <http://www.myspace.com/camdales>
+hits, www.myspace.com/camdales <[http://www.myspace.com/camdales](http://www.myspace.com/camdales)>
 
 Saturday, March 20: CLOSING NIGHT: good-bye for now dance. Djs Jen Weih and
 Wade Thomas; Natalie Purschwitz and Jenifer Papararo; Steven Murray.
@@ -54,5 +54,5 @@ Eastside. Bright
 Light is commissioned by the City of Vancouver through its Olympic and
 Paralympic Public Art Program, www.bright-light.ca
 
-See www.instantcoffee.org <http://www.instantcoffee.org> for a growing list
+See www.instantcoffee.org <[http://www.instantcoffee.org](http://www.instantcoffee.org)> for a growing list
 of events, and for other information contact us@instantcoffee.org

@@ -47,5 +47,5 @@ Submissions can be emailed to: artscouncilsubmissions@gmail.com
 
 DEADLINE for 2026 Applications: Dec 1, 2025
 
-https://www.kentharrisonartscouncil.com/call-for-submissions-monthly-
+[https://www.kentharrisonartscouncil.com/call-for-submissions-monthly-](https://www.kentharrisonartscouncil.com/call-for-submissions-monthly-)
 exhibitions.html

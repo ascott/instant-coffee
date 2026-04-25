@@ -55,6 +55,6 @@ within a store where nothing is for sale, Elsewhere offers an unparalleled
 framework for art practices, processes, and productions outside the
 traditional gallery, museum, and residency systems. The complete call for
 artists, residency brochure (PDF), and application deadlines are available
-at http://www.elsewhereelsewhere.org/residencies.html. Email George
+at [http://www.elsewhereelsewhere.org/residencies.html](http://www.elsewhereelsewhere.org/residencies.html). Email George
 Scheer, Collaborative Director, at residencies@elsewhereelsewhere.org for
 an application.

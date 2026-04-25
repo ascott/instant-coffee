@@ -39,15 +39,15 @@ photographic materials from scientific documents. The exhibition includes a disp
 artefacts and visual documents that depict temporality and the weather that relates to 
 the artists interest in the earth sciences.
 
-https://thepolygon.ca/event/fall-exhibitions-public-opening/
+[https://thepolygon.ca/event/fall-exhibitions-public-opening/](https://thepolygon.ca/event/fall-exhibitions-public-opening/)
 
 EVENT: A conversation with Batia Suter and Helga Pakasaar | 7:30pm | November 2
 
-https://thepolygon.ca/event/a-conversation-with-batia-suter-and-helga-pakasaar/
+[https://thepolygon.ca/event/a-conversation-with-batia-suter-and-helga-pakasaar/](https://thepolygon.ca/event/a-conversation-with-batia-suter-and-helga-pakasaar/)
 
 EVENT: Tour of Looking at Persepolis followed by a conversation with the collector 
 Elmar Seibel and curator Pantea Haghighi | 1pm | November 3
 
-https://thepolygon.ca/event/tour-of-looking-at-persepolis/
+[https://thepolygon.ca/event/tour-of-looking-at-persepolis/](https://thepolygon.ca/event/tour-of-looking-at-persepolis/)
 
 EVENT: Hannah Rickards: Artist Talk | 7:30pm | November 21

@@ -16,7 +16,7 @@ August 31 - September 1, 2018
 
 Richmond Cultural Centre & Minoru Plaza
 
-http://cinevolutionmedia.com/portfolio-item/dc2018-air/
+[http://cinevolutionmedia.com/portfolio-item/dc2018-air/](http://cinevolutionmedia.com/portfolio-item/dc2018-air/)
 
 Join us for Digital Carnival 2018! Prepare to discover new worlds and
 encounter the unexpected through more than a dozen avant-garde

@@ -20,7 +20,7 @@ the opportunity to read their stories to a receptive crowd of sci-fi enthusiasts
 
 Submission deadline extended to MARCH 3, 2014
 Details on how to apply: 
-http://www.richmondartgallery.org/pdfs/RAG_Fanfiction_film_screening_call
+[http://www.richmondartgallery.org/pdfs/RAG_Fanfiction_film_screening_call](http://www.richmondartgallery.org/pdfs/RAG_Fanfiction_film_screening_call)
 _and_regulations.pdf
 
 Thursday, February 27 - 6:30 to 9:30pm

@@ -43,7 +43,7 @@ Les Nyulak, ARGH!!, Asa Cederholm, Karin Vengshoel, Sheri
 Alexander, Kathryn Mussallem, Amanda McCuaig and Jay 
 Senetchko
 
-http://hotartwetcity.com/teenage_wasteland/
+[http://hotartwetcity.com/teenage_wasteland/](http://hotartwetcity.com/teenage_wasteland/)
 
 About Sara Bynoe
 
@@ -55,7 +55,7 @@ Party Party. In 2000 Sara created TeenAngstPoetry.com and Teen
 Angst Night. In 2005 St Martin’s Press Published an anthology called 
 Teen Angst: A Celebration of Really Bad Poetry. She’s always 
 wanted to do a show about terrible teenage art. Two of her paintings 
-will be in the show. http://www.SaraBynoe.com
+will be in the show. [http://www.SaraBynoe.com](http://www.SaraBynoe.com)
 
 History of Teen Angst:
 

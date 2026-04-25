@@ -12,7 +12,7 @@ As part of the Unit 17's current exhibition "Crocodile Tears" the
 gallery will present select
 film & video artworks on its website for the foreseeable future.
 
-https://www.unit17.org/crocodile-tears
+[https://www.unit17.org/crocodile-tears](https://www.unit17.org/crocodile-tears)
 
 CURRENT:
 

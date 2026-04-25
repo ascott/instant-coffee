@@ -51,7 +51,7 @@ SUBMISSIONS
 Submit your film or film-based installation documentation via, Vimeo or
 Youtube link, or Dropbox download along with the completed
 submission form
-(http://www.100dollarfilmfestival.org/assets/PDF/2016100CallTrilingual.
+([http://www.100dollarfilmfestival.org/assets/PDF/2016100CallTrilingual](http://www.100dollarfilmfestival.org/assets/PDF/2016100CallTrilingual).
 pdf) before the deadline of December 1, 2015 to festival@csif.org
 
 FOR MORE INFORMATION
@@ -145,5 +145,5 @@ Amenities include:
 - 24 hour access
 - $200 per 100 square feet
 
-Visit us at http://thephoenixgallery.ca/
+Visit us at [http://thephoenixgallery.ca/](http://thephoenixgallery.ca/)
 email us at vancouverphoenix@gmail.com

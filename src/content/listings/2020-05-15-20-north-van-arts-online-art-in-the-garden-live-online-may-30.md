@@ -36,4 +36,4 @@ Friday, May 8 - video from visual artist Tiffany Blaise
 Monday, May 11 - music video with Chris Dietrich
 Tuesday, May 12 - artist talk/interview with Pierre Leichner
 
-https://northvanarts.ca/events-exhibitions/art-in-the-garden-online/
+[https://northvanarts.ca/events-exhibitions/art-in-the-garden-online/](https://northvanarts.ca/events-exhibitions/art-in-the-garden-online/)

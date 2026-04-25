@@ -84,13 +84,13 @@ Session sponsored by Public Art Richmond.
 The Artist Salon is an opportunity for emerging and established artists to
 meet other artists, share or present current work with peers and discuss
 upcoming opportunity in the arts community. Join our Richmond Art Salon
-Facebook Group: https://www.facebook.com/groups/RichmondArtistsSalon/ for
+Facebook Group: [https://www.facebook.com/groups/RichmondArtistsSalon/](https://www.facebook.com/groups/RichmondArtistsSalon/) for
 updates on arts events, open calls, residencies, courses and more.
 
 Free admission, all levels of visual artists welcome to attend.
 
 Registration required via Eventbrite:
-https://www.eventbrite.ca/e/artist-salon-with-art-columns-artists-part-ii-tickets-46829514338
+[https://www.eventbrite.ca/e/artist-salon-with-art-columns-artists-part-ii-tickets-46829514338](https://www.eventbrite.ca/e/artist-salon-with-art-columns-artists-part-ii-tickets-46829514338)
 
 For more information, please visit our website:
-http://www.richmondartgallery.org/upcoming/artist-salon-with-art-columns-artists-part-ii/
+[http://www.richmondartgallery.org/upcoming/artist-salon-with-art-columns-artists-part-ii/](http://www.richmondartgallery.org/upcoming/artist-salon-with-art-columns-artists-part-ii/)

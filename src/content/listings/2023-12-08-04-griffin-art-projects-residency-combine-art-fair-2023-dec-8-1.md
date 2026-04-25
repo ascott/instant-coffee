@@ -16,7 +16,7 @@ At Griffin Art Projects Residency,
 
 1180 Welch St, North Vancouver, BC V7P 1B2
 
-https://www.griffinartprojects.ca/combine
+[https://www.griffinartprojects.ca/combine](https://www.griffinartprojects.ca/combine)
 
 Public Opening Friday, Dec 8, 7 - 10 PM
 

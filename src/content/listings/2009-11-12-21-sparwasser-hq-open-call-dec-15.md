@@ -30,9 +30,9 @@ For this reason you are invited to send in applications, for us to see, for
 'the blog', for 'text writing', for 'the conference'.We need to launch two
 calls in one: One for texts only, which might suggest future collaboration,
 and one for traveling. Only Nordic applicants can be invited to Berlin
-within the residency program of netres.see http://www.sparwasserhq.de
+within the residency program of netres.see [http://www.sparwasserhq.de](http://www.sparwasserhq.de)
 
 Deadline is the 15. December 2009.
 netres is a residency programme shared by Sparwasser HQ, Signal, UKS and
 rum46, supported by Nordic Culture Point.www.netres.org
-<http://www.netres.org/>
+<[http://www.netres.org/](http://www.netres.org/)>

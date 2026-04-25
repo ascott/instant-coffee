@@ -31,4 +31,4 @@ ages of 16-25 who currently reside in Canada.
 Deadline for applications is June 8th.
 
 For more details and application form please visit:
-https://workmanarts.com/opportunities/iyam-open-call/
+[https://workmanarts.com/opportunities/iyam-open-call/](https://workmanarts.com/opportunities/iyam-open-call/)

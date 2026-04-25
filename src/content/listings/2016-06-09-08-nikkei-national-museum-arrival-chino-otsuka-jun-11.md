@@ -27,4 +27,4 @@ Admission free
 Nikkei National Museum & Cultural Centre
 6688 Southoaks Crescent
 Burnaby BC V5E 4M7
-http://centre.nikkeiplace.org/chino-otsuka-arrival/
+[http://centre.nikkeiplace.org/chino-otsuka-arrival/](http://centre.nikkeiplace.org/chino-otsuka-arrival/)

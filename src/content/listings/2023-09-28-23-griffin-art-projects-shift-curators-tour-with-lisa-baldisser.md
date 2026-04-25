@@ -18,7 +18,7 @@ Griffin Art Projects
 
 1174 Welch St, North Vancouver, V7P 1B2
 
-http://griffinartprojects.ca/
+[http://griffinartprojects.ca/](http://griffinartprojects.ca/)
 
 Join Lisa Baldissera, Griffin Art Projects director and curator of SHIFT: Ecologies of
 Fashion, Form + Textile, for a hybrid (in-person and online) curators tour followed by
@@ -37,12 +37,12 @@ expressed within fashion and proposes forms for an emancipating futurity.
 To attend in person, registration via Eventbrite is encouraged but drop-ins are
 welcome!
 
-https://www.eventbrite.ca/e/curators-tour-with-lisa-baldissera-in-person-tickets-
+[https://www.eventbrite.ca/e/curators-tour-with-lisa-baldissera-in-person-tickets-](https://www.eventbrite.ca/e/curators-tour-with-lisa-baldissera-in-person-tickets-)
 689002624397?aff=oddtdtcreator
 
 To attend online, you must register for the live stream here:
 
-https://us06web.zoom.us/webinar/register/WN_f6LSpHR_RiSENhlyvd3_hw
+[https://us06web.zoom.us/webinar/register/WN_f6LSpHR_RiSENhlyvd3_hw](https://us06web.zoom.us/webinar/register/WN_f6LSpHR_RiSENhlyvd3_hw)
 
 SHIFT: Ecologies of Fashion, Form and Textile is curated by Lisa Baldissera and
 made possible by the generous support of the Canada Council for the Arts and the

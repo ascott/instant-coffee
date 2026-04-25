@@ -15,4 +15,4 @@ National Historic Site, located in idyllic Steveston Village, will come alive in
 celebration of Indigenous music, storytelling, shops, and more! Supported by the
 Province of British of Columbia, Parks Canada, and Port of Vancouver.
 
-For more information: https://gulfofgeorgiacannery.org/events/welcoming-the-sun-2/
+For more information: [https://gulfofgeorgiacannery.org/events/welcoming-the-sun-2/](https://gulfofgeorgiacannery.org/events/welcoming-the-sun-2/)

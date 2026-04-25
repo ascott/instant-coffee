@@ -30,9 +30,9 @@ Artists include;
 #JesSachse
 #SyrusMarcusWare
 
-http://7a-11d.ca/
+[http://7a-11d.ca/](http://7a-11d.ca/)
 
-https://www.instagram.com/7a11d/
+[https://www.instagram.com/7a11d/](https://www.instagram.com/7a11d/)
 
 --
 Toronto Performance Art Collective (7a*11d): Golboo Amani, Shannon Cochrane, Paul 

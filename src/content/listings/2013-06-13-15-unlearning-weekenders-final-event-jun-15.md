@@ -46,4 +46,4 @@ zoe
 .........................
 unlearningweekenders@gmail.com
 jenny@publicdreams.org
-http://unlearning-weekenders.tumblr.com/
+[http://unlearning-weekenders.tumblr.com/](http://unlearning-weekenders.tumblr.com/)

@@ -38,9 +38,9 @@ wilderness to the big city to boy friends with the names Buck and Kelly.
 
 www.peggyanneberton.com
 
-http://www.filmfestblog.de/2008/09/30/dont-fool-the-small-town-girl/
+[http://www.filmfestblog.de/2008/09/30/dont-fool-the-small-town-girl/](http://www.filmfestblog.de/2008/09/30/dont-fool-the-small-town-girl/)
 
-http://www.filmfest-hamburg.de/en/programm/film/Scarecity/523
+[http://www.filmfest-hamburg.de/en/programm/film/Scarecity/523](http://www.filmfest-hamburg.de/en/programm/film/Scarecity/523)
 DIM is a monthly evening of contemporary short form moving images and
 cinematic collaborations. DIM is focused on expanding the visibility of
 Canadian and International experimental artists and their practices in the

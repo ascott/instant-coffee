@@ -34,5 +34,5 @@ Date: Saturday, May 29, 2010
 Time: 1:00pm - 3:30pm
 Price: $30 (includes a one-year subÂ­scripÂ­tion to Geist for yourÂ­self
 or a friend.)
-Register now online (http://www.geist.com/workshops/creative-blender)
+Register now online ([http://www.geist.com/workshops/creative-blender](http://www.geist.com/workshops/creative-blender))
 or by phone 604-681-9161

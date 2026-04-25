@@ -52,4 +52,4 @@ spare room questions the "white cube" notion of traditional gallery
 space by way of bridging the site/off-site binary represented in
 public and private spaces.
 
-http://spare-room.ca/environment-sampling/
+[http://spare-room.ca/environment-sampling/](http://spare-room.ca/environment-sampling/)

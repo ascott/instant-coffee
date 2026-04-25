@@ -48,4 +48,4 @@ Canada
 Emma LaMorte and Adam Shiu-Yang Shaw graduated from Emily Carr University
 in 2013. They currently attend the Royal Institute of Art in Stockholm.
 
-http://sunset-terrace.com
+[http://sunset-terrace.com](http://sunset-terrace.com)

@@ -29,7 +29,7 @@ Festival acts as a platform to expand visual literacy through lens-based art; st
 give voice to traditionally underrepresented communities and to present compelling,
 urgent lens-based art.
 
-Submit your proposal at https://app.picter.com/contests/835648cd-d37c-4687-ab4c-
+Submit your proposal at [https://app.picter.com/contests/835648cd-d37c-4687-ab4c-](https://app.picter.com/contests/835648cd-d37c-4687-ab4c-)
 7bc665ffb8de/start?utm_source=app-contests
 
 All proposals will be processed through our submission platform Picter beginning

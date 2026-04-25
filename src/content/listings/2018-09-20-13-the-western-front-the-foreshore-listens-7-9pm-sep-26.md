@@ -58,7 +58,7 @@ promoting individual perspectives about shared social spaces. Other Sights seeks
 a presence for art in spaces and sites that are accessible to a broad public, such as the built 
 environment, communications technologies, the media, and the street. Other Sights projects 
 consider the aesthetic, economic and regulatory conditions of public places and public life. 
-http://othersights.ca/
+[http://othersights.ca/](http://othersights.ca/)
 
 The WESTERN FRONT is one of Canadas leading artist-run centres for contemporary art 
 and new music. We produce and present visual art, exhibitions, new music concerts and 
@@ -66,4 +66,4 @@ workshops, media-art residencies, performance art, and other artist-driven initi
 Western Front currently maintains programs in Exhibitions, Media Art and New Music, as 
 well as an extensive archive of audio-visual materials. Through this diverse programming, 
 we continue to be a crucial platform for interdisciplinary, experimental art practices in 
-Canada and internationally. https://front.bc.ca/
+Canada and internationally. [https://front.bc.ca/](https://front.bc.ca/)

@@ -19,7 +19,7 @@ Winter Thaw Special Rates!
 One session, 3 hours total | $25, or $20 with VIVO Extended Producer 
 Membership
 
-Buy tickets online @ Eventbrite: https://adobe-premiere-with-flick-
+Buy tickets online @ Eventbrite: [https://adobe-premiere-with-flick-](https://adobe-premiere-with-flick-)
 harrison.eventbrite.ca
 
 Adobe Premiere is a powerful and flexible video editing system that integrates 
@@ -31,4 +31,4 @@ VIVO's Apple systems or bring your own laptop, plus bring footage and a device
 to capture it if you'd like to work with your own footage.
 
 Visit VIVO Education for many more details: 
-http://www.vivomediaarts.com/education/upcoming-workshops
+[http://www.vivomediaarts.com/education/upcoming-workshops](http://www.vivomediaarts.com/education/upcoming-workshops)

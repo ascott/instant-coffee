@@ -31,7 +31,7 @@ Centre
 reserves the right to refuse any work that doesnt meet these qualifications.
 -PoMoArts retains 30% of the selling price of artwork offered for sale.
 
-Link to Winter Treasures Artist Call Application: https://pomoarts.ca/exhibitions/call-
+Link to Winter Treasures Artist Call Application: [https://pomoarts.ca/exhibitions/call-](https://pomoarts.ca/exhibitions/call-)
 for-submissions-winter-treasures-artisan-market
 
 
@@ -52,5 +52,5 @@ Belzile (elle/she)
 artiste en arts visuels . visual artist
 
 www.laurencebelzile.com
-https://www.instagram.com/laurencebelzile/
-https://www.facebook.com/laurence.belzile.art
+[https://www.instagram.com/laurencebelzile/](https://www.instagram.com/laurencebelzile/)
+[https://www.facebook.com/laurence.belzile.art](https://www.facebook.com/laurence.belzile.art)

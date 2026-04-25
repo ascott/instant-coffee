@@ -25,7 +25,7 @@ Everything included.
 Only 5 spots left!
 
 Register here:
-https://sonya-iwasiuk-art-studio.square.site/product/weekend-art-workshop-learn-
+[https://sonya-iwasiuk-art-studio.square.site/product/weekend-art-workshop-learn-](https://sonya-iwasiuk-art-studio.square.site/product/weekend-art-workshop-learn-)
 how-to-draw-in-the-garden-june-14th-15th/40?cs=true&cst=custom
 
 www.sonyaiwasiuk.com

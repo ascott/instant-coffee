@@ -30,4 +30,4 @@ take approximately one hour with multiple stops around West Point Grey.
 There are no RSVPs required; please meet at the Belkin at 2 pm to join. If you miss
 the walk, the map is available at the front desk or as a PDF on our website for self-
 guided walks.
-https://belkin.ubc.ca/events/edge-conditions/
+[https://belkin.ubc.ca/events/edge-conditions/](https://belkin.ubc.ca/events/edge-conditions/)

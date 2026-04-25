@@ -42,4 +42,4 @@ events you would like to apply for and we will try to find a way for
 you to be included.
 
 Presented by Vancouver Art and Leisure Society - 
-http://www.vanartleisure.com/
+[http://www.vanartleisure.com/](http://www.vanartleisure.com/)

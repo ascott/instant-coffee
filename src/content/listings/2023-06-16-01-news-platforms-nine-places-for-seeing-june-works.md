@@ -14,4 +14,4 @@ is exclusively commissioning 21 local Indigenous artists to create temporary art
 installations throughout Vancouver. Artworks will be installed on a rolling basis between
 2023 and 2025. June artworks for 'Platforms: Nine Places For Seeing" include pieces by
 Aaron Nelson-Moody, Atheana Picha, Olivia George, and Lauren Crazybull. You can learn
-more on our website: https://vancouver.ca/platforms
+more on our website: [https://vancouver.ca/platforms](https://vancouver.ca/platforms)

@@ -85,7 +85,7 @@ a community based patronage through private invitation and word of
 mouth, rather than commercial advertising. Our mission is to continue
 to provide exhibition opportunities for emerging artists, while
 fostering a meeting place for the local and artistic community.
-http://www.vivariumgallery.com
+[http://www.vivariumgallery.com](http://www.vivariumgallery.com)
 
 VIVARIUM GALLERY
 2130 Yew Street

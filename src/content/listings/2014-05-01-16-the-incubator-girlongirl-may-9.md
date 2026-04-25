@@ -18,8 +18,8 @@ Celebratory Party - Friday, May 9th, 7-11pm
 8:30pm performance by Luciana D’Anunciacao and prOphecy sun
 The Incubator
 585 E Broadway
-http://incubatevancouver.com/exhibition/
-https://www.facebook.com/events/1417137738556075/?source=1
+[http://incubatevancouver.com/exhibition/](http://incubatevancouver.com/exhibition/)
+[https://www.facebook.com/events/1417137738556075/?source=1](https://www.facebook.com/events/1417137738556075/?source=1)
 
 The Incubator is a pop-up gallery, library and event series running from May 
 5-11, dedicated to fostering community and creating mentorship opportunities 

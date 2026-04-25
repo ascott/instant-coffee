@@ -19,7 +19,7 @@ Curator Monika Szewczyk
 
 RSVPs are helpful
 
-RSVP here: https://thepolygon.ca/event/phase-shifting-index-closing-celebration/
+RSVP here: [https://thepolygon.ca/event/phase-shifting-index-closing-celebration/](https://thepolygon.ca/event/phase-shifting-index-closing-celebration/)
 
 About
 Quickeners

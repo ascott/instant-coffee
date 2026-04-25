@@ -10,14 +10,14 @@ summary: "Curiosity Collider @ Space Centre | Neural Constellations... | AUG 18"
 
 Event name: Neural Constellations: Exploring Connectivity - An Evening of
 Art, Science and Performance under the Dome
-Facebook page: https://www.facebook.com/events/1564051523898757/
-Eventbrite page: https://neuralconstellations.eventbrite.ca/
+Facebook page: [https://www.facebook.com/events/1564051523898757/](https://www.facebook.com/events/1564051523898757/)
+Eventbrite page: [https://neuralconstellations.eventbrite.ca/](https://neuralconstellations.eventbrite.ca/)
 
 When: 7:30pm on Thursday, August 18th, 2016. Doors open at 6:30pm.
 Where: H. R. MacMillan Space Centre - 1100 Chestnut Street, Vancouver, BC
 V6J 3J9
 Ticket: $20 sliding scale; purchase at
-https://neuralconstellations.eventbrite.ca/
+[https://neuralconstellations.eventbrite.ca/](https://neuralconstellations.eventbrite.ca/)
 
 "We are all made of star stuff," Carl Sagan once said. From constellations
 to our nervous system, from stars to our neurons. We're colliding

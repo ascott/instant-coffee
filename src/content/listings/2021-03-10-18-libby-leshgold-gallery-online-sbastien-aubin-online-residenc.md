@@ -23,23 +23,23 @@ Online residency, March 1 - May 30 2021
 Artist talk, Tuesday, March 16, 4pm PT via
 Zoom
 
-Free, registration required https://www.eventbrite.ca/e/sebastien-aubin-something-not-
+Free, registration required [https://www.eventbrite.ca/e/sebastien-aubin-something-not-](https://www.eventbrite.ca/e/sebastien-aubin-something-not-)
 cared-for-tickets-143396471707
 
-Project website: http://libby.ecuad.ca/somethingnotcaredfor
+Project website: [http://libby.ecuad.ca/somethingnotcaredfor](http://libby.ecuad.ca/somethingnotcaredfor)
 
 The Libby Leshgold Gallery is happy to announce Sbastien Aubin as our second online
 artist residency. Our program of online residencies was created to continue artistic and
 curatorial dialogue during an era of social distancing and travel restrictions. His residency
 will begin with an online talk on Tuesday, March 16, at 4pm Vancouver time. Free
-registration is required for the talk, at https://www.eventbrite.ca/e/sebastien-aubin-
+registration is required for the talk, at [https://www.eventbrite.ca/e/sebastien-aubin-](https://www.eventbrite.ca/e/sebastien-aubin-)
 something-not-cared-for-tickets-143396471707.
 
 The residency project, something not cared for, will consist of a series of site-specific
 installations observed at a distance, works which draw on knowledge of the people, things,
 land, and world around them, obtained and assembled with care. Progress of this work will
 be shown on a project website,
-http://libby.ecuad.ca/somethingnotcaredfor.
+[http://libby.ecuad.ca/somethingnotcaredfor](http://libby.ecuad.ca/somethingnotcaredfor).
 
 -
 

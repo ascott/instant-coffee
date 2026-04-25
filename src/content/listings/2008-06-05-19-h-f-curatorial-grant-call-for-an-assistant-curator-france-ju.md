@@ -36,7 +36,7 @@ national and international exhibition-projects. The grantee selected for the per
 be specifically responsible for the ArtAids project which brings together contemporary artists from 
 all over the world –Part of the project will be presented in France in 2009 and will focus on 
 creating awareness about HIV/Aids and tackling the stigma connected with it. See 
-http://www.artaids.com
+[http://www.artaids.com](http://www.artaids.com)
 
 She / he will receive in exchange a grant for 18 months that will help finance her/his living and
 travel expenses.
@@ -58,7 +58,7 @@ FRAC Nord-Pas de Calais
 930 avenue de Rosendaël
 59240 Dunkerque (France)
 Tel. 03 28 65 84 20
-http://www.fracnpdc.fr
+[http://www.fracnpdc.fr](http://www.fracnpdc.fr)
 
 Annette Schemmel (D), the first curator to be awarded the H+F Curatorial Grant, will present her 
 exhibition-project “decollecting” on 29.05.2008 (part I) and 10.07.2008 (part II) at the FRAC 

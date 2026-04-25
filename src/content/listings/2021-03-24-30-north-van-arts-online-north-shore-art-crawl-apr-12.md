@@ -11,7 +11,7 @@ summary: "North Van Arts [ONLINE] | North Shore Art Crawl | APR 12"
 North Shore Art Crawl
 March 12-April 12
 All Free! All Month!
-https://northvanarts.ca/north-shore-art-crawl/
+[https://northvanarts.ca/north-shore-art-crawl/](https://northvanarts.ca/north-shore-art-crawl/)
 
 Are you ready for an art crawl? With over 60 artists participating in this year's North Shore
 Art Crawl, everyone can discover some amazing art. Visitors can scroll and swipe their way

@@ -15,8 +15,8 @@ Unu is an international, not-for-profit, non-advertising magazine that provides 
 respectful publication and promotion to one artist per month online and in print.
 
 Deadline for submissions: 5:00 PM US Eastern, January 20, 2024
-Current edition: https://www.dekunumag.com
-Complete submission guidelines: https://www.dekunumag.com/submit
+Current edition: [https://www.dekunumag.com](https://www.dekunumag.com)
+Complete submission guidelines: [https://www.dekunumag.com/submit](https://www.dekunumag.com/submit)
 
 Always solo-format, always open theme, and Dek Unu never charges a fee to artists to
 submit.

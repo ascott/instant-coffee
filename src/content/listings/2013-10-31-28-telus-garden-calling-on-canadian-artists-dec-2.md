@@ -17,7 +17,7 @@ two distinct art pieces within the new TELUS Garden building in downtown
 Vancouver, British Columbia. See website link for downloadable PDF of the 
 full RFP requirements. Proposals are due December 2, 2013 1pm PST.
 
-http://blog.telus.com/community/calling-on-canadian-artists-to-help-bring-
+[http://blog.telus.com/community/calling-on-canadian-artists-to-help-bring-](http://blog.telus.com/community/calling-on-canadian-artists-to-help-bring-)
 telus-garden-to-life/
 
 Please let us know if you require further information.

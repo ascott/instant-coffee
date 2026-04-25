@@ -14,7 +14,7 @@ Papirmasse is looking for artists and writers to include in its 2013 print run.
 If you are an artist or a writer, now is your chance to have your work sent around 
 the world!
 Selected contributors are paid a stipend and receive 3 free copies of their issue.
-Full details at: http://papirmasse.com/art/submissions
+Full details at: [http://papirmasse.com/art/submissions](http://papirmasse.com/art/submissions)
 
 
 16. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing

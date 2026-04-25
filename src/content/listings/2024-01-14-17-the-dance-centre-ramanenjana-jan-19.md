@@ -18,7 +18,7 @@ Sunday January 21, 2024 | 2pm
 Scotiabank Dance Centre, 677 Davie St, Vancouver
 Presented with PuSh International Performing Arts Festival
 
-Info and tickets: https://thedancecentre.ca/event/tangaj-collective/2024-01-21/
+Info and tickets: [https://thedancecentre.ca/event/tangaj-collective/2024-01-21/](https://thedancecentre.ca/event/tangaj-collective/2024-01-21/)
 
 Ramanenjana is a docufiction performance about a mysterious 'dance epidemic' which
 swept Madagascar for four months in 1863, bringing thousands of people to the streets

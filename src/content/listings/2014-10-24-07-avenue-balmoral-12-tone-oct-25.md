@@ -96,4 +96,4 @@ from the previous exhibition [♫♫♫] have been cast as musicians. An
 artwork from The Hatchery sets the stage. The pictures from TOO TRUE 
 act as the frame for a sound system. And so on, and so...
 
-http://k007.kiwi6.com/hotlink/y8nkkzq03x/Balmoral_tone.mp3
+[http://k007.kiwi6.com/hotlink/y8nkkzq03x/Balmoral_tone.mp3](http://k007.kiwi6.com/hotlink/y8nkkzq03x/Balmoral_tone.mp3)

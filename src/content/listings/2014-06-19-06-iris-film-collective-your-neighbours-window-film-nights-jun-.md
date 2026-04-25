@@ -27,5 +27,5 @@ twitter @IrisCollective
 
 ::::::::::::::::::::::::::::::::::::::::::::
 irisfilmcollective.tumblr.com
-https://www.facebook.com/iris.filmcollective
+[https://www.facebook.com/iris.filmcollective](https://www.facebook.com/iris.filmcollective)
 alexmackenzie.ca

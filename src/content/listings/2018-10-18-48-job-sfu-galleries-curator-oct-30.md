@@ -56,5 +56,5 @@ Excellent interpersonal skills.
 
 Excellent supervisory skills.
 
-Apply here: https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition?
+Apply here: [https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition](https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition)?
 org=SIMOFRAS&cws=37&rid=559

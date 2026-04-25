@@ -26,7 +26,7 @@ Established Indigenous Studio Art Award, visual artist Rolande Souliere. For thi
 opportunity, an emerging Indigenous artist is defined as an Indigenous artist who has not
 yet exhibited in institutionally recognised art spaces.
 
-More Info: https://www.griffinartprojects.ca/residency-opportunities
+More Info: [https://www.griffinartprojects.ca/residency-opportunities](https://www.griffinartprojects.ca/residency-opportunities)
 
 22. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.

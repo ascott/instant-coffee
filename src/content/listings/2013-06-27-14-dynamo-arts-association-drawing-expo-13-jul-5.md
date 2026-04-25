@@ -40,4 +40,4 @@ Doha, Qatar. Deerman will have work on display, in addition to taking the roll
 of satellite curatorial adviser. This year's Drawing Expo will be coordinated and 
 curated by Ehren Salazar and Nathan Jones. 
 
-http://drawingexpo13.blogspot.ca
+[http://drawingexpo13.blogspot.ca](http://drawingexpo13.blogspot.ca)

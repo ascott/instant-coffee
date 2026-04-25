@@ -8,11 +8,11 @@ venue: "G++"
 summary: "G++ | CALL FOR MEDIA ARTISTS | AUG 21"
 ---
 
-G++ <http://www.limbicmedia.ca/gplusplus/> is a window-front art
+G++ <[http://www.limbicmedia.ca/gplusplus/](http://www.limbicmedia.ca/gplusplus/)> is a window-front art
 gallery that will open in Victoria, BC in September, 2011. The gallery
 will be the first in Victoria to focus exclusively on interactive
 multimedia. The space has been donated by Limbic Media
-<http://www.limbicmedia.ca/> , a company that specializes in real-
+<[http://www.limbicmedia.ca/](http://www.limbicmedia.ca/)> , a company that specializes in real-
 time
 interactive multimedia control technologies for use in entertainment
 markets, education, research, and the fine arts.
@@ -20,10 +20,10 @@ markets, education, research, and the fine arts.
 CALL FOR MEDIA ARTISTS
 
 The Interactive Film & Video Series at G++
-<http://www.limbicmedia.ca/gplusplus/> will pair five film and video
+<[http://www.limbicmedia.ca/gplusplus/](http://www.limbicmedia.ca/gplusplus/)> will pair five film and video
 artists with the team of interaction designers and engineers at 
 Limbic
-Media <http://www.limbicmedia.ca/> to produce five interactive
+Media <[http://www.limbicmedia.ca/](http://www.limbicmedia.ca/)> to produce five interactive
 window-front multimedia installations. Each installation will have an
 interactive component that will enable the public to directly
 manipulate multimedia content through a variety of interactive
@@ -41,7 +41,7 @@ will
 not be considered.
 
 To apply, fill out our online Application Form
-<http://www.limbicmedia.ca/gplusplus/2011/application-form-for-
+<[http://www.limbicmedia.ca/gplusplus/2011/application-form-for-](http://www.limbicmedia.ca/gplusplus/2011/application-form-for-)
 interactive-film-video-series/>
 .
 
@@ -50,5 +50,5 @@ through the joint BC Film/BC Arts Council “Interactive Fund” .
 
 Link to PDF: Call for Media Artists: Interactive Film & Video Series
 at G++ 
-<http://gplusplus.s3.amazonaws.com/gplusplus/files/Call_for_Media
+<[http://gplusplus.s3.amazonaws.com/gplusplus/files/Call_for_Media](http://gplusplus.s3.amazonaws.com/gplusplus/files/Call_for_Media)
 _Artists.pdf>

@@ -24,7 +24,7 @@ Spare Room
 Chinatown
 Back entrance
 
-More info: http://spare-room.ca/
+More info: [http://spare-room.ca/](http://spare-room.ca/)
 
 A seated figure is in a dilemma. Anxiety perforates as a glowing ball of virtual sphere 
 " it emanates heat, extreme heat. It is not of warmth, but of scorching hotness. 

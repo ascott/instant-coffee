@@ -28,7 +28,7 @@ restaurant landscape in the Lower Mainland. Discussion will be moderated by
 NOURISH Curator, Nan Capogna.
 
 Session will be hosted online via the Zoom webinar platform. Registration is required.
-Register here: https://www.richmondartgallery.org/from-kitchens-to-cities
+Register here: [https://www.richmondartgallery.org/from-kitchens-to-cities](https://www.richmondartgallery.org/from-kitchens-to-cities)
 
 Session Format:
 This event is a free live-streamed webinar on the Zoom platform, and will also be
@@ -74,6 +74,6 @@ recognition of his research and community leadership.
 
 This program is supported by the #RichmondHasHeart program.
 
-Register here: https://www.richmondartgallery.org/from-kitchens-to-cities
+Register here: [https://www.richmondartgallery.org/from-kitchens-to-cities](https://www.richmondartgallery.org/from-kitchens-to-cities)
 
 www.richmondartgallery.org

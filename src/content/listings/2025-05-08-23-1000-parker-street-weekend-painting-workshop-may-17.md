@@ -26,7 +26,7 @@ Saturday May 17th & Sunday May 18th
 
 Reserve here:
 
-https://sonya-iwasiuk-art-studio.square.site/product/weekend-painting-workshop-
+[https://sonya-iwasiuk-art-studio.square.site/product/weekend-painting-workshop-](https://sonya-iwasiuk-art-studio.square.site/product/weekend-painting-workshop-)
 colour-mixing-tints-tones-shades-may-17th-18th/39?cs=true&cst=custom
 
 www.sonyaiwasiuk.com

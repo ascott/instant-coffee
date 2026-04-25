@@ -13,7 +13,7 @@ works, musical performances, dinner by Hawksworth Restaurant and cocktails. Proc
 from the auction support Western Fronts year-round art and music programs.
 
 Tickets available at 
-http://front.bc.ca
+[http://front.bc.ca](http://front.bc.ca)
 
 Featuring:
 Stephanie Aitken, Derya Akay, Big Rock Candy Mountain, Deanna Bowen, Colleen Brown, 
@@ -25,7 +25,7 @@ Terry, Howie Tsui, Michelle Weinstein and Tania Willard.
 
 Preview the works at Western Front on March 1 from 12-6pm. 
 Online catalogue is available at:
-http://westernfrontauction2019.tumblr.com
+[http://westernfrontauction2019.tumblr.com](http://westernfrontauction2019.tumblr.com)
 
 Carie Helm
 Development + Fundraising Manager

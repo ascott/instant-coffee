@@ -81,7 +81,7 @@ Scary (to Jan 3 2016), which features work by Lauren Marsden/Karen
 Lam, J. Tobias Anderson, Martin Arnold, Jennifer and Kevin McCoy,
 and Graham Gussin.
 
-http://newmediagallery.ca/
+[http://newmediagallery.ca/](http://newmediagallery.ca/)
 
 Cineworks Independent Filmmakers Society (est.1980) is an artist-run
 production and exhibition centre that supports independent filmmakers

@@ -55,7 +55,7 @@ If the cost of applying is prohibitive to you, please contact us at
 info(at)seymourartgallery.com
 
 Apply Online:
-https://www.seymourartgallery.com/exhibitions/exhibition-proposals/
+[https://www.seymourartgallery.com/exhibitions/exhibition-proposals/](https://www.seymourartgallery.com/exhibitions/exhibition-proposals/)
 
 info(at)seymourartgallery.com
 

@@ -75,7 +75,7 @@ property has the feeling of a remote cottage getaway but is a short fifteen-minu
 ferry ride from downtown Toronto.
 
 The participating artists should anticipate arriving on June 12th (later in the day) 
-and departing on June 19th 2017. Katie Ward Dance (http://katieward.org/) has 
+and departing on June 19th 2017. Katie Ward Dance ([http://katieward.org/](http://katieward.org/)) has 
 applied for funding to cover travel costs and meals. Funding results should be 
 known by the end of March 2017. Participants are encouraged to seek further 
 funding to support their participation.

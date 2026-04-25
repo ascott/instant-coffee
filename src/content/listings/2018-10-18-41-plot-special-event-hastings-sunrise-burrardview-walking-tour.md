@@ -17,7 +17,7 @@ through Hastings-Sunrise and the Burrardview neighbourhood, looking at existing
 and historical corner store locations.
 
 Space is limited, so please register for the walk through eventbrite 
-https://www.eventbrite.com/e/corner-store-hastings-sunrise-burrardview-walk-
+[https://www.eventbrite.com/e/corner-store-hastings-sunrise-burrardview-walk-](https://www.eventbrite.com/e/corner-store-hastings-sunrise-burrardview-walk-)
 registration-51446618220
 
 WALK DESCRIPTION:

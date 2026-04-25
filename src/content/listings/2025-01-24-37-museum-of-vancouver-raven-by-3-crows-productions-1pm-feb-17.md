@@ -23,4 +23,4 @@ Date: February 17, 2025
 Time: 1:00pm-2:00pm
 Tickets: $10 General Admission (plus fees and taxes)
 
-Link: https://museumofvancouver.ca/raven
+Link: [https://museumofvancouver.ca/raven](https://museumofvancouver.ca/raven)

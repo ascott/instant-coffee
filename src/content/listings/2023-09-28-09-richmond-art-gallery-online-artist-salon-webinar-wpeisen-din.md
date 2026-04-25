@@ -14,7 +14,7 @@ Wednesday, September 27, 2023
 7:00 - 8:00 pm
 
 REGISTER:
-https://us02web.zoom.us/webinar/register/WN_iMqSzOhfSMOca9TdfCCCEA#/regist
+[https://us02web.zoom.us/webinar/register/WN_iMqSzOhfSMOca9TdfCCCEA#/regist](https://us02web.zoom.us/webinar/register/WN_iMqSzOhfSMOca9TdfCCCEA#/regist)
 ra
 tion
 
@@ -56,7 +56,7 @@ from arts professionals and discuss opportunities in the arts community. Each mo
 presents a different guest presenter for inspirational talks and professional
 development advice for visual artists.
 Past live sessions from 2020 onwards are recorded and may be viewed online at the
-https://www.richmondartgallery.org/rag-at-home/ragathomevideo#artistsalon.
+[https://www.richmondartgallery.org/rag-at-home/ragathomevideo#artistsalon](https://www.richmondartgallery.org/rag-at-home/ragathomevideo#artistsalon).
 
 Program is supported by the City of Richmond Arts and Culture grant, and is one of
 the

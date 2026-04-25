@@ -27,5 +27,5 @@ submit before 11:59pm PDT, February 11th.
 Space is limited and only select submissions will be contacted.
 
 To submit, please fill out the Boutique Consignment Submission Form:
-https://docs.google.com/forms/d/e/1FAIpQLSdoBCgXmlWjMFvruDvj5kb3siF7MLM_nLy
+[https://docs.google.com/forms/d/e/1FAIpQLSdoBCgXmlWjMFvruDvj5kb3siF7MLM_nLy](https://docs.google.com/forms/d/e/1FAIpQLSdoBCgXmlWjMFvruDvj5kb3siF7MLM_nLy)
 A8ymzvun4A48r1w/

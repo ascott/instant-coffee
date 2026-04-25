@@ -27,7 +27,7 @@ Lee Ann Brown is the author of five books of poetry and creates multidisciplinar
 projects. She is the editor and publisher of Tender Buttons Press, which began in 1989 
 with the publication of Bernadette Mayer's Sonnets. She is currently at work on her own 
 manuscript, Sonics, which explores sonic and syntactic possibilities of the sonnet form. 
-See https://leeannbrownpoet.com/
+See [https://leeannbrownpoet.com/](https://leeannbrownpoet.com/)
 
 Dr. Sonnet L'Abb is a poet, essayist, and public speaker. The author of two collections 
 of poetry, A Strange Relief and Killarnoe, L'Abb was the editor of Best Canadian Poetry 

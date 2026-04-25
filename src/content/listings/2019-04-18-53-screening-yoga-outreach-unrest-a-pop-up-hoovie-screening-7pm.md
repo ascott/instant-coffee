@@ -25,7 +25,7 @@ people in prisons, domestic violence transition houses, addiction recovery centr
 mental health facilities.
 
 Tickets at 
-https://go.hoovie.movie/screenings/110/unrest--a-popup-screening-with-yoga-outreach
+[https://go.hoovie.movie/screenings/110/unrest--a-popup-screening-with-yoga-outreach](https://go.hoovie.movie/screenings/110/unrest--a-popup-screening-with-yoga-outreach)
 
 A/V Set-up + Venue Details
 Projector and Surround Sound System. Accessible. Option to sit on chairs or yoga mats.

@@ -36,4 +36,4 @@ Thu, Fri, Sat: 12 PM " 6 PM
 Yu Sus office hours at Pollyanna Library:
 Tue, Wed: 6 PM " 8 PM
 
-http://polly-anna.ca/activity/fieldwork_session_2
+[http://polly-anna.ca/activity/fieldwork_session_2](http://polly-anna.ca/activity/fieldwork_session_2)

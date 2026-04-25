@@ -30,4 +30,4 @@ Opening Reception: Saturday, September 28, noon - 4 PM
 
 For more information and to submit your work, please visit our website,
 thisgallery.org.
-https://thisgallery.org/20x10x10-exhibition-submission-form/
+[https://thisgallery.org/20x10x10-exhibition-submission-form/](https://thisgallery.org/20x10x10-exhibition-submission-form/)

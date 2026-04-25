@@ -28,13 +28,13 @@ offered as invitations to the viewer's gaze.
 
 Key Details:
 Screening December 3, 7pm-8:30pm
-Tickets: https://www.eventbrite.ca/e/sacred-sacrilegious-sujit-vaidya-tickets-
+Tickets: [https://www.eventbrite.ca/e/sacred-sacrilegious-sujit-vaidya-tickets-](https://www.eventbrite.ca/e/sacred-sacrilegious-sujit-vaidya-tickets-)
 1082438726369?utm-campaign=social&utm-content=attendeeshare&utm-
 medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl
 Sacred Sacrilegious Exhibition runs at SUM
 gallery Dec. 3 - 13.
-Instagram: https://www.instagram.com/p/DCunN-jSiLg/?img_index=1
+Instagram: [https://www.instagram.com/p/DCunN-jSiLg/?img_index=1](https://www.instagram.com/p/DCunN-jSiLg/?img_index=1)
 SUM gallery hours: Tuesday - Saturday, noon - 6pm.
 SUM gallery address: 268 Keefer St #425, Vancouver, BC V6A 1X6
-how to get to SUM gallery: https://www.instagram.com/reel/CyUVaqKPl4b/?
+how to get to SUM gallery: [https://www.instagram.com/reel/CyUVaqKPl4b/](https://www.instagram.com/reel/CyUVaqKPl4b/)?
 utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==

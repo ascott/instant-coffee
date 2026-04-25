@@ -25,7 +25,7 @@ format of an open conversation.
 Date: March 16, 2024
 Time: 1 - 2:30 pm PT
 Location: Centre A (205-268 Keefer St., Vancouver, BC V6A 1X5)
-Article: https://cmagazine.com/articles/we-should-talk-obvious-truths-about-working-in-
+Article: [https://cmagazine.com/articles/we-should-talk-obvious-truths-about-working-in-](https://cmagazine.com/articles/we-should-talk-obvious-truths-about-working-in-)
 the-arts
 
 No RSVP required.

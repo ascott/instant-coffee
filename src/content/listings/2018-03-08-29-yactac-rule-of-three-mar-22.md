@@ -37,7 +37,7 @@ Curated by Micaela Mae Kwiatkowski
 
 Thank you Red Gate Arts Society for their support.
 
-https://www.facebook.com/events/299885190540369/?
+[https://www.facebook.com/events/299885190540369/](https://www.facebook.com/events/299885190540369/)?
 notif_t=plan_user_associated&notif_id=1520138633411539
 
 yactac.com

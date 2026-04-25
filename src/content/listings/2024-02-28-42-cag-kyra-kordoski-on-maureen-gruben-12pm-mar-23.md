@@ -26,4 +26,4 @@ opinions, C Magazine, Musicworks, White Fungus, Canadian Art, BOMB, Inuit Art
 Quarterly, CBC, and The Globe and Mail. She holds an MA from the University of
 Leeds and an MFA from Goldsmiths, University of London.
 
-https://cagvancouver.org/event/saturday-session-kyra-kordoski
+[https://cagvancouver.org/event/saturday-session-kyra-kordoski](https://cagvancouver.org/event/saturday-session-kyra-kordoski)

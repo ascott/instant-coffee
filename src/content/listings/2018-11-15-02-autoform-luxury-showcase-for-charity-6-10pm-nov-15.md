@@ -8,7 +8,7 @@ venue: "AutoForm"
 summary: "AutoForm | Luxury Showcase for Charity | 6-10PM | NOV 15"
 ---
 
-https://autoformco.ca/luxury-party
+[https://autoformco.ca/luxury-party](https://autoformco.ca/luxury-party)
 
 Proceeds benefiting local charities
 

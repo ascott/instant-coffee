@@ -13,7 +13,7 @@ Sound, Silence, and Process
 With Guillermo Galindo and Raven Chacon
 June 25, 2020, 7pm
 
-Please RSVP here: https://www.eventbrite.com/e/means-of-production-sound-
+Please RSVP here: [https://www.eventbrite.com/e/means-of-production-sound-](https://www.eventbrite.com/e/means-of-production-sound-)
 silence-and-process-tickets-110167152920?aff=ebdssbonlinesearch
 Join Fillip and artists Guillermo Galindo and Raven Chacon on Thursday, June 25, at
 7pm for a free, online Means of Production workshop.

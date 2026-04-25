@@ -11,7 +11,7 @@ summary: "Roundhouse Community Arts | Collage and Multi Media Workshop | APR 11"
 Education: Collage and Multi Media Workshop, April 11 from 10:00 am - Noon at
 Roundhouse Community Arts and Recreation Centre
 ID Code: #561238
-Register: https://www.roundhouse.ca/kgrhp/collage-and-mixed-media/
+Register: [https://www.roundhouse.ca/kgrhp/collage-and-mixed-media/](https://www.roundhouse.ca/kgrhp/collage-and-mixed-media/)
 Call: (604) 713-1800
 Cost: $30
 

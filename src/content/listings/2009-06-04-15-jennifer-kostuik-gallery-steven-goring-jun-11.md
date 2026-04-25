@@ -30,4 +30,4 @@ Canada
 
 Tel. 604.737.3969
 office@kostuikgallery.com
-http://www.kostuikgallery.com
+[http://www.kostuikgallery.com](http://www.kostuikgallery.com)

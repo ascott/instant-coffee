@@ -17,7 +17,7 @@ FREE
 Richmond City Hall, 6911 No 3 Road
 
 To register:
-https://www.eventbrite.ca/e/2024-lulu-series-presents-alanna-quock-
+[https://www.eventbrite.ca/e/2024-lulu-series-presents-alanna-quock-](https://www.eventbrite.ca/e/2024-lulu-series-presents-alanna-quock-)
 tickets-853756006197?aff=oddtdtcreator
 
 Alanna Quock, principal of Regenative Design, will ponder the essential question of

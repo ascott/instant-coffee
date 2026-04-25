@@ -42,4 +42,4 @@ Richmond, BC V6Y 1R9
 gallery@richmond.ca
 www.richmondartgallery.org
 
-Directions: http://www.richmondartgallery.org/pdfs/ragmap_transit.pdf
+Directions: [http://www.richmondartgallery.org/pdfs/ragmap_transit.pdf](http://www.richmondartgallery.org/pdfs/ragmap_transit.pdf)

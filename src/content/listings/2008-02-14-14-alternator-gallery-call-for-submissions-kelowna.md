@@ -16,7 +16,7 @@ Deadline: April 15, 2008
 The Alternator Gallery for Contemporary Art in Kelowna, B.C., is a non-profit artist-run centre with a mandate to support the development of a broad range of high-quality innovative and critically engaged work by local, national and international emerging and mid-career artists. The Alternator operates a gallery composed of three exhibition spaces; hosts a visiting artist program; undertakes exchanges and other special projects; and provides access to video production equipment through the Alternator Media Arts Centre.
 
 
-1) The Alternator Gallery for Contemporary Art is now accepting submissions for the 2009/2010 Exhibition Year in our Main Gallery Space. A detailed floor plan can be found at http://www.alternatorgallery.com/images/pdf/AlternatorFloorplan.pdf
+1) The Alternator Gallery for Contemporary Art is now accepting submissions for the 2009/2010 Exhibition Year in our Main Gallery Space. A detailed floor plan can be found at [http://www.alternatorgallery.com/images/pdf/AlternatorFloorplan.pdf](http://www.alternatorgallery.com/images/pdf/AlternatorFloorplan.pdf)
 c/o Selection Committee: Alternator
 
 2) We are also accepting submissions for an artist exchange between the Alternator Gallery and the Three Walls Gallery in Chicago.  Up to four artists will be selected to participate in this exchange that will take place in late 2008.  Please note that in order to be considered for the Chicago exhibition, applicants must become a friend of the Alternator Gallery.  Membership forms are available online. Please include a cheque or money order with the application.

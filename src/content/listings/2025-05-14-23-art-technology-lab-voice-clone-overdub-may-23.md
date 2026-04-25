@@ -15,7 +15,7 @@ produced during the class into an audio AI capable of mimicking your unique way 
 talking. Instructor: Stphane Bernard.
 
 Registration:
-https://cityofnewwestminster.perfectmind.com/23693/Classes/BookMe4LandingPages/
+[https://cityofnewwestminster.perfectmind.com/23693/Classes/BookMe4LandingPages/](https://cityofnewwestminster.perfectmind.com/23693/Classes/BookMe4LandingPages/)
 CoursesLandingPage?courseId=e3ef6f1d-ce71-4178-a0ba-c163314d9d82
 
 Friday, May 23 | 6:00 pm - 9:00 pm | Ages 18+

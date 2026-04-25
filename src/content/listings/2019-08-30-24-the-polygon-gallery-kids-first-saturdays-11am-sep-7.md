@@ -14,4 +14,4 @@ Gallery, explore the artworks, and participate in activities that lead to deeper
 engagement with art and creativity. As a regular Kids First visitor, you will always be 
 greeted with new and exciting methods of creative play, encouraging experimentation 
 with various media and materials. For more information, visit 
-https://thepolygon.ca/event/kids-first-saturdays-2/
+[https://thepolygon.ca/event/kids-first-saturdays-2/](https://thepolygon.ca/event/kids-first-saturdays-2/)

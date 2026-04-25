@@ -66,5 +66,5 @@ VIVO Media Arts Centre
 1965 Main Street Vancouver Canada V5T 3C1
 604 872 8337 x3
 Monday- Thursday 11am-6pm
-http://vivomediaarts.com
-http://signalandnoise.ca
+[http://vivomediaarts.com](http://vivomediaarts.com)
+[http://signalandnoise.ca](http://signalandnoise.ca)

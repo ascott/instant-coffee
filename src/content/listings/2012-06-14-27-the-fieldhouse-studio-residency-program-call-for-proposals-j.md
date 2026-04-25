@@ -23,7 +23,7 @@ for proposals for a residency program which commences October
 2012 and complete mid-January 2015. The current spaces available 
 are distributed through the city at Elm, Falaise, Hadden, Strathcona 
 and Slocan Parks (please go to 
-http://vancouver.ca/parks/arts/artistspace.htm )The program provides 
+[http://vancouver.ca/parks/arts/artistspace.htm](http://vancouver.ca/parks/arts/artistspace.htm) )The program provides 
 studio space for artists and artist collectives at no charge in exchange 
 for community arts based engagement. for space and location details). 
 This call is open to artists, artist collectives and arts organizations 
@@ -73,14 +73,14 @@ engagement processes will also be an asset.
 
 HOW TO APPLY
 
-Please go to http://vancouver.ca/parks/arts/artistspace.htm to 
+Please go to [http://vancouver.ca/parks/arts/artistspace.htm](http://vancouver.ca/parks/arts/artistspace.htm) to 
 download the call for proposals and to view info on the field house 
 studio spaces.
 
 All proposals must be received by 4:00 pm on July 9, 2012
 
 If after reviewing the program information on the Park Board website at 
-http://vancouver.ca/parks/arts/artistspace.htm you still require further 
+[http://vancouver.ca/parks/arts/artistspace.htm](http://vancouver.ca/parks/arts/artistspace.htm) you still require further 
 information please contact:
 
 * Danita Noyes, Arts Programmer

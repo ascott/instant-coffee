@@ -24,7 +24,7 @@ and an inquiring eye to play along or observe.
 
 Admission is free. To
 learn more, visit our website:
-https://westernfront.ca/events/wounded-healers-open-rehearsal
+[https://westernfront.ca/events/wounded-healers-open-rehearsal](https://westernfront.ca/events/wounded-healers-open-rehearsal)
 
 Western Front
 303 E 8th Ave

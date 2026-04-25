@@ -53,7 +53,7 @@ images resonated with Nelson as much as the objects in the museum, as a
 language to be unraveled.
 For the full exhibition text and more images on the Mike Nelson exhibition go 
 to:
-http://www.contemporaryartgallery.ca/exhibitions/mike-nelson/
+[http://www.contemporaryartgallery.ca/exhibitions/mike-nelson/](http://www.contemporaryartgallery.ca/exhibitions/mike-nelson/)
 NOTES TO EDITORS:
 Public Events: Exhibition Opening & Public Programmes
 

@@ -33,4 +33,4 @@ avant-garde band LAL, Sitka-based artist Nicholas Galanin (aka Indian Agent), or
 experimental noise band Cock Fang. Phen Ray is currently scoring the forthcoming
 CBC series Black Life: A Canadian History.
 
-https://thepolygon.ca/event/black-psychedelia-with-phen-ray/
+[https://thepolygon.ca/event/black-psychedelia-with-phen-ray/](https://thepolygon.ca/event/black-psychedelia-with-phen-ray/)

@@ -17,6 +17,6 @@ Valerie Sing Turner (Aug 2 - 17);
 - and Kintsugi by Brava Kilo and Annie Sumi (Aug 3 - 4).
 
 Join us on August 2 to meet the artists. For more information on the exhibition, visit our
-Instagram or https://centrea.org/2024/07/48th-powell-street-festival/
+Instagram or [https://centrea.org/2024/07/48th-powell-street-festival/](https://centrea.org/2024/07/48th-powell-street-festival/)
 
 Exhibition period: August 2 - 17, 2024

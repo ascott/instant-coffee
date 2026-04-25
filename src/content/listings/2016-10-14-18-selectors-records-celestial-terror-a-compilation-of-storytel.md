@@ -35,4 +35,4 @@ artists.
 
 Entry is by donation.
 
-RVSP: https://www.facebook.com/events/552937281565270/
+RVSP: [https://www.facebook.com/events/552937281565270/](https://www.facebook.com/events/552937281565270/)

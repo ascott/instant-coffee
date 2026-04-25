@@ -55,13 +55,13 @@ supported by Oland Baxter.
 
 [links]
 
-Webpage: https://kelownaartgallery.com/from-geisha-to-diva-the-kimono-of-ichimaru/
+Webpage: [https://kelownaartgallery.com/from-geisha-to-diva-the-kimono-of-ichimaru/](https://kelownaartgallery.com/from-geisha-to-diva-the-kimono-of-ichimaru/)
 
-Video Tour #1: https://www.youtube.com/watch?v=eGFNQzZAEM0
+Video Tour #1: [https://www.youtube.com/watch?v=eGFNQzZAEM0](https://www.youtube.com/watch?v=eGFNQzZAEM0)
 
 Video Tour #2:
-https://www.youtube.com/watch?v=R5oDf1_x3OE&
+[https://www.youtube.com/watch?v=R5oDf1_x3OE&](https://www.youtube.com/watch?v=R5oDf1_x3OE&)
 
-Origami Kimono Art Activity: https://www.youtube.com/watch?v=yBuywQiTqsc
+Origami Kimono Art Activity: [https://www.youtube.com/watch?v=yBuywQiTqsc](https://www.youtube.com/watch?v=yBuywQiTqsc)
 
-Instagram: https://www.instagram.com/kelownaartgallery/
+Instagram: [https://www.instagram.com/kelownaartgallery/](https://www.instagram.com/kelownaartgallery/)

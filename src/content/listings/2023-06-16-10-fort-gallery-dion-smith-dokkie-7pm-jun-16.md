@@ -35,7 +35,7 @@ throughout the ten day run:
 OPENING RECEPTION: Fri. June 16, 7:00pm
 
 WORKSHOP: Sun. June 18, 2:00pm, RSVP at
-https://www.eventbrite.ca/e/634438601937
+[https://www.eventbrite.ca/e/634438601937](https://www.eventbrite.ca/e/634438601937)
 
 ARTIST TALK + TOUR: Sat. June 24, 2:00pm
 

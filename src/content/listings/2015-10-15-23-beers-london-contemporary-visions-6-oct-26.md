@@ -34,4 +34,4 @@ DEADLINE EXTENDED
 The will close on midnight (local time) Monday 26 October, 2015.
 
 PROSPECTUS / APPLY NOW
-http://www.beerslondon.com/opencall/
+[http://www.beerslondon.com/opencall/](http://www.beerslondon.com/opencall/)

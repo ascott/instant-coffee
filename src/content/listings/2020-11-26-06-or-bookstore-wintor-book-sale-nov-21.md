@@ -32,4 +32,4 @@ please keep in mind that our capacity is 4 people. Please do not enter the galle
 have
 signs of sickness. We ask that you wear a mask and sanitise your hands during your
 visit (supplies provided).
-http://www.orgallery.org/intl/819/or-bookstore-win
+[http://www.orgallery.org/intl/819/or-bookstore-win](http://www.orgallery.org/intl/819/or-bookstore-win)

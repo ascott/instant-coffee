@@ -18,7 +18,7 @@ Administrative address: VIVO Media Arts Centre, 1965 Main Street,
 Vancouver, BC , Canada V5T 3C1
 Tel: +1 604 872 8337
 Email address: festival@signalandnoise.ca
-Website: http://www.signalandnoise.ca
+Website: [http://www.signalandnoise.ca](http://www.signalandnoise.ca)
 
 This year there is no theme, we just want to know what artists are making.
 Send us your electronic arts, video, audio, new media, film, net, av

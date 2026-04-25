@@ -11,7 +11,7 @@ summary: "Western Front | Instant Coffee: Feeling So Much Yet DoingSo Little | F
 THURSDAY, FEBRUARY 16th, 7:00 PM | EXHIBITION OPENING
 Instant Coffee: Feeling So Much Yet Doing So Little
 
-http://vimeo.com/35180950
+[http://vimeo.com/35180950](http://vimeo.com/35180950)
 Video courtesy of Instant Coffee 2012
 
 Instant Coffee: Feeling So Much & Doing So Little
@@ -38,6 +38,6 @@ www.front.bc.ca
 Western Front
 303 East 8th Avenue, Vancouver, BC Canada V5T 1S1
 T. +1 604 876 9343 F. +1 604 876 4099
-W. http://front.bc.ca E. exhibitions@front.bc.ca
+W. [http://front.bc.ca](http://front.bc.ca) E. exhibitions@front.bc.ca
 Gallery Hours: Tuesday – Saturday 12 – 5pm
 Admission Free

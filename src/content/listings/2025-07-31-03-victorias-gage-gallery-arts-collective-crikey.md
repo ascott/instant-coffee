@@ -17,5 +17,5 @@ photography and digital art encourages viewers to reconsider what they see throu
 humor, irony, and unexpected details. Crikey! runs through Sunday August 3. The
 Gage Gallery Arts Collective is in Victoria's historic downtown at 19 Bastion Square.
 The gallery is open Tuesday through Sunday from 11 am to 5 pm. For further
-information please visit the Gage Gallery website at https://gagegallery.ca/ or contact
+information please visit the Gage Gallery website at [https://gagegallery.ca/](https://gagegallery.ca/) or contact
 Clare Palmer at clarepalmerarts@gmail.com.

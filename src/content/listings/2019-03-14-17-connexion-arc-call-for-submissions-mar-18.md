@@ -28,7 +28,7 @@ decolonization. In your application, please consider activating space with artis
 production and creative gestures that work outside of traditional exhibition strategies.
 
 TO APPLY: Please see submission guidelines at 
-https://connexionarc.org/2019/02/24/call-for-submissions-2019-20-programming/
+[https://connexionarc.org/2019/02/24/call-for-submissions-2019-20-programming/](https://connexionarc.org/2019/02/24/call-for-submissions-2019-20-programming/)
 
 DEADLINE: March 18, 2019
 

@@ -14,4 +14,4 @@ the Nikkei National Museum & Cultural Centre in Burnaby, this vibrant gathering 
 provide an immersive experience for families and individuals alike to enjoy the richness
 of Japanese culture.
 
-https://nikkeimatsuri.nikkeiplace.org/?mc_cid=98b8ff71cc&mc_eid=15436e847e
+[https://nikkeimatsuri.nikkeiplace.org/?mc_cid=98b8ff71cc&mc_eid=15436e847e](https://nikkeimatsuri.nikkeiplace.org/?mc_cid=98b8ff71cc&mc_eid=15436e847e)

@@ -25,4 +25,4 @@ should not exceed a value of $300 per piece.
 Interested artists can apply here. For the jury fee, registration is available by phone at
 604-925-7270 (course #171698) or online.
 For more information, please visit our website here.
-http://https://ferrybuildinggallery.ca/submissions/great-
+[http://https://ferrybuildinggallery.ca/submissions/great-](http://https://ferrybuildinggallery.ca/submissions/great-)

@@ -68,4 +68,4 @@ Spot available March 1st.
 
 info@thephoenixgallery.ca
 
-http://thephoenixgallery.ca/
+[http://thephoenixgallery.ca/](http://thephoenixgallery.ca/)

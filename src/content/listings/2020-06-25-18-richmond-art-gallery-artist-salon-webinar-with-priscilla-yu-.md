@@ -12,7 +12,7 @@ Tuesday, June 30, 2020
 7:00 pm
 Live online webinar with illustrator and mural artist Priscilla Yu
 
-To register: https://us02web.zoom.us/webinar/register/WN_0a-
+To register: [https://us02web.zoom.us/webinar/register/WN_0a-](https://us02web.zoom.us/webinar/register/WN_0a-)
 fFeetQWOOKLi4GAzeug
 
 The Artist Salon Series features art professionals leading inspirational artist talks
@@ -33,8 +33,8 @@ twenty murals locally and internationally over the past few years. With a person
 style involving abstracted perspective and a geometric language, she creates worlds
 that dwell in a strange gravity.
 
-Reserve your spot here: https://us02web.zoom.us/webinar/register/WN_0a-
+Reserve your spot here: [https://us02web.zoom.us/webinar/register/WN_0a-](https://us02web.zoom.us/webinar/register/WN_0a-)
 fFeetQWOOKLi4GAzeug
 
 View past webinars, artist interviews and more at:
-http://www.richmondartgallery.org/rag-at-home/
+[http://www.richmondartgallery.org/rag-at-home/](http://www.richmondartgallery.org/rag-at-home/)

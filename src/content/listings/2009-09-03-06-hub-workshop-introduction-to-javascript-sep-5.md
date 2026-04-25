@@ -26,7 +26,7 @@ working with JavaScript as well as the concepts that will become the basis of an
 programming projects.
 
 Workshop capacity is limited. Please register online by visiting 
-http://www.hubcentre.org/workshops/introduction-to-javascript/ and clicking the 'register here' link 
+[http://www.hubcentre.org/workshops/introduction-to-javascript/](http://www.hubcentre.org/workshops/introduction-to-javascript/) and clicking the 'register here' link 
 at the bottom of the page.
 
 TALK – Jer Thorp
@@ -37,7 +37,7 @@ Room 102, Frederic Lasserre Building, University of British Columbia
 Jer Thorp is an artist and educator from Vancouver, Canada. A former geneticist, his digital art 
 practice explores the many-folded boundaries between science and art. Recently, his work has 
 been featured by The New York Times, The Guardian, BusinessWeek and the CBC. Learn more 
-about Jer Thorp at http://blog.blprnt.com/
+about Jer Thorp at [http://blog.blprnt.com/](http://blog.blprnt.com/)
 
 WORKSHOP – Introduction to Processing
 1PM – 4PM, September 19, 2009
@@ -57,7 +57,7 @@ what they need to start working with Processing as well as the concepts that wil
 foundation of any future programming projects.
 
 Workshop capacity is limited. Please register online by visiting 
-http://www.hubcentre.org/workshops/introduction-to-processing/ and clicking the 'register here' 
+[http://www.hubcentre.org/workshops/introduction-to-processing/](http://www.hubcentre.org/workshops/introduction-to-processing/) and clicking the 'register here' 
 link at the bottom of the page.
 
 HUB Workshops and Talks are free of charge.
@@ -67,4 +67,4 @@ HUB is an experimental art initiative focused on collaboration, the sharing of i
 knowledge, and the creative exploration of information technologies. Built around the principles 
 of the Open Source movement, HUB aims to create a collaborative, interdisciplinary environment 
 that provides free and open access to current and emerging technologies. To learn more, please 
-visit http://www.hubcentre.org/
+visit [http://www.hubcentre.org/](http://www.hubcentre.org/)

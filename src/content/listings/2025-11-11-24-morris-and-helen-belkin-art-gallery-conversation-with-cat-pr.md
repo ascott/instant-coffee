@@ -21,7 +21,7 @@ Years. This talk is part of a series of noon-hour conversations at the Belkin wh
 scholars discuss productive intersections of their own work and the current exhibition,
 followed by a discussion that includes the audience.
 
-https://belkin.ubc.ca/events/conversations-abbas-akhavan/
+[https://belkin.ubc.ca/events/conversations-abbas-akhavan/](https://belkin.ubc.ca/events/conversations-abbas-akhavan/)
 
 For further information please contact:
 Jana Tyner at jana.tyner@ubc.ca / (604) 822-1389

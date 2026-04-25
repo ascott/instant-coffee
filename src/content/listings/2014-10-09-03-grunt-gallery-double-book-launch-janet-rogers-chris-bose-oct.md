@@ -38,6 +38,6 @@ the Crow." -Kegedonce, publisher.
 You can purchase your copy of the publication at this event, the authors
 will be available for book-signing. This event is free to the public.
 
-http://grunt.ca/janetrogersandchrisbosepoetry/
+[http://grunt.ca/janetrogersandchrisbosepoetry/](http://grunt.ca/janetrogersandchrisbosepoetry/)
 
 www.grunt.ca | karlene@grunt.ca | t: 604.875.9516

@@ -18,4 +18,4 @@ folk software, and permacomputing, Our Networks 2024 explores
 transitional technologies that allow us to reframe what computing could
 mean when the internet, and the cloud, are optional.
 
-Register at: https://ournetworks.ca/#register (sliding scale CA$30-120)
+Register at: [https://ournetworks.ca/#register](https://ournetworks.ca/#register) (sliding scale CA$30-120)

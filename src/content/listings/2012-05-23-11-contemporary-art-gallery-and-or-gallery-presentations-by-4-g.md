@@ -115,7 +115,7 @@ Carlos Garaicoa etc.),
 Since 2011: teaches curatorial praxis at the Hochschule für Bildende 
 Künste, Braunschweig
 
-Publications: http://www.hbk-bs.de/hochschule/personen/hilke-
+Publications: [http://www.hbk-bs.de/hochschule/personen/hilke-](http://www.hbk-bs.de/hochschule/personen/hilke-)
 wagner/autor-und-herausgeberschaften/index.php
 
 www.kunstverein-bs.de

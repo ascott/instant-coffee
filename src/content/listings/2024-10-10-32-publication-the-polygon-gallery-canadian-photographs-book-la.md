@@ -36,4 +36,4 @@ Reception and Book Signing: 7:30 - 8pm
 RSVPs are helpful.
 
 RSVP here:
-https://thepolygon.ca/event/book-launch-canadian-photographs-by-geoffrey-james/
+[https://thepolygon.ca/event/book-launch-canadian-photographs-by-geoffrey-james/](https://thepolygon.ca/event/book-launch-canadian-photographs-by-geoffrey-james/)

@@ -15,7 +15,7 @@ grunt gallery
 116-350 E. 2nd Ave
 
 FB event:
-https://www.facebook.com/events/2197339337244485/
+[https://www.facebook.com/events/2197339337244485/](https://www.facebook.com/events/2197339337244485/)
 
 archivesweek.ca
 

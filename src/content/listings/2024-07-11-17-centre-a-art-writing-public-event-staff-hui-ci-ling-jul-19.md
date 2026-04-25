@@ -11,7 +11,7 @@ summary: "Centre A | Art Writing Public Event: Staff Hui Ci Ling | JUL 19"
 Friday, July 19, 2024
 2 " 3:30 PM PT
 Zoom
-RSVP: https://us02web.zoom.us/meeting/register/tZYucu-
+RSVP: [https://us02web.zoom.us/meeting/register/tZYucu-](https://us02web.zoom.us/meeting/register/tZYucu-)
 sqDMsGNd5cYwCW5EISGfOYiuqx0j0#/registration
 
 Join us on Friday, July 19 for "Preambling the art workers inquiry", a virtual

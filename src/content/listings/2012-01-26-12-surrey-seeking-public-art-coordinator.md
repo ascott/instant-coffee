@@ -41,5 +41,5 @@ We currently have an auxiliary position available, up to 21 hours per
 week. Compensation is $27.79/hour plus benefits payout.
 If you flourish in an innovative atmosphere and are looking to make the 
 most of this opportunity to make a positive contribution to the City of 
-Surrey, please apply on-line. http://www.surrey.ca/city-
+Surrey, please apply on-line. [http://www.surrey.ca/city-](http://www.surrey.ca/city-)
 services/600.aspx

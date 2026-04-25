@@ -64,4 +64,4 @@ Vancouver BC
 604-872-8337
 www.vivomediaarts.com
 -- 
-<http://vivomediaarts.com/>
+<[http://vivomediaarts.com/](http://vivomediaarts.com/)>

@@ -53,7 +53,7 @@ investigations have included the role that technologies have played in the
 spread of ideologies through time. Previous to "Black Book," Yoons
 hand-printed artist book "The Book of Jests" was the first in the series on
 the subject.
-http://www.yoonhyungmin.com/
+[http://www.yoonhyungmin.com/](http://www.yoonhyungmin.com/)
 
 Information Office is a design and art services company based in Vancouver,
 Canada. The office develops identity programs, books, publications,
@@ -62,7 +62,7 @@ applications for clients in the cultural sector. Information Office places
 special emphasis on its art publishing. We offer a suite of integrated
 services from conceptualization, design, editing, printing and promotion of
 publications.
-http://i-o.cc/
+[http://i-o.cc/](http://i-o.cc/)
 
 The "Black Book" book launch is presented as part of Vancouver Art Book
 Week. Information Office thanks READ Books for generously hosting and

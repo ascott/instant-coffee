@@ -49,8 +49,8 @@ exhibit of archival materials related to Case Study 1: Women's Labour History:
 Restaurant Work in the Greater Vancouver Area.
 
 Limited tickets available for non-Symposium Registrants at Showpass:
-https://www.showpass.com/vivomediaarts-cf2024-evening2/
+[https://www.showpass.com/vivomediaarts-cf2024-evening2/](https://www.showpass.com/vivomediaarts-cf2024-evening2/)
 
 For more about Crossing Fonds follow the link below:
 
-https://crossingfonds.com/program/
+[https://crossingfonds.com/program/](https://crossingfonds.com/program/)

@@ -39,5 +39,5 @@ YacTac are Janice and Justine Cheung, Peggy and Karen Ngan.
 www.yactac.com
 
 Follow us:
-Facebook: http://www.facebook.com/group.php?gid=2383854809&ref=ts
+Facebook: [http://www.facebook.com/group.php?gid=2383854809&ref=ts](http://www.facebook.com/group.php?gid=2383854809&ref=ts)
 Twitter: www.twitter.com/yactac

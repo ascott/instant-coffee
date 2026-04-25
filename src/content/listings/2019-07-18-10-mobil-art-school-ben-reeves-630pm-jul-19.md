@@ -15,4 +15,4 @@ Mobil Art School, 268 Keefer Street, Vancouver, BC, Canada
 Join Vancouver-based painter Ben Reeves for an informal talk about his work.
 Cash bar 19+ No minors
 FREE - please register here:
-https://www.mobil-art.ca/event-info/ben-reeves-artist-talk
+[https://www.mobil-art.ca/event-info/ben-reeves-artist-talk](https://www.mobil-art.ca/event-info/ben-reeves-artist-talk)

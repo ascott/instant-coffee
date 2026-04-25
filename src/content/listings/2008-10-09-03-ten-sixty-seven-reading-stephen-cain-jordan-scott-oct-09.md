@@ -20,7 +20,7 @@ Ten Sixty Seven
 Admission: 3 - 5$, sliding scale
 
 for details & author information
-visit http://www.kswnet.org/
+visit [http://www.kswnet.org/](http://www.kswnet.org/)
 
 *+*+*+*+*+*+*
 

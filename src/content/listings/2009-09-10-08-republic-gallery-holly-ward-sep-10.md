@@ -36,4 +36,4 @@ REPUBLIC GALLERY
 | 604.632.1590
 Gallery hours: Wednesday to Saturday 11am - 5pm and by appointment
 
-http://www.republicgallery.com
+[http://www.republicgallery.com](http://www.republicgallery.com)

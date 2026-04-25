@@ -17,7 +17,7 @@ FREE
 
 Richmond City Hall, 6911 No 3 Road
 
-To register: https://www.eventbrite.ca/e/2024-lulu-series-presents-charo-neville-
+To register: [https://www.eventbrite.ca/e/2024-lulu-series-presents-charo-neville-](https://www.eventbrite.ca/e/2024-lulu-series-presents-charo-neville-)
 tickets-853758704267
 
 The curator of the Kamloops Art Gallery will discuss Luminocity, a week-long

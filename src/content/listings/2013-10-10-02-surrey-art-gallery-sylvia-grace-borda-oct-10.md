@@ -31,7 +31,7 @@ the first ever artwork set in Google Street View, a reverse engineered
 3D video using 19TH century technology, and drone-controlled aerial 
 filmmaking. To view Borda s Google Street View generated artwork 
 Farm Tableau - Medomist Farm Ltd (Bose family) (2013) go to 
-http://goo.gl/maps/1NgdN
+[http://goo.gl/maps/1NgdN](http://goo.gl/maps/1NgdN)
 
 Her talk will be preceded by brief presentations on modern day farming 
 in the Surrey and Fraser Valley growing basin by Ron Tamis (Vice 

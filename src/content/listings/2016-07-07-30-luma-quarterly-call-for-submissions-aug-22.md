@@ -28,7 +28,7 @@ much appreciated.
 Our call for submissions is now open for issue 006 - deadline 
 August 22, which will be launched in early November. Please take a 
 moment to share our call with your colleagues and membership in 
-your newsletter/social media: http://lumaquarterly.com/submissions/
+your newsletter/social media: [http://lumaquarterly.com/submissions/](http://lumaquarterly.com/submissions/)
 
 Thanks so much for your help with this- we are very much looking 
 forward to connecting with you to expand Luma's reach, and to 

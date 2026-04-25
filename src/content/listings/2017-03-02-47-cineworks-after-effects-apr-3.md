@@ -17,7 +17,7 @@ $110 + taxes | Cineworks Member Admission
 $130 + taxes | Concessions and Community Partner Members
 $150 + taxes | General Admission
 
-REGISTER: https://after-effects.eventbrite.ca 
+REGISTER: [https://after-effects.eventbrite.ca](https://after-effects.eventbrite.ca) 
 
 Instructor: Leslie Kennah
 
@@ -85,7 +85,7 @@ Film School.
 Please note: access to membership discounts can be obtained with a Cineworks 
 General Membership ($40 annually). Please call 604-685-3841 for details, or 
 come to an orientation at our Howe Street location (see 
-http://www.cineworks.ca/attend#events for bi-weekly schedule details).
+[http://www.cineworks.ca/attend#events](http://www.cineworks.ca/attend#events) for bi-weekly schedule details).
 
 Cineworks gratefully acknowledges and pays respect to the Musqueam, 
 Squamish and Tsleil-Waututh First Nations on whose unceded traditional 

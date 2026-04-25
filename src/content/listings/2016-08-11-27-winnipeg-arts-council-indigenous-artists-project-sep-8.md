@@ -16,4 +16,4 @@ at $100,000)
 Organization: Winnipeg Arts Council
 
 Learn more
-http://winnipegarts.ca/wac/news-article/public-art-opportunity-indigenous-artists-project
+[http://winnipegarts.ca/wac/news-article/public-art-opportunity-indigenous-artists-project](http://winnipegarts.ca/wac/news-article/public-art-opportunity-indigenous-artists-project)

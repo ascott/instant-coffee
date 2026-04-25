@@ -29,7 +29,7 @@ Deadline: October 31, 2018. Proposals will be reviewed by a committee and
 applicants will be notified by December 2018. 
 
 More information can be found on our website: 
-http://centre3.com/exhibition2018/annual-call-for-submissions-main-gallery/
+[http://centre3.com/exhibition2018/annual-call-for-submissions-main-gallery/](http://centre3.com/exhibition2018/annual-call-for-submissions-main-gallery/)
 
 Centre3
 173 James Street North, Hamilton, Ontario, L8R 2K9 Canada

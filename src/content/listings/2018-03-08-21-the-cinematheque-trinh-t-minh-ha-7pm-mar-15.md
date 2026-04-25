@@ -17,4 +17,4 @@ Vietnamese womens resistance in Vietnam and the United States. It combines dance
 text, folk poetry, and womens testimony to call into question official histories and the 
 politics of documentary and interview.
 
-Tickets: http://www.thecinematheque.ca/nightly/2018/3/15
+Tickets: [http://www.thecinematheque.ca/nightly/2018/3/15](http://www.thecinematheque.ca/nightly/2018/3/15)

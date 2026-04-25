@@ -17,7 +17,7 @@ rental included.
 March 14 and 15, Friday 6pm-8pm and Saturday 10am-2pm
 Eastside Atelier, 1310 William Street
 More details and register through eventbrite:
-https://www.eventbrite.ca/e/1089929962859?aff=oddtdtcreator
+[https://www.eventbrite.ca/e/1089929962859?aff=oddtdtcreator](https://www.eventbrite.ca/e/1089929962859?aff=oddtdtcreator)
 ABOUT THE CLASS
 
 Working with a neutral palette of silks, imported cotton and linen in a warm studio

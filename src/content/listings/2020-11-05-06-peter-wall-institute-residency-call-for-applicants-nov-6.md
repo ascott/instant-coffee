@@ -17,4 +17,4 @@ The deadline for applications is
 November 6, 2020. Application details are available on
 our website, here. Pre-submission inquiries are welcome.
 
-https://pwias.ubc.ca/program/wall-scholars-program
+[https://pwias.ubc.ca/program/wall-scholars-program](https://pwias.ubc.ca/program/wall-scholars-program)

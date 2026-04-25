@@ -11,7 +11,7 @@ summary: "SCREENING | Cineworks at ECUAD | Tondal's Vision by Stephen Broomer | 
 Event Title: Screening: Tondal's Vision by Stephen Broomer
 Date & Time: Saturday, November 9th; 7:30pm; Doors at 7:00pm
 Location: Rennie Hall, B2160, Emily Carr University of Art & Design
-Link to event page: https://www.facebook.com/events/2563612903706077/
+Link to event page: [https://www.facebook.com/events/2563612903706077/](https://www.facebook.com/events/2563612903706077/)
 
 Blurb:
 Free event

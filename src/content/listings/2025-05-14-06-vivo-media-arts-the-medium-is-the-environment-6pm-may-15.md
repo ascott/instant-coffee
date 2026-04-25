@@ -55,5 +55,5 @@ presence of noise in the information-capital complex.
 
 Dont miss the opening reception on May 15 at 6pm!
 
-More info: https://www.vivomediaarts.com/programming/the-medium-is-the-
+More info: [https://www.vivomediaarts.com/programming/the-medium-is-the-](https://www.vivomediaarts.com/programming/the-medium-is-the-)
 environment

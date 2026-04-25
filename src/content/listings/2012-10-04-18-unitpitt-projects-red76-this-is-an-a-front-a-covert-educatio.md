@@ -48,7 +48,7 @@ Power 2012. Each broadcast – through music, interviews, conversations, and
 readings – relates to our daily relationship to power, macro to micro, from 
 individual to State and back again.
 
-To tune in to Power 2012 visit http://power2012.ca starting Oct. 11 2012, or 
+To tune in to Power 2012 visit [http://power2012.ca](http://power2012.ca) starting Oct. 11 2012, or 
 visit UNIT/PITT at 15 East Pender Street during open hours to purchase music 
 and speak your mind on the air directly to the world at large.
 

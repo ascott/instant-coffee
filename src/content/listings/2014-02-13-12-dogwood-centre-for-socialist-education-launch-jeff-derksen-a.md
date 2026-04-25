@@ -9,10 +9,10 @@ summary: "Dogwood Centre for Socialist Education | launch: Jeff Derksen and Ken 
 ---
 
 Jeff Derksen : The Vestiges 
-http://talonbooks.com/books/the-vestiges
+[http://talonbooks.com/books/the-vestiges](http://talonbooks.com/books/the-vestiges)
 
 Ken Belford : Internodes
-http://talonbooks.com/books/internodes
+[http://talonbooks.com/books/internodes](http://talonbooks.com/books/internodes)
 
 Tuesday February 18, 7:30 pm
 Dogwood Centre for Socialist Education 

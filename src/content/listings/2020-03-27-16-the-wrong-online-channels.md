@@ -10,4 +10,4 @@ summary: "The Wrong | Online Channels"
 
 Various comtemporary Digital Art channels:
 
-https://thewrong.org/
+[https://thewrong.org/](https://thewrong.org/)

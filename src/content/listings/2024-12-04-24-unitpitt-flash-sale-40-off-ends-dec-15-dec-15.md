@@ -24,4 +24,4 @@ engines for the year to come. Sale ends December 15, 2024.
 in-person local pick-up if possible. For out of town purchases, we will reach out directly
 to secure an alternative delivery option.
 
-https://www.unitpitt.ca/shop/
+[https://www.unitpitt.ca/shop/](https://www.unitpitt.ca/shop/)

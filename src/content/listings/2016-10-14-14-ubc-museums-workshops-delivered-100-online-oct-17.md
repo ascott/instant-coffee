@@ -46,5 +46,5 @@ working in all levels of government; the arts, culture and heritage
 sectors; and, museums.
 
 For more information and to register, please visit
-http://cstudies.ubc.ca/cultural-planning-and-development/courses.html and
+[http://cstudies.ubc.ca/cultural-planning-and-development/courses.html](http://cstudies.ubc.ca/cultural-planning-and-development/courses.html) and
 join our subscription list to receive regular program updates.

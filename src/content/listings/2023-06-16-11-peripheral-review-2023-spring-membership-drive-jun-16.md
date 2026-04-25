@@ -43,5 +43,5 @@ Help us by purchasing a Membership or donating on our website! All of the links 
 need are below, and we are so grateful to have your support and readership! Without
 you we couldn't do what we do :)
 
-Buy a Membership here: https://www.peripheralreview.com/become-a-member/
-Donate here: https://www.peripheralreview.com/donate/
+Buy a Membership here: [https://www.peripheralreview.com/become-a-member/](https://www.peripheralreview.com/become-a-member/)
+Donate here: [https://www.peripheralreview.com/donate/](https://www.peripheralreview.com/donate/)

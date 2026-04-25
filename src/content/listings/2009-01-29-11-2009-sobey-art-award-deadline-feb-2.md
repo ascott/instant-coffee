@@ -61,7 +61,7 @@ c/o Art Gallery of Nova Scotia
 1723 Hollis St, Box 2262
 Halifax, NS B3J 3C8
 902 424 7359 fax
-http://www.artgalleryofnovascotia.ca
+[http://www.artgalleryofnovascotia.ca](http://www.artgalleryofnovascotia.ca)
 BACKGROUND
 The Art Gallery of Nova Scotia is responsible for accepting nominations
 for the 2009 Sobey Art Award from recognized agents and institutions. A

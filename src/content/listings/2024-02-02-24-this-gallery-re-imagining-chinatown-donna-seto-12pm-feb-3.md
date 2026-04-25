@@ -47,10 +47,10 @@ Yosef Wosk Publication Grant and the Canada Council for the Arts. The paintings
 featured in this exhibition are part of a larger series that will be published as an
 illustrated history book.
 
-Full artist statement: https://thisgallery.org/project/donna-seto/
+Full artist statement: [https://thisgallery.org/project/donna-seto/](https://thisgallery.org/project/donna-seto/)
 
 20% of all sales from this exhibition will be donated to the Chinatown Foundation.
 
-Preview and purchase work online: https://thethisgallery.com/collections/donna-seto
+Preview and purchase work online: [https://thethisgallery.com/collections/donna-seto](https://thethisgallery.com/collections/donna-seto)
 
-THIS Gallery: https://thisgallery.org/
+THIS Gallery: [https://thisgallery.org/](https://thisgallery.org/)

@@ -75,5 +75,5 @@ and individuals. How were these risks navigated by artists and
 curators?
 
 Complete details can be found at
-http://www.breachmagazine.ca/submissions/. Direct submissions,
+[http://www.breachmagazine.ca/submissions/](http://www.breachmagazine.ca/submissions/). Direct submissions,
 proposals and queries to info@breachmagazine.ca by March 31 2016.

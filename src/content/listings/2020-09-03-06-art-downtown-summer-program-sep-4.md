@@ -23,7 +23,7 @@ Wednesday and Friday at 855 West Hastings Street between 11AM-5PM. The
 program begins on Friday 19th June
 and will continue until September 30th, 2020.
 
-For all of the dates, times and locations, please visit https://www.vanvaf.com/art-
+For all of the dates, times and locations, please visit [https://www.vanvaf.com/art-](https://www.vanvaf.com/art-)
 downtown. We hope you can join us in supporting all artists.
 
 Art Downtown is organized by The Vancouver Visual Art Foundation and the
@@ -32,4 +32,4 @@ Downtown Vancouver Business Improvement Association (DVBIA).
 This event is weather
 dependent. Please see our Facebook page, or Instagram 
 page (@artvancouver) for updates on cancellations 
-(https://www.facebook.com/artvancouverexhibition/).
+([https://www.facebook.com/artvancouverexhibition/](https://www.facebook.com/artvancouverexhibition/)).

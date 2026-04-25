@@ -39,7 +39,7 @@ installation focusing on themes of cultural difference, power and desire within
 the global political economy, informed by his background in social 
 anthropology. He has studied at Goldsmiths College and Chelsea College of 
 Art and Design, London. He is currently working as an information architect at 
-the Houses of Parliament, UK. http://jarrodsanderson.info
+the Houses of Parliament, UK. [http://jarrodsanderson.info](http://jarrodsanderson.info)
 
 221A 
 100-221 E Georgia St
@@ -48,4 +48,4 @@ V6A 1Z6 Map
 Office: 604 568 0812
 Fax: 604 608 3899
 hello@221a.ca
-http://221a.ca
+[http://221a.ca](http://221a.ca)

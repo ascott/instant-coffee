@@ -91,7 +91,7 @@ workshops, please call us between noon and 6pm, Mon – Fri, 604 685 3841
 or e-mail info@cineworks.ca
 
 Website: 
-http://www.cineworks.ca/events/celluloid_challenge_2013_year_of_disorder/
+[http://www.cineworks.ca/events/celluloid_challenge_2013_year_of_disorder/](http://www.cineworks.ca/events/celluloid_challenge_2013_year_of_disorder/)
 
 Cineworks Independent Filmmakers Society is an artist-run production and 
 exhibition centre that supports independent filmmakers and media artists. 

@@ -31,7 +31,7 @@ at SLICE of LIFE Gallery
 1636 Venables St. Vancouver, BC V5L 2H2
 Every Thursday, 7-9pm, 6 seats available.
 
-Sign Up Here: https://www.slicevancouver.ca/product/pincblub/14257?
+Sign Up Here: [https://www.slicevancouver.ca/product/pincblub/14257](https://www.slicevancouver.ca/product/pincblub/14257)?
 cp=true&sa=false&sbp=false&q=false&category_id=146
 
 Curious about D&D but never had the chance to play? OLD SCHOOL TABLETOP

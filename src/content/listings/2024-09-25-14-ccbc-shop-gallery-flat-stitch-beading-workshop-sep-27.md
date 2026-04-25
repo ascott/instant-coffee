@@ -34,5 +34,5 @@ All of the materials that you will need are provided and will be yours to keep.
 No experience required, but please bring your glasses, the beads are smaller than
 you think!
 
-Webpage: https://www.eventbrite.ca/e/flat-stitch-beading-workshop-with-serena-
+Webpage: [https://www.eventbrite.ca/e/flat-stitch-beading-workshop-with-serena-](https://www.eventbrite.ca/e/flat-stitch-beading-workshop-with-serena-)
 steel-tickets-994105746047

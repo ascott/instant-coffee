@@ -30,5 +30,5 @@ Holmstrom was born in Banff and grew up in Beaumont, Alberta. He studied at the 
 College of Art & Design and MacEwan University. His work is in private collections across 
 Canada.
 
-For more information visit: https://www.mat-theartist.com or 
-https://www.instagram.com/mattheartist/
+For more information visit: [https://www.mat-theartist.com](https://www.mat-theartist.com) or 
+[https://www.instagram.com/mattheartist/](https://www.instagram.com/mattheartist/)

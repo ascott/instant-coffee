@@ -14,7 +14,7 @@ In memory of Wonil Rhee
 Wednesday, March 16, 2011
 7:30 pm – 9 pm
 Centre A (2 West Hastings Street, Vancouver)
-Live Streaming: http://www.ustream.tv/channel/wonilrhee
+Live Streaming: [http://www.ustream.tv/channel/wonilrhee](http://www.ustream.tv/channel/wonilrhee)
 
 It is with great sadness that we share the news that Wonil Rhee, an
 influential Korean curator and advocate of Asian contemporary art, passed
@@ -30,7 +30,7 @@ Wednesday, March 16. Please join us to celebrate his life and important
 contribution. At the memorial, we will invite his friends from Korea, China
 and Europe to present short speeches in person and via Skype.
 
-This event will be streamed live at http://www.ustream.tv/channel/wonilrhee
+This event will be streamed live at [http://www.ustream.tv/channel/wonilrhee](http://www.ustream.tv/channel/wonilrhee)
 
 Selection of Wonil Rhee's main activities: Artistic Director of Media City
 Seoul 2002, 2006, Korea; Curator of Digital Sublime, 2004, Taipei MOCA,

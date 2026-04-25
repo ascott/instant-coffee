@@ -26,7 +26,7 @@ $20 for CARFAC or RAGA Members | $30 non-members.
 Pre-registration is required. Register early to avoid disappointment.
 
 Register for Program #1281658 | Online: 
-http://www.richmond.ca/parksrec/about/registration.htm | In person: 
+[http://www.richmond.ca/parksrec/about/registration.htm](http://www.richmond.ca/parksrec/about/registration.htm) | In person: 
 Richmond Cultural Centre, 7700 Minoru Gate | Phone: 604-276-4300
 
 *Please note that when registering, you must let staff know you are a 

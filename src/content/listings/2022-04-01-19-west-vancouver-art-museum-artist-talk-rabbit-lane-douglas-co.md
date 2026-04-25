@@ -12,5 +12,5 @@ Co-presented with the West Vancouver Memorial Library, the West Vancouver Art
 Museum is pleased to present a virtual artist talk with artist, Douglas Coupland, who will
 discuss his current exhibition, Rabbit Lane, which features photographic scenes inspired
 by his 1998 novel, Girlfriend in a Coma. Please click the link to register for this event.
-https://westvanlibrary.ca/event/art-talks-douglas-coupland-in-conversation-with-hilary-
-letwin-virtual/. Click to see more events: https://westvancouverartmuseum.ca/events.
+[https://westvanlibrary.ca/event/art-talks-douglas-coupland-in-conversation-with-hilary-](https://westvanlibrary.ca/event/art-talks-douglas-coupland-in-conversation-with-hilary-)
+letwin-virtual/. Click to see more events: [https://westvancouverartmuseum.ca/events](https://westvancouverartmuseum.ca/events).

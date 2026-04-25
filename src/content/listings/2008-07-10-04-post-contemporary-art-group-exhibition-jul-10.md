@@ -41,8 +41,8 @@ Street: 112 West Hastings Street
 
 City/Town: Vancouver, BC
 
-http://www.postgallery.ca/
+[http://www.postgallery.ca/](http://www.postgallery.ca/)
 
 www.lesramsay.blogspot.com
 
-http://eciad.facebook.com/event.php?eid=19386358021
+[http://eciad.facebook.com/event.php?eid=19386358021](http://eciad.facebook.com/event.php?eid=19386358021)

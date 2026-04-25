@@ -34,7 +34,7 @@ many other venues worldwide. He is the recipient of a Guggenheim Fellowship, a N
 Fellowship, two NEH Fellowships, two Ohio Arts Council Fellowships, and an American Academy 
 Rome Prize.
 
-http://people.virginia.edu/~ke5d/
+[http://people.virginia.edu/~ke5d/](http://people.virginia.edu/~ke5d/)
 
 Programme:
 
@@ -54,5 +54,5 @@ According to…, 2007, 8:30mins, 16mm
 Running Time: 73mins
 
 DIM Cinema at The Pacific Cinematheque 1131 Howe St. $9.50/$8 student + $3 membership 
-http://www.cinematheque.bc.ca
-http://www.dimcinema.ca
+[http://www.cinematheque.bc.ca](http://www.cinematheque.bc.ca)
+[http://www.dimcinema.ca](http://www.dimcinema.ca)

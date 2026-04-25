@@ -16,7 +16,7 @@ you are engaged in a dialogue with Duchamp. This is a web based project and
 is ongoing.
 
 To view what is been done so far visit:
-http://thefountainproject.wordpress.com
+[http://thefountainproject.wordpress.com](http://thefountainproject.wordpress.com)
 To submit a work or if you have any questions please contact
 duchamp.fountain@gmail.com
 

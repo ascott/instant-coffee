@@ -21,7 +21,7 @@ based media, animations,
 performance works, archival video, interactive pieces, GIFs,
 experimental video, and curatorial/screening proposals.
 
-Details and submission forms here: https://www.mpcas.ca/participate/
+Details and submission forms here: [https://www.mpcas.ca/participate/](https://www.mpcas.ca/participate/)
 
 The curatorial vision for the MPCAS is centralized on the broader theme of PLACE.
 Initially, this focused on the literal geographical perimeters on the stolen, unceded

@@ -13,7 +13,7 @@ Stefano Maiorana: Secret Pages for theorbo
 April 26, 2025 | 8pm
 Artist Talk 7:15pm
 Pacific Spirit United Church (2195 West 45th Ave)
-Tickets: https://www.showpass.com/vancouver-new-music-secret-pages/
+Tickets: [https://www.showpass.com/vancouver-new-music-secret-pages/](https://www.showpass.com/vancouver-new-music-secret-pages/)
 
 In a co-presentation between Early Music Vancouver and Vancouver New Music,
 virtuoso Stefano Maiorana (Italy) performs Secret Pages, a set of antique and newly

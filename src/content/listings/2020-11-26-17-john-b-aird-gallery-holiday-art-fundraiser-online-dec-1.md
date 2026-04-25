@@ -25,4 +25,4 @@ continues to build. You can feel the joy of giving the most treasured gift of ar
 unique pieces from our talented artists during this holiday season.
 
 
-http://https://www.32auctions.com/mistletoemagic2020
+[http://https://www.32auctions.com/mistletoemagic2020](http://https://www.32auctions.com/mistletoemagic2020)

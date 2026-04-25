@@ -24,7 +24,7 @@ volunteer organized and run.
 
 Festival Dates: June 2-5 in "Vancouver."
 
-MUSICIANS APPLY HERE: https://forms.gle/1ikokMzrRxrN5UgM9
+MUSICIANS APPLY HERE: [https://forms.gle/1ikokMzrRxrN5UgM9](https://forms.gle/1ikokMzrRxrN5UgM9)
 We welcome submissions from all genres/styles.
 DEADLINE: March 30, 2022
 

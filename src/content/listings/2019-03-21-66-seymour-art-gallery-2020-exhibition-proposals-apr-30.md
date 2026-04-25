@@ -43,7 +43,7 @@ members ($25 for annual membership).
 
 APPLY ONLINE:
 
-https://www.seymourartgallery.com/exhibitions/exhibition-proposals/
+[https://www.seymourartgallery.com/exhibitions/exhibition-proposals/](https://www.seymourartgallery.com/exhibitions/exhibition-proposals/)
 
 SUBMISSION DEADLINE: Friday April 30, 2019
 

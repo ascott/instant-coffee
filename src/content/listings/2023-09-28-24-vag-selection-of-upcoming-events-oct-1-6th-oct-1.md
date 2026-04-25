@@ -24,7 +24,7 @@ October 1, 11 AM - 3 PM
 
 In honour of National Day for Truth and Reconciliation, learn about Indigenous
 design in this in-person workshop with Ungwa-Kasu Chris L. Wilson. Register here:
-https://www.vanartgallery.bc.ca/events/oct1openstudio
+[https://www.vanartgallery.bc.ca/events/oct1openstudio](https://www.vanartgallery.bc.ca/events/oct1openstudio)
 
 =======
 
@@ -37,7 +37,7 @@ discussion with invited guests Tara Klager, Aaron (Splash) Nelson MoodyTawxsin
 Yexwulla (Skwxw7mesh Nation) as they discuss clothing/cloth/material as it relates
 to embodied actions and reciprocal relations we have with one another, both human
 and the more than human. Learn more:
-https://www.vanartgallery.bc.ca/events/oct5forum
+[https://www.vanartgallery.bc.ca/events/oct5forum](https://www.vanartgallery.bc.ca/events/oct5forum)
 
 =======
 
@@ -46,4 +46,4 @@ Free First Friday Nights presented by BMO
 October 6 and November 3, 4-8 PM
 
 Join us for Free First Friday Night from 4"8 PM. Explore the Gallery for free! More
-info: https://www.vanartgallery.bc.ca/free
+info: [https://www.vanartgallery.bc.ca/free](https://www.vanartgallery.bc.ca/free)

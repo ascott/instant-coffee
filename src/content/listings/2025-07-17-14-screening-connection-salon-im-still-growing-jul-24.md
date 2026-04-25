@@ -14,7 +14,7 @@ Screening in celebration of Mad Pride Month.
 Thursday, July 24 | 5:30-7:30pm
 Gathering Place Community Centre (609 Helmcken Street, Vancouver)
 FREE. Light refreshments provided.
-RSVP: https://im-still-growing.eventbrite.ca
+RSVP: [https://im-still-growing.eventbrite.ca](https://im-still-growing.eventbrite.ca)
 
 From the whimsical to the psychedelic, from loud to contemplative, this beautiful
 short film program curated by Cinevolution explores the many faces of 'madness'
@@ -34,4 +34,4 @@ This event is presented by the Connection Salon, in partnership with the Gatheri
 Place Community Centre and Cinevolution Media Arts Society, with generous
 support from the BC Arts Council.
 
-To register or for more information, visit: https://im-still-growing.eventbrite.ca
+To register or for more information, visit: [https://im-still-growing.eventbrite.ca](https://im-still-growing.eventbrite.ca)

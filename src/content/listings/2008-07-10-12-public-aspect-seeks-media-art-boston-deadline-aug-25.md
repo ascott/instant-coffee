@@ -43,7 +43,7 @@ Boston, MA 02118
 All artists will be contacted via email regarding their submission no later than October 1st, 2008 
 
 For more information see our FAQ:
-http://www.aspectmag.com/contact/faq.cfm
+[http://www.aspectmag.com/contact/faq.cfm](http://www.aspectmag.com/contact/faq.cfm)
 
 Company Information: The mission of ASPECT is to foster a deeper and more intimate 
 understanding of contemporary new media art by expanding access, education, and distribution 

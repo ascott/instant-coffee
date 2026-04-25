@@ -64,7 +64,7 @@ magazine, he has written widely about indigenous political and cultural
 representation in Canada. Bear speaks the Maliseet language fluently 
 and was raised in Tobique First Nation, New Brunswick.
 
-To RSVP visit http://downstreamgathering.eventbrite.com
+To RSVP visit [http://downstreamgathering.eventbrite.com](http://downstreamgathering.eventbrite.com)
 
 The On Edge series gratefully acknowledges the support of the 
 Canada Council and Emily Carr University.

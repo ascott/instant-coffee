@@ -38,4 +38,4 @@ Date: Thursday, June 22
 Time: 6-8 PM
 Fee: $50
 
-BUY TICKETS: https://www.eventbrite.ca/e/650304156237
+BUY TICKETS: [https://www.eventbrite.ca/e/650304156237](https://www.eventbrite.ca/e/650304156237)

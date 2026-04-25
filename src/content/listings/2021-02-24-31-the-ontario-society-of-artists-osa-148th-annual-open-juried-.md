@@ -14,7 +14,7 @@ our 148th Annual Open Juried Exhibition of Fine Arts. To maintain public safety 
 COVID-19, an online Exhibition will be held from May 10-30, 2021. Details of the event will
 be provided to the artists at the notification date.
 
-To apply: https://form.jotform.com/210224523351239. We are using JotForm as our
+To apply: [https://form.jotform.com/210224523351239](https://form.jotform.com/210224523351239). We are using JotForm as our
 platform. A copy of your application will be emailed to you for your records upon payment
 and submission.
 

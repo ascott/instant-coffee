@@ -11,10 +11,10 @@ summary: "Western Front | Bernhard Stiegler - About the Neganthropocene... | OCT
 Bernard Stiegler Lecture: "About the Neganthropocene and Its
 Economy"
 Tues. Oct. 18 / 7:00pm / Western Front - 303 8th Ave E
-Tickets available at https://neganthropocene.eventbrite.com
-Further info: http://front.bc.ca/events/about-the-neganthropocene-
+Tickets available at [https://neganthropocene.eventbrite.com](https://neganthropocene.eventbrite.com)
+Further info: [http://front.bc.ca/events/about-the-neganthropocene-](http://front.bc.ca/events/about-the-neganthropocene-)
 and-its-economy/
-Facebook: https://www.facebook.com/events/246093849118396/
+Facebook: [https://www.facebook.com/events/246093849118396/](https://www.facebook.com/events/246093849118396/)
 
 We live in the Anthropocene. But is the Anthropocene bearable -
 that is: viable? Of course not. The Anthropocene is an
@@ -49,4 +49,4 @@ cognitive economy in the negentropocene.
 
 This event will be live-streamed on YouTube Live in cooperation
 with The New Centre for Research & Practice
-(http://thenewcentre.org) at: http://youtu.be/qBUKlSHPUR8
+([http://thenewcentre.org](http://thenewcentre.org)) at: [http://youtu.be/qBUKlSHPUR8](http://youtu.be/qBUKlSHPUR8)

@@ -61,7 +61,7 @@ representatives of a number of institutions, galleries, museums, libraries,
 archives and universities in the Lower Mainland to explore and participate
 in a range of activities and initiatives that seek to support collection-
 or institution-specific solutions.
-https://avbcheritage.wordpress.com/2014/02/23/avbc/
+[https://avbcheritage.wordpress.com/2014/02/23/avbc/](https://avbcheritage.wordpress.com/2014/02/23/avbc/)
 
 Cineworks Independent Filmmakers Society (est. 1980) is an artist-run
 production and exhibition centre that supports independent filmmakers and

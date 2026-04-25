@@ -27,4 +27,4 @@ Location: 2111 Main Street, Vancouver, BC V5T 3C6
 Date: December 7, 2024
 Time: 12pm-5pm
 
-https://www.firstsaturday.ca/next-open-studios
+[https://www.firstsaturday.ca/next-open-studios](https://www.firstsaturday.ca/next-open-studios)

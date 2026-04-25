@@ -65,5 +65,5 @@ atmosphere.
 Ocean Art Walks
 With MACCA, ArtPod, Scianew Youth, Sea Bluff Farm, and CRD Arts
 
-Information: MetchosinOceanArt.substack.com /// http://civicstudies.ca/ocean-art/
+Information: MetchosinOceanArt.substack.com /// [http://civicstudies.ca/ocean-art/](http://civicstudies.ca/ocean-art/)
 Initiative of artist Dyan Marie

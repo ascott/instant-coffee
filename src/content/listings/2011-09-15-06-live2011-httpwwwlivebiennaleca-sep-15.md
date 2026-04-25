@@ -11,7 +11,7 @@ summary: "LIVE2011 | http://www.livebiennale.ca | SEP 15"
 LIVE 2011 | Sept 15 to 25
 
 Find out more about the festival's phenomenal line up here: 
-http://www.livebiennale.ca/
+[http://www.livebiennale.ca/](http://www.livebiennale.ca/)
 
 Opening Night: Thursday, Sept. 15, 7:30PM
 Fortner Anderson, Dana Claxton and Jean Depuy
@@ -83,4 +83,4 @@ Creative Destruction by Matthew Buckingham
 _____
 
 If you post images of the shows on flickr or twitter use the tag "urlive" and they 
-will show up on our website http://www.livebiennale.ca/
+will show up on our website [http://www.livebiennale.ca/](http://www.livebiennale.ca/)

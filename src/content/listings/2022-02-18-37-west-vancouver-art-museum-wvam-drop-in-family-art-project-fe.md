@@ -16,4 +16,4 @@ On the last Saturday of every month, the WVAM Family Art Project invites familie
 in to the museums activities room for a FREE afternoon art workshop. All art supplies are
 provided and this program. Registration is not required and drop-ins are welcomed. This
 event is generously supported by the West Vancouver Foundation.
-https://westvancouverartmuseum.ca/general/wvam-drop-family-art-projects.
+[https://westvancouverartmuseum.ca/general/wvam-drop-family-art-projects](https://westvancouverartmuseum.ca/general/wvam-drop-family-art-projects).

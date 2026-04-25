@@ -20,5 +20,5 @@ music and dancing at the Fort Langley Community Hall; but the variety and qualit
 artwork available at the auction will endure.
 Bidding will be available in person at the
 gallery November 12-December 6 and online the last week of the exhibition through
-Instagram: https://www.instagram.com/fortgallery/ . To bid online, simply add your bid to
+Instagram: [https://www.instagram.com/fortgallery/](https://www.instagram.com/fortgallery/) . To bid online, simply add your bid to
 the posted artwork in the comments.

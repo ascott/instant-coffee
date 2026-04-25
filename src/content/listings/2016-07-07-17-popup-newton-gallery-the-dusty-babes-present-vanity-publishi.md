@@ -23,4 +23,4 @@ Description: A group exhibition and artist residency investigating
 femininity, ritual, and perception.
 
 Facebook event page: 
-https://www.facebook.com/events/1064068836980263/
+[https://www.facebook.com/events/1064068836980263/](https://www.facebook.com/events/1064068836980263/)

@@ -34,12 +34,12 @@ PRESENTATION FORMATS:
 • any other way of demonstration to the presenter's discretion
 
 SUBMISSION GUIDELINES & REGISTRATION:
-http://www.iugte.com/projects/conf.reg.php
+[http://www.iugte.com/projects/conf.reg.php](http://www.iugte.com/projects/conf.reg.php)
 
 ACCOMODATION & VENUE (Bovec mountain resort): 
-http://www.iugte.com/projects/Bovec.venue.php
+[http://www.iugte.com/projects/Bovec.venue.php](http://www.iugte.com/projects/Bovec.venue.php)
 
-CONFERENCE INFO: http://www.iugte.com/projects/Conference.php
+CONFERENCE INFO: [http://www.iugte.com/projects/Conference.php](http://www.iugte.com/projects/Conference.php)
 
 If you are unable to attend the conference there is opportunity to send your promotional 
 materials: booklets or flyers about your company, announcements of workshops, courses, 
@@ -47,4 +47,4 @@ performances and other events. All materials will be displayed at the main infor
 will be available to the delegates during the entire period of the conference.
 
 
-http://www.iugte.com/projects/conf.reg.php
+[http://www.iugte.com/projects/conf.reg.php](http://www.iugte.com/projects/conf.reg.php)

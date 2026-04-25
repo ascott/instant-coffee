@@ -27,4 +27,4 @@ Event Time: from 7:00 to 9:00 PM
 Address: Roundhouse Community Centre, 181 Roundhouse Mews, 
 Vancouver, BC
 Event Cost: FREE with CACV Membership
-Website info: http://www.cacv.ca/january-showcase
+Website info: [http://www.cacv.ca/january-showcase](http://www.cacv.ca/january-showcase)

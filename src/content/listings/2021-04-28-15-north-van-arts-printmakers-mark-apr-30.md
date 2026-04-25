@@ -14,7 +14,7 @@ CityScape Community ArtSpace
 April
 30 - May 29, 2021
 
-https://northvanarts.ca/events-exhibitions/printmakers-mark/
+[https://northvanarts.ca/events-exhibitions/printmakers-mark/](https://northvanarts.ca/events-exhibitions/printmakers-mark/)
 
 Printmaking dates back thousands of years: Sumerians used clay printing wheels in 3000
 BCE, Chinese used stone rubbings in 200 CE and Egyptians used woodblocks for

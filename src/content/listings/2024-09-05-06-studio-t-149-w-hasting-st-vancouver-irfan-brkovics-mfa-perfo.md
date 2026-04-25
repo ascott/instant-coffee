@@ -44,4 +44,4 @@ Contemporary Arts in Vancouver. Brkovic is also a video artist at The Wooster Gr
 and a founding member of Phase Space NYC, a collective dedicated to exploring
 media, performance, creative coding, and interdisciplinary art practices.
 
-http://https://www.eventbrite.ca/e/0x2e-tickets-995544258
+[http://https://www.eventbrite.ca/e/0x2e-tickets-995544258](http://https://www.eventbrite.ca/e/0x2e-tickets-995544258)

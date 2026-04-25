@@ -16,7 +16,7 @@ Oct 25 - Nov 20, 2019
 
 Opening: Friday Oct 25, 6-8pm
 
-More info: http://vispo.com/massy
+More info: [http://vispo.com/massy](http://vispo.com/massy)
 
 Jim Andrews created the images in this show with Aleph Null, online
 software he wrote that he calls a "graphic synthesizer"; it's part tool,
@@ -29,4 +29,4 @@ will feature archival, high-res, facemounted prints plus one computer
 screen that will display a slideshow of 1500 images created with Aleph Null.
 
 For the artist statement and a catalog of available prints--and for
-links to Aleph Null itself--please visit http://vispo.com/massy
+links to Aleph Null itself--please visit [http://vispo.com/massy](http://vispo.com/massy)

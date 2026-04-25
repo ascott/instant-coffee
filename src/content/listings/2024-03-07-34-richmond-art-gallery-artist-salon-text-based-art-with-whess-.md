@@ -66,4 +66,4 @@ presents a different guest presenter for inspirational talks and professional
 development advice for visual artists.
 Past online sessions from 2020 onwards were recorded and may be viewed online at
 the
-https://www.richmondartgallery.org/rag-at-home/ragathomevideo#artistsalon.
+[https://www.richmondartgallery.org/rag-at-home/ragathomevideo#artistsalon](https://www.richmondartgallery.org/rag-at-home/ragathomevideo#artistsalon).

@@ -22,4 +22,4 @@ The festival takes place in the first week of September 2019 and Submissions clo
 Accessibility and equity are so good, let us know what you need in that regard at 
 victoriashortfilmfest@gmail.com. 
 
-Submit on Filmfreeway here: https://filmfreeway.com/VictoriaShortFilmFestival
+Submit on Filmfreeway here: [https://filmfreeway.com/VictoriaShortFilmFestival](https://filmfreeway.com/VictoriaShortFilmFestival)

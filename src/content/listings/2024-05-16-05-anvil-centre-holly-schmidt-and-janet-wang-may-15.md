@@ -18,7 +18,7 @@ Anvil Centre, 1st Floor
 
 Free. No Registration Required.
 
-More Information: https://www.newwestcity.ca/calendar-of-events/events/7651/2024-
+More Information: [https://www.newwestcity.ca/calendar-of-events/events/7651/2024-](https://www.newwestcity.ca/calendar-of-events/events/7651/2024-)
 05.php
 
 Join artists Holly Schmidt and
@@ -30,5 +30,5 @@ learn about their research, experimentations, interventions as well as their
 reflections on their time at the house.
 
 Learn more about the Artist Residency:
-https://www.newwestcity.ca/publicart#projects-in-progress-irving-house-artist-in-
+[https://www.newwestcity.ca/publicart#projects-in-progress-irving-house-artist-in-](https://www.newwestcity.ca/publicart#projects-in-progress-irving-house-artist-in-)
 residence-pilot

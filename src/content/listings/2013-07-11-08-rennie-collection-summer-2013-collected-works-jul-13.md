@@ -13,7 +13,7 @@ Rennie Collection: Summer 2013 Collected Works
 July 13 to October 5, 2013
 
 Tours begin July 18; book here:
-http://www.renniecollection.org/contact/index.php
+[http://www.renniecollection.org/contact/index.php](http://www.renniecollection.org/contact/index.php)
 
 Rennie Collection is pleased to present an exhibition of works by a
 selection of internationally renowned artists: Pablo Bronstein, Aaron

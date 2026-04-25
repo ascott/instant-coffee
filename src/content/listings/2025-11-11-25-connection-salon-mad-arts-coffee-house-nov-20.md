@@ -23,4 +23,4 @@ Collective, and the Gathering Place Community Centre.
 Thank you,
 Connection Salon Artists Collective
 connectionsalon9@gmail.com
-https://connectionsalon.ca/
+[https://connectionsalon.ca/](https://connectionsalon.ca/)

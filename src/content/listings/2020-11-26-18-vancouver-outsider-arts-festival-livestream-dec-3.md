@@ -21,4 +21,4 @@ The festival schedule is now live, please visit cacv.ca for the full festival li
 If you're interested in seeing the artworks in person, they will be exhibited at the Lost &
 Found Cafe, in partnership with Connections Salon, from November 9, 2020 - January 9,
 2021.
-http://cacv.ca
+[http://cacv.ca](http://cacv.ca)

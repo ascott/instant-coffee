@@ -17,7 +17,7 @@ Workshop 2pm start
 Free event
 Hosted on Zoom
 Register on Eventbrite
-https://www.eventbrite.ca/e/protest-letters-then-and-now-tickets-229110795557?
+[https://www.eventbrite.ca/e/protest-letters-then-and-now-tickets-229110795557](https://www.eventbrite.ca/e/protest-letters-then-and-now-tickets-229110795557)?
 aff=odeimcmailchimp&mc_cid=5ceb9bb469&mc_eid=15436e847e
 
 Writing Wrongs: Japanese Canadian Protest Letters of the 1940s is an online exhibit

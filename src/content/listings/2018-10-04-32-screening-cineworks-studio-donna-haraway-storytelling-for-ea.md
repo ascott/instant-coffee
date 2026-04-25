@@ -51,7 +51,7 @@ This event is partnered with the following Text To Speech reading group reading:
 Tentacular Thinking: Anthropocene, Capitalocene, Chthulucene 
 Donna Haraway
 
-16 Oct; 7.00pm-10.00pm; https://goo.gl/52sZ2d
+16 Oct; 7.00pm-10.00pm; [https://goo.gl/52sZ2d](https://goo.gl/52sZ2d)
 
 
 Film rental provided by Icarus Films

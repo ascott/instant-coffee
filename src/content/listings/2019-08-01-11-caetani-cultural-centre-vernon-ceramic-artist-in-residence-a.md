@@ -25,7 +25,7 @@ walking distance of downtown Vernon.)
 NOT INCLUDED IN THE RESIDENCY: travel expenses, food, health insurance, writing 
 materials, shipping costs, art supplies and other personal expenses.
 
-LEARN MORE + APPLY HERE: https://www.caetani.org/ceramair-ceramics-residency/
+LEARN MORE + APPLY HERE: [https://www.caetani.org/ceramair-ceramics-residency/](https://www.caetani.org/ceramair-ceramics-residency/)
 
 E-mail air@caetani.org with any questions.
 

@@ -11,7 +11,7 @@ summary: "VIVO [ONLINE] | WORKSHOP | Small File Media Aesthetics & Politics | MA
 Small File Media Aesthetics & Politics -- online workshop
 
 More info and sign up at:
-https://smallfilemedia.eventbrite.ca
+[https://smallfilemedia.eventbrite.ca](https://smallfilemedia.eventbrite.ca)
 
 Make beautiful low-bandwidth movies that stream with no damage to the planet, with
 Laura Marks and Radek Przedpelski of the Small File Media Festival.

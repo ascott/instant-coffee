@@ -37,4 +37,4 @@ The
 gallery relocated to Artscape 906 Queen West in 2019 and will remain at this swing-
 space until renovations are completed at its original location in the Macdonald Block (at Bay
 Wellesley) in 2024-25.
-http://www.airdgallery.org
+[http://www.airdgallery.org](http://www.airdgallery.org)

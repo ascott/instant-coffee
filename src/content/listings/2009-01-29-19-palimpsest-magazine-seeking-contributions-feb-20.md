@@ -10,7 +10,7 @@ summary: "PALIMPSEST MAGAZINE | SEEKING CONTRIBUTIONS | FEB 20"
 
 SEEKING CONTRIBUTIONS FOR PALIMPSEST MAGAZINE: A MULTIMEDIA ARTS&LIT
 PERIODICAL.
-http://palimpsest.ca
+[http://palimpsest.ca](http://palimpsest.ca)
 
 PALIMPSEST magazine is a rotating, web-based, multimedia library, compiling
 a selection of works within a set theme for each issue. It will publish its
@@ -29,7 +29,7 @@ complimentary, intended to create shape and to provide narrative, to
 promote dialogue between different perspectives and different media,
 without restricting content.
 
-For information, please visit us at http://palimpsest.ca, or email
+For information, please visit us at [http://palimpsest.ca](http://palimpsest.ca), or email
 palimpsestmagazine at gmail dot com.
 
 Deadlines:

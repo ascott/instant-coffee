@@ -51,7 +51,7 @@ August 18, 2020
 members of the BIPOC and/or LGBTQ2S+ communities to support artists facing
 statistically fewer opportunities in galleries, magazines, and institutions.)
 
-https://www.thegatheredgallery.com/event-details/trade-secrets-art-writing-with-tatum-
+[https://www.thegatheredgallery.com/event-details/trade-secrets-art-writing-with-tatum-](https://www.thegatheredgallery.com/event-details/trade-secrets-art-writing-with-tatum-)
 dooley
 
 About Tatum Dooley:

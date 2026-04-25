@@ -52,6 +52,6 @@ This year we have greatly expanded the programming and capacity.
 
 $18 for first wave of advance tickets. Second wave tickets at $22, and $25 at the door. Entry 
 to this event is also included in the Alternative Pride Weekend Pass (Limited, with RSVP).
-All tickets and weekend passes are available at http://alternativepride.ca/
+All tickets and weekend passes are available at [http://alternativepride.ca/](http://alternativepride.ca/)
 
 For further information and press inquiries: onmain@gmail.com

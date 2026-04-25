@@ -18,4 +18,4 @@ Only selected applicants will be contacted.
 
 We look forward to your submissions!
 
-https://vancouver.ca/parks-recreation-culture/utility-wrap-artist-call.aspx
+[https://vancouver.ca/parks-recreation-culture/utility-wrap-artist-call.aspx](https://vancouver.ca/parks-recreation-culture/utility-wrap-artist-call.aspx)

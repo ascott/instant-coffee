@@ -45,4 +45,4 @@ forms of oppression. As King George waits in storage, the Belkin has set out to
 reassess the future of the statue on UBC campus by considering the reverberations
 of monuments through open critical dialogue.
 
-https://belkin.ubc.ca/events/panel-discussion-monuments/
+[https://belkin.ubc.ca/events/panel-discussion-monuments/](https://belkin.ubc.ca/events/panel-discussion-monuments/)

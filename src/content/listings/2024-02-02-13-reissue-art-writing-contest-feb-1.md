@@ -25,7 +25,7 @@ Reissues style guidelines (available as a PDF on our About page).
 Submit to: editor@reissue.pub
 
 Submission Guidelines: click here
-https://reissue.pub/
+[https://reissue.pub/](https://reissue.pub/)
 
 Deadline for submissions: February 1, 2024
 

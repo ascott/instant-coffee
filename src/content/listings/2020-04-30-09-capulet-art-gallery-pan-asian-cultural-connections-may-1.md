@@ -19,4 +19,4 @@ The artists include Raymond Chow, Chrissy Cheung, Taka Sudo, William Liao,
 Farahnaz Samari, Caroline Dahlmanns, Lauren Brevner, Broderick Wong, Jace Kim,
 Banny Jayanata and Yukiko Adachi.
 
-Please check -in with this link : https://explorasian.org/integration-art-culture-canada/
+Please check -in with this link : [https://explorasian.org/integration-art-culture-canada/](https://explorasian.org/integration-art-culture-canada/)

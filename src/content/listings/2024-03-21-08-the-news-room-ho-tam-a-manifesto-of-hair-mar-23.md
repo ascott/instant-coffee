@@ -60,7 +60,7 @@ Vancouver BC V5T 1G5
 
 Hours: Saturday 1 to 5 PM
 
-https://bookshopgallery.hotampress.com
+[https://bookshopgallery.hotampress.com](https://bookshopgallery.hotampress.com)
 
 hotampress@gmail.com
 

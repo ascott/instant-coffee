@@ -20,13 +20,13 @@ dispossession continue to this day.
 Due to pandemic pivots, our launch will be by livestream only, starting at 1pm pacific time.
 Limited time ticketed in person exhibit viewing is available from 2:30 - 5:30.
 
-We invite you 'attend' the event on Youtube https://youtu.be/qdhlzDr1Jwk
+We invite you 'attend' the event on Youtube [https://youtu.be/qdhlzDr1Jwk](https://youtu.be/qdhlzDr1Jwk)
 
 Please like and share our facebook event page
-https://www.facebook.com/events/363483971449899/
+[https://www.facebook.com/events/363483971449899/](https://www.facebook.com/events/363483971449899/)
 
 From September 29, 2020 through April 2021, the exhibit will be open 10am - 5pm
 Tuesday - Saturday during regular operating hours.
 COVID protocols are in place. The exhibit has a limited capacity of 8 people.
 For updates and information on future exhibit programs please visit
-https://centre.nikkeiplace.org/exhibits/broken-promise
+[https://centre.nikkeiplace.org/exhibits/broken-promise](https://centre.nikkeiplace.org/exhibits/broken-promise)

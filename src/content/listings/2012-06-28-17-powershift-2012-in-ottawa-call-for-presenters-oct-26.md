@@ -159,10 +159,10 @@ PowerShift 2012 and will let you indicate if you want to facilitate the
 caucus.
 
 Links to all forms:
-Skill-based workshops - http://tiny.cc/9hfyfw
-Panelists and speakers - http://tiny.cc/6bfyfw
-Issue-based workshops - http://tiny.cc/19eyfw
-Caucuses - http://tiny.cc/fdfyfw
+Skill-based workshops - [http://tiny.cc/9hfyfw](http://tiny.cc/9hfyfw)
+Panelists and speakers - [http://tiny.cc/6bfyfw](http://tiny.cc/6bfyfw)
+Issue-based workshops - [http://tiny.cc/19eyfw](http://tiny.cc/19eyfw)
+Caucuses - [http://tiny.cc/fdfyfw](http://tiny.cc/fdfyfw)
 
 We look forward to working with you. PLEASE SHARE THIS CALL-OUT 
 WIDELY.

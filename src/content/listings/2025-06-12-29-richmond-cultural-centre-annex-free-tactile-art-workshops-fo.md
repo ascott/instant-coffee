@@ -13,7 +13,7 @@ July 5 - July 12, 2025
 1:00 PM - 3:00 PM Daily
 Creativity Lab, Richmond Cultural Centre Annex
 Sign Up Here:
-https://www.richmondartgallery.org/tactile
+[https://www.richmondartgallery.org/tactile](https://www.richmondartgallery.org/tactile)
 
 These free art-making workshops are thoughtfully designed for Blind, d/Deaf, and
 Non-Verbal participants, as well as anyone curious about inclusive, accessible art

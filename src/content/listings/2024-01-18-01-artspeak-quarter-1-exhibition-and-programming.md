@@ -20,4 +20,4 @@ February 24 | 8pm | Glow in the Dark Closing with DJ Nea x Made By We
 February 29 | 6pm | Film Screening: Black Art in the
 Absence of Light
 
-https://artspeak.ca/
+[https://artspeak.ca/](https://artspeak.ca/)

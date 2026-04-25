@@ -21,4 +21,4 @@ the subjects and their connection to their
 ancestors is understood through lineage and
 their relationship to the land that makes up so-called Canada.
 
-More here: https://libby.ecuad.ca/events/2022/related-film-screenings.html
+More here: [https://libby.ecuad.ca/events/2022/related-film-screenings.html](https://libby.ecuad.ca/events/2022/related-film-screenings.html)

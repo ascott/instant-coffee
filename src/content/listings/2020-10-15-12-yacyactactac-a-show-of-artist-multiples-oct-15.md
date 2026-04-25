@@ -48,7 +48,7 @@ TacTacYacYacTacTacYacYac TacTacYacYacTacTacYacYacTacTacYacYac
 TacTacYacYacTacTacYacYac TacTacYacYacTacTacYacYacTacTacYacYac
 
 Please join our discussion on Facebook.
-https://www.facebook.com/Yactac
+[https://www.facebook.com/Yactac](https://www.facebook.com/Yactac)
 
 ----
 

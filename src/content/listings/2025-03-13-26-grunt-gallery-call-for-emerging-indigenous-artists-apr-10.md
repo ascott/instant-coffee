@@ -27,7 +27,7 @@ Indigenous Performance Art through presentations, performances, and group
 gatherings. Additionally, Dana Claxton and Tania Willard curated a website to act as
 an archive of both the conference and other performance works from Indigenous
 artists who have worked with grunt since. View this archive at
-https://indianacts.gruntarchives.org/.
+[https://indianacts.gruntarchives.org/](https://indianacts.gruntarchives.org/).
 
 NDN ACT II, curated by Vance Wright, is a dynamic workshop program aiming to
 connect emerging Indigenous artists with curatorial support, critical texts, and an

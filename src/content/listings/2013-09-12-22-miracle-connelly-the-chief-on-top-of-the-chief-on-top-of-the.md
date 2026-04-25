@@ -13,7 +13,7 @@ an exhibition entitled
 The Chief on Top of The Chief, On Top of The Chief: 2nd Peak
 
 This is the sequel to 2012's initiating exhibition: The Chief on Top of The Chief 
-(http://miracleandconnellypresents.us5.list-manage1.com/track/click?
+([http://miracleandconnellypresents.us5.list-manage1.com/track/click](http://miracleandconnellypresents.us5.list-manage1.com/track/click)?
 u=e2227107c106067a9cb77b0ce&id=71aa285166&e=d28f69039d)
 
 Second Peak, Chief Stawamus
@@ -34,11 +34,11 @@ x
 
 For further inquiries please write us@miracleandconnellypresents.com
 
-http://miracleandconnellypresents.us5.list-manage1.com/track/click?
+[http://miracleandconnellypresents.us5.list-manage1.com/track/click](http://miracleandconnellypresents.us5.list-manage1.com/track/click)?
 u=e2227107c106067a9cb77b0ce&id=fb64737fc6&e=d28f69039d
 ==============================================
 
 Unsubscribe vancouver@instantcoffee.org from this list:
-http://miracleandconnellypresents.us5.list-manage.com/unsubscribe?
+[http://miracleandconnellypresents.us5.list-manage.com/unsubscribe](http://miracleandconnellypresents.us5.list-manage.com/unsubscribe)?
 u=e2227107c106067a9cb77b0ce&id=305f98edf2&e=d28f69039d&c=039afdad
 2c

@@ -65,7 +65,7 @@ member of Creative Commons, a board member of the Software Freedom Law
 Center and a former board member of the Electronic Frontier Foundation.
 
 Wireside Chat w/ Lawrence Lessig:
-http://openvideoalliance.org/event/lessig/?l=en
+[http://openvideoalliance.org/event/lessig/?l=en](http://openvideoalliance.org/event/lessig/?l=en)
 
 Jean HÂ©bert (@jeanh)| PhD Candidate and Sessional Instructor in the School
 of Communication at Simon Fraser University. He is also the Program Manager
@@ -83,7 +83,7 @@ on the 2010 Olympic Winter Games in Vancouver with the world during the
 month of February 2010.
 An overview of W2 Culture+Media House operated by W2 Community Media Arts
 is covered by City of Vancouver's Snap 2010 Stories seen here:
-http://www.youtube.com/vancouvercityhall#p/a/u/2/yf8JDncHpoE.
+[http://www.youtube.com/vancouvercityhall#p/a/u/2/yf8JDncHpoE](http://www.youtube.com/vancouvercityhall#p/a/u/2/yf8JDncHpoE).
 
 W2 Community Media Arts is a highly anticipated project opening in 2010 at
 the landmark Woodward's redevelopment in downtown Vancouver, British

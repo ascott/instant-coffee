@@ -10,7 +10,7 @@ summary: "The Shooting Gallery | Performance Series #12 | MAR 4"
 
 Shooting Gallery Performance Series #12
 
-FB event: https://www.facebook.com/events/1489995438214459/
+FB event: [https://www.facebook.com/events/1489995438214459/](https://www.facebook.com/events/1489995438214459/)
 
 March 4th - 9th, join us for a series of live digital presentations, followed by an in-
 person wrap up event!
@@ -20,7 +20,7 @@ the series,
 you will receive an email in your inbox with links to the day's artistic
 offerings!
 
-https://shooting-gallery-performance.square.site
+[https://shooting-gallery-performance.square.site](https://shooting-gallery-performance.square.site)
 Featuring new performance by:
 Larkin Schering
 Juliana Loh

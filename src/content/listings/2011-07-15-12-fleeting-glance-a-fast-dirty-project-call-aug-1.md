@@ -25,4 +25,4 @@ fastanddirtycollective@gmail.com
 by August 1, 2011.
 
 For more information about fast & dirty, please visit our Facebook
-page:http://www.facebook.com/pages/Fast-Dirty/145598425509022
+page:[http://www.facebook.com/pages/Fast-Dirty/145598425509022](http://www.facebook.com/pages/Fast-Dirty/145598425509022)

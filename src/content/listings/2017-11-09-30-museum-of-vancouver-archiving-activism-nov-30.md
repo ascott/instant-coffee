@@ -65,7 +65,7 @@ University in Montreal, where he was the outreach coordinator for a worker-run
 community kitchen.
 Admission: *Adults: $19; Seniors and Students: $16; MOV Members: Free; Individuals 
 who self identify as First Nations: Free. 
-Registration: http://www.museumofvancouver.ca/content/archiving-activism
+Registration: [http://www.museumofvancouver.ca/content/archiving-activism](http://www.museumofvancouver.ca/content/archiving-activism)
 Gallery admission included with event ticket. Come early and explore.
 
 Museum of Vancouver 

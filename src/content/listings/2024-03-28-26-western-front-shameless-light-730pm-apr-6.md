@@ -19,5 +19,5 @@ Location:Rear gallery, Western Front
 Admission:Free, registration recommended
 
 Tickets:
-https://westernfront.us1.list-manage.com/track/click?
+[https://westernfront.us1.list-manage.com/track/click](https://westernfront.us1.list-manage.com/track/click)?
 u=95b67aa064ba83de5822da85f&id=0d1f42c46d&e=2634577b18

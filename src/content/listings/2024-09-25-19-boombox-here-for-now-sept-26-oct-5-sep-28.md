@@ -22,13 +22,13 @@ theyve stitched together. Here For Now Vol. 4 promises bold, irreverent new work
 from three artists making brave and vulnerable contemporary performance.
 
 Tickets:
-https://www.zeffy.com/en-CA/ticketing/98b02ea0-3a02-4117-83a5-60a7114f9242
+[https://www.zeffy.com/en-CA/ticketing/98b02ea0-3a02-4117-83a5-60a7114f9242](https://www.zeffy.com/en-CA/ticketing/98b02ea0-3a02-4117-83a5-60a7114f9242)
 
 More Info:
-https://herefornowperformance.com/vol-4/
+[https://herefornowperformance.com/vol-4/](https://herefornowperformance.com/vol-4/)
 
 Instagram:
-https://www.instagram.com/herefornowperformance/
+[https://www.instagram.com/herefornowperformance/](https://www.instagram.com/herefornowperformance/)
 
 Frankenkenstein
 (theatre)

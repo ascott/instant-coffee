@@ -24,7 +24,7 @@ The presentation will run for 90 minutes, plus a 10 minute intermission and a 20
 Q&A.
 
 Tickets: Sliding scale, PWYC by donation. Suggested $15-$30
-https://www.eventbrite.ca/e/lobe-artist-residency-series-spiders-song-by-future-
+[https://www.eventbrite.ca/e/lobe-artist-residency-series-spiders-song-by-future-](https://www.eventbrite.ca/e/lobe-artist-residency-series-spiders-song-by-future-)
 ecologies-tickets-649188910507
 
-More from Future Ecologies: https://www.futureecologies.net/
+More from Future Ecologies: [https://www.futureecologies.net/](https://www.futureecologies.net/)

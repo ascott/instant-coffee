@@ -60,7 +60,7 @@ For program detail, visit www.centrea.org under "headlines".
 October 15. This will benefit both the morning and afternoon sessions. The 
 exhibition fs opening reception at MOA on October 13 from 7-9pm is open to the 
 public.
-http://www.moa.ubc.ca/exhibits/
+[http://www.moa.ubc.ca/exhibits/](http://www.moa.ubc.ca/exhibits/)
 
 Symposium Patron:The Audain Foundation
 

@@ -28,4 +28,4 @@ words).
 
 Deadline For Abstracts: June 29, 2026
 First Drafts Due: November 16, 2026
-Submission Details: https://utppublishing.com/journal/ctr/call-for-papers
+Submission Details: [https://utppublishing.com/journal/ctr/call-for-papers](https://utppublishing.com/journal/ctr/call-for-papers)

@@ -26,8 +26,8 @@ Setareh Yasan. Curated by Benjamin J. Allard.
 
 when: April 3 to 9 
 at: The Gold Saucer Studio (211 - 207 West Hastings Street, Vancouver.)
-More information at http://www.beyondspectacle.org/
-Facebook: https://www.facebook.com/beyondspectacle
+More information at [http://www.beyondspectacle.org/](http://www.beyondspectacle.org/)
+Facebook: [https://www.facebook.com/beyondspectacle](https://www.facebook.com/beyondspectacle)
 
 SCHEDULE
 " 3. April - Monday

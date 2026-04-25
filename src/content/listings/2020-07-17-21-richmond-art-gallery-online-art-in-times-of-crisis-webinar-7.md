@@ -26,7 +26,7 @@ instances where creative thinking was ignited and driven out of the individual o
 nature of conflicting situations.
 
 Register for the live online event and join in the discussion.
-https://us02web.zoom.us/webinar/register/WN_Ob1uVYBhT_Oh88gnGCQpiA
+[https://us02web.zoom.us/webinar/register/WN_Ob1uVYBhT_Oh88gnGCQpiA](https://us02web.zoom.us/webinar/register/WN_Ob1uVYBhT_Oh88gnGCQpiA)
 
 About the Presenter:
 Jairo Salazar earned his M.A. in art history from the University of North Texas in 2008. His
@@ -45,4 +45,4 @@ connection in the
 era of physical distancing. Everyone is invited to join through the
 webinar platform Zoom.
 
-For more information on the Richmond Art Gallery: http://www.richmondartgallery.org/
+For more information on the Richmond Art Gallery: [http://www.richmondartgallery.org/](http://www.richmondartgallery.org/)

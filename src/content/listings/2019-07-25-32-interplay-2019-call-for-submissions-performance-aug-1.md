@@ -11,7 +11,7 @@ summary: "Interplay 2019 | Call for Submissions - Performance | AUG 1"
 Interplay 2019
 
 Call to artists from all disciplines who are working in/via performance: 
-http://bit.ly/interplay2019call
+[http://bit.ly/interplay2019call](http://bit.ly/interplay2019call)
 
 Interplay produces works that promote, challenge and experiment with collaborative 
 and/or multidisciplinary creation and/or performance. It is open to all artists, from all 
@@ -23,7 +23,7 @@ Prince Albert St, on Musqueam, Squamish and Tsleil-Waututh territory (Vancouver)
 city's only clubhouse theatre in a park, the accessible studio converts into a black box 
 theatre and has a sprung Marley floor.
 
-Please see the call for more info and to apply: http://bit.ly/interplay2019call or contact: 
-http://mutablesubject.ca
+Please see the call for more info and to apply: [http://bit.ly/interplay2019call](http://bit.ly/interplay2019call) or contact: 
+[http://mutablesubject.ca](http://mutablesubject.ca)
 
 DEADLINE AUG 1, 11:59PM

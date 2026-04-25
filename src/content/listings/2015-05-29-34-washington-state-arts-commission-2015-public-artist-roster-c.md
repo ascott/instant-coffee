@@ -20,7 +20,7 @@ commissions of site-responsive works of art at K-12 schools, colleges,
 universities, and state agencies throughout Washington State.
 
 For more information and submission guidelines:
-http://www.arts.wa.gov/public-art/2015-roster-competition
+[http://www.arts.wa.gov/public-art/2015-roster-competition](http://www.arts.wa.gov/public-art/2015-roster-competition)
 
 For questions regarding the submission requirements or process, contact the
 Washington State Arts Commission by email at

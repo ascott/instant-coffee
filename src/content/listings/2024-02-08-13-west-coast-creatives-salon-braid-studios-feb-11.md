@@ -24,7 +24,7 @@ that will be taken that day.
 
 The second half of the salon will be open to presentations from guests.
 
-RSVP on our website: https://westcoastcreativessalon.com/
+RSVP on our website: [https://westcoastcreativessalon.com/](https://westcoastcreativessalon.com/)
 
 Much appreciated!
 

@@ -26,7 +26,7 @@ assignments are available (please send a sample of your writing).
 Submissions can be emailed to frontmagazine@front.bc.ca.
 
 For full submission guidelines, please see
-http://front.bc.ca/frontmagazine/submissions
+[http://front.bc.ca/frontmagazine/submissions](http://front.bc.ca/frontmagazine/submissions)
 
 Front Magazine is Vancouvers favourite 20-year-long cultural exploration.
 It is published quarterly by the Western Front Society in Vancouver and

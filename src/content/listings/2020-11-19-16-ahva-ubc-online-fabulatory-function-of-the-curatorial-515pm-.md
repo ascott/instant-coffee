@@ -21,7 +21,7 @@ A public lecture by Emelie Chhangur
 
 This event is free and open to the public.
 Please register for the talk at:
-https://ubc.zoom.us/webinar/register/WN_sMbVdNfESHqhvraGu9sUmw
+[https://ubc.zoom.us/webinar/register/WN_sMbVdNfESHqhvraGu9sUmw](https://ubc.zoom.us/webinar/register/WN_sMbVdNfESHqhvraGu9sUmw)
 
 Considering the larger concept of curating on a continuum, Chhangur simultaneously
 looks backwards and forwards with a view of her practice as a portal of multi-directional

@@ -12,7 +12,7 @@ VIVO MEDIA ARTS CENTRE PRESENTS
 THE 9TH SIGNAL + NOISE MEDIA ART FESTIVAL
 APRIL 23 TO 27, 2009
 
-http://signalandnoise.ca
+[http://signalandnoise.ca](http://signalandnoise.ca)
 
 BAROQUE MINIMALISM | Unicorns | DIGITAL FOLK ART | Animal Mirror |
 TURNTABLE POETRY | Fever Dream | COLLAPSING FRAMES | The Pit Of Babel
@@ -77,7 +77,7 @@ David Thorne
 Ryan Trecartin
 Rafael Tsuchida
 
-http://signalandnoise.ca
+[http://signalandnoise.ca](http://signalandnoise.ca)
 
 Signal & Noise Media Art Festival is presented by VIVO Media Arts
 Centre and generously supported by The Canada Council for the Arts |

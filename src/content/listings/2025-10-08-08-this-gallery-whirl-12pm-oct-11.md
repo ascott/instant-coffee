@@ -24,4 +24,4 @@ Opening Reception: Saturday, October 11, 12-4 pm
 
 THIS Gallery, 108 East Broadway (alley), Vancouver, BC
 
-https://thisgallery.org/
+[https://thisgallery.org/](https://thisgallery.org/)

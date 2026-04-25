@@ -13,7 +13,7 @@ Artist Salon Webinar with Lou Sheppard
 Tuesday, May 26, 2020
 7:00 PM - 8:30 PM
 Register here for this free online event:
-https://us02web.zoom.us/webinar/register/WN_0-Wt4LoNQEq2hM7QawZ9-A
+[https://us02web.zoom.us/webinar/register/WN_0-Wt4LoNQEq2hM7QawZ9-A](https://us02web.zoom.us/webinar/register/WN_0-Wt4LoNQEq2hM7QawZ9-A)
 
 The Artist Salon Series features art professionals leading inspirational artist talks and
 professional development for visual artists. Session is free, but registration is required.
@@ -25,7 +25,7 @@ in residence can offer to a city, especially during the current pandemic.
 Join us to learn more about Lous art practice and bring your questions about artist
 residencies.
 
-More information: https://www.richmondartgallery.org/lou-sheppard/
+More information: [https://www.richmondartgallery.org/lou-sheppard/](https://www.richmondartgallery.org/lou-sheppard/)
 
 About the Artist:
 Lou Sheppard is a Canadian artist working in interdisciplinary audio, performance and

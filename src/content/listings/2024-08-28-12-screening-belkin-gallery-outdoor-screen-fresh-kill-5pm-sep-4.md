@@ -34,4 +34,4 @@ Fresh Kill will be screened on the Belkin's Outdoor Screen. Please bring your ow
 blankets and chairs; all seating is first-come, first-served. Please note, there is some
 nudity in the film.
 
-https://belkin.ubc.ca/events/film-screening-fresh-kill/
+[https://belkin.ubc.ca/events/film-screening-fresh-kill/](https://belkin.ubc.ca/events/film-screening-fresh-kill/)

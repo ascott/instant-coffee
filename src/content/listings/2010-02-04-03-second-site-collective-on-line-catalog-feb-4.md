@@ -13,7 +13,7 @@ Second Site collective
 February 4, 2010
 
 On-Line catalog launch at
-http://www.secondsitecollective.net/2009_VanDusen/index.html
+[http://www.secondsitecollective.net/2009_VanDusen/index.html](http://www.secondsitecollective.net/2009_VanDusen/index.html)
 
 Following our exhibition at VanDusen Botanical Garden in July and
 August 2009, we are launching our on-line "catalog" with an essay by

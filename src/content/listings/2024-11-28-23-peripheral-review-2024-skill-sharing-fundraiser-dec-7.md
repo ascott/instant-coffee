@@ -29,7 +29,7 @@ our online publication schedule, plus help us initiate a new paid Editor-in-Resi
 program for 2025. We have big goals for the next year, but we need your help. Bid
 on an item or buy a membership (or two!) to support PR!
 
-Go to the fundraiser page here: https://www.peripheralreview.com/auction/
+Go to the fundraiser page here: [https://www.peripheralreview.com/auction/](https://www.peripheralreview.com/auction/)
 --
 
-https://www.peripheralreview.com/auction/
+[https://www.peripheralreview.com/auction/](https://www.peripheralreview.com/auction/)

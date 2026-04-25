@@ -43,5 +43,5 @@ You can add your name to the letter by emailing:
 fightforbeautyopenletter@gmail.com 
 
 The open letter is available here: 
-https://docs.google.com/document/d/1j9zjnytulKIZJ1tevI207uvTHmXThhBNrAEvYJ_
+[https://docs.google.com/document/d/1j9zjnytulKIZJ1tevI207uvTHmXThhBNrAEvYJ_](https://docs.google.com/document/d/1j9zjnytulKIZJ1tevI207uvTHmXThhBNrAEvYJ_)
 YIfM/edit?usp=sharing

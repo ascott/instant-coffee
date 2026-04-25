@@ -10,7 +10,7 @@ summary: "The ACT Art Gallery | Lessons from a Living World | SEP 9"
 
 Lessons from a Living World
 
-https://theactmapleridge.org/lessons-from-a-living-world
+[https://theactmapleridge.org/lessons-from-a-living-world](https://theactmapleridge.org/lessons-from-a-living-world)
 
 September 9 " November 11, 2023
 

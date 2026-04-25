@@ -67,7 +67,7 @@ About The Pavilion
 The Pavilion is a project by artist-in-residence Holly Ward. Symbolic of difference and utopian 
 thinking, The Pavilion is a geodesic dome intended to serve as a catalyst for speculative thinking 
 and artistic experimentation.
-http://hollywardpavilion.blogspot.com/
+[http://hollywardpavilion.blogspot.com/](http://hollywardpavilion.blogspot.com/)
 
 About the Centre for Art in Public Spaces
 The Langara College Centre for Art in Public Spaces engages communities in the research, 

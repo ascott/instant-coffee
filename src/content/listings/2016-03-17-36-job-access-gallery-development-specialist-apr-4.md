@@ -32,4 +32,4 @@ educate Directors and staff so that these practices may be
 institutionalized for the long term.
 
 For more information about the position and the application procedure,
-please visit: http://accessgallery.ca/events/access-gallery-is-hiring/
+please visit: [http://accessgallery.ca/events/access-gallery-is-hiring/](http://accessgallery.ca/events/access-gallery-is-hiring/)

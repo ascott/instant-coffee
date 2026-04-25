@@ -64,4 +64,4 @@ another product of this invisible agenda? And most importantly, who is
 driving this thing?
 
 More information: 604 822 4563 or
-http://www.ahva.ubc.ca/eventsDetails.cfm?EventID=833&EventTypeNumID=5
+[http://www.ahva.ubc.ca/eventsDetails.cfm?EventID=833&EventTypeNumID=5](http://www.ahva.ubc.ca/eventsDetails.cfm?EventID=833&EventTypeNumID=5)

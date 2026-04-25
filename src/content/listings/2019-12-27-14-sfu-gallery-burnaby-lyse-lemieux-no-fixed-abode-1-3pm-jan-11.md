@@ -41,7 +41,7 @@ Lyse Lemieux is a Vancouver based artist.
 
 Curated by Melanie O'Brian
 
-https://www.sfu.ca/galleries/sfu-gallery/LyseLemieux.html
+[https://www.sfu.ca/galleries/sfu-gallery/LyseLemieux.html](https://www.sfu.ca/galleries/sfu-gallery/LyseLemieux.html)
 
 SFU GALLERY
 SFU Burnaby campus, Academic Quadrangle 3004

@@ -40,7 +40,7 @@ small neighbourhood mall. In April 2015, she will be doing another mall
 residency at Chinatown Centre Mall in Toronto, as a part of Images Festival.
 
 Michael Turner is a Vancouver-based writer of fiction, criticism and song.
-He blogs at this address: http://mtwebsit.blogspot.ca/
+He blogs at this address: [http://mtwebsit.blogspot.ca/](http://mtwebsit.blogspot.ca/)
 
 - - -
 

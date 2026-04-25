@@ -8,7 +8,7 @@ venue: "221A"
 summary: "221A | <3 CANADA & CANADA <3 ME | SEP 9"
 ---
 
-http://221a.ca/i-heart
+[http://221a.ca/i-heart](http://221a.ca/i-heart)
 
 Curated By: Francisco-Fernando Granados
 Exhibition: Aug 19 – Sept 19
@@ -102,12 +102,12 @@ Phenomenology and Feminist Theory. Theatre Journal. Vol. 40, No.
 
 [2] Amber Hildebrandt, ‘T.O. Tory staffer makes ‘ethnic costume’ rally
 appeal.’ CBC News. April 13, 2011. Retrieved May 30, 2011.
-http://www.cbc.ca/news/politics/canadavotes2011/story/2011/04/13/c
+[http://www.cbc.ca/news/politics/canadavotes2011/story/2011/04/13/c](http://www.cbc.ca/news/politics/canadavotes2011/story/2011/04/13/c)
 v-election-conservative-ethnic-vote.html
 
 [3] ‘Omar Khadr’s road to trial.’ CBC News. Last updated August 12,
 2010. Retrieved August 14, 2011.
-http://www.cbc.ca/news/canada/story/2009/11/12/f-omar-khadr-
+[http://www.cbc.ca/news/canada/story/2009/11/12/f-omar-khadr-](http://www.cbc.ca/news/canada/story/2009/11/12/f-omar-khadr-)
 timeline.html
 Roya Akbari is an Iranian artist living in Vancouver and Tehran. She
 is works in video, photography, installation, and film. Upon
@@ -124,4 +124,4 @@ V6A 1Z6
 
 T: 604 568 0812
 E: hello@221a.ca
-W: http://221a.ca
+W: [http://221a.ca](http://221a.ca)

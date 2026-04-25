@@ -68,7 +68,7 @@ Both spaces are 7ftx10ft for 315.00 a month. Rent includes heat, electricity, wi
 have 24hr access, the building is secure and clean. We are located on Franklin st. and 
 commercial. There are 10 Studios in total and a shared gallery space. For images check 
 out our website:
-http://thebakeryonfranklin.com/
+[http://thebakeryonfranklin.com/](http://thebakeryonfranklin.com/)
 
 If interested please contact me at ahbyah@gmail.com with the subject line Studio 
 space

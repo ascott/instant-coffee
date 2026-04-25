@@ -18,7 +18,7 @@ enact them: government workers, customs officers and postal workers
 and clerks. They are the chance audience and participants for this part
 of the project.
 
-(https://tools.usps.com/go/TrackConfirmAction.action?
+([https://tools.usps.com/go/TrackConfirmAction.action](https://tools.usps.com/go/TrackConfirmAction.action)?
 tRef=fullpage&tLc=1&text28777=&tLabels=LC531048917US)
 
 While Jorge was transported in his terra cotta planter for ease of set-up
@@ -58,4 +58,4 @@ from Boston to Delta, with a few doing a brief stop in Nashville, TN.
 Come see the second stop of the project at the Ladner Pioneer Library,
 September 10 - 30th.
 Opening reception - Sept 17, 7-9 PM.
-(https://www.facebook.com/events/1461384824169701/)
+([https://www.facebook.com/events/1461384824169701/](https://www.facebook.com/events/1461384824169701/))

@@ -12,7 +12,7 @@ summary: "8EAST | Ryan Fitzpatrick | Cloth Reading | 1-3PM | OCT 6"
 
 1pm-3pm
 
-https://www.facebook.com/events/1699003170227675/
+[https://www.facebook.com/events/1699003170227675/](https://www.facebook.com/events/1699003170227675/)
 
 Join us on an autumn afternoon for a cloth reading. A cloth reading is a type of 
 reading performance in which one is tasked to read a book out loud from cover to 

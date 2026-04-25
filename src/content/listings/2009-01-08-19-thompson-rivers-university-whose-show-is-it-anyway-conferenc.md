@@ -75,4 +75,4 @@ Thompson Rivers University
 Kamloops, B.C., V2C 5N3
 Tel.: 250-828-5248
 FAX: 250-371-5697
-http://research.tru.ca/people/petts
+[http://research.tru.ca/people/petts](http://research.tru.ca/people/petts)

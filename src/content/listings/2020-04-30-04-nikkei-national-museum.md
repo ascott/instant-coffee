@@ -14,7 +14,7 @@ Like many museums the Nikkei National Museum is figuring out how to engage visit
 in new ways in these unprecedented times. Thanks to Kaiwen Yang, our fantastic
 apprentice from the Shumka Centre Art Apprentice Network at ECUAD, we have a new
 virtual garden tour for your socially distanced pleasure.
-Check out this link: https://poly.google.com/view/edhsI7F-x1Y
+Check out this link: [https://poly.google.com/view/edhsI7F-x1Y](https://poly.google.com/view/edhsI7F-x1Y)
 
 When you first connect there is a slow sweep of the gardens which stops as soon as
 you click onto an icon for information on specific plants, historical background, or

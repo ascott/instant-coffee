@@ -22,4 +22,4 @@ workshop will be facilitated by guest artist I Putu Gede Sukaryana (Balot), in t
 Exhibition Hall of the Roundhouse, from 6:30 to 7pm.
 
 Advance Tickets:
-http://https://tinyurl.com/gamelanbikebike
+[http://https://tinyurl.com/gamelanbikebike](http://https://tinyurl.com/gamelanbikebike)

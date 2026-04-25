@@ -32,9 +32,9 @@ Vancouver.
 
 Egoyan's statement was published on Stop BC Arts Cuts website and blog:
 
-http://stopbcartscuts.wordpress.com/2009/11/26/atom-egoyan-speaks-out-against-the-bc-arts-cuts/
+[http://stopbcartscuts.wordpress.com/2009/11/26/atom-egoyan-speaks-out-against-the-bc-arts-cuts/](http://stopbcartscuts.wordpress.com/2009/11/26/atom-egoyan-speaks-out-against-the-bc-arts-cuts/)
 and
-http://www.stopbcartscuts.ca/speakout.html
+[http://www.stopbcartscuts.ca/speakout.html](http://www.stopbcartscuts.ca/speakout.html)
 
 For more information contact
 Stop BC Arts Cuts

@@ -15,7 +15,7 @@ February: Lorna Mills
 We are pleased to announce that Jonathan Monaghan and Lorna Mills are the 
 next two commissioned artists for Bcc:, Decoy Magazine's digital art subscription 
 program. Once you sign up, we will deliver a unique digital artwork to your email 
-inbox every month. http://www.decoymagazine.ca/bcc
+inbox every month. [http://www.decoymagazine.ca/bcc](http://www.decoymagazine.ca/bcc)
 
 The subscription fees are small, only $3 a month, or $30 for an annual 
 subscription, and go directly into the pockets of the commissioned artists.

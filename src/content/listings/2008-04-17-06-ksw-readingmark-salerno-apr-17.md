@@ -20,6 +20,6 @@ Admission: 3 - 5$, sliding scale.
 
 for further details, to read the Vancouver poetics community calendar & to browse the extensive KSW audio archives
 
-VISIT : http://www.kswnet.org/
+VISIT : [http://www.kswnet.org/](http://www.kswnet.org/)
 
 the KOOTENAY SCHOOL of WRITING 309-207 West Hastings St. Vancouver, BC V6B 1H6 CANADA Phone: 604.313.6903

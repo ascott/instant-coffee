@@ -28,4 +28,4 @@ collect sound recordings in Stanley Park. The session will embark from a tempora
 of operations hosted in the Instant Coffee field house. 
 
 To register for this session, please visit:
-http://polly-anna.ca/activity/fieldwork_session_1e
+[http://polly-anna.ca/activity/fieldwork_session_1e](http://polly-anna.ca/activity/fieldwork_session_1e)

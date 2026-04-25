@@ -27,8 +27,8 @@ Location: 208 - 1000 Parker Street
 
 Everything is included!
 
-http://www.sonyaiwasiuk.com
+[http://www.sonyaiwasiuk.com](http://www.sonyaiwasiuk.com)
 
 Click here for more info:
-https://sonya-iwasiuk-art-
+[https://sonya-iwasiuk-art-](https://sonya-iwasiuk-art-)
 studio.square.site/product/mixedmediapaintingworkshop/31?cs=true&cst=custom

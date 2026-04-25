@@ -30,4 +30,4 @@ June 21 at 6pm - Daniel Justice (Chair, UBC First Nations and
 Indigenous Studies Program)
 
 For more information, please see the following link:
-http://moa.ubc.ca/portfolio_page/not-your-average-tour/
+[http://moa.ubc.ca/portfolio_page/not-your-average-tour/](http://moa.ubc.ca/portfolio_page/not-your-average-tour/)

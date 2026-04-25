@@ -27,4 +27,4 @@ arising?
 
 Gallery Hours: Tuesday-Sunday 10-5:30
 
-https://craftcouncilbc.ca/amy-chang/
+[https://craftcouncilbc.ca/amy-chang/](https://craftcouncilbc.ca/amy-chang/)

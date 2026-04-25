@@ -30,5 +30,5 @@ The deadline to submit is 30 April, 2019
 Enquiries or questions please contact me (Wei Cheng) at weicstudio@gmail.com
 
 Online form submit:
-https://docs.google.com/forms/d/e/1FAIpQLSfksvJ20_Pc7K1p4Bd3Uj6PE-
+[https://docs.google.com/forms/d/e/1FAIpQLSfksvJ20_Pc7K1p4Bd3Uj6PE-](https://docs.google.com/forms/d/e/1FAIpQLSfksvJ20_Pc7K1p4Bd3Uj6PE-)
 U4Lkh6fGD5cC5Qec9RQ_R1rA/viewform?usp=pp_url

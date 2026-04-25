@@ -21,7 +21,7 @@ Artist Fee: $400 artist fee for 2 workshops (4-hour day)
 Materials Fee: Artists are paid a flat fee of $75 per workshop for materials
 
 SEE FULL CALL HERE:
-https://drive.google.com/file/d/1ZzQWnigxiT5yHzpSBxP3Nj4TGJ_vQlZk/view
+[https://drive.google.com/file/d/1ZzQWnigxiT5yHzpSBxP3Nj4TGJ_vQlZk/view](https://drive.google.com/file/d/1ZzQWnigxiT5yHzpSBxP3Nj4TGJ_vQlZk/view)
 
 APPLY HERE
-https://forms.gle/Gk4C7TnRAKGjnPma6
+[https://forms.gle/Gk4C7TnRAKGjnPma6](https://forms.gle/Gk4C7TnRAKGjnPma6)

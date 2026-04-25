@@ -41,4 +41,4 @@ Artwork dimensions and description (PDF, max 250 words)
 Free submission.
 
 The whole content can be found here:
-https://akimbo.ca/listings/call-for-submissions-face-waste/
+[https://akimbo.ca/listings/call-for-submissions-face-waste/](https://akimbo.ca/listings/call-for-submissions-face-waste/)

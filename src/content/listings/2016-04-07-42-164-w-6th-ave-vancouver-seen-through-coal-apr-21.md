@@ -38,6 +38,6 @@ The recently vacated JAC Studio space offers an impressive venue for this
 exhibition. 
 
 Video for the exhibition created by Adrien Fonda and Hamish Todd:
-https://youtu.be/neBPPlwjSGk
+[https://youtu.be/neBPPlwjSGk](https://youtu.be/neBPPlwjSGk)
 
-Website: http://www.hamishtodd.com/
+Website: [http://www.hamishtodd.com/](http://www.hamishtodd.com/)

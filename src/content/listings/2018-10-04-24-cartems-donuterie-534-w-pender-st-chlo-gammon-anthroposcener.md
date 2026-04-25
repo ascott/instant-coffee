@@ -31,4 +31,4 @@ relics, floating microcosms of our legacy on a planetary scale.
 Chlo lives and works in Vancouver BC on the unceeded Musqueam, Squamish, 
 and Tsleil-Waututh territories.
 
-https://www.chloegammon.com/
+[https://www.chloegammon.com/](https://www.chloegammon.com/)

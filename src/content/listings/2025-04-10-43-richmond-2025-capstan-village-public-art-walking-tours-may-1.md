@@ -28,5 +28,5 @@ Saturday, September 13 | 1:00-2:30pm
 
 All walks are free and meet at the Capstan Canada Line Station entrance.
 
-For more info and to register: https://www.eventbrite.com/cc/2025-capstan-village-
+For more info and to register: [https://www.eventbrite.com/cc/2025-capstan-village-](https://www.eventbrite.com/cc/2025-capstan-village-)
 public-art-walking-tours-4161763

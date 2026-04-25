@@ -35,5 +35,5 @@ A free public showing of a 20-minute excerpt will be held on January 29th, 4 p.m
 Playhouse Studio, and there will be a post-show discussion after the performance.
 
 Register for free in-person/online ticket here:
-https://pushfestival.ca/shows/2022-dblspk-
+[https://pushfestival.ca/shows/2022-dblspk-](https://pushfestival.ca/shows/2022-dblspk-)
 %E8%8F%A0%E8%98%BF%E9%BA%B5%E5%8C%85pineapple-bun-residency

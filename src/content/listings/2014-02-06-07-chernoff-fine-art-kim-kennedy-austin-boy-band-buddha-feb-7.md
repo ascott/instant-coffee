@@ -40,4 +40,4 @@ V5T 1B8
 info@ChernoffFineArt.com 
 Phone/Fax 604.681.8042 
 
-http://www.chernofffineart.com/index.html
+[http://www.chernofffineart.com/index.html](http://www.chernofffineart.com/index.html)

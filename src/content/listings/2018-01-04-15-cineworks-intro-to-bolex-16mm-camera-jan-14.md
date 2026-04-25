@@ -21,7 +21,7 @@ $60 + taxes | General Admission
 $50 + taxes | Concessions and Community Partner Members* 
 $40 + taxes | Member Admission
 
-REGISTER: https://analogue-basics-bolex-jan-2018.eventbrite.ca
+REGISTER: [https://analogue-basics-bolex-jan-2018.eventbrite.ca](https://analogue-basics-bolex-jan-2018.eventbrite.ca)
 
 Elements include:
 
@@ -35,7 +35,7 @@ Film shot in this workshop will be processed at the Analogue Basics: Intro to Ha
 Processing workshop on Sunday 28 Jan. If interested in both components (optional), 
 please register for the Hand Processing workshop via the following link:
 
-https://analogue-basics-processing-jan-2018.eventbrite.ca
+[https://analogue-basics-processing-jan-2018.eventbrite.ca](https://analogue-basics-processing-jan-2018.eventbrite.ca)
 
 *Community partners include VIVO, Women in Film, and Doc BC
 

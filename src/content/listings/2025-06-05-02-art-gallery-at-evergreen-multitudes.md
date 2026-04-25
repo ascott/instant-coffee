@@ -51,7 +51,7 @@ navigating the present. Their works play with perception, explore layered existe
 within the cosmos, and examine technology's impact on today. Join Evergreens
 art educators as we investigate the universe and its possibilities.
 
-https://evergreenculturalcentre.my.salesforce-
+[https://evergreenculturalcentre.my.salesforce-](https://evergreenculturalcentre.my.salesforce-)
 sites.com/ticket/#/instances/a0FOK000001Kzpx2AC
 
 

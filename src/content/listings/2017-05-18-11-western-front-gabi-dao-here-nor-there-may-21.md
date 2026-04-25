@@ -49,6 +49,6 @@ second wave will be announced some time later in the summer, stay tuned!
 
 find the episodes:
 
-Soundcloud- https://soundcloud.com/herenortherepodcast
+Soundcloud- [https://soundcloud.com/herenortherepodcast](https://soundcloud.com/herenortherepodcast)
 
 iTunes- search Here Nor There

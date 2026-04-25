@@ -8,7 +8,7 @@ venue: "HCMA's Artist in Residence"
 summary: "HCMA's Artist in Residence | Call for Artists | NOV 25"
 ---
 
-https://hcma.submittable.com/submit
+[https://hcma.submittable.com/submit](https://hcma.submittable.com/submit)
 
 Curious Artists: Empty City
 This year's theme is Empty City and were looking for wildly courageous artists who are
@@ -83,4 +83,4 @@ Support will be provided by HCMA team members.
 HCMA is committed to supporting artists however they may choose to self-identify. We
 encourage everyone to submit an application for a residency.
 
-https://hcma.submittable.com/submit
+[https://hcma.submittable.com/submit](https://hcma.submittable.com/submit)

@@ -19,7 +19,7 @@ Workshop on March 15th and 16th from 10-5pm.
 
 At VIVO Media Arts Centre: 2625 Kaslo Street, Vancouver BC
 
-Link: https://www.vivomediaarts.com/programming/workshop-the-art-of-digital-
+Link: [https://www.vivomediaarts.com/programming/workshop-the-art-of-digital-](https://www.vivomediaarts.com/programming/workshop-the-art-of-digital-)
 cinema
 
 Take your cinematic skills to the next level with a weekend-long
@@ -44,4 +44,4 @@ Limited capacity " register now to reserve your spot! Registration Deadline: Mar
 7, 2025.
 
 The registration link and further details can be found here:
-https://www.vivomediaarts.com/programming/workshop-the-art-of-digital-cinema
+[https://www.vivomediaarts.com/programming/workshop-the-art-of-digital-cinema](https://www.vivomediaarts.com/programming/workshop-the-art-of-digital-cinema)

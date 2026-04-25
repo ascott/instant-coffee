@@ -39,4 +39,4 @@ The exhibition is free. Viewing hours are 8 a.m."4:30 p.m. Monday to Friday
 To purchase, please contact the Ferry Building Gallery at 604-925-7290 or by email 
 at gallery@westvancouver.ca.
 
-For more information, please visit https://ferrybuildinggallery.com/art_in_the_hall .
+For more information, please visit [https://ferrybuildinggallery.com/art_in_the_hall](https://ferrybuildinggallery.com/art_in_the_hall) .

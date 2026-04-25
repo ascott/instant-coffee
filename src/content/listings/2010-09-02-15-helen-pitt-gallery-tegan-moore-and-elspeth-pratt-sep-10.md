@@ -81,4 +81,4 @@ Helen Pitt Gallery Artist Run Centre
 Vancouver BC V6A 1Z6 Canada
 1.604.681.6740 begin_of_the_skype_highlighting		    1.604.681.6740	end_of_the_skype_highlighting
 info@helenpittgallery.org
-http://www.helenpittgallery.org/
+[http://www.helenpittgallery.org/](http://www.helenpittgallery.org/)

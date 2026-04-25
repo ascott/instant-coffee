@@ -29,7 +29,7 @@ of Graduate Studies at Emily Carr University of Art + Design.
 Lounge.
 
 There is limited seating so be sure to sign up on Eventbrite!
-http://limelightsaturdaynight-es2.eventbrite.ca/
+[http://limelightsaturdaynight-es2.eventbrite.ca/](http://limelightsaturdaynight-es2.eventbrite.ca/)
 
 ARTIST BIO
 Sans façon is an artist collaboration between French architect Charles Blanc 
@@ -37,8 +37,8 @@ and British artist Tristan Surtees. The duo develops both temporary and
 permanent projects aimed to investigate the complex relationship between 
 people and place.
 
-http://limelightontour.blogspot.ca/
-http://www.sansfacon.co.uk/
+[http://limelightontour.blogspot.ca/](http://limelightontour.blogspot.ca/)
+[http://www.sansfacon.co.uk/](http://www.sansfacon.co.uk/)
 
 PROJECT DESCRIPTION
 chART: Public Art Marpole is a creative collaboration between Emily Carr 

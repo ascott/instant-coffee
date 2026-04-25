@@ -38,7 +38,7 @@ We hope to see you on August 28th as we raise a glass to 30 years of
 supporting Vancouver’s artist communities!
 
 grunt gallery
-http://grunt.ca/30th-anniversary/events/
+[http://grunt.ca/30th-anniversary/events/](http://grunt.ca/30th-anniversary/events/)
 116 - 350 E 2nd Ave, Vancouver, BC V5T 4R8
 karlene@grunt.ca | t: 604.875.9516
 www.grunt.ca

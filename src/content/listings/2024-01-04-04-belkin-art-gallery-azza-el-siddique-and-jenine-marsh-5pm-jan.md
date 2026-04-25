@@ -33,4 +33,4 @@ The talks will be followed by the exhibition opening reception - join us.
 
 All are welcome and admission is free.
 
-https://belkin.ubc.ca/events/artist-talks-azza-el-siddique-and-jenine-marsh/
+[https://belkin.ubc.ca/events/artist-talks-azza-el-siddique-and-jenine-marsh/](https://belkin.ubc.ca/events/artist-talks-azza-el-siddique-and-jenine-marsh/)

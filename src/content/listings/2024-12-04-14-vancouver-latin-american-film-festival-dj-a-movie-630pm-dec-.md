@@ -23,4 +23,4 @@ amazing Karla Sofa Gascn, an ensemble that collectively received the Best Actres
 Award at the Cannes Film Festival this year - TIFF
 
 SAT, DEC 7 at 6:30PM - 750 Hamilton Street
-TICKETS HERE: https://www.goelevent.com/VLAFF/e/VLAFFWinterFundraiser
+TICKETS HERE: [https://www.goelevent.com/VLAFF/e/VLAFFWinterFundraiser](https://www.goelevent.com/VLAFF/e/VLAFFWinterFundraiser)

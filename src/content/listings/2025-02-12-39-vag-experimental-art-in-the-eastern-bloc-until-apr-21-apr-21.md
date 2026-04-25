@@ -22,4 +22,4 @@ proximity, the artists featured in the exhibition encountered different conditio
 life and artmaking, as they confronted varying degrees of control and pressure exerted
 by state authorities. Charting a generation invested in experimentation, Multiple
 Realities sheds light on ways that artists refused, circumvented, eluded and subverted
-official systems. More info: https://www.vanartgallery.bc.ca/exhibitions/multiple-realities
+official systems. More info: [https://www.vanartgallery.bc.ca/exhibitions/multiple-realities](https://www.vanartgallery.bc.ca/exhibitions/multiple-realities)

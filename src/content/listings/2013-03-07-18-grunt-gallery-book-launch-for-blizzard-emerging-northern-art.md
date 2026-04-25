@@ -63,6 +63,6 @@ $30 (reg. price $55).
 For residents in the lower mainland of BC, skip the shipping fees and pick up 
 directly from grunt. Simply enter the discount code: PICKUP
 
-grunt gallery | karlene@grunt.ca | http://grunt.ca
+grunt gallery | karlene@grunt.ca | [http://grunt.ca](http://grunt.ca)
 350 E 2nd, Unit 116
 Vancouver, V5T 4R8

@@ -17,7 +17,7 @@ mainstream publishing.
 
 We publish both fiction and non-fiction for people of all ages. Novels, memoirs, short 
 stories, poetry, graphic novels, cartoons, critical theory or essays. To submit your 
-manuscript, please read our submission guidelines https://www.alien-
+manuscript, please read our submission guidelines [https://www.alien-](https://www.alien-)
 press.com/submission
 
 Read more about the politics of the press and what kind of work we publish at 

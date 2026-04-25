@@ -35,17 +35,17 @@ of the Art Waste!
 Art Waste is a three day festival assembling over 40 emerging /professional 
 artists and curatorial teams to present 25 exhibitions across Vancouver from 
 June 6-9.
-http://www.artwaste.tumblr.com/
+[http://www.artwaste.tumblr.com/](http://www.artwaste.tumblr.com/)
 
 >>
 
 Yactac Gallery
 7206 Ontario Street (@ E 56th)
 Vancouver BC V5X 3B7
-http://www.yactac.com
+[http://www.yactac.com](http://www.yactac.com)
 yactacgallery@gmail.com
 
-T: http://www.twitter.com/yactac
-F: http://www.facebook.com/pages/Yactac/219495644734594
+T: [http://www.twitter.com/yactac](http://www.twitter.com/yactac)
+F: [http://www.facebook.com/pages/Yactac/219495644734594](http://www.facebook.com/pages/Yactac/219495644734594)
 
 Because it's great, and we are Yactac!

@@ -64,20 +64,20 @@ Ho Tams Cover to Cover exhibition looks at the construction of public persona. T
 exhibition presents a broad range of Tams photo-based practice including his snapshot 
 photo series and collage work. The gallery installation deconstructs the artists recent 
 book works presenting individual series installed playful across the gallery walls. 
-http://www.richmondartgallery.org/exhibition/cover-to-cover/
+[http://www.richmondartgallery.org/exhibition/cover-to-cover/](http://www.richmondartgallery.org/exhibition/cover-to-cover/)
 
 Karilynn Ming Hos immersive installation, For The Left Hand Alone, uses the metaphor 
 of phantom limb syndrome to explore themes of fragmented realities in a time when 
 bombardment by digital information leaves many people feeling physically and mentally 
 disconnected and disenchanted with reality. 
-http://www.richmondartgallery.org/exhibition/for-the-left-hand-alone/
+[http://www.richmondartgallery.org/exhibition/for-the-left-hand-alone/](http://www.richmondartgallery.org/exhibition/for-the-left-hand-alone/)
 
 At Brighouse Station, Marisa Kriangwiwat Holmes installation Soon is in conflict with the 
 commercial advertising surrounding it. Both in reference to, and disruptive against the 
 global clothing brand adverts displayed across the glass faades of the station, Holmes 
 piece initially blends into this environment but on closer inspection disrupts 
 expectations. The work echoes the cacophonous visual experience of the station. 
-http://www.richmondartgallery.org/exhibition/soon/
+[http://www.richmondartgallery.org/exhibition/soon/](http://www.richmondartgallery.org/exhibition/soon/)
 
 At Lansdowne Station, Ho Tam presents Barbershops; a series of four photographs of 
 barbershops in Manhattans Chinatown. Inside this city within a city, hundreds of hair 
@@ -85,7 +85,7 @@ salons serve Chinese residents and visitors. Tams photographs capture these shop
 key sites for community building, exchange and identity construction. Installed on No. 3 
 Road in Richmond, the work connects to the thriving Chinese diaspora in the area and 
 the rapidly evolving commercial architecture of the site. 
-http://www.richmondartgallery.org/exhibition/barbershops/
+[http://www.richmondartgallery.org/exhibition/barbershops/](http://www.richmondartgallery.org/exhibition/barbershops/)
 
 At Aberdeen Station, Karilynn Ming Hos alluring installation Mirror Flower, Water Moon 
 utilizes deceptive technologies. The images are derived from Universal Adversarial 
@@ -95,7 +95,7 @@ that deceive, connecting natural and digital actions that are just beyond the re
 human perception. The title, Mirror Flower, Water Moon is from a Chinese proverb, 
 denoting something that can only be seen, but not grasped " like a flower in a mirror or 
 the reflection of the moon in the water. 
-http://www.richmondartgallery.org/exhibition/mirror-flower-water-moon/
+[http://www.richmondartgallery.org/exhibition/mirror-flower-water-moon/](http://www.richmondartgallery.org/exhibition/mirror-flower-water-moon/)
 
 At Bridgeport Station, located in close proximity to the Fraser River, artist David 
 Semeniuks Perimeter series focuses on Vancouvers shared border with Richmond. 
@@ -105,7 +105,7 @@ managed estuarine environment and settlement to an industrial working river, pro
 curator Paula Booker observes. This history and the shift toward leisure and luxury 
 accommodation here is alluded to, with a log boom in the Fraser River seen alongside 
 the marginal edge of a golf course. 
-http://www.richmondartgallery.org/exhibition/perimeter/
+[http://www.richmondartgallery.org/exhibition/perimeter/](http://www.richmondartgallery.org/exhibition/perimeter/)
 
 At the Canada line terminus, Waterfront Station in downtown Vancouver, RAG presents 
 Ho Tams, Guys at the Fair. This playful series is a selection of seven portraits shot at 
@@ -113,7 +113,7 @@ the 2003 Canadian National Exhibition (CNE) in Toronto, where the artist approac
 men who had won stuffed animals from carnival game booths. Guys at the Fair 
 interrogates the mediated construction of masculinity, revealing diverse facets of the self 
 through endearing, humorous and at times awkward intimate portraits of men. 
-http://www.richmondartgallery.org/exhibition/guys-at-the-fair/
+[http://www.richmondartgallery.org/exhibition/guys-at-the-fair/](http://www.richmondartgallery.org/exhibition/guys-at-the-fair/)
 
 Richmond Art Gallery would like to acknowledge the support of the BC Arts Council, City 
 of Richmond, Richmond Public Art Program, Canada Line and Capture Photography.

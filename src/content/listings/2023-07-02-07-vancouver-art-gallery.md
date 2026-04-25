@@ -18,7 +18,7 @@ July 8"November 19
 Parviz Tanavoli: Poets, Locks, Cages is the first major Canadian exhibition of works by
 the Iranian-born, Vancouver-based artist Parviz Tanavoli. Internationally celebrated,
 Tanavoli has lived in Vancouver for over thirty years while also maintaining a studio in
-Iran. More info: https://www.vanartgallery.bc.ca/exhibitions/parviztanavoli
+Iran. More info: [https://www.vanartgallery.bc.ca/exhibitions/parviztanavoli](https://www.vanartgallery.bc.ca/exhibitions/parviztanavoli)
 
 2.
 
@@ -31,7 +31,7 @@ fashion and other modes of cultural production. International in scope, the exhi
 explores the increasing influence of research-based, materially driven practices on the
 global fashion scene, while acknowledging the proliferation of creative practices that
 challenge the aesthetic, material and technological conventions of fashion. More info:
-https://www.vanartgallery.bc.ca/exhibitions/fashion-fictions
+[https://www.vanartgallery.bc.ca/exhibitions/fashion-fictions](https://www.vanartgallery.bc.ca/exhibitions/fashion-fictions)
 
 3.
 
@@ -56,7 +56,7 @@ to face with a set of creatures that resemble cars with legs. Are they machines 
 animals or animatronic hybrids? Cars belong on the street, but these creatures inhabit
 the sidewalk, existing alongside other two- and four-legged beings. What is
 happening? Is one lifting its leg to the wall? Learn more:
-https://www.vanartgallery.bc.ca/exhibitions/offsite-pedroreyes
+[https://www.vanartgallery.bc.ca/exhibitions/offsite-pedroreyes](https://www.vanartgallery.bc.ca/exhibitions/offsite-pedroreyes)
 
 Programs/Events
 
@@ -76,7 +76,7 @@ Amidst the enormous political and cultural shifts of his lifetime, Tanavolis ded
 and focus have distinguished him as one of the most significant artists to emerge from
 Iran.
 
-Register here: https://www.vanartgallery.bc.ca/events/july8parvizlecture
+Register here: [https://www.vanartgallery.bc.ca/events/july8parvizlecture](https://www.vanartgallery.bc.ca/events/july8parvizlecture)
 
 2.
 
@@ -87,7 +87,7 @@ Various dates and times
 Looking for last minute camps for your little ones? Sign up for Summer Camp at the
 Gallery for a week immersed in art and creativity! The Gallery also offers self-guided
 and drop-in activities such as Open Studio and Art Agent Packs, perfect for families on
-their next visit to the Gallery! Learn more: https://www.vanartgallery.bc.ca/family-
+their next visit to the Gallery! Learn more: [https://www.vanartgallery.bc.ca/family-](https://www.vanartgallery.bc.ca/family-)
 programs
 
 3.
@@ -99,7 +99,7 @@ July 7 4"8 PM
 
 Join us for Free First Friday Night from 4"8 PM on July 7, 2023. Explore the Gallery for
 free and enjoy programs happening on the same evening. More info:
-https://www.vanartgallery.bc.ca/events/jun2fffn
+[https://www.vanartgallery.bc.ca/events/jun2fffn](https://www.vanartgallery.bc.ca/events/jun2fffn)
 
 4.
 
@@ -111,4 +111,4 @@ Join Emily Carr University in the Lab Here//Too//For at the Vancouver Art Galler
 series of panel discussions and forums that explore the intersection of fashion, art and
 design. In conjunction with Vancouver Art Gallery and the current exhibition Fashion
 Fictions. Forums are free to attend with Gallery admission. Learn more:
-https://materialmatters.ecuad.ca/
+[https://materialmatters.ecuad.ca/](https://materialmatters.ecuad.ca/)

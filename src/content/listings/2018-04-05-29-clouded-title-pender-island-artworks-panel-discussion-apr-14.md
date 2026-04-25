@@ -43,6 +43,6 @@ Treaty, contrasting it with discussions of a WSNE- creation story, providing rea
 with an opportunity to puzzle through and reflect upon the implications of the Treaty and 
 being present on WSNE- Nation lands today.
 
-for more info: http://www.streetroad.org/clouded-title.html
+for more info: [http://www.streetroad.org/clouded-title.html](http://www.streetroad.org/clouded-title.html)
 
 facebook: 'Clouded Title on Pender Island'

@@ -24,4 +24,4 @@ communities. You will be responsible for planning, overseeing, and leading proje
 ideation through to completion. This managerial role will liaise with a range of internal and
 external stakeholders, managing several projects simultaneously.
 
-To apply: https://vanmuralfest.ca/joinourteam
+To apply: [https://vanmuralfest.ca/joinourteam](https://vanmuralfest.ca/joinourteam)

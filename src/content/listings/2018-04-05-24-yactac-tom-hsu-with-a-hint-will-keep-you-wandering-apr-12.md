@@ -42,6 +42,6 @@ BFA in Photography from Emily Carr University of Art and Design. He is undertaki
 residency at Burrard Arts Foundation from April to June. He has exhibited at Unit/Pitt, 
 Index Gallery, and Sweetpup Studio.
 
-http://tomhsu.com/
+[http://tomhsu.com/](http://tomhsu.com/)
 
 Special thanks to Capture Photo Festival and Red Gate Arts Society.

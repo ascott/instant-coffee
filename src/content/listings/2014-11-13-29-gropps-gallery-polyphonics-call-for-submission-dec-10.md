@@ -17,7 +17,7 @@ composition. This exhibit is to explore harmony between colours or chords.
 Unless working with light, artists work in a subtractive colour model to
 achieve these distinct ideas.
 
-http://www.tigercolor.com/color-lab/color-theory/color-harmonies.htm
+[http://www.tigercolor.com/color-lab/color-theory/color-harmonies.htm](http://www.tigercolor.com/color-lab/color-theory/color-harmonies.htm)
 
 Requirements of the works are to explore colour harmonies such as cool,
 warm, complementary, analogous, monochromatic, triadic, etc to create a

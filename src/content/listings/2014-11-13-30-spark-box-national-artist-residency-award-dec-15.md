@@ -25,4 +25,4 @@ access a rich library of arts resources, and focus on their career.
 Deadline: December 15, 2014
 
 For more information and the online application visit our website:
-http://sparkboxstudio.com/nationalaward/
+[http://sparkboxstudio.com/nationalaward/](http://sparkboxstudio.com/nationalaward/)

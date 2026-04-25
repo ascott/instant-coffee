@@ -37,5 +37,5 @@ Tony Taylor (Practicing Artist/OCAD U Alumnus).
 
 Submissions will be accepted through December 1, 2012.
 
-Visit http://www.ocad.ca/alumni to download a submission form. For more 
+Visit [http://www.ocad.ca/alumni](http://www.ocad.ca/alumni) to download a submission form. For more 
 information, contact alumni@ocad.ca.

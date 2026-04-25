@@ -11,7 +11,7 @@ summary: "VISUAL ART FORUM [ONLINE] | Irena Haiduk | 930AM | OCT 13"
 VISUAL ART FORUM: Irena Haiduk
 Tuesday, October 13, 2020 | 9:30 AM | Zoom
 
-RSVP: https://www.eventbrite.ca/e/visual-art-forum-irena-haiduk-registration-
+RSVP: [https://www.eventbrite.ca/e/visual-art-forum-irena-haiduk-registration-](https://www.eventbrite.ca/e/visual-art-forum-irena-haiduk-registration-)
 120675576899
 
 Please join us for a FREE talk by Irena Haiduk, presented as part of the Fall 2020 Visual

@@ -55,4 +55,4 @@ teaches writing to MFA students at California College of the Arts in San
 Francisco.
 
 Limited spaces available in the workshop. Register now!
-To register, please visit, https://thecapilanoreview.com/workshop/.
+To register, please visit, [https://thecapilanoreview.com/workshop/](https://thecapilanoreview.com/workshop/).

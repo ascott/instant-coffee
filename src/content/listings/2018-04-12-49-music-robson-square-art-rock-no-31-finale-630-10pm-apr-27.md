@@ -11,10 +11,10 @@ summary: "MUSIC | Robson Square | ART ROCK? NO. 31 FINALE | 630-10PM | APR 27"
 EVENT: ART ROCK? NO. 31 FINALE
 art rock? comes to an end
 featuring:
-JSN: https://youtu.be/20o8rQnzQGc
-Gretchensnakes: https://gretchensnakes.bandcamp.com/
-hazy: https://hazyhazyhaze.bandcamp.com/
-Strawberry: https://agonyklub.bandcamp.com/track/strawberry-blue-moon
+JSN: [https://youtu.be/20o8rQnzQGc](https://youtu.be/20o8rQnzQGc)
+Gretchensnakes: [https://gretchensnakes.bandcamp.com/](https://gretchensnakes.bandcamp.com/)
+hazy: [https://hazyhazyhaze.bandcamp.com/](https://hazyhazyhaze.bandcamp.com/)
+Strawberry: [https://agonyklub.bandcamp.com/track/strawberry-blue-moon](https://agonyklub.bandcamp.com/track/strawberry-blue-moon)
 ~
 Robson Square
 free outdoor show in the setting sun. art rock? takes place on unceded Coast Salish 
@@ -32,4 +32,4 @@ White Room (Nanaimo) and no.29a at One&J+1 Gallery and no.29b at Space One
 (both in Seoul). this series has always been for and inspired by the performers of 
 sounds, visuals, and poetics, working through the #popularesoteric. each show has 
 been documented, and you can watch them all here:
-https://www.youtube.com/playlist?list=PLuRIzWFUvy66f9eBABXqhgg4sLpPopxcO
+[https://www.youtube.com/playlist?list=PLuRIzWFUvy66f9eBABXqhgg4sLpPopxcO](https://www.youtube.com/playlist?list=PLuRIzWFUvy66f9eBABXqhgg4sLpPopxcO)

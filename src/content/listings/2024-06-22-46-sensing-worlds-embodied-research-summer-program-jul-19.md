@@ -16,4 +16,4 @@ July 19 to August 16, 2024 - Fridays 10am to 12:30pm -In-person, Vancouver, BC.
 
 Register @
 
-https://www.guadalupemartinez.com/sensing-worlds.html
+[https://www.guadalupemartinez.com/sensing-worlds.html](https://www.guadalupemartinez.com/sensing-worlds.html)

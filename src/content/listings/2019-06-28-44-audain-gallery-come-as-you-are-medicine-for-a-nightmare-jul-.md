@@ -43,4 +43,4 @@ This event is co-presented by Indian summer Festival.
 the Sikhs. This shabad is on page 107 - 108 of the Sri Guru Granth Sahib Ji and 
 composed in the Maajh Raag.
 
-http://www.sfu.ca/galleries/SFUGalleriesEvents/2019/GurpreetChana_Kirtan.html
+[http://www.sfu.ca/galleries/SFUGalleriesEvents/2019/GurpreetChana_Kirtan.html](http://www.sfu.ca/galleries/SFUGalleriesEvents/2019/GurpreetChana_Kirtan.html)

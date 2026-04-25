@@ -13,7 +13,7 @@ Curated By: Alex Buss & Alexandra Kenyon
 Talk: 2:00pm, Mar 24
 Opening Reception: 8:00pm, Mar 2
 
-Project Website - http://tangentialvancouverism.ca
+Project Website - [http://tangentialvancouverism.ca](http://tangentialvancouverism.ca)
 
 221A Artist Run Centre is pleased to present Tangential Vancouverism,
 an exhibition and publication that explores the potential for new
@@ -63,4 +63,4 @@ V6A 1Z6
 
 T: 604 568 0812
 E: hello@221a.ca
-W: http://221a.ca
+W: [http://221a.ca](http://221a.ca)

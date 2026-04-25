@@ -42,7 +42,7 @@ Budget: Up to $1500 in hard cost reimbursement (materials, supplies)
 Residency duration: 11 months, starting mid-January 2017
 
 For further details about the residency and online application, please
-visit http://www.richmond.ca/BranscombeArtistCall
+visit [http://www.richmond.ca/BranscombeArtistCall](http://www.richmond.ca/BranscombeArtistCall)
 
 *Live/work space not suitable for practices involving amplified music,
 loud equipment or fumes.

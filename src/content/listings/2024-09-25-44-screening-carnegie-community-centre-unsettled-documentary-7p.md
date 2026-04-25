@@ -90,7 +90,7 @@ and screw marks on rear of sides (I had previously stretched canvas over these
 panels). Must be able to pick these up " near Stanley Park, west of Denman Street,
 parking available in front of building.
 
-https://www.apollongotrick.com/en/products/wood-panels
+[https://www.apollongotrick.com/en/products/wood-panels](https://www.apollongotrick.com/en/products/wood-panels)
 
 Contact Leon Phillips:
 

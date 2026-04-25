@@ -22,7 +22,7 @@ don't miss to send us your work!
 
 Best wishes from Gstaad, and hope to see you in March 2010!
 
-http://www.gstaadfilm.ch
+[http://www.gstaadfilm.ch](http://www.gstaadfilm.ch)
 
 30. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.

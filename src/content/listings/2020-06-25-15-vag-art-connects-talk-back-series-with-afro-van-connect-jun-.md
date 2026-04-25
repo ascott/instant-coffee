@@ -26,5 +26,5 @@ cultural experiences, and the future of Black Spaces.
 
 To register for the event, please visit:
 
-https://zoom.u
+[https://zoom.u](https://zoom.u)
 s/webinar/register/WN_kvjHhj09ReC4OwlusKbyuA

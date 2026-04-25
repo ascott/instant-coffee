@@ -22,7 +22,7 @@ about his long-lasting impact, and a curated selection of artworks from contempo
 Nuu-chah-nulth artists and scholars, inspired by Clutesis activism and scholarship.
 
 More info and images can be found at:
-https://www.billreidgallery.ca/blogs/exhibitions-page/george-clutesi
+[https://www.billreidgallery.ca/blogs/exhibitions-page/george-clutesi](https://www.billreidgallery.ca/blogs/exhibitions-page/george-clutesi)
 
 XIM
 Guest curator: Jordanna George
@@ -41,6 +41,6 @@ alongside digital pieces, both English and native languages, humour and drama.
 XIM in the SEN-OEN language means to tell stories, specifically fictional or
 traditional stories.
 
-Exhibitions page: https://www.billreidgallery.ca/blogs/exhibitions-page/xiam (NOTE:
+Exhibitions page: [https://www.billreidgallery.ca/blogs/exhibitions-page/xiam](https://www.billreidgallery.ca/blogs/exhibitions-page/xiam) (NOTE:
 We don't have pictures for this exhibition yet, but I'll send them to you as soon as I
 have them.)

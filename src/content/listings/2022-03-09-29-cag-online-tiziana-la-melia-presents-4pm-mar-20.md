@@ -22,5 +22,5 @@ Roses (2013), along with the essays On Secrets: Eight Beginnings, Two Ends from
 Mary Ruefles Madness, Rack, and Honey (2012) and Proportion Surviving from Renee
 Gladmans Juice (2000).
 
-https://www.contemporaryartgallery.ca/events/cag-reads-tiziana-la-melia/?
+[https://www.contemporaryartgallery.ca/events/cag-reads-tiziana-la-melia/](https://www.contemporaryartgallery.ca/events/cag-reads-tiziana-la-melia/)?
 mc_cid=2a872d7f49&mc_eid=aea072d008

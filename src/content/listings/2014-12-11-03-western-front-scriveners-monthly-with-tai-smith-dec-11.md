@@ -50,4 +50,4 @@ Set alongside the exhibitions program at Western Front, this experiment in
 not publishing involves readings, performances, and other articulations.
 
 For more information, please visit
-http://front.bc.ca
+[http://front.bc.ca](http://front.bc.ca)

@@ -27,6 +27,6 @@ Entry is by donation. No one turned away for lack of funds. All proceeds will go
 support this year's Downtown Eastside Women's Memorial March. Click here to learn 
 more about this cause: womensmemorialmarch.wordpress.com/
 
-Facebook Event: https://www.facebook.com/events/1200775703344088/
+Facebook Event: [https://www.facebook.com/events/1200775703344088/](https://www.facebook.com/events/1200775703344088/)
 
 Bill Reid Gallery of Northwest Coast Art (639 Hornby Street)

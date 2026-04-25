@@ -30,7 +30,7 @@ M6K 1X9
 Please include the submission form below, a brief description, an artist bio and contact 
 information, as well as two film stills (tiff or jpg @ 300 dpi - 2 x 3) . Description, bio, contact info 
 and film stills may be emailed to tais@bellnet.ca or included in submission package. Application 
-form can be found here: http://www.tais.ca/opencall.html
+form can be found here: [http://www.tais.ca/opencall.html](http://www.tais.ca/opencall.html)
 
 Deadline for submissions: Friday May 29, 5:00 pm
 
@@ -44,7 +44,7 @@ scratch. Poulet of all sorts.
 
 Get cracking on those animations! 
 Deadline for submissions is May 29th, 2009 at 5:00 pm. 
-For more info or to download a submission form visit: http://www.tais.ca/chickenjam.html 
+For more info or to download a submission form visit: [http://www.tais.ca/chickenjam.html](http://www.tais.ca/chickenjam.html) 
 
 Toronto Animated Image Society
 60 Atlantic Avenue, Suite 102

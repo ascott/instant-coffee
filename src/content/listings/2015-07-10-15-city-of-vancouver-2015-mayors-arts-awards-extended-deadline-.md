@@ -40,5 +40,5 @@ Community Arts & Recreation Centre.
 
 Deadline for Nominations: Friday 17, 2015
 Submit a Nomination: Details and the nomination form can be found online
-at: http://ow.ly/NTx2Q
+at: [http://ow.ly/NTx2Q](http://ow.ly/NTx2Q)
 Please note that each nomination requires two nominators.

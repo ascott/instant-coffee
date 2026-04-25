@@ -12,7 +12,7 @@ ONLINE SCREENING
 Video Out New Acquisitions: Tricky Eyes
 Thursday November 5, 8pm PT
 
-https://www.vivomediaarts.com/programming/tricky-eyes-new-acquisitions-screening
+[https://www.vivomediaarts.com/programming/tricky-eyes-new-acquisitions-screening](https://www.vivomediaarts.com/programming/tricky-eyes-new-acquisitions-screening)
 
 FREE
 For our latest call-for-submissions, Video Out, in partnership with IFF Animation,

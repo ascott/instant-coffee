@@ -32,4 +32,4 @@ Additional screening on Sunday, Oct 2, 12:00pm
 
 Co-directors Peter Raymont and Michele Hozer in attendance.
 
-More info: http://westwindtomthomson.wordpress.com/
+More info: [http://westwindtomthomson.wordpress.com/](http://westwindtomthomson.wordpress.com/)

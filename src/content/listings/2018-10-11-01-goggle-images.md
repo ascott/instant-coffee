@@ -12,4 +12,4 @@ Goggle Images
 
 A net art project by Angelica Poversky
 
-http://goggleimages.ca/
+[http://goggleimages.ca/](http://goggleimages.ca/)

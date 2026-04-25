@@ -21,7 +21,7 @@ Yow. Learn more about Clares practice, and hear her discuss the work and themes 
 her current exhibition commonwealth. A Q&A will follow Clares presentation.
 
 To learn more about the exhibition, and to access the Zoom link for this event, visit:
-https://britanniaartgallery.weebly.com/tyler-wilson--clare-yow.html
+[https://britanniaartgallery.weebly.com/tyler-wilson--clare-yow.html](https://britanniaartgallery.weebly.com/tyler-wilson--clare-yow.html)
 
 CLARE YOW (b. 1985, Singapore) is a Chinese-Canadian visual artist residing,
 working, and parenting on the unceded, ancestral, and occupied

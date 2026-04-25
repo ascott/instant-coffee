@@ -12,7 +12,7 @@ Call for Exhibitions and Events Submissions to Capture Photography Festival
 
 Deadline to Apply: Oct 21, 2018
 
-APPLY HERE: http://capturephotofest.com/submissions/
+APPLY HERE: [http://capturephotofest.com/submissions/](http://capturephotofest.com/submissions/)
 
 Capture Photography Festival is devoted to exhibiting challenging and thought-
 provoking photography from local and international artists. Launched in 2013, the 
@@ -49,4 +49,4 @@ Submissions will close October 21.
 
 For further questions and information, including the benefits of being a participant 
 with Capture, please visit our submissions FAQ:
-http://capturephotofest.com/faq/
+[http://capturephotofest.com/faq/](http://capturephotofest.com/faq/)

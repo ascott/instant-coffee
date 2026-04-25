@@ -18,7 +18,7 @@ Join MOA curator and UBC adjunct professor Susan Rowley for an insightful
 talk about the creation of the Inuit Art Market, with illustrated examples
 from MOA's Inuit art collection.
 
-Check out our website for more details: http://www.moa.ubc.ca/events.
+Check out our website for more details: [http://www.moa.ubc.ca/events](http://www.moa.ubc.ca/events).
 
 Admission $15.68 Adults; $13.44 Students & Seniors 65+ / 6393 N.W. Marine
 Drive, Vancouver BC V6T 1Z2

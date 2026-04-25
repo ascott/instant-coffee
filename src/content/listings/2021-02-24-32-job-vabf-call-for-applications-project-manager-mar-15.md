@@ -41,7 +41,7 @@ updated provincial
 guidelines allow for select in-person programs.
 
 MORE INFO:
-https://drive.google.com/file/d/1DipoynAldNpLiKlGjHQx07MhSTV0HdXP/view?usp=sharing
+[https://drive.google.com/file/d/1DipoynAldNpLiKlGjHQx07MhSTV0HdXP/view?usp=sharing](https://drive.google.com/file/d/1DipoynAldNpLiKlGjHQx07MhSTV0HdXP/view?usp=sharing)
 We encourage applications from candidates looking to establish themselves in the arts
 community and committed to supporting this community in the long term, as this role has
 the potential for growth.

@@ -35,5 +35,5 @@ Cost: $295 + gst (all supplies included)
 
 Limited spots. Reserve your seat.
 
-https://sonya-iwasiuk-art-studio.square.site/product/workshop-playtime-with-golden-
+[https://sonya-iwasiuk-art-studio.square.site/product/workshop-playtime-with-golden-](https://sonya-iwasiuk-art-studio.square.site/product/workshop-playtime-with-golden-)
 acrylics-2-days-/9?cs=true&cst=custom

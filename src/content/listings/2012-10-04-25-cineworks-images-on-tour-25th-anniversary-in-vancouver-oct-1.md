@@ -34,6 +34,6 @@ Pacific Cinematheque 1131 Howe St
 7 p.m. $10 for Members 
 
 Full film descriptions available: 
-http://www.cineworks.ca/events/day/2012/10/18/
+[http://www.cineworks.ca/events/day/2012/10/18/](http://www.cineworks.ca/events/day/2012/10/18/)
 
 For more information contact progams@cineworks.ca 604 685 3841

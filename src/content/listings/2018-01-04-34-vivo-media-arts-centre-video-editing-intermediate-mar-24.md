@@ -22,10 +22,10 @@ Session 2: Sat March 31, 1pm - 5pm
 
 Session 3: Sat April 7, 1pm - 5pm
 
-SIGN UP & MORE INFO: https://video-editing-with-flick.eventbrite.ca
+SIGN UP & MORE INFO: [https://video-editing-with-flick.eventbrite.ca](https://video-editing-with-flick.eventbrite.ca)
 
 One extended subsidy is available for this workshop: 
-https://goo.gl/forms/4eplBq1KDSbJY6U53
+[https://goo.gl/forms/4eplBq1KDSbJY6U53](https://goo.gl/forms/4eplBq1KDSbJY6U53)
 
 This multi-day workshop is designed for students who want to advance beyond the 
 basics and become more skilled in telling their stories. Each session explores editing 

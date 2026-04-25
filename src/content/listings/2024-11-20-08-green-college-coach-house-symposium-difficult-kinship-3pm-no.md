@@ -48,4 +48,4 @@ Americas racial fantasies. We are interested in performing a pedagogical model o
 speculation and unknowing, and to consider the value of anti-heroic bad kin and
 difficult kinship (to quote queer historian Jennifer V. Evans) in our current moment.
 
-https://belkin.ubc.ca/events/symposium-russell-fitzgerald/
+[https://belkin.ubc.ca/events/symposium-russell-fitzgerald/](https://belkin.ubc.ca/events/symposium-russell-fitzgerald/)

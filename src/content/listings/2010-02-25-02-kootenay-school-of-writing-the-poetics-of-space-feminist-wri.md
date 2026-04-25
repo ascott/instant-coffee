@@ -63,4 +63,4 @@ innovative writing.
 
 This event is brought to you with the support of the Canada Council, Emily
 Carr University, the Kootenay School of Writing, and Rhizome Cafe -
-http://www.rhizomecafe.ca/
+[http://www.rhizomecafe.ca/](http://www.rhizomecafe.ca/)

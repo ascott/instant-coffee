@@ -11,7 +11,7 @@ summary: "waldorf | Day for Night | Films in the Afternoon | JAN 23"
 Day for Night | Films in the Afternoon
 Jan. 23rd, 2011, 3pm
 
-More information at http://www.waldorfhotel.com/
+More information at [http://www.waldorfhotel.com/](http://www.waldorfhotel.com/)
 
 The Waldorf Hotel (1489 East Hastings, Phone: 604-253-7141)
 

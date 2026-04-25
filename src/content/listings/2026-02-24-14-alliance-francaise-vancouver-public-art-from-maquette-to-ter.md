@@ -20,5 +20,5 @@ sculptor! This exhibition showcases scale models of her monumental sculptures ac
 British Columbia, inviting visitors to see how intention, form, and meaning emerge in dialogue
 with the city and its community.
 
-Info: https://www.alliancefrancaise.ca/event-rsvp/exhibition-public-art-from-maquette-to-
+Info: [https://www.alliancefrancaise.ca/event-rsvp/exhibition-public-art-from-maquette-to-](https://www.alliancefrancaise.ca/event-rsvp/exhibition-public-art-from-maquette-to-)
 territory-by-marie-khouri/

@@ -32,5 +32,5 @@ Culture in Dawson City, Yukon.
 Enjoy competitive benefits, flexible scheduling, professional development
 opportunities, and a supportive work environment.
 
-For more details on the position, please visit https://kiac.ca/get-involved/job-
+For more details on the position, please visit [https://kiac.ca/get-involved/job-](https://kiac.ca/get-involved/job-)
 opportunities/

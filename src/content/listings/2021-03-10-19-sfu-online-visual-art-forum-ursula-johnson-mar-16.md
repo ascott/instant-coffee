@@ -11,7 +11,7 @@ summary: "SFU [ONLINE] | Visual Art Forum: Ursula Johnson | MAR 16"
 Visual Art Forum: Ursula Johnson
 Visual Art Forum | Spring 2021
 March 16, 2021 | 9:30 AM (PST) | FREE | Zoom
-RSVP: https://www.eventbrite.ca/e/visual-art-forum-ursula-johnson-registration-
+RSVP: [https://www.eventbrite.ca/e/visual-art-forum-ursula-johnson-registration-](https://www.eventbrite.ca/e/visual-art-forum-ursula-johnson-registration-)
 144343379935
 
 Please join us for a free online talk by Ursula Johnson, which is presented as part of our

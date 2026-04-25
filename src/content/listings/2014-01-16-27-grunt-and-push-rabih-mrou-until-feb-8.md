@@ -43,19 +43,19 @@ grunt gallery. This workshop is intended for performance artists, theatre
 actors and those involved with the performing arts. Additional details 
 regarding this workshop will be announced on grunt's website. 
 
-Website URL: http://grunt.ca/exhibitions/nothing-to-lose/ 
-Facebook event: https://www.facebook.com/events/782135018480402/
+Website URL: [http://grunt.ca/exhibitions/nothing-to-lose/](http://grunt.ca/exhibitions/nothing-to-lose/) 
+Facebook event: [https://www.facebook.com/events/782135018480402/](https://www.facebook.com/events/782135018480402/)
 
 grunt gallery: 116-350 East 2nd Ave, Vancouver, BC V5T 4R8
 
 PuSh Festival events with Rabih Mroué: 
 
 – "The Pixelated Revolution" at SFU Goldcorp Centre for the Arts from 
-January 15 -18 http://pushfestival.ca/2014/shows/pixelated-revolution
+January 15 -18 [http://pushfestival.ca/2014/shows/pixelated-revolution](http://pushfestival.ca/2014/shows/pixelated-revolution)
 
 – PuSh Festival is hosting a breakfast series event with Mroué on January 16 
 (FREE)
-http://pushfestival.ca/2014/shows/rabih-mroue/) and will be presenting 
+[http://pushfestival.ca/2014/shows/rabih-mroue/](http://pushfestival.ca/2014/shows/rabih-mroue/)) and will be presenting 
 
 GRUNT 
 350 E 2nd Ave #116, Vancouver, BC V5T 4R8

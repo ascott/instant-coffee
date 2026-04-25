@@ -12,7 +12,7 @@ The Spirit Keepers of Makutaay: An Artist Talk with Yen-Chao Lin
 
 Friday, September 25, 2020, at 6 PM PST, via Zoom
 Register Here:
-https://us02web.zoom.us/meeting/register/tZUtdOqhpzMpGtf30jUnpgBw-OT8xXZDEDMm
+[https://us02web.zoom.us/meeting/register/tZUtdOqhpzMpGtf30jUnpgBw-OT8xXZDEDMm](https://us02web.zoom.us/meeting/register/tZUtdOqhpzMpGtf30jUnpgBw-OT8xXZDEDMm)
 
 Join us for an online artist talk by Montral-based artist Yen-Chao Lin via Zoom
 in conjunction with the current group exhibition, We cast Spells on the Mothers of
@@ -73,7 +73,7 @@ This event will take place online by Zoom. Please email us at info@centrea.org i
 you require assistance or further information.
 
 For further information please
-visit: https://centrea.org/programs-events/
+visit: [https://centrea.org/programs-events/](https://centrea.org/programs-events/)
 
-Please find event layouts as follows https://we-cast-
+Please find event layouts as follows [https://we-cast-](https://we-cast-)
 spells.squarespace.com/public-programming

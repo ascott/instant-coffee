@@ -60,7 +60,7 @@ V5T 1S1
 
 T. +1.604.876.9343
 F. +1.604.876.4099
-W. www.front.bc.ca <http://www.front.bc.ca> 
+W. www.front.bc.ca <[http://www.front.bc.ca](http://www.front.bc.ca)> 
 E. exhibitions@front.bc.ca
 H. Tuesday - Saturday 12-5pm
 

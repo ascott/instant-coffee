@@ -17,10 +17,10 @@ ARTISTS IN COMMUNITIES PROGRAM
 In 2024-2025 two communities will host artist residencies at:
 
 Dunbar Community Centre 4747 Dunbar St. Vancouver, BC V6S 2H2
-https://www.dunbarcentre.org/
+[https://www.dunbarcentre.org/](https://www.dunbarcentre.org/)
 
 Mount Pleasant Community Centre, 1 Kingsway, Vancouver, BC V5T 3H7
-https://mountpleasantcc.ca/
+[https://mountpleasantcc.ca/](https://mountpleasantcc.ca/)
 
 ARTIST INFORMATION SESSION
 
@@ -32,7 +32,7 @@ ROOM B (main floor)
 
 Please review information on our website prior to attending information
 session.
-http://vancouver.ca/people-programs/artists-in-communities-program.aspx
+[http://vancouver.ca/people-programs/artists-in-communities-program.aspx](http://vancouver.ca/people-programs/artists-in-communities-program.aspx)
 
 The Artists in Communities (AIC) program is based on principles of community
 cultural development. Its purpose is to encourage a wide variety of interactions
@@ -114,7 +114,7 @@ ARTIST FEE: $26,000.00 ($13,000 per year) Materials Expenses: $5000
 
 SUBMISSION DEADLINE: Oct. 9, 2023
 
-HOW TO APPLY: https://vancouver.ca/people-programs/artists-in-communities-
+HOW TO APPLY: [https://vancouver.ca/people-programs/artists-in-communities-](https://vancouver.ca/people-programs/artists-in-communities-)
 applying-for-residencies.aspx
 
 Note: If this process is not accessible to you, oral applications will be considered for

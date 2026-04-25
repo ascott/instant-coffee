@@ -35,4 +35,4 @@ Art+Feminisms website.
 
 Together, lets change things.
 
-https://belkin.ubc.ca/events/wikipedia-edit-a-thon-2022/
+[https://belkin.ubc.ca/events/wikipedia-edit-a-thon-2022/](https://belkin.ubc.ca/events/wikipedia-edit-a-thon-2022/)

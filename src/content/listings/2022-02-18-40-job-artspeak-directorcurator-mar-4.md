@@ -40,4 +40,4 @@ cultural competency and a dedication to fostering a strong sense of community.
 
 Please visit our website for
 further details on the Director/Curator position and how to
-apply [https://artspeak.ca/bulletin/].
+apply [[https://artspeak.ca/bulletin/](https://artspeak.ca/bulletin/)].

@@ -64,7 +64,7 @@ book. Kahn is a 2012 Guggenheim Fellow in Film/Video.
 
 The Distinguished Visiting Artist Program is made possible by the generous
 support of the Rennie Collection. This event is free and open to the public.
-http://www.ahva.ubc.ca
+[http://www.ahva.ubc.ca](http://www.ahva.ubc.ca)
 
 Art History, Visual Art & Theory Dept.
 University of British Columbia

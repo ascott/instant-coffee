@@ -127,7 +127,7 @@ APPLICATION AND DETAILED CAL
 
 Please have a look at the detailed calls and the official online  
 forms for application,	available at:
-http://www.urbanscreens08.net/callforprojects
+[http://www.urbanscreens08.net/callforprojects](http://www.urbanscreens08.net/callforprojects)
 
 
 CONTACT

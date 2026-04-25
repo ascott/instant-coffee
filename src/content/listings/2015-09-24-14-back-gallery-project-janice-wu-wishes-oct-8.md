@@ -43,4 +43,4 @@ This will be Janice Wu's first exhibit at the Back Gallery Project.
 
 The gallery is open from Tuesday - Saturday between 1pm - 5 pm and 
 by appointment
-http://www.backgalleryproject.com/
+[http://www.backgalleryproject.com/](http://www.backgalleryproject.com/)

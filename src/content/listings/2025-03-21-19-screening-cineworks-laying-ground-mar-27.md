@@ -56,4 +56,4 @@ her teaching and art practice, she hopes to continually deepen our experience of
 time through material transformation.
 
 www.xinwei-c.com
-https://www.instagram.com/p/DG1nIgays45/?img_index=1
+[https://www.instagram.com/p/DG1nIgays45/?img_index=1](https://www.instagram.com/p/DG1nIgays45/?img_index=1)

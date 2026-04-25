@@ -25,4 +25,4 @@ lou@lousheppard.com. This online event will be held via Zoom. You
 will require: A computer, smartphone, or tablet with access to internet.
 
 For more information, visit:
-https://www.lousheppard.com/branscombe
+[https://www.lousheppard.com/branscombe](https://www.lousheppard.com/branscombe)

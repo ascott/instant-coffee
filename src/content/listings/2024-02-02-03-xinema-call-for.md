@@ -28,7 +28,7 @@ proposal that relates to their film's subject matter or material practice.
 ~No previous teaching experience is required to teach a workshop.
 
 Submit a workshop proposal:
-https://docs.google.com/forms/d/e/1FAIpQLSef7aKAAYOShas9uWmOVVxQ0rIQdE
+[https://docs.google.com/forms/d/e/1FAIpQLSef7aKAAYOShas9uWmOVVxQ0rIQdE](https://docs.google.com/forms/d/e/1FAIpQLSef7aKAAYOShas9uWmOVVxQ0rIQdE)
 FSkvP_uuFddKWZerKrlw/viewform
 
 GUEST
@@ -50,7 +50,7 @@ be considered, and in some instances XINEMA may work with the artist/curator to
 refine working concepts.**
 
 Submit a curatorial proposal:
-https://docs.google.com/forms/d/e/1FAIpQLSforaih3uU8J-
+[https://docs.google.com/forms/d/e/1FAIpQLSforaih3uU8J-](https://docs.google.com/forms/d/e/1FAIpQLSforaih3uU8J-)
 FNcUZ_6ILlZ7XjbVrAfdp_3QIiKGy-n02agg/viewform
 
 EXPERIMENTAL FILM AND MEDIA WORK:
@@ -67,7 +67,7 @@ with their film's subject matter or material practice. Artists may also propose 
 programs that feature or are based around their own work.
 
 Submit your work:
-https://docs.google.com/forms/d/e/1FAIpQLScdIGH1vZm4ahSARGENCOUuVNyD3
+[https://docs.google.com/forms/d/e/1FAIpQLScdIGH1vZm4ahSARGENCOUuVNyD3](https://docs.google.com/forms/d/e/1FAIpQLScdIGH1vZm4ahSARGENCOUuVNyD3)
 9e9JRT1FfhEriYGTrGPNg/viewform
 
 **Submissions of all workshops/programs/films will be assessed on an ongoing basis
@@ -120,4 +120,4 @@ disciplines and career levels.
 
 Website: www.xinema.ca
 
-Instagram: https://www.instagram.com/xin3ma/
+Instagram: [https://www.instagram.com/xin3ma/](https://www.instagram.com/xin3ma/)

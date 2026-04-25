@@ -28,7 +28,7 @@ performance has started, and to stay and go as they please for the show's entire
 duration.
 
 Tickets are available through this link:
-https://www.zeffy.com/en-CA/ticketing/cd90e37e-737e-493b-a441-438077cdc6e6
+[https://www.zeffy.com/en-CA/ticketing/cd90e37e-737e-493b-a441-438077cdc6e6](https://www.zeffy.com/en-CA/ticketing/cd90e37e-737e-493b-a441-438077cdc6e6)
 
 Full credits and more information on the show are available on our website:
-https://vact.ca/wreckage-upon-wreckage/
+[https://vact.ca/wreckage-upon-wreckage/](https://vact.ca/wreckage-upon-wreckage/)

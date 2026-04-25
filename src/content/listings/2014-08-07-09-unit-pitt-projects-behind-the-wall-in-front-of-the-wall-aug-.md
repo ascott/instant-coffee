@@ -34,7 +34,7 @@ pastoral settings, strange domestic scenes, and heated public protests.
 
 The Sounds of Your Ancestral Past
 Available for download -
-https://soundcloud.com/behind-infront/the-sound-of-your-ancestral-past
+[https://soundcloud.com/behind-infront/the-sound-of-your-ancestral-past](https://soundcloud.com/behind-infront/the-sound-of-your-ancestral-past)
 
 Behind the Wall /In Front of the Wall is a consideration of two families'
 recent past, against a backdrop of political change and economic
@@ -85,7 +85,7 @@ Unit Pitt Projects
 236 E Pender St
 Vancouver BC
 
-http://www.helenpittgallery.org
+[http://www.helenpittgallery.org](http://www.helenpittgallery.org)
 UNIT/PITT is grateful for the assistance of the Canada Council, the
 British Columbia Arts Council, and the City of Vancouver; we are
 particularly grateful to individual donors, volunteers, artists, and

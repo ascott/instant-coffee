@@ -38,5 +38,5 @@ Parks Board Arts and Culture.
 
 The last batch of tickets available now for $25!
 
-Tickets available at http://alternativepride.ca
+Tickets available at [http://alternativepride.ca](http://alternativepride.ca)
 There will be limited $30 tickets at the door.

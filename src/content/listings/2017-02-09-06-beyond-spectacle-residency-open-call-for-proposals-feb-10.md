@@ -10,7 +10,7 @@ summary: "Beyond Spectacle Residency | Open Call for Proposals | FEB 10"
 
 Beyond Spectacle Residency is a hybrid conference/artist residency exploring the 
 continuing relevance of the Situationist International. April, 2017. | 
-http://www.beyondspectacle.org/
+[http://www.beyondspectacle.org/](http://www.beyondspectacle.org/)
 
 "As long as necessity is socially dreamed, dreaming will remain a social necessity." 
 Guy Debord, The Society of the Spectacle Aphorism 21

@@ -27,5 +27,5 @@ reading/presentation/etc.
 NOT INCLUDED IN THE RESIDENCY: travel expenses, food, health insurance, art 
 materials, shipping costs, exhibition costs and other personal expenses.
 
-LEARN MORE + APPLY HERE: https://www.caetani.org/self-directed-residencies-
+LEARN MORE + APPLY HERE: [https://www.caetani.org/self-directed-residencies-](https://www.caetani.org/self-directed-residencies-)
 for-artists-and-writers/

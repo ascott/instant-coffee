@@ -14,7 +14,7 @@ Location: Wil Aballe Art Projects
 1129 E Hastings St, Vancouver
 
 For tickets to the record launch, please visit Second Springs website:
-https://secondspring.online/Strawberry-Launch-Tix
+[https://secondspring.online/Strawberry-Launch-Tix](https://secondspring.online/Strawberry-Launch-Tix)
 
 Emotionality is a recording of a live performance by Strawberry at Or Gallerys
 Dance-a-thon in Vancouver, Canada, produced and remixed by the band. Weaving

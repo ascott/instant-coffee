@@ -21,4 +21,4 @@ exhibition, Seurat and Friends.
 Festive treats and beverages will be served.
 
 
-http://www.artspeak.ca
+[http://www.artspeak.ca](http://www.artspeak.ca)

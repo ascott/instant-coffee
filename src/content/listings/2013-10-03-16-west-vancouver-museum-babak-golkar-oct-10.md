@@ -69,7 +69,7 @@ westvancouvermuseum.ca
 Open Tuesday to Saturday: 11 a.m. to 5 p.m.
 Admission by Donation
 
-For more on the artist, please visit http://babakgolkar.ca. For images or 
+For more on the artist, please visit [http://babakgolkar.ca](http://babakgolkar.ca). For images or 
 additional details, contact:
 
 Darrin Morrison, Director/Curator

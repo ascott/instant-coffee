@@ -39,7 +39,7 @@ Free dinner if you help Sunday take-down until the end
 Volunteer Appreciation Party on the Tuesday after Festival with awards, dinner, door 
 prizes, and bingo! 
 
-Submit your volunteer application form: http://www.powellstreetfestival.com/get-
+Submit your volunteer application form: [http://www.powellstreetfestival.com/get-](http://www.powellstreetfestival.com/get-)
 involved/volunteer/vol-application/
 
-For more information about the festival: http://www.powellstreetfestival.com/festival/
+For more information about the festival: [http://www.powellstreetfestival.com/festival/](http://www.powellstreetfestival.com/festival/)

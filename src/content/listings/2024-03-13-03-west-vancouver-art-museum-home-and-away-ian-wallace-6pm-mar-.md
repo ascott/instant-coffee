@@ -35,4 +35,4 @@ Festival 2024.
 
 Opening Reception: March 12, 2024, 6-8pm
 
-See events and guided tours here: https://westvancouverartmuseum.ca/events
+See events and guided tours here: [https://westvancouverartmuseum.ca/events](https://westvancouverartmuseum.ca/events)

@@ -33,7 +33,7 @@ maze-like in their pattern and process and embedding them within an installation
 casually draped domestic textile and stone pavers of in-process and impromptu
 construction wherein visitors may be themselves threads within the work.
 
-Event and accessibility details here: https://grunt.ca/events/
+Event and accessibility details here: [https://grunt.ca/events/](https://grunt.ca/events/)
 
-Exhibition details here: https://grunt.ca/exhibitions/solo-exhibition-by-francisco-
+Exhibition details here: [https://grunt.ca/exhibitions/solo-exhibition-by-francisco-](https://grunt.ca/exhibitions/solo-exhibition-by-francisco-)
 berlanga/

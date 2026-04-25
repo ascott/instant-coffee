@@ -10,7 +10,7 @@ summary: "THEATRE | Fish Bowl Granville Island | Tell Me | JUL 5"
 
 Micro Performance Series presents Tell Me
 
-https://bocadellupo.com/projects/tell-me
+[https://bocadellupo.com/projects/tell-me](https://bocadellupo.com/projects/tell-me)
 
 Boca del Lupos Micro Performance Series & Indian Summer Festival co-present Tell
 Me by multimedia artist Anamika Deb from Montreal. The installation opens on July
@@ -35,4 +35,4 @@ your time. Please find a quiet place to do your recording. Your submission will 
 added to the installation before you arrive.
 
 Participate in Tell Me:
-https://form.jotform.com/251376788858277
+[https://form.jotform.com/251376788858277](https://form.jotform.com/251376788858277)

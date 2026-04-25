@@ -49,4 +49,4 @@ This juried exhibition features the best and the brightest of the works submitte
 
 Saturday and Sunday, August 5-6, noon to 5.
 
-https://thisgallery.org/
+[https://thisgallery.org/](https://thisgallery.org/)

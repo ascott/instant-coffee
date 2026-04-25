@@ -56,7 +56,7 @@ Erin Travers (University of California, Santa Barbara)
 Christian Whitworth (Tufts University)
 
 For talk titles and full program schedule, visit:
-http://www.ahva.ubc.ca/eventsDetails.cfm?EventID=1406&EventTypeNumID=6
+[http://www.ahva.ubc.ca/eventsDetails.cfm?EventID=1406&EventTypeNumID=6](http://www.ahva.ubc.ca/eventsDetails.cfm?EventID=1406&EventTypeNumID=6)
 
 Artists in the exhibition include:
 Mallory Amirault (Emily Carr University of Art and Design)

@@ -43,4 +43,4 @@ are looking for a range of relevant skills and experience, which does not necess
 past work
 with mural artists
 
-To apply: https://vanmuralfest.ca/joinourteam
+To apply: [https://vanmuralfest.ca/joinourteam](https://vanmuralfest.ca/joinourteam)

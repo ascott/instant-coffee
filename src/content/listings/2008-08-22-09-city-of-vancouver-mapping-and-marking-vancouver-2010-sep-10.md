@@ -40,7 +40,7 @@ apply to work with one or more artists.
 Budgets: $5,000 to $150,000
 
 Download the full request:
-http://vancouver.ca/commsvcs/oca/publicart/pdf/artistinitiated2010.pdf
+[http://vancouver.ca/commsvcs/oca/publicart/pdf/artistinitiated2010.pdf](http://vancouver.ca/commsvcs/oca/publicart/pdf/artistinitiated2010.pdf)
 
 Submission Deadline: 4:00 PM, Thursday, October 16, 2008
 

@@ -16,7 +16,7 @@ Please apply with photos of your work to hello@yactac.com.
 
 More details of the show will be coming soon.
 
-https://www.facebook.com/Yactac/
+[https://www.facebook.com/Yactac/](https://www.facebook.com/Yactac/)
 
 Because it's great and we're Yactac!
-http://https://www.facebook.com/Yactac/
+[http://https://www.facebook.com/Yactac/](http://https://www.facebook.com/Yactac/)

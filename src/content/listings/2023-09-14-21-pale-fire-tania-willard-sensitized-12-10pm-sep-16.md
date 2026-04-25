@@ -51,4 +51,4 @@ and family, centering art as an Indigenous resurgent act through collaborative
 projects such as BUSH Gallery and support of language revitalization in Secwpemc
 communities.
 
-https://www.palefireprojects.com/
+[https://www.palefireprojects.com/](https://www.palefireprojects.com/)

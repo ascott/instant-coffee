@@ -47,5 +47,5 @@ theatre, and the sculptors with whom she surrounds herself.
 
 The Rennie Collection at Wing Sang is free and open to the public by
 appointment only. For more information and to book a tour please go to:
-http://renniecollection.org. For more information about this lecture, and
+[http://renniecollection.org](http://renniecollection.org). For more information about this lecture, and
 other programming at Emily Carr, go to: www.ecuad.ca.

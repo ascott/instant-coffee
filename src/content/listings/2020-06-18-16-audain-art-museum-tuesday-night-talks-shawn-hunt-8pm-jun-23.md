@@ -11,7 +11,7 @@ summary: "Audain Art Museum | Tuesday Night Talks - Shawn Hunt | 8PM | JUN 23"
 Shawn Hunt | June 23
 
 REGISTER HERE:
-https://us02web.zoom.us/webinar/register/WN_NseijqdcT1qqiM_bXacOlw
+[https://us02web.zoom.us/webinar/register/WN_NseijqdcT1qqiM_bXacOlw](https://us02web.zoom.us/webinar/register/WN_NseijqdcT1qqiM_bXacOlw)
 
 The Audain Art Museums (AAM) new Tuesday Night Talks (TNT) offer a unique
 opportunity for online participants to simultaneously enter the Museum and the

@@ -31,4 +31,4 @@ Media Studies at The New School in New York City.
 NOTE:
 Kate Eichhorn and Kyla Mallett will speak on Art and Research (moderated by
 Jacqueline Turner) @ Artspeak, 8 pm, Jan 22
-http://artspeak.ca/exhibitions/event_detail.html?event_id=243
+[http://artspeak.ca/exhibitions/event_detail.html?event_id=243](http://artspeak.ca/exhibitions/event_detail.html?event_id=243)

@@ -24,7 +24,7 @@ by memory fragment.
 A presentation of W2’s Vancouver 125 Redress Series and W2's Soul Gardens
 project, with support from the City of Vancouver's 125th Anniversary Grant
 Program and the participation of the Government of Canada.
-http://www.creativetechnology.org/events/just-beyond-hope-artist-talk-p
+[http://www.creativetechnology.org/events/just-beyond-hope-artist-talk-p](http://www.creativetechnology.org/events/just-beyond-hope-artist-talk-p)
 
 Irwin Oostindie,
 Executive Director

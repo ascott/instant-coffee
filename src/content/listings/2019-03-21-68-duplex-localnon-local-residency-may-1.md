@@ -54,7 +54,7 @@ afford to take this project on without the assistance of this fee.
 Application Specifics
 
 Full details for submitting an application can be found on our website here: 
-http://duplexduplex.ca/residency.html
+[http://duplexduplex.ca/residency.html](http://duplexduplex.ca/residency.html)
 
 DUPLEX
 4257 + 4277 Fraser St. (entrance in back alley)

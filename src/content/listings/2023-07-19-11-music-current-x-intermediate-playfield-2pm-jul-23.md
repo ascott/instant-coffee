@@ -14,7 +14,7 @@ Sun, Jul 23, 2023 2:00 PM - 7:00 PM PDT
 
 Annex 823 Seymour Street
 
-https://www.eventbrite.ca/e/current-x-intermediate-presents-play-field-tickets-
+[https://www.eventbrite.ca/e/current-x-intermediate-presents-play-field-tickets-](https://www.eventbrite.ca/e/current-x-intermediate-presents-play-field-tickets-)
 664306938937
 
 Find full program details and reserve tickets for this years events:

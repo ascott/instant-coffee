@@ -14,7 +14,7 @@ Griffin Art Projects
 
 www.griffinartprojects.ca
 
-Zoom Link: https://zoom.us/webinar/register/WN_Qei2uQv0QH2XSkPfEjayfQ
+Zoom Link: [https://zoom.us/webinar/register/WN_Qei2uQv0QH2XSkPfEjayfQ](https://zoom.us/webinar/register/WN_Qei2uQv0QH2XSkPfEjayfQ)
 
 Join Vancouver-based artist Marlene Yuen for a letterpress printing demonstration and artist
 talk streamed live over Zoom from WePress, a community artspace in Vancouvers

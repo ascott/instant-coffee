@@ -34,7 +34,7 @@ the management and production of public art commissions?
 Speakers will present their seasoned perspectives on public art and 
 speak to their concerns and hopes for the art form.
 
-For more information: http://www.carfacbc.org/news/
+For more information: [http://www.carfacbc.org/news/](http://www.carfacbc.org/news/)
 
 ***************************
 CARFAC BC is the primary vehicle in British Columbia through which 
@@ -54,4 +54,4 @@ As the membership of artists in British Columbia increases, our ability
 to actually change the conditions in which we live and work will 
 increase too.
 
-Join CARFAC BC today! http://www.carfacbc.org/join/
+Join CARFAC BC today! [http://www.carfacbc.org/join/](http://www.carfacbc.org/join/)

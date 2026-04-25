@@ -31,7 +31,7 @@ a document released on November 3.
 Applications are due November 24.
 
 Find more information here:
-http://vancouver.ca/files/cov/invitation-to-apply-for-an-engineer-artist-in-
+[http://vancouver.ca/files/cov/invitation-to-apply-for-an-engineer-artist-in-](http://vancouver.ca/files/cov/invitation-to-apply-for-an-engineer-artist-in-)
 residence.pdf
 
 34. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing

@@ -26,5 +26,5 @@ Sonya is a GOLDEN Artist Educator and a Mixed Media Master!
 
 Space is limited and advanced
 registration is required:
-https://sonya-iwasiuk-art-studio.square.site/product/artworkshop/8?
+[https://sonya-iwasiuk-art-studio.square.site/product/artworkshop/8](https://sonya-iwasiuk-art-studio.square.site/product/artworkshop/8)?
 cs=true&cst=custom

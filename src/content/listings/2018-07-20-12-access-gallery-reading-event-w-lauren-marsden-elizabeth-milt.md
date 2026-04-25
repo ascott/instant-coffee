@@ -38,6 +38,6 @@ Sianne Ngai, Chapter 3 of "The Zany Science from Our Aesthetic Categories:
 Zany, Cute and Interesting," 2012.
 
 PDFs for both texts may be downloaded here:
-https://drive.google.com/drive/folders/1YIKHnhCnwVyKv0XOXjEXcVnL8An3E7ZF?usp=sharing
+[https://drive.google.com/drive/folders/1YIKHnhCnwVyKv0XOXjEXcVnL8An3E7ZF?usp=sharing](https://drive.google.com/drive/folders/1YIKHnhCnwVyKv0XOXjEXcVnL8An3E7ZF?usp=sharing)
 
 More info at accessgallery.ca

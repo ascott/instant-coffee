@@ -23,4 +23,4 @@ artist or curator will have the opportunity to explore the CBC Archives collecti
 research and inform their artwork intended for exhibition on The WALL.
 
 The deadline to apply is February 28, 2022 at 5pm.
-https://www.vancouverheritagefoundation.org/discover-heritage/the-wall/
+[https://www.vancouverheritagefoundation.org/discover-heritage/the-wall/](https://www.vancouverheritagefoundation.org/discover-heritage/the-wall/)

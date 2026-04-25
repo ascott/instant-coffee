@@ -29,4 +29,4 @@ Samuel Roy-Bois: Reward Friends, Punish Enemies
 Dog Days
 Kevin Schmidt: Reckless
 
-https://thepolygon.ca/event/artparty/
+[https://thepolygon.ca/event/artparty/](https://thepolygon.ca/event/artparty/)

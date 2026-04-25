@@ -23,11 +23,11 @@ Suggested reading for session II:
 1 (life) 0 (blackness) = ' or / : On Matter Beyond the Equation of Value
 by Denise Ferreira da Silva
 
-http://www.e-flux.com/journal/79/94686/1-life-0-blackness-or-on-matter-beyond-the-
+[http://www.e-flux.com/journal/79/94686/1-life-0-blackness-or-on-matter-beyond-the-](http://www.e-flux.com/journal/79/94686/1-life-0-blackness-or-on-matter-beyond-the-)
 equation-of-value/
 
 Artspeak
 233 Carrall Street
 Vancouver, BC
 Canada V6B 2J2
-http://artspeak.ca/
+[http://artspeak.ca/](http://artspeak.ca/)

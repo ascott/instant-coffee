@@ -13,7 +13,7 @@ Erth, and other Landscapes
 Programmed by Michèle Smith
 Monday June 17th, 7:30pm
 1131 Howe St. Vancouver Tix: $11/9 +$3 membership
-http://www.dimcinema.ca/ http://www.thecinematheque.ca
+[http://www.dimcinema.ca/](http://www.dimcinema.ca/) [http://www.thecinematheque.ca](http://www.thecinematheque.ca)
 
 “Erth, and Other Landscapes”  presents a series of musings on nature,
 technology, perception, and time by two generations of renowned artists and

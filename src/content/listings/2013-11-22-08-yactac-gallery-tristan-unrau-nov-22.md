@@ -20,7 +20,7 @@ Yactac Gallery
 7206 Ontario Street (at E 56th)
 Vancouver B.C
 V5X3B7
-http://www.yactac.com
+[http://www.yactac.com](http://www.yactac.com)
 yactacgallery@gmail.com
 Look us up on facebook and twitter.
 

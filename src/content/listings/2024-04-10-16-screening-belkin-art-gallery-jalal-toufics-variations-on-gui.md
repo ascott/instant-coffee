@@ -22,4 +22,4 @@ of occurring across and beyond a moment, he explores the multiplicity of possibl
 variations in time and action, highlighting a visual manifestation of doubt and
 uncertainty.
 
-https://belkin.ubc.ca/events/film-screening-jalal-toufic/
+[https://belkin.ubc.ca/events/film-screening-jalal-toufic/](https://belkin.ubc.ca/events/film-screening-jalal-toufic/)

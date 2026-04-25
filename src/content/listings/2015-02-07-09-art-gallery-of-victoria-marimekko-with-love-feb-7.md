@@ -34,7 +34,7 @@ the 1970s as well as a breadth of archival material highlighting the
 personal stories and social relationships at the heart of the company’s
 international impact. Marimekko, With Love is circulated by the Textile
 Museum of Canada, and is curated by their Executive Director, Shauna McCabe.
-- See more at: http://aggv.ca/marimekkowithlove#sthash.NNh7burD.dpuf
+- See more at: [http://aggv.ca/marimekkowithlove#sthash.NNh7burD.dpuf](http://aggv.ca/marimekkowithlove#sthash.NNh7burD.dpuf)
 
 Related Programs at the AGGV:
 

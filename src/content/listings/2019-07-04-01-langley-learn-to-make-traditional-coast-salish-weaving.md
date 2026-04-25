@@ -35,4 +35,4 @@ weaving . Fun & interactive class. You must register early as space is limited!
 $5 includes all supplies for the workshop required to participate. However, the 
 demonstration is Free and open to all public to observe.
 
-To purchase tickets please go to https://hazelgludocedarweaving.eventbrite.ca
+To purchase tickets please go to [https://hazelgludocedarweaving.eventbrite.ca](https://hazelgludocedarweaving.eventbrite.ca)

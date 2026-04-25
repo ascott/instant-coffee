@@ -49,8 +49,8 @@ The application to the pre-qualification phase must not exceed
 10 A4 pages. It should contain a CV, a statement on relevant experience,
 and documentation of previous projects. Unless a stamped and addressed
 return envelope is included, all submitted material will be destroyed.
-For further information please see http://www.koro.no and
-http://www.kilden.com
+For further information please see [http://www.koro.no](http://www.koro.no) and
+[http://www.kilden.com](http://www.kilden.com)
 Mark the envelope "Kilden" and send to:
 KORO
 Postboks 6994, St Olavs Plass

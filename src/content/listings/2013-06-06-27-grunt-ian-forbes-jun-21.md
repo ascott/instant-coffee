@@ -51,7 +51,7 @@ His work has been shown in Canada and Europe. www.ianforbes.ca
 
 Visit grunt gallery's website to view the media release:
 
-http://grunt.ca/exhibitions/the-big-foldy-painting-of-death/ 
+[http://grunt.ca/exhibitions/the-big-foldy-painting-of-death/](http://grunt.ca/exhibitions/the-big-foldy-painting-of-death/) 
 
 Upcoming Exhibitions 
 
@@ -91,7 +91,7 @@ Visit our support page to learn of the various ways you can give to grunt.
 
 Questions? Email Karlene at
 karlene@grunt.ca 
-grunt gallery | | karlene@grunt.ca | http://grunt.ca
+grunt gallery | | karlene@grunt.ca | [http://grunt.ca](http://grunt.ca)
 350 E 2nd, Unit 116
 Vancouver, V5T 4R8
 Connect with us on social media:

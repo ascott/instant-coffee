@@ -69,7 +69,7 @@ ish
 Thursday, September 4 at 3:00 PM & Friday, September 5 at 6:30 PM
 Studio T " 149 W. Hastings St., Vancouver
 
-MORE: https://www.sfu.ca/sca/events---news/events/can-i-call-you-back-.html
+MORE: [https://www.sfu.ca/sca/events---news/events/can-i-call-you-back-.html](https://www.sfu.ca/sca/events---news/events/can-i-call-you-back-.html)
 
 Brady Cranfield
 Communications

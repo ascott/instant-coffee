@@ -8,4 +8,4 @@ venue: "Arts Factory Society"
 summary: "Arts Factory Society | Call for Studio Space | SEP 15"
 ---
 
-http://www.artsfactorysociety.ca/
+[http://www.artsfactorysociety.ca/](http://www.artsfactorysociety.ca/)

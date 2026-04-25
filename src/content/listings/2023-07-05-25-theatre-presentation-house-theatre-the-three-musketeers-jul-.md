@@ -47,4 +47,4 @@ summer from July 21-30.
 
 Tickets ($17 - $24) are available now at
 
-https://www.phtheatre.org/the-three-musketeers-july-21-30-2023/
+[https://www.phtheatre.org/the-three-musketeers-july-21-30-2023/](https://www.phtheatre.org/the-three-musketeers-july-21-30-2023/)

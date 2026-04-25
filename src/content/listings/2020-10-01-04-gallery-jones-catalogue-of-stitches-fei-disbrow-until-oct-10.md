@@ -49,4 +49,4 @@ Canada
 www.galleryjones.com
 Follow us on Instagram @galleryjones
 
-http://www.galleryjones.com
+[http://www.galleryjones.com](http://www.galleryjones.com)

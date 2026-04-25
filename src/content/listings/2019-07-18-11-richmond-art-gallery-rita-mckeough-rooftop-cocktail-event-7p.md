@@ -81,4 +81,4 @@ be served! All proceeds support RAGA education and outreach programs.
 
 Beer generously donated by Richmond's own Fuggles and Warlock.
 
-Purchase Tickets: https://www.facebook.com/events/2116839901761509/
+Purchase Tickets: [https://www.facebook.com/events/2116839901761509/](https://www.facebook.com/events/2116839901761509/)

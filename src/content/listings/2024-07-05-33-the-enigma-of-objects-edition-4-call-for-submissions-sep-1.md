@@ -27,7 +27,7 @@ Submissions: To feature your object + micro-stories on this instagram-based
 exhibition, please send in the following via DM @the.enigma.of.objects or e-mail
 enigmaofobjects@gmail.com
 
-https://www.instagram.com/the.enigma.of.objects/
+[https://www.instagram.com/the.enigma.of.objects/](https://www.instagram.com/the.enigma.of.objects/)
 
 2 photos of an object from your personal collection against a neutral backdrop. More
 photo guidelines here.

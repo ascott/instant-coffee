@@ -31,7 +31,7 @@ the development of ideology. Ultimately, I would like to examine the role
 of clothing as a form of cultural production.
 
 I hope you will participate by leaving comments on my blog
-http://www.makeshiftproject.blogspot.com/ or Stopping by the space for a
+[http://www.makeshiftproject.blogspot.com/](http://www.makeshiftproject.blogspot.com/) or Stopping by the space for a
 visit. Makeshift is meant to be an exploration of ideas so the conversation
 that develops will become an important part of how the project unfolds.
 
@@ -41,4 +41,4 @@ Natalie
 makeshift | 8 E. Cordova St. | Vancouver | BC | V6B 2J2 | Canada
 makeshift@huntandgather.ca
 
-http://http://www.makeshiftproject.blogspot.com/
+[http://http://www.makeshiftproject.blogspot.com/](http://http://www.makeshiftproject.blogspot.com/)

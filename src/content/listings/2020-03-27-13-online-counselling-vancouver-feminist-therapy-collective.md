@@ -16,7 +16,7 @@ approach.
 
 Please include us on your list if this interests you:
 
-https://hildananningcounselling.ca/vancouver-feminist-therapy-collective/
+[https://hildananningcounselling.ca/vancouver-feminist-therapy-collective/](https://hildananningcounselling.ca/vancouver-feminist-therapy-collective/)
 
 ** (COVID-19) Accomodations: We are transitioning to offer all of our sessions ONLINE
 to support the health and wellbeing of our community.

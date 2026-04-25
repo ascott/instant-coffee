@@ -38,4 +38,4 @@ www.fortgallery.ca
 
 @FortGallery
 
-https://facebook.com/fortgallery
+[https://facebook.com/fortgallery](https://facebook.com/fortgallery)

@@ -128,7 +128,7 @@ staff, and faculty regarding set-up, troubleshooting, and operations.
 
 11 Performs other related duties as required.
 
-To apply for this job, please visit https://ecuad.peopleadmin.ca. Competition closes
+To apply for this job, please visit [https://ecuad.peopleadmin.ca](https://ecuad.peopleadmin.ca). Competition closes
 on Thursday, 17 August 2023.
 
 Emily Carr University especially invites those who have demonstrated a commitment

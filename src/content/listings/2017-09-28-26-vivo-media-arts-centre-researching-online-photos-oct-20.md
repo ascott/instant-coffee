@@ -17,7 +17,7 @@ Lepawsky.
 4 hours total // by donation, while spaces last
 Friday, Oct 20, 10am-2pm
 
-Details and sign up on Eventbrite " https://researching-online-photos.eventbrite.ca
+Details and sign up on Eventbrite " [https://researching-online-photos.eventbrite.ca](https://researching-online-photos.eventbrite.ca)
 Or email education@vivomediaarts.com or call 604-872-8337, ext. 5
 
 Turn the web into an instrument for social analysis. Learn a selection of techniques that 
@@ -25,7 +25,7 @@ allow you to create highly unique graphs that reveal the online career of a phot
 and other image files. How has a particular photo been used? How has it been 
 discussed in different online contexts? How have people engaged certain specific 
 images online? Learn how to collect such data using Googles Reverse Image Search 
-with Voyant (https://voyant-tools.org), and then process it to visualize the datas complex 
+with Voyant ([https://voyant-tools.org](https://voyant-tools.org)), and then process it to visualize the datas complex 
 aspects and patterns for further investigation. The aesthetic results of these 
 visualizations are often very intriguing, making this a great way to communicate your 
 interpretations to audiences not specialized in your research area!

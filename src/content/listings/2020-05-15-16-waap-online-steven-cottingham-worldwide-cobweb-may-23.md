@@ -16,7 +16,7 @@ Steven Cottingham
 "Worldwide Cobweb"
 
 Launch date: SAT, MAR 23, 2020
-http://www.waapart.com/viewing-room-steven-cottingham
+[http://www.waapart.com/viewing-room-steven-cottingham](http://www.waapart.com/viewing-room-steven-cottingham)
 Online only
 
 Exhibition: Mar 23 - June 27, 2020

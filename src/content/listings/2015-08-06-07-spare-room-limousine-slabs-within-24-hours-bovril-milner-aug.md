@@ -47,4 +47,4 @@ environment, situation, or place to investigate the experimental stages of
 spatial design.
 
 More info:
-http://spare-room.ca/
+[http://spare-room.ca/](http://spare-room.ca/)

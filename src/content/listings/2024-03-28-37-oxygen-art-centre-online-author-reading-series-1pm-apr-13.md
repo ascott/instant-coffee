@@ -13,7 +13,7 @@ Alicia Elliott + Brandi Bird
 + introducing Morrigan Bonegardener
 Free! Register to attend (Zoom)
 
-https://us02web.zoom.us/meeting/register/tZErfuivqTIpHdR2P1bzsB6NBuML-KhEX-
+[https://us02web.zoom.us/meeting/register/tZErfuivqTIpHdR2P1bzsB6NBuML-KhEX-](https://us02web.zoom.us/meeting/register/tZErfuivqTIpHdR2P1bzsB6NBuML-KhEX-)
 KX
 
 Oxygen Art Centre is delighted to present the first event of 2024s Author Reading

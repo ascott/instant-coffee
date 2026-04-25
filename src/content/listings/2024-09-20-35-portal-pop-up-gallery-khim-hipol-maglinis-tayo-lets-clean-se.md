@@ -10,7 +10,7 @@ summary: "PORTAL POP-UP GALLERY | Khim Hipol: Maglinis Tayo (Let's Clean) | SEP 
 
 PORTAL POP-UP GALLERY
 
-https://portalpopupgallery.square.site/
+[https://portalpopupgallery.square.site/](https://portalpopupgallery.square.site/)
 
 407 W. Cordova St., Vancouver BC
 

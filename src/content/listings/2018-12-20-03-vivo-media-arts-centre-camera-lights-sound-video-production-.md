@@ -10,7 +10,7 @@ summary: "VIVO Media Arts Centre | Camera, Lights, Sound! video production | JAN
 
 Camera, Lights, Sound! video production workshop
 
-SIGN UP & MORE INFO: https://cls-alyshaseriani.eventbrite.ca/
+SIGN UP & MORE INFO: [https://cls-alyshaseriani.eventbrite.ca/](https://cls-alyshaseriani.eventbrite.ca/)
 
 Learn the basics needed to shoot your first videos with the help of artist Alysha 
 Seriani!
@@ -33,4 +33,4 @@ you started on your videos! It also benefits participants interested in VIVOs mo
 intermediary video-making workshops.
 
 Two extended subsidies available for this workshop:
-https://goo.gl/forms/qZ2y9YJ20g5kOekG2
+[https://goo.gl/forms/qZ2y9YJ20g5kOekG2](https://goo.gl/forms/qZ2y9YJ20g5kOekG2)

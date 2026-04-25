@@ -17,4 +17,4 @@ azuman@gmail.com
 
 Sunday, February 14 at 2:00 PM - 4:00 PM
 4892 Walden Street
-https://www.facebook.com/events/1522728481355906/
+[https://www.facebook.com/events/1522728481355906/](https://www.facebook.com/events/1522728481355906/)

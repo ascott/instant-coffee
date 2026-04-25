@@ -15,4 +15,4 @@ North Star exhibition. Guests then
 move below to the AAMs north terrace for a three-course backcountry inspired menu by
 Fairmont Chateau Whistler, with wine pairings by Mission Hill Family Estate and a
 whisky tasting courtesy of The Dalmore. Tickets are available for $199 + tax and gratuity
-at https://audainartmuseum.com/audain-artist-dinner-series/.
+at [https://audainartmuseum.com/audain-artist-dinner-series/](https://audainartmuseum.com/audain-artist-dinner-series/).

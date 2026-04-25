@@ -23,4 +23,4 @@ Price includes materials and the cost of firing and glazing. Pieces will be fire
 glazed and can be picked approximately 4 weeks after completion of the class. $63
 Sorry, we are unable to accommodate drop-ins. Please pre-register and read our FAQ.
 
-https://www.mobil-art.ca/event-info/introduction-to-ceramic-sculpture-2
+[https://www.mobil-art.ca/event-info/introduction-to-ceramic-sculpture-2](https://www.mobil-art.ca/event-info/introduction-to-ceramic-sculpture-2)

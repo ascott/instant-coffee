@@ -11,11 +11,11 @@ summary: "ECU and Presentation House | Geoffrey James + Michael Jackson | FEB 6"
 Inside Kingston Penitentiary
 Book Launch + Conversation
 Geoffrey James + Michael Jackson
-(http://www.ecuad.ca/about/events/319755)
+([http://www.ecuad.ca/about/events/319755](http://www.ecuad.ca/about/events/319755))
 
 Friday, February 6, 2015 | 7pm
 ECU Lecture Theatre | Room 301, South Building
-Add event to calendar (http://ate.so/?5mItvm9)
+Add event to calendar ([http://ate.so/?5mItvm9](http://ate.so/?5mItvm9))
 
 Presentation House Gallery and Emily Carr University are pleased to
 celebrate the launch of acclaimed photographer Geoffrey James’ most recent

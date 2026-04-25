@@ -62,6 +62,6 @@ summer he is teaching a graduate seminar in Media and
 Visual Art at Emily Carr University.
 
 For more information
-see: http://www.dirkfleischmann.net
-http://www.cafeforcontemporaryart.com
+see: [http://www.dirkfleischmann.net](http://www.dirkfleischmann.net)
+[http://www.cafeforcontemporaryart.com](http://www.cafeforcontemporaryart.com)
 or contact: golya@cafeforcontemporaryart.com, 604-505-7261

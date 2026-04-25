@@ -24,9 +24,9 @@ seating.
 Admission: $10
 Register at 604-925-7270 (course #52555) or online
 
-https://ca.apm.activecommunities.com/westvanrec/Activity_Search/49522
+[https://ca.apm.activecommunities.com/westvanrec/Activity_Search/49522](https://ca.apm.activecommunities.com/westvanrec/Activity_Search/49522)
 Drop-ins also accepted if space permits.
 
 To find more information, please visit
-https://ferrybuildinggallery.com/programs_events/heritage_presentation_the_many_
+[https://ferrybuildinggallery.com/programs_events/heritage_presentation_the_many_](https://ferrybuildinggallery.com/programs_events/heritage_presentation_the_many_)
 histories_of_ambleside

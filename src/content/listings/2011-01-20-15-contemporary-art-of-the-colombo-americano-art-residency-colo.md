@@ -11,7 +11,7 @@ summary: "Contemporary Art of the Colombo Americano | art residency, Colombia | 
 art residence at the Gallery of the Contemporary Art of the Colombo
 Americano in Medellin, Colombia , please spread the word!!, Happy Holidays!
 
-Link: http://www.colomboworld.com/masivo/convocatoriagaleria.pdf
+Link: [http://www.colomboworld.com/masivo/convocatoriagaleria.pdf](http://www.colomboworld.com/masivo/convocatoriagaleria.pdf)
 
 Deadline to Apply: January 28, 2011 second residence
 

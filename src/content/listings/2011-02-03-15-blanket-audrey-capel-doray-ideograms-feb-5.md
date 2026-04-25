@@ -59,4 +59,4 @@ V6B 3J5
 
 phone 1.604.709.6100
 fax 1.604.648.9963 
-http://www.blanketgallery.com
+[http://www.blanketgallery.com](http://www.blanketgallery.com)

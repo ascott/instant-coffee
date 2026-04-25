@@ -20,7 +20,7 @@ construction at Joyce-Collingwood Skytrain Station until December 2017.
 Preference will be given to those who live or work in the
 Renfrew-Collingwood neighbourhood.
 
-Link to Call: http://www.cnh.bc.ca/event/
+Link to Call: [http://www.cnh.bc.ca/event/](http://www.cnh.bc.ca/event/)
 
 For additional information or questions please contact Crecien Bencio at
 604-435-0323 or at cbencio@cnh.bc.ca

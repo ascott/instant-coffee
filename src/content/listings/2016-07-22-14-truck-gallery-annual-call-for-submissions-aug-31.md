@@ -13,7 +13,7 @@ Gallery is almost here. Get them mailed and post marked by August
 31! 
 
 For any further information feel free to Email: Info@Truck.ca or visit our 
-website: http://www.truck.ca/page/submissions/submissions-for-main-
+website: [http://www.truck.ca/page/submissions/submissions-for-main-](http://www.truck.ca/page/submissions/submissions-for-main-)
 space
 
 
@@ -70,7 +70,7 @@ Close to many amenities including Home Depot / Canadian Tire /
 R&B Brewing / Rath Art Supplies and more ..
 Applicants must be able to work within a co-op based atmosphere 
 and interested in contributing to a strong community. 
-To view please Message: https://www.facebook.com/DynamoArts
+To view please Message: [https://www.facebook.com/DynamoArts](https://www.facebook.com/DynamoArts)
 or email: dynamo.arts.assoc@gmail.com
 
 On 13 July 2016 at 17:52, DAA DAA 
@@ -87,7 +87,7 @@ Close to many amenities including Home Depot / Canadian Tire /
 R&B Brewing / Rath Art Supplies and more ..
 Applicants must be able to work within a co-op based atmosphere 
 and interested in contributing to a strong community. 
-To view please Message: https://www.facebook.com/DynamoArts
+To view please Message: [https://www.facebook.com/DynamoArts](https://www.facebook.com/DynamoArts)
 or email: dynamo.arts.assoc@gmail.com
 
 5.

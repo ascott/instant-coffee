@@ -24,5 +24,5 @@ FAXED, MAILED, OR INCOMPLETE SUBMISSIONS WILL NOT BE REVIEWED.
 
 Heres the link to our Submissions page: 
 
-http://www.stride.ab.ca/opportunities/fbclid=IwAR1jaQn4Vd01CAB0sNH6dmRs_4gkC4V
+[http://www.stride.ab.ca/opportunities/fbclid=IwAR1jaQn4Vd01CAB0sNH6dmRs_4gkC4V](http://www.stride.ab.ca/opportunities/fbclid=IwAR1jaQn4Vd01CAB0sNH6dmRs_4gkC4V)
 2CgvtRRDbuOwnz6kLLGl01w-bRTY

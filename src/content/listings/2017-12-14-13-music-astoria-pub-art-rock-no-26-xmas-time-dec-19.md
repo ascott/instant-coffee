@@ -11,9 +11,9 @@ summary: "MUSIC | Astoria Pub | ART ROCK? no. 26 xmas time ! | DEC 19"
 ART ROCK?
 no. 26 xmas time !
 featuring:
-Night Bust: https://nightbust.bandcamp.com/
-Mr. Merlot: https://youtu.be/kYS_xy98dzk
-MY NAME IS DEL: https://www.delhillier.com/
+Night Bust: [https://nightbust.bandcamp.com/](https://nightbust.bandcamp.com/)
+Mr. Merlot: [https://youtu.be/kYS_xy98dzk](https://youtu.be/kYS_xy98dzk)
+MY NAME IS DEL: [https://www.delhillier.com/](https://www.delhillier.com/)
 +
 DJ Ferrari & DJ Christ
 ++
@@ -23,7 +23,7 @@ $5
 Astoria
 769 E Hastings
 
-http://agonyklub.com/ releases for sale: treat urself/last minute gift ideas/support 
+[http://agonyklub.com/](http://agonyklub.com/) releases for sale: treat urself/last minute gift ideas/support 
 local artists ~
 ~*~*~*~*~
 

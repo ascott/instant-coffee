@@ -88,9 +88,9 @@ various projects he has been involved with.
 This project is generously funded by the Canada Council for the Arts, the
 City of Vancouver, and First Peoples' Cultural Council.
 
-> More info here: http://grunt.ca/mural-project/
+> More info here: [http://grunt.ca/mural-project/](http://grunt.ca/mural-project/)
 
 > Link to Vancouver Mural Festival:
-http://www.burrardarts.org/project/vancouver-mural-festival-year-one/
+[http://www.burrardarts.org/project/vancouver-mural-festival-year-one/](http://www.burrardarts.org/project/vancouver-mural-festival-year-one/)
 
-> Link to Facebook event: https://www.facebook.com/events/571521106352958/
+> Link to Facebook event: [https://www.facebook.com/events/571521106352958/](https://www.facebook.com/events/571521106352958/)

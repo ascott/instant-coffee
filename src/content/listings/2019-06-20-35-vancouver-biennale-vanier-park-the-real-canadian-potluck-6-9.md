@@ -14,4 +14,4 @@ family and friends, a picnic dinner, (with a little extra to share if youd like)
 sample an assortment of food sensations created especially for the potluck by local foodies. 
 Meet, mingle, share a delicious nosh, and dance the night away.
 
-https://www.vancouverbiennale.com/event/the-real-canadian-potluck/
+[https://www.vancouverbiennale.com/event/the-real-canadian-potluck/](https://www.vancouverbiennale.com/event/the-real-canadian-potluck/)

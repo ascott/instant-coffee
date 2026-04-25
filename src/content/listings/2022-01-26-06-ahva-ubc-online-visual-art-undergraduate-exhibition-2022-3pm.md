@@ -32,7 +32,7 @@ ahva.ubc.ca
 
 Register for opening.
 
-https://ubc.zoom.us/webinar/register/WN_rMKW8RibQzejsE_3xm6qrw
+[https://ubc.zoom.us/webinar/register/WN_rMKW8RibQzejsE_3xm6qrw](https://ubc.zoom.us/webinar/register/WN_rMKW8RibQzejsE_3xm6qrw)
 
 AHVA Gallery hours:
 Tuesday-Friday, 12-4 p.m.

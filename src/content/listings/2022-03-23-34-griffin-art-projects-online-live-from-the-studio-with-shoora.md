@@ -9,7 +9,7 @@ summary: "Griffin Art Projects [ONLINE] | Live from the Studio with Shoora Majed
 ---
 
 Registration:
-https://us06web.zoom.us/webinar/register/WN_oMTBZZq9QmydQdLqtYLmew
+[https://us06web.zoom.us/webinar/register/WN_oMTBZZq9QmydQdLqtYLmew](https://us06web.zoom.us/webinar/register/WN_oMTBZZq9QmydQdLqtYLmew)
 
 Join Griffins artist-in-residence Shoora Majedian to learn more about what she has been
 up to throughout her time at Griffin Art Projects!

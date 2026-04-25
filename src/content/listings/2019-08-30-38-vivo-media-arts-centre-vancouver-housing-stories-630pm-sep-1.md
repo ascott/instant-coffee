@@ -15,7 +15,7 @@ Fri Sep 13, 2019 at 6:30 p.m.
 @ VIVO Media Arts Centre (2625 Kaslo Street)
 
 FREE TICKETS: 
-https://vancouver-housing-stories.eventbrite.ca
+[https://vancouver-housing-stories.eventbrite.ca](https://vancouver-housing-stories.eventbrite.ca)
 Please sign up so we know you're coming. Thanks!
 
 The reception will feature excerpts from the works, discussion, and food! 

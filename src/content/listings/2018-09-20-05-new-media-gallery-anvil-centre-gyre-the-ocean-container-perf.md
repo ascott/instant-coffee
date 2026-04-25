@@ -36,13 +36,13 @@ debut novel an environmentalist on the run takes refuge in a compound for vagran
 Sampler's writing has appeared in a variety of publications including The Guardian, The 
 Millions, and The Scofield. He is a contributing editor for Peculiar Mormyrid. 
 www.patriksampler.com
-https://patriksampler.com/2015/07/11/the-ocean-trailer/ 
+[https://patriksampler.com/2015/07/11/the-ocean-trailer/](https://patriksampler.com/2015/07/11/the-ocean-trailer/) 
 Patrik's book can be purchased after the performance. 
 
 Carolyn Chan is a butoh dancer and works in the Arts. Clancy Dennehys career has 
 encompassed film, music and art. Together they create original music + dance under the 
 name Metal Dog, which was founded for the creation of Butoh inspired dance.
-https://www.metaldog.ca
+[https://www.metaldog.ca](https://www.metaldog.ca)
 
 Butoh ( But) is a significant, avante garde art/dance form that arose in Japan after the 
 Second World War. Often described as the Dance of Darkness, it is intended to help us 

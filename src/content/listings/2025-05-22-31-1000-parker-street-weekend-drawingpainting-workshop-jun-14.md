@@ -29,5 +29,5 @@ June 14 & 15
 
 10:00 " 3:30
 
-Register here: https://sonya-iwasiuk-art-studio.square.site/product/weekend-art-
+Register here: [https://sonya-iwasiuk-art-studio.square.site/product/weekend-art-](https://sonya-iwasiuk-art-studio.square.site/product/weekend-art-)
 workshop-learn-how-to-draw-in-the-garden-june-14th-15th/40?cs=true&cst=custom

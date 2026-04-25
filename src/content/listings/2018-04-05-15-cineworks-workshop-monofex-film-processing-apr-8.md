@@ -23,7 +23,7 @@ $80 + taxes | General Admission
 $65 + taxes | Concession; Community Partner Member*
 $50 + taxes | Member Admission
 
-REGISTER: https://goo.gl/R2ThUX
+REGISTER: [https://goo.gl/R2ThUX](https://goo.gl/R2ThUX)
 
 This 16mm workshop will take participants step by step through a photo-chemical 
 technique which allows selectively controlled negative and positive black and white 

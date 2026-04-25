@@ -28,4 +28,4 @@ artworks that reflect upon historical development and its intimate effects on pe
 Well be posting every Monday, so make sure to keep an eye
 out for Dispatch #3 next
 week! To read more, visit our Instagram (@centre_a) and our website
-(https://centrea.org/2023/07/alvin-luong-dispatches-from-bidong/).
+([https://centrea.org/2023/07/alvin-luong-dispatches-from-bidong/](https://centrea.org/2023/07/alvin-luong-dispatches-from-bidong/)).

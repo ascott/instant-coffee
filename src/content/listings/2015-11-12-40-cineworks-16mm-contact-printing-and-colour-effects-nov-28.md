@@ -18,7 +18,7 @@ Cineworks Annex, 235 Alexander Street (lane entrance)
 $50 + taxes: Cineworks Members
 $60 + taxes: General Admission
 
-REGISTRATION: http://bit.ly/1NzK6WY
+REGISTRATION: [http://bit.ly/1NzK6WY](http://bit.ly/1NzK6WY)
 
 For the uninitiated, a contact printer is a device for the controlled
 exposure of a negative (typically) onto an unexposed “print stock”  while
@@ -55,16 +55,16 @@ RELATED EVENTS:
 
 Frenkel Defects III: A Traveling Screening Series of Contemporary
 Experimental 16mm Films –
-http://cineworks.ca/attend/event/137
+[http://cineworks.ca/attend/event/137](http://cineworks.ca/attend/event/137)
 
 Process Reversal: An Artist-Run, Photochemical Initiative; Artist Talk by
 Kevin Rice (USA) –
-http://cineworks.ca/attend/event/138
+[http://cineworks.ca/attend/event/138](http://cineworks.ca/attend/event/138)
 
 PARTNER INFORMATION:
 
-http://processreversal.org/
-http://www.irisfilmcollective.com/
+[http://processreversal.org/](http://processreversal.org/)
+[http://www.irisfilmcollective.com/](http://www.irisfilmcollective.com/)
 
 Cineworks Independent Filmmakers Society (est.1980) is an artist-run
 production and exhibition centre that supports independent filmmakers and

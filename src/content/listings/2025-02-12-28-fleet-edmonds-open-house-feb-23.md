@@ -45,4 +45,4 @@ accessibility, and non-verbal communication in public and creative spaces.
 
 This program is free and open to the public.
 
-https://www.fleetstudios.org/program/open-house-and-tactile-workshop-kay-slater
+[https://www.fleetstudios.org/program/open-house-and-tactile-workshop-kay-slater](https://www.fleetstudios.org/program/open-house-and-tactile-workshop-kay-slater)

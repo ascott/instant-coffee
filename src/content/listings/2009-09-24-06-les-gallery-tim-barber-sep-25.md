@@ -49,4 +49,4 @@ Heather & Virgin Snow) at the LES Gallery, Barber is showing a selection of work
 that focuses on a single subject.
 
 www.tim-barber.com
-http://www.lesgallery.ca
+[http://www.lesgallery.ca](http://www.lesgallery.ca)

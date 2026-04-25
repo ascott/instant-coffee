@@ -72,8 +72,8 @@ element in Japanese aesthetics. YOHAKU also creates a neutral space where
 various cultures meet and stay together.
 
 For more information about the artist and the mural, please visit Taka Sudo's official
-website https://www.takasudo.com and follow him on Instagram
-https://www.instagram.com/takasudoart/.
+website [https://www.takasudo.com](https://www.takasudo.com) and follow him on Instagram
+[https://www.instagram.com/takasudoart/](https://www.instagram.com/takasudoart/).
 
 Supported by Province of BC: Fairs, Festivals and Events + BC Arts Council |
 Canadian Heritage, Building Communities Through Arts & Culture

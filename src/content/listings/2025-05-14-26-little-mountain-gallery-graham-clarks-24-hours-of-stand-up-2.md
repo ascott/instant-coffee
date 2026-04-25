@@ -25,9 +25,9 @@ Tickets are $20 and partial proceeds from this fundraiser will go to Filipino BC
 response to the recent tragedy at the Lapu Lapu Day Block Party. Last years
 fundraiser raised $3,000 for WISH Drop-In Centre Society.
 
-Tickets are available online at https://tinyurl.com/5n6zche7
+Tickets are available online at [https://tinyurl.com/5n6zche7](https://tinyurl.com/5n6zche7)
 
-Additional donations can be made at https://tinyurl.com/yc3jd75n
+Additional donations can be made at [https://tinyurl.com/yc3jd75n](https://tinyurl.com/yc3jd75n)
 
 It has now been a full year since Little Mountain Gallery reopened in its new
 Gastown location, and to celebrate, Vancouvers most beloved comedian will punish

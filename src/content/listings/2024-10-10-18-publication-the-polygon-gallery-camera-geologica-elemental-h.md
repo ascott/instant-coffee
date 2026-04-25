@@ -25,5 +25,5 @@ Doors Open: 6pm
 Conversation and Q&A: 6:30 " 7:30pm
 Reception and Book Signing: 7:30pm
 RSVPs are helpful
-RSVP here: https://thepolygon.ca/event/book-launch-camera-geologica-by-siobhan-
+RSVP here: [https://thepolygon.ca/event/book-launch-camera-geologica-by-siobhan-](https://thepolygon.ca/event/book-launch-camera-geologica-by-siobhan-)
 angus/

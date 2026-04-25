@@ -26,4 +26,4 @@ Vancouver, BC
 V6A 1E3
 
 1-604-709-6100
-http://www.blanketgallery.com
+[http://www.blanketgallery.com](http://www.blanketgallery.com)

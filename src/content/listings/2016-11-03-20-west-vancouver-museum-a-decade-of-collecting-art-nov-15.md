@@ -30,4 +30,4 @@ donations.
 West Vancouver Museum | 680 17th Street, West Vancouver, BC V7V 3T2 | 
 Open Tuesday to Saturday 11 am to 5 pm
 Admission by Donation
-http://westvancouvermuseum.ca
+[http://westvancouvermuseum.ca](http://westvancouvermuseum.ca)

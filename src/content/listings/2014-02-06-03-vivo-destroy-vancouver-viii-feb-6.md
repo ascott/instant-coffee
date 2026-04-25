@@ -90,4 +90,4 @@ will be playing solo for this evening of performance.
 www.peggy.net
 
 HIERARCHIES
-http://hierarchies.bandcamp.com/
+[http://hierarchies.bandcamp.com/](http://hierarchies.bandcamp.com/)

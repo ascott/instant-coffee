@@ -11,7 +11,7 @@ summary: "West Vancouver Museum | Ruth Killam Massey and Manabu Ikeda | JAN 19"
 West Vancouver Museum
 680 17th Street, West Vancouver, BC V7V 3T2
 604-925-7295
-http://westvancouvermuseum.ca/
+[http://westvancouvermuseum.ca/](http://westvancouvermuseum.ca/)
 Open Tuesday to Saturday 11 a.m. to 5 p.m.
 Admission by donation
 

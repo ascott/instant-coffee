@@ -13,7 +13,7 @@ Artist Salon Webinar with Laura Kwok
 Tuesday, November 24, 2020
 7:00 PM - 8:30 PM
 
-Register: https://us02web.zoom.us/webinar/register/WN_T0CtWwDGQza1dILUvL57Lg
+Register: [https://us02web.zoom.us/webinar/register/WN_T0CtWwDGQza1dILUvL57Lg](https://us02web.zoom.us/webinar/register/WN_T0CtWwDGQza1dILUvL57Lg)
 
 Join us this month for a conversation with Richmond-based artist and illustrator Laura
 Kwok.
@@ -35,11 +35,11 @@ grandeur of the natural world. Her recent work focuses on capturing the fluid an
 ethereal life cycles of flowers and creating a personal language of floral symbolism as
 a means of self-expression. Laura is curious about how art plays a therapeutic role in
 healing humans, creating connections, and strengthening communities.
-https://laurakwok.com/
+[https://laurakwok.com/](https://laurakwok.com/)
 
 The Artist Salon Series features art professionals leading inspirational artist talks and
 professional development for visual artists each month from February " November.
 This program is supported by the City of Richmond Arts and Culture Grant.
 
 More info and details:
-http://www.richmondartgallery.org/artist-salon-webinar-with-laura-kwok/
+[http://www.richmondartgallery.org/artist-salon-webinar-with-laura-kwok/](http://www.richmondartgallery.org/artist-salon-webinar-with-laura-kwok/)

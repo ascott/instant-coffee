@@ -24,6 +24,6 @@ on the other to people around the world for the incredible price of $5 a month.
 If you are an artist or a writer, now is your chance to have your work sent
 around the world!
 
-Submission Guidelines can be found at http://papirmasse.com/art/submissions
+Submission Guidelines can be found at [http://papirmasse.com/art/submissions](http://papirmasse.com/art/submissions)
 
 DEADLINE TO SUBMIT: AUGUST 1, 2013.

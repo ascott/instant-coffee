@@ -31,7 +31,7 @@ Scholarship are available for Aboriginal participants.
 
 For more information and to register:
 
-www.banffcentre.ca/va <http://www.banffcentre.ca/va>
+www.banffcentre.ca/va <[http://www.banffcentre.ca/va](http://www.banffcentre.ca/va)>
 
 arts_info@banffcentre.ca
 

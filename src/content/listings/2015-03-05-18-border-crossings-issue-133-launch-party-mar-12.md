@@ -35,4 +35,4 @@ Facebook: Border Crossings Magazine
 
 Instagram: bordercrossingsmag
 Website: www.bordercrossingsmag.com
-Issue 133: http://bordercrossingsmag.com/magazine/issue/issue-133
+Issue 133: [http://bordercrossingsmag.com/magazine/issue/issue-133](http://bordercrossingsmag.com/magazine/issue/issue-133)

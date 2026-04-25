@@ -15,7 +15,7 @@ VIVO
 2625 Kaslo St, Vancouver, BC
 
 Intro to Music Production & Ableton Live
-SIGN UP & MORE INFO: https://music_ableton.eventbrite.ca
+SIGN UP & MORE INFO: [https://music_ableton.eventbrite.ca](https://music_ableton.eventbrite.ca)
 
 Expand your music performance and composition methods with this in-depth 
 introduction to the multifaceted software, Ableton Live, taught by composer-producer 
@@ -38,4 +38,4 @@ in Ableton Live to produce music, experimental sound pieces and create their own
 synth patches.
 
 One extended subsidy is available for this workshop:
-https://goo.gl/forms/jJd3JQb0edlHci8O2
+[https://goo.gl/forms/jJd3JQb0edlHci8O2](https://goo.gl/forms/jJd3JQb0edlHci8O2)

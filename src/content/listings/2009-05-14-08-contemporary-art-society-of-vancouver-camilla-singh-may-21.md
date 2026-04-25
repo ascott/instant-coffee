@@ -23,7 +23,7 @@ performance. Her latest work is aesthetically seductive while interweaving hard 
 images with images from the interiors of churches and cathedrals. Singh turned critics' heads with 
 her work "Gentle Soothing Action," a multimedia installation which included a video of her 
 showering.
-For further info, please visit: http://www.casv.ca
+For further info, please visit: [http://www.casv.ca](http://www.casv.ca)
 
 -- 
 www.casv.ca

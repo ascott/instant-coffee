@@ -44,7 +44,7 @@ Ceramics,
 Valrie D Walker, WarmAndDrift, Willow Ave, Woolf Glass.
 
 For more information and details about this years vendors, follow our Instagram
-account @toquecraftfair, or visit our website: https://toquecraftfair.com/
+account @toquecraftfair, or visit our website: [https://toquecraftfair.com/](https://toquecraftfair.com/)
 
 Western Front
 303 E 8th Ave

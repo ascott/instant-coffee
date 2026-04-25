@@ -27,7 +27,7 @@ the installation MA No.1 - The Space Between Objects (Griffin Art Projects, 2019
 have often navigated the delicate balance between hope and despair, love and
 conflict, inviting viewers to engage in introspection and dialogue.
 
-THIS Website: https://thisgallery.org/
-THIS Instagram: https://www.instagram.com/this_______________________/
-Artist website: https://www.lamwong.com/
-Curatorial essay: https://thisgallery.org/project/lam-wong-the-world-wont-listen/
+THIS Website: [https://thisgallery.org/](https://thisgallery.org/)
+THIS Instagram: [https://www.instagram.com/this_______________________/](https://www.instagram.com/this_______________________/)
+Artist website: [https://www.lamwong.com/](https://www.lamwong.com/)
+Curatorial essay: [https://thisgallery.org/project/lam-wong-the-world-wont-listen/](https://thisgallery.org/project/lam-wong-the-world-wont-listen/)

@@ -17,7 +17,7 @@ IMPORTANT DATES
 August 14, 2015 | Artist Outreach Conference; attend on-line or in person
 at Tampa International Airport.
 August 17 | Call will be launched via CaFÉ
-(www.CallForEntry.org<http://www.CallForEntry.org>)
+(www.CallForEntry.org<[http://www.CallForEntry.org](http://www.CallForEntry.org)>)
 September 14 | Deadline; applications close at 11:59 p.m. in Mountain
 Time Zone on deadline date.
 September 2017 | Artwork installation complete.
@@ -39,7 +39,7 @@ artwork at a value of at least $15,000
 
 For further information on the project, the Artist Outreach Conference, and
 to join the mailing list, visit
-www.TampaAirport.com/PublicArt<http://www.TampaAirport.com/PublicArt>.
+www.TampaAirport.com/PublicArt<[http://www.TampaAirport.com/PublicArt](http://www.TampaAirport.com/PublicArt)>.
 Click on the cover to the left to view the Call for Artists brochure.
 
 Please direct questions via e-mail to James Hanney at

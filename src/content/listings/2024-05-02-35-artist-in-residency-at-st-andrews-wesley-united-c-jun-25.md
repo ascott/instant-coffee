@@ -10,7 +10,7 @@ summary: "Artist in Residency at St Andrew’s Wesley United C | JUN 25"
 
 Artist in Residency at St Andrews Wesley United Church
 Deadline: June 25, 2024
-Submit at: https://standrewswesley.com/artist-in-residency/
+Submit at: [https://standrewswesley.com/artist-in-residency/](https://standrewswesley.com/artist-in-residency/)
 
 We are seeking a visual or literary artist for residency period at St Andrews Wesley
 United Church from Oct 1 2024 to Feb 28 2025. The goal of the residency is twofold:

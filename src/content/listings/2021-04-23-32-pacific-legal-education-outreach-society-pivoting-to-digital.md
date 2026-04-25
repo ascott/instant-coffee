@@ -18,5 +18,5 @@ when sharing their craft with the world. For this special event co-presented by 
 Trust, as part of the National Networks Virtual Forum, well be discussing the Writers rights
 when pivoting to digital.
 
-https://www.eventbrite.ca/e/pivoting-to-digital-the-writers-and-literary-organizations-edition-
+[https://www.eventbrite.ca/e/pivoting-to-digital-the-writers-and-literary-organizations-edition-](https://www.eventbrite.ca/e/pivoting-to-digital-the-writers-and-literary-organizations-edition-)
 tickets-151877087457

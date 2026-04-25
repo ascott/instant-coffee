@@ -55,7 +55,7 @@ are in its thrall. Clearly, we love it." - The Village Voice
 ~~~~
 
 For info on the show:
-http://www.trampolinehall.net/van/
+[http://www.trampolinehall.net/van/](http://www.trampolinehall.net/van/)
 
 To see some articles about Trampoline Hall:
-http://www.trampolinehall.net/press.html
+[http://www.trampolinehall.net/press.html](http://www.trampolinehall.net/press.html)

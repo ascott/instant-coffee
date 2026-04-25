@@ -30,4 +30,4 @@ MFA Artists: Aileen Bahmanipour, Matt Browning, Steven Cottingham, Jessica
 Evans, Christopher Lacroix, Brian Lye, Cameron McLellan, Candice Okada, 
 Madiha Pandhiani, Parvin Peivandi, Carolyn Stockbridge
 
-http://ahva.ubc.ca/
+[http://ahva.ubc.ca/](http://ahva.ubc.ca/)

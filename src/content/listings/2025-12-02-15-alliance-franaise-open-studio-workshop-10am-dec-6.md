@@ -30,4 +30,4 @@ workshop, while enjoying a warm drink! RSVP required to take part in this activi
 take 1 ticket per person.
 Info : December 6th, 2025. 10:30AM-12PM. Alliance Francaise Vancouver, 6161 Cambie St,
 Vancouver. Studios (4th Floor)
-RSVP : https://www.alliancefrancaise.ca/community/event-rsvp/?event_id=1190
+RSVP : [https://www.alliancefrancaise.ca/community/event-rsvp/?event_id=1190](https://www.alliancefrancaise.ca/community/event-rsvp/?event_id=1190)

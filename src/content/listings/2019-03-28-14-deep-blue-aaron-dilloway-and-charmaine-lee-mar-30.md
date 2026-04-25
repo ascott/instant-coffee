@@ -14,9 +14,9 @@ Deep Blue
 Doors @ 8pm
 $15
 
-Tickets: https://leisure.events/aaron-dilloway-charmaine-lee-pita-stefan-
+Tickets: [https://leisure.events/aaron-dilloway-charmaine-lee-pita-stefan-](https://leisure.events/aaron-dilloway-charmaine-lee-pita-stefan-)
 maier
-Facebook: https://www.facebook.com/events/1900108550117781/
+Facebook: [https://www.facebook.com/events/1900108550117781/](https://www.facebook.com/events/1900108550117781/)
 
 Aaron Dilloway's work can be characterized by the use of tape loops of 
 found and recorded sounds, and the distorted effect produced by the 
@@ -26,8 +26,8 @@ collaborated extensively with artists such as C. Spencer Yeh, Genesis
 P-Orridge, Jason Lescalleet, and John Wiese. Currently Dilloway is 
 based in Ohio where he runs Hanson Records label. 
 
-https://aarondilloway.bandcamp.com 
-https://hansonrecords.bandcamp.com 
+[https://aarondilloway.bandcamp.com](https://aarondilloway.bandcamp.com) 
+[https://hansonrecords.bandcamp.com](https://hansonrecords.bandcamp.com) 
 
 Charmaine Lee is a New York based musician and improviser who 
 uses amplification and microphones to augment and distort her voice. 
@@ -37,7 +37,7 @@ contemporaries Conrad Tao, Zach Rowden, Lester St. Louis, Leila
 Bordreuil, and Ben Bennett. She has performed at venues such as 
 ISSUE Project Room, the Lincoln Center, Roulette, The Kitchen, and 
 the Stone. 
-https://charmaineleemusic.com/audio/ 
-https://soundcloud.com/charmaineleemusic 
+[https://charmaineleemusic.com/audio/](https://charmaineleemusic.com/audio/) 
+[https://soundcloud.com/charmaineleemusic](https://soundcloud.com/charmaineleemusic) 
 
 Lee and Dilloway will perform two solos followed by a duo together.

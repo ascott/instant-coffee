@@ -14,7 +14,7 @@ March 30, 12:00-3:00 PM
 
 Griffin Art Projects Residency
 1180 Welch Street
-http://griffinartprojects.ca/
+[http://griffinartprojects.ca/](http://griffinartprojects.ca/)
 
 Zoe Kreye (Vancouver): Touch Change
 

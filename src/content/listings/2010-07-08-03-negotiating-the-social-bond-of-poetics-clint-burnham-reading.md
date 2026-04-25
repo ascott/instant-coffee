@@ -346,7 +346,7 @@ Gillespie(dot)nancy(at)gmail(dot)com.
 Poetics Series Thematic Abstract, list of resources, and complete list of
 writers associated with the series.
 
-For more information click here: http://www.kswnet.org/
+For more information click here: [http://www.kswnet.org/](http://www.kswnet.org/)
 
 For more pertinent Lacan material write to Nancy Gillespie:
 Gillespie(dot)nancy(at)gmail(dot)com

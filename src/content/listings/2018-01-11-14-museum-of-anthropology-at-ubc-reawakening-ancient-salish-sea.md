@@ -17,4 +17,4 @@ archaeologist and ancient basketry researcher. Carriere and Croes will also laun
 new publication, Reawakening Ancient Salish Sea Basketry.
 
 Free with Museum Admission. For more information visit: 
-http://moa.ubc.ca/portfolio_page/salish-seabasketry
+[http://moa.ubc.ca/portfolio_page/salish-seabasketry](http://moa.ubc.ca/portfolio_page/salish-seabasketry)

@@ -31,4 +31,4 @@ Audain will sign copies of the book.
 
 Books are available for sale at the event.
 
-Learn more: https://www.vanartgallery.bc.ca/events/dec2michaelaudain
+Learn more: [https://www.vanartgallery.bc.ca/events/dec2michaelaudain](https://www.vanartgallery.bc.ca/events/dec2michaelaudain)

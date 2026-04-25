@@ -16,4 +16,4 @@ Location: Vancouver, BC
 Vacation: 42 hours + Paid December closure, Gallery closed August.
 Deadline for applications: Reviewing applications starting April 23 open until filled.
 
-https://www.accessgallery.ca/news/employment-opportunity-operations-manager
+[https://www.accessgallery.ca/news/employment-opportunity-operations-manager](https://www.accessgallery.ca/news/employment-opportunity-operations-manager)

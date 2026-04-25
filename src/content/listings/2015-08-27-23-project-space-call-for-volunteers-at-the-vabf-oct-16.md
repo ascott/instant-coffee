@@ -27,9 +27,9 @@ This is a great opportunity to meet like-minded artists and creatives while
 getting involved in arts publishing. The VA/BF relies on dozens of
 invaluable volunteers for support!
 
-More information about Project Space can be found here: http://projectspace.ca/
+More information about Project Space can be found here: [http://projectspace.ca/](http://projectspace.ca/)
 More information about this year’s fair can be found here:
-http://2015.vancouverartbookfair.com/
+[http://2015.vancouverartbookfair.com/](http://2015.vancouverartbookfair.com/)
 
 To register or inquire about volunteer opportunities please email
 sarah@vancouverartbookfair.com

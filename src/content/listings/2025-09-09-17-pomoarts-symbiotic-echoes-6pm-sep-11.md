@@ -11,7 +11,7 @@ summary: "PoMoArts | Symbiotic Echoes | 6PM | SEP 11"
 Symbiotic Echoes
 September 11, 2025 - October 26, 2025
 
-https://www.pomoarts.ca/exhibitions-events-page/symbiotic-echoes
+[https://www.pomoarts.ca/exhibitions-events-page/symbiotic-echoes](https://www.pomoarts.ca/exhibitions-events-page/symbiotic-echoes)
 
 Symbiotic Echoes brings together four distinct exhibitions by Ilze Bebris and Robin
 Ripley, Dave Mutnjakovic, James Pocock, and Artem Struyanskiy. Across different

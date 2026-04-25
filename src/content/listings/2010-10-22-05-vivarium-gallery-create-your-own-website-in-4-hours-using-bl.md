@@ -33,7 +33,7 @@ www.performancero.blogspot.com
 www.genocideofthearts.blogspot.com
 www.jammiegriffiths.com
 www.gamani.blogspot.com
-http://www.generallifeswork.blogspot.com/
+[http://www.generallifeswork.blogspot.com/](http://www.generallifeswork.blogspot.com/)
 
 Course By Donation
 
@@ -45,6 +45,6 @@ Please circulate this email around to anyone that is interested.
 -- 
 Vivarium Gallery
 'Online and Upfront'
-http://www.vivariumgallery.com
+[http://www.vivariumgallery.com](http://www.vivariumgallery.com)
 vivariumgallery@gmail.com
 2130 Yew St, Vancouver, BC, Canada

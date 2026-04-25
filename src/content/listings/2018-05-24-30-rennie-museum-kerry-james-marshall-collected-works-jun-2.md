@@ -25,7 +25,7 @@ his extensive practice, his influences and the exhibited works on May 31 at
 UBC Robson Square Theatre.
 
 Information on the talk can be found here:
-http://www.renniecollection.org/MarshallArtistTalk.php
+[http://www.renniecollection.org/MarshallArtistTalk.php](http://www.renniecollection.org/MarshallArtistTalk.php)
 
 The talk will be held:
 

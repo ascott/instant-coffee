@@ -84,7 +84,7 @@ heroine, victim, and hapless bystander, in a candy-colored
 dystopian world populated only by herself and her clones. Diyan is 
 based in Vancouver, BC, and teaches in the faculty of Visual Arts 
 and Material Practice at Emily Carr University. Please visit 
-http://www.diyanachjadi.com for more information.
+[http://www.diyanachjadi.com](http://www.diyanachjadi.com) for more information.
 
 Rebecca Chaperon
 

@@ -23,7 +23,7 @@ new and dynamic way.
 
 Free and wheelchair accessible event. Registration recommended. 30 spots
 available.
-Register here: https://evergreenculturalcentre.my.salesforce-
+Register here: [https://evergreenculturalcentre.my.salesforce-](https://evergreenculturalcentre.my.salesforce-)
 sites.com/ticket/#/events/a0SHp00000ewbQVMAY
 
 About the artist:

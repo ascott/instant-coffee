@@ -27,4 +27,4 @@ Contact: 604.504.7441, Local 4405
 
 Gallery Hrs: Mon – Fri, 10:00 AM – 6:00 PM
 More info:
-http://pechakucha.ca
+[http://pechakucha.ca](http://pechakucha.ca)

@@ -100,6 +100,6 @@ performances. Jeremy is joined by improvisational soundscape trio PINK
 ISLAND (MADOKA HARA, LEE HUTZULAK & DAVE LEITH) for a new Letters set.
 
 Explore previous Not Sent Letters & Guests events & contributions here:
-http://www.notsentlettersandguests.blogspot.com
+[http://www.notsentlettersandguests.blogspot.com](http://www.notsentlettersandguests.blogspot.com)
 Email Jeremy if you would like to arrange for, host or contribute to a
 future Not Sent Letters & Guests event: jeremytodd@shaw.ca

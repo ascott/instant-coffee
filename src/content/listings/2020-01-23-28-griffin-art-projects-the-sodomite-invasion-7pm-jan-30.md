@@ -21,7 +21,7 @@ a vocal activist in the fight against HIV/AIDS, whose filmic work primarily expl
 and sexuality.
 
 More info:
-http://griffinartprojects.ca/exhibitions/2020/the-sodomite-invasion/
+[http://griffinartprojects.ca/exhibitions/2020/the-sodomite-invasion/](http://griffinartprojects.ca/exhibitions/2020/the-sodomite-invasion/)
 
 1174 Welch Street
 North Vancouver, BC

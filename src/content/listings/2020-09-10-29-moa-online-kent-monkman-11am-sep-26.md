@@ -20,4 +20,4 @@ September 26, 11 am PDT
 Online, via Zoom
 
 Free, registration required:
-https://moa.ubc.ca/event/artist-talk-with-kent-monkman/
+[https://moa.ubc.ca/event/artist-talk-with-kent-monkman/](https://moa.ubc.ca/event/artist-talk-with-kent-monkman/)

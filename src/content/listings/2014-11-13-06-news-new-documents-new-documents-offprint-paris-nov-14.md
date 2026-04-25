@@ -43,4 +43,4 @@ New Documents is a Vancouver and Los Angeles–based art book publisher
 operating in collaboration with the Projectile Publishing Society. We
 gratefully acknowledge the support of the Canada Council for the Arts and
 the British Columbia Arts Council.
-http://www.new-documents.org
+[http://www.new-documents.org](http://www.new-documents.org)

@@ -10,18 +10,18 @@ summary: "Nikkei National Museum | Online exhibits, games, podcasts"
 
 We are temporarily closed to the public until further notice, but while you are practicing
 social distancing you can still catch video resources from our current exhibit here:
-https://centre.nikkeiplace.org/education/taiken-video-resources/
+[https://centre.nikkeiplace.org/education/taiken-video-resources/](https://centre.nikkeiplace.org/education/taiken-video-resources/)
 
 And check out our other virtual resources
 
 Online exhibits:
-https://centre.nikkeiplace.org/museum-exhibits/online-exhibits/
+[https://centre.nikkeiplace.org/museum-exhibits/online-exhibits/](https://centre.nikkeiplace.org/museum-exhibits/online-exhibits/)
 
 Podcasts:
-https://centre.nikkeiplace.org/education/podcasts/
+[https://centre.nikkeiplace.org/education/podcasts/](https://centre.nikkeiplace.org/education/podcasts/)
 
 Videos:
-https://centre.nikkeiplace.org/video-resources/
+[https://centre.nikkeiplace.org/video-resources/](https://centre.nikkeiplace.org/video-resources/)
 
 Nikkei National Museum
 6688 Southoaks Crescent, Burnaby BC V5E 4M7

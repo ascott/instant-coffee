@@ -26,5 +26,5 @@ and the contemporary responses are presented together in the gallery, creating a
 conversation across time.
 
 Link:
-https://smithfoundation.co/exhibitions-items/one-hundred-artists-deep-april-11th-june-20th-
+[https://smithfoundation.co/exhibitions-items/one-hundred-artists-deep-april-11th-june-20th-](https://smithfoundation.co/exhibitions-items/one-hundred-artists-deep-april-11th-june-20th-)
 2026/?portfolioCats=59%2C60%2C58

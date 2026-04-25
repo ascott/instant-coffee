@@ -19,5 +19,5 @@ Early Bird Deadline: February 29
 Final Deadline: April 17
 
 To submit please
-visit:https://filmfreeway.com/festi.../TorontoSmartphoneFilmFestival
-For more information please visit: http://www.smartphonefilm.ca/
+visit:[https://filmfreeway.com/festi.../TorontoSmartphoneFilmFestival](https://filmfreeway.com/festi.../TorontoSmartphoneFilmFestival)
+For more information please visit: [http://www.smartphonefilm.ca/](http://www.smartphonefilm.ca/)

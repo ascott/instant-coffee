@@ -23,7 +23,7 @@ You do not need to produce a complete work by the end of the project.
 
 Deadline: July 14, 2023, 11:59pm Pacific Time
 
-For program guidelines and application instructions, visit https://bit.ly/cinemg23
+For program guidelines and application instructions, visit [https://bit.ly/cinemg23](https://bit.ly/cinemg23)
 
 For questions or individual application support, please contact Sarah Wang at
 

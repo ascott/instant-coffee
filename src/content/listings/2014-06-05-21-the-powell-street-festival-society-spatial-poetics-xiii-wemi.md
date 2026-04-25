@@ -66,8 +66,8 @@ Two Studios Available July 1st
 
 115 E Pender St, Vancouver BC!
 
-http://vancouver.en.craigslist.ca/van/off/4497325567.html
-http://vancouver.en.craigslist.ca/van/off/4497353546.html
+[http://vancouver.en.craigslist.ca/van/off/4497325567.html](http://vancouver.en.craigslist.ca/van/off/4497325567.html)
+[http://vancouver.en.craigslist.ca/van/off/4497353546.html](http://vancouver.en.craigslist.ca/van/off/4497353546.html)
 
 One is ~8'x20' private space for $550/mo
 Another is ~8'x8' private space for $250/mo

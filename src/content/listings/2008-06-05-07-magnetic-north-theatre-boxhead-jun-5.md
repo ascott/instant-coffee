@@ -32,8 +32,8 @@ John Colbourne, Toronto Sun
 June 4-8, 9PM
 Waterfront Theatre, Granville Island, Vancouver
 
-Tix: http://www.magneticnorthfestival.ca/pages/programming/boxhead.html 
-<http://www.magneticnorthfestival.ca/pages/programming/boxhead.html> 
+Tix: [http://www.magneticnorthfestival.ca/pages/programming/boxhead.html](http://www.magneticnorthfestival.ca/pages/programming/boxhead.html) 
+<[http://www.magneticnorthfestival.ca/pages/programming/boxhead.html](http://www.magneticnorthfestival.ca/pages/programming/boxhead.html)> 
 
 www.crowstheatre.com
 www.mammalian.ca

@@ -26,4 +26,4 @@ Where: Emily Carr University of Art & Design campus, Vancouver
 East entrance, off Carolina Street and through Wilson Plaza
 
 Campus Location, Parking & Transit
-https://research.ecuad.ca/bgml/2025/02/27/listenin
+[https://research.ecuad.ca/bgml/2025/02/27/listenin](https://research.ecuad.ca/bgml/2025/02/27/listenin)

@@ -17,7 +17,7 @@ Sadeghi, Heidi Seeto, Mariana
 Sola, Javid Tabatabaei, Helen Weiser.
 
 For the duration of the show, instructors will be running creative taster workshops. For
-more information, please go to https://ferrybuildinggallery.ca/exhibitions/staying-curious
+more information, please go to [https://ferrybuildinggallery.ca/exhibitions/staying-curious](https://ferrybuildinggallery.ca/exhibitions/staying-curious)
 
 If you require any further information, please dont hesitate to reach out. And Happy New
 Year!

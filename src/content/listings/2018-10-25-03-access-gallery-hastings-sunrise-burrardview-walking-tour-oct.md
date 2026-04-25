@@ -14,7 +14,7 @@ looking at existing and historical corner store locations. This event marks end 
 Corner Store discussion and events series.
 
 Space is limited, so please register for the walk through eventbrite 
-(https://www.eventbrite.com/e/corner-store-hastings-sunrise-burrardview-walk-
+([https://www.eventbrite.com/e/corner-store-hastings-sunrise-burrardview-walk-](https://www.eventbrite.com/e/corner-store-hastings-sunrise-burrardview-walk-)
 registration-51446618220).
 
 WALK DESCRIPTION:

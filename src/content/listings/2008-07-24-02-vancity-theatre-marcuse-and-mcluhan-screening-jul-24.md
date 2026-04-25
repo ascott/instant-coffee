@@ -32,14 +32,14 @@ University of California at San Diego, preceded by two short experimental films 
 "McLuhan's Wake", a documentary on the life and work of Marshall McLuhan, along with the 
 influential experimental short "21 – 87" (dir. Arthur Lipsett).
 
-Buy your tickets online at http://www.vifc.org
+Buy your tickets online at [http://www.vifc.org](http://www.vifc.org)
 
 Vancity Theatre
 Vancouver International Film Centre
 1181 Seymour St
 Vancouver, BC
 
-For further information visit http://www.belkin.ubc.ca/special/screening-at-viff or contact Julie
+For further information visit [http://www.belkin.ubc.ca/special/screening-at-viff](http://www.belkin.ubc.ca/special/screening-at-viff) or contact Julie
 Bevan at (604) 822-3640, julie.bevan@ubc.ca
 Morris and Helen Belkin Art Gallery, The University of British Columbia, 1825 Main Mall, 
 Vancouver, BC V6T 1Z2 www.belkin.ubc.ca

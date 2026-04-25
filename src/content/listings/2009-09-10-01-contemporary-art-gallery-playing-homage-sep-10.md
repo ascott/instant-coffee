@@ -48,4 +48,4 @@ Contemporary Art Gallery, 555 Nelson Street, Vancouver, BC, V6B 6R5, Canada
 
 Gallery Hours: Wed. - Sun. 12 – 6 pm. Admission is free by donation. For more information 
 please contact: info@contemporaryartgallery.ca or 604-681-2700
-http://www.contemporaryartgallery.ca
+[http://www.contemporaryartgallery.ca](http://www.contemporaryartgallery.ca)

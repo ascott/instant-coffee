@@ -8,7 +8,7 @@ venue: "VIVO Media Arts Centre"
 summary: "VIVO Media Arts Centre | Plug In: synthesizer showcase for youth | OCT 6"
 ---
 
-SIGN UP & MORE INFO: https://plug-in-showcase.eventbrite.ca
+SIGN UP & MORE INFO: [https://plug-in-showcase.eventbrite.ca](https://plug-in-showcase.eventbrite.ca)
 
 Plug In: synthesizer showcase for youth (7 yrs - 14 yrs)
 

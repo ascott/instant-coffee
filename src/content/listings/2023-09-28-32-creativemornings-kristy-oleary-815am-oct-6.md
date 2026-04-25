@@ -24,8 +24,8 @@ Samuel blends his passion for the guitar
 reflecting on the soul as the pillar of his
 music.
 
-IN PERSON REGISTRATION: https://www.creativemornings.com/talks/kristy-o-leary-
+IN PERSON REGISTRATION: [https://www.creativemornings.com/talks/kristy-o-leary-](https://www.creativemornings.com/talks/kristy-o-leary-)
 in-person
 
-VIRTUAL REGISTRATION: https://www.creativemornings.com/talks/kristy-o-leary-
+VIRTUAL REGISTRATION: [https://www.creativemornings.com/talks/kristy-o-leary-](https://www.creativemornings.com/talks/kristy-o-leary-)
 virtual

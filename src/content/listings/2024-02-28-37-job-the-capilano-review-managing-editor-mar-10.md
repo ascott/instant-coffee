@@ -34,4 +34,4 @@ How to apply:
 Please submit a detailed resume and cover letter to
 employment@thecapilanoreview.com by midnight on Sunday, March 10, 2024.
 
-View the full job call here: https://thecapilanoreview.com/careers/
+View the full job call here: [https://thecapilanoreview.com/careers/](https://thecapilanoreview.com/careers/)

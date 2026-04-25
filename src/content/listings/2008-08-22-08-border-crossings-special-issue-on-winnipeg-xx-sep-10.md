@@ -45,7 +45,7 @@ of: Janet Werner, Martha Langford, Simon Starling, Ron Moppett and Carol
 Wainio, Gregor Schneider, the Quebec Triennial, one KRAZY! exhibition and
 much more!
 
-Check our recently redesigned website, http://www.bordercrossingsmag.com to
+Check our recently redesigned website, [http://www.bordercrossingsmag.com](http://www.bordercrossingsmag.com) to
 locate a newsstand near you, or subscribe to BORDER CROSSINGS and receive
 our current series of Limited Edition Artists’ Buttons.
 

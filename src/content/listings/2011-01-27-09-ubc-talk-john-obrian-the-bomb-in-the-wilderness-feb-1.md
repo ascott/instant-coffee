@@ -80,10 +80,10 @@ rsvp to rsvp.belkin@ubc.ca by January 28, 2011 to reserve a lunch
 spot at the symposium.
 
 For more information on the subjects and speakers visit:
-http://www.belkin.ubc.ca/events
+[http://www.belkin.ubc.ca/events](http://www.belkin.ubc.ca/events)
 
-<http://www.belkin.ubc.ca/events>
+<[http://www.belkin.ubc.ca/events](http://www.belkin.ubc.ca/events)>
 
 Download the poster for these events (PDF 942 KB)
-<http://www.belkinartgallery.com/_email/_main_belkin/20110125-
+<[http://www.belkinartgallery.com/_email/_main_belkin/20110125-](http://www.belkinartgallery.com/_email/_main_belkin/20110125-)
 mclean/ColdWarPoster.pdf>]

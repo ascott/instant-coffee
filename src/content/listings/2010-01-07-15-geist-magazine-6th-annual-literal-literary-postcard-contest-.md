@@ -53,4 +53,4 @@ V6B 1B8
 
 Entries must be post­marked no later than January 15, 2010.
 Questions? Call 604 681-9161 or email geist@geist.com.
-http://www.geist.com/postcard-contest
+[http://www.geist.com/postcard-contest](http://www.geist.com/postcard-contest)

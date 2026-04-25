@@ -38,7 +38,7 @@ exploring the potential of new technologies in art and examining current
 technological evolutions in a critical context. This POV project aims to 
 provide artists with a brand new means for creating and displaying 
 works in 3D space. A prototype of this platform is available to view at 
-http://youtu.be/Z3vaDtZJ64g
+[http://youtu.be/Z3vaDtZJ64g](http://youtu.be/Z3vaDtZJ64g)
 
 Commissions expected to commence in early September 2012.
 

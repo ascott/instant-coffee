@@ -25,4 +25,4 @@ Assistant Curator
 Liverpool Biennial is looking to appoint an Assistant Curator to join its team that will deliver the 2014 Festival.
 Apply by Friday 6th December 2013
 
-http://liverpoolbiennial.co.uk/about/opportunities/21/assistant-curator
+[http://liverpoolbiennial.co.uk/about/opportunities/21/assistant-curator](http://liverpoolbiennial.co.uk/about/opportunities/21/assistant-curator)

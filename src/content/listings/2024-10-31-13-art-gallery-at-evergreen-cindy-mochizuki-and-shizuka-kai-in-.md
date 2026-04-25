@@ -21,7 +21,7 @@ characters real and imagined on
 Wednesday, November 6. Doors at 6:30 p.m.
 
 This event is wheelchair accessible. Free, advance registration encouraged:
-https://evergreenculturalcentre.my.salesforce-
+[https://evergreenculturalcentre.my.salesforce-](https://evergreenculturalcentre.my.salesforce-)
 sites.com/ticket/#/events/a0SOK000002CI012AG
 
 ABOUT THE ARTISTS
@@ -62,4 +62,4 @@ than a decade.
 
 "stories best told at twilight" is on view until November 17, 2024.
 
-https://evergreenculturalcentre.ca/exhibit/
+[https://evergreenculturalcentre.ca/exhibit/](https://evergreenculturalcentre.ca/exhibit/)

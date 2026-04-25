@@ -19,7 +19,7 @@ include a notorious internet sperm bank,Eugenie, sponsored by the Canada Council
 the Arts and the Canadian Cultural Center in Paris, the provocative sperm distribution 
 Weisser Markt in the Zoologischer Stadtgarten Karlsruhe, installations created with 
 Cecile Martin during MUTEK 2014, Royal Mustang presented at La Chapelle, and more. 
-http://www.lialin.net/
+[http://www.lialin.net/](http://www.lialin.net/)
 
 Sign up by April 27, 2017 to receive Li Alin's latest work. By subscribing to Bcc: you will 
 receive a newly commissioned artwork in your inbox every month, featuring a different 

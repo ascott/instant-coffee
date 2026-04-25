@@ -35,5 +35,5 @@ Officer (President, Vice-President, Treasurer, Secretary)
 and/or chairing a Board Committee (Governance, Finance and Risk Management,
 Human Resources, Development and Fundraising).
 
-For more details, please go to https://centrea.org/opportunities/. Application deadline is
+For more details, please go to [https://centrea.org/opportunities/](https://centrea.org/opportunities/). Application deadline is
 11:59 PM PT, April 28, 2024.

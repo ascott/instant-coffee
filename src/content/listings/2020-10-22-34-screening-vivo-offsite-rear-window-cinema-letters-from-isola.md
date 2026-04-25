@@ -13,7 +13,7 @@ OUTDOOR SCREENING
 REAR WINDOW CINEMA: LETTERS FROM ISOLATION
 An Offsite VIVO Partnership with flavourcel animation collective
 Friday October 30-November 5, 7-7:30pm PT
-https://www.instagram.com/rear_windowcinema/
+[https://www.instagram.com/rear_windowcinema/](https://www.instagram.com/rear_windowcinema/)
 FREE
 
 Running daily from October 30-November 5 at 7-7:30pm, you can find works by
@@ -42,5 +42,5 @@ Media Arts Centre, and flavourcel animation collective with the support of the S
 Sciences and Humanities Research Council.
 
 Follow the project and exhibition updates on Instagram at:
-https://www.instagram.com/rear_windowcinema/
+[https://www.instagram.com/rear_windowcinema/](https://www.instagram.com/rear_windowcinema/)
 and tag us if you chance upon any of the works!

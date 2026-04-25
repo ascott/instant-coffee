@@ -51,4 +51,4 @@ additional 2-hour time commitment every month or two.
 
 What is the deadline?
 The deadline to submit an application is 5PM on Friday January 30, 2015
-http://app.volunteer2.com/Public/Umbrella/Search/e1e49cf2
+[http://app.volunteer2.com/Public/Umbrella/Search/e1e49cf2](http://app.volunteer2.com/Public/Umbrella/Search/e1e49cf2)

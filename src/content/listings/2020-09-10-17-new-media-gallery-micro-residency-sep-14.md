@@ -80,7 +80,7 @@ projects (provide URL links to video)
 Image List
 2 References
 Application is due by September 14th, 2020. Submit application in PDF format to
-https://newmediagallery.ca/micro-residency/
+[https://newmediagallery.ca/micro-residency/](https://newmediagallery.ca/micro-residency/)
 
 All Micro Residencies will be actively documented and recorded by New Media Gallery
 Staff. Videos and photos will be created for New Media Gallery Archives and possible

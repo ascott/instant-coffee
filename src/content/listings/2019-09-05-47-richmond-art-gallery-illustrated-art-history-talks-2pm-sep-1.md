@@ -25,7 +25,7 @@ we live in.
 Session 2 - September 14
 The Rise of Plein Air Painting in the 1800's
 Scott Bowering
-Tickets at: https://www.eventbrite.ca/e/art-history-series-canadian-landscape-inside-out-
+Tickets at: [https://www.eventbrite.ca/e/art-history-series-canadian-landscape-inside-out-](https://www.eventbrite.ca/e/art-history-series-canadian-landscape-inside-out-)
 session-2-tickets-64683773909
 
 In this comparative study we examine how artists assembled landscape paintings in their

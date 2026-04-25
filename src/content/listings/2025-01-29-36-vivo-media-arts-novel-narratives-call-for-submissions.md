@@ -39,4 +39,4 @@ committed to
 compensating artists with a screening fee based on the IMAA
 (Independent Media Arts Alliance) suggested fee schedule.
 
-Submission Form: https://forms.gle/b2ibS9PJucYC3VsS8
+Submission Form: [https://forms.gle/b2ibS9PJucYC3VsS8](https://forms.gle/b2ibS9PJucYC3VsS8)

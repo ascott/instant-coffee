@@ -26,7 +26,7 @@ Saturday January 24, 2009
 Listel Hotel
 1300 Robson St., Vancouver
 
-To register: Online - http://www.geist.com/events/comix-workshop or
+To register: Online - [http://www.geist.com/events/comix-workshop](http://www.geist.com/events/comix-workshop) or
 call 1-888-434-7834
 
 --

@@ -63,4 +63,4 @@ Sunday April 2, 2-5pm.
 Workshop capacity is limited, please register at mediaaassistant@front.bc.ca
 
 All media inquiries:
-http://desearchrepartment.com/
+[http://desearchrepartment.com/](http://desearchrepartment.com/)

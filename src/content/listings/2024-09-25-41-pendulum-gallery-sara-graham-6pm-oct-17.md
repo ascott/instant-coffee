@@ -51,7 +51,7 @@ Hours: Monday - Wednesday: 9am - 6pm, Thursday & Friday: 9am - 9pm,
 Saturday: 9am
 - 5pm
 
-Elissa Cristall /projects: https://www.artoffice.ca | www.cristallgallery.com |
+Elissa Cristall /projects: [https://www.artoffice.ca](https://www.artoffice.ca) | www.cristallgallery.com |
 604.730.9611
-Venue: http://www.pendulumgallery.bc.ca
+Venue: [http://www.pendulumgallery.bc.ca](http://www.pendulumgallery.bc.ca)
 Sara Graham: @citimovement

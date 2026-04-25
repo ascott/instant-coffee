@@ -22,7 +22,7 @@ parts, with essays by Kristina Lee Podesva and Danna Vajda, will accompany
 the work.
 
 Further information and to submit video please see
-http://liddlethought.blogspot.com
+[http://liddlethought.blogspot.com](http://liddlethought.blogspot.com)
 
 This project is generously supported by the City of Vancouver Public Art
 Program as part of BRIGHT LIGHT.

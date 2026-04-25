@@ -45,5 +45,5 @@ Costura's Itinerant Sewing Station, also on the SiteFactory bus. For
 more info visit sitefactory.ca
 
 More details at 
-https://www.facebook.com/events/1103558359734004/ or 
+[https://www.facebook.com/events/1103558359734004/](https://www.facebook.com/events/1103558359734004/) or 
 SiteFactory at sitefactory.ca

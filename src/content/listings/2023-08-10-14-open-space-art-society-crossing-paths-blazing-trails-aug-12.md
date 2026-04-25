@@ -18,4 +18,4 @@ Keith Barker (Stratford), Larissa Lai (Toronto), Zool Suleman (Vancouver)
 
 Virtual Roundtable
 Time: 2:00 - 4:00 p.m.
-http://https://click.mlsend.com/link/c/YT0yMjc1MTQ1MjU5MD
+[http://https://click.mlsend.com/link/c/YT0yMjc1MTQ1MjU5MD](http://https://click.mlsend.com/link/c/YT0yMjc1MTQ1MjU5MD)

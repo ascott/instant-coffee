@@ -20,7 +20,7 @@ Purchase of a Lilypad (Arduino) wearable kit. Classes will be held over Zoom.
 Ages 18+
 Wednesdays, Mar 10 + Mar 17
 5:00 pm - 7:30 pm
-https://bit.ly/3oJEXT0
+[https://bit.ly/3oJEXT0](https://bit.ly/3oJEXT0)
 Registration Fee: $31.50 (2
 Sessions)
 Kit: $63

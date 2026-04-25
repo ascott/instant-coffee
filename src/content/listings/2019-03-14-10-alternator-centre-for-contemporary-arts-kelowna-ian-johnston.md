@@ -42,4 +42,4 @@ its impact on our wellbeing.
 The Fine Line series is made possible by support from the BC Arts Council, Canada 
 Council for the Arts and Banff Centre for Arts and Creativity.
 
-For more information, visit: https://www.alternatorcentre.com/ianjohnston/
+For more information, visit: [https://www.alternatorcentre.com/ianjohnston/](https://www.alternatorcentre.com/ianjohnston/)

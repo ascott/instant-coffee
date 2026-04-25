@@ -16,5 +16,5 @@ tackling this question are imagined by Asian Canadian youth, with their
 speculations
 brought to life by a visual collage of dreamlike LiDAR 3D modelling scans.
 
-More info: https://www.griffinartprojects.ca/events/chinatown-2050-an-online-film-
+More info: [https://www.griffinartprojects.ca/events/chinatown-2050-an-online-film-](https://www.griffinartprojects.ca/events/chinatown-2050-an-online-film-)
 screening-and-conversation-with-directors-linda-zhang-and-maxim-gertler-jaffe

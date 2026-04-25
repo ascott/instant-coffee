@@ -13,7 +13,7 @@ Quartermain Readers: Michael Boyce, Aaron Peck, Jason Hrivnak, Craig
 Francis Power, Ken Sparling, Jacob Wren. @ Sitka Books & Art, Thr Nov 25,
 5--8 p.m.
 
-More information: http://sitkabooksandart.com/event/?event_id=20
+More information: [http://sitkabooksandart.com/event/?event_id=20](http://sitkabooksandart.com/event/?event_id=20)
 
 Facebook for Michael Boyce's Anderson book launch:
-http://www.facebook.com/#!/event.php?eid=166326590062906
+[http://www.facebook.com/#!/event.php?eid=166326590062906](http://www.facebook.com/#!/event.php?eid=166326590062906)

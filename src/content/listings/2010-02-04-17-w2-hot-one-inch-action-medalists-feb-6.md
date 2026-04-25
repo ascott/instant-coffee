@@ -53,4 +53,4 @@ events have included Paper Tigers and Re-Wrap, Re-Gift, Re-Mix.
 
 For more information on W2 and upcoming programming and events, visit
 www.creativetechnology.org. For more information on Hot One Inch, visit
-http://www.hotoneinchaction.com/About.html.
+[http://www.hotoneinchaction.com/About.html](http://www.hotoneinchaction.com/About.html).

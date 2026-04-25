@@ -59,6 +59,6 @@ community’s commitment in overcoming economic marginalization, combating
 systemic racism and social exclusion, enhancing women’s equality and human
 rights and making the youth count.
 To register online:
-https://spreadsheets.google.com/spreadsheet/viewform?formkey=dF9WOENCX2dDWDF2WURUdzV2d19lc1E6MQ
-Check out our blog: http://counterspin2.tumblr.com/
+[https://spreadsheets.google.com/spreadsheet/viewform?formkey=dF9WOENCX2dDWDF2WURUdzV2d19lc1E6MQ](https://spreadsheets.google.com/spreadsheet/viewform?formkey=dF9WOENCX2dDWDF2WURUdzV2d19lc1E6MQ)
+Check out our blog: [http://counterspin2.tumblr.com/](http://counterspin2.tumblr.com/)
 Start tweeting about us using the hashtag #Counterspin2

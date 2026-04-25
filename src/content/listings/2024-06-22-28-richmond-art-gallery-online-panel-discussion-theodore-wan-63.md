@@ -13,7 +13,7 @@ Online Panel Discussion: The Work of Theodore Wan
 Thursday, June 27, 2024
 6:30 PM - 7:30 PM
 
-REGISTER: https://us02web.zoom.us/webinar/register/WN_o4fHTMvJRI-
+REGISTER: [https://us02web.zoom.us/webinar/register/WN_o4fHTMvJRI-](https://us02web.zoom.us/webinar/register/WN_o4fHTMvJRI-)
 gcUYped_HJA
 
 Guest curator Michael Dang leads a panel discussion with artists Christos Dikeakos

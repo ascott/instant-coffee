@@ -14,7 +14,7 @@ Sep 14 6PM PDT + Sep 15 8PM PDT
 
 register for your FREE/by
 donation tix:
-https://bit.ly/interplay_2023_tix
+[https://bit.ly/interplay_2023_tix](https://bit.ly/interplay_2023_tix)
 
 interplay_'s one of the only festivals in the world dedicated to live online
 performance. Presenting emergent approaches to audiences globally,
@@ -46,4 +46,4 @@ up. We thank aka for helping us access funds from the BC Arts Council. 100% of o
 budget goes to artists thanks to in-kind support from SFU School for Contemporary
 Arts.
 
-http://mutablesubject.ca/interplay_/
+[http://mutablesubject.ca/interplay_/](http://mutablesubject.ca/interplay_/)

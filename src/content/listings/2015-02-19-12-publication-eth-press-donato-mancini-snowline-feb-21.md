@@ -42,4 +42,4 @@ World (2011), Fact ‘N’ Value (2011), You Must Work Harder to Write Poetry
 of Excellence (2012), and Loitersack (2014). He lives in Vancouver.
 
 To order a print copy or download a free pdf, visit:
-http://ethpress.com/snowline/
+[http://ethpress.com/snowline/](http://ethpress.com/snowline/)

@@ -31,4 +31,4 @@ Deadline: April 1, 2020
 
 For more information and the online application visit our website:
 
-https://sparkboxstudio.com/dawson-award/
+[https://sparkboxstudio.com/dawson-award/](https://sparkboxstudio.com/dawson-award/)

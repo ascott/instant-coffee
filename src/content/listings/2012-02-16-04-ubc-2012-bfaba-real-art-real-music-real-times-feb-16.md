@@ -28,14 +28,14 @@ internationally celebrated UBC Visual Arts faculty & staff members
 LIVE MUSICAL PERFORMANCES featuring:
 
 DJ Blenda + Woodhead
-http://www.facebook.com/pages/Woodhead/157687890917597
+[http://www.facebook.com/pages/Woodhead/157687890917597](http://www.facebook.com/pages/Woodhead/157687890917597)
 
 Hello Dynamo featuring Julia Huggins
-http://www.facebook.com/hellodynamo
-http://www.facebook.com/pages/Julia-Huggins/96712846088
+[http://www.facebook.com/hellodynamo](http://www.facebook.com/hellodynamo)
+[http://www.facebook.com/pages/Julia-Huggins/96712846088](http://www.facebook.com/pages/Julia-Huggins/96712846088)
 
 Village
-http://www.facebook.com/villagevillage
+[http://www.facebook.com/villagevillage](http://www.facebook.com/villagevillage)
 
 Doors open at 7PM and the event runs until 11PM on Thursday,
 February 16th 2012

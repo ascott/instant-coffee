@@ -31,4 +31,4 @@ The exhibition is curated by Patrik Andersson, Associate Professor in Critical +
 Cultural Studies at Emily Carr University.
 
 More Info:
-http://https://www.alliancefrancaise.ca/community/event-r
+[http://https://www.alliancefrancaise.ca/community/event-r](http://https://www.alliancefrancaise.ca/community/event-r)

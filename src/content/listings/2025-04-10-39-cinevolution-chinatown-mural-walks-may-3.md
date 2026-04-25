@@ -44,6 +44,6 @@ Afternoon Walk: 1:30"3:00pm
 Guide: John Atkin, Civic Historian
 Host Organization: Vancouver Heritage Foundation
 
-To register: https://www.eventbrite.ca/e/vancouver-chinatown-mural-walks-tickets-
+To register: [https://www.eventbrite.ca/e/vancouver-chinatown-mural-walks-tickets-](https://www.eventbrite.ca/e/vancouver-chinatown-mural-walks-tickets-)
 1287813367449?utm-campaign=social&utm-content=attendeeshare&utm-
 medium=discovery&utm-term=listing&utm-source=cp&aff=ebdsshcopyurl

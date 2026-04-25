@@ -8,7 +8,7 @@ venue: "Ed Video Guelph"
 summary: "Ed Video Guelph | Artist Talks Daily | 11AM"
 ---
 
-https://www.youtube.com/user/EdVideoGuelph
+[https://www.youtube.com/user/EdVideoGuelph](https://www.youtube.com/user/EdVideoGuelph)
 
 11AM PST
 

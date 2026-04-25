@@ -41,5 +41,5 @@ shared his story The Mystery of Improvising and performed for us back in 2017.
 This will be a creative morning indeed"don't miss it!
 
 More info and free tickets:
-https://creativemornings.com/talks/alumni-take-the-stage-
+[https://creativemornings.com/talks/alumni-take-the-stage-](https://creativemornings.com/talks/alumni-take-the-stage-)
 online

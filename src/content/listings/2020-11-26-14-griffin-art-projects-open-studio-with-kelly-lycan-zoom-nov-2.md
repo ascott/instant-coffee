@@ -15,7 +15,7 @@ more about what she has been up to throughout her time at Griffin Art Projects!
 
 To register, please visit:
 
-https://zoom.us/meeting/register/tJIld-6oqDwvGtP8kMhmjPX3NG9NMZ9Z_BSX
+[https://zoom.us/meeting/register/tJIld-6oqDwvGtP8kMhmjPX3NG9NMZ9Z_BSX](https://zoom.us/meeting/register/tJIld-6oqDwvGtP8kMhmjPX3NG9NMZ9Z_BSX)
 
 Kelly Lycan is a photo-based installation artist who resides in Vancouver, BC, Canada.
 Lycans work investigates the way objects and images are placed and displayed in the
@@ -24,4 +24,4 @@ order to engage them beyond medium specificity. Her work has been exhibited acro
 Canada, the US, Europe and the Middle East. Lycan also collaborated from 2005-2015 with
 the artist collective Instant Coffee, a service-oriented artist collective who have exhibited
 extensively. www.kellylycan.com
-http://www.griffinartprojects.ca
+[http://www.griffinartprojects.ca](http://www.griffinartprojects.ca)

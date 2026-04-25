@@ -30,7 +30,7 @@ Wood
 ~~~
 To receive the readings in advance, please email peripheralreview@gmail.com 
 with the subject line: RSVP - Reading Series Aug 23
-https://peripheralreview.com/events-programming/
+[https://peripheralreview.com/events-programming/](https://peripheralreview.com/events-programming/)
 ~~~
 
 The event will be live streamed on Instagram Live (@peripheralreview) as well 

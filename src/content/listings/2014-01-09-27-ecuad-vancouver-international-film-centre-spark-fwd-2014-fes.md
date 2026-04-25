@@ -48,7 +48,7 @@ enthusiast, this isn't an event you want to miss.
 
 For registration, please visit the website below:
 
-Website: http://sparkfx.ca/
+Website: [http://sparkfx.ca/](http://sparkfx.ca/)
 
 ---
 Part Time Coordinator

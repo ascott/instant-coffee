@@ -15,11 +15,11 @@ This call closes APRIL 1st at 3pm.
 
 For those interested in submitting a proposal, all the details of 
 submissions requirements are attached or can be viewed at:
-http://lakecountryartgallery.blogspot.ca/p/apply-to-exhibit.html
+[http://lakecountryartgallery.blogspot.ca/p/apply-to-exhibit.html](http://lakecountryartgallery.blogspot.ca/p/apply-to-exhibit.html)
 
 Sincerely, 
 
 Katie Brennan
 
 Curator - Lake Country Art Gallery
-http://lakecountryartgallery.blogspot.ca/p/apply-to-exhibit.html
+[http://lakecountryartgallery.blogspot.ca/p/apply-to-exhibit.html](http://lakecountryartgallery.blogspot.ca/p/apply-to-exhibit.html)

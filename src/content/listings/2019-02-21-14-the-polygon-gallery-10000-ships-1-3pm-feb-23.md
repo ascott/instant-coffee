@@ -15,7 +15,7 @@ showcases a truly unique photographic archive created by local ship-spotter and 
 Rod Logan who has documented the comings and going of every manner of ship, tug, barge 
 and vessel entering and leaving Vancouver's harbour over the past 30 years.
 
-https://thepolygon.ca/event/10000-ships-afternoon-reception/
+[https://thepolygon.ca/event/10000-ships-afternoon-reception/](https://thepolygon.ca/event/10000-ships-afternoon-reception/)
 
 thepolygon.ca
 

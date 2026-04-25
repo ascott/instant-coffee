@@ -10,5 +10,5 @@ summary: "Online Exhibition | The Witching Hour | MAY 1"
 
 Wake Windows: The Witching Hour
 
-https://mackenzie.art/experience/digital-art-projects/post/wake-windows-the-witching-
+[https://mackenzie.art/experience/digital-art-projects/post/wake-windows-the-witching-](https://mackenzie.art/experience/digital-art-projects/post/wake-windows-the-witching-)
 hour/

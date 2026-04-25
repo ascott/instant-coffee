@@ -76,7 +76,7 @@ Volunteer Position
 
 You can participate as volunteer for different positions, including some
 due before the conference.
-Visit http://isea2015.org/call-for-volunteers-2015 for details about each
+Visit [http://isea2015.org/call-for-volunteers-2015](http://isea2015.org/call-for-volunteers-2015) for details about each
 position available.
 
 Volunteers Lead (Pre-Conference Position)
@@ -108,6 +108,6 @@ through your channels. We need around 120 volunteers.
 
 Contact us:
 For further information please contact isea2015volunteer@sfu.ca
-ISEA 2015: http://isea2015.org
-on Facebook: https://www.facebook.com/ISEA2015
-on Twitter: https://twitter.com/ISEA2015
+ISEA 2015: [http://isea2015.org](http://isea2015.org)
+on Facebook: [https://www.facebook.com/ISEA2015](https://www.facebook.com/ISEA2015)
+on Twitter: [https://twitter.com/ISEA2015](https://twitter.com/ISEA2015)

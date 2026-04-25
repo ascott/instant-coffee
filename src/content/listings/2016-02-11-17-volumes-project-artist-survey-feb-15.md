@@ -24,7 +24,7 @@ visit our website at www.volumesproject.com.
 Here's how you can help:
 
 Answer these 10 questions:
-https://www.surveymonkey.com/r/vpartistsurvey before February 15, 2016
+[https://www.surveymonkey.com/r/vpartistsurvey](https://www.surveymonkey.com/r/vpartistsurvey) before February 15, 2016
 
 Send this survey along to your artist friends and family
 Follow us on Instagram/Twitter @volumesproject, and on Facebook for

@@ -56,4 +56,4 @@ Morris and Helen Belkin Art Gallery, UBC
 Gallery hrs: Tue-Fri 10 to 5; Sat-Sun 12-5; closed holidays.
 
 
-http://wwww.belkin.ubc.ca
+[http://wwww.belkin.ubc.ca](http://wwww.belkin.ubc.ca)

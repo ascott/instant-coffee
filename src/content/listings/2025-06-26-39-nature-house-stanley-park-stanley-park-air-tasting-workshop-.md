@@ -32,5 +32,5 @@ an introduction to Air Tasting and a series of sensory exercises to explore and
 express the aromas and air qualities around us. Then well enjoy a short walking tour
 to taste the airs of the lagoon.
 
-Registration: https://stanleyparkecology.ca/event/stanley-park-air-tasting-workshop/
-Project info: https://airtasting.com/#deck
+Registration: [https://stanleyparkecology.ca/event/stanley-park-air-tasting-workshop/](https://stanleyparkecology.ca/event/stanley-park-air-tasting-workshop/)
+Project info: [https://airtasting.com/#deck](https://airtasting.com/#deck)

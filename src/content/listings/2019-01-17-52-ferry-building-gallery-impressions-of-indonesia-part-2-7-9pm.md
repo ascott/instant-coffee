@@ -41,7 +41,7 @@ valuable if you're a potential traveller there.
 Admission: $15 per lecture. Course #52630
 
 Register at 604-925-7270 or online 
-https://ca.apm.activecommunities.com/westvanrec/Activity_Search/ultimate-traveller-
+[https://ca.apm.activecommunities.com/westvanrec/Activity_Search/ultimate-traveller-](https://ca.apm.activecommunities.com/westvanrec/Activity_Search/ultimate-traveller-)
 impressions-of-india-part-2/49597
 
 Drop-ins also welcome (space permitting).

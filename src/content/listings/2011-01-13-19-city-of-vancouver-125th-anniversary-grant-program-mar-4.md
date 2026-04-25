@@ -52,7 +52,7 @@ activities ranging from amateur to professional practices.
 To learn more about the program, Cultural Services' staff will be 
 available at the upcoming 125th Anniversary Grant Program 
 Information Sessions, or visit our website at vancouver.ca/culture 
-<blocked::http://www.vancouver.ca/culture> or contact staff at 
+<blocked::[http://www.vancouver.ca/culture](http://www.vancouver.ca/culture)> or contact staff at 
 604.829.2007.
 
 Applications are due on Friday, March 4 by 4:30 pm

@@ -41,7 +41,7 @@ $35 to submit between Nov. 15th and Dec. 31st, 2009
 
 $45 to submit between Jan. 1st and February 15th, 2010.
 For details and to submit:
-http://www.vantageartprojects.com/Current_Submissions.html
+[http://www.vantageartprojects.com/Current_Submissions.html](http://www.vantageartprojects.com/Current_Submissions.html)
 
 Looking forward to seeing your submissions!
 

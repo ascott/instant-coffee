@@ -33,7 +33,7 @@ SGPS is a mixed bill show that happens twice a year featuring new, weird and won
 performance based art. This edition is presented by Future Leisure at 45W.
 
 Ticket link:
-https://squareup.com/store/shooting-gallery-performance
+[https://squareup.com/store/shooting-gallery-performance](https://squareup.com/store/shooting-gallery-performance)
 
 FB event:
-https://www.facebook.com/events/482968112579027/
+[https://www.facebook.com/events/482968112579027/](https://www.facebook.com/events/482968112579027/)

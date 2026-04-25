@@ -29,7 +29,7 @@ addressing architecture, transfiguration of urban environment, and human
 condition.
 
 For more information, please visit ----> 
-http://centrea.org/index.cfm?go=site.index&section=exhibitions&id=74
+[http://centrea.org/index.cfm?go=site.index&section=exhibitions&id=74](http://centrea.org/index.cfm?go=site.index&section=exhibitions&id=74)
 
 
 Centre A. Vancouver International Centre for Contemporary Asian Art

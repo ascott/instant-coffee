@@ -23,7 +23,7 @@ No. 2: New German Cinema
 Join us for a screening of RAINER WERNER FASSBINDER'S feature film, FOX AND
 HIS FRIENDS (1975), along with a selection of early short films by WIM
 WENDERS. W/ live synth-driven electronica by VOID MIRROR
-(https://soundcloud.com/voidmirror).
+([https://soundcloud.com/voidmirror](https://soundcloud.com/voidmirror)).
 
 The second in a series of monthly open air film + music nights featuring
 avant-garde and experimental works by celebrated international directors,

@@ -35,4 +35,4 @@ will
 begin at 7p.m. This event is free and wheelchair accessible.
 
 Follow the link to learn more about the artists:
-https://evergreenculturalcentre.ca/exhibit/emerging-creators-incubator/
+[https://evergreenculturalcentre.ca/exhibit/emerging-creators-incubator/](https://evergreenculturalcentre.ca/exhibit/emerging-creators-incubator/)

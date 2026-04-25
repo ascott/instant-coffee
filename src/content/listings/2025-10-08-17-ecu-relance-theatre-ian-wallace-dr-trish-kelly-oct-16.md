@@ -32,5 +32,5 @@ Time: Doors 6pm, Talk at 6:30pm
 
 Please RSVP by Tuesday, October 14:
 
-https://ecuaa.us19.list-manage.com/track/click?
+[https://ecuaa.us19.list-manage.com/track/click](https://ecuaa.us19.list-manage.com/track/click)?
 u=975113e143333f81dc96a5cf2&id=17a68ae3f8&e=67a18868e7

@@ -32,4 +32,4 @@ interest, however only shortlisted candidates will be contacted.
 
 To learn more,
 visit our website:
-https://centrea.org/opportunities/
+[https://centrea.org/opportunities/](https://centrea.org/opportunities/)

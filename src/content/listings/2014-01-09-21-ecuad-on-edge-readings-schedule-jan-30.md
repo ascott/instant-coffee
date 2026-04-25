@@ -58,7 +58,7 @@ journalism fellowship in 1990. She eventually immigrated to Canada,
 completed a Masters, and worked for non-profit organizations. She 
 received a grant from Vivacité Montréal, Quebec Arts Council, for her 
 first novel whose working title is Simply There To Help. 
-http://www.veenago.com/story
+[http://www.veenago.com/story](http://www.veenago.com/story)
 
 Gerry Shikatani has created work in prose, textsound performance, 
 experimental film collaboration and above all, poetry. His poetry 

@@ -12,7 +12,7 @@ sleep and her brother death presents program 16: , an online screening
 of Eric Tkaczyk's /trd'()n h"s/ (2020).
 
 please join us from bed on Sunday, June 29, at 9am pacific:
-http://bedroomkitchen.garden/sdleeaetph/coming-soon_program-16_sleep-and-her-
+[http://bedroomkitchen.garden/sdleeaetph/coming-soon_program-16_sleep-and-her-](http://bedroomkitchen.garden/sdleeaetph/coming-soon_program-16_sleep-and-her-)
 brother-death.pdf
 
 run time 5 minutes, 13 seconds, plus opening remarks.

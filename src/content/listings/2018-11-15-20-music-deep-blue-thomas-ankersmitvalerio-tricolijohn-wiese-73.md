@@ -15,7 +15,7 @@ Doors @ 7:30pm
 NOV 20th
 $10
 
-Facebook: https://www.facebook.com/events/260931257958029/
+Facebook: [https://www.facebook.com/events/260931257958029/](https://www.facebook.com/events/260931257958029/)
 Thomas Ankersmit is a musician based in Berlin. His noise and electroacoustic 
 compositions are characterized by a creative abuse of the Serge modular analog 
 synthesizer, which he uses to explore psychoacoustic phenomena such as infrasound and 
@@ -25,7 +25,7 @@ among others. Ankersmit's work has been presented at Hamburger Bahnhof, KW Insti
 for Contemporary Art in Berlin, the Stedelijk Museum, Kunsthalle in Basel, the Tate Modern, 
 MoMA PS1, and internationally at festivals for experimental and contemporary music.
 
-https://thomasankersmit.net/
+[https://thomasankersmit.net/](https://thomasankersmit.net/)
 
 Valerio Tricoli is an Italian musician who works within the genres of musique concrte and 
 electroacoustic music. His instument of choice is a Revox reel-to-reel tape recorder that he 
@@ -35,7 +35,7 @@ been released on labels such as PAN, Entracte and Bowindo. Tricoli has collabora
 performers such as Thomas Ankersmit, Antoine Chennex, Hanno Leichtmann, Pan Daijing, 
 and Werner Dafeldecker.
 
-https://valeriotricoli.bandcamp.com/
+[https://valeriotricoli.bandcamp.com/](https://valeriotricoli.bandcamp.com/)
 
 John Wieses artistic practice crosses the disciplinary boundaries of music, publishing, 
 design, and typography. His recorded and performance works share a conceptual lineage 
@@ -46,6 +46,6 @@ collaboratedwith artists such as Sunn O))), Wolf Eyes, Merzbow, Thurston Moore, 
 Drumm, C. Spencer Yeh, and his work has been presented at institutions such as Ina/GRM 
 in Paris, 52nd Venice Biennale, The Getty Center, and the ICA in London.
 
-http://www.john-wiese.com/
+[http://www.john-wiese.com/](http://www.john-wiese.com/)
 
-Deep Blue: http://deepbluestudios.org
+Deep Blue: [http://deepbluestudios.org](http://deepbluestudios.org)

@@ -8,7 +8,7 @@ venue: "Emily Carr University of Art + Design"
 summary: "Emily Carr University of Art + Design | Ghost Images: Photography and Trace | APR 8"
 ---
 
-More event information here: https://capturephotofest.com/events/capture-x-emily-
+More event information here: [https://capturephotofest.com/events/capture-x-emily-](https://capturephotofest.com/events/capture-x-emily-)
 carr-university-of-art-design-ghost-images-photography-and-trace-artist-talk/
 Tuesday, April 8, 2025
 6:00PM-7:00PM
@@ -17,7 +17,7 @@ Free
 Michael OBrian Exhibition Commons: Emily Carr University of Art + Design 520 E
 1st Ave Vancouver, BC V5T 1A7
 
-Register here: https://www.eventbrite.ca/e/capture-x-ecuad-ghost-images-
+Register here: [https://www.eventbrite.ca/e/capture-x-ecuad-ghost-images-](https://www.eventbrite.ca/e/capture-x-ecuad-ghost-images-)
 photography-and-trace-artist-talk-tickets-1291257950289?aff=oddtdtcreator
 
 Please join us for a talk highlighting artists from Ghost Images: Photography and
@@ -51,4 +51,4 @@ Capture x Emily Carr is a partnership between Capture Photography Festival and
 the Audain Faculty of Art at Emily Carr University of Art + Design.
 
 Check out other Capture Photography Festival 2025 events here:
-https://capturephotofest.com/events/
+[https://capturephotofest.com/events/](https://capturephotofest.com/events/)

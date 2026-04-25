@@ -31,4 +31,4 @@ exhibitions and/or other engagement activities.
 Application Deadline: 11:59 pm on Friday, July 14, 2023
 
 To read the full job description, including the details on how to apply, please visit:
-https://neutralground.sk.ca/ng-is-hiring-director-curator/
+[https://neutralground.sk.ca/ng-is-hiring-director-curator/](https://neutralground.sk.ca/ng-is-hiring-director-curator/)

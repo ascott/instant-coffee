@@ -34,5 +34,5 @@ Place: CICA Vancouver (228 Abbott St., Vancouver, BC V6B1C8)
 
 Tickets: $30.09
 
-Link: https://www.eventbrite.ca/e/modern-biology-x-cica-tickets-843134256257?
+Link: [https://www.eventbrite.ca/e/modern-biology-x-cica-tickets-843134256257](https://www.eventbrite.ca/e/modern-biology-x-cica-tickets-843134256257)?
 aff=oddtdtcreator

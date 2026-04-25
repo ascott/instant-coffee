@@ -14,7 +14,7 @@ Fair, we are hosting a multifaceted event featuring literary readings, art,
 comedy, live music and a night market featuring local artists' book
 publishers and artisans. The event also serves as a fundraiser for the 2016
 Vancouver Art/Book Fair.
-http://projectspace.ca/
+[http://projectspace.ca/](http://projectspace.ca/)
 
 Comedy by Jaz Halloran and Matterhorn
 
@@ -32,11 +32,11 @@ and Chelsea O'Byrne
 VIVO Media Arts Centre
 2625 Kaslo Street
 Vancouver, BC
-http://www.vivomediaarts.com/
+[http://www.vivomediaarts.com/](http://www.vivomediaarts.com/)
 
 6:00pm until 1:00am
 
 $12 at the door ($5 before 7:00pm), and $5 all night for current Project
 Space members.
 
-https://www.facebook.com/events/1544390439201534/
+[https://www.facebook.com/events/1544390439201534/](https://www.facebook.com/events/1544390439201534/)

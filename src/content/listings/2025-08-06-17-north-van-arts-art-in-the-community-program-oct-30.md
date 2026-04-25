@@ -25,7 +25,7 @@ required to submit a minimum of 10 artworks to exhibit. Exact number of artworks
 exhibits will be dependent on artwork sizing.
 
 Deadline to Submit: October 30, 2025
-Submit here: https://form-can.keela.co/art-in-the-community-call-for-artists
+Submit here: [https://form-can.keela.co/art-in-the-community-call-for-artists](https://form-can.keela.co/art-in-the-community-call-for-artists)
 
 18. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.

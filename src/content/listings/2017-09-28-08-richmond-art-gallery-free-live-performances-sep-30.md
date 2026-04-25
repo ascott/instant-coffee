@@ -35,4 +35,4 @@ Playhouse.
 
 All events are free and open to all ages.
 
-For more information: http://www.richmondartgallery.org/
+For more information: [http://www.richmondartgallery.org/](http://www.richmondartgallery.org/)

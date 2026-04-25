@@ -24,4 +24,4 @@ Abel. Free soup will be available and donations for the visiting writers
 are welcomed.
 
 Future Concrete: Poetry After This is curated by Gabriel Saloman
-(http://diademdiscos.com/gms)
+([http://diademdiscos.com/gms](http://diademdiscos.com/gms))

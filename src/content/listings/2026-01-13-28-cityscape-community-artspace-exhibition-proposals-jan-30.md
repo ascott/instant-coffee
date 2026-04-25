@@ -21,4 +21,4 @@ exhibition.
 
 Deadline for submission: Friday, January 30, 2026, 5pm PST
 
-Submission Portal here: https://form-can.keela.co/call-for-artists-exhibition-proposals-2026
+Submission Portal here: [https://form-can.keela.co/call-for-artists-exhibition-proposals-2026](https://form-can.keela.co/call-for-artists-exhibition-proposals-2026)

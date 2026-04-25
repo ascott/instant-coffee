@@ -51,7 +51,7 @@ Island City), the Power Plant (Toronto), and the Yerba Buena Center for the Arts
 Francisco), among other venues. From 2005 to 2015, she was Editor at Fillip. She is 
 currently in the process of forming the Bruna Press + Archive in Bellingham, 
 Washington.
-http://www.kristinaleepodesva.com/
+[http://www.kristinaleepodesva.com/](http://www.kristinaleepodesva.com/)
 
 ABOUT THE FORESHORE
 The Foreshore is a collaborative pursuit and shared space between Access Gallery and 

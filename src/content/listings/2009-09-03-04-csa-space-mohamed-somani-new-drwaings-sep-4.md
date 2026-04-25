@@ -20,4 +20,4 @@ numerous other public/private venues.
 Curated by Steven Tong and Christopher Brayshaw.
 
 
-http://www.http://csaspace.blogspot.com/
+[http://www.http://csaspace.blogspot.com/](http://www.http://csaspace.blogspot.com/)

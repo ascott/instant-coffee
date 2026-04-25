@@ -14,7 +14,7 @@ It will run September 6-8 at the James Black Gallery (144 E 6th Ave, Vancouver, 
 Applications close August 15th.
 
 Apply here:
-https://docs.google.com/forms/d/e/1FAIpQLSdtAQ8SoT9Ctan3WSUV8qlVv99UFl17kHP
+[https://docs.google.com/forms/d/e/1FAIpQLSdtAQ8SoT9Ctan3WSUV8qlVv99UFl17kHP](https://docs.google.com/forms/d/e/1FAIpQLSdtAQ8SoT9Ctan3WSUV8qlVv99UFl17kHP)
 vSzEAdz9IqnrB3A/viewform
 
 Questions? Email

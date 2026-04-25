@@ -19,7 +19,7 @@ Film Series February 1 - February 22
 Cinematheque
 1131 Howe St, Vancouver, BC V6Z 2K8
 
-https://thecinematheque.ca/series/witnessing-change-ukrainian-cinema-in-a-time-of-
+[https://thecinematheque.ca/series/witnessing-change-ukrainian-cinema-in-a-time-of-](https://thecinematheque.ca/series/witnessing-change-ukrainian-cinema-in-a-time-of-)
 turmoil
 
 Boasting a formidable cinematic heritage that stretches back to the early days of

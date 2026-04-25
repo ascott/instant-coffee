@@ -12,7 +12,7 @@ PERMANENT DEVIATION
 Opening: FRIDAY MARCH 14, 2014 / 8pm-12am (PST)
 Website launch and live art coding
 
-PERMANENT DEVIATION (http://permanentdeviation.com) is an online
+PERMANENT DEVIATION ([http://permanentdeviation.com](http://permanentdeviation.com)) is an online
 Processing compiler and simultaneous participatory exhibition space
 conceived by JULIE GENDRON in association with BRADY MARKS.
 
@@ -35,7 +35,7 @@ facilitates experiences that allow people to explore and create their own
 point of view, culture and communities through her participatory art
 practice. This project is one in a series of structural artworks that is
 intended to be completed by its viewers. Other works can be seen here:
-http://desiringproductions.com
+[http://desiringproductions.com](http://desiringproductions.com)
 
 *Processing is a generative programming language typically used for the
 purpose of art making. It is normally executed in a client-side

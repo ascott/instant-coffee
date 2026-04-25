@@ -26,5 +26,5 @@ and performers can support their work, fine-tune
 their editing, and provide insight to all viewers on the editing and publishing 
 process. The live stream event will take place on November 4, 2020. 
 
-To submit please visit: http://www.cacv.ca/stage-to-page/
+To submit please visit: [http://www.cacv.ca/stage-to-page/](http://www.cacv.ca/stage-to-page/)
 Submission deadline: Thursday, October 1, 2020

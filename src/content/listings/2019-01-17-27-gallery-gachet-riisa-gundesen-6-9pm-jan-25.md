@@ -32,7 +32,7 @@ University of Lethbridge in 2012, and her MFA from the University of Saskatchewa
 in 2017. In the context of contemporary figurative painting, her work deals with 
 femininity, mental illness, and the abject. Gundesen currently teaches visual art at 
 the University of Alberta and the City of Edmonton.
-https://www.riisagundesen.com/
+[https://www.riisagundesen.com/](https://www.riisagundesen.com/)
 
 gallery gachet
 9 West Hastings

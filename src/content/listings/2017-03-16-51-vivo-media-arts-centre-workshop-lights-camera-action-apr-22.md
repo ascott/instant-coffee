@@ -18,7 +18,7 @@ Membership
 Session 1: Saturday April 22, 12:30pm-5pm
 Session 2: Saturday April 29, 12:30pm-5pm
 
-Sign up on Eventbrite - https://camera-lights-sound-with-fran-
+Sign up on Eventbrite - [https://camera-lights-sound-with-fran-](https://camera-lights-sound-with-fran-)
 breden.eventbrite.ca
 
 Basic technical aspects of camera operation, sound recording, and lighting 
@@ -34,4 +34,4 @@ get you started on your videos! It also benefits participants interested in VIVO
 more intermediary video-making workshops.
 
 Visit VIVO Education for many more details: 
-http://www.vivomediaarts.com/education/upcoming-workshops
+[http://www.vivomediaarts.com/education/upcoming-workshops](http://www.vivomediaarts.com/education/upcoming-workshops)

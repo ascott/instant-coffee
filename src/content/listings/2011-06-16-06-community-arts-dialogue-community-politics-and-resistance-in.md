@@ -20,7 +20,7 @@ participatory action research and participatory arts.
 Location: World Art Centre, SFU Goldcorp Centre for the Arts, 149 W
 Hastings Street (enter from Cordova Street)
 
-FREE - register at http://communityartsdialogue.eventbrite.com/
+FREE - register at [http://communityartsdialogue.eventbrite.com/](http://communityartsdialogue.eventbrite.com/)
 
 Part 2: 2:00-4:00pm
 
@@ -29,7 +29,7 @@ on their experience working on the project.
 
 Location: Interurban: Gallery and Community Art Space, I E Hastings St
 
-FREE - register at http://communityartsexhibition.eventbrite.com/
+FREE - register at [http://communityartsexhibition.eventbrite.com/](http://communityartsexhibition.eventbrite.com/)
 
 Dr. Maggie O'Neill, researcher from Durham University, will discuss her
 work in participatory action research and participatory arts, specifically,

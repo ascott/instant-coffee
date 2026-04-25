@@ -48,6 +48,6 @@ by email to on@thecentreofattention.org
 
 More information and images:
 
-http://www.thecentreofattention.org/exhibitions/sutton2.html
+[http://www.thecentreofattention.org/exhibitions/sutton2.html](http://www.thecentreofattention.org/exhibitions/sutton2.html)
 
 The Centre of Attention: 020 8880 5507 or 07792 582 386

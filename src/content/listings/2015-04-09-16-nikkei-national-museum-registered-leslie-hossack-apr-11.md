@@ -37,4 +37,4 @@ Nikkei National Museum
 6688 Southoaks Crescent (corner of Kingsway & Sperling)
 Burnaby, BC
 604.777.7000
-http://nikkeiplace.org
+[http://nikkeiplace.org](http://nikkeiplace.org)

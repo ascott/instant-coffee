@@ -18,7 +18,7 @@ Saturday, October 26, 2024
 Location: Richmond Cultural Centre Performance Hall, 7700 Minoru Gate, Richmond
 BC
 
-RSVP Here: https://www.eventbrite.ca/e/tea-zen-film-screening-tea-ceremony-with-
+RSVP Here: [https://www.eventbrite.ca/e/tea-zen-film-screening-tea-ceremony-with-](https://www.eventbrite.ca/e/tea-zen-film-screening-tea-ceremony-with-)
 lam-wong-tickets-1037069190867
 
 Screening: 67min

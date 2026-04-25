@@ -38,14 +38,14 @@ for his contribution to the psychoanalytic literature as one of the
 first English translators of Jacques Lacan.
 
 A pdf of the reading is available at
-http://www.structuralism.ca/wp-content/uploads/2019/07/wilden-nature-and-culture.pdf
+[http://www.structuralism.ca/wp-content/uploads/2019/07/wilden-nature-and-culture.pdf](http://www.structuralism.ca/wp-content/uploads/2019/07/wilden-nature-and-culture.pdf)
 
 The full text of System and Structure may be found at
-http://www.structuralism.ca/wp-content/uploads/2019/07/wilden-system-and-structure.pdf
+[http://www.structuralism.ca/wp-content/uploads/2019/07/wilden-system-and-structure.pdf](http://www.structuralism.ca/wp-content/uploads/2019/07/wilden-system-and-structure.pdf)
 - for further discussion of the analog vs. digital distinction as
 Wilden uses it, please consult chapter VII: Analog and Digital
 Communication.
 
 For more information about the reading group, visit
-http://www.structuralism.ca/about/ or email Alex at universalmathesis
+[http://www.structuralism.ca/about/](http://www.structuralism.ca/about/) or email Alex at universalmathesis
 (at) gmail (dot) com

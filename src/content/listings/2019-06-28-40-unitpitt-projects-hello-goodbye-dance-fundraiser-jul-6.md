@@ -38,4 +38,4 @@ trajectory for many years to come!
 Hello! Goodbye! also marks UNIT/PITTS one-year anniversary at 8EAST with NOW 
 Society. 
 
-More information: https://www.helenpittgallery.org/updates/hello-goodbye/
+More information: [https://www.helenpittgallery.org/updates/hello-goodbye/](https://www.helenpittgallery.org/updates/hello-goodbye/)

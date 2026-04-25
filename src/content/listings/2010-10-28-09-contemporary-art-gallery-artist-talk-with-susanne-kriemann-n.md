@@ -48,4 +48,4 @@ until November 7, 2010.
 For more information please contact: info@contemporaryartgallery.ca or
 604-681-2700
 
-http://www.contemporaryartgallery.ca
+[http://www.contemporaryartgallery.ca](http://www.contemporaryartgallery.ca)

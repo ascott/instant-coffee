@@ -35,4 +35,4 @@ Salon is presented by ArtStarts in Schools, a not-for-profit organization
 that provides innovative arts programs for young people, practical
 resources for teachers and artists, and leadership in advocacy for arts
 in education. Learn more at artstarts.com or
-http://artstarts.com/blog/aic-mentorship-salons-invitation
+[http://artstarts.com/blog/aic-mentorship-salons-invitation](http://artstarts.com/blog/aic-mentorship-salons-invitation)

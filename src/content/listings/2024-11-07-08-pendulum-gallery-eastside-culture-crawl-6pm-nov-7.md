@@ -22,4 +22,4 @@ issues and climate change, to those connected to wealth, luck, envy and greed, t
 exhibition gives artists the opportunity to contemplate what Green means to them,
 explore personal experiences, and look back on their own and others' history.
 
-https://culturecrawl.ca/events/green-2024-exhibit
+[https://culturecrawl.ca/events/green-2024-exhibit](https://culturecrawl.ca/events/green-2024-exhibit)

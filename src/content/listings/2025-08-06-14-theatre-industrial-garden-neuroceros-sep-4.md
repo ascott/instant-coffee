@@ -30,4 +30,4 @@ With special thanks to the NOW-ID Board members Brian Wakelin, Jana Tyner, Will
 Fu, Laura Hart Newlon
 and Heidi Westfall.
 
-https://www.now-id.com/current
+[https://www.now-id.com/current](https://www.now-id.com/current)

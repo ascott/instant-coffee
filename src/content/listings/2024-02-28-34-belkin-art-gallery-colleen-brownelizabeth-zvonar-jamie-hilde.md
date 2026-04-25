@@ -18,5 +18,5 @@ discussion on the themes of uncertainty and doubt in their practices, as well as
 memory and future predictions are interwoven
 throughout their work.
 
-https://belkin.ubc.ca/events/conversation-colleen-brown-elizabeth-zvonar-and-jamie-
+[https://belkin.ubc.ca/events/conversation-colleen-brown-elizabeth-zvonar-and-jamie-](https://belkin.ubc.ca/events/conversation-colleen-brown-elizabeth-zvonar-and-jamie-)
 hilder/

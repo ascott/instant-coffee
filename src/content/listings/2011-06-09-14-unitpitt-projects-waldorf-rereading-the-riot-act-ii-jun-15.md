@@ -34,7 +34,7 @@ engagement with civic space and how or whether we want to narrate (back) to it.
 Rereading the Riot Act is a series of actions curated by Anakana Schofield
 through a UNIT/PITT curatorial residency project.
 
-https://www.facebook.com/event.php?eid=215530985134027
+[https://www.facebook.com/event.php?eid=215530985134027](https://www.facebook.com/event.php?eid=215530985134027)
 
 UNIT/PITT Projects gratefully acknowledges the support of the British
 Columbia Arts Council, the Canada Council, the City of Vancouver, the

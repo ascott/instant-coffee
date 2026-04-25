@@ -59,6 +59,6 @@ Everyone's going loopy for Joker FACT
 Immediate Impact PLAN B
 
 links:
-http://issuu.com/xlr8r/docs/xlr8r_130_single_pages
-http://www.youtube.com/watch?v=cDDupe528g8
-http://www.youtube.com/watch?v=0bIR_YmiuVw
+[http://issuu.com/xlr8r/docs/xlr8r_130_single_pages](http://issuu.com/xlr8r/docs/xlr8r_130_single_pages)
+[http://www.youtube.com/watch?v=cDDupe528g8](http://www.youtube.com/watch?v=cDDupe528g8)
+[http://www.youtube.com/watch?v=0bIR_YmiuVw](http://www.youtube.com/watch?v=0bIR_YmiuVw)

@@ -35,7 +35,7 @@ projects following an interest in transmission and human/non-human cultural form
 collaborates widely with artists, musicians, and institutions. His current work argues for 
 refiguring crude oil as media.
 
-http://www.eliavargas.com/
+[http://www.eliavargas.com/](http://www.eliavargas.com/)
 
 This talk takes place as part of the multifaceted research creation project, Under the Beating 
 Sun, From Summer to Summer, presented by Far Afield at Access Gallery's PLOT space. 

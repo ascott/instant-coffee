@@ -86,4 +86,4 @@ website: www.tbajournal.ca
 
 Citation: Tsing, Anna Lowenhaupt. 2011. Friction: An Ethnography of Global
 Connection. Princeton, NJ: Princeton University Press.
-https://doi.org/10.1515/9781400830596.
+[https://doi.org/10.1515/9781400830596](https://doi.org/10.1515/9781400830596).

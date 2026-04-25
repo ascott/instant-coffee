@@ -72,7 +72,7 @@ Contact us if you want to know more...
 
 826 E Pender St., Strathcona, Vancouver, BC / Coast Salish Territory
 
-http://thestrathconaartgallery.tumblr.com
+[http://thestrathconaartgallery.tumblr.com](http://thestrathconaartgallery.tumblr.com)
 
 diademdiscos@gmail.com
 
@@ -80,8 +80,8 @@ diademdiscos@gmail.com
 DIADEM
 AJA ROSE BOND & GABRIEL SALOMAN
 
-http://diademdiscos.wordpress.com
-http://thestrathconaartgallery.tumblr.com
+[http://diademdiscos.wordpress.com](http://diademdiscos.wordpress.com)
+[http://thestrathconaartgallery.tumblr.com](http://thestrathconaartgallery.tumblr.com)
 
 |||{ Contact us if for what ever reason you would like to no longer receive
 emails from this address}|||

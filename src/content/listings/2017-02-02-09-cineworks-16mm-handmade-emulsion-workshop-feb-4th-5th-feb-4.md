@@ -20,7 +20,7 @@ $170 + taxes | General Admission
 $150 + taxes | Concession
 $130 + taxes | Member Admission
 
-REGISTER: http://bit.ly/2jwiwy2
+REGISTER: [http://bit.ly/2jwiwy2](http://bit.ly/2jwiwy2)
 
 The alchemical nature and serendipity of the handmade image are explored in 
 this immersive how-to of hand-brewed emulsion.

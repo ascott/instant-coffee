@@ -33,4 +33,4 @@ Research, SFMOMA's Open Space; and more recently in the exhibition catalogue,
 Bonnie Orra Sherk: Life Frames Since 1970 (Fort Mason Center for Arts & Culture,
 2024).
 
-https://cagvancouver.org/event/saturday-session-ryan-tacata
+[https://cagvancouver.org/event/saturday-session-ryan-tacata](https://cagvancouver.org/event/saturday-session-ryan-tacata)

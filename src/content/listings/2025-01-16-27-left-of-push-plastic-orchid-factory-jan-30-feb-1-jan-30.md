@@ -65,7 +65,7 @@ and snacks as we come together to celebrate and support the vibrant
 photography community.
 
 Click here to purchase a ticket:
-https://www.universe.com/events/fundraiser-capture-curated-edition-1-tickets-
+[https://www.universe.com/events/fundraiser-capture-curated-edition-1-tickets-](https://www.universe.com/events/fundraiser-capture-curated-edition-1-tickets-)
 DH81QJ
 
 Featured artists include: Steven Beckly, Nadia Belerique, Nicole Beno, Rydel

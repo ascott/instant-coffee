@@ -37,4 +37,4 @@ November 1 at 2 pm, artist Randy Lee Cutler will respond to One Hundred Years
 through the lenses of human and more-than-human relations, temporality as
 perception and enchantment.
 
-https://belkin.ubc.ca/exhibitions/abbas-akhavan-one-hundred-years/
+[https://belkin.ubc.ca/exhibitions/abbas-akhavan-one-hundred-years/](https://belkin.ubc.ca/exhibitions/abbas-akhavan-one-hundred-years/)

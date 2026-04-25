@@ -17,5 +17,5 @@ and more. Learn more about this incredible developing resource through a live
 demonstration, and hear how its content can support your arts organization in navigating
 your legal responsibilities.
 
-https://www.eventbrite.ca/e/introducing-the-legal-self-assessment-and-learning-tool-lsalt-
+[https://www.eventbrite.ca/e/introducing-the-legal-self-assessment-and-learning-tool-lsalt-](https://www.eventbrite.ca/e/introducing-the-legal-self-assessment-and-learning-tool-lsalt-)
 tickets-150990008179

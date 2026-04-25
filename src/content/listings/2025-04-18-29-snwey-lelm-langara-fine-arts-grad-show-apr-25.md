@@ -33,4 +33,4 @@ We gratefully acknowledge that our learning takes place on traditional, ancestra
 unceded xmky"m, Musqueam territory. We are deeply honoured to hold our
 given Musqueam name, snw"ey lelm", house of teachings.
 
-https://langarafinagradshow.com
+[https://langarafinagradshow.com](https://langarafinagradshow.com)

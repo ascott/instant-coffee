@@ -36,7 +36,7 @@ desire, conflict and affect.
 
 Participating poets will also read at The Capilano Review's space, 281
 Industrial Avenue, on Thursday March 3, 7pm. Details at
-https://www.thecapilanoreview.ca/future-concrete-readings-future-
+[https://www.thecapilanoreview.ca/future-concrete-readings-future-](https://www.thecapilanoreview.ca/future-concrete-readings-future-)
 soup/.
 
 This exhibit is part a larger frame of programming during the year of the

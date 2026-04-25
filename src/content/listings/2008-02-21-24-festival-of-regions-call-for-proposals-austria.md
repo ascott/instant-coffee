@@ -18,7 +18,7 @@ Marktplatz 12, 4100 Ottensheim, Austria
 Tel: ++43(0)7234 85 2 85, 
 Fax: ++43(0)7234 85 2 85-4 
 office@fdr.at
-http://www.fdr.at
+[http://www.fdr.at](http://www.fdr.at)
 
 Deadline for submissions: Sunday, 20 April 2008 (postmark)
 Duration of Festival: May / June 2009
@@ -61,4 +61,4 @@ Miscellaneous
 The Festival of Regions cannot accept any responsibility for the documents submitted. The rejection of a proposal does not give the authors of the project any claim on the Festival of Regions or any other persons acting on behalf of the Festival. 
 
 Additional Information
-http://www.fdr.at
+[http://www.fdr.at](http://www.fdr.at)

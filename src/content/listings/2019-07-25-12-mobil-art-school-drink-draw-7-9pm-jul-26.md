@@ -20,7 +20,7 @@ There will be music, drinks for a fee. Cash Bar, 19+ only, No Minors $10
 
 --
 Mobil Art School
-www.mobil-art.ca | https://www.instagram.com/mobil.art/
+www.mobil-art.ca | [https://www.instagram.com/mobil.art/](https://www.instagram.com/mobil.art/)
 
 NOTE: WE ARE LOCATED ON THE LOWER GROUND (LG) LEVEL. TAKE 
 ELEVATOR LOCATED TO THE LEFT OF THE LOBBY TO 'LG'. FOLLOW SIGNS TO 

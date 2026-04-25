@@ -47,7 +47,7 @@ library and atrium, bringing forward the artists’ perceptions of the multifari
 roles of the book, and the systems, sociality and sensuality of the spaces in 
 which books circulate.
 Group Search & Memory Palace is the latest addition to Other Sights 
-Pulications<http://othersights.us4.list-manage.com/track/click?
+Pulications<[http://othersights.us4.list-manage.com/track/click](http://othersights.us4.list-manage.com/track/click)?
 u=a7d8f1163487b7bb5bb50c801&id=96c1e6208b&e=8c508c9764>. Other 
 print publications include Digital Natives, edited by Lorna Brown and Clint 
 Burnham, and T&T: False Creek with foreword by Patrick Andersson and 
@@ -61,8 +61,8 @@ February 16th @ 1pm
 Read Books
 Emily Carr University of Art + Design
 1399 Johnston St,
-Vancouver, BC [map<http://othersights.us4.list-manage.com/track/click?
+Vancouver, BC [map<[http://othersights.us4.list-manage.com/track/click](http://othersights.us4.list-manage.com/track/click)?
 u=a7d8f1163487b7bb5bb50c801&id=591b1ba2f5&e=8c508c9764>]
 ________________________________
-[http://gallery.mailchimp.com/a7d8f1163487b7bb5bb50c801/images/logo_foot
+[[http://gallery.mailchimp.com/a7d8f1163487b7bb5bb50c801/images/logo_foot](http://gallery.mailchimp.com/a7d8f1163487b7bb5bb50c801/images/logo_foot)
 er_mailchimp.png]

@@ -20,7 +20,7 @@ Factory Society
 
 TICKETS: $5
 Limited seating, purchase tickets here:
-https://animism-animal-animation.eventbrite.ca
+[https://animism-animal-animation.eventbrite.ca](https://animism-animal-animation.eventbrite.ca)
 
 Animism-Animal-Animation takes as starting point an unconscious tendency within
 modernity that linked the animal, optical-mechanical forms of animation, and the belief that

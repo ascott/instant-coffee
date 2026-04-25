@@ -25,4 +25,4 @@ University of Glasgow.
 
 For further information please see the link to Dr Azadeh's Emadi paper called Pixelated 
 View: Investigating the Pixel in Light of Substantial Motion 
-https://ses.library.usyd.edu.au/bitstream/2123/9629/1/pixelatedview.pdf
+[https://ses.library.usyd.edu.au/bitstream/2123/9629/1/pixelatedview.pdf](https://ses.library.usyd.edu.au/bitstream/2123/9629/1/pixelatedview.pdf)

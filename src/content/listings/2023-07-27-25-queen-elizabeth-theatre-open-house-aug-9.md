@@ -38,4 +38,4 @@ Instagram:
 @olgacampbellart
 @janeyjammer
 
-https://vancouvercivictheatres.com/events/vct-visual-arts-open-house-aug-9-2023/
+[https://vancouvercivictheatres.com/events/vct-visual-arts-open-house-aug-9-2023/](https://vancouvercivictheatres.com/events/vct-visual-arts-open-house-aug-9-2023/)

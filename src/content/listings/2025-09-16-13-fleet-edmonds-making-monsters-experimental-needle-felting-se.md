@@ -64,4 +64,4 @@ the Unnamed Band will perform improvised music and sound. There will bean
 opportunity for discussion. Drop-ins welcome. Materials will be on hand for audience
 members who wish to continue working with their hands.
 
-https://www.fleetstudios.org/program/visiting-artists-unnamed-band-other-ways
+[https://www.fleetstudios.org/program/visiting-artists-unnamed-band-other-ways](https://www.fleetstudios.org/program/visiting-artists-unnamed-band-other-ways)

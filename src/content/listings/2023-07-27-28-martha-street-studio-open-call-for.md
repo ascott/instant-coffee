@@ -11,7 +11,7 @@ summary: "Martha Street Studio | Open Call for"
 Exhibition Proposals 2024/25 | AUG 31
 Submission deadline 11:59pm August 31, 2023
 
-Full call online at http://www.printmakers.mb.ca/news/submissions/
+Full call online at [http://www.printmakers.mb.ca/news/submissions/](http://www.printmakers.mb.ca/news/submissions/)
 
 Martha Street Studio invites submissions for exhibition proposals for 2024/25 by local,
 national, and international artists, and we encourage submissions by artists from

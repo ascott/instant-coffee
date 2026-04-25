@@ -21,7 +21,7 @@ playful or earnest
 subversions of bureaucratic tools. This workshop is geared toward artists and arts
 workers.
 
-Sign up here: https://www.eventbrite.com/e/xinema-experimental-contracts-subversive-
+Sign up here: [https://www.eventbrite.com/e/xinema-experimental-contracts-subversive-](https://www.eventbrite.com/e/xinema-experimental-contracts-subversive-)
 administration-the-workshop-tickets-1235497388949?aff=oddtdtcreator&utm-
 source=cp&utm-campaign=social&utm-content=attendeeshare&utm-
 medium=discovery&utm-term=listing

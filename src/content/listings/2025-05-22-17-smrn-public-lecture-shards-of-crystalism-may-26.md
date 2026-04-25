@@ -32,7 +32,7 @@ The lecture will be followed by a conversation with Dr. Laura U. Marks
 and a Q&A session.
 
 " Join Zoom Meeting:
-https://us02web.zoom.us/j/84992505696?
+[https://us02web.zoom.us/j/84992505696](https://us02web.zoom.us/j/84992505696)?
 pwd=fbtp3m6U7aJh2b94NpSH50heLNQ089.1
 
 We look forward to your participation.

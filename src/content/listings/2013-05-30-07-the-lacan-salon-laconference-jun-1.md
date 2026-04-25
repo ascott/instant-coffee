@@ -46,8 +46,8 @@ Closing Event: Film Screening of Larry Clark’s “MARFA GIRL”
 At SFU Goldcorp Centre for the Arts
 Djavad Mowafaghian Cinema
 
-Please review http://www.lacansalon.com/laconference-2013 for
+Please review [http://www.lacansalon.com/laconference-2013](http://www.lacansalon.com/laconference-2013) for
 detailed information.
 
 All events are free. Please register at
-http://www.lacansalon.com/laconference-2013/registration
+[http://www.lacansalon.com/laconference-2013/registration](http://www.lacansalon.com/laconference-2013/registration)

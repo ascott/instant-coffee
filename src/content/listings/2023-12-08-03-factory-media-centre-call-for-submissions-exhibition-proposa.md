@@ -34,5 +34,5 @@ programming must be members with Factory Media
 Centre. You can register as a member online through our website, in person at our
 gallery, or via email at info@factorymediacentre.ca
 
-To submit an exhibition proposal visit: https://www.factorymediacentre.ca/exhibitions-
+To submit an exhibition proposal visit: [https://www.factorymediacentre.ca/exhibitions-](https://www.factorymediacentre.ca/exhibitions-)
 call-for-submissions/

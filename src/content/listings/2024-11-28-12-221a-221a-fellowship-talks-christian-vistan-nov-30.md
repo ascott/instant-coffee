@@ -16,7 +16,7 @@ Join us for learning and discussion with 221A Fellow Christian Vistan based on t
 artists previous work. This is an invitation to get to know the artist and their practice as
 they begin their 18-month residency, and dream of their work in community.
 
-Free Admission by RSVP: https://221a.ca/event/221a-fellowship-talks-christian-vistan/
+Free Admission by RSVP: [https://221a.ca/event/221a-fellowship-talks-christian-vistan/](https://221a.ca/event/221a-fellowship-talks-christian-vistan/)
 - Childminding for 18mo"6yrs by RA/ECEA childcare workers through Pacific Immigrant
 Resources Society; please let us know by November 27
 - Food and drink provided

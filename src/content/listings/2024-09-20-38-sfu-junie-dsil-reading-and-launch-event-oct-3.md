@@ -14,5 +14,5 @@ residence Junie Dsil! We are hosting a free reading
 October 3rd (7-9 PM) at SFU's Harbour Centre campus. Enjoy poetry readings,
 discussion, & a catered reception.
 
-Learn More/RSVP: https://www.eventbrite.ca/e/junie-desil-reading-launch-event-tickets-
+Learn More/RSVP: [https://www.eventbrite.ca/e/junie-desil-reading-launch-event-tickets-](https://www.eventbrite.ca/e/junie-desil-reading-launch-event-tickets-)
 1008867187917?aff=oddtdtcreator

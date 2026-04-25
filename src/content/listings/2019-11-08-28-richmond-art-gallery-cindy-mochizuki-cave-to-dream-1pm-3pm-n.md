@@ -18,7 +18,7 @@ Richmond Art Gallery - 7700 Minoru Gate, Richmond BC
 Limited to 20 participants.
 $10.00 General Admission. $7.00 for RAGA Members
 Tickets at Eventbrite only:
-https://www.eventbrite.ca/o/richmond-art-gallery-3430247821
+[https://www.eventbrite.ca/o/richmond-art-gallery-3430247821](https://www.eventbrite.ca/o/richmond-art-gallery-3430247821)
 
 Cave to Dream is a multi-media installation that is realized in mixed media, hand-drawn
 animations, sound and live action video and track the passage of time, life and death and
@@ -43,7 +43,7 @@ Sound Design: Antoine Bdard
 Lighting: James Proudfoot
 Production Assistance: Cherry Wen Wen Lu
 
-Purchase tickets here: https://www.eventbrite.ca/o/richmond-art-gallery-3430247821
+Purchase tickets here: [https://www.eventbrite.ca/o/richmond-art-gallery-3430247821](https://www.eventbrite.ca/o/richmond-art-gallery-3430247821)
 
 If you are having problems registering, please contact the Gallery's Education & Public
 Programs Coordinator via email: ktycholis at richmond.ca, or call: 604-247-8313.

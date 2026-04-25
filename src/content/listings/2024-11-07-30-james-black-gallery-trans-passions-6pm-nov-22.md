@@ -28,10 +28,10 @@ Each of these sculptures will be for sale and a portion of each sale will go tow
 UNYA, an organization supporting 2-spirit and LGBTQ+ indigenous people around
 the Vancouver area. There will be hand-made ceramic pins for sale by donation,
 100% of the proceeds from these pins goes to UNYA! (
-https://unya.bc.ca/programs/2-spirit-collective/ )
+[https://unya.bc.ca/programs/2-spirit-collective/](https://unya.bc.ca/programs/2-spirit-collective/) )
 
 If you wish to help make these hand-made ceramic pins, you are welcome to join us
 on Nov 18th, 5-8pm at the James Black Gallery. clay, underglaze, and snacks will be
 available.
 
-https://www.thejamesblack.gallery/
+[https://www.thejamesblack.gallery/](https://www.thejamesblack.gallery/)

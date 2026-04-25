@@ -19,5 +19,5 @@ Written in Clay: From the John David Lawrence Collection and Otani Workshop:
 Monsters in My Head are on view at the Vancouver Art Gallery from May 25 to
 November 9, 2025.
 
-For more information, please visit: https://www.vanartgallery.bc.ca/upcoming-
+For more information, please visit: [https://www.vanartgallery.bc.ca/upcoming-](https://www.vanartgallery.bc.ca/upcoming-)
 exhibitions

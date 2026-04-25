@@ -22,7 +22,7 @@ during the defenses. Those interested in attending a defense are invited to
 RSVP to gradstudies@ecuad.ca
 
 Free and open to the public.
-https://www.ecuad.ca/calendar/master-of-fine-arts-thesis-exhibitions
+[https://www.ecuad.ca/calendar/master-of-fine-arts-thesis-exhibitions](https://www.ecuad.ca/calendar/master-of-fine-arts-thesis-exhibitions)
 
 Exhibition Dates: MARCH 6-10 / MARCH 13-17 / MARCH 24-31
 

@@ -27,7 +27,7 @@ destroying important fish habitat, hunting grounds, wildlife migration corridors
 precious farmland and much more. The dam violates treaty rights, and has not 
 been assessed with due diligence by the BC Utilities Commission. There is still 
 time to stop the dam, which will take many years to build. 
-http://www.poetsforthepeace.ca/
+[http://www.poetsforthepeace.ca/](http://www.poetsforthepeace.ca/)
 
 Author bios
 

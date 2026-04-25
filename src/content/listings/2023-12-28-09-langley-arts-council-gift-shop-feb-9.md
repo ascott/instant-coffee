@@ -48,4 +48,4 @@ Each Artist/Artisan is invited to submit up to 8 works for consideration for the
 through the digital application below. Please note, that the LAC may not accept all 8
 works for the Gift Shop.
 
-To apply visit https://www.langleyarts.ca/proposals/gift-shop
+To apply visit [https://www.langleyarts.ca/proposals/gift-shop](https://www.langleyarts.ca/proposals/gift-shop)

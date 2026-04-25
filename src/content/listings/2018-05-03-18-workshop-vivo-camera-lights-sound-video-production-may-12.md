@@ -10,7 +10,7 @@ summary: "WORKSHOP | VIVO | Camera, Lights, Sound! | Video Production | MAY 12"
 
 Lights, Camera, Sound! video production workshop
 
-SIGN UP & MORE INFO: https://camera-lights-sound.eventbrite.ca
+SIGN UP & MORE INFO: [https://camera-lights-sound.eventbrite.ca](https://camera-lights-sound.eventbrite.ca)
 
 Learn the basics needed to shoot your first videos with the help of artist
 Alysha Seriani!
@@ -34,4 +34,4 @@ to get you started on your videos! It also benefits participants interested
 in VIVOs more intermediary video-making workshops.
 
 Two extended subsidies available for this workshop:
-https://goo.gl/forms/cCXIh4ArMpfxbAz82
+[https://goo.gl/forms/cCXIh4ArMpfxbAz82](https://goo.gl/forms/cCXIh4ArMpfxbAz82)

@@ -21,4 +21,4 @@ plaster sculptures of Dion Kliner.
 restriction the gallery is limited to maximum 4 visitors at a
 time. Please register your visit early.
 
-https://cantonsardine.setmore.com/
+[https://cantonsardine.setmore.com/](https://cantonsardine.setmore.com/)

@@ -13,6 +13,6 @@ space The
 Cheeky Proletariat on 320 Carrall St, Vancouver. We are excited to open
 submissions for installation proposals within the storefront during this time. A total of
 $1000 will be provided for installation costs and artist fees. The submission link and
-more information can be accessed through this link: https://artspeak.ca/bulletin/rolling-
+more information can be accessed through this link: [https://artspeak.ca/bulletin/rolling-](https://artspeak.ca/bulletin/rolling-)
 submissilation-proposals/ Submissions will be processed and accepted on a rolling
 basis. Inquiries can be directed to info@artspeak.ca

@@ -19,7 +19,7 @@ The Japanese penchant for cute characters that populate commercial and cultural 
 
 Exploring similar themes with fabric, felt and yarn, Madoka Hara will craft a 3 dimensional window installation.
 
-http://www.leehutzulak.com
+[http://www.leehutzulak.com](http://www.leehutzulak.com)
 
 Opening: Saturday, March 1 - 8:00pm.
 Exhibition: Runs March	1- 29

@@ -38,7 +38,7 @@ FREE, donations for materials may be accepted
 
 To reserve your place, please contact Malaspina Printmakers at 604 688 1724 or 
 E: info@malaspinaprintmakers.com or click attending on the Facebook event 
-page: https://www.facebook.com/event.php?eid=179920115422591
+page: [https://www.facebook.com/event.php?eid=179920115422591](https://www.facebook.com/event.php?eid=179920115422591)
 
 ABOUT THE SALON:
 
@@ -87,4 +87,4 @@ Residency program.
 Malaspina Printmakers has been situated in the unique community of Granville 
 Island since 1981.
 
-http://www.malaspinaprintmakers.com/
+[http://www.malaspinaprintmakers.com/](http://www.malaspinaprintmakers.com/)

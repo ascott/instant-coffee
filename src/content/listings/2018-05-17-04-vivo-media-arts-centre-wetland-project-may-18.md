@@ -10,7 +10,7 @@ summary: "VIVO MEDIA ARTS CENTRE | Wetland Project | MAY 18"
 
 This will be a RSVP'd event and requires registration from Eventbrite
 (LINK:
-https://www.eventbrite.ca/e/wetland-project-24-hour-exhibition-sleepover-breakfast-tickets-45737050750)
+[https://www.eventbrite.ca/e/wetland-project-24-hour-exhibition-sleepover-breakfast-tickets-45737050750](https://www.eventbrite.ca/e/wetland-project-24-hour-exhibition-sleepover-breakfast-tickets-45737050750))
 
 As a closing event for Wetland Project, there will be a 24-hour showing of
 the exhibition in its entirety of the recorded sounds, simulating a full
@@ -27,4 +27,4 @@ Please bring sleeping bag + pillows for the overnight event.
 
 For more information concerning Wetland Project, please visit:
 
-https://www.wetlandproject.com/
+[https://www.wetlandproject.com/](https://www.wetlandproject.com/)

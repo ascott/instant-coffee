@@ -21,9 +21,9 @@ Third Place in Painting: $1,000 CA OPUS Art Supplies Gift Card
 Second Place, Third Place in Sculpture and 3 x Honourable Mentions: Awards in Title
 
 Submission Guidelines for Painting Intakes:
-https://artists.ca/content/item/download/8065/119
+[https://artists.ca/content/item/download/8065/119](https://artists.ca/content/item/download/8065/119)
 Submission Guidelines for Sculpture Intakes:
-https://artists.ca/content/item/download/8064/119
+[https://artists.ca/content/item/download/8064/119](https://artists.ca/content/item/download/8064/119)
 
-Submit Link for Painting Intakes: https://artists.ca/submissions/view/id/2061
-Submit Link for Sculpture Intakes: https://artists.ca/submissions/view/id/2062
+Submit Link for Painting Intakes: [https://artists.ca/submissions/view/id/2061](https://artists.ca/submissions/view/id/2061)
+Submit Link for Sculpture Intakes: [https://artists.ca/submissions/view/id/2062](https://artists.ca/submissions/view/id/2062)

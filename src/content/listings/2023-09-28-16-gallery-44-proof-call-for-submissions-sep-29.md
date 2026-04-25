@@ -40,4 +40,4 @@ career, have produced a small body of work and achieved some local recognition
 and/or have limited public exhibition experience. Generally, they have had between 0
 and 5 years of professional arts practice.
 
-Apply here: https://www.gallery44.org/calls/proof-30-open-call
+Apply here: [https://www.gallery44.org/calls/proof-30-open-call](https://www.gallery44.org/calls/proof-30-open-call)

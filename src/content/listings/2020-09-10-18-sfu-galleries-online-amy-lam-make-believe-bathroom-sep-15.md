@@ -11,7 +11,7 @@ summary: "SFU Galleries [ONLINE] | Amy Lam: Make-Believe Bathroom | SEP 15"
 September 15 - December 3, 2020
 Online
 
-http://www.sfu.ca/galleries/sfu-gallery/upcoming/AmyLamMakeBelieveBathroom.html
+[http://www.sfu.ca/galleries/sfu-gallery/upcoming/AmyLamMakeBelieveBathroom.html](http://www.sfu.ca/galleries/sfu-gallery/upcoming/AmyLamMakeBelieveBathroom.html)
 
 In her artistic practice, Amy Lam produces models of exchange that involve activism,
 community building and the sustained development of networks that address difficult

@@ -23,4 +23,4 @@ Yactac Gallery
 Opening reception: Friday June 29, 7pm
 Gallery viewing by appointment until July 13
 
-http://www.yactac.com
+[http://www.yactac.com](http://www.yactac.com)

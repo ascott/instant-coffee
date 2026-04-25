@@ -28,4 +28,4 @@ voted on by BP readers. Last year's Deathmatch had over 20,000 visitors.
 The top story moves on to the next round until there is a winner.
 
 for complete information on how to enter, visit
-http://www.brokenpencil.com/deathmatch or email richardr@brokenpencil.com
+[http://www.brokenpencil.com/deathmatch](http://www.brokenpencil.com/deathmatch) or email richardr@brokenpencil.com

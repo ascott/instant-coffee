@@ -43,7 +43,7 @@ creative careers.
 The application deadline is January 20, 2014. For more information, including 
 program guidelines, application forms and FAQs, please visit the BC Arts 
 Council website at: 
-http://www.bcartscouncil.ca/guidelines/artists/youth/early_career_developm
+[http://www.bcartscouncil.ca/guidelines/artists/youth/early_career_developm](http://www.bcartscouncil.ca/guidelines/artists/youth/early_career_developm)
 ent.html
 
 If you have any clarifying questions please feel free to contact either of 
@@ -77,8 +77,8 @@ The Youth Engagement Pilot Program is a component of Creative Youth
 Initiatives, a suite of programs developed and delivered by the BC Arts 
 Council and its long-standing partners, the BC Touring Council and the First 
 Peoples’ Cultural Council. Please visit the BC Touring Council 
-[http://bctouring.org/resources/cpye] and the First Peoples’ Cultural Council 
-http://fpcc.ca/about-us/news-room/latest-stories.aspx websites for more 
+[[http://bctouring.org/resources/cpye](http://bctouring.org/resources/cpye)] and the First Peoples’ Cultural Council 
+[http://fpcc.ca/about-us/news-room/latest-stories.aspx](http://fpcc.ca/about-us/news-room/latest-stories.aspx) websites for more 
 information on the new program initiatives from these partners.
 
 This pilot program is being launched through the BC Creative Futures 
@@ -90,7 +90,7 @@ creative careers.
 The application deadline is January 8, 2014. For more information, including 
 program guidelines, application forms and FAQs, please visit the BC Arts 
 Council website at:
-http://www.bcartscouncil.ca/guidelines/artists/youth/youth_engagement.html
+[http://www.bcartscouncil.ca/guidelines/artists/youth/youth_engagement.html](http://www.bcartscouncil.ca/guidelines/artists/youth/youth_engagement.html)
 
 If you have any questions about this program, please contact the BC Arts 
 Council at 250-356-1718 or BCArtsCouncil@gov.bc.ca.

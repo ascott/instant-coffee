@@ -18,11 +18,11 @@ through June.
 New projects will be introduced monthly through August 2014.
 
 MORE INFORMATION
-Learn more about the project debuting in June: http://ow.ly/xxiC0
+Learn more about the project debuting in June: [http://ow.ly/xxiC0](http://ow.ly/xxiC0)
 
 View the whole series of images, learn about the public art process and 
 the 
-artists by visiting: http://vancouver.ca/parks-recreation-culture/platforms-
+artists by visiting: [http://vancouver.ca/parks-recreation-culture/platforms-](http://vancouver.ca/parks-recreation-culture/platforms-)
 2013.aspx
 
 For more information contact: 

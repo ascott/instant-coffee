@@ -22,7 +22,7 @@ Where: Fort Langley Community Hall (9167 Glover Road, Langley).
 
 When: Saturday, November 23, 3-5pm.
 
-RSVP: https://www.eventbrite.ca/e/pinata-making-workshop-with-francisco-berlanga-
+RSVP: [https://www.eventbrite.ca/e/pinata-making-workshop-with-francisco-berlanga-](https://www.eventbrite.ca/e/pinata-making-workshop-with-francisco-berlanga-)
 tickets-
 1071369076749aff=ebdsoporgprofile&fbclid=PAZXh0bgNhZW0CMTEAAaZoRCCcG
 lz6_BjEJYhZ3RH_rqHTncqpIX_W8NfIULK67ZfonCZKTKjwnGI_aem_CiEBLPdKAi5

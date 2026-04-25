@@ -8,7 +8,7 @@ venue: "Capture Photography Festival"
 summary: "Capture Photography Festival | Mark Sealy | APR 5"
 ---
 
-More event information here: https://capturephotofest.com/events/speaker-series-1-
+More event information here: [https://capturephotofest.com/events/speaker-series-1-](https://capturephotofest.com/events/speaker-series-1-)
 mark-sealy/
 
 Saturday, April 5, 2025
@@ -17,7 +17,7 @@ Admission by donation
 The Polygon Gallery, 101 Carrie Cates Court North Vancouver
 
 Registration required
-Register here: https://thepolygon.typeform.com/mark-sealy
+Register here: [https://thepolygon.typeform.com/mark-sealy](https://thepolygon.typeform.com/mark-sealy)
 
 Capture Photography Festival presents its first Speaker Series talk with Mark Sealy,
 Executive Director of Autograph ABP who will discuss his curated exhibition, Rotimi
@@ -33,4 +33,4 @@ and Critical Image Forum, UBC. Captures 2025 Speaker Series is generously
 supported by Wesgroup.
 
 Check out other Capture Photography Festival 2025 events here:
-https://capturephotofest.com/events/
+[https://capturephotofest.com/events/](https://capturephotofest.com/events/)

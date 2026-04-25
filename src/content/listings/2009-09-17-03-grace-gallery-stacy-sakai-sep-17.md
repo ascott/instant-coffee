@@ -22,4 +22,4 @@ This Thursday September 17th
 Opening Reception 7pm - 11pm
 
 1898 Main St.
-http://www.grace-gallery.com
+[http://www.grace-gallery.com](http://www.grace-gallery.com)

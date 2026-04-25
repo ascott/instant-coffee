@@ -33,7 +33,7 @@ Ground Level curated by Kit Hammonds in 2010.
 About Hayward Touring
 Hayward Touring organizes exhibitions of contemporary art travelling to galleries and museums throughout the UK. Recent exhibitions include: Mark Leckey’s ‘The Universal Addressability of Dumb Things’; ‘Curiosity: Art and the Pleasures of Knowing’, curated by Brian Dillon, UK editor of Cabinet magazine; Jeremy Deller’s ‘All That is Solid Melts Into Air’.
 
-For more information on the programme visit http://www.southbankcentre.co.uk/venues/hayward-gallery/hayward-touring
+For more information on the programme visit [http://www.southbankcentre.co.uk/venues/hayward-gallery/hayward-touring](http://www.southbankcentre.co.uk/venues/hayward-gallery/hayward-touring)
 
 About BALTIC
 BALTIC is a major international centre for contemporary art situated on the south bank of the River Tyne in Gateshead, England. BALTIC presents a constantly changing, distinctive and ambitious programme of exhibitions and events, and is a world leader in the presentation, commissioning and communication of contemporary visual art. BALTIC has welcomed over 5 million visitors, since opening to the public in July 2002. BALTIC 39, Newcastle upon Tyne, is home to BALTIC's project space.

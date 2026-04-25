@@ -28,4 +28,4 @@ Adults: $40
 Youth + Senior: $30
 MOA Members + UBC Students & Staff: $20
 
-LEARN MORE: http://moa.ubc.ca/moon-lantern-workshop/
+LEARN MORE: [http://moa.ubc.ca/moon-lantern-workshop/](http://moa.ubc.ca/moon-lantern-workshop/)

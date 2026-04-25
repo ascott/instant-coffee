@@ -19,7 +19,7 @@ BY DONATION: suggested $80, or pay what you can.
 ****only 1 spot left****
 
 SIGN UP & MORE INFO
-March 18, 19, 20, and 21: https://sfx-video-a.eventbrite.ca
+March 18, 19, 20, and 21: [https://sfx-video-a.eventbrite.ca](https://sfx-video-a.eventbrite.ca)
 
 - motion tracking
 - "magic" or "lasers" using After Effects, Photoshop

@@ -38,6 +38,6 @@ while maintaining photorealism. The assembly of the pieces is done with the
 intention of creating these hyperreal, yet nostalgic little worlds, each of them 
 distinctly and recognizably Vancouver. 
 
-http://www.kevinlanthier.com
+[http://www.kevinlanthier.com](http://www.kevinlanthier.com)
 
-https://iantangallery.com/project/lanthier-august-10-31-2017/
+[https://iantangallery.com/project/lanthier-august-10-31-2017/](https://iantangallery.com/project/lanthier-august-10-31-2017/)

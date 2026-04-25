@@ -9,7 +9,7 @@ summary: "SPOOX AUDIO ZINE | CALLING ALL AUDIOS | FEB 15"
 ---
 
 CALLING ALL AUDIOS - SPOOX : 12 - 13 -14
-http://spooxaudiozine.org/
+[http://spooxaudiozine.org/](http://spooxaudiozine.org/)
 
 We collect audio of any kind/format
 Please send audios for any of the next three issues, in response to SPOOX : 12 

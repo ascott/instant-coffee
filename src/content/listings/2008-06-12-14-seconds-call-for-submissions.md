@@ -168,4 +168,4 @@ www.slashseconds.org
 Edited by Peter Lewis, designed by Graham Hibbert
 
 /seconds acknowledges support from Leeds Metropolitan University
-http://www.slashseconds.org
+[http://www.slashseconds.org](http://www.slashseconds.org)

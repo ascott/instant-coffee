@@ -15,7 +15,7 @@ WEEK 3: grunt gallery releases newly digitized Performance Videos
 – Curated by Alex Pimm for grunt's 30th Anniversary.
 
 Aug 4: Full Video | Marcus Bowcott, Palimpsest (Feb 12, 1999)
-http://grunt.us8.list-manage.com/track/click?u=befb1ca907e5641e22a9db3ec&id=2805bed8fd&e=5a47416022
+[http://grunt.us8.list-manage.com/track/click?u=befb1ca907e5641e22a9db3ec&id=2805bed8fd&e=5a47416022](http://grunt.us8.list-manage.com/track/click?u=befb1ca907e5641e22a9db3ec&id=2805bed8fd&e=5a47416022)
 
 "Marcus and Helene evocatively described what it was like to experience
 such a surreal coming-together of incongruities -
@@ -41,12 +41,12 @@ has to do with layering… An image on an image,' she says. A cave painting
 projected on the side of a bull. Crushed cars on top of cars on top of cars.
 Interview by Genevieve Michaels, read it here:
 An Image On An Image: A conversation with Marcus Bowcott [ATA article]
-http://grunt.us8.list-manage1.com/track/click?u=befb1ca907e5641e22a9db3ec&id=bfd89ba19d&e=5a47416022
+[http://grunt.us8.list-manage1.com/track/click?u=befb1ca907e5641e22a9db3ec&id=bfd89ba19d&e=5a47416022](http://grunt.us8.list-manage1.com/track/click?u=befb1ca907e5641e22a9db3ec&id=bfd89ba19d&e=5a47416022)
 
 eBook:
 Did you know that the image from this performance was used for the cover of
 our 30th Anniversary eBook? Take a look here.
-http://grunt.us8.list-manage.com/track/click?u=befb1ca907e5641e22a9db3ec&id=9171fb0eef&e=5a47416022
+[http://grunt.us8.list-manage.com/track/click?u=befb1ca907e5641e22a9db3ec&id=9171fb0eef&e=5a47416022](http://grunt.us8.list-manage.com/track/click?u=befb1ca907e5641e22a9db3ec&id=9171fb0eef&e=5a47416022)
 
 About the Project:
 

@@ -31,17 +31,17 @@ Procession amazing. Join In!!
 
 This year's Craft Pride Procession is co-presented by:
 
-manomano - http://www.manomanocollective.com/
+manomano - [http://www.manomanocollective.com/](http://www.manomanocollective.com/)
 
-The STAG Library -http://thestaglibrary.tumblr.com/
+The STAG Library -[http://thestaglibrary.tumblr.com/](http://thestaglibrary.tumblr.com/)
 
-& Access Gallery - http://accessgallery.ca/
+& Access Gallery - [http://accessgallery.ca/](http://accessgallery.ca/)
 
 For more info please contact Aja - diademdiscos@gmail.com or visit 
 craftprideprocession.blogspot.com
 
 and check out the essay that inspired it all - 
-http://laceyjaneroberts.com/index.php?/essays/ordinary-20/"What 
+[http://laceyjaneroberts.com/index.php?/essays/ordinary-20/"What](http://laceyjaneroberts.com/index.php?/essays/ordinary-20/"What) 
 makes queer theory so useful to those marginalized communities that 
 must confront the pigeonholing stereotypes that overdetermine and 
 essentialize identities? The tactics of reclamation, reappropriation and 

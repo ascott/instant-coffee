@@ -23,4 +23,4 @@ nickel a piece. Find out more about the Creative Writing program at Capilano!
 
 -- 
 
-http://www.capilanocreativewriting.blogspot.com
+[http://www.capilanocreativewriting.blogspot.com](http://www.capilanocreativewriting.blogspot.com)

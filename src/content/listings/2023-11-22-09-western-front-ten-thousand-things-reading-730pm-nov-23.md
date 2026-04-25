@@ -22,6 +22,6 @@ artists-in-residence Julian Hou, Prince Nifty, Eddy Wang, and Fan Wu.
 
 Presented in partnership with Second Spring.
 
-To learn more, visit our website: https://westernfront.ca/events/ten-thousand-things
+To learn more, visit our website: [https://westernfront.ca/events/ten-thousand-things](https://westernfront.ca/events/ten-thousand-things)
 
-Livestream:https://vimeo.com/event/3880537
+Livestream:[https://vimeo.com/event/3880537](https://vimeo.com/event/3880537)

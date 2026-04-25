@@ -70,7 +70,7 @@ Application deadline: 19 February 2010
 For further information contact: Nicky
 nickyma@mweb.com.na or Hercules hviljoen@unam.na
 
-Website: http://www.artshost.org/tulipamwe
+Website: [http://www.artshost.org/tulipamwe](http://www.artshost.org/tulipamwe)
 
 2 Call for Community Workshop 1 applications
 
@@ -124,7 +124,7 @@ Application deadline: 5 February 2010
 For further information contact: Nicky
 nickyma@mweb.com.na or Hercules hviljoen@unam.na
 
-Website: http://www.artshost.org/tulipamwe
+Website: [http://www.artshost.org/tulipamwe](http://www.artshost.org/tulipamwe)
 
 ogonga thom
 
@@ -136,4 +136,4 @@ P.O Box 4802 , Nyayo Stadium 00506
 
 Tel: (254) 0202405960/1 Mobile: 0721 262326, 0733 742752
 
-www.kuonatrust.org <http://www.kuonatrust.org>
+www.kuonatrust.org <[http://www.kuonatrust.org](http://www.kuonatrust.org)>

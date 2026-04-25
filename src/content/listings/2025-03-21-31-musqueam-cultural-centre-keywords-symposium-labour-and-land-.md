@@ -53,4 +53,4 @@ Please note, there is parking available at the Musqueam Cultural Centre. If you 
 taking transit, the closest bus stop is at West 41st Avenue and Crown Street, an
 approximate 15-minute walk to the Musqueam Cultural Centre.
 
-https://belkin.ubc.ca/events/symposium-labour-and-land/
+[https://belkin.ubc.ca/events/symposium-labour-and-land/](https://belkin.ubc.ca/events/symposium-labour-and-land/)

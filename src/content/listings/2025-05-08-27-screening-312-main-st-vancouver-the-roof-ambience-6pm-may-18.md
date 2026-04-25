@@ -16,7 +16,7 @@ Story
 Sunday, May 18, 2025
 6pm-8:30pm
 312 Main St. Vancouver
-Admission by sliding scale: $0- $15. RSVP: https://www.zeffy.com/en-
+Admission by sliding scale: $0- $15. RSVP: [https://www.zeffy.com/en-](https://www.zeffy.com/en-)
 CA/ticketing/the-roof-and-ambiance-screening-and-discussion
 
 Held on the anniversary weekend of the Nakba, and in conjunction with the
@@ -33,5 +33,5 @@ artists and activists in solidarity with Palestine, Al Awda, The Palestine Right
 Return Coalition (Vancouver chapter), The Palestinian Cultural Society of BC, and
 MENA Film Festival.
 
-Admission by sliding scale: $0- $15. RSVP: https://www.zeffy.com/en-
+Admission by sliding scale: $0- $15. RSVP: [https://www.zeffy.com/en-](https://www.zeffy.com/en-)
 CA/ticketing/the-roof-and-ambiance-screening-and-discussion

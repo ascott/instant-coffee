@@ -18,10 +18,10 @@ When: May 9-11, 2011
 Where: Los Angeles, California
 Bursary Application Deadline: Monday, March 21, 2011, by 4:30 pm
 Bursary Guidelines:
-http://vancouver.ca/commsvcs/cultural/gasp/grants/facilities/documents/B
+[http://vancouver.ca/commsvcs/cultural/gasp/grants/facilities/documents/B](http://vancouver.ca/commsvcs/cultural/gasp/grants/facilities/documents/B)
 OLAGuidelines.pdf
 Bursary Application Form:
-http://vancouver.ca/commsvcs/cultural/gasp/grants/facilities/documents/B
+[http://vancouver.ca/commsvcs/cultural/gasp/grants/facilities/documents/B](http://vancouver.ca/commsvcs/cultural/gasp/grants/facilities/documents/B)
 OLABursaryForm.doc
 
 The City of Vancouver, Cultural Services, is pleased to announce a
@@ -34,7 +34,7 @@ Vancouver arts/culture organizations and others involved in creative
 space development.
 
 For full conference details and schedule go to
-http://www.nonprofitcenters.org/.
+[http://www.nonprofitcenters.org/](http://www.nonprofitcenters.org/).
 
 Details: Social Purpose is a term that is increasingly being used to
 describe the work of not-for-profit, social enterprise and for-profit
@@ -65,4 +65,4 @@ and are non-transferable. Recipients are required to participate in
 pre/post conference events in Vancouver.
 Inquiries: 604-873-7211 or culture@vancouver.ca
 Cultural Facilities Website:
-http://vancouver.ca/commsvcs/cultural/facilities/index.htm
+[http://vancouver.ca/commsvcs/cultural/facilities/index.htm](http://vancouver.ca/commsvcs/cultural/facilities/index.htm)

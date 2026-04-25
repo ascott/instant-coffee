@@ -47,7 +47,7 @@ College of the Arts.
 
 For more information please contact Naomi Sawada, naomi.sawada@ubc.ca, tel:
 604-822-3640
-http://www.belkin.ubc.ca/events
+[http://www.belkin.ubc.ca/events](http://www.belkin.ubc.ca/events)
 
 Morris and Helen Belkin Art Gallery
 The University of British Columbia

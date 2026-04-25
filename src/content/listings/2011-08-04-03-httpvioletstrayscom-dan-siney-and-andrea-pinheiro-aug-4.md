@@ -15,4 +15,4 @@ the work is only up until August 4th.
 
 You can see the work here:
 
-http://violetstrays.com/
+[http://violetstrays.com/](http://violetstrays.com/)

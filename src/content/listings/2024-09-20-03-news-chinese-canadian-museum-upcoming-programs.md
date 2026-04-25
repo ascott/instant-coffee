@@ -46,7 +46,7 @@ and senior annual pass holders
 *GST not included
 
 Register: Registration link
-https://chinesecanadianmuseum.ticketing.veevartapp.com/tickets/view/list/chinese-
+[https://chinesecanadianmuseum.ticketing.veevartapp.com/tickets/view/list/chinese-](https://chinesecanadianmuseum.ticketing.veevartapp.com/tickets/view/list/chinese-)
 canadian-convos-with-katie-gee-salisbury
 
 In her
@@ -78,7 +78,7 @@ Time: 10:00 A.M. - 1:00 P.M.
 Location: Zoom
 
 Register: Registration link
-https://us06web.zoom.us/meeting/register/tZYlfuiqpjgoGteHn8HlFyO-1RerPIHvpTaN
+[https://us06web.zoom.us/meeting/register/tZYlfuiqpjgoGteHn8HlFyO-1RerPIHvpTaN](https://us06web.zoom.us/meeting/register/tZYlfuiqpjgoGteHn8HlFyO-1RerPIHvpTaN)
 
 Do you know a family member with a compelling life story? Have your life
 experiences given you a unique perspective on the past, present or future?

@@ -11,9 +11,9 @@ summary: "Banff Centre | Visual Art Residencies | MAR 2"
 Summer Studio
 Deadline: March 2, 2016
 Program Dates: July 11 - August 19, 2016
-Learn More + Apply: https://goo.gl/sgLA9x
+Learn More + Apply: [https://goo.gl/sgLA9x](https://goo.gl/sgLA9x)
 
 Still Alive
 Deadline: March 2, 2016
 Program Dates: July 11 - August 19, 2016
-Learn More + Apply: https://goo.gl/1DTaMD
+Learn More + Apply: [https://goo.gl/1DTaMD](https://goo.gl/1DTaMD)

@@ -75,15 +75,15 @@ About 01 Magazine
 01 Magazine is an independently owned arts and culture online magazine that 
 encompasses contemporary art, photography, and fashion with a focus on 
 emerging artists. 01 Magazine is based in Vancouver, Canada.
-http://www.zero1magazine.com/
+[http://www.zero1magazine.com/](http://www.zero1magazine.com/)
 
 About The Storyboard Label
 SBL is an independent arts initiative facilitating the production, promotion, and 
 dissemination of emerging talents in Art and Music. SBL is based in Vancouver, 
 Canada.
-http://www.storyboardlabel.com
+[http://www.storyboardlabel.com](http://www.storyboardlabel.com)
 
-Facebook: http://www.facebook.com/event.php?eid=212776145426898
+Facebook: [http://www.facebook.com/event.php?eid=212776145426898](http://www.facebook.com/event.php?eid=212776145426898)
 --
 
 jennileemarigomen.com

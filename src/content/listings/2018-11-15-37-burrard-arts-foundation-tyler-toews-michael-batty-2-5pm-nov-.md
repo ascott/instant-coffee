@@ -11,7 +11,7 @@ summary: "Burrard Arts Foundation | Tyler Toews, Michael Batty | 2-5PM | NOV 24"
 Join us to hear Tyler Toews and Michael Batty give a deeper insight into their current 
 BAF Gallery exhibitions. 
 
-http://www.burrardarts.org/
+[http://www.burrardarts.org/](http://www.burrardarts.org/)
 
 Burrard Arts Foundation
 258 East 1st Avenue, Vancouver

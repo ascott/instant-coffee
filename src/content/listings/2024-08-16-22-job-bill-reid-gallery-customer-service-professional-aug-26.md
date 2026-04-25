@@ -36,9 +36,9 @@ and reporting;
 Indigenous peoples are encouraged to apply.
 
 Full job
-posting at: https://www.billreidgallery.ca/pages/careers-opportunities
+posting at: [https://www.billreidgallery.ca/pages/careers-opportunities](https://www.billreidgallery.ca/pages/careers-opportunities)
 and in PDF:
-https://cdn.shopify.com/s/files/1/2457/3259/files/Part_Time-
+[https://cdn.shopify.com/s/files/1/2457/3259/files/Part_Time-](https://cdn.shopify.com/s/files/1/2457/3259/files/Part_Time-)
 Temporary_Gallery_Associate_Posting_-_Aug_2024.pdf?v=1723667215
 
 Please send your cover letter and resume to: Cheryl Wadhams, Visitor Services &

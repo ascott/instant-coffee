@@ -39,4 +39,4 @@ The Miss Guides: A Cultural Walking Collective
 City Streets, Vancouver BC
 themissguides@gmail.com
 
-http://themissguides.com
+[http://themissguides.com](http://themissguides.com)

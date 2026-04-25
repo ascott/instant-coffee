@@ -15,7 +15,7 @@ Field:Workshop
 Time:11:00 a.m. - 4:00 p.m.
 Location:Grand Luxe Hall, Western Front
 Admission:By donation
-Register:https://www.eventbrite.ca/e/generated-choreographies-tickets-
+Register:[https://www.eventbrite.ca/e/generated-choreographies-tickets-](https://www.eventbrite.ca/e/generated-choreographies-tickets-)
 1129238244989?aff=oddtdtcreator
 
 Generated Choreographies is a performance workshop by our current artist-in-

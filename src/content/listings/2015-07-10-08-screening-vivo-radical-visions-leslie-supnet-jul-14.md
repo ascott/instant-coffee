@@ -43,7 +43,7 @@ Ways + Means (10:56) (2015) *Vancouver premiere
 
 An interview conducted by Video Out Distribution Manager Shauna Jean
 Doherty and Leslie Supnet can be read here:
-http://www.vivomediaarts.com/a-conversation-w-leslie-supnet/
+[http://www.vivomediaarts.com/a-conversation-w-leslie-supnet/](http://www.vivomediaarts.com/a-conversation-w-leslie-supnet/)
 
 More event details can be found here:
-https://www.facebook.com/events/723465267782591/
+[https://www.facebook.com/events/723465267782591/](https://www.facebook.com/events/723465267782591/)

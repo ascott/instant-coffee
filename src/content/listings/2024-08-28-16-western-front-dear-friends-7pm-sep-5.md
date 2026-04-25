@@ -15,10 +15,10 @@ Reading
 7:30 p.m. (Doors at 7:00 p.m.)
 Grand Luxe Hall, Western Front
 Free
-Attend In-Person:Register: https://www.eventbrite.ca/e/1000874431367?
+Attend In-Person:Register: [https://www.eventbrite.ca/e/1000874431367](https://www.eventbrite.ca/e/1000874431367)?
 aff=oddtdtcreator
 
-Livestream:Watch https://vimeo.com/event/4526418
+Livestream:Watch [https://vimeo.com/event/4526418](https://vimeo.com/event/4526418)
 
 Western Front and The Capilano Review are pleased to invite you to the next event
 in our monthly reading series Dear Friends &. Please join us for an evening of poetry

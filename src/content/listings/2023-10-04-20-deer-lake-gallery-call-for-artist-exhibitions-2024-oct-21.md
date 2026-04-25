@@ -30,4 +30,4 @@ artist talks or workshops.
 Application deadline: October 21, 2023 (Midnight)
 
 For more information on how to apply:
-https://deerlakegallery.ca/exhibitions/submissions/
+[https://deerlakegallery.ca/exhibitions/submissions/](https://deerlakegallery.ca/exhibitions/submissions/)

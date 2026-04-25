@@ -42,6 +42,6 @@ includes the engineering of a black and white reversal process based on the
 properties of seawater for an adaptation of Homer’s Epic Cycle.
 
 For more information, visit 
-http://processreversal.org/ 
+[http://processreversal.org/](http://processreversal.org/) 
 
-http://processreversal.org/frenkel-defects/
+[http://processreversal.org/frenkel-defects/](http://processreversal.org/frenkel-defects/)

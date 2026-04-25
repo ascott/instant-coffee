@@ -43,7 +43,7 @@ Media Arts. Morris currently lives and works in Victoria.
 Palomar: Michael Morris is a co-presentation of Presentation House Gallery and 
 the Morris and Helen Belkin Art Gallery.
 
-For more information, please visit our website: http://www.satellitegallery.ca/
+For more information, please visit our website: [http://www.satellitegallery.ca/](http://www.satellitegallery.ca/)
 
 Satellite Gallery, 560 Seymour Street, 2nd Floor
 

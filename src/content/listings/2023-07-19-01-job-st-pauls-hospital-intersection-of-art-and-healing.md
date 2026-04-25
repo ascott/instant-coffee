@@ -19,4 +19,4 @@ is important to recognize that the senior leadership of Providence Health is dri
 initiative and fully supportive. Research will be an important part of the job once the
 new hospital opens in a few years.
 
-https://careers.providencehealthcare.org/jobs/41995?lang=en-us
+[https://careers.providencehealthcare.org/jobs/41995?lang=en-us](https://careers.providencehealthcare.org/jobs/41995?lang=en-us)

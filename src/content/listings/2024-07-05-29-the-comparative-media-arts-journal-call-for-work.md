@@ -74,7 +74,7 @@ Please submit your image files in .jpg format, 300dpi or highest resolution poss
 Email submissions to cma_journal@sfu.ca with the subject
 heading Attn: Issue 14
 Image rights are the responsibility of the author/artist to secure
-https://www.sfu.ca/cmajournal.html
+[https://www.sfu.ca/cmajournal.html](https://www.sfu.ca/cmajournal.html)
 
 The Comparative Media Arts Journal (CMA Journal) is an open-access, peer-
 reviewed journal of lively inquiry into visual culture, cinema studies, performance

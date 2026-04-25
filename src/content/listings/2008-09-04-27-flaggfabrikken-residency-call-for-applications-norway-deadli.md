@@ -29,7 +29,7 @@ having our own studios and artist practice at Flaggfabrikken, we work in
 different ways to promote camera based art locally and internationally.
 
 For more information, please visit www.flaggfabrikken.net
-<http://www.flaggfabrikken.net> .
+<[http://www.flaggfabrikken.net](http://www.flaggfabrikken.net)> .
 
 Flaggfabrikken will with the generous financial support from Bergen
 Municipal offer the artist: studio, accommodation, travel expenses paid and
@@ -40,8 +40,8 @@ artists/curators. In addition Flaggfabrikken suggests that the artist will
 take the opportunity of showing work in collaboration with a local institution.
 
 PLEASE USE THE APPLICATION FORM. You can download it here:
-http://www.flaggfabrikken.net/default.asp?k=8&id=48
-<http://www.flaggfabrikken.net/default.asp?k=8&amp;id=48>
+[http://www.flaggfabrikken.net/default.asp?k=8&id=48](http://www.flaggfabrikken.net/default.asp?k=8&id=48)
+<[http://www.flaggfabrikken.net/default.asp?k=8&amp;id=48](http://www.flaggfabrikken.net/default.asp?k=8&amp;id=48)>
 
 Applications must include
 

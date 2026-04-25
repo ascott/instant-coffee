@@ -88,7 +88,7 @@ know more...
 {The STAG is not wheelchair accessible. We sincerely apologize for 
 this exclusion.}
 
-http://thestrathconaartgallery.tumblr.com
+[http://thestrathconaartgallery.tumblr.com](http://thestrathconaartgallery.tumblr.com)
 
 diademdiscos@gmail.com
 

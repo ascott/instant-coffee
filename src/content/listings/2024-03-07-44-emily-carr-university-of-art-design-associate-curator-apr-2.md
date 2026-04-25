@@ -145,7 +145,7 @@ in JEDI trends that impact the field of work and make recommendations to the Dir
 and the strategic goals of the University.
 Perform other related duties as required.
 
-To apply for this job, please visit https://ecuad.peopleadmin.ca. Competition closes on
+To apply for this job, please visit [https://ecuad.peopleadmin.ca](https://ecuad.peopleadmin.ca). Competition closes on
 Tuesday, 2 April 2024.
 
 Emily Carr University especially invites those who have

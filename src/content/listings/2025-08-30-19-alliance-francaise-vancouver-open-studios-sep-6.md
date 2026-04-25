@@ -25,4 +25,4 @@ Alliance Francaise Vancouver
 
 Vancouver, BC V5Z 3B2
 
-Info: https://www.alliancefrancaise.ca/community/event-rsvp/?event_id=1105
+Info: [https://www.alliancefrancaise.ca/community/event-rsvp/?event_id=1105](https://www.alliancefrancaise.ca/community/event-rsvp/?event_id=1105)

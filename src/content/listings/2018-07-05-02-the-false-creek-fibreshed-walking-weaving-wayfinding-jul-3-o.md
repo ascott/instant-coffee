@@ -25,7 +25,7 @@ July 3, July 19, 30, August 14, 19, 28, September 8 October 7, 21
 
 REGISTER for JULY 3 Walk:
 
-https://www.eventbrite.com/e/false-creek-fibershed-fiber-dye-tickets-47540693494
+[https://www.eventbrite.com/e/false-creek-fibershed-fiber-dye-tickets-47540693494](https://www.eventbrite.com/e/false-creek-fibershed-fiber-dye-tickets-47540693494)
 
 Stay tuned for updates about this project and if you know youth that would like to get 
 involved email us at earthandgleaners(at)gmail.com.

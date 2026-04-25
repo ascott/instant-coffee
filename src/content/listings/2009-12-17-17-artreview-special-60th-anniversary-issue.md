@@ -10,7 +10,7 @@ summary: "ArtReview | special 60th Anniversary Issue"
 
 ArtReview publishes 60th Anniversary Issue
 
-http://www.artreview.com
+[http://www.artreview.com](http://www.artreview.com)
 
 In a special issue marking six decades in publication, London-based
 contemporary art magazine ArtReview looks back at its own history, from

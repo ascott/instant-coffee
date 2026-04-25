@@ -17,7 +17,7 @@ Rennie Museum
 51 East Pender Street, Vancouver
 
 Space is limited- book your seat now: 
-https://docs.google.com/forms/d/1Z8i0o_fCN0mfu40nnZmNedIY6uVWop0cY_blOwhbaqE/
+[https://docs.google.com/forms/d/1Z8i0o_fCN0mfu40nnZmNedIY6uVWop0cY_blOwhbaqE/](https://docs.google.com/forms/d/1Z8i0o_fCN0mfu40nnZmNedIY6uVWop0cY_blOwhbaqE/)
 
 We are excited to announce the launch of the Rennie Museum Book Club! In conjunction 
 with our Kerry James Marshall: Collected Works exhibition, we invite book and art 

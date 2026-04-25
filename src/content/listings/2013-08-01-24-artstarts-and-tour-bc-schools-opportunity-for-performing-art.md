@@ -42,7 +42,7 @@ downtown Vancouver from February 26 - 28, 2014.
 
 The deadline for showcasing artists to apply is October 11, 2013.
 
-Learn more and apply online at http://artstarts.com/showcase
+Learn more and apply online at [http://artstarts.com/showcase](http://artstarts.com/showcase)
 
 For additional information, please contact Sarah Kim, Booking and 
 Touring Manager at sarah@artstarts.com

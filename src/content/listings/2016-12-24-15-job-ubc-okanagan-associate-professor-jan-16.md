@@ -52,11 +52,11 @@ Indigenous engagement as part of UBC's Place and Promise strategic plan, an etho
 local involvement, global engagement, and intercultural awareness. We value providing 
 a positive, inclusive, and mutually supportive working and learning environment for all 
 our students, faculty and staff. For more information, please consult the FCCS web 
-page: http://fccs.ok.ubc.ca/welcome.html.
+page: [http://fccs.ok.ubc.ca/welcome.html](http://fccs.ok.ubc.ca/welcome.html).
 
 For more information about UBC resources and opportunities, please visit
-http://www.hr.ubc.ca/faculty-staff-resources/. Information about the surrounding 
-community can be found at: http://www.hr.ubc.ca/housing-relocation/okanagan-profile.
+[http://www.hr.ubc.ca/faculty-staff-resources/](http://www.hr.ubc.ca/faculty-staff-resources/). Information about the surrounding 
+community can be found at: [http://www.hr.ubc.ca/housing-relocation/okanagan-profile](http://www.hr.ubc.ca/housing-relocation/okanagan-profile).
 
 How to apply
 

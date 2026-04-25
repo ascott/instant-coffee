@@ -21,7 +21,7 @@ with acrylic gel transfer. Click below on more to see additional dates and mater
 class is open to all skill levels.
 June 26/July 3/July 10; each session: $75
 
-https://www.mobil-art.ca/event-info/space-exploration-1-acrylic-painting-with-etienne-zack
+[https://www.mobil-art.ca/event-info/space-exploration-1-acrylic-painting-with-etienne-zack](https://www.mobil-art.ca/event-info/space-exploration-1-acrylic-painting-with-etienne-zack)
 
 mobil art is an independent school dedicated to making quality art education available to people 
 of all ages, through offering unique and engaging courses in art making and appreciation/history 

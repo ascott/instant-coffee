@@ -17,11 +17,11 @@ Time: 8:00pm-11:30pm
 
 Admission: $16 Advance | $18 at the Door | $13 MOV Members
 
-Get Tickets: https://sep19whyidesign.eventbrite.ca
+Get Tickets: [https://sep19whyidesign.eventbrite.ca](https://sep19whyidesign.eventbrite.ca)
 
 Venue: Museum of Vancouver: 1100 Chestnut St. Vancouver
 
-More Info: http://museumofvancouver.ca/programs or call 604-736-4431
+More Info: [http://museumofvancouver.ca/programs](http://museumofvancouver.ca/programs) or call 604-736-4431
 
 The Museum of Vancouver invites Vancouverites to explore and celebrate
 innovation in action. Thirty+ designers, live, in concert and stationed

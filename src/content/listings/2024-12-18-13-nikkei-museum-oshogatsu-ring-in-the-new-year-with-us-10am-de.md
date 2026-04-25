@@ -51,7 +51,7 @@ For more
 information, please visit our website at centre.nikkeiplace.org or contact us
 at 604.777.7000 or info@nikkeiplace.org.
 
-https://centre.nikkeiplace.org/events/oshogatsu2025/?
+[https://centre.nikkeiplace.org/events/oshogatsu2025/](https://centre.nikkeiplace.org/events/oshogatsu2025/)?
 utm_source=press+release&utm_campaign=22217b3622-
 EMAIL_CAMPAIGN_20230926_COPY_01&utm_medium=email&utm_term=0_-
 f52af5b6ba-87017054&mc_cid=22217b3622&mc_eid=15436e847e

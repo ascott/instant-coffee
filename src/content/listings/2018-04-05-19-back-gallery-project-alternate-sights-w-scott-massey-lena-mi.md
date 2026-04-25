@@ -47,4 +47,4 @@ as the model of the disembodied eye, photography and media are apt mediums to
 critique knowledge systems regarding vision, perception, and the body.
 
 Gallery hours: Wednesday- Saturday from 1-5pm 
-http://www.backgalleryproject.com/
+[http://www.backgalleryproject.com/](http://www.backgalleryproject.com/)

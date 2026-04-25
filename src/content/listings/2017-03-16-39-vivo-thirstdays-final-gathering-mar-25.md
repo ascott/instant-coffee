@@ -71,7 +71,7 @@ Potluck Dinner
 Dance party
 
 ONLINE
-fb event page:https://www.facebook.com/events/456249418039359
+fb event page:[https://www.facebook.com/events/456249418039359](https://www.facebook.com/events/456249418039359)
 fb project compilation page: www.facebook.com/thirstDaysVIVO #thirstDaysVIVO
 
 The monthly programs were curated by: T'uy't'tanat Cease Wyss + Aaron Rice, 

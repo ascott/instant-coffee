@@ -32,6 +32,6 @@ kids welcome :: swag for sale :: afterparty nearby
 
 604-876-9343 
 
-https://twitter.com/frontmagazine
-http://www.facebook.com/event.php?eid=121413354423&ref=mf
-http://www.front.bc.ca/frontmagazine
+[https://twitter.com/frontmagazine](https://twitter.com/frontmagazine)
+[http://www.facebook.com/event.php?eid=121413354423&ref=mf](http://www.facebook.com/event.php?eid=121413354423&ref=mf)
+[http://www.front.bc.ca/frontmagazine](http://www.front.bc.ca/frontmagazine)

@@ -28,7 +28,7 @@ skills, direct experience and hours working with kids. Its also a great way to m
 connections in your community and a meaningful opportunity to work with kids who 
 need your support.
 
-Please visit https://vancouverwe.com/volunteerfall2019 for more info and to fill out an 
+Please visit [https://vancouverwe.com/volunteerfall2019](https://vancouverwe.com/volunteerfall2019) for more info and to fill out an 
 application form before September 16th.
 
 @writers_ex 

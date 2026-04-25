@@ -15,7 +15,7 @@ Saturday, September 14, 2024
 1:00 PM - 3:00 PM
 
 $5.00 TICKETS HERE:
-https://www.eventbrite.ca/e/collaborative-workshop-with-clay-between-us-a-vessel-
+[https://www.eventbrite.ca/e/collaborative-workshop-with-clay-between-us-a-vessel-](https://www.eventbrite.ca/e/collaborative-workshop-with-clay-between-us-a-vessel-)
 grows-tickets-944656873137
 
 Pinch pots are usually made by compressing clay patiently between fingers and
@@ -23,7 +23,7 @@ thumb to build height and volume. Instead, featured artist Xinwei Che " uses
 her entire body, for instance pressing clay between the palm of her hand and the
 curve of her knee, so that the resulting vessels carry the rough imprint of her form.
 These can be seen in the Gallerys current exhibition
-https://www.richmondartgallery.org/it-begins-with-knowing-and-not-knowing.
+[https://www.richmondartgallery.org/it-begins-with-knowing-and-not-knowing](https://www.richmondartgallery.org/it-begins-with-knowing-and-not-knowing).
 
 In this workshop, Xinwei share more about her time-centered material practice and
 invites participants to explore making clay pinch pots collaboratively with each other.

@@ -19,7 +19,7 @@ Exhibition opening: Friday April 10, 7PM
 Exhibition run: April 10-May 3 // Gallery is open Thursday to Sunday, 12PM
 to 5PM
 
-http://capturephotofest.com/exhibitions/glissements-de-terrain-land-slides/
+[http://capturephotofest.com/exhibitions/glissements-de-terrain-land-slides/](http://capturephotofest.com/exhibitions/glissements-de-terrain-land-slides/)
 
 Glissements de terrain (Land Slides) presents recently produced bodies of
 works by Vancouver artist Ryan Mathieson and Quebec City artist Anne-Marie
@@ -54,4 +54,4 @@ recording.
 The Toast Collective
 648 Kingsway
 Vancouver, BC
-http://thetoast.org
+[http://thetoast.org](http://thetoast.org)

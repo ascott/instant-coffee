@@ -26,6 +26,6 @@ Curated by Yasmine Haiboub
 
 This project is supported by the Canada Council for the Arts.
 
-More info at https://linktr.ee/duplexsociety
+More info at [https://linktr.ee/duplexsociety](https://linktr.ee/duplexsociety)
 and
-http://duplexduplex.ca/
+[http://duplexduplex.ca/](http://duplexduplex.ca/)

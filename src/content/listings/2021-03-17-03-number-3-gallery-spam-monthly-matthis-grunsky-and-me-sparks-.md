@@ -11,7 +11,7 @@ summary: "Number 3 Gallery | SPAM MONTHLY : Matthis Grunsky and M.E. Sparks | MA
 SPAM (Special Presentation Art Mail) is an email-based art series. For the first 3 months of 2021, Number 3 Gallery has asked invited artists to work collaboratively to create unique interactive email works. Through the link below, viewers can sign up to receive Number 3 Gallery emails in order to view the upcoming projects.
 
 Subscription Link:
-https://www.number3gallery.com/
+[https://www.number3gallery.com/](https://www.number3gallery.com/)
 
 To-Do-To-Do
 For this months edition of Special Presentation Art Mail, Matthis Grunsky and M.E. Sparks revisit the to- do list as a site of ideation. List-making is a way to organize, plan and record, but it can also function as a form of story-telling, told through metrical summaries of our day-to-day lives. In a way, lists become momentary portraits of their writers, revealing what is most valued and desired at that moment in time.

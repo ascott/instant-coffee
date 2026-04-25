@@ -83,7 +83,7 @@ HOW TO APPLY
 
 Griffin Art Projects accepts submissions in a variety of formats:
 
-Visit our website for application forms: https://www.griffinartprojects.ca/residency-
+Visit our website for application forms: [https://www.griffinartprojects.ca/residency-](https://www.griffinartprojects.ca/residency-)
 opportunities
 
 Artists who would like application assistance are asked to get in touch with Griffin Art

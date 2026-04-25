@@ -33,4 +33,4 @@ Benjamin Noys / Jeff O'brien / Matteo Pasquinelli / David Roden / Judith
 Rodenbeck / Rory Rowan / Daniel Sacilotto / Samuel Sackeroff / T'ai Smith /
 Nick Srnicek / Kate Steinmann / Steven Warrick / Peter Wolfendale
 
-To order: http://tripleampersand.org/machine-use-new-publication/
+To order: [http://tripleampersand.org/machine-use-new-publication/](http://tripleampersand.org/machine-use-new-publication/)

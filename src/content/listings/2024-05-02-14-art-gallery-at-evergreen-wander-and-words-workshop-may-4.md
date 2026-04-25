@@ -34,7 +34,7 @@ anna@evergreenculturalcentre.ca if you require accommodations.
 
 Free event. Ages 12+. Registration recommended. 30 spots available.
 
-Register here: https://evergreenculturalcentre.my.salesforce-
+Register here: [https://evergreenculturalcentre.my.salesforce-](https://evergreenculturalcentre.my.salesforce-)
 sites.com/ticket/#/events/a0SOK000000O3mL2AS.
 
 Pay parking available on-site, easy access from Lafarge Lake-Douglas College

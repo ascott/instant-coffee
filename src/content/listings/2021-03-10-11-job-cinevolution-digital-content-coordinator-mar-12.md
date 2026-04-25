@@ -32,5 +32,5 @@ sector and beyond.
 
 Full posting and to apply:
 
-https://cinevolutionmedia.com/wp-content/uploads/2021/02/2021-002-Job-
+[https://cinevolutionmedia.com/wp-content/uploads/2021/02/2021-002-Job-](https://cinevolutionmedia.com/wp-content/uploads/2021/02/2021-002-Job-)
 Description_Digital-Content-Coordinator_.pdf

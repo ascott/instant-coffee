@@ -30,4 +30,4 @@ Gusella, Russell Wallace, Pia Massie.
 Publication excerpts from Pulp, The Literary Storefront, and by Earl Courtney, bill bissett,
 Bern Porter, Pat Stevens, Lenore Herb.
 
-Facebook Event: https://www.facebook.com/events/200914631144514/
+Facebook Event: [https://www.facebook.com/events/200914631144514/](https://www.facebook.com/events/200914631144514/)

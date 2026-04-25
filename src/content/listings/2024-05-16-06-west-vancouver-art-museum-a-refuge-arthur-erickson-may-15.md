@@ -20,4 +20,4 @@ West Vancouver Art Museum by Selwyn Pullan of Erickson in his home and garden.
 Surrounded by the objects that inspired him that were collected during his extensive
 travels, these photos are an intimate portrait of this well-known figure at home.
 
-https://westvancouverartmuseum.ca/exhibitions/refuge-arthur-erickson
+[https://westvancouverartmuseum.ca/exhibitions/refuge-arthur-erickson](https://westvancouverartmuseum.ca/exhibitions/refuge-arthur-erickson)

@@ -14,7 +14,7 @@ Halifax, Nova Scotia
 
 Tickets, registration and session information:
 
-http://atlantic.cmagazine.com
+[http://atlantic.cmagazine.com](http://atlantic.cmagazine.com)
 
 Keynote Lecture by Sylvie Fortin
 Friday April 19 at 7 pm
@@ -30,7 +30,7 @@ Followed by a reception at The Khyber Centre for the Arts, 6-9 pm
 Gallery Tours
 Sunday April 21, Organized by Visual Arts Nova Scotia (details TBA)
 
-Tickets and info: http://atlantic.cmagazine.com
+Tickets and info: [http://atlantic.cmagazine.com](http://atlantic.cmagazine.com)
 $40 / $25 for students and the unwaged. To register and pay by cheque
 email: info@cmagazine.com
 
@@ -46,8 +46,8 @@ Magazine; Gabrielle Moser, writer and independent curator; Leah Sandals,
 Online Editor at Canadian Art magazine.
 
 Organized by C The Visual Arts Foundation / C Magazine
-(http://cmagazine.com) and Visual Arts Nova Scotia / Visual Arts News
-(http://www.visualarts.ns.ca)
+([http://cmagazine.com](http://cmagazine.com)) and Visual Arts Nova Scotia / Visual Arts News
+([http://www.visualarts.ns.ca](http://www.visualarts.ns.ca))
 
 Media Contacts:
 

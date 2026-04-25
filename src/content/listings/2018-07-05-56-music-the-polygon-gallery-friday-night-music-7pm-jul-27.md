@@ -15,7 +15,7 @@ July 27
 Join us for an evening of transforming and transporting musical energy, inspired by Susan 
 Hiller: Altered States. Enjoy performances featuring the bracing harsh noise of The Rita, the 
 swoon-worthy dark pop of Mourning Coup, and the well-curated musical psychotropia of the BC 
-Hydra DJ crew. https://thepolygon.ca/event/friday-night-music/
+Hydra DJ crew. [https://thepolygon.ca/event/friday-night-music/](https://thepolygon.ca/event/friday-night-music/)
 
 thepolygon.ca
 

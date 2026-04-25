@@ -35,7 +35,7 @@ Anyone can participate in this "art holiday" in his/her own way!!!
 
 
 Complete information can be found at
-http://www.39ART.com
+[http://www.39ART.com](http://www.39ART.com)
 
  From this site, you can download the "Thank You Art" gift wrapper and	poster.
 

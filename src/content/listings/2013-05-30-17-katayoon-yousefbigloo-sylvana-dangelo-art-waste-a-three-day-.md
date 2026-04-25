@@ -57,7 +57,7 @@ Tom Whalen
 Taylor Boisjoli
 Toby Pikelin
 
-http://musicwaste.ca/2012/art-waste-2013/
+[http://musicwaste.ca/2012/art-waste-2013/](http://musicwaste.ca/2012/art-waste-2013/)
 For details on the 24 other shows Art Waste has curated for this years 
 festival.
 

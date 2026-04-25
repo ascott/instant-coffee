@@ -12,7 +12,7 @@ Earth Day - Wetland Restoration Program
 
 Griffin Art Projects
 1174 Welch St, North Vancouver, BC
-http://griffinartprojects.ca/
+[http://griffinartprojects.ca/](http://griffinartprojects.ca/)
 
 Saturday, April 28, 2018
 

@@ -19,7 +19,7 @@ June 8 - OPENING SCHEDULE
 Anvil Theatre Limit : 340
 Children must be accompanied by an Adult due to Fragility of the
 Works
-TALKS: https://newmediagallery.ca/cristhian-avila-cipriani-and-xoan-xil/
+TALKS: [https://newmediagallery.ca/cristhian-avila-cipriani-and-xoan-xil/](https://newmediagallery.ca/cristhian-avila-cipriani-and-xoan-xil/)
 
 ABOUT THE EXHIBITION
 Xon Xil (Spain), Ali Miharbi (Turkey), Cristhian vila Cipriani

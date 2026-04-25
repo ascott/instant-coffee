@@ -48,7 +48,7 @@ Projects that are in development/to be developed.
 Questions about application details as well as inquiries into the feasibility of proposals may 
 be directed to: program@neutralground.sk.ca 
 
-To apply, download pdfs with proposal requirements at: https://www.neutralground.sk.ca/?
+To apply, download pdfs with proposal requirements at: [https://www.neutralground.sk.ca/](https://www.neutralground.sk.ca/)?
 page=eventdetail&year=2019&id=201931419182921 
 
 70. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing

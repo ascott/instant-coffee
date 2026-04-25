@@ -12,7 +12,7 @@ Supplement
 grupa o.k.
 Stagelessness
 
-https://fillip.ca/supplements/supplement-4/buy
+[https://fillip.ca/supplements/supplement-4/buy](https://fillip.ca/supplements/supplement-4/buy)
 
 Fillip is pleased to announce the release of a new publication by grupa o.k. as part of 
 Supplement, an occasional pamphlet series.

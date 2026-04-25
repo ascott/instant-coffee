@@ -44,7 +44,7 @@ The film contains material from the 70's, 80's, 90's and 00's, as well as
 original footage of the White family shot in the 40's, 50's and 60's.
 
 TRAILER
-http://www.youtube.com/watch?v=y3npCYjcF4c&feature=related
+[http://www.youtube.com/watch?v=y3npCYjcF4c&feature=related](http://www.youtube.com/watch?v=y3npCYjcF4c&feature=related)
 
 VIVO Events page
-http://www.vivomediaarts.com/event/them-fckin-robots
+[http://www.vivomediaarts.com/event/them-fckin-robots](http://www.vivomediaarts.com/event/them-fckin-robots)

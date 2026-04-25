@@ -43,7 +43,7 @@ Tickets available on-line, $10 at the door.
 The Look of Team 5:
 
 Beanie+Scarf and signed limited edition Umbrella are available at:
-http://paulwongprojects.bigcartel.com/
+[http://paulwongprojects.bigcartel.com/](http://paulwongprojects.bigcartel.com/)
 
 Lifetime Olympic Pop Up Shop, 354 Water Street, Vancouver, BC.
 

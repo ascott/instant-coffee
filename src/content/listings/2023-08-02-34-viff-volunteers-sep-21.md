@@ -26,7 +26,7 @@ interested in joining us:
 The Vancouver International Film Festival is coming, and you can be part of it!
 
 The application to volunteer for VIFF 2023 is now live on our website! Please visit
-https://viff.org/festival-volunteer/ to read about how to become a volunteer and what
+[https://viff.org/festival-volunteer/](https://viff.org/festival-volunteer/) to read about how to become a volunteer and what
 teams are requesting members to join the festival. Once you have read all the
 information, click "Apply Now" to fill out an application form. We look forward to
 having you join us at this year's VIFF! Applications are open until September 21st,

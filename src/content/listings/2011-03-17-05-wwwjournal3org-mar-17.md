@@ -41,7 +41,7 @@ The issue also includes extracts from Dostoyevsky’s The Brothers Karamazov,
 a re-publication of the partial court transcript featuring the testimony of
 Allen Ginsberg and Norman Mailer during the Boston-based obscenity trial of
 Naked Lunch, and extracts from a talk given by Slavoj Zizek courtesy of the
-RSA (http://www.thersa.org/home)
+RSA ([http://www.thersa.org/home](http://www.thersa.org/home))
 
 We are also accepting ongoing submissions from artists, curators, writers,
 and academics who would be interested in using the journal as platform to

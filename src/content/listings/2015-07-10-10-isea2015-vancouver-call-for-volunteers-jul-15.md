@@ -45,7 +45,7 @@ Conference T-Shirt
 Certificate of participation as a volunteer, upon request
 
 Volunteer Position
-Visit http://isea2015.org/call-for-volunteers-2015 for details about each
+Visit [http://isea2015.org/call-for-volunteers-2015](http://isea2015.org/call-for-volunteers-2015) for details about each
 position available.
 Applying
 

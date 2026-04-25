@@ -17,7 +17,7 @@ studios will be open during this designated time/date so feel free to stop by to
 ensure the space meets the needs of your practice! There will be informational 
 signage at the building entrance to direct you to the studios and staff will be there 
 to welcome you in. Locations are listed below or view 
-map<http://g.co/maps/ayf6z>.
+map<[http://g.co/maps/ayf6z](http://g.co/maps/ayf6z)>.
 
 Residency Studio 1: 272 East 4th Avenue
 Rental Studio 2: 428 West 8th Avenue
@@ -25,7 +25,7 @@ Rental Studio 3: 485 West 8th Avenue
 Rental Studio 4: 1202 East Pender Street
 
 For application and submission information, please check out our website at: 
-http://vancouver.ca/commsvcs/cultural/gasp/awards/artiststudio/index.htm If 
+[http://vancouver.ca/commsvcs/cultural/gasp/awards/artiststudio/index.htm](http://vancouver.ca/commsvcs/cultural/gasp/awards/artiststudio/index.htm) If 
 you are not able to make the open houses, general information and photos of the 
 studios are available on the same website. See our previous announcement 
 below for general information on the Program.
@@ -64,7 +64,7 @@ or read the studio descriptions online.
 Studio Open Houses will take place Saturday, September 24th, 2011 (noon - 4 
 pm), and Tuesday, September 27th, 2011 (4 pm to 7 pm). Information on the 
 Studio Award Program may be found at 
-http://vancouver.ca/commsvcs/cultural/gasp/awards/artiststudio/index.htm or by 
+[http://vancouver.ca/commsvcs/cultural/gasp/awards/artiststudio/index.htm](http://vancouver.ca/commsvcs/cultural/gasp/awards/artiststudio/index.htm) or by 
 contacting Chisaki Muraki at chisaki.muraki-
 valdovinos@vancouver.ca<mailto:chisaki.muraki-valdovinos@vancouver.ca> or 
 604.873.7921.

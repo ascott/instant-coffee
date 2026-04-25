@@ -48,4 +48,4 @@ gallery by appointment only. PPE and social distancing is required. Exhibitions 
 viewable online.
 
 Outsiders and Others Art Society gallery location: 716 East Hastings Street, Vancouver
-http://www.outsidersandothers.com
+[http://www.outsidersandothers.com](http://www.outsidersandothers.com)

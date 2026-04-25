@@ -29,7 +29,7 @@ A screening and discussion of Renzo Martens' Episode III: Enjoy Poverty
 Hosted by Ben Russell
 Sunday, 23 November; 7.00pm; Burrard Marina Field House Studio;
 1655 Whyte Avenue, Vancouver
-FREE; booking advised: http://goo.gl/LW6WZP
+FREE; booking advised: [http://goo.gl/LW6WZP](http://goo.gl/LW6WZP)
 
 Episode III, also known as 'Enjoy Poverty', is the 90 minute film
 registration of Renzo Martens' activities in the Congo. In an epic journey,
@@ -55,7 +55,7 @@ A film by Ben Rivers and Ben Russell
 Screening and Q&A with Ben Russell
 Monday, 24 November; 7.00pm; Cineworks Studio, 1131 Howe Street (lane
 entrance);
-FREE; booking advised: http://goo.gl/BNSqsA
+FREE; booking advised: [http://goo.gl/BNSqsA](http://goo.gl/BNSqsA)
 
 A Spell to Ward Off Darkness follows an unnamed character through three
 seemingly disparate moments in his life. With little explanation, we join
@@ -76,7 +76,7 @@ A half-day filmmaking workshop with Ben Russell
 $50 non-members / $40 Cineworks and VIVO members
 Monday 24, November; 1.30pm–5.30pm, (please arrive early)
 Cineworks Studio, 1131 Howe Street, Vancouver (lane entrance)
-Advance booking required: http://goo.gl/3rr3I9
+Advance booking required: [http://goo.gl/3rr3I9](http://goo.gl/3rr3I9)
 
 Taking its title from the 1990 play by Fiona Templeton, in which the “you” 
 slowly shifts from audience member to cityscape, this 4-hour workshop takes

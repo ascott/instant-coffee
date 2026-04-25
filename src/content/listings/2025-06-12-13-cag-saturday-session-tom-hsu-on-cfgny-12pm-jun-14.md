@@ -25,4 +25,4 @@ Sun Yat- Sen Classical Chinese Garden, Pendulum Gallery, Centre A, Telephone
 Gallery, Macaulay & Co. Fine Art, Burrard Arts Foundation, YACTAC, and UNIT/PITT
 (all Vancouver); and Gallery TPW (Toronto).
 
-https://cagvancouver.org/event/saturday-session-tom-hsu
+[https://cagvancouver.org/event/saturday-session-tom-hsu](https://cagvancouver.org/event/saturday-session-tom-hsu)

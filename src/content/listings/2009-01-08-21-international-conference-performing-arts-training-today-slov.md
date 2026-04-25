@@ -33,11 +33,11 @@ PRESENTATION FORMATS:
 ACCOMODATION & VENUE (Bovec mountain resort):
 Nearest airports: Ljubljana (Slovenia), Trieste (Italy) or Klagenfurt
 (Austria).
-http://www.iugte.com/projects/Bovec.venue.php
+[http://www.iugte.com/projects/Bovec.venue.php](http://www.iugte.com/projects/Bovec.venue.php)
 
 SUBMISSION GUIDELINES & REGISTRATION:
-http://www.iugte.com/projects/conf.reg.php
+[http://www.iugte.com/projects/conf.reg.php](http://www.iugte.com/projects/conf.reg.php)
 
-CONFERENCE INFO: http://www.iugte.com/projects/PerformingArts.php
+CONFERENCE INFO: [http://www.iugte.com/projects/PerformingArts.php](http://www.iugte.com/projects/PerformingArts.php)
 
 You are also welcome to take part in the Conference as a Participant.

@@ -23,4 +23,4 @@ will be revealed in the course of play.
 Recently launched by artist Germaine Koh, League is based in the field house in 
 Elm Park, as part of the Vancouver Park Board Field House Residency Project. 
 
-More info: http://league-league.org or http://facebook.com/LeagueVan
+More info: [http://league-league.org](http://league-league.org) or [http://facebook.com/LeagueVan](http://facebook.com/LeagueVan)

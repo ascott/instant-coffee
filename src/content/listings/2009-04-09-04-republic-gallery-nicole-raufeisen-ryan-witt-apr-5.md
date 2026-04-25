@@ -22,7 +22,7 @@ through to 2007. The storefront studio was converted into a photo co-op followin
 and the artists have invited several of the former and current occupants of the 882 space to 
 participate in this updated version of a past exhibition.
 
-You’re Sill Here and So Are We can be viewed online at http://www.republicgallery.com from April 
+You’re Sill Here and So Are We can be viewed online at [http://www.republicgallery.com](http://www.republicgallery.com) from April 
 5th through May 3rd, 2009. Regular gallery hours are 11 am – 4 pm, Thursday through Saturday, 
 and by appointment.
 

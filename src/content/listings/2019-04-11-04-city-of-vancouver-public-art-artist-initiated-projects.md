@@ -23,5 +23,5 @@ Nations are especially encouraged to apply.
 
 Submission deadline: Thursday, June 6, 3pm PDT
 
-For more information and to apply: https://vancouver.ca/parks-recreation-culture/open-
+For more information and to apply: [https://vancouver.ca/parks-recreation-culture/open-](https://vancouver.ca/parks-recreation-culture/open-)
 call-for-artist-initiated-projects.aspx

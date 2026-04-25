@@ -35,7 +35,7 @@ Dandizette refers to their medium as blank space, whether its canvas, a room, or
 digital space. Zandi discusses the binary with their references to shapes and color, 
 playing upon it to build another world. Previously Zandi has shown new media arts at 
 VIVO Media Arts Centre, Dynamo Arts Association, and Cinevolution's Your 
-Kontinent: Digital Carnival in Richmond. https://www.bluep.ink/
+Kontinent: Digital Carnival in Richmond. [https://www.bluep.ink/](https://www.bluep.ink/)
 
 TESSA REED: As a ceramics artist, functionality is a consistent theme throughout 
 Tessa's work; experimentation with surface treatment, form, and process gives birth 
@@ -43,4 +43,4 @@ to new shapes and interesting ideas. Tessa is best known for their cat motifs on
 mugs and pins. These works have been featured throughout the city in craft fairs, 
 stocked at the Catfe, and shown in galleries such as The BC Gallery of Ceramics. 
 This rare occasion will unveil crystalline works by Tessa. 
-https://www.instagram.com/ceramicsbytessa/
+[https://www.instagram.com/ceramicsbytessa/](https://www.instagram.com/ceramicsbytessa/)

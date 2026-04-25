@@ -14,7 +14,7 @@ Vancouver
 Wednesday-Sunday November 20-24, 2024
 Scotiabank Dance Centre, 677 Davie St, Vancouver
 Info and tickets at thedancecentre.ca
-Event link: https://thedancecentre.ca/event/dance-in-vancouver-2024/
+Event link: [https://thedancecentre.ca/event/dance-in-vancouver-2024/](https://thedancecentre.ca/event/dance-in-vancouver-2024/)
 
 Vancouver's contemporary dance scene takes centre stage in the 14th edition of Dance
 In Vancouver, presented by The Dance Centre November 20-24. This curated biennial

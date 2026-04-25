@@ -52,4 +52,4 @@ Contact Email: summertheatre@burnabyartscouncil.org
 Contact Phone: (604) 298-7322
 
 WEBSITE
-http://www.burnabyartscouncil.org
+[http://www.burnabyartscouncil.org](http://www.burnabyartscouncil.org)

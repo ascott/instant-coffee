@@ -39,4 +39,4 @@ or
 cfat.communication@ns.sympatico.ca
 
 For more information contact (902) 420-4002 or visit
-http://centreforarttapes.ca.
+[http://centreforarttapes.ca](http://centreforarttapes.ca).

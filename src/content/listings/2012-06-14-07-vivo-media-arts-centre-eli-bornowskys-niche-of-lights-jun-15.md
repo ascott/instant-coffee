@@ -43,4 +43,4 @@ Western Front. In 2011 he was commissioned to create a new work for
 the Walrus magazine. He has published numerous critical texts and 
 has been shortlisted three times for the RBC Painting Competition. He 
 is currently pursuing his MFA at Bard College in upstate New York. 
-http://elibornowsky.com/
+[http://elibornowsky.com/](http://elibornowsky.com/)

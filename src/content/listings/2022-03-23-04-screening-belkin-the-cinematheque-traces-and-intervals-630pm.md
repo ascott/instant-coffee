@@ -33,4 +33,4 @@ Midi Onodera, The Displaced View
 
 For ticket information, visit www.thecinematheque.ca
 
-https://belkin.ubc.ca/events/film-series-traces-and-intervals/
+[https://belkin.ubc.ca/events/film-series-traces-and-intervals/](https://belkin.ubc.ca/events/film-series-traces-and-intervals/)

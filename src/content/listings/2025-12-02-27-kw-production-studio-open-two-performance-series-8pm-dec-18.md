@@ -20,7 +20,7 @@ KW Production Studio, 111 W Hastings, Vancouver
 
 info and tickets:
 
-https://www.showpass.com/kokoro-presents-open-two-allison-langs-performance-series-3/
+[https://www.showpass.com/kokoro-presents-open-two-allison-langs-performance-series-3/](https://www.showpass.com/kokoro-presents-open-two-allison-langs-performance-series-3/)
 Kokoro presents open two, the third of a four program series celebrating performing artists
 of all disciplines who create through liberatory practice, fringe experimentation and
 expressions of earthly and unseen experience.

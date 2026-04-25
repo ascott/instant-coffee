@@ -35,4 +35,4 @@ Seating is general admission. Auditorium doors open at 6:45pm. Gallery admission
 included with event ticket. Come early and explore!
 
 More information and ticket purchase on our website: 
-http://www.museumofvancouver.ca/programs/calendar
+[http://www.museumofvancouver.ca/programs/calendar](http://www.museumofvancouver.ca/programs/calendar)

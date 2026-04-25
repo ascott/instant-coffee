@@ -65,7 +65,7 @@ of such devices, while also reclaiming them in order to redefine their intent
 and potential. 
 
 Read more here:
-http://www.contemporaryartgallery.ca/exhibitions/the-act-of-seeing-with-
+[http://www.contemporaryartgallery.ca/exhibitions/the-act-of-seeing-with-](http://www.contemporaryartgallery.ca/exhibitions/the-act-of-seeing-with-)
 ones-own-eyes/
 
 This exhibition is generously supported by Inform Interiors.

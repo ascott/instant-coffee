@@ -35,7 +35,7 @@ Dont miss this opportunity to grow your craft, connect with a vibrant creative
 community, and share your voice.
 
 application form:
-https://docs.google.com/forms/d/e/1FAIpQLSeop_S1w28frjy2LEicN7Yhj_zNqozaXMt
+[https://docs.google.com/forms/d/e/1FAIpQLSeop_S1w28frjy2LEicN7Yhj_zNqozaXMt](https://docs.google.com/forms/d/e/1FAIpQLSeop_S1w28frjy2LEicN7Yhj_zNqozaXMt)
 MgMtdXQ9aaPKTbg/viewform?usp=dialog
 
 

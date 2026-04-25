@@ -22,11 +22,11 @@ email and does not guarantee or attest to the quality or outcome of the
 opportunities listed. For more detail about a particular call, please use
 the contact information provided.
 
-Visit us online: http://vancouver.ca/culture
+Visit us online: [http://vancouver.ca/culture](http://vancouver.ca/culture)
 Like us on Facebook:
-facebook.com/vanculture<https://www.facebook.com/vanculture>
-Follow us on Twitter: @VanCultureBC<http://twitter.com/VanCultureBC>
-Peruse the Public Art Archive: http://ourcityourart.wordpress.com/
+facebook.com/vanculture<[https://www.facebook.com/vanculture](https://www.facebook.com/vanculture)>
+Follow us on Twitter: @VanCultureBC<[http://twitter.com/VanCultureBC](http://twitter.com/VanCultureBC)>
+Peruse the Public Art Archive: [http://ourcityourart.wordpress.com/](http://ourcityourart.wordpress.com/)
 Subscribe to the
-listserv<http://vancouver.ca/parks-recreation-culture/subscribe-to-an-arts-and-culture-mailing-list.aspx>
+listserv<[http://vancouver.ca/parks-recreation-culture/subscribe-to-an-arts-and-culture-mailing-list.aspx](http://vancouver.ca/parks-recreation-culture/subscribe-to-an-arts-and-culture-mailing-list.aspx)>
 to receive notifications of cultural news & opportunities

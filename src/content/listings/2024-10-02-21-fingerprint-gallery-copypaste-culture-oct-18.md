@@ -43,4 +43,4 @@ inspiration from his travels and experiences to build visual libraries for sketc
 creativity. Julian has worked with notable brands like Aritzia and Hills Dry Goods,
 bringing a unique perspective to each project through his distinctive visual approach.
 
-https://www.julianthom.com/
+[https://www.julianthom.com/](https://www.julianthom.com/)

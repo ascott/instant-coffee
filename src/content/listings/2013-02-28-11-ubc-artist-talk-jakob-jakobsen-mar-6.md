@@ -32,7 +32,7 @@ This event is free and open to the public.
 
 Room 102 Frederic Lasserre Building
 6333 Memorial Road, UBC
-http://www.ahva.ubc.ca
+[http://www.ahva.ubc.ca](http://www.ahva.ubc.ca)
 Department of Art History, Visual Art & Theory
 The Distinguished Visiting Artist Program is made possible by the generous
-support of the Rennie Collection. http://www.renniecollection.org/index.php
+support of the Rennie Collection. [http://www.renniecollection.org/index.php](http://www.renniecollection.org/index.php)

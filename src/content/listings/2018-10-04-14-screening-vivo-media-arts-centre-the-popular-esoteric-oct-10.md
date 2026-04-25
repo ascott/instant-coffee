@@ -15,7 +15,7 @@ Wednesday, October 10th @ VIVO Media Arts
 FREE
 
 TRAILER:
-https://vimeo.com/293049238
+[https://vimeo.com/293049238](https://vimeo.com/293049238)
 
 It starts Wed Oct 10, with the world premiere of KCs art rock? The Popular Esoteric 
 (2018), and Myles Blacks Virga Soundtrack (2018) at VIVO Media Arts Centre, 

@@ -16,7 +16,7 @@ Emily Carr University of Art + Design
 Vancouver
 
 Join us for a symposium to share the results of the Ten Different Things
-series: http://tendifferentthings.ecuad.ca/
+series: [http://tendifferentthings.ecuad.ca/](http://tendifferentthings.ecuad.ca/)
 
 Ten Different Things is a series of public art commissions presented
 throughout Vancouver in Spring 2018. Artists were invited to create new
@@ -40,4 +40,4 @@ by the City of Vancouver Public Art Program.
 
 Questions about the Symposium? Contact Kate Armstrong: karmstrong@ecuad.ca
 
-https://www.ecuad.ca/calendar/ten-different-things-symposium
+[https://www.ecuad.ca/calendar/ten-different-things-symposium](https://www.ecuad.ca/calendar/ten-different-things-symposium)

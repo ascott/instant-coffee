@@ -25,7 +25,7 @@ film professionals alike, and take their own projects to the next level.
 The deadline to apply is Monday August 13, 2018.
 
 Full program description & online application:
-https://viff.org/Online/2018-mentorship-program
+[https://viff.org/Online/2018-mentorship-program](https://viff.org/Online/2018-mentorship-program)
 
 VIFF is committed to offering opportunities to those who are often under-
 or mis-represented in the film industry and beyond. We especially encourage

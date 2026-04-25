@@ -45,7 +45,7 @@ Free admission or stream it live at:
 thirstDays.vivomediaarts.com
 
 ONLINE
-fb event page: https://goo.gl/KJkRF7
+fb event page: [https://goo.gl/KJkRF7](https://goo.gl/KJkRF7)
 fb project compilation page: www.facebook.com/thirstDaysVIVO
 #thirstDaysVIVO
 e

@@ -39,7 +39,7 @@ Waterfront Theatre (Granville Island), 1412 Cartwright St, Vancouver, BC V6H 3R7
 LINK + TICKETS:
 Tickets are pay what you choose, starting at minimum wage ($16.75); each ticket
 includes delicious food and the bar will be open throughout:*
-https://pushfestival.ca/shows/asses-masses/
+[https://pushfestival.ca/shows/asses-masses/](https://pushfestival.ca/shows/asses-masses/)
 *Please purchase your tickets as soon as possible, there are a limited amount!
 
 DESCRIPTION OF SHOW:
@@ -63,4 +63,4 @@ enjoy asses.masses. Also, for bonus points, at every show of asses.masses, were
 raising money for the festival to sponsor a donkey at the local donkey sanctuary.
 
 WEBSITES FOR ADDITIONAL INFORMATION:
-https://linktr.ee/asses.masses
+[https://linktr.ee/asses.masses](https://linktr.ee/asses.masses)

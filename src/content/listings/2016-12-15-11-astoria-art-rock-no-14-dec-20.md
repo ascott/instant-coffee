@@ -18,11 +18,11 @@ series is for and inspired by the performers of sounds, visuals, and poetics.
 featuring:
 
 SHEARING PINX
-https://shearingpinx.bandcamp.com/
+[https://shearingpinx.bandcamp.com/](https://shearingpinx.bandcamp.com/)
 OLD GIRL
-https://oldgirl.bandcamp.com/
+[https://oldgirl.bandcamp.com/](https://oldgirl.bandcamp.com/)
 VALSI
-https://soundcloud.com/loner-ambient
+[https://soundcloud.com/loner-ambient](https://soundcloud.com/loner-ambient)
 
 DJ Roman Totale XVII
 -

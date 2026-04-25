@@ -49,7 +49,7 @@ Fillip is available from retailers worldwide, and from Motto Distribution
 office@fillip.ca. Subscription are available for $25 (North America) and
 Â¢ïÂ¿Â½Â¬25 (elsewhere) via paypal.
 
-Advertising information can be found at http://fillip.ca/advertising.
+Advertising information can be found at [http://fillip.ca/advertising](http://fillip.ca/advertising).
 
 * Fillip
 * 305 Cambie Street

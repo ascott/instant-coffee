@@ -13,7 +13,7 @@ Intro to Editing in Adobe Premiere
 VIVO
 2625 Kaslo St, Vancouver, BC
 
-SIGN UP & MORE INFO: https://editing-in-premiere.eventbrite.ca
+SIGN UP & MORE INFO: [https://editing-in-premiere.eventbrite.ca](https://editing-in-premiere.eventbrite.ca)
 
 Kick-start your video editing skills with writer-director-editor Will Ross!
 
@@ -24,7 +24,7 @@ Session 1: Sat June 9th, 1pm - 4:30pm
 Session 2: Sat June 16th, 1pm - 4:30pm
 
 One extended subsidy for this workshop available:
-https://goo.gl/forms/ouYpiffS6UTZXt4g1
+[https://goo.gl/forms/ouYpiffS6UTZXt4g1](https://goo.gl/forms/ouYpiffS6UTZXt4g1)
 
 This workshop introduces you to video editing, covering the technical, theoretical, 
 and creative dimensions of the process. Youll learn different editing techniques 

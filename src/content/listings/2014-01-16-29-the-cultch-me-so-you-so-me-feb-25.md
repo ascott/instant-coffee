@@ -14,5 +14,5 @@ rhythms and cartoons, this new work reveals projections of the self: through the
 eyes of a partner, the dynamic of a couple, and the genre-defying music of 
 experimental Japanese percussionist Asa Chang. Choreographed & performed 
 by David Raymond & Tiffany Tregarthen. February 25-March 1-8pm at The 
-Cultch 1895 Venables St., Vancouver Map: http://goo.gl/maps/EeEn1 Tickets at 
+Cultch 1895 Venables St., Vancouver Map: [http://goo.gl/maps/EeEn1](http://goo.gl/maps/EeEn1) Tickets at 
 tickets.thecultch.com or 604.251.1363 More: www.thecultch.com

@@ -10,11 +10,11 @@ summary: "Lynn Valley Library | An Evening with Artist Mahdyar Jamshidi | 7-815 
 
 An Evening with Artist Mahdyar Jamshidi | Feb 27, 7:00-8:15PM
 
-http://griffinartprojects.ca/events/2019/mahdyar-jamshidi-lynn-valley-library/
+[http://griffinartprojects.ca/events/2019/mahdyar-jamshidi-lynn-valley-library/](http://griffinartprojects.ca/events/2019/mahdyar-jamshidi-lynn-valley-library/)
 
 Wednesday, February 27, 7:00-8:15pm, at Lynn Valley Library, 1277 Lynn Valley Rd. 
 Register online, 
-https://nvdpl.ca/event/evening-artist-mahdyar-jamshidi
+[https://nvdpl.ca/event/evening-artist-mahdyar-jamshidi](https://nvdpl.ca/event/evening-artist-mahdyar-jamshidi)
 or at 604-984-0286, ext. 8144
 
 Join us for an evening with our current artist-in-residence Mahdyar Jamshidi as he 

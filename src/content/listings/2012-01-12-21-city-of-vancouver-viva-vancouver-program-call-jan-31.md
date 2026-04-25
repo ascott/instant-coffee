@@ -16,7 +16,7 @@ duration, ranging from weeks to months.
 Please feel free to forward this request for expressions of interest to your 
 contacts.
 
-http://vancouver.ca/fs/bid/bidopp/EOI/RFEOI-PS20110710A.htm
+[http://vancouver.ca/fs/bid/bidopp/EOI/RFEOI-PS20110710A.htm](http://vancouver.ca/fs/bid/bidopp/EOI/RFEOI-PS20110710A.htm)
 
 Best,
 

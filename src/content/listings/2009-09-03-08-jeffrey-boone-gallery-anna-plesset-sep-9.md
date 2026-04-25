@@ -30,4 +30,4 @@ Jeffrey Boone Gallery
 Vancouver, BC V6A 4H3
 
 
-http://www.jeffreyboonegallery.com
+[http://www.jeffreyboonegallery.com](http://www.jeffreyboonegallery.com)

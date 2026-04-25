@@ -10,7 +10,7 @@ summary: "SCREENING | Artspeak @ VIFF Centre | Short Films | 610PM | DEC 9"
 
 December 9, 2024 6:10PM
 
-https://viff.org/whats-on/spirit-eyes-toward-longing/book/cMiIP6gT1A/
+[https://viff.org/whats-on/spirit-eyes-toward-longing/book/cMiIP6gT1A/](https://viff.org/whats-on/spirit-eyes-toward-longing/book/cMiIP6gT1A/)
 
 This program is in conjunction with the exhibition The Spirit Has Eyes Toward
 Longing, currently on show at Artspeak, Vancouver. The Spirit Has Eyes Toward

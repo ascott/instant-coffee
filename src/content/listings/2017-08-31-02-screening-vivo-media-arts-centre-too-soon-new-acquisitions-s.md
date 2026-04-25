@@ -13,7 +13,7 @@ THURS AUG 31
 
 VIVO Media Arts and Video Out are pleased to invite you to join us for Too Soon, a 
 selection of video work drawn from a call for submissions that was circulated in the 
-spring. The call, (http://www.vivomediaarts.com/call-for-submissions-too-soon/) invited 
+spring. The call, ([http://www.vivomediaarts.com/call-for-submissions-too-soon/](http://www.vivomediaarts.com/call-for-submissions-too-soon/)) invited 
 video producers to submit works that deal with contemporary experiences of history. 
 Internationally, nationally and locally we received many excellent submissions from 
 which we have drawn together the following screening program.
@@ -51,4 +51,4 @@ VIVO MEDIA ARTS CENTRE
 2625 KASLO ST
 
 Submit to our next call for submissions at:
-http://www.vivomediaarts.com/call-for-submissions-the-virtuosic-image/
+[http://www.vivomediaarts.com/call-for-submissions-the-virtuosic-image/](http://www.vivomediaarts.com/call-for-submissions-the-virtuosic-image/)

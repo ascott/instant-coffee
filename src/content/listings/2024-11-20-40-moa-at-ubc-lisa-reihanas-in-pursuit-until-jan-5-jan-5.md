@@ -19,7 +19,7 @@ layered soundtrack, the exhibition invites viewers to observe a series of restag
 historical events, real and imagined, of the first contact between British and Pacific
 peoples.
 
-https://moa.ubc.ca/exhibition/in-pursuit-of-venus-infected/?
+[https://moa.ubc.ca/exhibition/in-pursuit-of-venus-infected/](https://moa.ubc.ca/exhibition/in-pursuit-of-venus-infected/)?
 ml_recipient=138457495236511287&ml_link=138457482213197388&utm_source=ne
 wsletter&utm_medium=email&utm_term=2024-11-
 19&utm_campaign=+Visit+MOA+before+this+popular+exhibition+closes+in+Pursuit+of

@@ -12,11 +12,11 @@ no. 27 featuring
 9PM-12AM
 
 RINSE DREAM
-https://rinsedream.bandcamp.com/
+[https://rinsedream.bandcamp.com/](https://rinsedream.bandcamp.com/)
 MAGNETICRING
-https://magneticring.bandcamp.com/
+[https://magneticring.bandcamp.com/](https://magneticring.bandcamp.com/)
 SNACKLAND
-https://snackland.bandcamp.com/
+[https://snackland.bandcamp.com/](https://snackland.bandcamp.com/)
 +
 DJ VALSI
 

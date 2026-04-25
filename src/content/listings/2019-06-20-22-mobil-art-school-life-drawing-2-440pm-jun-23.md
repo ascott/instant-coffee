@@ -17,4 +17,4 @@ session with a live model. Beginners most welcome! Please note this is an open s
 is no instruction and please bring your own materials (we suggest a sketchbook and pencil). 
 $15.
 
-https://www.mobil-art.ca/event-info/life-drawing-at-mobil-art-school-june-23
+[https://www.mobil-art.ca/event-info/life-drawing-at-mobil-art-school-june-23](https://www.mobil-art.ca/event-info/life-drawing-at-mobil-art-school-june-23)

@@ -41,4 +41,4 @@ details about how and
 where to submit your application BY APRIL 15, 2024, at
 www.makealchemy.com. Information about artist fees and bursary opportunities will
 be posted on our website. Questions? Please email: info@makealchemy.com
-http://makealchemy.com/
+[http://makealchemy.com/](http://makealchemy.com/)

@@ -30,4 +30,4 @@ Premiering new expanded photography works, this exhibition asks why the
 landscape should matter now, in the midst of all we face, and posits the importance
 of our continued relationship with our environment.
 
-Info: https://www.alliancefrancaise.ca/community/event-rsvp/?event_id=970
+Info: [https://www.alliancefrancaise.ca/community/event-rsvp/?event_id=970](https://www.alliancefrancaise.ca/community/event-rsvp/?event_id=970)

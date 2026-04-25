@@ -35,4 +35,4 @@ Setup is published and distributed by Publication Studio Vancouver, and is
 distributed quarterly.
 
 www.setupmagazine.com
-http://www.facebook.com/home.php#!/event.php?eid=222250084451833
+[http://www.facebook.com/home.php#!/event.php?eid=222250084451833](http://www.facebook.com/home.php#!/event.php?eid=222250084451833)

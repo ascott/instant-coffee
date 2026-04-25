@@ -16,4 +16,4 @@ Join CAGs Curator Godfre Leung for a walkthrough of the current exhibitions, CFG
 Continuous Fractures Generating New Yields and Lindsay McIntyre: Distance
 Between Objects, Time Between Events. No advance registration required.
 
-https://cagvancouver.org/event/curatorial-tour-june-24-2025
+[https://cagvancouver.org/event/curatorial-tour-june-24-2025](https://cagvancouver.org/event/curatorial-tour-june-24-2025)

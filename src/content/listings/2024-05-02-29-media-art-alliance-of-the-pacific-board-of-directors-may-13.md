@@ -32,4 +32,4 @@ We welcome new board members to share their experiences and perspective in
 a
 collaborative and welcoming environment. No previous Board experience necessary.
 
-For more information or to apply, visit https://www.maap.ca/join-our-board.
+For more information or to apply, visit [https://www.maap.ca/join-our-board](https://www.maap.ca/join-our-board).

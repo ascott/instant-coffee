@@ -49,4 +49,4 @@ and virtual reality! Immerse yourself in an experience where art comes to life: 
 family or friends, explore our selection of interactive and immersive artworks, and
 (re)discover the power of VR!
 
-Book a time slot here: https://www.alliancefrancaise.ca/v-unframed/en/
+Book a time slot here: [https://www.alliancefrancaise.ca/v-unframed/en/](https://www.alliancefrancaise.ca/v-unframed/en/)

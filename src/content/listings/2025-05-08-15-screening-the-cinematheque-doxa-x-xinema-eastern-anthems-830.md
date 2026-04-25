@@ -14,12 +14,12 @@ Sunday, May 11, 8:30pm
 
 The Cinematheque (1131 Howe St.)
 
-Tickets: https://doxa2025.eventive.org/schedule/67eb71cf42419ce56b58c041
+Tickets: [https://doxa2025.eventive.org/schedule/67eb71cf42419ce56b58c041](https://doxa2025.eventive.org/schedule/67eb71cf42419ce56b58c041)
 
 XINEMA is excited to announce that we will be moderating the post-screening Q&A
 of the BC Premiere of Eastern Anthems, as part of DOXA 2025s paraDOXA series.
 Please join us on Sunday, May 11 for this prelude to Image after stone
-(https://linktr.ee/xinema)
+([https://linktr.ee/xinema](https://linktr.ee/xinema))
 
 Screening:
 

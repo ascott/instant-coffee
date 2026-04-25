@@ -39,8 +39,8 @@ contemporary art and design practices. What a Drag is made possible
 through the support of Cygnus Group, Steamwhistle Brewing, Emily 
 Carr
 University, Canada Council, BC Arts Council and City of Vancouver.
-Become a member http://221a.ca/membership or make a donation 
-http://221a.ca/support today.
+Become a member [http://221a.ca/membership](http://221a.ca/membership) or make a donation 
+[http://221a.ca/support](http://221a.ca/support) today.
 
 221A
 100-221 E Georgia St
@@ -50,4 +50,4 @@ V6A 1Z6
 Office: 604 568 0812
 Fax: 604 608 3899
 hello@221a.ca
-http://221a.ca
+[http://221a.ca](http://221a.ca)

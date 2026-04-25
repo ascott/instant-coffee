@@ -22,12 +22,12 @@ and join in the lively conversations that are sure to arise! Tea will be
 served.
 
 Speakers, in alphabetical order:
-Vanessa Grondin (http://www.vanessagrondin.com/)
-Richard Heikkilä-Sawan (http://www.rhsimagine.com/)
-Julia Dahee Hong (http://www.juliadaheehong.com/)
-Melissa King (http://www.melking.ca/)
+Vanessa Grondin ([http://www.vanessagrondin.com/](http://www.vanessagrondin.com/))
+Richard Heikkilä-Sawan ([http://www.rhsimagine.com/](http://www.rhsimagine.com/))
+Julia Dahee Hong ([http://www.juliadaheehong.com/](http://www.juliadaheehong.com/))
+Melissa King ([http://www.melking.ca/](http://www.melking.ca/))
 Deborah Kisiel
-Bianca Lee (http://www.biancaleeart.com/)
-Julia Mills (http://www.jujumills.com/)
-Emile Rubino (http://emilerubino.com/)
-Laurel Terlesky (http://laurelterlesky.ca/)
+Bianca Lee ([http://www.biancaleeart.com/](http://www.biancaleeart.com/))
+Julia Mills ([http://www.jujumills.com/](http://www.jujumills.com/))
+Emile Rubino ([http://emilerubino.com/](http://emilerubino.com/))
+Laurel Terlesky ([http://laurelterlesky.ca/](http://laurelterlesky.ca/))

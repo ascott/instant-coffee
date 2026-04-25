@@ -40,7 +40,7 @@ This poster gesture is meant to incite listening moments. A simple invitation or
 
 Igor Santizo is a Vancouver based artist and teacher, his is a practice of experiential discovery and experimental communication. He continues to feel keen about Being, Consciousness and Wholeness. 
  
-He recently showed in Lee Henderson's infamous and mobile Attaché gallery. See interview about project at: http://whitehotmagazine.com/whitehot_articles.cfm?id=1261  
+He recently showed in Lee Henderson's infamous and mobile Attaché gallery. See interview about project at: [http://whitehotmagazine.com/whitehot_articles.cfm?id=1261](http://whitehotmagazine.com/whitehot_articles.cfm?id=1261)  
 
 
 

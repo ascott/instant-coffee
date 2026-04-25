@@ -42,4 +42,4 @@ sourced from photographs of everyday materials.
 Join us in celebrating the work of our grads with refreshments at this free event open 
 to the public.
 
-http://www.facebook.com/events/2031481027120352
+[http://www.facebook.com/events/2031481027120352](http://www.facebook.com/events/2031481027120352)

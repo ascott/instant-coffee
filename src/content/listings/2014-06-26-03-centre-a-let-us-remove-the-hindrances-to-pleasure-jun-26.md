@@ -109,7 +109,7 @@ Centre A Highlights the Work of Recent Art School Grads in Upcoming
 
  For more information on how you can support the vagina wallpaper 
  installation project, visit our Indiegogo campaign at 
- https://www.indiegogo.com/projects/vagina-wallpaper-art-installation.
+ [https://www.indiegogo.com/projects/vagina-wallpaper-art-installation](https://www.indiegogo.com/projects/vagina-wallpaper-art-installation).
 
  To arrange an interview with any of the above, or for media requests and 
  further information, please contact:

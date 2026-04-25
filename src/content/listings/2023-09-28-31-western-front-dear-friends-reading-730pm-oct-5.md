@@ -17,11 +17,11 @@ Time:7:30 p.m. (Doors at 7:00 p.m.)
 Location:Grand Luxe Hall, Western Front
 Admission:Free
 Attend In-Person:Register:
-https://westernfront.us1.list-manage.com/track/click?
+[https://westernfront.us1.list-manage.com/track/click](https://westernfront.us1.list-manage.com/track/click)?
 u=95b67aa064ba83de5822da85f&id=645e24df63&e=2634577b18
 
 Livestream:Watch:
-https://westernfront.us1.list-manage.com/track/click?
+[https://westernfront.us1.list-manage.com/track/click](https://westernfront.us1.list-manage.com/track/click)?
 u=95b67aa064ba83de5822da85f&id=b112aa0081&e=2634577b18
 
 A graphic that reads like Ive sd it cld well be Montreale Toronto Pincher Creek

@@ -49,7 +49,7 @@ gallery space.
 
 At this time, we require proof of vaccination at the door in order to attend.
 
-Register here: https://www.eventbrite.ca/e/mindful-movement-workshop-with-krystal-
+Register here: [https://www.eventbrite.ca/e/mindful-movement-workshop-with-krystal-](https://www.eventbrite.ca/e/mindful-movement-workshop-with-krystal-)
 kiran-tickets-264820674767
 
 This program is supported by #RichmondHasHeart.

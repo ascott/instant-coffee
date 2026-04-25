@@ -23,7 +23,7 @@ Sunday, September 27, 2020, 1 pm - 2 pm
 Limited to 20 participants - Free event
 
 Ticket link:
-https://www.eventbrite.ca/e/panel-discussion-on-squamish-language-revival-bc-culture-
+[https://www.eventbrite.ca/e/panel-discussion-on-squamish-language-revival-bc-culture-](https://www.eventbrite.ca/e/panel-discussion-on-squamish-language-revival-bc-culture-)
 days-tickets-119538580111
 Squamish Language Revival -
 BC

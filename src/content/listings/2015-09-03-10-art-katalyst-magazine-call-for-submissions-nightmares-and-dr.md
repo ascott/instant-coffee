@@ -72,8 +72,8 @@ Magazine
 does not offer financial compensation or complimentary print copies.
 
 For more info:
-http://artkatalyst.com
-http://www.facebook.com/ArtKatalyst
-http://www.artkatalyst.com
+[http://artkatalyst.com](http://artkatalyst.com)
+[http://www.facebook.com/ArtKatalyst](http://www.facebook.com/ArtKatalyst)
+[http://www.artkatalyst.com](http://www.artkatalyst.com)
 Twitter: @ArtKatalystMag
 Instagram: @ArtKatalystMag

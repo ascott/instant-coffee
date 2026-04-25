@@ -55,4 +55,4 @@ Laruelle in Felix Ravaisson as the inspiration for his long standing focus on
 immanence offers historical and yet original connections between philosophy,
 abstraction, and art.
 
-More info: https://www.richmondartgallery.org/model-is-the-message-book-launch
+More info: [https://www.richmondartgallery.org/model-is-the-message-book-launch](https://www.richmondartgallery.org/model-is-the-message-book-launch)

@@ -19,7 +19,7 @@ October. Artists are encouraged to consider seasonal change and its impact
 on the Sculpture Court and the work therein. Work must not exceed the load
 capacity of the Sculpture Court. Load criteria and other pertinent
 information can be found at
-http://www.tworiversgallery.ca/experience-art/exhibition-proposals/
+[http://www.tworiversgallery.ca/experience-art/exhibition-proposals/](http://www.tworiversgallery.ca/experience-art/exhibition-proposals/)
 
 The Gallery will pay an artist fee of $1200 and has a budget of up to $800
 to help cover shipping and installation costs. Priority will be given to

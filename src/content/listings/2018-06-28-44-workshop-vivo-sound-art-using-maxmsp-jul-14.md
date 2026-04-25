@@ -10,7 +10,7 @@ summary: "WORKSHOP | VIVO | Sound Art using Max/MSP | JUL 14"
 
 Sound Art using Max/MSP (workshop)
 
-SIGN UP & MORE INFO: https://sound-art-maxmsp.eventbrite.ca
+SIGN UP & MORE INFO: [https://sound-art-maxmsp.eventbrite.ca](https://sound-art-maxmsp.eventbrite.ca)
 
 Explore new ways of working with sound in this introductory visual
 programming workshop with composer and artist Nathan Marsh!

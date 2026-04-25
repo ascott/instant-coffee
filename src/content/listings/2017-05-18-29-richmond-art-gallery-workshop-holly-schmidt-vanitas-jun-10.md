@@ -43,7 +43,7 @@ Learning and Community Engagement at the Contemporary Art Gallery and an
 adjunct instructor at Emily Carr University of Art and Design.
 
 The workshop is free however registration is required at 
-https://www.eventbrite.ca/e/holly-schmidt-vanitas-tickets-34524409438
+[https://www.eventbrite.ca/e/holly-schmidt-vanitas-tickets-34524409438](https://www.eventbrite.ca/e/holly-schmidt-vanitas-tickets-34524409438)
 
 RICHMOND ART GALLERY
 7700 Minoru Gate

@@ -42,9 +42,9 @@ The artist is represented by Macaulay & Co. Fine Art, Vancouver.
 
 This event is co-presented with the Vancouver Art Gallery in the context of its 
 current exhibition, Vancouver Special: Ambivalent Pleasures. 
-http://221a.ca/vancouver-special-ambivalent-pleasures-library-and-public-program
+[http://221a.ca/vancouver-special-ambivalent-pleasures-library-and-public-program](http://221a.ca/vancouver-special-ambivalent-pleasures-library-and-public-program)
 
-http://koyamapress.com/projects/wendys-revenge/
+[http://koyamapress.com/projects/wendys-revenge/](http://koyamapress.com/projects/wendys-revenge/)
 
 221A thanks the British Columbia Arts Council for the support of its public 
 programs this season.

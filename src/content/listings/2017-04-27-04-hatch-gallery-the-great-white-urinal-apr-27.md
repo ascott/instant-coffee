@@ -27,4 +27,4 @@ architectural style.
 
 Curated by Micaela Mae Kwiatkowski
 
-http://capturephotofest.com/exhibitions/the-great-white-urinal/
+[http://capturephotofest.com/exhibitions/the-great-white-urinal/](http://capturephotofest.com/exhibitions/the-great-white-urinal/)

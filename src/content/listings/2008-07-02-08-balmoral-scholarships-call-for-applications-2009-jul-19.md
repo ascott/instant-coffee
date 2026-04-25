@@ -100,5 +100,5 @@ the development potential of the applicant's artistic / theoretical work. Once t
 have been awarded, the members of the selection committee will made public in the press. 
 
 Application:
-You will find detailed information on all scholarships on our homepage http://www.balmoral.de 
+You will find detailed information on all scholarships on our homepage [http://www.balmoral.de](http://www.balmoral.de) 
 where you can download the application forms in PDF format.

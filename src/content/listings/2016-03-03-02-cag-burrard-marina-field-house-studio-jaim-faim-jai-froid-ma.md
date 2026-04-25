@@ -26,7 +26,7 @@ Everyone Welcome!
 Libations by Unique New York Bar Service.
 
 For those interested in taking the stage sign up here:
-http://cagsing.eventzilla.net/
+[http://cagsing.eventzilla.net/](http://cagsing.eventzilla.net/)
 
 Open mic has: a piano, amplification, mics. BYO guitar, harmonica, violin,
 banjo, gutbucket, washboard, etc. if some minor accompaniment is desired,

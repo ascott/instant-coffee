@@ -52,4 +52,4 @@ Gallery scheduled to open on September 11th, 2009 titled Race: Proposals in Trut
 Reconciliation.
 
 For more information contact Davood Sardarizadeh at DADABASE
-http://dadabase.ca/press_crowd.pdf
+[http://dadabase.ca/press_crowd.pdf](http://dadabase.ca/press_crowd.pdf)

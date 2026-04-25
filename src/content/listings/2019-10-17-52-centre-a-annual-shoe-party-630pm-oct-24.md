@@ -10,7 +10,7 @@ summary: "Centre A | Annual Shoe Party! | 6:30PM | OCT 24"
 
 LOVE SHOES? SUPPORT CENTRE A WITH YOUR NEXT PAIR!
 
-https://www.facebook.com/events/1129042173954435/?
+[https://www.facebook.com/events/1129042173954435/](https://www.facebook.com/events/1129042173954435/)?
 active_tab=about
 
 The only thing better than a great party is knowing that youre doing

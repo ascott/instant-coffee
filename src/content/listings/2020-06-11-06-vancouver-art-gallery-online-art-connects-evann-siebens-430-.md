@@ -26,5 +26,5 @@ conflate art history with our present mediated self-isolation.
 
 To register for the event, please visit:
 
-https://zoom.us/we
+[https://zoom.us/we](https://zoom.us/we)
 binar/register/WN_mjQDtKSnTOmK15hyZRaAwQ

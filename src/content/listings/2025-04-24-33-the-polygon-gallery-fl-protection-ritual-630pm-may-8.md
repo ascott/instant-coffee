@@ -20,7 +20,7 @@ Doors at 6:30pm
 Films and performances at 7:00pm
 
 RSVPs are helpful
-RSVP Here: https://thepolygon.ca/event/fulu-protection-ritual/
+RSVP Here: [https://thepolygon.ca/event/fulu-protection-ritual/](https://thepolygon.ca/event/fulu-protection-ritual/)
 
 About the Artists
 Alisi Telengut is a Canadian artist and filmmaker of Mongolian roots. Her work has

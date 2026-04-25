@@ -77,4 +77,4 @@ translating these qualities into a captivating live music performance. The
 duo will create a sonic experience that captures the essence of the immersive
 environments and the transformative power of electronic and techno music.
 
-https://canton-sardine.com/
+[https://canton-sardine.com/](https://canton-sardine.com/)

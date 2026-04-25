@@ -17,7 +17,7 @@ Call for submissions closes on Friday July 6, 2018 at 23:59 EST
 Exhibition Dates: October 18-20, 2018
 
 Submission URL:
-http://www.royalcollege.ca/rcsite/events/icre/exhibits-sponsorship-icre-e
+[http://www.royalcollege.ca/rcsite/events/icre/exhibits-sponsorship-icre-e](http://www.royalcollege.ca/rcsite/events/icre/exhibits-sponsorship-icre-e)
 
 Since 2014, The Royal College of Physicians and Surgeons of Canada has 
 partnered with The Body Electric digital art exhibit, presented annually at the 
@@ -44,8 +44,8 @@ Visual art can be submitted in any medium, but will be represented digitally.
 The Body Electric
 Hours of Operation: 9AM-5PM EST
 Email Address:bodyelectric.corpselectrique@gmail.com
-Exhibition Website:http://www.royalcollege.ca/rcsite/events/icre/exhibits-
+Exhibition Website:[http://www.royalcollege.ca/rcsite/events/icre/exhibits-](http://www.royalcollege.ca/rcsite/events/icre/exhibits-)
 sponsorship-icre-e
-The Body Electric Website:https://thebodyelectric-lecorpselectrique.ca
+The Body Electric Website:[https://thebodyelectric-lecorpselectrique.ca](https://thebodyelectric-lecorpselectrique.ca)
 Twitter:@TBE_ICRE
 Instagram: TBE_ICRE

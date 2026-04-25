@@ -26,9 +26,9 @@ relationship, and within a house that is very hard to keep secrets in.
 Monday, September 15, 2014, 7:30 pm
 1131 Howe St. Vancouver BC
 Tix: $11/9 + $3membership
-dimcinema.ca (http://www.dimcinema.ca) / thecinematheque.ca
-(http://www.thecinematheque.ca)
+dimcinema.ca ([http://www.dimcinema.ca](http://www.dimcinema.ca)) / thecinematheque.ca
+([http://www.thecinematheque.ca](http://www.thecinematheque.ca))
 
 Contact: Michèle Smith, programming@dimcinema.ca
 For updates and more information, visit us on Facebook
-(http://www.facebook.com/dimcinema/)
+([http://www.facebook.com/dimcinema/](http://www.facebook.com/dimcinema/))

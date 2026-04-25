@@ -23,7 +23,7 @@ Richmond Cultural Centre, Performance Hall
 
 FREE
 
-For more information and to register: https://www.richmondartgallery.org/aaw-public-
+For more information and to register: [https://www.richmondartgallery.org/aaw-public-](https://www.richmondartgallery.org/aaw-public-)
 art-budgets
 
 About the Presenter

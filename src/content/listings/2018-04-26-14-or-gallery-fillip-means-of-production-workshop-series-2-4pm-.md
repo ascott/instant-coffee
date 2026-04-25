@@ -30,7 +30,7 @@ in 2016 by Blank Cheque and Cuts of Thin Meat, a book of minimal poems, was
 released by Spare Room in 2015.
 
 RSVP: goo.gl/iLX2qF
-Become a Fillip member: https://goo.gl/LSrCD9
+Become a Fillip member: [https://goo.gl/LSrCD9](https://goo.gl/LSrCD9)
 Facebook event: goo.gl/rhHDWw
 
 FILLIP MEMBERSHIP

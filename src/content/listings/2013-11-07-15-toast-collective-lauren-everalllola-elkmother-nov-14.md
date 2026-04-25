@@ -52,7 +52,7 @@ operate The Toast-an art, event and food-centric space at 648 Kingsway in
 East Vancouver. The Toast is a DIY (or DIT), flexible and community located 
 place for artists, events and workshops.
 
-THE TOAST COLLECTIVE http://thetoast.org/
+THE TOAST COLLECTIVE [http://thetoast.org/](http://thetoast.org/)
 
 lauren everall/lola elkmother : j o i s s a n c e solo show is organized by Clare 
 Asquith and Andrea Creamer: artists, instigators, organizers and co-

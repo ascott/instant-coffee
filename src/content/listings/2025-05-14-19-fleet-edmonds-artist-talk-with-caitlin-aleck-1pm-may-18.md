@@ -37,4 +37,4 @@ British Columbia Arts Council, CMHC-Granville Island, City of Burnaby Public Art
 Program, Metro Vancouver Regional Cultural Projects Grants program, Deux Mille
 Foundation, and Hamber Foundation.
 
-https://www.fleetstudios.org/program/visiting-artist-caitlin-aleck
+[https://www.fleetstudios.org/program/visiting-artist-caitlin-aleck](https://www.fleetstudios.org/program/visiting-artist-caitlin-aleck)

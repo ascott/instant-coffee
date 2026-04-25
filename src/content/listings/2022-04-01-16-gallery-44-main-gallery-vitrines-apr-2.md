@@ -33,4 +33,4 @@ the Curator of Exhibitions and Public Programs, two community members, two Galle
 44 members, and one Gallery 44 Board member. Every submission is considered.
 Together, the EPC creates a shortlist and then decides on the successful applications.
 
-Apply here: https://www.gallery44.org/calls/open-call
+Apply here: [https://www.gallery44.org/calls/open-call](https://www.gallery44.org/calls/open-call)

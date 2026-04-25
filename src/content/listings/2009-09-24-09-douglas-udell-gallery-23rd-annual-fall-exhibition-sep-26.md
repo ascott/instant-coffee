@@ -18,4 +18,4 @@ Douglas Udell Galleries- Edmonton / Vancouver / Calgary
 Vancouver BC V6J 1R2
 p. 604.736.8900
 e. vancouver@douglasudellgallery.com
-http://www.douglasudellgallery.com
+[http://www.douglasudellgallery.com](http://www.douglasudellgallery.com)

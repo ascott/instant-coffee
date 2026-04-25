@@ -59,7 +59,7 @@ Application must include:  
 
 1) A cover letter outlining your experience, interest and relevant skills as they 
 relate to an artist run culture, with specific references to Eastern Edge 
-programming and mandate (http://www.easternedge.ca/)
+programming and mandate ([http://www.easternedge.ca/](http://www.easternedge.ca/))
 
 2) A current CV 
 

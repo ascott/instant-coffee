@@ -12,7 +12,7 @@ Griffin Art Projects
 
 1174 Welch St, North Vancouver, BC V7P 1B2
 
-http://griffinartprojects.ca/
+[http://griffinartprojects.ca/](http://griffinartprojects.ca/)
 
 We invite you to join Griffins curator-in-residence Elham Puriya Mehr and dive into the
 heart of coffeehouse culture by participating in Coffeehouselabs events at Griffin Art
@@ -41,4 +41,4 @@ Sunday, January 28, time TBD (In person at Delanys Coffeehouse, Denman St)
 A Conversation in the Coffeehouse: Haunting the Coffeehouses' Specters in Palestine
 
 Opening Hours: Friday " Sunday, 12:00"5:00pm. Admission is free.
-More info: https://www.griffinartprojects.ca/events
+More info: [https://www.griffinartprojects.ca/events](https://www.griffinartprojects.ca/events)

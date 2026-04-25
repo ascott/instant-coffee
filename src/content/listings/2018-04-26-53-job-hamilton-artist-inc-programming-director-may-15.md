@@ -106,5 +106,5 @@ Please combine all files into a single PDF and email to board@theinc.ca with
 Programming Director Applicant in the subject line by 5pm on May 15, 2018. We will 
 confirm receipt of all applications.
 
-For more information: http://www.theinc.ca/job-opportunity- programming-
+For more information: [http://www.theinc.ca/job-opportunity-](http://www.theinc.ca/job-opportunity-) programming-
 director/

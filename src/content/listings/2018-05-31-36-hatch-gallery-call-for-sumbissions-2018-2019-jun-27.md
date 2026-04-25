@@ -16,7 +16,7 @@ Hatch Gallery is now accepting artistic and curatorial proposals for the
 photography to performance art, will be accepted. While UBC students and
 alumni will be prioritized, submissions are open to all.
 
-To apply: Go to https://www.ams.ubc.ca/nest/art-gallery/, download, and
+To apply: Go to [https://www.ams.ubc.ca/nest/art-gallery/](https://www.ams.ubc.ca/nest/art-gallery/), download, and
 fill out all the pages of the application pdf on The Hatch website, and
 email it along with all other relevant materials (photographs and CV) to
 the hatch@ams.ubc.ca. Questions and inquiries may also be sent to the

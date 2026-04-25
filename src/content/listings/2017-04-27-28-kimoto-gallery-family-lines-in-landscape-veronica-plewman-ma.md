@@ -17,7 +17,7 @@ Artist Talk: Saturday, May 13 from 1pm. Artist in attendance.
 Venue: KIMOTO GALLERY, 1525 W. 6th Avenue, Vancouver
 Gallery Hours: Tues. Wed. Thurs. & Sat. 10am " 6pm / Fri. 12pm-5pm / Sun. & Mon. by 
 appointment only
-Info: http://kimotogallery.com/familylines
+Info: [http://kimotogallery.com/familylines](http://kimotogallery.com/familylines)
 
 Vancouver, BC, For immediate release - In Family Lines in Landscape, Veronica 
 Plewman examines the unknown parts and mysteries of our family history. The pieces of 

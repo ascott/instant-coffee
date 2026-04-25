@@ -11,7 +11,7 @@ summary: "VIVO Media Arts Centre | CROCK POT HOT DOG: WL Karaoke | 7PM-2AM | JUL
 CROCK POT HOT DOG: Weekend Leisure Karaoke Fundraiser for VIVO
 
 Help us prepare by clicking GOING on this FB event: 
-https://www.facebook.com/events/434904580306338
+[https://www.facebook.com/events/434904580306338](https://www.facebook.com/events/434904580306338)
 
 Entrance by donation (suggested $10, but no one turned away for lack of funds)
 

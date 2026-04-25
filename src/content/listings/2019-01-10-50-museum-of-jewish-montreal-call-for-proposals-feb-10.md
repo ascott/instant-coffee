@@ -14,7 +14,7 @@ proposed exhibition projects for the Museums 2019-2020 exhibition series inside/
 Deadline: February 10, 2019 at 11:59pm (Montreal time/Eastern Time Zone)
 
 Application Guidelines: 
-http://museemontrealjuif.ca/2018/12/19/call-for-exhibition-proposals/
+[http://museemontrealjuif.ca/2018/12/19/call-for-exhibition-proposals/](http://museemontrealjuif.ca/2018/12/19/call-for-exhibition-proposals/)
 
 About the museum
 

@@ -23,4 +23,4 @@ Elliott Louis Gallery
 Vancouver, BC V5T 1A6
 
 
-http://www.elliottlouis.com
+[http://www.elliottlouis.com](http://www.elliottlouis.com)

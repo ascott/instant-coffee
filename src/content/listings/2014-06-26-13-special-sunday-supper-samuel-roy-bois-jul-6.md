@@ -57,7 +57,7 @@ Special Sunday Supper featuring Samuel Roy-Bois July 6
  This event was made possible with the support of the Neighborhood 
  Small Grants and the City of Vancouver.
 
- http://samuelroybois.com/
+ [http://samuelroybois.com/](http://samuelroybois.com/)
 
  specialsundaysupper.tumblr.com
 

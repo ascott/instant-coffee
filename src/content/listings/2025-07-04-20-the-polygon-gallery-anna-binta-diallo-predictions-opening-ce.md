@@ -12,7 +12,7 @@ Join The Polygon Gallery on Thursday, July 10 for the Anna Binta Diallo: Predict
 Opening Celebration
 Reception starts at 7:30pm
 Remarks at 8:00pm
-RSVP Here: https://thepolygon.ca/event/anna-binta-diallo-predictions-opening-
+RSVP Here: [https://thepolygon.ca/event/anna-binta-diallo-predictions-opening-](https://thepolygon.ca/event/anna-binta-diallo-predictions-opening-)
 celebration/
 Anna Binta Diallo: Predictions is on view in the ground floor gallery July 10 "
 November 9.
@@ -55,4 +55,4 @@ Doors at 5:30pm
 
 Conversation at 6:00pm
 Learn more about the participants and RSVP here:
-https://thepolygon.ca/event/international-curators-forum-public-conversation/
+[https://thepolygon.ca/event/international-curators-forum-public-conversation/](https://thepolygon.ca/event/international-curators-forum-public-conversation/)

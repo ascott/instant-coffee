@@ -24,7 +24,7 @@ Current Workshops:
 * Introduction to Processing (August 15th, 12PM)
 * Introduction to Arduino (August 22th, 12PM)
 
-For more information please visit http://www.hubcentre.org/workshops/
+For more information please visit [http://www.hubcentre.org/workshops/](http://www.hubcentre.org/workshops/)
 
 About HUB: Centre for Art & Technology
 
@@ -34,5 +34,5 @@ information technologies. Built around the principles of the Open Source
 movement, HUB aims to create a collaborative, interdisciplinary
 environment that provides
 free and open access to current and emerging technologies. To learn more,
-please visit http://www.hubcentre.org/
-http://http://www.hubcentre.org/workshops/
+please visit [http://www.hubcentre.org/](http://www.hubcentre.org/)
+[http://http://www.hubcentre.org/workshops/](http://http://www.hubcentre.org/workshops/)

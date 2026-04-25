@@ -34,7 +34,7 @@ reside in the City of Vancouver and who have either an established body of work
 or have been recognized for notable contributions early in their career.
 
 For complete criteria and terms of reference, please go to: 
-http://vancouver.ca/commsvcs/cultural/gasp/awards/poet/geninfo.htm
+[http://vancouver.ca/commsvcs/cultural/gasp/awards/poet/geninfo.htm](http://vancouver.ca/commsvcs/cultural/gasp/awards/poet/geninfo.htm)
 
 Deadline for expressions of interest - August 26, 2011
 

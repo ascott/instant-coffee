@@ -30,4 +30,4 @@ V8W 1E6
 
 V 250-383-8833
 E openspace@openspace.ca
-W http://www.openspace.ca/web/
+W [http://www.openspace.ca/web/](http://www.openspace.ca/web/)

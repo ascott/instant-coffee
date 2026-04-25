@@ -45,8 +45,8 @@ a Mountain Landscape (Reprise) with Silke Otto-Knapp at the Banff Center in
 Yactac Gallery
 7206 Ontario Street (@ E 56th) 
 Vancouver BC V5X 3B7
-http://www.yactac.com/
+[http://www.yactac.com/](http://www.yactac.com/)
 
 E: yactacgallery@gmail.com
-T: http://www.twitter.com/yactac
-F: http://www.facebook.com/pages/Yactac/219495644734594
+T: [http://www.twitter.com/yactac](http://www.twitter.com/yactac)
+F: [http://www.facebook.com/pages/Yactac/219495644734594](http://www.facebook.com/pages/Yactac/219495644734594)

@@ -19,4 +19,4 @@ This event will be live captioned (CART). For more information please contact
 learning@contemporaryartgallery.ca
 
 Register here:
-https://us02web.zoom.us/webinar/register/WN_GkolCT-URL-8kTHeMvWi8A
+[https://us02web.zoom.us/webinar/register/WN_GkolCT-URL-8kTHeMvWi8A](https://us02web.zoom.us/webinar/register/WN_GkolCT-URL-8kTHeMvWi8A)

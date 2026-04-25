@@ -54,5 +54,5 @@ counter-culture artists that set out to destroy the mainstream through
 controversial and intensely visceral design work."
 - COMMUNICATION ARTS
 
-http://www.diedyoungstayedpretty.com/
-http://www.yaghoobian.com/
+[http://www.diedyoungstayedpretty.com/](http://www.diedyoungstayedpretty.com/)
+[http://www.yaghoobian.com/](http://www.yaghoobian.com/)

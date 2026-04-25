@@ -11,7 +11,7 @@ summary: "Western Front | Thought, Outside | NOV 12"
 November 12 - December 19, 2020
 Western Front, 303 E. 8th Ave, Vancouver, Wed-Sat 1-5 PM
 Curated by Amy Kazymerchyk
-https://front.bc.ca/events/thought-outside/
+[https://front.bc.ca/events/thought-outside/](https://front.bc.ca/events/thought-outside/)
 
 Thought, outside is composed with an eye to how each artwork thinks the
 phenomenon of the outside. This concept is variably expressed as the condition of

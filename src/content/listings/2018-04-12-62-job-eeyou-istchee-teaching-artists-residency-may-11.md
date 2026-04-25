@@ -21,4 +21,4 @@ Experience teaching is an asset but not a requirement. The program mostly takes 
 in English.
 
 MORE ABOUT THE PROGRAM AND APPLICATION:
-http://mikwchiyam.com/artist-residency/
+[http://mikwchiyam.com/artist-residency/](http://mikwchiyam.com/artist-residency/)

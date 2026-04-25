@@ -28,7 +28,7 @@ studio to assist residents.
 Interested artists may apply to live and work at Spark Box from one 
 weekend to 2 months.
 
-To learn more please visit our website http://www.sparkboxstudio.com/ 
+To learn more please visit our website [http://www.sparkboxstudio.com/](http://www.sparkboxstudio.com/) 
 and search under our Programs page for Artist Residency.
 
 E-mail: info@sparkboxstudio.com

@@ -19,6 +19,6 @@ Show: 9:00pm
 
 $10 online
 $15 at the door
-https://www.facebook.com/events/218779805973925/
+[https://www.facebook.com/events/218779805973925/](https://www.facebook.com/events/218779805973925/)
 
 For accessibility information and general inquiries, email info@unitpitt.ca

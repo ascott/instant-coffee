@@ -15,7 +15,7 @@ from 6-9pm. Afterwards the show can be viewed by appointment and on select weeke
 days, to be announced on Instagram @hubes1000. You can also contact Steve at
 stevenmhubert@gmail.com or @hubes1000 to arrange for a tour!
 
-Also: please consider joining the people mailing list at https://peopleyvr.blogspot.com "the
+Also: please consider joining the people mailing list at [https://peopleyvr.blogspot.com](https://peopleyvr.blogspot.com) "the
 contact link is now working!
 
 people

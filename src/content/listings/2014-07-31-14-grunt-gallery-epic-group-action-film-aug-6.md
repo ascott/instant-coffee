@@ -72,7 +72,7 @@ internationales du documentaire (Montréal, CA, 2013). Épopée has also
 brought its work to universities and collectives in Europe, the US, Canada
 and Québec.
 
-www.epopee.mehttp://grunt.ca/exhibitions/epopee-letat-des-lieux/
+www.epopee.me[http://grunt.ca/exhibitions/epopee-letat-des-lieux/](http://grunt.ca/exhibitions/epopee-letat-des-lieux/)
 
 grunt gallery
 116 - 350 E 2nd Ave, Vancouver, BC V5T 4R8

@@ -36,4 +36,4 @@ artists Elvo Axt, Barry Doup and Dennis Ha, Russell Gordon, Reed Jackson, Clark
 Nikolai, and Chris Zhongtian Yuan.
 
 Learn more here:
-https://centrea.org/exhibitions/current/
+[https://centrea.org/exhibitions/current/](https://centrea.org/exhibitions/current/)

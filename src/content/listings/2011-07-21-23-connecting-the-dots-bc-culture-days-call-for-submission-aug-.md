@@ -33,7 +33,7 @@ Culture Days is a collaborative pan-Canadian volunteer movement to raise the
 awareness, accessibility, participation and engagement by all Canadians in the 
 arts and cultural life of their communities.
 
-For more information visit : http://www.culturedays.ca
+For more information visit : [http://www.culturedays.ca](http://www.culturedays.ca)
 
 About Five Sixty:
 

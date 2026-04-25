@@ -18,11 +18,11 @@ articles on Booooooom.com.
 
 Submissions are open now until October 26, 2020.
 
-Learn more about the open call: https://www.booooooom.com/2020/09/21/booooooom-
+Learn more about the open call: [https://www.booooooom.com/2020/09/21/booooooom-](https://www.booooooom.com/2020/09/21/booooooom-)
 capturefestival-opencall/
 
 Capture and Booooooom members submit for free. Become a Capture member here and
-receive the members submission link: https://capturephotofest.com/product/membership/
+receive the members submission link: [https://capturephotofest.com/product/membership/](https://capturephotofest.com/product/membership/)
 
-Non-members can apply here: https://booooooom.submittable.com/submit/45b54150-0be3-
+Non-members can apply here: [https://booooooom.submittable.com/submit/45b54150-0be3-](https://booooooom.submittable.com/submit/45b54150-0be3-)
 4d33-bed7-ae21d545fa32/booooooom-x-capture-2021-public-art-open-call-non-members

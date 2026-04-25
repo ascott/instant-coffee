@@ -19,7 +19,7 @@ For Immediate Release
 Media Contact: Kara Gibbs | vandrawdown@gmail.com | 604.644.6985 
 | www.vancouverdrawdown.com
 Online Press Kit with High Resolution Media Images: 
-http://www.vancouverdrawdown.com/2012-press-kit.html
+[http://www.vancouverdrawdown.com/2012-press-kit.html](http://www.vancouverdrawdown.com/2012-press-kit.html)
 
 VANCOUVER DRAW DOWN
 Saturday June 9, 2012
@@ -138,4 +138,4 @@ It's time to spark the right side of your brain and connect with the innovative 
 Media Contact: Kara Gibbs | vandrawdown@gmail.com | 604.644.6985 
 | www.vancouverdrawdown.com
 Online Press Kit with High Resolution Media Images: 
-http://www.vancouverdrawdown.com/2012-press-kit.html
+[http://www.vancouverdrawdown.com/2012-press-kit.html](http://www.vancouverdrawdown.com/2012-press-kit.html)

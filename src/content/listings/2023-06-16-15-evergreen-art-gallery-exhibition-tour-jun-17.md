@@ -22,4 +22,4 @@ This exhibition features the work of Jonathan Alfaro, Katherine Boyer, Roxanne C
 Emily Hermant, Damla Tamer and Valrie d. Walker.
 
 "Transmissions" is on view at Art Gallery at Evergreen from May 13"July 23, 2023. Visit
-our website for more information: https://evergreenculturalcentre.ca/exhibit/
+our website for more information: [https://evergreenculturalcentre.ca/exhibit/](https://evergreenculturalcentre.ca/exhibit/)

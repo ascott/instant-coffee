@@ -27,4 +27,4 @@ Time: 5:30 PM
 Location: Lasserre, 6333 Memorial Road, UBC 
 
 For details, see: 
-http://ahva.ubc.ca/eventsCurrentJCI.cfm
+[http://ahva.ubc.ca/eventsCurrentJCI.cfm](http://ahva.ubc.ca/eventsCurrentJCI.cfm)

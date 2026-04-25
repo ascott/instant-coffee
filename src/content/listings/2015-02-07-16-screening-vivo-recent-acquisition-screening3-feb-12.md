@@ -22,10 +22,10 @@ Tess Martin, Judy Jheung, Steven Heath, Elijah Hasan, Francesca Fini,
 Con.Tatto (Francesca Leoni & Davide Mastrangelo).
 
 Please visit HERE for work synopses and artist bios:
-http://www.vivomediaarts.com/recent-acquisitions-screening-3
+[http://www.vivomediaarts.com/recent-acquisitions-screening-3](http://www.vivomediaarts.com/recent-acquisitions-screening-3)
 
 Read conversations with the featured artists:
-http://www.vivomediaarts.com/category/conversations-with-distributed-artist-producers
+[http://www.vivomediaarts.com/category/conversations-with-distributed-artist-producers](http://www.vivomediaarts.com/category/conversations-with-distributed-artist-producers)
 
 Screening Order, Running Times & Accession Numbers:
 Doors at 7:30pm

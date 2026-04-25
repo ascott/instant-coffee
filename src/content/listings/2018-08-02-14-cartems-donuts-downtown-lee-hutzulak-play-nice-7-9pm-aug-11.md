@@ -28,7 +28,7 @@ around a singular subject matter: human relationships. In 2011 he became a fathe
 again in 2015, shifting his focus to other pursuits. Recently his energy and interest in 
 painting has returned with a renewed vigour and intensity.
 
-https://leehutzulak.com/
+[https://leehutzulak.com/](https://leehutzulak.com/)
 
 Cartems Exhibition Series is a bi-monthly art show at our downtown location. The 
 

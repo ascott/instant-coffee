@@ -15,11 +15,11 @@ Saturday, August 22nd, 1 PM
 Griffin Art Projects
 www.griffinartprojects.ca
 
-http://griffinartprojects.ca/events/2020/open-studio-taryn-sheppard/
+[http://griffinartprojects.ca/events/2020/open-studio-taryn-sheppard/](http://griffinartprojects.ca/events/2020/open-studio-taryn-sheppard/)
 
 Taryn Sheppard will be presenting a live artist talk online, over Zoom. To register, 
 please visit, 
-https://zoom.us/meeting/register/tJEoduGvrz0sE9RnZzibl3ERfEA9Txe0Sai7
+[https://zoom.us/meeting/register/tJEoduGvrz0sE9RnZzibl3ERfEA9Txe0Sai7](https://zoom.us/meeting/register/tJEoduGvrz0sE9RnZzibl3ERfEA9Txe0Sai7)
 
 Taryn Sheppard is a Vancouver-based artist and architect. She is a graduate of 
 the University of Toronto (Master in Architecture, 10) and Nova Scotia College of 

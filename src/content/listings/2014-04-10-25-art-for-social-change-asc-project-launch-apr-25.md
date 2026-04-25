@@ -13,8 +13,8 @@ summary: "Art for Social Change (ASC!) | Project Launch | APR 25"
 When: 8 pm to 11pm, Friday, April 25, 2014
 Where: The Dance Centre, 677 Davie Street, Vancouver
 Cost: FREE
-REGISTER FOR TICKETS: http://asclaunchparty.eventbrite.ca/
-RSVP on Facebook: http://ow.ly/utL1W
+REGISTER FOR TICKETS: [http://asclaunchparty.eventbrite.ca/](http://asclaunchparty.eventbrite.ca/)
+RSVP on Facebook: [http://ow.ly/utL1W](http://ow.ly/utL1W)
 
 The ASC! (Art for Social Change!) Project is a five-year national research 
 initiative led by renowned artist and practitioner Judith Marcuse and the first 
@@ -34,5 +34,5 @@ and the wellbeing of seniors in our communities. All events are free!
 
 Opening Reception: Thursday, May 29, 6 pm to 9 pm
 Location: PAL Vancouver Studio Theatre, 581 Cardero Street,Vancouver, BC
-Please RSVP for the opening reception at http://agewell-opening.eventbrite.ca
+Please RSVP for the opening reception at [http://agewell-opening.eventbrite.ca](http://agewell-opening.eventbrite.ca)
 More details about Agewell here: icasc.ca/agewell

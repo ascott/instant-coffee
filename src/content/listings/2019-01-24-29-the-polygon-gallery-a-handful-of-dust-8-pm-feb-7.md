@@ -18,7 +18,7 @@ Walker Evans, Mona Kuhn, Man Ray, Gerhard Richter, Sophie Ristelhueber, Aaron
 Siskind, Shomei Tomatsu, Jeff Wall, and Nick Waplington alongside magazine spreads, 
 press photos, postcards, and film clips.
 
-https://thepolygon.ca/event/a-handful-of-dust-opening-events/
+[https://thepolygon.ca/event/a-handful-of-dust-opening-events/](https://thepolygon.ca/event/a-handful-of-dust-opening-events/)
 
 EVENT: a Handful of Dust: Lecture with David Campany | 7 " 9pm | February 9
 
@@ -31,7 +31,7 @@ Royal Photographic Societys award for writing. Campany is co-founder and co-edit
 PA Magazine, which has been published since 2008. He teaches photographic theory 
 and practice at the University of Westminster.
 
-https://thepolygon.ca/event/a-handful-of-dust-lecture-with-david-campany/ 
+[https://thepolygon.ca/event/a-handful-of-dust-lecture-with-david-campany/](https://thepolygon.ca/event/a-handful-of-dust-lecture-with-david-campany/) 
 
 thepolygon.ca
 

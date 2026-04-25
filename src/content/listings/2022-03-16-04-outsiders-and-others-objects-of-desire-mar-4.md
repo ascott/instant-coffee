@@ -48,5 +48,5 @@ been creating her lighter protectors for around a
 decade now. Along with the common therapeutic effects of art making, Kenton also
 noticed the repetitive, detailed work helped soothe her chronic vertigo.
 
-Visit https://www.outsidersandothers.com/objects-of-desire to view the exhibition
+Visit [https://www.outsidersandothers.com/objects-of-desire](https://www.outsidersandothers.com/objects-of-desire) to view the exhibition
 online.

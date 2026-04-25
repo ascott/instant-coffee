@@ -24,4 +24,4 @@ Crafted from merino wool, silk, and cotton, Burnss work is a beautiful blend of 
 spirituality.
 
 Webpage:
-http://https://craftcouncilbc.ca/curious-about-joy/
+[http://https://craftcouncilbc.ca/curious-about-joy/](http://https://craftcouncilbc.ca/curious-about-joy/)

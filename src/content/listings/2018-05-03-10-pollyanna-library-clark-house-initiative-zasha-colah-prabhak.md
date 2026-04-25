@@ -29,4 +29,4 @@ Anti-Racism, Sexual Freedom, Anti-Homophobia, Anti-Islamophobia, Feminism,
 Secularism and understanding the project of Modernism as an economic and
 political reality outside the occident.
 
-http://polly-anna.ca/activity/clark-house-initiative-a-talk-with-zasha-colah-prabhakar-kamble
+[http://polly-anna.ca/activity/clark-house-initiative-a-talk-with-zasha-colah-prabhakar-kamble](http://polly-anna.ca/activity/clark-house-initiative-a-talk-with-zasha-colah-prabhakar-kamble)

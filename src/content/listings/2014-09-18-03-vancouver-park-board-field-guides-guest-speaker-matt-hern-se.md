@@ -23,7 +23,7 @@ Roundhouse Exhibition Hall
 Field Guides marks the culmination of the first cycle of the Vancouver Parks Boards Artists Fieldhouse Studio Program an initative that transformed former care-takers cottages in parks across Vancouver into studio space for artists with community engaged practices. Over 50 artists (solo and in collectives) in all disciplines have been working in 12 fieldhouses across Vancouver, bringing art into the everyday life of
 community, by inviting neighbours, colleagues and curious visitors to share in creative work. Field Guides celebrates this three year collaboration highlighting the intimate, generous and adventurous work of artists and community members working together as producers, practitioners
 and audience.
-http://vancouver.ca/parks-recreation-culture/field-house-studio-residencies-in-parks.aspx
+[http://vancouver.ca/parks-recreation-culture/field-house-studio-residencies-in-parks.aspx](http://vancouver.ca/parks-recreation-culture/field-house-studio-residencies-in-parks.aspx)
 
 Guest Speaker: Matt Hern
 

@@ -25,4 +25,4 @@ their significant contributions to intersectional conversations around social an
 environmental justice"through place-based installation and design in contemporary art,
 architecture, and community planning.
 
-https://orgallery.org/exhibitions-projects/sustaining-apertures/
+[https://orgallery.org/exhibitions-projects/sustaining-apertures/](https://orgallery.org/exhibitions-projects/sustaining-apertures/)

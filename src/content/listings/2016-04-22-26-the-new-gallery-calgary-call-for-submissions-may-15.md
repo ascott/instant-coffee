@@ -31,4 +31,4 @@ offered a fee of $439 to show their work (commensurate with 2016
 CARFAC Fee Schedule - A.1.6), and a modest budget for shipping 
 costs, negotiated on a case-by-case basis.
 
-http://www.thenewgallery.org/submit/15window/
+[http://www.thenewgallery.org/submit/15window/](http://www.thenewgallery.org/submit/15window/)

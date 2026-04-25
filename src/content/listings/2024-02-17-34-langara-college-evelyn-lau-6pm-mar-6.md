@@ -24,4 +24,4 @@ This event is open to the community but there is limited capacity. Please RSVP b
 to secure your place. Both Evelyn and Jen's books will be available to purchase and
 folks will have an opportunity to have them signed.
 
-https://langara.ca/news-and-events/events-calendar/240306-Evelyn-Lau-lecture.html
+[https://langara.ca/news-and-events/events-calendar/240306-Evelyn-Lau-lecture.html](https://langara.ca/news-and-events/events-calendar/240306-Evelyn-Lau-lecture.html)

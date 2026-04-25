@@ -65,4 +65,4 @@ VIVO Media Arts Centre
 Vancouver BC
 604-872-8337
 --
-<http://vivomediaarts.com/>
+<[http://vivomediaarts.com/](http://vivomediaarts.com/)>

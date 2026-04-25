@@ -22,7 +22,7 @@ dialogue into their finished masterpiece!
 All films will be eligible for cash and industry prizes, and will be 
 screened as part of the Golden Goat Awards.
 
-Space is limited, so log on to http://maplewoodfarm.bc.ca/filmcontest/ 
+Space is limited, so log on to [http://maplewoodfarm.bc.ca/filmcontest/](http://maplewoodfarm.bc.ca/filmcontest/) 
 for more information, and to register now. Join the Film On The Farm 
 48 Hour Contest, and be outstanding in your field!
 

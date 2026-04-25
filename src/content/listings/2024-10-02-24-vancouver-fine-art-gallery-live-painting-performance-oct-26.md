@@ -14,5 +14,5 @@ October 26, 2024 between 1-4 PM at the gallery located at 2233 Granville Street 
 Vancouver.
 
 This is a free event and free tickets are available through Eventbrite through this link:
-https://www.eventbrite.ca/e/you-are-invited-to-meet-the-dynamic-abstract-artist-david-
+[https://www.eventbrite.ca/e/you-are-invited-to-meet-the-dynamic-abstract-artist-david-](https://www.eventbrite.ca/e/you-are-invited-to-meet-the-dynamic-abstract-artist-david-)
 hovan-tickets-1032146496957?aff=oddtdtcreator

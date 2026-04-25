@@ -17,7 +17,7 @@ Paneficio Gallery.
 March 7 noon to five
 to benefit www.outsidersandothers.com
 It will also be on the gallery instagram
-https://www.instagram.com/paneficiogallery if you want to
+[https://www.instagram.com/paneficiogallery](https://www.instagram.com/paneficiogallery) if you want to
 pick a piece and tell her which tag to choose.
 Vancouver area only please.
 It will be a lot of fun and there is something for everyone...

@@ -34,4 +34,4 @@ week.*
 Contact: lisa@lesgallery.ca
 778.370.1999
 
-http://www.lesgallery.ca
+[http://www.lesgallery.ca](http://www.lesgallery.ca)

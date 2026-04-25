@@ -11,7 +11,7 @@ summary: "VIVO | WORKSHOP | Mentorship: Queer Happenings (Free, for teens) | SEP
 Queer Happenings
 
 More info & sign up:
-https://vivomediaarts.com/queer-happenings
+[https://vivomediaarts.com/queer-happenings](https://vivomediaarts.com/queer-happenings)
 
 Application closes
 Sept 27, 2020.
@@ -28,7 +28,7 @@ sessions, 2 hours each.
 
 Explore VIVO's newly released Every Queer Thing collection, created by archivist Sophie
 Roberge. More info about the collection here:
-http://www.vivomediaarts.com/archive/every-queer-thing
+[http://www.vivomediaarts.com/archive/every-queer-thing](http://www.vivomediaarts.com/archive/every-queer-thing)
 
 With Alysha Seriani's help, you'll work individually or with a partner to create a new work
 using media from the collection including video, audio, photo, and text.
@@ -56,5 +56,5 @@ their editing, and provide insight to all viewers on the editing and publishing
 process. The live stream event will take place on November 4, 2020.
 
 To submit please visit:
-http://www.cacv.ca/stage-to-page/
+[http://www.cacv.ca/stage-to-page/](http://www.cacv.ca/stage-to-page/)
 Submission deadline: Thursday, October 1, 2020

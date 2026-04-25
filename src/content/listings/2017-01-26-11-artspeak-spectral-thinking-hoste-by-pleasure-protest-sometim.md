@@ -19,4 +19,4 @@ thinking together.
 
 You can access the reading at
 
-http://https://www.academia.edu/3570271/A_glossary_of_hau
+[http://https://www.academia.edu/3570271/A_glossary_of_hau](http://https://www.academia.edu/3570271/A_glossary_of_hau)

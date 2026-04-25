@@ -32,4 +32,4 @@ waterfront landmark on Vancouver's North Shore, Polygon offers a unique space to
 discover contemporary visual art, particularly photography.
 
 REGISTER HERE:
-https://www.alliancefrancaise.ca/community/event-rsvp/?event_id=812
+[https://www.alliancefrancaise.ca/community/event-rsvp/?event_id=812](https://www.alliancefrancaise.ca/community/event-rsvp/?event_id=812)

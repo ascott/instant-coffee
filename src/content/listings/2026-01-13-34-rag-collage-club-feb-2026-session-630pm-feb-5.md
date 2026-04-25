@@ -12,7 +12,7 @@ Richmond Art Gallery Collage Club: Feb 2026 Session
 Thursday, February 5, 2026
 6:30 PM - 8:30 PM
 
-Tickets: https://www.eventbrite.ca/e/rag-collage-club-feb-2026-session-tickets-
+Tickets: [https://www.eventbrite.ca/e/rag-collage-club-feb-2026-session-tickets-](https://www.eventbrite.ca/e/rag-collage-club-feb-2026-session-tickets-)
 1980223694376
 
 Looking for a fun, inspiring night out? Join our Collage Club for Adults-a relaxed, social
@@ -46,5 +46,5 @@ social. RAG staff will open their vast collection of cool collage materials and 
 hands-on art-making night for adults. This is a relaxed environment to provide judgement-
 free hands-on art-making time.
 
-More info: www.richmondartgallery.org or https://www.eventbrite.ca/e/rag-collage-club-feb-
+More info: www.richmondartgallery.org or [https://www.eventbrite.ca/e/rag-collage-club-feb-](https://www.eventbrite.ca/e/rag-collage-club-feb-)
 2026-session-tickets-1980223694376?aff=oddtdtcreator

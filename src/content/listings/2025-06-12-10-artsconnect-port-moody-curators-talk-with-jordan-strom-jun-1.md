@@ -45,7 +45,7 @@ presentations have included talks by Dr. Tatiana Mellema in Port Coquitlam in Ap
 2025 and Tasha Faye Evans in Coquitlam in May 2025.
 For more information go to:
 
-https://artsconnect.ing/artscalendar/public-art-in-public-space-public-talk-with-jordan-
+[https://artsconnect.ing/artscalendar/public-art-in-public-space-public-talk-with-jordan-](https://artsconnect.ing/artscalendar/public-art-in-public-space-public-talk-with-jordan-)
 strom/
 
 ArtsConnect gratefully acknowledges the support of the PoCo Foundation and the

@@ -58,7 +58,7 @@ successful project coordination including working in the non-profit sector
 written and oral).
 
 Visit
-http://www.grunt.ca
+[http://www.grunt.ca](http://www.grunt.ca)
 to learn more about grunt gallery.
 
 Salary - 20 hours per week; $20,000

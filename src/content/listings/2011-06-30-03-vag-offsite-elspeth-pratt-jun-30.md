@@ -8,4 +8,4 @@ venue: "VAG"
 summary: "VAG | Offsite: Elspeth Pratt | JUN 30"
 ---
 
-http://www.vanartgallery.bc.ca/pdfs/Offsite_Pratt_Evite.pdf
+[http://www.vanartgallery.bc.ca/pdfs/Offsite_Pratt_Evite.pdf](http://www.vanartgallery.bc.ca/pdfs/Offsite_Pratt_Evite.pdf)

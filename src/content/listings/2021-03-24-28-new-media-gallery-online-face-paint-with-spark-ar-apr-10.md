@@ -17,7 +17,7 @@ modeling and animation. Masks play a special role in cultures across the world. 
 a look at them, get inspired, create our own and share it on Instagram.
 
 Requirements: A computer and a smartphone/tablet. Download Spark AR before the class
-on a computer. https://sparkar.facebook.com/ar-studio/download
+on a computer. [https://sparkar.facebook.com/ar-studio/download](https://sparkar.facebook.com/ar-studio/download)
 
 Ages 16+
 
@@ -25,7 +25,7 @@ Saturdays, Apr 10 + 17
 
 11:30am - 12:00pm
 
-https://bit.ly/2NcT9FA
+[https://bit.ly/2NcT9FA](https://bit.ly/2NcT9FA)
 
 Virtual - Zoom
 

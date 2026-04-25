@@ -18,4 +18,4 @@ Room 106 – The Waldorf Hotel
 1489 East Hastings, Vancouver, BC
 
 Curated by Jessica Delorme
-http://blackandyellow.ca/
+[http://blackandyellow.ca/](http://blackandyellow.ca/)

@@ -11,7 +11,7 @@ summary: "KAPSULA Magazine | Call for Applications: Archival Research Residency 
 Call for Applications: Archival Research Residency (KAPSULA Magazine + Artexte)
 Deadline: Midnight, 22 January 2018 (EST)
 
-KAPSULA Magazine (http://kapsula.ca) and Artexte (http://artexte.ca) have 
+KAPSULA Magazine ([http://kapsula.ca](http://kapsula.ca)) and Artexte ([http://artexte.ca](http://artexte.ca)) have 
 partnered to offer a research residency at Artextes documentation centre in 
 Montreal, Quebec to a select applicant in May 2018. The residency provides an 
 opportunity for an emerging scholar, artist or writer working within Canada to 
@@ -21,7 +21,7 @@ present. The outcomes of the research residency will be published in a special i
 of KAPSULA in fall 2018.
 
 We ask that applicants consider expanded notions of the bibliography in relation to 
-Artextes collection (http://e-artexte.ca/) to formulate their research project. 
+Artextes collection ([http://e-artexte.ca/](http://e-artexte.ca/)) to formulate their research project. 
 Applicants should indicate an interest in digital publishing tools and relate this to 
 their research project or question. How can the structure and interface of the digital 
 perform bibliographically? It is not required that applicants have expertise or 
@@ -46,7 +46,7 @@ Use of Artextes kitchen and conference room;
 Editorial and production support from KAPSULA
 
 For the full call and details on how to submit please visit the submissions page 
-[http://kapsula.ca/submit#calls] on KAPSULAs website. The deadline for 
+[[http://kapsula.ca/submit#calls](http://kapsula.ca/submit#calls)] on KAPSULAs website. The deadline for 
 submissions is 11:59 PM EST on January 22, 2018.
 
 KAPSULA is a network-driven publication dedicated to engaged, evaluative art 

@@ -47,6 +47,6 @@ within the versatile medium of self-publishing. Print Ready is a non-profit proj
 hosts book and zine launches, in addition to large group exhibitions. Our office is 
 located in Vancouver at Dynamo Arts Association.
 
-https://www.facebook.com/events/1637410546347376/
+[https://www.facebook.com/events/1637410546347376/](https://www.facebook.com/events/1637410546347376/)
 
 printreadyevents.com

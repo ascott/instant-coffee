@@ -19,13 +19,13 @@ Time: 7 pm
 
 Venue: ANNEX, 823 Seymour St, Vancouver, BC V6B 3L4
 
-Tickets: https://www.showpass.com/art-of-craft/ onsale September 26, 2023
+Tickets: [https://www.showpass.com/art-of-craft/](https://www.showpass.com/art-of-craft/) onsale September 26, 2023
 
 CCBC Social: @craftcouncilbc (Instagram, Facebook, Twitter/X, TikTok)
 
 Hashtags: #contemporarycraft #artofcraft2023 #artofcraft
 
-CCBC info webpage: https://craftcouncilbc.ca/artofcraft
+CCBC info webpage: [https://craftcouncilbc.ca/artofcraft](https://craftcouncilbc.ca/artofcraft)
 
 Events description:
 

@@ -38,6 +38,6 @@ The 30-minute tours will be held on Wednesdays at 4:00 PM and 6:00 PM on May
 session, creating space for dialogue about diverse ways of experiencing and
 interpreting art.
 
-Visit Falseworks exhibition page at https://grunt.ca/exhibitions/falsework/
+Visit Falseworks exhibition page at [https://grunt.ca/exhibitions/falsework/](https://grunt.ca/exhibitions/falsework/)
 
-Check out Jinnies website at https://jinniesaran.com/
+Check out Jinnies website at [https://jinniesaran.com/](https://jinniesaran.com/)

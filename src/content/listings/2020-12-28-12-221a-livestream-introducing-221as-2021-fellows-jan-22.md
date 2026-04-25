@@ -29,7 +29,7 @@ disobedient territories and the ways we can preserve the bioregional integrity a
 heritage born from it that has been, and continues to be forcefully disappeared.
 
 Please register to attend the Livestream
-(https://us02web.zoom.us/webinar/register/WN_IXezxLq6T-i7OFxbg34ahA)
+([https://us02web.zoom.us/webinar/register/WN_IXezxLq6T-i7OFxbg34ahA](https://us02web.zoom.us/webinar/register/WN_IXezxLq6T-i7OFxbg34ahA))
 
 Fellows at 221A
 
@@ -39,4 +39,4 @@ social, cultural or ecological infrastructure. Staff work alongside Fellows to r
 translate research into public education, learning programs and engaging plans to develop
 new infrastructure.
 
-MORE (https://221a.ca/activity/livestream-introducing-221as-2021-fellows)
+MORE ([https://221a.ca/activity/livestream-introducing-221as-2021-fellows](https://221a.ca/activity/livestream-introducing-221as-2021-fellows))

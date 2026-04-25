@@ -12,7 +12,7 @@ summary: "Concourse Gallery at Emily Carr University | Widely Construed | FEB 2"
 Concourse Gallery (1399 Johnston St, Vancouver, BC V6H 3R9)
 2nd of March, 6-9pm
 
-https://www.facebook.com/events/651203871735135/
+[https://www.facebook.com/events/651203871735135/](https://www.facebook.com/events/651203871735135/)
 
 Widely Construed is the Emily Carr University of Art and Design, Master of Applied Art, 
 class of 2018, interim exhibition show. The show will be held at the Concourse Art 

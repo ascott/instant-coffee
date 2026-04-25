@@ -76,7 +76,7 @@ We gratefully acknowledge the support of the Canada Council for the Arts,
 the Institute for Canadian Studies at UBC, the Department of English at UBC
 and Green College.
 
-http://playchthonics.blogspot.com/
+[http://playchthonics.blogspot.com/](http://playchthonics.blogspot.com/)
 
 *************
 

@@ -63,4 +63,4 @@ Vancouver Art Gallery
 
 750 Hornby St., Vancouver BC V6Z 2H7
 
-http://www.vanartgallery.bc.ca
+[http://www.vanartgallery.bc.ca](http://www.vanartgallery.bc.ca)

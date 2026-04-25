@@ -38,4 +38,4 @@ Date: Sept 2, 2023
 
 Time: 12pm-5pm
 
-https://www.firstsaturday.ca/next-open-studios
+[https://www.firstsaturday.ca/next-open-studios](https://www.firstsaturday.ca/next-open-studios)

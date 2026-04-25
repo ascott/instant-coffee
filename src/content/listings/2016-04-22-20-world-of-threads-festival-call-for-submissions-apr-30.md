@@ -25,7 +25,7 @@ might inspire an entire exhibition! We're also open to work that is not
 made of fibre materials but instead uses techniques of fibre like sewing 
 and weaving.
 
-For details: http://worldofthreadsfestival.com/submissions.html
+For details: [http://worldofthreadsfestival.com/submissions.html](http://worldofthreadsfestival.com/submissions.html)
 
 Fibre Artist Interviews: Some artists who are accepted will be invited to 
 participate in our interview series.

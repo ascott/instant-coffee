@@ -27,7 +27,7 @@ plunge into darkness before the moving images on screen, adding drama to frames 
 appear on fire. Fleeting sun shadows move across the film. The two elements together 
 create a simply captivating experience, completely immersing the audience into a land of 
 airy projector light with sounds that fill the space like a weather pattern. - Amanda Mayo, 
-KQED Arts https://www.kqed.org/arts/114197
+KQED Arts [https://www.kqed.org/arts/114197](https://www.kqed.org/arts/114197)
 
 Joshua Churchill and John Davis' collaborative work has recently been featured at the Other 
 Minds Festival in San Francisco, Dark Sea Cinema in Oakland, San Francisco 
@@ -44,7 +44,7 @@ under the moniker Plumes. He has previously performed in experimental drone/meta
 projects including Sutekh Hexen, Riqis, and Tecumseh. Churchill has been a resident at AIR 
 Krems in Krems an der Donau, Austria, and Djerassi Resident Artists Program in California, 
 and has performed and exhibited extensively throughout the United States and abroad.
-https://vimeo.com/joshuachurchill
+[https://vimeo.com/joshuachurchill](https://vimeo.com/joshuachurchill)
 
 Expanding the relationship between moving image and sound through live performance and 
 studio-based projects, John Davis's work elicits sensory response through familiar and 
@@ -57,4 +57,4 @@ internationally, most recently at Human Resources in Los Angeles, The San Franci
 Cinematheque, Other Cinema, The Pacific Film Archive, The San Francisco Museum of 
 Modern Art, The Antimatter Media Art Festival, The Optica Festival, Instants Vido 
 Numriques et Potiques, Transmediale, Impakt and Videoex.
-http://www.noiseforlight.com/
+[http://www.noiseforlight.com/](http://www.noiseforlight.com/)

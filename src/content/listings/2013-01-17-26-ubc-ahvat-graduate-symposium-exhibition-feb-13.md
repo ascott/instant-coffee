@@ -14,5 +14,5 @@ Symposium Exhibition invite artist submissions.
 The exhibition will be held February 13th to March 9th, 2013 in Vancouver, 
 proposals must be submitted by January 25th. This year's symposium is titled 
 "Eyes on Protest: Contestation and Visuality". For more information please see: 
-http://www.ahva.ubc.ca/eventsDetails.cfm?EventID=1162&EventTypeNumID=16 
+[http://www.ahva.ubc.ca/eventsDetails.cfm?EventID=1162&EventTypeNumID=16](http://www.ahva.ubc.ca/eventsDetails.cfm?EventID=1162&EventTypeNumID=16) 
 Any queries may be addressed to ahva.gradsymp@gmail.com

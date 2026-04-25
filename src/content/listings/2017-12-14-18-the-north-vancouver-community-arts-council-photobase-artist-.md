@@ -39,5 +39,5 @@ CityScape Community Art Space, 335 Lonsdale Avenue, North Vancouver
 $10 Member Jury Fee/ $15 Non Member Jury Fee
 
 Full Submission Requirements:
-http://files.constantcontact.com/a93f5de2401/455cfc2b-dc66-459d-b7e2-
+[http://files.constantcontact.com/a93f5de2401/455cfc2b-dc66-459d-b7e2-](http://files.constantcontact.com/a93f5de2401/455cfc2b-dc66-459d-b7e2-)
 616ac498fb32.pdf

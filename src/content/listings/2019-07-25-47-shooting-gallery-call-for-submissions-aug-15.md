@@ -41,4 +41,4 @@ community.
 
 Contact details: shootinggalleryperformance@gmail.com
 
-For further information, please visithttps://www.facebook.com/shootinggalleryperformance/
+For further information, please visit[https://www.facebook.com/shootinggalleryperformance/](https://www.facebook.com/shootinggalleryperformance/)

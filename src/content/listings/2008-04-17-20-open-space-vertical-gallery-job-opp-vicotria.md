@@ -29,7 +29,7 @@ In his current residency at Open Space, Vancouver artist Nhan Duc Nguyen takes t
 
 Lao Oi… will coincide with Citizenship Week in October 2008 as part of British Columbia's 150 Year Celebration.  Nguyen will create a Vietnamese shrine, dedicated to Lao, as well as develop a petition calling for Harmony.  It is a Vietamese tradition for organizations and individuals to erect these shrines in public spaces during governmental events or civic holidays.  They are a way for citizens to ask for resolution and harmony pertaining to the health and welfare of the state and its citizens.  Nguyen explains; "One's health is beyond Lao's influence but one can ask for better healthcare. Lao is not able to help you in matters of love but if it is a matter of marriage—put it on the petition."
 
-For shrine submission information please see http://www.openspace.ca/web/item/343
+For shrine submission information please see [http://www.openspace.ca/web/item/343](http://www.openspace.ca/web/item/343)
 
 Employment Opportunity: Technician
 

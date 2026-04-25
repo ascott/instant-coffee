@@ -25,7 +25,7 @@ Hildegard Westerkamp to be this month's guest. Westerkamp is known for her
 involvement in the World Soundscape Project with composer R. Murray Schafer, 
 which changed her ways of thinking about music, listening and soundmaking. 
 She is also known as a composer, educator, and radio artist, who focuses on 
-environmental sound and acoustic ecology. http://www.sfu.ca/~westerka/bio.html
+environmental sound and acoustic ecology. [http://www.sfu.ca/~westerka/bio.html](http://www.sfu.ca/~westerka/bio.html)
 
 Publik Secrets is comprised of a team of musicians, fabricators, and visual artists. 
 our work creatively re-imagines public spaces as participatory gathering places. 

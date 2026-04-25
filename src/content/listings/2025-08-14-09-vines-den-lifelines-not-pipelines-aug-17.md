@@ -28,16 +28,16 @@ MAGA and Trump supporters.
 Land back is a lifeline for everyone.
 
 This Freedom School event is held in conjunction with the exhibition Driving in
-Palestine https://drivinginpalestine.cargo.site/. All Freedom School events are free
+Palestine [https://drivinginpalestine.cargo.site/](https://drivinginpalestine.cargo.site/). All Freedom School events are free
 and by donation. Freedom School engages liberation praxis and community building
 in support of a free Palestine and all who advocate for justice in the face of settler
 colonialism, militarism, state violence and oppression in our shared and
 interconnected worlds.
 
-Registration is recommended but not required: https://events.humanitix.com/lifelines-
+Registration is recommended but not required: [https://events.humanitix.com/lifelines-](https://events.humanitix.com/lifelines-)
 not-pipelines-teach-in
 
-Explore all events in the series at https://events.humanitix.com/host/freedom-school-
+Explore all events in the series at [https://events.humanitix.com/host/freedom-school-](https://events.humanitix.com/host/freedom-school-)
 a-people-s-university.
 
 We encourage attendees to wear a mask as an act of care for those for whom this is

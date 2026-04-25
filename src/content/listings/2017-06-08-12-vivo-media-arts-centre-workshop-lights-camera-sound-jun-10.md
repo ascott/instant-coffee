@@ -18,7 +18,7 @@ Two sessions, 9 hours total | $70, or $58 with VIVO Extended Producer Membership
 Session 1: Saturday June 10, 12:30pm-5pm
 Session 2: Saturday June 17, 12:30pm-5pm
 
-Sign up on Eventbrite " https://camera-lights-sound-with-alysha-seriani.eventbrite.ca
+Sign up on Eventbrite " [https://camera-lights-sound-with-alysha-seriani.eventbrite.ca](https://camera-lights-sound-with-alysha-seriani.eventbrite.ca)
 
 Basic technical aspects of camera operation, sound recording, and lighting principles 
 are taught through demonstration and hands-on practical exercises using the Canon 
@@ -33,4 +33,4 @@ you started on your videos! It also benefits participants interested in VIVOs mo
 intermediary video-making workshops.
 
 Visit VIVO Education for many more details: 
-http://www.vivomediaarts.com/education/upcoming-workshops
+[http://www.vivomediaarts.com/education/upcoming-workshops](http://www.vivomediaarts.com/education/upcoming-workshops)

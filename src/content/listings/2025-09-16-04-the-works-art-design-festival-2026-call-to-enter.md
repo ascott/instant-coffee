@@ -35,4 +35,4 @@ Deadline: November 7, 2025
 
 *Deadline if requesting feedback: October 22, 2025
 
-For further details and to apply: https://www.theworks.ab.ca/calltoenter
+For further details and to apply: [https://www.theworks.ab.ca/calltoenter](https://www.theworks.ab.ca/calltoenter)

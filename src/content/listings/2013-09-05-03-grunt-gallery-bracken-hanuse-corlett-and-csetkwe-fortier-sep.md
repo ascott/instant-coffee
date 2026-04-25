@@ -16,7 +16,7 @@ Opening: September 5, 2013, 7-10pm.
 
 Exhibition Dates: September 5 October 12, 2013
 
-URL: http://grunt.ca/exhibitions/wuulhu-to-fuse-together/
+URL: [http://grunt.ca/exhibitions/wuulhu-to-fuse-together/](http://grunt.ca/exhibitions/wuulhu-to-fuse-together/)
 
 grunt gallery presents Don't Go Hungry, a multimedia exhibition with work by
 artists Bracken Hanuse Corlett and Csetkwe Fortier.

@@ -19,7 +19,7 @@ $35 + taxes | Concessions; Community Partner Members (WIFTV, DOC BC,
 VIVO)
 $30 + taxes | Member Admission
 
-REGISTER: http://16mm-basics-arri-apr.eventbrite.ca
+REGISTER: [http://16mm-basics-arri-apr.eventbrite.ca](http://16mm-basics-arri-apr.eventbrite.ca)
 
 A 3 hour entry-level workshop introducing participants to the principles and 
 practice of exposing film with an Arri SRii 16mm film camera.
@@ -36,12 +36,12 @@ Processing workshop on Sunday 30 Apr. If interested in both components
 (optional),
 please register for the Hand Processing workshop via the following link:
 
-https://16mm-basics-hand-processing-apr.eventbrite.ca/
+[https://16mm-basics-hand-processing-apr.eventbrite.ca/](https://16mm-basics-hand-processing-apr.eventbrite.ca/)
 
 Please note: access to membership discounts can be obtained with a Cineworks
 General Membership ($40 annually). Please call 604-685-3841 for details, or 
 come to an orientation at our Howe Street location 
-(seehttp://www.cineworks.ca/attend#events
+(see[http://www.cineworks.ca/attend#events](http://www.cineworks.ca/attend#events)
 for bi-weekly schedule details).
 
 Cineworks gratefully acknowledges and pays respect to the Musqueam, 

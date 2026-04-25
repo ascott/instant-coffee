@@ -19,4 +19,4 @@ get youre hands dirty! Taught by the talented Emmma Canning (@dirtspindle) Age 1
 welcome! Price includes materials and the cost of firing and glazing. Pieces will be fired 
 and glazed and can be picked approximately 2 weeks after completion of the class. 
 $63
-https://www.mobil-art.ca/event-info/introduction-to-ceramic-sculpture
+[https://www.mobil-art.ca/event-info/introduction-to-ceramic-sculpture](https://www.mobil-art.ca/event-info/introduction-to-ceramic-sculpture)

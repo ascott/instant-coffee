@@ -19,7 +19,7 @@ in the unseen lives and landscapes that shape our shared planet.
 
 1:00pm " Bergers (2024)
 Director: Sophie Deraspe | 2024 | 113 min | Drama | French with English subtitles
-Trailer: https://youtu.be/WShO-Ly_IYY
+Trailer: [https://youtu.be/WShO-Ly_IYY](https://youtu.be/WShO-Ly_IYY)
 A luminous dramatic feature about a burnt-out Montrealer who trades city life for
 shepherding in the French Alps, Bergers won the award for Best Canadian Feature
 at TIFF 2024. A sweeping and deeply human love story set against the rhythms of
@@ -28,7 +28,7 @@ listening to the earth.
 
 3:45pm " Cielo (2018)
 Director: Alison McAlpine | 2018 | 78min | Documentary
-Trailer: https://youtu.be/mjd_VN4ebII
+Trailer: [https://youtu.be/mjd_VN4ebII](https://youtu.be/mjd_VN4ebII)
 A meditative documentary by poet-filmmaker Alison McAlpine, Cielo lifts our gaze
 skyward to the Atacama Desert, where scientists, stargazers, and local dreamers
 speak with reverence about the night sky. Named one of the best documentaries of
@@ -44,5 +44,5 @@ collection of films demonstrates ways to practice flexibility in scale and persp
 thinking and seeing with plants, trees, animals, rocks, and points of view that are
 rarely centred.
 
-For more information, visit: https://cinevolutionmedia.com/who-roams-the-earth/
-To register, visit: https://who-roams-the-earth.eventbrite.ca/
+For more information, visit: [https://cinevolutionmedia.com/who-roams-the-earth/](https://cinevolutionmedia.com/who-roams-the-earth/)
+To register, visit: [https://who-roams-the-earth.eventbrite.ca/](https://who-roams-the-earth.eventbrite.ca/)

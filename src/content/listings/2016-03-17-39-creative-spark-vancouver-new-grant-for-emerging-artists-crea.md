@@ -25,8 +25,8 @@ Musqueam, Squamish or Tsleil-Waututh First Nations. The grants offer
 An information session for artists interested in learning more about
 Creative Spark Vancouver will be held on March 24 from 2pm to 4pm
 at ArtStarts in Schools (808 Richards Street, Vancouver): RSVP at
-http://creativesparkvancouver.eventbrite.ca
+[http://creativesparkvancouver.eventbrite.ca](http://creativesparkvancouver.eventbrite.ca)
 
 Upcoming deadlines to apply for Creative Spark Vancouver grants are
 April 15 and August 4, 2016. For full details and to apply, visit:
-http://artstarts.com/creativesparkvancouver
+[http://artstarts.com/creativesparkvancouver](http://artstarts.com/creativesparkvancouver)

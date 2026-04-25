@@ -22,4 +22,4 @@ POSITION TYPE: One Year contract NR2, 50% (4 courses)
 START: Fall 2024
 
 For more about the Fine Arts department and programs, please visit our website at:
-https://www.kpu.ca/arts/fine-arts
+[https://www.kpu.ca/arts/fine-arts](https://www.kpu.ca/arts/fine-arts)

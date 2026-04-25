@@ -34,6 +34,6 @@ analyses and experiences of writers, artists, curators, collectives,
 academics, and other arts professionals who share these same 
 concerns.
 
-Complete details can be found at http://www.breachmagazine.ca/issue-
+Complete details can be found at [http://www.breachmagazine.ca/issue-](http://www.breachmagazine.ca/issue-)
 3-call/. Direct submissions and queries to info@breachmagazine.ca by 
 October 4 2015.

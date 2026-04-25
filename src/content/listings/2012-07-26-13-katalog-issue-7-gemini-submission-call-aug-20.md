@@ -34,6 +34,6 @@ artistic practices so people can identify you and your work.
 Submissions can be sent to
 submission@cccponline.net
 To view past KATALOG:
-http://katalog.cccponline.net
+[http://katalog.cccponline.net](http://katalog.cccponline.net)
 Any questions can be sent to
 info@cccponline.net

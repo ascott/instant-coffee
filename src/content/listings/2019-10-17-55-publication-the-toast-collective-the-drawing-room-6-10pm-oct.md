@@ -21,4 +21,4 @@ $5
 Toast Collective - 648 Kingsway
 October 24, 6-10pm
 
-More information: https://www.facebook.com/events/430846401122300/
+More information: [https://www.facebook.com/events/430846401122300/](https://www.facebook.com/events/430846401122300/)

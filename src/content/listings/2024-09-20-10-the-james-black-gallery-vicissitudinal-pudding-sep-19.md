@@ -35,4 +35,4 @@ by them since time immemorial.
 ACCESSIBILITY: Please note that our building is not very accessible due to the
 building being from 1889. There are stairs to the main floor and a second set to the
 washrooms. We have an accessibility document located in the FAQ on our website.
-http://www.thejamesblack.gallery/faq
+[http://www.thejamesblack.gallery/faq](http://www.thejamesblack.gallery/faq)

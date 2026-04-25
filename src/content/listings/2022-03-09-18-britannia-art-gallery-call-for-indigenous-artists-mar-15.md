@@ -33,4 +33,4 @@ within Britannia's East Vancouver catchment to apply.
 
 HOW TO APPLY
 Read the full call for submissions details, visit:
-https://britanniaartgallery.weebly.com/submissions.html
+[https://britanniaartgallery.weebly.com/submissions.html](https://britanniaartgallery.weebly.com/submissions.html)

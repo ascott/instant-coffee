@@ -31,5 +31,5 @@ Gabriel Dharmoo is the creator and performer of Bijuriya (Jan 28 & 29, 2025 at
 
 REGISTER FOR FREE HERE:
 Link to tickets
-https://www.showpass.com/slow-social-gabriel-dharmoo/?
+[https://www.showpass.com/slow-social-gabriel-dharmoo/](https://www.showpass.com/slow-social-gabriel-dharmoo/)?
 utm_campaign=linkinbio&utm_medium=referral&utm_source=later-linkinbio

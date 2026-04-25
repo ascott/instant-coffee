@@ -12,7 +12,7 @@ The Mary E. Black Gallery is accepting proposals for solo, duo, or
 group exhibitions for 2014. Submissions are welcome from community 
 groups, cultural groups, guilds, artists/craftspeople, and curators.
 Deadline for submissions is March 15, 2012.
-Please consult proposal guidelines available at: http://www.craft-
+Please consult proposal guidelines available at: [http://www.craft-](http://www.craft-)
 design.ns.ca/prop.html
 
 Our mandate, as Nova Scotia's only public fine craft gallery, is to exhibit 

@@ -20,7 +20,7 @@ CALL FOR SUBMISSIONS JANUARY 2018.
 
 FAXED, MAILED, OR INCOMPLETE SUBMISSIONS WILL NOT BE REVIEWED.
 
-For more information, please visit http://www.stride.ab.ca/opportunities/
+For more information, please visit [http://www.stride.ab.ca/opportunities/](http://www.stride.ab.ca/opportunities/)
 
 The Stride Art Gallery Association
 1006 MacLeod Trail SE

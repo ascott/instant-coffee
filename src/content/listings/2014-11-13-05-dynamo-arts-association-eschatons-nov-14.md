@@ -13,9 +13,9 @@ Dynamo Arts Association
 103-30 East 6th Ave Vancouver, BC
 Opening Reception:Friday November 14, 7PM
 
-http://dynamoarts.ca
+[http://dynamoarts.ca](http://dynamoarts.ca)
 
-Event Link: https://www.facebook.com/events/642064812576805/?ref=22
+Event Link: [https://www.facebook.com/events/642064812576805/?ref=22](https://www.facebook.com/events/642064812576805/?ref=22)
 
 DAA Presents // Artists in Residence: Eschatons: The Touch and the Touched.
 
@@ -56,4 +56,4 @@ b.batt
 This event is a continuation of the Project
 SPAGETTY LANGUAGE ;organized by Justin Patterson
 
-http://dynamoarts.ca
+[http://dynamoarts.ca](http://dynamoarts.ca)

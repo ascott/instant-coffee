@@ -28,11 +28,11 @@ Egelund, Nathan Webster and Will Fu.
 Presented by NOW-ID | NOW International Dance Co., a not-for-profit dance and
 design organization.
 
-Tickets: $40, https://www.zeffy.com/en-CA/ticketing/neuroceros
+Tickets: $40, [https://www.zeffy.com/en-CA/ticketing/neuroceros](https://www.zeffy.com/en-CA/ticketing/neuroceros)
 
 Location: 1495 France Street, Vancouver
 
-Website: https://www.now-id.com/current
+Website: [https://www.now-id.com/current](https://www.now-id.com/current)
 
 For details, contact Nathan Webster or Charlotte Boye-Christensen at contact@now-
 id.com / 510-501-6915

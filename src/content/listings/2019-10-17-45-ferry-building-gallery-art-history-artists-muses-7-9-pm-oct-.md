@@ -21,7 +21,7 @@ Sandra Seekins, MA, art historian, Capilano University.
 Cost: $15
 
 Register at 604-925-7270 (course # 60218 ) or register online at
-https://ca.apm.activecommunities.com/westvanrec/Activity_Search/57184.
+[https://ca.apm.activecommunities.com/westvanrec/Activity_Search/57184](https://ca.apm.activecommunities.com/westvanrec/Activity_Search/57184).
 
 Ferry Building
 Gallery

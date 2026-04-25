@@ -36,7 +36,7 @@ $10on-line, $15 at the door
 
 Link to online tickets:
 
-http://www3.gordonsmithgallery.ca/Gallery/programs/registration/Pages/default.aspx
+[http://www3.gordonsmithgallery.ca/Gallery/programs/registration/Pages/default.aspx](http://www3.gordonsmithgallery.ca/Gallery/programs/registration/Pages/default.aspx)
 
 About Sheryda Warrener
 

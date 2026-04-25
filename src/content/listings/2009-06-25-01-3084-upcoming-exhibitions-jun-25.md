@@ -18,4 +18,4 @@ JULY 9: KATHLEEN RITTER
 
 A series of short-term installations addressing practices of material production and issues of 
 materiality through the frame of Self Storage
-http://www.3084.ca
+[http://www.3084.ca](http://www.3084.ca)

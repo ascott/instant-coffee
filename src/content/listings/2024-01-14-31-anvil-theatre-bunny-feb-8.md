@@ -26,7 +26,7 @@ Matinees: February 10, 17, & 18 at 2:00pm
 
 Tickets: $36.50 - $46.50 at ticketsnw.ca or 604.521.5050
 
-Photos: https://www.dropbox.com/scl/fo/esvic6kl853ct95rypye2/h?
+Photos: [https://www.dropbox.com/scl/fo/esvic6kl853ct95rypye2/h](https://www.dropbox.com/scl/fo/esvic6kl853ct95rypye2/h)?
 rlkey=9tmqrepkl91c8ohiav90w9wmu&dl=0
 
 (New Westminster, B.C.) " Anvil Theatre is thrilled to present Hannah Moscovitchs

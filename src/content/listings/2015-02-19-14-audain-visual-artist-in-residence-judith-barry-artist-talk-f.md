@@ -10,7 +10,7 @@ summary: "Audain Visual Artist in Residence | Judith Barry Artist Talk | FEB 24"
 
 Judith Barry Artist Talk
 Feb 24, 1 pm | FREE
-More Info: http://www.sfu.ca/sca/
+More Info: [http://www.sfu.ca/sca/](http://www.sfu.ca/sca/)
 
 Audain Visual Artist in Residence program at Simon Fraser University's School
 for the Contemporary Arts presents an artist talk featuring artist and

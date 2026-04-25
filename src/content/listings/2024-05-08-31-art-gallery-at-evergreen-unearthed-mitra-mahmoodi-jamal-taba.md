@@ -28,4 +28,4 @@ lobby. Remarks with the artists at 7PM. This event is free to attend and wheelch
 accessible. Drop-ins welcome.
 
 "unearthed" is on view from May 18 - July 21, 2024. Learn more about the
-exhibition: https://evergreenculturalcentre.ca/upcoming-exhibition/
+exhibition: [https://evergreenculturalcentre.ca/upcoming-exhibition/](https://evergreenculturalcentre.ca/upcoming-exhibition/)

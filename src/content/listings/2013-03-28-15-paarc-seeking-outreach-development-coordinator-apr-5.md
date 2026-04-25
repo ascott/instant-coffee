@@ -35,7 +35,7 @@ nationally and internationally
 
 Development:
 - Follow-up and build upon the additional funding streams identified by the 
-recent Institutions by Artists convention (http://arcpost.ca/conference)
+recent Institutions by Artists convention ([http://arcpost.ca/conference](http://arcpost.ca/conference))
 - Translate these forms and other documents for the use of PAARC members, 
 streamlining new research into the platform of arcpost.ca
 - Assist in consolidating perspectives on existing and developing artist-run 

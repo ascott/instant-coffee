@@ -17,7 +17,7 @@ Artist Talk: Saturday, May 26, 1pm. Artist in attendance.
 Venue: KIMOTO GALLERY, 1525 W. 6th Avenue, Vancouver
 Gallery Hours: Tues. Wed. Thurs. & Sat. 10am - 6pm / Fri. 12pm-5pm / Sun. & Mon. 
 by appointment only
-Info: http://kimotogallery.com/homework
+Info: [http://kimotogallery.com/homework](http://kimotogallery.com/homework)
 
 Building from his previous show, Retreat, Sueme continues his ongoing 
 consideration for shape and colour, explored through hard-edged, yet painterly 

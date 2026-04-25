@@ -11,7 +11,7 @@ summary: "SFU School for the CA [ONLINE] | VISUAL ART FORUM: Samson Young | 7PM 
 Thursday, November 19, 2020 | 7:00 PM | Zoom
 
 RSVP HERE:
-https://www.eventbrite.ca/e/visual-art-forum-samson-young-registration-120876385523
+[https://www.eventbrite.ca/e/visual-art-forum-samson-young-registration-120876385523](https://www.eventbrite.ca/e/visual-art-forum-samson-young-registration-120876385523)
 
 Please join us for a FREE talk by Samson Young, presented as part of the Fall 2020
 Visual Art Forum.

@@ -26,7 +26,7 @@ Film and Performances at 7pm
 Artist Q&A to follow
 RSVPs are appreciated
 
-RSVP Here: https://thepolygon.ca/event/moon-gate/
+RSVP Here: [https://thepolygon.ca/event/moon-gate/](https://thepolygon.ca/event/moon-gate/)
 
 Everlasting
 Eric Cheung, in collaboration with Cristian Gonzalez, presents Everlasting, a

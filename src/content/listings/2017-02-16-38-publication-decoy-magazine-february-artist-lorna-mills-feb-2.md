@@ -12,7 +12,7 @@ Bcc: Digital Art Subscription by Decoy Magazine // February Artist: Lorna Mills
 
 Sign up by February 27 to receive the next commissioned artwork from Bcc: Lorna 
 Mills! Once you subscribe, we will deliver a unique digital artwork to your email inbox 
-every month. http://www.decoymagazine.ca/bcc
+every month. [http://www.decoymagazine.ca/bcc](http://www.decoymagazine.ca/bcc)
 
 Canadian artist, Lorna Mills has actively exhibited her work in both solo and group 
 exhibitions since the early 1990's, both in Canada and Internationally. Her practice 

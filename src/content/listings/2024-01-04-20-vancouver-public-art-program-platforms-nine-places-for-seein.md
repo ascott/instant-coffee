@@ -18,4 +18,4 @@ a reflection of your inner being, a look inside of who you are. This illustratio
 seen on transit shelters throughout the city from now until January 28th.
 
 You can learn more about this work and the works of other featured artists on our
-website at https://vancouver.ca/platforms
+website at [https://vancouver.ca/platforms](https://vancouver.ca/platforms)

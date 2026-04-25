@@ -36,7 +36,7 @@ support staff.
 
 Please refer to the Proposal for Exhibition - Submission Guidelines
 2016/2017 for further details or at
-http://www.ahva.ubc.ca/formsDisplay.cfm. Please review the required
+[http://www.ahva.ubc.ca/formsDisplay.cfm](http://www.ahva.ubc.ca/formsDisplay.cfm). Please review the required
 information and submit your complete Exhibition Proposal to the AHVA
 Gallery Committee electronically at ahva.gallery@ubc.ca by April 30, 2016.
 

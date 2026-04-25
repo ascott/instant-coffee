@@ -34,7 +34,7 @@ There will be an opening reception on Saturday, February 8, from noon - 4 PM. Th
 artist will be in attendance. The gallery is located at 268 Keefer Street, in Chinatown,
 Vancouver.
 
-THIS Gallery: https://thisgallery.org/
-Exhibition preview: https://thethisgallery.com/collections/carol-kong
-Full artist statement: https://thisgallery.org/project/carol-kong-life-is-still/
-Artist website: https://www.carolkong.com/
+THIS Gallery: [https://thisgallery.org/](https://thisgallery.org/)
+Exhibition preview: [https://thethisgallery.com/collections/carol-kong](https://thethisgallery.com/collections/carol-kong)
+Full artist statement: [https://thisgallery.org/project/carol-kong-life-is-still/](https://thisgallery.org/project/carol-kong-life-is-still/)
+Artist website: [https://www.carolkong.com/](https://www.carolkong.com/)

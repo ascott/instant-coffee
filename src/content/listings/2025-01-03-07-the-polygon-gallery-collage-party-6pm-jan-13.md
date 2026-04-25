@@ -24,7 +24,7 @@ Collage party begins at 6:30pm
 
 RSVPs are appreciated
 
-RSVP Here: https://thepolygon.ca/event/collage-party-feat-kaila-bhullar/
+RSVP Here: [https://thepolygon.ca/event/collage-party-feat-kaila-bhullar/](https://thepolygon.ca/event/collage-party-feat-kaila-bhullar/)
 
 Birth, Death + Entertainment
 6 min, Canada, 2024

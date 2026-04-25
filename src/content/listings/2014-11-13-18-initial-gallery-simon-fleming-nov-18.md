@@ -37,5 +37,5 @@ initial gallery
 604.428.4248
 initialgallery.com
 
-https://www.facebook.com/events/848947951803225/
-http://initialgallery.com
+[https://www.facebook.com/events/848947951803225/](https://www.facebook.com/events/848947951803225/)
+[http://initialgallery.com](http://initialgallery.com)

@@ -31,4 +31,4 @@ Paul Antony Carr, Peter Ricq, Phresha, Qaqtis, Sherri Rogers, Sophia
 Ahamed, Stacey Hamilton, Syx Langemann, Taryn Langemann, Vince 
 Hemingson, and Winnie Yiu
 
-http://hotartcard.com
+[http://hotartcard.com](http://hotartcard.com)

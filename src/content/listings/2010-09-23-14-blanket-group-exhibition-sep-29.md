@@ -97,4 +97,4 @@ Vancouver BC
 V6B 3J5
 
 1-604-709-6100
-http://www.blanketgallery.com
+[http://www.blanketgallery.com](http://www.blanketgallery.com)

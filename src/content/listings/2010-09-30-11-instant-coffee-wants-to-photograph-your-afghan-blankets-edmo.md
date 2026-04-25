@@ -46,4 +46,4 @@ This project is made possible with the support of the Public Art Program,
 Edmonton Arts Council.
 
 For more information or if you have any questions please contact:
-us@instantcoffee.org; www.instantcoffee.org <http://www.instantcoffee.org/>
+us@instantcoffee.org; www.instantcoffee.org <[http://www.instantcoffee.org/](http://www.instantcoffee.org/)>

@@ -22,4 +22,4 @@ alongside prints of his own original compositions.
 Collage Collage
 621 Kingsway
 Vancouver, BC V5T 3K5
-http://collagecollage.ca/
+[http://collagecollage.ca/](http://collagecollage.ca/)

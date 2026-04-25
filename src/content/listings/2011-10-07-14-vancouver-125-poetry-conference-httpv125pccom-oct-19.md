@@ -20,4 +20,4 @@ Writers Festival, The Vancouver Public Library and the Listel Hotel. The
 conference will bring poets together from across North America for a landmark 
 exchange of ideas, poetry and poetics.
 
-http://v125pc.com
+[http://v125pc.com](http://v125pc.com)

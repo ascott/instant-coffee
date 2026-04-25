@@ -12,7 +12,7 @@ Call for art and for written submissions:
 
 Call for Submissions for Winter 2011:deadline May 15, 2011
 Room is Canada’s oldest literary journal by, for, and about women.
-http://www.roommagazine.com/
+[http://www.roommagazine.com/](http://www.roommagazine.com/)
 
 Room is a space where women can speak, connect, and showcase their
 creativity. Each quarter, for 33 issues, Room has been publishing original,
@@ -31,7 +31,7 @@ All of us Sacred, featuring cover art by Susan Point, or any recent back
 issue available from our website.)
 Please submit to the attention of Amber Hitchen by May 15, 2011.
 For full submission details (how and what to submit), go to our submission
-page: http://www.roommagazine.com/submit.html
+page: [http://www.roommagazine.com/submit.html](http://www.roommagazine.com/submit.html)
 
 ADDITIONAL ART SUBMISSION INFO: send us you most engaging work. These are
 not images to illustrate the literature, but submissions of their own
@@ -49,6 +49,6 @@ and contrast. We now feature issues’ interior art on our webpage in colour
 once the issue has been published.
 
 Newsroom: to stay current with Room’s calls and events, sign-up for our
-newsletter at: http://www.roommagazine.com/newsletter.html
+newsletter at: [http://www.roommagazine.com/newsletter.html](http://www.roommagazine.com/newsletter.html)
 
 Contact: contactus@roommagazine.com or arteditor@roommagazine.com

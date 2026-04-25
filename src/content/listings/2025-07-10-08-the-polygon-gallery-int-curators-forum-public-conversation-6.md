@@ -24,4 +24,4 @@ Doors at 5:30pm
 
 Conversation at 6:00pm
 Learn more about the participants and RSVP here:
-https://thepolygon.ca/event/international-curators-forum-public-conversation/
+[https://thepolygon.ca/event/international-curators-forum-public-conversation/](https://thepolygon.ca/event/international-curators-forum-public-conversation/)

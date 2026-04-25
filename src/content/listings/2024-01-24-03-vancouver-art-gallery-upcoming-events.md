@@ -18,7 +18,7 @@ and plastic surgery
 procedures are deployed in the service of capitalist expansion,
 even in the absence of white bodies. This talk will be presented on Zoom and
 simultaneous interpretation will be provided from English to Mandarin. Learn more:
-https://www.vanartgallery.bc.ca/events/jan24geopoliticsofkoreanbeauty
+[https://www.vanartgallery.bc.ca/events/jan24geopoliticsofkoreanbeauty](https://www.vanartgallery.bc.ca/events/jan24geopoliticsofkoreanbeauty)
 
 Celebrating Black Futures
 
@@ -54,4 +54,4 @@ Christmas will activate
 the Gallery with A Day of Delight, featuring thoughtful conversations, workshops and
 poetic interpretations of exhibitions on display.
 
-Find out more: https://www.vanartgallery.bc.ca/celebrating-black-futures-2024/
+Find out more: [https://www.vanartgallery.bc.ca/celebrating-black-futures-2024/](https://www.vanartgallery.bc.ca/celebrating-black-futures-2024/)

@@ -14,4 +14,4 @@ Class A studios, no hazardous or toxic materials allowed, quiet spaces, work onl
 private. Located in a dynamic francophone center (Speaking French is optional to join
 the studio) in Oakridge area.
 
-Info and submission : https://www.alliancefrancaise.ca/en/community/artists-studios/
+Info and submission : [https://www.alliancefrancaise.ca/en/community/artists-studios/](https://www.alliancefrancaise.ca/en/community/artists-studios/)

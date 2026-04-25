@@ -31,4 +31,4 @@ The Gam Gallery
 110 E Hastings St., Vancouver, B.C. Canada V6A 1N4
 (t) 778 235 6928
 thegam@live.com
-http://www.gamgallery.com
+[http://www.gamgallery.com](http://www.gamgallery.com)

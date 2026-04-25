@@ -24,5 +24,5 @@ March 26 from 5-7pm Nisha will host an Open House where the public is welcome
 to have a look at the work she has been doing at the Fieldhouse this month.This will be followed
 on Monday March 30th from 6-7pm, by a Window Screening of her work in progress.
 
-https://irisfilmcollective.com/post/611612608945160192/nisha-platzer-work-in-progress-back-
+[https://irisfilmcollective.com/post/611612608945160192/nisha-platzer-work-in-progress-back-](https://irisfilmcollective.com/post/611612608945160192/nisha-platzer-work-in-progress-back-)
 home-open

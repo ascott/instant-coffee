@@ -28,4 +28,4 @@ magazines to look through. If youve got some material that you would like to use
 please feel free to bring along. We will work collectively on a giant long table. You can 
 take away your piece(s) at the end of the session.
 Cash bar, no minors, $25
-https://www.mobil-art.ca/event-info/collage-salon
+[https://www.mobil-art.ca/event-info/collage-salon](https://www.mobil-art.ca/event-info/collage-salon)

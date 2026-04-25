@@ -46,4 +46,4 @@ Monthly Open Studio events are hosted approximately every third Friday of
 the month and are organized by Project Space's Curatorial Collective.
 
 BECOME A MEMBER OF PROJECT SPACE:
-http://www.projectspace.ca/membership
+[http://www.projectspace.ca/membership](http://www.projectspace.ca/membership)

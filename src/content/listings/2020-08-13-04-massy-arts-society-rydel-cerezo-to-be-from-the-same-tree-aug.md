@@ -42,5 +42,5 @@ Tseil-Waututh Nations.
 Accessibility information: this event takes place upstairs in the Massy Gallery, which is
 only accessible by a flight of stairs.
 
-https://linktr.ee/MassyArtsSociety?
+[https://linktr.ee/MassyArtsSociety](https://linktr.ee/MassyArtsSociety)?
 fbclid=IwAR1ZgKGWSFzbr6DEWlnLizdLrqscaCdoujRV2KpAB4t6ATXC5wzoSVP92hQ

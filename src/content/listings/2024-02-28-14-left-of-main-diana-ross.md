@@ -16,7 +16,7 @@ singular voice. More about the show + ticket links + recommendations for Black
 History/Future Month & more, below. Hope to see you!
 
 BOOK DIANA ROSS DREAM:
-https://www.tickettailor.com/events/plasticorchidfactory?
+[https://www.tickettailor.com/events/plasticorchidfactory](https://www.tickettailor.com/events/plasticorchidfactory)?
 
 ***
 In 2015 I had a dream of Diana Ross on Broadway, dancing in a rose gold costume

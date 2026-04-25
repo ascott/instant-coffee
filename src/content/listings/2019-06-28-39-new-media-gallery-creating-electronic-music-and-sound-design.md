@@ -23,14 +23,14 @@ Course ID 27954
 Ages 16+
 Course Fee $45.00
 1 session 06-Jul-2019 10:00 AM - 3:30 PM Learning Lab - Room 311
-https://bit.ly/2HUAc4w
+[https://bit.ly/2HUAc4w](https://bit.ly/2HUAc4w)
 
 Intermediate
 Course ID 27962
 Ages 16+
 Course Fee $45.00
 1 session 13-Jul-2019 10:00 AM - 3:30 PM Learning Lab - Room 311
-https://bit.ly/2K2Sa7v
+[https://bit.ly/2K2Sa7v](https://bit.ly/2K2Sa7v)
 
 For information on how to register: newmediagallery.ca/nmg-steam-2
 New Media Gallery

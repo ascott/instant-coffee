@@ -10,7 +10,7 @@ summary: "CODE Live WEBSITE XX | ARTISTS AND PROJECT VENUES | JAN 31"
 
 CODE Live WEBSITE:
 
-http://www.vancouver2010.com/more-2010-information/cultural-festivals-and-events/code-connect-create-collaborate/code-live/
+[http://www.vancouver2010.com/more-2010-information/cultural-festivals-and-events/code-connect-create-collaborate/code-live/](http://www.vancouver2010.com/more-2010-information/cultural-festivals-and-events/code-connect-create-collaborate/code-live/)
 __________________________________________________________________________________
 
 ARTISTS AND PROJECT VENUES

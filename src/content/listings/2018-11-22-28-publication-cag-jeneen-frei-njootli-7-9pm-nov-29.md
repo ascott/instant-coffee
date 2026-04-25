@@ -35,5 +35,5 @@ This publication has been made possible through the generous support of the Auda
 Foundation, Jane Irwin and Ross Hill, Art Gallery of Burlington, Macaulay & Co. Fine Art 
 and Nada Vuksic.
 
-Find out more at https://www.contemporaryartgallery.ca/events/publication-launch-
+Find out more at [https://www.contemporaryartgallery.ca/events/publication-launch-](https://www.contemporaryartgallery.ca/events/publication-launch-)
 jeneen-frei-njootli/

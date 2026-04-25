@@ -14,8 +14,8 @@ CELEBRATES FULL RANGE OF LOVE
 IN BRIEF: Poly Queer Love Ballad, Created and Performed by Anais West and Sara 
 Vickruck. Co-Presented by The Queer Arts Festivals SUM Gallery, Zee Zee Theatre, 
 and Frank Theatre Company. March 5 " 11, 2019. SUM Gallery (425 - 268 Keefer 
-Street). Tix from $10-$20 at https://www.eventbrite.ca/e/poly-queer-love-ballad-tickets-
-54875970505. More info at http://polyqueerloveballad.com/. 
+Street). Tix from $10-$20 at [https://www.eventbrite.ca/e/poly-queer-love-ballad-tickets-](https://www.eventbrite.ca/e/poly-queer-love-ballad-tickets-)
+54875970505. More info at [http://polyqueerloveballad.com/](http://polyqueerloveballad.com/). 
 
 In this new slam poetry musical, Nina (Anais West), a polyamorous bisexual poet, meets 
 Gabbie (Sara Vickruck), a monogamous lesbian songwriter at Cafe Deux Soleils. With 

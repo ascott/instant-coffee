@@ -12,5 +12,5 @@ ARMOUR OFF: new paintings by Novalynn Diguistini
 Liquidation World 1965 Main St.
 March 14-29 2024
 Opening reception March 14 6-8pm
-https://www.novalynn.ca/
-https://liquidworld.vision
+[https://www.novalynn.ca/](https://www.novalynn.ca/)
+[https://liquidworld.vision](https://liquidworld.vision)

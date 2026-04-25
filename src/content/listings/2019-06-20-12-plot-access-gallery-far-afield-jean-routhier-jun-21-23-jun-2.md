@@ -15,7 +15,7 @@ Walks are 15 minutes long and begin at PLOT @ Access Gallery
 222 E. Georgia Street
 
 Please book an available timeslot online: 
-https://www.farafield.ca/events/2019/6/23/soundwalks-jean-routhier-anecdotes
+[https://www.farafield.ca/events/2019/6/23/soundwalks-jean-routhier-anecdotes](https://www.farafield.ca/events/2019/6/23/soundwalks-jean-routhier-anecdotes)
 
 "Anecdotes" is a series of short, one-person enhanced soundwalks in the neighbourhood 
 surrounding Access Gallery, led by Jean Routhier. These walks are silent wanderings where 

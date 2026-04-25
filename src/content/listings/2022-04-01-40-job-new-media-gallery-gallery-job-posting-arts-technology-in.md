@@ -56,7 +56,7 @@ format in the subject
 line: LAST NAME First Name #22-53
 
 TO READ THE COMPLETE JOB POSTING:
-https://www.newwestcity.ca/database/files/library/Posting_2022_53_Arts_and_Technol
+[https://www.newwestcity.ca/database/files/library/Posting_2022_53_Arts_and_Technol](https://www.newwestcity.ca/database/files/library/Posting_2022_53_Arts_and_Technol)
 ogy_Instructor_New_Media_Gallery.pdf
 
-https://newmediagallery.ca
+[https://newmediagallery.ca](https://newmediagallery.ca)

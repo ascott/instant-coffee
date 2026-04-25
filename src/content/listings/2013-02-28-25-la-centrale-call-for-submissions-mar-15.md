@@ -13,7 +13,7 @@ our call for artist projects.
 Merci pour distribuer cette information et de nous aider au rayonnement de 
 cet appel de dossiers.
 
-Facebook URL- Link- http://www.facebook.com/events/132029890304422/?
+Facebook URL- Link- [http://www.facebook.com/events/132029890304422/](http://www.facebook.com/events/132029890304422/)?
 ref=22
 
 LA CENTRALE GALERIE POWERHOUSE, Montreal, Canada

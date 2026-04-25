@@ -16,4 +16,4 @@ House Theatre!
 
 Tickets are required for Photos with Santa, so make sure you know how and when to
 get them"for all the details, read our Photos with Santa FAQ:
-https://gulfofgeorgiacannery.org/events/photos-with-santa/
+[https://gulfofgeorgiacannery.org/events/photos-with-santa/](https://gulfofgeorgiacannery.org/events/photos-with-santa/)

@@ -25,7 +25,7 @@ environment.
 
 Join the discussion and find out more at www.performanceandxr.com. 
 
-Tickets: https://www.performanceandxr.com/registration-1
+Tickets: [https://www.performanceandxr.com/registration-1](https://www.performanceandxr.com/registration-1)
 
 Produced
 by Electric Company Theatre and Single Thread Theatre 

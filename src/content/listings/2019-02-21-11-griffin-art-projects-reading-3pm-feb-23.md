@@ -13,7 +13,7 @@ Catriona Strang
 Saturday, February 23, 3pm 
 Griffin Art Projects
 1174 Welch St, North Vancouver, BC V7P 2R5
-http://griffinartprojects.ca/
+[http://griffinartprojects.ca/](http://griffinartprojects.ca/)
 
 Mackenzie Ground is a writer from Enoch Cree Nation and Edmonton, Alberta. She 
 is a PhD student at Simon Fraser University. Her writing explores the spaces of the 

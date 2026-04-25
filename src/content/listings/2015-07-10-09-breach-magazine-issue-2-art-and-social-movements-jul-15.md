@@ -77,6 +77,6 @@ policies that remain at the forefront of the neoliberal governance of
 cities”? How can they utilize their unique position to interrogate the
 neoliberal order?
 
-Complete details can be found at http://www.breachmagazine.ca/issue-2-call/.
+Complete details can be found at [http://www.breachmagazine.ca/issue-2-call/](http://www.breachmagazine.ca/issue-2-call/).
 
 Direct submissions and queries to info@breachmagazine.ca by July 15 2015.

@@ -59,7 +59,7 @@ Download the Convention Schedule.
 
 %%%%%% Registration %%%%%%
 
-Register online at: http://arcpost.ca/conference/registration
+Register online at: [http://arcpost.ca/conference/registration](http://arcpost.ca/conference/registration)
 
 A General Convention Pass includes:
 • Entrance to all sessions and debates. Attendees must claim their 
@@ -165,7 +165,7 @@ de trois jours. Télécharger le programme.
 
 %%%%%% INSCRIPTION %%%%%%
 
-http://arcpost.ca/conference/registration
+[http://arcpost.ca/conference/registration](http://arcpost.ca/conference/registration)
 
 Tarif pour les institutions : 250$
 Tarif individuel : 125$

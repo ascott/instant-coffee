@@ -16,4 +16,4 @@ specialize in long-form documentary photography and are looking for submissions 
 story of a place or people from start to finish. Successful projects will have between 30-80
 photos and a 250-word description that explains the meaning and impact of the project.
 
-To learn more, visit https://softgrainbooks.com/call-for-submissions/
+To learn more, visit [https://softgrainbooks.com/call-for-submissions/](https://softgrainbooks.com/call-for-submissions/)

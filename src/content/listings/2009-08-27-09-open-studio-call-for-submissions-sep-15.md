@@ -90,4 +90,4 @@ Open Studio 401 Richmond Street West, Suite 104 Toronto ON M5V 3A8
 Phone/Fax: 416-504-8238
 
 E-mail: office@openstudio.on.ca 
-http://www.openstudio.on.ca
+[http://www.openstudio.on.ca](http://www.openstudio.on.ca)

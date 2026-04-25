@@ -11,7 +11,7 @@ summary: "Day for Night: Films in the Afternoon | Berlin Alexanderplatz (10-13) 
 Day for Night: Films in the Afternoon
 May 15th, 2011, Doors 1:00pm. Films at 1:30pm.
 
-More information at http://www.waldorfhotel.com/
+More information at [http://www.waldorfhotel.com/](http://www.waldorfhotel.com/)
 
 The Waldorf Hotel |1489 East Hastings
 

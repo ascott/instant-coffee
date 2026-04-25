@@ -44,7 +44,7 @@ days.
 Benjamin Lumb Art House,1370 Marine Drive, West Vancouver
 gallery@benjaminlumb.art
 
-https://www.artsy.net/partner/benjamin-lumb-art-house
+[https://www.artsy.net/partner/benjamin-lumb-art-house](https://www.artsy.net/partner/benjamin-lumb-art-house)
 
 46. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.

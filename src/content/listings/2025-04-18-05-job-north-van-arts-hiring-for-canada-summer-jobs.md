@@ -48,4 +48,4 @@ in July and August.
 REMUNERATION: $20.00 per hour, 35 hour per week for 10 weeks
 Start date: Monday, June 21, 2025
 
-For full job posting details visit: https://northvanarts.ca/about/career-opportunities/
+For full job posting details visit: [https://northvanarts.ca/about/career-opportunities/](https://northvanarts.ca/about/career-opportunities/)

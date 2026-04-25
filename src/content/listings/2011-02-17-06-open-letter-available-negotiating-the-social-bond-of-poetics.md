@@ -51,6 +51,6 @@ sent to both of us. Complete work will be requested by mid-August
 
 For more details about the KSW “Negotiating the Social Bond of 
 poetics” series please see the website or write to Nancy Gillespie: 
-http://www.kswnet.org/fire/announcementtargetpage.cfm?
+[http://www.kswnet.org/fire/announcementtargetpage.cfm](http://www.kswnet.org/fire/announcementtargetpage.cfm)?
 showannouncement=NEGOTIATING.htm&announceID=315
 OL negotiating CFP.doc OL negotiating CFP.doc

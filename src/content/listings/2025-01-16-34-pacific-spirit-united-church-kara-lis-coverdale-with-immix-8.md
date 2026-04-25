@@ -12,7 +12,7 @@ Kara-Lis Coverdale
 with Immix
 February 22,2025 | 8 PM
 Pacific Spirit United Church (2195 West 45th Ave)
-https://www.newmusic.org/events/kara-lis-coverdale
+[https://www.newmusic.org/events/kara-lis-coverdale](https://www.newmusic.org/events/kara-lis-coverdale)
 
 Vancouver New Music presents musician and composer Kara-Lis Coverdale.
 Creating

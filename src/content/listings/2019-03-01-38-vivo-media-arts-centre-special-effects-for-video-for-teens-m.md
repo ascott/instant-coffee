@@ -22,8 +22,8 @@ Only $107 each ticket, when purchasing 3 or more tickets, together!
 Wait a second, $107 16 hours... that's under $7 an hour! 
 
 SIGN UP & MORE INFO
-Class A, March 18, 19, 20, and 21: https://sfx-video-a.eventbrite.ca
-Class B, March 25, 26, 27, and 28: https://sfx-video-b.eventbrite.ca
+Class A, March 18, 19, 20, and 21: [https://sfx-video-a.eventbrite.ca](https://sfx-video-a.eventbrite.ca)
+Class B, March 25, 26, 27, and 28: [https://sfx-video-b.eventbrite.ca](https://sfx-video-b.eventbrite.ca)
 
 - motion tracking
 - "magic" or "lasers" using After Effects, Photoshop
@@ -34,4 +34,4 @@ Class B, March 25, 26, 27, and 28: https://sfx-video-b.eventbrite.ca
 - and more!
 
 Two Extended Subsidies are also available for this workshop:
-https://goo.gl/forms/cRJWweVShHOHCRs53
+[https://goo.gl/forms/cRJWweVShHOHCRs53](https://goo.gl/forms/cRJWweVShHOHCRs53)

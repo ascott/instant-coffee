@@ -22,4 +22,4 @@ Labyrinth Committee are seeking an artist to provide services to
 engage the local community to create a collaborative community mural 
 on a wall adjacent to an outdoor labyrinth.
 
-Link to Call: http://www.richmond.ca/culture/publicart/opportunities.htm
+Link to Call: [http://www.richmond.ca/culture/publicart/opportunities.htm](http://www.richmond.ca/culture/publicart/opportunities.htm)

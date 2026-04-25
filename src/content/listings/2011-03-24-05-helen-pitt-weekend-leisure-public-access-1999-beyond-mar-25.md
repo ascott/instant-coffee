@@ -30,7 +30,7 @@ brings together individuals from backgrounds both in and out of the
 contemporary art world, extending the individuals' potential beyond 
 their respective fields. More information, including stills and clips 
 from the videos, can be found at 
-http://publicaccess.helenpittgallery.org .
+[http://publicaccess.helenpittgallery.org](http://publicaccess.helenpittgallery.org) .
 
 PUBLIC ACCESS will be accompanied by a book, available in late 
 April, including commentary by the HP Radio Show (Hank Bull and 

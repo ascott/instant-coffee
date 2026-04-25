@@ -26,4 +26,4 @@ Tickets are $7 and will be available in advance through the MFA and CCST
 students as well as at the door.
 
 Visit our event page on Facebook at
-http://www.facebook.com/event.php?eid=11662442173
+[http://www.facebook.com/event.php?eid=11662442173](http://www.facebook.com/event.php?eid=11662442173)

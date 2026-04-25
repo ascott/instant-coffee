@@ -80,11 +80,11 @@ Research Council of Canada, Creative BC are just a few.
 
 ISEA2015 registration ends August 6th, and options range from free and
 ticketed events to full registration.
-http://isea2015.org/for-attendees/registration/
+[http://isea2015.org/for-attendees/registration/](http://isea2015.org/for-attendees/registration/)
 
 PRESS ACCREDITATION
 Applications for press accreditation are available till August 6, 2015.
-Please see the Accreditation form here http://isea2015.org/press/
+Please see the Accreditation form here [http://isea2015.org/press/](http://isea2015.org/press/)
 
 ABOUT ISEA International
 Founded in the Netherlands in 1990, ISEA International is an international
@@ -104,4 +104,4 @@ Maria Fedorova, Communications & Social Media Chair
 International Symposium on Electronic Art 2015
 E-mail: isea2015-press@sfu.ca
 
-http://isea2015.org/
+[http://isea2015.org/](http://isea2015.org/)

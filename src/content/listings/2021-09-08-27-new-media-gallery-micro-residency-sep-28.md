@@ -20,7 +20,7 @@ who demonstrate a desire to experiment with technologies. We also hope to
 encourage
 applications from those who may not have the resources to afford expensive technology.
 Application deadline is September 28, 2021. Visit
-https://newmediagallery.ca/microresidency21/ for more information.
+[https://newmediagallery.ca/microresidency21/](https://newmediagallery.ca/microresidency21/) for more information.
 
 New Media Gallery
 3rd Floor Anvil Centre

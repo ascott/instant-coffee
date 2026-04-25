@@ -37,4 +37,4 @@ city. Now, we invite Patrick Cruz, Gwenessa Lam, Evan Lee, Mehran Modarres,
 Byron Peters, Tadasu Takamine, Alex Cu Unjieng, and Qahraman Yousif to set 
 the stage for a season of contemplation.
 
-Centre A | 229 East Georgia | 604-683- 8326 | http://centrea.org/
+Centre A | 229 East Georgia | 604-683- 8326 | [http://centrea.org/](http://centrea.org/)

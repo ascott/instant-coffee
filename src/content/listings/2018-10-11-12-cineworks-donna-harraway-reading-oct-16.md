@@ -35,7 +35,7 @@ loud).
 Tentacular Thinking: Anthropocene, Capitalocene, Chthulucene
 Donna Haraway
 
-Download: https://goo.gl/oiYwVA
+Download: [https://goo.gl/oiYwVA](https://goo.gl/oiYwVA)
 
 "What happens when human exceptionalism and bounded individualism, those
 old saws of Western philosophy and political economics, become unthinkable
@@ -57,7 +57,7 @@ film:
 Donna Haraway: Storytelling for Earthly Survival
 Wed 17 Oct; 7.00pm; Cineworks Studio
 
-https://goo.gl/at18Gf
+[https://goo.gl/at18Gf](https://goo.gl/at18Gf)
 
 Cineworks gratefully acknowledges and pays respect to the Musqueam,
 Squamish and Tsleil-Waututh First Nations on whose unceded traditional

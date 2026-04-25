@@ -37,7 +37,7 @@ The course fee is $50.00 (or $20 to $50 if you are strapped) payable to the
 Kootenay School of Writing on the first day of the workshop (May2). We
 will limit the number of participants 12.
 
-visit the website of the Kootenay School: http://www.kswnet.org/
+visit the website of the Kootenay School: [http://www.kswnet.org/](http://www.kswnet.org/)
 
 Meredith Quartermainâ&#65533;&#65533;s Vancouver Walking won the 2006 BC Book Awards Poetry
 Prize. Nightmarker, which continues her work on Vancouver, appeared in 2008

@@ -41,7 +41,7 @@ professional sphere. The interrelatedness of art, society and everyday life is c
 explored amongst a diverse plurality of artists and publics. JEREMY TODD instigates each 
 event as an extension of his ongoing NOT SENT LETTERS project (involving image/text 
 epistolary detours online since 2005, digital shorts, interdisciplinary performance works and 
-cooperatively realized public events): http://notsentlettersproject.com
+cooperatively realized public events): [http://notsentlettersproject.com](http://notsentlettersproject.com)
 
 This is the twenty-fifth NOT SENT LETTERS & GUESTS event.
 
@@ -99,7 +99,7 @@ Conflators Of Jos Ortega y Gasset And Jeremy Todd) & DAMLA TAMER (To The Triumph
 Of The Talkies).
 
 Explore previous NOT SENT LETTERS & GUESTS events here: 
-http://notsentlettersproject.com/category/events
+[http://notsentlettersproject.com/category/events](http://notsentlettersproject.com/category/events)
 
 Please email JEREMY TODD to host or contribute to a future NSL&G event: 
 info@notsentlettersproject.com

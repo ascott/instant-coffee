@@ -18,19 +18,19 @@ intimate setting. Hosted by VIVO Media Arts, the 48th edition of this series wil
 feature performances by:
 
 Blevin Blectum: cerebral electronic deviant
-https://soundcloud.com/blevinblectum
+[https://soundcloud.com/blevinblectum](https://soundcloud.com/blevinblectum)
 
 Crotch: no waving no wavers nothing waived
-https://crotch131313.bandcamp.com
+[https://crotch131313.bandcamp.com](https://crotch131313.bandcamp.com)
 
 Maskara: Nic Hughes' (Shearing Pinx) deconstruction of pop
-https://maskara.bandcamp.com
+[https://maskara.bandcamp.com](https://maskara.bandcamp.com)
 
 The Powers: dense immersive electronic aural collage performance
-http://emilypelstring.com/The-Powers
+[http://emilypelstring.com/The-Powers](http://emilypelstring.com/The-Powers)
 
 Tickets $15 advance
-https://www.eventbrite.ca/e/quiet-city-no-48-tickets-47315701537
+[https://www.eventbrite.ca/e/quiet-city-no-48-tickets-47315701537](https://www.eventbrite.ca/e/quiet-city-no-48-tickets-47315701537)
 or $17-20 sliding scale at the door.
 Performances start at 9pm. Come hang in the setting sun ~ !
 

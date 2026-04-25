@@ -23,10 +23,10 @@ The current deadline is October 1st.
 
 To submit please follow the guidelines on our website:
 
-https://arntwrite.wixsite.com/home/submit
+[https://arntwrite.wixsite.com/home/submit](https://arntwrite.wixsite.com/home/submit)
 
 Digital version of our previous issue is available on our website:
 
-https://arntwrite.wixsite.com/home/post/ar-n-t-write-issue-1
+[https://arntwrite.wixsite.com/home/post/ar-n-t-write-issue-1](https://arntwrite.wixsite.com/home/post/ar-n-t-write-issue-1)
 
 Follow us on instagram: @arntwrite

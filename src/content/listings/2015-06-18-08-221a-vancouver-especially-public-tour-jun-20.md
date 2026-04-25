@@ -29,7 +29,7 @@ an insubordinate architecture of the future by looking to the past.
 Outdoors
 Likely Cold, Hot or Rainy
 
-Read more: http://221a.ca/vancouver-especially
+Read more: [http://221a.ca/vancouver-especially](http://221a.ca/vancouver-especially)
 
 Semi-Public
 271 Union St

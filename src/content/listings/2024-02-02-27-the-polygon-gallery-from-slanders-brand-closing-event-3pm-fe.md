@@ -16,7 +16,7 @@ Music by Mikubat
 Karaoke
 RSVPs are helpful
 
-RSVP here: https://thepolygon.ca/event/from-slanders-brand-closing-celebration/
+RSVP here: [https://thepolygon.ca/event/from-slanders-brand-closing-celebration/](https://thepolygon.ca/event/from-slanders-brand-closing-celebration/)
 
 About Mikubat
 Mikubat aka Parsa Nazeri (b. 2000 in Tehran) is a multifaceted DJ who is interested

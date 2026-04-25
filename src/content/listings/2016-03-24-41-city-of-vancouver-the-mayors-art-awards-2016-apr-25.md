@@ -22,7 +22,7 @@ Find a nominating partner and submit your suggestion by Monday April 25th
 at noon.
 
 Find the information you need at:
-http://www.allianceforarts.com/blog/2016/3/16/nominations-2016-mayors-arts-awards
+[http://www.allianceforarts.com/blog/2016/3/16/nominations-2016-mayors-arts-awards](http://www.allianceforarts.com/blog/2016/3/16/nominations-2016-mayors-arts-awards)
 
 Our creative future is in our collective hands. From music and dance to
 visual arts and new media, Vancouver is enriched, enlivened, and

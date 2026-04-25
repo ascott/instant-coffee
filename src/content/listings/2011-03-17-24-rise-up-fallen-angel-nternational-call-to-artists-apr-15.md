@@ -18,7 +18,7 @@ involve live improvised music accompanying images projected on three
 large screens. The curator will group the images so they will be
 displayed to create a non-linear narrative relating to the theme.
 
-Full details: http://vix.ca/blog/rise-up-fallen-angel/
+Full details: [http://vix.ca/blog/rise-up-fallen-angel/](http://vix.ca/blog/rise-up-fallen-angel/)
 
 About the Location
 The Centre for Performance Research is located in Brooklyn, NY and is

@@ -20,7 +20,7 @@ One roll of black&white reversal film per team.
 Materials will be provided and no experience is necessary. 
 
 Please register through eventbrite or email melodiousimage@gmail.com
-https://www.eventbrite.ca/e/super-8-shoot-to-screen-tickets-54444514007?
+[https://www.eventbrite.ca/e/super-8-shoot-to-screen-tickets-54444514007](https://www.eventbrite.ca/e/super-8-shoot-to-screen-tickets-54444514007)?
 fbclid=IwAR13NF9LyrUdqsrG9iNn1Z35zgyOSy4R2Al8RFT4j-K2UxVT3olg8hm7HPA
 
 Public screening on Sunday night open to all.

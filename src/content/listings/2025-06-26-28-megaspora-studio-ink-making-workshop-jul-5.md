@@ -15,7 +15,7 @@ Date: Saturday July 5 and/or Sunday July 6, 4:00 - 6:00 pm
 
 Location: Megaspora Studio (near Hastings and Nanaimo)
 
-Free to attend! Sign up: https://forms.gle/JyRWbDXLZgtrPsEb8
+Free to attend! Sign up: [https://forms.gle/JyRWbDXLZgtrPsEb8](https://forms.gle/JyRWbDXLZgtrPsEb8)
 
 Join Sunny Nestler for an ink-making workshop at Megaspora Studio. In this workshop
 you will have the opportunity to contemplate your own connection to themes of

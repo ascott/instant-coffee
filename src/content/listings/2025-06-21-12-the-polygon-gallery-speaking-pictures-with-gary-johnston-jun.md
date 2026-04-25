@@ -24,7 +24,7 @@ with this special program.
 Please join us for a time of storytelling and light refreshments from 11am until 1pm.
 Admission is by a suggested donation of $10-$20, courtesy of BMO Financial Group
 RSVPs are helpful
-RSVP here: https://thepolygon.typeform.com/speaking
+RSVP here: [https://thepolygon.typeform.com/speaking](https://thepolygon.typeform.com/speaking)
 
 About Gary Johnston
 Gary Johnston is Skwxw7mesh Uxwumixw, and has been an educator for over 25

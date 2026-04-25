@@ -51,4 +51,4 @@ Avenue, organized by Steffanie Ling and Emma Metcalfe Hurst.
 Please note a brief intermission will follow the first two readings and
 concession will be there for sustenance.
 
-http://165avenue.tumblr.com/
+[http://165avenue.tumblr.com/](http://165avenue.tumblr.com/)

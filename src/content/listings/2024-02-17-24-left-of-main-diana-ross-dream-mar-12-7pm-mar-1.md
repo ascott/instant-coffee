@@ -34,10 +34,10 @@ a call. " Aisha Sasha John
 Presented by plastic orchid factory, in partnership with the Electric Company
 Theatre.
 
-Tickets: https://www.tickettailor.com/events/plasticorchidfactory?
+Tickets: [https://www.tickettailor.com/events/plasticorchidfactory](https://www.tickettailor.com/events/plasticorchidfactory)?
 
 Info:
-http://plasticorchidfactory.ca/diana-ross-dream.html
+[http://plasticorchidfactory.ca/diana-ross-dream.html](http://plasticorchidfactory.ca/diana-ross-dream.html)
 
 @aishasashajohn
 

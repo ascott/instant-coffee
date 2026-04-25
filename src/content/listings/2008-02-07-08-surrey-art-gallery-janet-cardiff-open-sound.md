@@ -34,6 +34,6 @@ We are located in the Surrey Arts Centre, in Bear Creek Park, at the corner of 8
 vox +1.604.727.1325
 vid skype:furiousgreencloud
 msg aol/ichat: furiousgrncloud
-web http://furiousgreencloud.blogspot.com/
-cal http://www.icalx.com/html/furiousgreencloud/month.php?cal=Events
+web [http://furiousgreencloud.blogspot.com/](http://furiousgreencloud.blogspot.com/)
+cal [http://www.icalx.com/html/furiousgreencloud/month.php?cal=Events](http://www.icalx.com/html/furiousgreencloud/month.php?cal=Events)
     webcal://icalx.com/public/furiousgreencloud/Events.ics

@@ -18,7 +18,7 @@ Submit your application online by providing an exhibition proposal. A jury of
 professional artists and curators will then select artists to exhibit their art at the Ferry
 Building Gallery between May 2026 and April 2027.
 
-https://ferrybuildinggallery.ca/submissions?
+[https://ferrybuildinggallery.ca/submissions](https://ferrybuildinggallery.ca/submissions)?
 utm_medium=email&utm_campaign=Annual-Call-for-Entry&utm_source=Envoke-
 Call-for-Entry-%28for-artists-interested-in-exhibiting-&utm_term=Annual-Call-for-
 Entry-Now-Open%3A-2026-exhibitions

@@ -22,4 +22,4 @@ Poets and Panellists include Taran Kootenhayoo, Amanda Eagleson, Anita Movazzafi
 Soramaru Takayama, Lindi Nolte, Lillian Allen, Kai Cheng Thom, Brandon Wint, Johnny
 MacRae, and Shane Sable.
 
-This is a free event. Please register online at http://www.cacv.ca/stage-to-page/
+This is a free event. Please register online at [http://www.cacv.ca/stage-to-page/](http://www.cacv.ca/stage-to-page/)

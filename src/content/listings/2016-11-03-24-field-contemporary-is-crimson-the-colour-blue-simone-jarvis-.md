@@ -39,4 +39,4 @@ qualities and processes of the material. Her paintings, drawings, and sculptures
 continue to be organized primarily by colour and form.
 
 For more info please visit www.field-contemporary.com
-http://www.field-contemporary.com
+[http://www.field-contemporary.com](http://www.field-contemporary.com)

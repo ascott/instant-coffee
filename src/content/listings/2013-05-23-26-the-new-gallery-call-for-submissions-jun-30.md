@@ -15,7 +15,7 @@ Deadline: June 30, 2013
 The New Gallery (TNG) is currently seeking proposals for our 2014 
 Main Space programming. A detailed floor plan and additional 
 information can be found on our website: 
-http://thenewgallery.org/submit.
+[http://thenewgallery.org/submit](http://thenewgallery.org/submit).
 
 Main Space programming comprises exhibitons by artists, 
 collaborators, curators, and other cultural producers from a variety of 

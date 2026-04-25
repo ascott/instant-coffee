@@ -19,7 +19,7 @@ Zhu-Nowell on the occasion of Nguyen's exhibition If I hadnt created my own worl
 I would have died in someone elses.
 
 Registration for this event is required. Secure your place here:
-https://cagvancouver.org/event/in-conversation-diane-severin-nguyen-x-zhu-nowell
+[https://cagvancouver.org/event/in-conversation-diane-severin-nguyen-x-zhu-nowell](https://cagvancouver.org/event/in-conversation-diane-severin-nguyen-x-zhu-nowell)
 
 Diane Severin Nguyen works with photography, video and installation. She is
 particularly interested in exceeding photography as a mode of documentation and
@@ -39,4 +39,4 @@ ASL interpretation is available on request. Requests can be accommodated up to 5
 days in advance. Please contact learning@cagvancouver.org to book or for more
 information.
 
-https://cagvancouver.org/event/in-conversation-diane-severin-nguyen-x-zhu-nowell
+[https://cagvancouver.org/event/in-conversation-diane-severin-nguyen-x-zhu-nowell](https://cagvancouver.org/event/in-conversation-diane-severin-nguyen-x-zhu-nowell)

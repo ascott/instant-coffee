@@ -32,4 +32,4 @@ internationally.
 
 Exhibition is on view October 15 - December 31, 2016
 
-http://www.richmondartgallery.org/upcoming/artists-talk-diyan-achjadi-and-shawn-hunt/
+[http://www.richmondartgallery.org/upcoming/artists-talk-diyan-achjadi-and-shawn-hunt/](http://www.richmondartgallery.org/upcoming/artists-talk-diyan-achjadi-and-shawn-hunt/)

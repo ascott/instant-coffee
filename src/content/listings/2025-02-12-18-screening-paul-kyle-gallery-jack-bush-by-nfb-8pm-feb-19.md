@@ -26,7 +26,7 @@ the past 25 years. Exhibitions of his work are shown, in particular a retrospect
 which he and his friend Clement Greenberg, noted New York art critic, talk about his
 paintings.
 
-Please RSVP here: https://www.paulkylegallery.com/event-details/jack-bush-nfb-
+Please RSVP here: [https://www.paulkylegallery.com/event-details/jack-bush-nfb-](https://www.paulkylegallery.com/event-details/jack-bush-nfb-)
 documentary/form. Due to limited seating, guests are required to RSVP. Please
 arrive prior to film start time.
 

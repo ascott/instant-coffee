@@ -14,7 +14,7 @@ PROGRAMME 2010/2011:
 Curating in the expanded field
 
 Application deadline: January 15, 2010
-http://www.deappel.nl/cp
+[http://www.deappel.nl/cp](http://www.deappel.nl/cp)
 
 Initiated in 1994 the Curatorial Programme of Arts Centre de Appel wishes
 to offer young curators a condensed package of experiences and skills that
@@ -108,7 +108,7 @@ P.O. Box 10764
 the Netherlands
 
 For further information please visit our website
-http://www.deappel.nl/cp
+[http://www.deappel.nl/cp](http://www.deappel.nl/cp)
 
 contact:
 Danila Cahen (coordinator): dcahen@deappel.nl

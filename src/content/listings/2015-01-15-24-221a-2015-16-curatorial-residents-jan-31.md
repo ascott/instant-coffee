@@ -22,4 +22,4 @@ develop a curatorial project, taking on the critical function of working
 both inside and outside of the organization, offering their experience and
 ideas towards the continued re-framing of 221A.
 
-For more information please visit: http://221a.ca/call-2015-16
+For more information please visit: [http://221a.ca/call-2015-16](http://221a.ca/call-2015-16)

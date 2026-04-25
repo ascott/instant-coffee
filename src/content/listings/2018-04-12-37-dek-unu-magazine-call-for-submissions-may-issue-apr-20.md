@@ -19,8 +19,8 @@ photography one artist at a time along with an artist interview and extensive pr
 on web and social media. All accomplished, adventurous lens-based art, all methods, 
 and all genres are welcome. International submissions warmly encouraged. Current 
 issue is now live, free online, at www.dekunumag.com and complete submission 
-guidelines are at https://www.dekunumag.com/submit . An archive of pdfs of back 
-issues, at https://www.dekunumag.com/issues as a hint to our aesthetic direction. 
+guidelines are at [https://www.dekunumag.com/submit](https://www.dekunumag.com/submit) . An archive of pdfs of back 
+issues, at [https://www.dekunumag.com/issues](https://www.dekunumag.com/issues) as a hint to our aesthetic direction. 
 
 Our deadline is always the 20th of the month for the succeeding issue and all 
 respondents are notified of results as soon after that date as humanly possible.

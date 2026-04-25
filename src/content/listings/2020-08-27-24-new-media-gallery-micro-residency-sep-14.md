@@ -12,4 +12,4 @@ FREE, 3-Day Micro-Residencies available through the Learning Lab at New Media Ga
 A chance to experiment with the Tech we have on offer. You will have half the Learning Lab.
 Deadline for applications is September 14.
 
-https://newmediagallery.ca/micro-residency/
+[https://newmediagallery.ca/micro-residency/](https://newmediagallery.ca/micro-residency/)

@@ -47,4 +47,4 @@ My Studio!
 208 - 1000 Parker Street, Vancouver
 
 For more information or to register for a class email: sonya@sonyaiwasiuk.com
-http://www.sonyaiwasiuk.com
+[http://www.sonyaiwasiuk.com](http://www.sonyaiwasiuk.com)

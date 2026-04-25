@@ -36,4 +36,4 @@ Toronto. With the assistance of Canada Council and BC Arts Council
 production grants, McLean’s most recent projects Latent Image and Debris
 investigate the earliest forms of production within the medium.
 
-http://mikeandrewmclean.com
+[http://mikeandrewmclean.com](http://mikeandrewmclean.com)

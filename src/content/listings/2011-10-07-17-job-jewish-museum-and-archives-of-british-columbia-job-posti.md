@@ -37,7 +37,7 @@ reports to the Board of Directors, departmental and ad-hoc committees
 throughout the year.
 
 Review the entire job description online at
-http://www.jewishmuseum.ca/employment
+[http://www.jewishmuseum.ca/employment](http://www.jewishmuseum.ca/employment)
 
 HOURS OF WORK: Part-time, 25 hours per week, occasional evenings and
 Sundays to perhaps evolve into full-time.

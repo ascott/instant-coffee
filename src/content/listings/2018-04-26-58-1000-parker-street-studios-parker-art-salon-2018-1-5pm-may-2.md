@@ -20,7 +20,7 @@ Friday, May 25, 2018, the Parker Art Salon opens with the exclusive Collectors N
 event at 1000 Parker Street Studios. Guests will join other art lovers, enjoy first dibs on 
 the latest art pieces, and celebrate with food and wine as our rugged, industrial space is 
 transformed into an elegant gathering celebrating fine art. Tickets: $20 in advance at 
-https://www.eventbrite.com/e/parker-art-salon-tickets-42884969097?aff=eac2 $25 at the 
+[https://www.eventbrite.com/e/parker-art-salon-tickets-42884969097?aff=eac2](https://www.eventbrite.com/e/parker-art-salon-tickets-42884969097?aff=eac2) $25 at the 
 door, $50 for a Collectors Pass.
 
 Parker Art Salon 2018 Collectors Night includes a Silent Art Auction (online bidding now 

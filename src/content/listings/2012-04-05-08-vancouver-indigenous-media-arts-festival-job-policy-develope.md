@@ -83,4 +83,4 @@ DTES residents, First Nations, people of colour, and women.
 
 Contact
 vimaf2011@gmail.com
-http://vimaf.com/
+[http://vimaf.com/](http://vimaf.com/)

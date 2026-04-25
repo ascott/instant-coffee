@@ -30,4 +30,4 @@ Exhibition Sale Period: November 30 " December 14
 Gallery Hours: Weds " Sat, 12 " 6 PM
 Location: Centre A (205 " 268 Keefer Street)
 
-https://centrea.org/
+[https://centrea.org/](https://centrea.org/)

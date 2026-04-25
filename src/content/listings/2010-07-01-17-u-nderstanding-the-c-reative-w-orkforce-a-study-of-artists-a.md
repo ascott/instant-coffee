@@ -30,7 +30,7 @@ understanding of artists careers .
 Follow the link below to the survey website for more information on how you
 can participate in this survey and share your story with us:
 
-http://www.sfu.ca/cultureandcommunities
+[http://www.sfu.ca/cultureandcommunities](http://www.sfu.ca/cultureandcommunities)
 
 As a way of saying thank-you, we will enter all participants into a draw to
 win an Apple iPod. As well, we will make available to you a report

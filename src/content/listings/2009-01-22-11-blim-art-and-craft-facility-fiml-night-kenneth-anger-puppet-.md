@@ -13,8 +13,8 @@ summary: "Blim Art and Craft Facility | fiml night: Kenneth Anger// Puppet Makin
 > Flim Night : Films Curated by Christopher Olson
 >
 > Zachariah
-> http://www.youtube.com/watch?v=oeHZecjraGs
-> http://www.youtube.com/watch?v=rKke5oAAqBA&feature=related
+> [http://www.youtube.com/watch?v=oeHZecjraGs](http://www.youtube.com/watch?v=oeHZecjraGs)
+> [http://www.youtube.com/watch?v=rKke5oAAqBA&feature=related](http://www.youtube.com/watch?v=rKke5oAAqBA&feature=related)
 >
 > Short: TBA
 > by Kenneth Anger

@@ -20,4 +20,4 @@ creative freedom.
 
 Opening Reception: Saturday, April 18, 12"4 PM.
 108 East Broadway (alley entrance), Vancouver.
-https://thisgallery.org/
+[https://thisgallery.org/](https://thisgallery.org/)

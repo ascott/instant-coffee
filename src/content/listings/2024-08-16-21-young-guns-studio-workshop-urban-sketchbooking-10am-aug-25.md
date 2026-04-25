@@ -20,6 +20,6 @@ $35.00 - Includes all art supplies & a sketchbook kit for you to take home.
 LOCATION: 13th & Granville Plaza
 DATE & TIME: Sunday August 25, 10 AM - 12:30 PM
 
-TICKETS: https://ygacademy.myshopify.com/products/sketchbooking-workshop
+TICKETS: [https://ygacademy.myshopify.com/products/sketchbooking-workshop](https://ygacademy.myshopify.com/products/sketchbooking-workshop)
 
-Visit http://ygacademy.ca/ to learn more about who we are and what we do.
+Visit [http://ygacademy.ca/](http://ygacademy.ca/) to learn more about who we are and what we do.

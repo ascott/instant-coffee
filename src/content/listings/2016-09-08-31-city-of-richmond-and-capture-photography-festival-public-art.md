@@ -37,7 +37,7 @@ January 2018
 
 For more information on how to apply, please visit the City of 
 Richmond website and download the Artist Call (PDF): 
-http://richmond.ca/culture/publicart/opportunities.htm
+[http://richmond.ca/culture/publicart/opportunities.htm](http://richmond.ca/culture/publicart/opportunities.htm)
 
 32. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.

@@ -9,4 +9,4 @@ summary: "Kamloops Art Gallery [ONLINE] | SHIRLEY BRUNO | 7PM | OCT 27"
 ---
 
 TUESDAY, OCTOBER 27, 7:00 PM (PDT)
-REGISTER: https://us02web.zoom.us/webinar/register/WN_l9JYKTudQIuXJANyOjDlaw
+REGISTER: [https://us02web.zoom.us/webinar/register/WN_l9JYKTudQIuXJANyOjDlaw](https://us02web.zoom.us/webinar/register/WN_l9JYKTudQIuXJANyOjDlaw)

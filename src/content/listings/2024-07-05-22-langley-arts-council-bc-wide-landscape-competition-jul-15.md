@@ -26,4 +26,4 @@ Location: Williams Park (located in the Township of Langley 6596-6726 238th St.
 Langley)
 
 For more information or to apply, visit our website at
-https://www.langleyarts.ca/submit/landscape-competition
+[https://www.langleyarts.ca/submit/landscape-competition](https://www.langleyarts.ca/submit/landscape-competition)

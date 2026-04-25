@@ -31,9 +31,9 @@ by to show your support. Childcare requires advanced RSVP; please contact
 us at christine.donofrio@ubc.ca and let us know the first names and number
 of children requiring care, their ages, and what time you plan on
 attending. Women, women-identified, and male allies welcomed. RSVP on
-Facebook https://www.facebook.com/events/1558925007687895/ and sign on to
+Facebook [https://www.facebook.com/events/1558925007687895/](https://www.facebook.com/events/1558925007687895/) and sign on to
 the event on Wikipedia
-https://en.wikipedia.org/wiki/Wikipedia:Meetup/Vancouver,_B.C./ArtAndFeminism_2015
+[https://en.wikipedia.org/wiki/Wikipedia:Meetup/Vancouver,_B.C./ArtAndFeminism_2015](https://en.wikipedia.org/wiki/Wikipedia:Meetup/Vancouver,_B.C./ArtAndFeminism_2015)
 
 Edit-a-thons are taking place across the globe on International Women’s Day
 weekend, March 7-8, 2015. Confirmed satellite edit-a-thon hosts include:
@@ -50,7 +50,7 @@ online in a Google Hangout with Addie Wagenknecht, with many more in
 development.
 
 Event Page:
-https://en.wikipedia.org/wiki/Wikipedia:Meetup/Vancouver,_B.C./ArtAndFeminism_2015
+[https://en.wikipedia.org/wiki/Wikipedia:Meetup/Vancouver,_B.C./ArtAndFeminism_2015](https://en.wikipedia.org/wiki/Wikipedia:Meetup/Vancouver,_B.C./ArtAndFeminism_2015)
 
 EDIT-ATHON EVENT:
 

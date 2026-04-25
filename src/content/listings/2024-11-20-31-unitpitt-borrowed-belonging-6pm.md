@@ -58,4 +58,4 @@ gatherings, workshops and creative collaborations within the arts while members
 grow their own creative and organizational practices.
 
 Learn more about the individual artists here:
-https://www.unitpitt.ca/portfolio/artists-in-residence-art-ecosystem-collective/
+[https://www.unitpitt.ca/portfolio/artists-in-residence-art-ecosystem-collective/](https://www.unitpitt.ca/portfolio/artists-in-residence-art-ecosystem-collective/)

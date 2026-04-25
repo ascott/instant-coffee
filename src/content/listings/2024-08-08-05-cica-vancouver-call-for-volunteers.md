@@ -15,10 +15,10 @@ management, interact with renowned artists, patrons, and industry professionals,
 enhance their resume with valuable skills and experiences, as well as enjoy exclusive
 early access to our upcoming exhibitions and special events.
 
-To learn more: https://cicavancouver.com/volunteer/
+To learn more: [https://cicavancouver.com/volunteer/](https://cicavancouver.com/volunteer/)
 
 To apply:
-https://docs.google.com/forms/d/e/1FAIpQLSfR0UZAxMyW_vU4OnXWlmSQkgZggDMc
+[https://docs.google.com/forms/d/e/1FAIpQLSfR0UZAxMyW_vU4OnXWlmSQkgZggDMc](https://docs.google.com/forms/d/e/1FAIpQLSfR0UZAxMyW_vU4OnXWlmSQkgZggDMc)
 4KhuCZEGNY9IuxZhSw/viewform
 
 For inquiries,

@@ -36,6 +36,6 @@ Fata Morgana is a type of mirage that produces multiple overlapping images that
 actively change and distort creating the deceptive appearance of distant objects. The
 work in the exhibition includes photography, drawing, collage and maquettes.
 
-Elissa Cristall /projects: https://www.artoffice.ca | 604.730.9611
-Location: http://www.pendulumgallery.bc.ca (wheelchair accessible)
+Elissa Cristall /projects: [https://www.artoffice.ca](https://www.artoffice.ca) | 604.730.9611
+Location: [http://www.pendulumgallery.bc.ca](http://www.pendulumgallery.bc.ca) (wheelchair accessible)
 Sara Graham: @citimovement

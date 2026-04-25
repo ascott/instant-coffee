@@ -16,7 +16,7 @@ The Westin Bayshore Hotel
 Vancouver, BC 
 
 Tickets: $200
-http://centrea.org/auction/
+[http://centrea.org/auction/](http://centrea.org/auction/)
 
 Auctioneer: Hank Bull 
 Special keynote presentation by Assaulted Fish
@@ -24,7 +24,7 @@ Featuring work by Howie Tsui, Chang En Man, Yoshitomo Nara, Patrick Cruz, Le
 Brothers, Lewis & Taggart, Seung Woo Back, and more. 
 
 View the catalogue
-https://centreaauction2017.tumblr.com/
+[https://centreaauction2017.tumblr.com/](https://centreaauction2017.tumblr.com/)
 
 * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 After a one-year hiatus, Centre A is excited to host another distinctive gala event 

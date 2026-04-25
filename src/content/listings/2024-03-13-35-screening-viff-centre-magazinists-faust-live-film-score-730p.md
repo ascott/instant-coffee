@@ -13,7 +13,7 @@ Show: 7:30pm
 Location:
 VIFF Centre (1181 Seymour St.)
 
-Tickets: https://viff.org/whats-on/faust-magazinist-live/
+Tickets: [https://viff.org/whats-on/faust-magazinist-live/](https://viff.org/whats-on/faust-magazinist-live/)
 
 Experimental music duo Magazinist perform an original live score alongside F. W.
 Murnaus Faust on April 30, aka Walpurgis Night " the very evening when Faust is

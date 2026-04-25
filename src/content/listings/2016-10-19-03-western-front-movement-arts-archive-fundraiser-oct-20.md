@@ -22,5 +22,5 @@ Paxton, Paul Wong, and more, and a live performance by Evann
 Siebens and Natalie LeFebvre Gnam. With a full dinner by Roaming 
 Dragon and drinks. 
 
-Details and tickets online: http://front.bc.ca/events/archive-fundraiser/ 
+Details and tickets online: [http://front.bc.ca/events/archive-fundraiser/](http://front.bc.ca/events/archive-fundraiser/) 
 or call 604-876-8343.

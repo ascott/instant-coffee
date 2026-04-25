@@ -28,5 +28,5 @@ snacks and drinks will be served, please let us know if you have dietary restric
 
 Cost: $30
 Where: 626 Main Street
-Link to register: https://www.eventbrite.ca/e/softly-slowly-beginner-embroidery-stitches-tickets-
+Link to register: [https://www.eventbrite.ca/e/softly-slowly-beginner-embroidery-stitches-tickets-](https://www.eventbrite.ca/e/softly-slowly-beginner-embroidery-stitches-tickets-)
 1976789469517?aff=oddtdtcreator

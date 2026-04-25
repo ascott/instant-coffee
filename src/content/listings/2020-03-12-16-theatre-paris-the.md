@@ -20,7 +20,7 @@ Royal Theatre
 
 805 Broughton St, Victoria
 
-Tickets: $63.50 - $73.50 | https://www.rmts.bc.ca/|250-386-6121|1-888-717-6121
+Tickets: $63.50 - $73.50 | [https://www.rmts.bc.ca/|250-386-6121|1-888-717-6121](https://www.rmts.bc.ca/|250-386-6121|1-888-717-6121)
 
 VANCOUVER: Wednesday, March 18, 2020 | 8pm
 
@@ -28,7 +28,7 @@ Chan Centre
 
 6265 Crescent Road, UBC Vancouver
 
-Tickets: $66, $76.75, $87.50 | https://chancentre.com/ | 604-822-2697
+Tickets: $66, $76.75, $87.50 | [https://chancentre.com/](https://chancentre.com/) | 604-822-2697
 
 Following the success of Piaf! The Show starring the internationally acclaimed Anne
 Carrere - which wowed both Royal Theatre and Chan Centre audiences in March 2019
@@ -59,8 +59,8 @@ city where love conquers all.
 
 Find full info :
 
-Vancouver https://www.youtube.com/watch?v=-HUrXvqk6mQ&feature=youtu.be |
-https://chancentre.com/events/paris-the-show/
+Vancouver [https://www.youtube.com/watch?v=-HUrXvqk6mQ&feature=youtu.be](https://www.youtube.com/watch?v=-HUrXvqk6mQ&feature=youtu.be) |
+[https://chancentre.com/events/paris-the-show/](https://chancentre.com/events/paris-the-show/)
 
-Victoria https://www.youtube.com/watch?v=NbH-gJd5oh4&feature=youtu.be |
-https://www.rmts.bc.ca/
+Victoria [https://www.youtube.com/watch?v=NbH-gJd5oh4&feature=youtu.be](https://www.youtube.com/watch?v=NbH-gJd5oh4&feature=youtu.be) |
+[https://www.rmts.bc.ca/](https://www.rmts.bc.ca/)

@@ -34,10 +34,10 @@ entered in the Festival. Student entries (college and university only) must be f
 located in the Northwest.
 
 More information and entry forms are available at the Northwest Film Center's web site: 
-http://www.nwfilm.org/festivals/nwfvf/
+[http://www.nwfilm.org/festivals/nwfvf/](http://www.nwfilm.org/festivals/nwfvf/)
 
 Questions should be directed to Festival Coordinator:
 Thomas Phillipson: thomas@nwfilm.org.
 The Northwest Film Center
 www.nwfilm.org
-http://http://www.nwfilm.org/festivals/nwfvf/
+[http://http://www.nwfilm.org/festivals/nwfvf/](http://http://www.nwfilm.org/festivals/nwfvf/)

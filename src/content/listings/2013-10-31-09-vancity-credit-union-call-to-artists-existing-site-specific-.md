@@ -29,7 +29,7 @@ and artwork by commission will be for two separate walls inside the
 Commercial Drive Community Branch.
 
 Detailed information about the two calls can be found at 
-http://www.vancity.com/calltoartists2013
+[http://www.vancity.com/calltoartists2013](http://www.vancity.com/calltoartists2013)
 
 Please direct any questions to 
 Tanya_Slingsby@vancity.com<mailto:Tanya_Slingsby@vancity.com>

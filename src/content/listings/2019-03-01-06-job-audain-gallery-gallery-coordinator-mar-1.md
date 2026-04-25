@@ -35,7 +35,7 @@ general public and the art community as well as the SFU community.
 All galleries are free of charge.
 
 WEBSITE: 
-http://www.sfu.ca/galleries.html
+[http://www.sfu.ca/galleries.html](http://www.sfu.ca/galleries.html)
 
 JOB DESCRIPTION: 
 The Gallery Assistant coordinates openings, exhibitions, and artist talks 
@@ -138,7 +138,7 @@ Ability to work flexible hours, including occasional evenings and
 weekends.
 
 HOW TO APPLY: 
-https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition?
+[https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition](https://trr.tbe.taleo.net/trr01/ats/careers/v2/viewRequisition)?
 org=SIMOFRAS&cws=37&rid=870
 
 REMUNERATION: 

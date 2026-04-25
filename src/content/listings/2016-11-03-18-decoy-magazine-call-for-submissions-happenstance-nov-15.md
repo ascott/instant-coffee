@@ -15,7 +15,7 @@ Upcoming events by Stphane Bernard (Across from Chinatown Skytrain Station,
 on Beatty St.), Jon Meade (various locations around downtown), and Alex Tedlie-
 Stursberg & Evan Hardy (Habitat Island, Olympic Village, False Creek). For dates, 
 times, and more complete details visit: 
-https://www.facebook.com/DecoyMagazine/
+[https://www.facebook.com/DecoyMagazine/](https://www.facebook.com/DecoyMagazine/)
 
 ****
 
@@ -32,4 +32,4 @@ February 15, 2017), Senses (Deadline: April 15, 2017).
 
 For the full call for submissions and for more information see: 
 decoymagazine.ca/happenstance-call-for-submissions
-http://decoymagazine.ca/happenstance-call-for-submissions
+[http://decoymagazine.ca/happenstance-call-for-submissions](http://decoymagazine.ca/happenstance-call-for-submissions)

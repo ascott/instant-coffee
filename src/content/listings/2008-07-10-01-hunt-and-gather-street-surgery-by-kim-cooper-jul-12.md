@@ -19,5 +19,5 @@ on Saturday, July 12 at 7:30 pm to see the performance.
 
 Street Surgery is a lighthearted attempt to investigate the theme of construction in Vancouver. 
 
-Please visit http://www.powellstreetfestival.com for more details about Spatial Poetics and other
+Please visit [http://www.powellstreetfestival.com](http://www.powellstreetfestival.com) for more details about Spatial Poetics and other
 upcoming events.

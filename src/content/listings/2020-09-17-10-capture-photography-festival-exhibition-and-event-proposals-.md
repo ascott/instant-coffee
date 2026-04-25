@@ -49,4 +49,4 @@ Returns April 2021
 Vancouver, BC V6B 2N4
 capturephotofest.com
 @capturephotofest
-http://capturephotofest.com
+[http://capturephotofest.com](http://capturephotofest.com)

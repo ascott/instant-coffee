@@ -45,7 +45,7 @@ conversation in form —beyond conversation
 
 b)
 
-http://youtu.be/Ap6R5DEG5SY
+[http://youtu.be/Ap6R5DEG5SY](http://youtu.be/Ap6R5DEG5SY)
 
 Best Regards,
 Ben

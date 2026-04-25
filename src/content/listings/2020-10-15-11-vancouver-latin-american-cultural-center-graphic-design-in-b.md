@@ -16,7 +16,7 @@ October 15, 2020
 
 Online
 
-FREE event Register here: https://us02web.zoom.us/meeting/register/tZUlf-
+FREE event Register here: [https://us02web.zoom.us/meeting/register/tZUlf-](https://us02web.zoom.us/meeting/register/tZUlf-)
 6hrzgjG9S_zlN4XgtWbuqZjEMI4RJH
 
 Get to know more about Brazilian graphic design, from the military dictatorship period,

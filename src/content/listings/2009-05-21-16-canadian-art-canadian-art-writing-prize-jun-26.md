@@ -23,7 +23,7 @@ Cronin, director of the Art Gallery of Nova Scotia, and Nancy Tousley, art
 critic at the Calgary Herald.
 
 The winning submission will be published in Canadian Art magazine.
-Go to http://www.canadianart.ca/foundation/programs/writingprize/ for full
+Go to [http://www.canadianart.ca/foundation/programs/writingprize/](http://www.canadianart.ca/foundation/programs/writingprize/) for full
 submission guidelines
 
 If you would prefer not to receive emails from the Canadian Art Foundation,

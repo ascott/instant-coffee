@@ -25,5 +25,5 @@ Watershed Press joins the party with two book launches: Lorin Medleys chapbook, 
 the Way to Kluusms, and the anthology Cascadian Zen: Volume Two.
 
 For more information and to get tickets, please visit the festival website
-https://rainshadowpoeticslab.com/2025-festival or email
+[https://rainshadowpoeticslab.com/2025-festival](https://rainshadowpoeticslab.com/2025-festival) or email
 rainshadowpoeticslab@gmail.com

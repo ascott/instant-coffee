@@ -12,7 +12,7 @@ April 24, 2024, 7-8 p.m.
 
 Artist Talk: Ian Wallace in Conversation with Hilary Letwin
 
-Registration: https://westvanlibrary.ca/event/art-talks-ian-wallace-in-conversation-
+Registration: [https://westvanlibrary.ca/event/art-talks-ian-wallace-in-conversation-](https://westvanlibrary.ca/event/art-talks-ian-wallace-in-conversation-)
 with-hilary-letwin-virtual/
 
 FREE, ONLINE

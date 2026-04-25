@@ -9,7 +9,7 @@ summary: "ECU [ONLINE] | Twilight Hour - GEETHA THURAIRAJAH | 1PM | NOV 10"
 ---
 
 Please register for the the Zoom Webinar here:
-https://ca01web.zoom.us/webinar/register/WN_8NrFyNykQZms1oeFUiyBDA
+[https://ca01web.zoom.us/webinar/register/WN_8NrFyNykQZms1oeFUiyBDA](https://ca01web.zoom.us/webinar/register/WN_8NrFyNykQZms1oeFUiyBDA)
 
 Please join us for the first online Twilight Hour talk of the 2020-21 series with artist
 geetha thurairajah.

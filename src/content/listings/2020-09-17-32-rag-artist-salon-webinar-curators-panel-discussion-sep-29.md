@@ -18,7 +18,7 @@ Tuesday, September 29, 2020
 Live online event
 
 REGISTER:
-https://us02web.zoom.us/webinar/register/WN_WwMC0HuZSXObawHN6W24FQ
+[https://us02web.zoom.us/webinar/register/WN_WwMC0HuZSXObawHN6W24FQ](https://us02web.zoom.us/webinar/register/WN_WwMC0HuZSXObawHN6W24FQ)
 
 The Artist Salon Series features monthly talks by art professionals as inspiration and
 professional development for visual artists.
@@ -65,4 +65,4 @@ www.richmondartgallery.org
 Questions? Contact Kathy Tycholis, Education & Public Programs Coordinator for the
 Richmond Art Gallery - ktycholis@richmond.ca
 
-http://www.richmondartgallery.org
+[http://www.richmondartgallery.org](http://www.richmondartgallery.org)

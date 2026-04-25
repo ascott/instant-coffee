@@ -17,7 +17,7 @@ Columbia
 Salary: $38,000 - $45,000 (commensurate with experience) with
 benefits
 
-Full Job Posting: https://221a.ca/wp-content/uploads/2019/09/2019-
+Full Job Posting: [https://221a.ca/wp-content/uploads/2019/09/2019-](https://221a.ca/wp-content/uploads/2019/09/2019-)
 Job_Posting_Education_Learning_Programmer-Google-Docs.pdf
 
 221A is seeking applications from eligible candidates for the role of
@@ -145,7 +145,7 @@ About
 221A is a nonprofit organization that works with Artists & Designers to
 research and develop cultural, social and ecological infrastructure.
 221A envisions a pluralistic society in which all people have the means
-to access and make culture. More at https://221a.ca
+to access and make culture. More at [https://221a.ca](https://221a.ca)
 
 Unceded Territory
 

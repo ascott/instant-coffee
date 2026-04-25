@@ -13,7 +13,7 @@ makers to write for the publication.
 
 See all specifications for pitching, our features, and their respective fees here.
 
-https://docs.google.com/document/d/1NtiUF_SaYyL1N_HsA7hSsbPtXaRNgFU4wUiA5uyK3
+[https://docs.google.com/document/d/1NtiUF_SaYyL1N_HsA7hSsbPtXaRNgFU4wUiA5uyK3](https://docs.google.com/document/d/1NtiUF_SaYyL1N_HsA7hSsbPtXaRNgFU4wUiA5uyK3)
 3M/edit
 
 Before you make any pitches, please spend some time with our recently featured entries to

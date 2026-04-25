@@ -16,7 +16,7 @@ TELUS World of Science " Edmonton
 11211 142nd St. NW
 
 ***FREE***
-Reserve tickets through Eventbrite: https://tinyurl.com/3edp63xd
+Reserve tickets through Eventbrite: [https://tinyurl.com/3edp63xd](https://tinyurl.com/3edp63xd)
 
 Outer Worlds is an extraordinary program featuring five experimental IMAX films by
 Canadas leading artists: Kelly Richardson, Lisa Jackson, Oliver Husain, Leila Sujir,

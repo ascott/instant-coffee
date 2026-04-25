@@ -36,7 +36,7 @@ and be signed on the back in order to qualify.
 Download the entry form to include with your submission, and to see details
 regarding entry requirements, from the Richmond Art Gallery website:
 www.richmondartgallery.org or
-http://www.richmondartgallery.org/pdfs/ATC_2010_Call_for_Entries.pdf
+[http://www.richmondartgallery.org/pdfs/ATC_2010_Call_for_Entries.pdf](http://www.richmondartgallery.org/pdfs/ATC_2010_Call_for_Entries.pdf)
 
 For more information contact Kathy Tycholis (ATC Exhibition Coordinator) at
 ktycholis@richmond.ca

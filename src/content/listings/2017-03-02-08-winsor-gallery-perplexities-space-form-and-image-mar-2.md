@@ -34,5 +34,5 @@ their artistry, description and questions, the works explore the complexities
 inherent in each piece, and in dialogue with another.
 
 Click here to view the Facebook event:
-https://www.facebook.com/events/1734689283527902/?
+[https://www.facebook.com/events/1734689283527902/](https://www.facebook.com/events/1734689283527902/)?
 notif_t=plan_user_joined&notif_id=1487656683547805

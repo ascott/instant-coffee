@@ -19,7 +19,7 @@ guided visit and informal discussion over a cup of tea, followed by a demonstrat
 ink calligraphy painting with local artist Jiangang Su.
 Limited spaces, RSVP to reserve a seat.
 
-RSVP here: https://www.eventbrite.ca/e/-exhibition-tour-in-mandarin-calligraphy-
+RSVP here: [https://www.eventbrite.ca/e/-exhibition-tour-in-mandarin-calligraphy-](https://www.eventbrite.ca/e/-exhibition-tour-in-mandarin-calligraphy-)
 demonstration-tickets-1415542769529
 
 www.richmondartgallery.org

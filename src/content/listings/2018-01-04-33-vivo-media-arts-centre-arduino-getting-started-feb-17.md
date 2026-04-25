@@ -28,7 +28,7 @@ Session 4: Sat Mar 10, 1pm-5pm
 
 Session 5: Sat Mar 17, 1pm-5pm
 
-SIGN UP & MORE INFO: https://arduino-getting-started.eventbrite.ca
+SIGN UP & MORE INFO: [https://arduino-getting-started.eventbrite.ca](https://arduino-getting-started.eventbrite.ca)
 
 Extended subsidies for this workshop have been filled.
 

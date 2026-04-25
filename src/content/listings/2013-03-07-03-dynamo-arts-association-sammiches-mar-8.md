@@ -12,7 +12,7 @@ Dynamo Arts Association / SAMMICHES / MAR 8
 103-30 East 8th Ave Vancouver, BC
 Opening reception Friday, March 8 8PM-12AM.
 
-http://www.facebook.com/events/512697788773686/
+[http://www.facebook.com/events/512697788773686/](http://www.facebook.com/events/512697788773686/)
 
 Dynamo Arts Association is pleased to host the SAMMICHES BOOK
 LAUNCH + EXHIBITION, Friday March 8. SAMMICHES is a massive 10″x14″

@@ -26,7 +26,7 @@ collaboration and relationality. As an extension of Griffins exhibition and resi
 program, all events are free and open to the public. 
 
 Please feel free to attend the whole event or come and go for selected talks. Please 
-register for the event here: https://www.eventbrite.ca/e/personne-forum-the-ethics-of-
+register for the event here: [https://www.eventbrite.ca/e/personne-forum-the-ethics-of-](https://www.eventbrite.ca/e/personne-forum-the-ethics-of-)
 care-saturday-july-6-2019-1-630pm-tickets-64447191284
 
 Schedule

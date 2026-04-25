@@ -12,7 +12,7 @@ For the ecological ghosts: Reception and Performance
 Richmond Art Gallery (7700 Minoru Gate, Richmond BC)
 Thursday, June 29, 2023
 7:00 PM - 9:00 PM
-https://www.richmondartgallery.org/ecological-ghosts#related
+[https://www.richmondartgallery.org/ecological-ghosts#related](https://www.richmondartgallery.org/ecological-ghosts#related)
 
 Join exhibiting artist Amy-Claire Huestis, composer Omar Zubair, and dancer Rachel
 Harris for a new sound and dance performance, For the ecological ghosts. Working
@@ -28,7 +28,7 @@ Performance: 7:30 pm
 Artists/Curator talk: 8:30 pm
 
 Limited seating for the performance, ensure to reserve your seats.
-RESERVE A SEAT FOR THE PERFORMANCE: https://www.eventbrite.ca/e/for-the-
+RESERVE A SEAT FOR THE PERFORMANCE: [https://www.eventbrite.ca/e/for-the-](https://www.eventbrite.ca/e/for-the-)
 ecological-ghosts-reception-and-performance-tickets-648493711147
 
 Artist/curator talk will immediately follow the performance, from 8:30 - 9:00 pm.

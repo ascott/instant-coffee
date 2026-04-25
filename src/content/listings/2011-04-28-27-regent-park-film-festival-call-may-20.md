@@ -68,5 +68,5 @@ Canada
 www.regentparkfilmfestival.com
 
 Join Us on:
-http://www.facebook.com/regentparkfilmfestival
-http://twitter.com/rpff
+[http://www.facebook.com/regentparkfilmfestival](http://www.facebook.com/regentparkfilmfestival)
+[http://twitter.com/rpff](http://twitter.com/rpff)

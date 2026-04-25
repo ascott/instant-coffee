@@ -18,13 +18,13 @@ $10
 
 A special Nanaimo edition of art rock? at The Black Dot, featuring:
 
-BYE HOUSE: https://byehouse.bandcamp.com
+BYE HOUSE: [https://byehouse.bandcamp.com](https://byehouse.bandcamp.com)
 a cup of space, serving time
 
-CROTCH: https://crotch131313.bandcamp.com
+CROTCH: [https://crotch131313.bandcamp.com](https://crotch131313.bandcamp.com)
 on a penniless street of dimes
 
-DS LORI: https://dslori.bandcamp.com
+DS LORI: [https://dslori.bandcamp.com](https://dslori.bandcamp.com)
 we dive in dark astral for
 
 &

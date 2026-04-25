@@ -12,7 +12,7 @@ sleep and her brother death presents program 17: person, place, or thing, an onl
 screening of Deborah Edmeadess This (2014).
 
 please join us from bed on Sunday, August 31, at 9am pacific:
-http://bedroomkitchen.garden/sdleeaetph/coming-soon_program-17_sleep-and-her-
+[http://bedroomkitchen.garden/sdleeaetph/coming-soon_program-17_sleep-and-her-](http://bedroomkitchen.garden/sdleeaetph/coming-soon_program-17_sleep-and-her-)
 brother-death.pdf
 
 run time 12 minutes, 17 seconds, plus opening remarks.

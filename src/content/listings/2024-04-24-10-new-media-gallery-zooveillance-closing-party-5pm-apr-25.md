@@ -23,7 +23,7 @@ Vancouvers own Kelly Brown. A masterful guitar player and veteran to the scene.
 Rocky and Kelly have been performing jazz together for many years and their
 chemistry on stage is as palpable as it is enjoyable.
 
-More info: https://newmediagallery.ca/lounge-lizards/
+More info: [https://newmediagallery.ca/lounge-lizards/](https://newmediagallery.ca/lounge-lizards/)
 
 Thursday, April 25 | 5:00 - 8:00 PM PDT
 Performance Times: 5:45 - 6:20pm; 6:45 - 7:20pm

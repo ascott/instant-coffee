@@ -71,7 +71,7 @@ designer. Curated by Debra Zhou.
 
 Join this opening reception on facebook:
 
-https://www.facebook.com/events/280174132127256/#!/events/280174132127
+[https://www.facebook.com/events/280174132127256/#!/events/280174132127](https://www.facebook.com/events/280174132127256/#!/events/280174132127)
 256/
 
 Gallery Hours:

@@ -24,7 +24,7 @@ The proceeds from this event will help Yoga Outreach make yoga more accessible t
 people in prisons, domestic violence transition houses, addiction recovery centres and 
 mental health facilities.
 
-Tickets at https://go.hoovie.movie/screenings/110/unrest--a-popup-screening-with-yoga-
+Tickets at [https://go.hoovie.movie/screenings/110/unrest--a-popup-screening-with-yoga-](https://go.hoovie.movie/screenings/110/unrest--a-popup-screening-with-yoga-)
 outreach
 
 A/V Set-up + Venue Details

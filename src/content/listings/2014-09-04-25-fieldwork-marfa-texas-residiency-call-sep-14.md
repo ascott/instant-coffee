@@ -8,4 +8,4 @@ venue: "Fieldwork: Marfa, texas"
 summary: "Fieldwork: Marfa, texas | residiency CALL | SEP 14"
 ---
 
-http://www.fieldworkmarfa.org/
+[http://www.fieldworkmarfa.org/](http://www.fieldworkmarfa.org/)

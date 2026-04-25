@@ -27,7 +27,7 @@ anonymized (image blur, voice augmentation).
 If this sounds of interest, fill out the below contact form. After reviewing incoming
 entries, we will be in touch to arrange the time of our video meeting.
 
-https://docs.google.com/forms/d/e/1FAIpQLSezCX2ZwFDNwEH_io2tywb5RXpl1-
+[https://docs.google.com/forms/d/e/1FAIpQLSezCX2ZwFDNwEH_io2tywb5RXpl1-](https://docs.google.com/forms/d/e/1FAIpQLSezCX2ZwFDNwEH_io2tywb5RXpl1-)
 aKrswqRdODwMwpu1NKMA/viewform?usp=sf_link
 
 We are in UTC+2 or CEST time zone and use Jitsi. The contact form will be up online

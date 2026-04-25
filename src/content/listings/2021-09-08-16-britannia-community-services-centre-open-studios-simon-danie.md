@@ -31,5 +31,5 @@ campus.
 Each artist will be hosting open studio hours, artist talks and other programming during their
 time at xqelwn ct.
 To learn more about the project and each artist, visit:
-https://www.britanniacentre.org/2021/08/17/cedar-benches-at-xqelwn-ct-carving-centre.php
+[https://www.britanniacentre.org/2021/08/17/cedar-benches-at-xqelwn-ct-carving-centre.php](https://www.britanniacentre.org/2021/08/17/cedar-benches-at-xqelwn-ct-carving-centre.php)
 .

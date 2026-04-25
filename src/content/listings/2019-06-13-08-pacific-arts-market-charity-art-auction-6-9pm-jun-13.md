@@ -44,4 +44,4 @@ high-quality artisan goods in Vancouver. We provide an economical way for Vancou
 Artists to showcase their work or launch their business. We support all Artistic 
 Entrepreneurs with a network of over 50 artists, no long leases, and zero commission taken.
 
-Learn more: https://www.pacificartsmarket.ca
+Learn more: [https://www.pacificartsmarket.ca](https://www.pacificartsmarket.ca)

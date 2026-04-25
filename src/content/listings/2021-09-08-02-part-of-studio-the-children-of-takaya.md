@@ -14,8 +14,8 @@ Tsleil-Waututh artists and features Atheana Picha from Kwantlen and Tsartlip Fir
 The Children of Takaya will perform on the first and closing day of the exhibit, and this
 portion of the event is co-produced by Wild Bird Trust BC.
 
-https://wildbirdtrust.org/programs/exhibits/children-of-takaya-exhibit/
+[https://wildbirdtrust.org/programs/exhibits/children-of-takaya-exhibit/](https://wildbirdtrust.org/programs/exhibits/children-of-takaya-exhibit/)
 
 More Details:
 
-https://www.partof.studio/
+[https://www.partof.studio/](https://www.partof.studio/)

@@ -32,5 +32,5 @@ please add your name to the waitlist and we will release additional tickets near
 date. 
 
 Info and Tickets
-https://www.eventbrite.com/e/tilt-talk-aeriosa-vancouver-international-vertical-dance-summit-
+[https://www.eventbrite.com/e/tilt-talk-aeriosa-vancouver-international-vertical-dance-summit-](https://www.eventbrite.com/e/tilt-talk-aeriosa-vancouver-international-vertical-dance-summit-)
 tickets-62021544108

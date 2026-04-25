@@ -134,5 +134,5 @@ fish@goatvirus.com
 IF YOU HAVE RECEIVED THIS MESSAGE IN ERROR, OR JUST NO LONGER 
 WANT ANNOUNCEMENTS FROM FISH AND FRIENDS, PLEASE REPLY TO THIS 
 MESSAGE WITH 'UNSUBSCRIBE' AS THE SUBJECT LINE, OR FOLLOW THIS 
-LINK: http://goatvirus.com/apps/fishness/unsubscribe.php?
+LINK: [http://goatvirus.com/apps/fishness/unsubscribe.php](http://goatvirus.com/apps/fishness/unsubscribe.php)?
 pinContact=853&ptxPW=JHb6U7Met7LDnhk3K6D6UC

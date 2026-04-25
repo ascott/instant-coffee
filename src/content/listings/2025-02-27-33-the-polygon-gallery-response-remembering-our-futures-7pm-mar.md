@@ -16,7 +16,7 @@ Futures Opening Celebration.
 
 Artists in attendance
 RSVPs are helpful
-RSVP Here: https://thepolygon.ca/event/response-remembering-our-futures-
+RSVP Here: [https://thepolygon.ca/event/response-remembering-our-futures-](https://thepolygon.ca/event/response-remembering-our-futures-)
 opening-celebration/
 
 Response: Remembering Our Futures is on view at The Polygon March 5 " April 4,

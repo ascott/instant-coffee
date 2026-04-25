@@ -27,4 +27,4 @@ open.
 
 
 For more information about Cue Up please email:
-cueup@videoinstudios.com or visit our blog at http://www.cueup.typepad.com
+cueup@videoinstudios.com or visit our blog at [http://www.cueup.typepad.com](http://www.cueup.typepad.com)

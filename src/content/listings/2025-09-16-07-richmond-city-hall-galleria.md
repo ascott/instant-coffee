@@ -38,7 +38,7 @@ Website and/or any social media accounts
 Please email complete submissions to galleria@richmondartgallery.org with the
 subject line Galleria Submission 2026. If you need assistance or any
 accommodations, please dont hesitate to reach out via email. For more information,
-visit https://www.richmondartgallery.org/exhibitions/off-site.
+visit [https://www.richmondartgallery.org/exhibitions/off-site](https://www.richmondartgallery.org/exhibitions/off-site).
 
 The Annex Gallery
 Located right across the main entrance of the Richmond Cultural Centre, and on the
@@ -69,4 +69,4 @@ Website and/or any social media accounts
 Please email complete submissions to galleria@richmondartgallery.org with the
 subject line Annex Submission 2026. If you need assistance or any
 accommodations, please dont hesitate to reach out via email. For more information,
-visit https://www.richmondartgallery.org/exhibitions/off-site
+visit [https://www.richmondartgallery.org/exhibitions/off-site](https://www.richmondartgallery.org/exhibitions/off-site)

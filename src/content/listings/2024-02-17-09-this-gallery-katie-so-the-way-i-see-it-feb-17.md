@@ -65,6 +65,6 @@ whatever reason, may not have received the recognition they deserve. Our
 commitment is to contribute to the cultural landscape, creating a platform for artists
 to thrive and for art enthusiasts to discover unique and meaningful works.
 
-https://thisgallery.org/
+[https://thisgallery.org/](https://thisgallery.org/)
 Instagram: @this_______________________
 30E - 268 Keefer Street, Vancouver, BC V6A 1X5

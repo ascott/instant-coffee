@@ -29,7 +29,7 @@ November 21 - 25: All the artwork will be available to view online
 November 26, 7pm: Online Sale Begins. Buy your favourite pieces and come by for easy
 curbside pick-up.
 
-https://northvanarts.ca/events-exhibitions/anonymous-art-show-2020-online-fundraiser-and-
+[https://northvanarts.ca/events-exhibitions/anonymous-art-show-2020-online-fundraiser-and-](https://northvanarts.ca/events-exhibitions/anonymous-art-show-2020-online-fundraiser-and-)
 sale/
 
 November 27-December 19: Sale continues online. Support your local art community with

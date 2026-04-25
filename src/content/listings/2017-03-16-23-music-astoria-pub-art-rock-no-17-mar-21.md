@@ -16,9 +16,9 @@ A series of the #popularesoteric at the Astoria Pub, programmed by Casey Wei.
 This series is for and inspired by the performers of sounds, visuals, and poetics. 
 A very special 17, music performances by contributors in AK02:
 
-ZEN FINGER: https://youtu.be/sXpNuXZkTfQ?t=4m35s
-Toni Cosmos & Johan Bjork: https://youtu.be/dPWr-KeG-DE
-Echuta: https://echuta.bandcamp.com/releases
+ZEN FINGER: [https://youtu.be/sXpNuXZkTfQ?t=4m35s](https://youtu.be/sXpNuXZkTfQ?t=4m35s)
+Toni Cosmos & Johan Bjork: [https://youtu.be/dPWr-KeG-DE](https://youtu.be/dPWr-KeG-DE)
+Echuta: [https://echuta.bandcamp.com/releases](https://echuta.bandcamp.com/releases)
 ~
 DJ Owen Ellis
 ~

@@ -13,7 +13,7 @@ MAY EXHIBITION OPENING RECEPTION
 Thursday, April 4th, 2024 from 6-9pm
 
 Come meet & greet the artists, enjoy some libations and art!
-COMPLEMENTARY TICKETS: https://www.showpass.com/aspirations-opening-
+COMPLEMENTARY TICKETS: [https://www.showpass.com/aspirations-opening-](https://www.showpass.com/aspirations-opening-)
 reception/
 
 May Exhibition runs from May 1st - 12th, 2024

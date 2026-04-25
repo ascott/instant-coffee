@@ -10,7 +10,7 @@ summary: "JOB | UNIT/PITT | Communications and Development Assistant | JAN 6"
 
 UNIT/PITT Society for Art and Critical Awareness
 Job Posting: Communications and Development Assistant
-https://www.unitpitt.ca/updates/job-coms-dev-assistant/
+[https://www.unitpitt.ca/updates/job-coms-dev-assistant/](https://www.unitpitt.ca/updates/job-coms-dev-assistant/)
 
 6-month contract with possible extension
 $28/hour, 10 hours/week
@@ -33,4 +33,4 @@ communicating with potential donors. The ideal candidate is organized and collab
 
 Primary Responsibility: Communications 75%
 Secondary Responsibility: Development 25%
-http://www.unitpitt.ca/updates/job-coms-dev-assistant/
+[http://www.unitpitt.ca/updates/job-coms-dev-assistant/](http://www.unitpitt.ca/updates/job-coms-dev-assistant/)

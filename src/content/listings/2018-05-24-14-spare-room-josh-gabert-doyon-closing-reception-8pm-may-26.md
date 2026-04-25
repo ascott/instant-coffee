@@ -21,7 +21,7 @@ Properties, a solo exhibition by Josh Gabert-Doyon in collaboration with Charcut
 Issue 4 "VERY TACTILE PRESENT"
 _
 
-http://spare-room.ca/
+[http://spare-room.ca/](http://spare-room.ca/)
 
 PSYCHIC PROPERTIES
 A typological investigation into speculative real estate, documenting the building 

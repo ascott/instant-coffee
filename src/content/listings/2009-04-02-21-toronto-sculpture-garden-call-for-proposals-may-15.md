@@ -56,4 +56,4 @@ relevant work
 
 For complete proposal information, including fee structure and site map:
 
-www.torontosculpturegarden.com <http://www.torontosculpturegarden.com/>
+www.torontosculpturegarden.com <[http://www.torontosculpturegarden.com/](http://www.torontosculpturegarden.com/)>

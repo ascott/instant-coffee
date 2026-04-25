@@ -12,7 +12,7 @@ Bcc: Digital Art Subscription by Decoy Magazine // January 2019 // Commissioned 
 Dave Biddle
 
 Subscribe by January 27th to receive exclusive access to Vancouver-based artist Dave 
-Biddle's commissioned digital artwork: http://www.decoymagazine.ca/bcc
+Biddle's commissioned digital artwork: [http://www.decoymagazine.ca/bcc](http://www.decoymagazine.ca/bcc)
 It's $3/month or $30/year to subscribe and the fees go directly to the commissioned 
 artists.
 

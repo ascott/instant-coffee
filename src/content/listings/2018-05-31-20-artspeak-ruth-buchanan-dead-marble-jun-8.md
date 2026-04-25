@@ -36,4 +36,4 @@ Artspeak
 233 Carrall Street
 Vancouver, BC
 Canada V6B 2J2
-http://artspeak.ca/
+[http://artspeak.ca/](http://artspeak.ca/)

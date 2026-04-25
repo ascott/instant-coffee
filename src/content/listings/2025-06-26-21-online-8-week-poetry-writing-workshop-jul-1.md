@@ -17,5 +17,5 @@ write each week will be born.
 6 participants max. 3 spots remaining.
 Workshop details: Tuesdays, July 1st - August 26th from 4-6:15pm PT (no class July
 8th)
-Learn more: https://9creativelives.com/classes/breathe-into-poetry-
+Learn more: [https://9creativelives.com/classes/breathe-into-poetry-](https://9creativelives.com/classes/breathe-into-poetry-)
 writing/workshops/metaphor-and-renewal-series/

@@ -26,4 +26,4 @@ image-based Collective treating artmaking as information that can be spread and
 shared, replicated and duplicated, copied and forwarded, recorded and discarded. 
 Their social media campaigns advocate for the sovereign, ethical representation of 
 Indigenous women in media. 
-http://www.instagram.com/western_front/
+[http://www.instagram.com/western_front/](http://www.instagram.com/western_front/)

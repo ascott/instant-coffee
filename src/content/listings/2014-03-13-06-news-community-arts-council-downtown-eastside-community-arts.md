@@ -16,7 +16,7 @@ are registered societies within the Downtown Eastside, and projects
 must involve collaboration with a professional artist or artists and
 take place between September 1, 2014, and August 31, 2015. Find the
 application package on our website at
-http://www.cacv.ca/community-arts-fund/dtes-community-arts-fund-
+[http://www.cacv.ca/community-arts-fund/dtes-community-arts-fund-](http://www.cacv.ca/community-arts-fund/dtes-community-arts-fund-)
 program.
 
 Grant-Writing Workshop March 15 - Register Now!

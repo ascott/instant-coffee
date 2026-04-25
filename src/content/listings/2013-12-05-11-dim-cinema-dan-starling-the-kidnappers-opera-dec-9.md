@@ -13,7 +13,7 @@ Dan Starling: The Kidnapper's Opera
 Monday December 9 2013, 7:30pm
 1131 Howe St. Vancouver BC
 Tix: $11/9 + $3 membership
-http://www.dimcinema.ca / http://www.thecinematheque.ca
+[http://www.dimcinema.ca](http://www.dimcinema.ca) / [http://www.thecinematheque.ca](http://www.thecinematheque.ca)
 
 Programmed by Amy Kazymerchyk
 

@@ -27,9 +27,9 @@ artist Joyce Wieland's home becomes a point of departure to think about
 Limited seating, registration required.
 All proceeds to be provided directly to performers.
 
-Tickets: https://www.eventbrite.ca/e/the-marble-in-the-basement-performances-by-
+Tickets: [https://www.eventbrite.ca/e/the-marble-in-the-basement-performances-by-](https://www.eventbrite.ca/e/the-marble-in-the-basement-performances-by-)
 hazel-meyer-tickets-866812709147?aff=oddtdtcreator
 
-More info: https://www.richmondartgallery.org/hazelmeyer
+More info: [https://www.richmondartgallery.org/hazelmeyer](https://www.richmondartgallery.org/hazelmeyer)
 
 www.richmondartgallery.org

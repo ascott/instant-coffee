@@ -26,9 +26,9 @@ The Chinese Cultural Centre Museum
 Artists' panel discussion This is Not Pataphysical
 Saturday, Sept. 21, 2 -4 PM, free admission
 
-http://www.cccvan.com
-http://www.synnkuneloh.com
-http://jameskm.wordpress.com
+[http://www.cccvan.com](http://www.cccvan.com)
+[http://www.synnkuneloh.com](http://www.synnkuneloh.com)
+[http://jameskm.wordpress.com](http://jameskm.wordpress.com)
 
 Pataphysics is the science of that which is superimposed upon metaphysics, 
 whether within or beyond the latter’s limitations, extending as far beyond 

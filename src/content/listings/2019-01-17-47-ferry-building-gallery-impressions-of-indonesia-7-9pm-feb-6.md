@@ -40,6 +40,6 @@ Admission: $15 per lecture. Course #52629
 
 Register at 604-925-7270 or online
 
-https://ca.apm.activecommunities.com/westvanrec/Activity_Search/49596
+[https://ca.apm.activecommunities.com/westvanrec/Activity_Search/49596](https://ca.apm.activecommunities.com/westvanrec/Activity_Search/49596)
 
 Drop-ins also welcome (space permitting).

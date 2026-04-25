@@ -29,7 +29,7 @@ The Unlearning Walking Club is part of the series Spaces of
 Contestation.
 
 Unlearning Walking Club tumblr: 
-http://unlearningwalkingclub.tumblr.com/
+[http://unlearningwalkingclub.tumblr.com/](http://unlearningwalkingclub.tumblr.com/)
 
 Unlearning Walking Club walks
 Space is limited. Please reserve in advance.

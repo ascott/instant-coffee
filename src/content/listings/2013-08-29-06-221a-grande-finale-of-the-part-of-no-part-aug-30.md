@@ -13,7 +13,7 @@ GRANDE FINALE of The Part of No Part
 With the work of Julia Feyrer, Tiziana La Melia, Willie Brisco, Lief Hall, Sam 
 Forsythe curated and performed by Dan Starling
 
-http://221a.ca/the-part-of-no-part
+[http://221a.ca/the-part-of-no-part](http://221a.ca/the-part-of-no-part)
 
 Performed in Three Acts
 7:30pm - A Letter

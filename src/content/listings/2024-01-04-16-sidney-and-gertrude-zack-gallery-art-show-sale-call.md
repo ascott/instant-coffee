@@ -36,4 +36,4 @@ based programming.
 Before you begin your
 application, please ensure you read well the information
 described in the CALL FOR ARTIST and the TERMS OF PARTICIPATION PDF
-https://www.jccgv.com/inclusion/
+[https://www.jccgv.com/inclusion/](https://www.jccgv.com/inclusion/)

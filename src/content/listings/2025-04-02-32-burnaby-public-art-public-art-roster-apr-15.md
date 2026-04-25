@@ -56,7 +56,7 @@ Deadline for applications: April 15, 2025, midnight
 Notification of acceptance will take place in May 2025, and project opportunities will
 be ongoing until the end of 2027
 
-https://www.burnaby.ca/our-city/about-burnaby/public-art/public-art-roster
+[https://www.burnaby.ca/our-city/about-burnaby/public-art/public-art-roster](https://www.burnaby.ca/our-city/about-burnaby/public-art/public-art-roster)
 
 
 EVENT | Burnaby Art Gallery | Booster Club Fireside Chat with Kim Kennedy Austin |
@@ -109,5 +109,5 @@ Tuesday - Friday: 10:00 am-4:30 pm
 
 Saturday - Sunday: 12:00 pm-5:00 pm
 
-https://www.burnaby.ca/recreation-and-arts/arts-and-culture-facilities/burnaby-art-
+[https://www.burnaby.ca/recreation-and-arts/arts-and-culture-facilities/burnaby-art-](https://www.burnaby.ca/recreation-and-arts/arts-and-culture-facilities/burnaby-art-)
 gallery/exhibitions/kim-kennedy-austin-booster-club

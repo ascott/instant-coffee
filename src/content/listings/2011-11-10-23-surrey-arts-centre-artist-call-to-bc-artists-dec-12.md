@@ -14,7 +14,7 @@ City of Surrey Public Art is calling for submissions for Street Banner Designs o
 the theme of: Sustainable Energy for All” . Deadline is December 12, 2011. 
 Award: $2500
 
-For info: http://www.surrey.ca/culture-recreation/1655.aspx
+For info: [http://www.surrey.ca/culture-recreation/1655.aspx](http://www.surrey.ca/culture-recreation/1655.aspx)
 
 SANDRA DENT BFA, 
 MA 

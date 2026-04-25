@@ -14,7 +14,7 @@ Online
 
 Please register here:
 
-https://us02web.zoom.us/meeting/register/tZ0qcO2rpjwsGdLWSZuH87yoXoJAI8JOJS
+[https://us02web.zoom.us/meeting/register/tZ0qcO2rpjwsGdLWSZuH87yoXoJAI8JOJS](https://us02web.zoom.us/meeting/register/tZ0qcO2rpjwsGdLWSZuH87yoXoJAI8JOJS)
 Ef
 
 This panel brings together presentations by Dr. Chris Lee (Associate Professor of

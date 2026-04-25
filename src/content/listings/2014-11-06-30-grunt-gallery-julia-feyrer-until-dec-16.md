@@ -50,5 +50,5 @@ will be made available at the gallery and online.
 Please visit our website in the near future to learn about upcoming events 
 relating to this exhibition.
 
-Website: http://grunt.ca/exhibitions/kitchen/
+Website: [http://grunt.ca/exhibitions/kitchen/](http://grunt.ca/exhibitions/kitchen/)
 grunt gallery | 116-350 East 2nd Ave, V5T4R8 Vancouver, BC

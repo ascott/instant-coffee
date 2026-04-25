@@ -47,4 +47,4 @@ The opening reception is part of SWARM 10. Visit www.paarc.ca/swarm for more det
 Malaspina Printmakers
 1555 Duranleau Street, Vancouver, BC
 
-http://www.malaspinaprintmakers.com
+[http://www.malaspinaprintmakers.com](http://www.malaspinaprintmakers.com)

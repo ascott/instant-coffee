@@ -55,10 +55,10 @@ years. His exhibition Still curated by Archer Pechawis showed at grunt in
 
 Curated by Glenn Alteen.
 
-> Definition of apophenia: https://en.wikipedia.org/wiki/Apophenia
-> more info: http://grunt.ca/exhibitions/analekta-by-merle-addison/
+> Definition of apophenia: [https://en.wikipedia.org/wiki/Apophenia](https://en.wikipedia.org/wiki/Apophenia)
+> more info: [http://grunt.ca/exhibitions/analekta-by-merle-addison/](http://grunt.ca/exhibitions/analekta-by-merle-addison/)
 
-> Facebook event: https://www.facebook.com/events/1659839920932180/
+> Facebook event: [https://www.facebook.com/events/1659839920932180/](https://www.facebook.com/events/1659839920932180/)
 
 About grunt gallery
 

@@ -20,4 +20,4 @@ also look at strategies for composing images and finally look at basic lighting 
 This course is aimed specifically towards cameras with Manual Controls such as 
 DSLRs, and students should come to class with their cameras ready to shoot.
 $75
-https://www.mobil-art.ca/event-info/digital-photography-method
+[https://www.mobil-art.ca/event-info/digital-photography-method](https://www.mobil-art.ca/event-info/digital-photography-method)

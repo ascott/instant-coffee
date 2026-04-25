@@ -30,7 +30,7 @@ $40
 
 Tickets available online at eventbrite.ca/e/stoned-soup-live-biennale-
 fundraiser-tickets-13355028249
-Preview the art and check back for updates! http://livebiennale.tumblr.com/ 
+Preview the art and check back for updates! [http://livebiennale.tumblr.com/](http://livebiennale.tumblr.com/) 
 
 LIVE 2015—presenting a dynamic mix of performance art from here and 
 around the world. Join us in 2015 for a celebration featuring performances, 

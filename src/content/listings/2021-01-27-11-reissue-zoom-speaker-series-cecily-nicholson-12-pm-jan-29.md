@@ -13,7 +13,7 @@ Speaker Series: Cecily Nicholson
 January 29 at 12pm PST
 ZOOM
 
-RSVP: https://www.eventbrite.com/e/reissue-speaker-series-cecily-nicholson-tickets-
+RSVP: [https://www.eventbrite.com/e/reissue-speaker-series-cecily-nicholson-tickets-](https://www.eventbrite.com/e/reissue-speaker-series-cecily-nicholson-tickets-)
 135753687935
 
 ReIssue is kicking off 2021 with a series of free, virtual talks and presentations by artists,
@@ -40,7 +40,7 @@ ReIssue is an interdisciplinary art writing platform focused on shaping and sust
 contemporary west coast discourse rooted in critical engagement with experimental art
 practices. ReIssue is a partnership between UNIT PITT Society for Art and Critical
 Awareness and VIVO Media Arts Centre, funded through a Vancouver Foundation Systems
-Change Grant. https://reissue.pub/
+Change Grant. [https://reissue.pub/](https://reissue.pub/)
 
 ReIssue operates on unceded Musqueam, Tsleil-Waututh, and Squamish homelands
 known as Vancouver, British Columbia.

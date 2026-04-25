@@ -68,7 +68,7 @@ which represents the arts for Salt Spring Island, British Columbia, known as one
 of Canada's premier arts communities.
 
 Please may you share this announcement with your networks and newsletters. 
-To easily share on Facebook click http://tinyurl.com/SSNAP2017Call to share!
+To easily share on Facebook click [http://tinyurl.com/SSNAP2017Call](http://tinyurl.com/SSNAP2017Call) to share!
 
 We thank you and look forward to celebrating the talent of Canadian artists!
 

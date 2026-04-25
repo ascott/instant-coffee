@@ -25,7 +25,7 @@ Hadley Howes + Maxwell Stephens are an internationally exhibited, collaborative 
  
 Currently celebrating its 25th Anniversary, the Or Gallery was recently honoured as one of the top galleries in the world by a poll of prominent international artists conducted by Flash Art Magazine (January / February 2008); one of only two Canadian galleries to achieve this distinction. 
 
-Please visit http://www.orgallery.org for more information on the print edition and Or Gallery.
+Please visit [http://www.orgallery.org](http://www.orgallery.org) for more information on the print edition and Or Gallery.
 ___
 
 Or Gallery
@@ -34,4 +34,4 @@ Vancouver BC V6B 5E4
 Canada
 
 +1.604.683.7395
-http://www.orgallery.org
+[http://www.orgallery.org](http://www.orgallery.org)

@@ -13,7 +13,7 @@ Thursday, May 1, 2025
 6:30 PM - 8:30 PM
 $5.00 includes all materials, tools and a cuppa tea.
 
-TICKETS: https://www.eventbrite.ca/e/rag-collage-club-may-session-tickets-
+TICKETS: [https://www.eventbrite.ca/e/rag-collage-club-may-session-tickets-](https://www.eventbrite.ca/e/rag-collage-club-may-session-tickets-)
 1308515588349
 
 Creative Prompt : CULTURE

@@ -28,5 +28,5 @@ for a duration of one weekend to 2 months.
 Spark Box Studio can facilitate up to three residents at any one time.
 Residents receive a bedroom and a dedicated semi-private studio space.
 
-TO APPLY VISIT: http://sparkboxstudio.com/residency/application/
+TO APPLY VISIT: [http://sparkboxstudio.com/residency/application/](http://sparkboxstudio.com/residency/application/)
 Deadline: ongoing

@@ -16,4 +16,4 @@ At Buddies In Bad Times Theatre
 Deadline: October 14th, 2024
 Screening: February 2025
 Honorarium: $500
-Apply at: http://rtcollective.ca/calls/
+Apply at: [http://rtcollective.ca/calls/](http://rtcollective.ca/calls/)

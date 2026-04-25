@@ -36,6 +36,6 @@ Location: Propellor Studio, 1247 Cartwright Street, Granville Island, Vancouver,
 Hours: Monday " Friday: 10am " 5pm
 
 Elissa Cristall /projects:
-https://www.artoffice.ca | 604.730.9611
-Venue: https://propellor.ca/contact
+[https://www.artoffice.ca](https://www.artoffice.ca) | 604.730.9611
+Venue: [https://propellor.ca/contact](https://propellor.ca/contact)
 Leah Rainey: @leah.rainey

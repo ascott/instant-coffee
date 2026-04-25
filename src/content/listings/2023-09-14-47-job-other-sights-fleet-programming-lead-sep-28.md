@@ -69,7 +69,7 @@ a strong connection to the overall project and curatorial planning.
 
 FOR FULL CONTRACT DESCRIPTION VISIT:
 
-https://othersights.ca/fleet-programming-lead/
+[https://othersights.ca/fleet-programming-lead/](https://othersights.ca/fleet-programming-lead/)
 
 Remuneration: $29/hour based on a 24-28 hour work week.
 

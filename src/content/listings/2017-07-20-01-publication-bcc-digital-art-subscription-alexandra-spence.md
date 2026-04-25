@@ -12,7 +12,7 @@ Bcc: Digital Art Subscription by Decoy Magazine // July 2017 // Commissioned Art
 Alexandra Spence
 
 The month's featured artist for Bcc: is Alexandra Spence. Sign up by July 27 to receive 
-an exclusive digital copy of her latest work. http://www.decoymagazine.ca/bcc
+an exclusive digital copy of her latest work. [http://www.decoymagazine.ca/bcc](http://www.decoymagazine.ca/bcc)
 
 Alexandra Spence is a sound artist / musician from Sydney, Australia. She works within 
 the fields of audiovisual installation, music composition, and improvised performance. 
@@ -23,7 +23,7 @@ conversation. Her work favours subtlety, quietude and unusual sound sources.
 
 Alex has performed and presented work in concerts, festivals, symposiums and galleries 
 in Australia, Canada, and Europe, and is a recent graduate of the MFA Interdisciplinary 
-Arts program at Simon Fraser University, Vancouver. http://alexandraspence.net/
+Arts program at Simon Fraser University, Vancouver. [http://alexandraspence.net/](http://alexandraspence.net/)
 
 The subscription fee is only $3/month! And the proceeds go directly into the pockets of 
 the featured artists. By signing up, you will receive a new artwork by an established or 

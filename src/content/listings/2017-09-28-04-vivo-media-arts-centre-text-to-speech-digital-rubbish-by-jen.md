@@ -21,7 +21,7 @@ exchange, the performativity of networks, and related cultural imaginaries.
 For more details, or to request a PDF of the reading, contact 
 education@vivomediaarts.com
 
-More details also here " https://www.facebook.com/events/370959549989114/
+More details also here " [https://www.facebook.com/events/370959549989114/](https://www.facebook.com/events/370959549989114/)
 
 Focused on writing about media, media art and the surrounding concepts and 
 frameworks of the mediated world, Text to Speech gatherings aim to build stronger 

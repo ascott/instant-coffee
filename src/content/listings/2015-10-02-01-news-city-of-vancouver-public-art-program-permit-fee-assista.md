@@ -19,5 +19,5 @@ enhance access to safe and legal arts and cultural spaces in
 Vancouver
 
 For more information, please visit:
-http://vancouver.ca/people-programs/permit-fee-assistance-for-cultural-
+[http://vancouver.ca/people-programs/permit-fee-assistance-for-cultural-](http://vancouver.ca/people-programs/permit-fee-assistance-for-cultural-)
 spaces.aspx

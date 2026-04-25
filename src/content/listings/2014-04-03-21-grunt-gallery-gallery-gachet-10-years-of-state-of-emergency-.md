@@ -64,9 +64,9 @@ Media Contact: Lee Williams programming@gachet.org 604.687.2468
 grunt gallery (grunt.ca), 116-350 East 2nd Ave, Vancouver, BC V5T4R8
 Media Contact: Karlene Harvey karlene@grunt.ca | 604.875.9516 
 
-http://grunt.ca/exhibitions/10-years-of-state-of-emergency/ 
-https://www.facebook.com/events/1471870729697742/
-http://gachet.org/2014/03/25/atsa-10-years-of-state-of-emergency/ 
+[http://grunt.ca/exhibitions/10-years-of-state-of-emergency/](http://grunt.ca/exhibitions/10-years-of-state-of-emergency/) 
+[https://www.facebook.com/events/1471870729697742/](https://www.facebook.com/events/1471870729697742/)
+[http://gachet.org/2014/03/25/atsa-10-years-of-state-of-emergency/](http://gachet.org/2014/03/25/atsa-10-years-of-state-of-emergency/) 
 
 Who is ATSA? 
 ATSA is a not-for-profit organization founded in 1998 by artists Pierre Allard 
@@ -90,4 +90,4 @@ Exposition inter-collégiale d'arts plastiques du Réseau Inter-collégial des
 Activités Socioculturelle du Québec (RIASQ 2010), and of Journées 
 Québécoises de la Solidarité Internationale(2011). ATSA is a member of the 
 board of RAIQ.
-http://www.atsa.qc.ca/en/
+[http://www.atsa.qc.ca/en/](http://www.atsa.qc.ca/en/)

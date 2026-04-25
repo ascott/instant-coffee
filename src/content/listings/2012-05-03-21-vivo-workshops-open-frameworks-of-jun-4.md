@@ -41,7 +41,7 @@ Participants need not have any previous experience with oF or
 programming, though this is an asset.  Participants can bring their own 
 laptop if they wish, with the latest version of oF downloaded and 
 installed. oF is available on any OS, and is free of charge: 
-http://www.openframeworks.cc/download/
+[http://www.openframeworks.cc/download/](http://www.openframeworks.cc/download/)
 
 Cost: $220 or $175 with VIVO Producer Membership (Extended) 
 Instructor: Jesse Scott 

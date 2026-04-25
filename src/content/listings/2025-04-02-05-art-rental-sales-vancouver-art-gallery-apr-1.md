@@ -22,7 +22,7 @@ selection committee, and applicants are notified as to the status of their submi
 within 2 months of our submission deadline.
 
 This years call is open from April 1st through April 30th, 2025. To learn more or to
-apply, please visit https://artrentalandsales.com/pages/submissions
+apply, please visit [https://artrentalandsales.com/pages/submissions](https://artrentalandsales.com/pages/submissions)
 
 Due to the volume of submissions we receive, we kindly request no phone calls or
 in-person visits regarding the submission process.

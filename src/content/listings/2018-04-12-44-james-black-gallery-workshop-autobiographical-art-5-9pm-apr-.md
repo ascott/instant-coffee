@@ -29,7 +29,7 @@ You can also use the session to improve on a personal project that you have alre
 initiated.
 
 SIGN UP AND MORE INFO
-Eventbrite: https://bit.ly/2Ecg1Lk
-Facebook: https://bit.ly/2pVZaaA
+Eventbrite: [https://bit.ly/2Ecg1Lk](https://bit.ly/2Ecg1Lk)
+Facebook: [https://bit.ly/2pVZaaA](https://bit.ly/2pVZaaA)
 CONNECT
 www.ghinwayassine.com

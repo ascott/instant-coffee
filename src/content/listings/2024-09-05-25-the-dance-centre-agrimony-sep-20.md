@@ -22,4 +22,4 @@ concert and embodied contemporary dance, and examines our desperate search for
 authenticity within a society that forces us to mask our truest selves.
 
 Info, tickets and trailer:
-http:// https://thedancecentre.ca/event/sophie-dow-laura-
+http:// [https://thedancecentre.ca/event/sophie-dow-laura-](https://thedancecentre.ca/event/sophie-dow-laura-)

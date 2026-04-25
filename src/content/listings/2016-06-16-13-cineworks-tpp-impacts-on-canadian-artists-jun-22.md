@@ -36,7 +36,7 @@ OpenMedia's advocacy on the TPP has focussed on the impacts of
 changes to copyright law in the Intellectual Property chapter of the 
 agreement. You can follow Meghan on twitter @megasali
 
-https://openmedia.org/en/ca
+[https://openmedia.org/en/ca](https://openmedia.org/en/ca)
 
 Cineworks Independent Filmmakers Society (est. 1980) is an artist-
 run production and exhibition centre that supports independent 

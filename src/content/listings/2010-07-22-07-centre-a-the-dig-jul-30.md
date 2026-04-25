@@ -37,7 +37,7 @@ Anthropology, and the Department of Anthropology, the Audain Endowment for
 Curatorial Studies and the Faculty of Arts at The University of British
 Columbia.
 
-Symposium registration: http://tiny.cc/twistersymposium
+Symposium registration: [http://tiny.cc/twistersymposium](http://tiny.cc/twistersymposium)
 
 Contact: Makiko Hara, Debra Zhou, Hank Bull 604-683-8326
 
@@ -258,7 +258,7 @@ $40 tickets in clued keynote session, all-day symposium, refreshments and
 luncheon.
 $20 for registered students
 
-Register online: http://tiny.cc/twistersymposium
+Register online: [http://tiny.cc/twistersymposium](http://tiny.cc/twistersymposium)
 
 FUNDERS
 

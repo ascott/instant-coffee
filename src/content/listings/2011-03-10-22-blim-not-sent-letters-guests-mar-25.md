@@ -62,4 +62,4 @@ projection, and letters selected from the project blog and read by MY NAME
 IS SCOT, PIETRO SAMMARCO & RINA LIDDLE.
 
 Explore previous Not Sent Letters & Guests events here:
-http://www.notsentlettersandguests.blogspot.com
+[http://www.notsentlettersandguests.blogspot.com](http://www.notsentlettersandguests.blogspot.com)

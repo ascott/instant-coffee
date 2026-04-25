@@ -25,7 +25,7 @@ and connect thinkers, policymakers and practitioners working to build vibrant, d
 sustainable and creative places. Delegates and speakers together will have the opportunity to 
 hear, see, exchange and practice global perspectives on collaboration and connect them to local 
 opportunities for change. For full conference details and schedule go to: 
-http://www.creativeplacesandspaces.ca/.
+[http://www.creativeplacesandspaces.ca/](http://www.creativeplacesandspaces.ca/).
 
 Conference Schedule:
 * Wednesday, October 28 - Pre-conference tour and mini Artscape workshop for Vancouver 
@@ -40,12 +40,12 @@ materials, light breakfasts, luncheons and receptions)
 conference wrap-up where delegates will be asked to share some of the learning's from the 
 conference. Details to be announced in the fall.)
 
-Bursary Application Guidelines: http://vancouver.ca/creativecity/placesandspaces/index.htm
+Bursary Application Guidelines: [http://vancouver.ca/creativecity/placesandspaces/index.htm](http://vancouver.ca/creativecity/placesandspaces/index.htm)
 
-Bursary Application Form: http://vancouver.ca/creativecity/placesandspaces/bursaryform.pdf
+Bursary Application Form: [http://vancouver.ca/creativecity/placesandspaces/bursaryform.pdf](http://vancouver.ca/creativecity/placesandspaces/bursaryform.pdf)
 
 Inquiries: 604.871.6875 or OCARSVP@vancouver.ca
 
 The Creative Places + Spaces Bursary is presented by the City of Vancouver Cultural Services in 
 partnership with Vancouver City Savings Credit Union
-http://http://vancouver.ca/creativecity/placesandspaces/i
+[http://http://vancouver.ca/creativecity/placesandspaces/i](http://http://vancouver.ca/creativecity/placesandspaces/i)

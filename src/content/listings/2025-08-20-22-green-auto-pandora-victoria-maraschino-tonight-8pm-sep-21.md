@@ -32,5 +32,5 @@ Venue: Green Auto
 
 Ticket Price: $30 - no one turned away for lack of funds
 
-Ticket link: https://www.eventbrite.com/e/the-maraschino-tonight-show-tickets-
+Ticket link: [https://www.eventbrite.com/e/the-maraschino-tonight-show-tickets-](https://www.eventbrite.com/e/the-maraschino-tonight-show-tickets-)
 1579322499109

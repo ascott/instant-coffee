@@ -39,6 +39,6 @@ art institutions across the country.
 The final day to see Visiteur in person at 485 Main Street, Vancouver, BC, is Saturday
 July 29th. The gallery is open Thursday through Saturday, noon to 5 pm.
 
-https://thisgallery.org/project/kerry-vaughn-erickson/
+[https://thisgallery.org/project/kerry-vaughn-erickson/](https://thisgallery.org/project/kerry-vaughn-erickson/)
 
-https://thethisgallery.com/collections/kerry-vaughn-erickson
+[https://thethisgallery.com/collections/kerry-vaughn-erickson](https://thethisgallery.com/collections/kerry-vaughn-erickson)

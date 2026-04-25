@@ -31,7 +31,7 @@ Tanya Commisso
 she/her
 Communications Coordinator
 Queer Arts Festival + SUM Gallery
-https://queerartsfestival.com/
+[https://queerartsfestival.com/](https://queerartsfestival.com/)
 I am an uninvited guest on the traditional and unceded territories of the xmkwy"m
 (Musqueam), swxw7mesh (Squamish)
 and sl"lwta? (Tsleil-Waututh) peoples. I am

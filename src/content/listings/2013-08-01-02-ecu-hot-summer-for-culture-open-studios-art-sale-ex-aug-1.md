@@ -12,7 +12,7 @@ Hot Summer For Culture
 Emily Carr StudentsÕ Open Studios, Art Sale & Exhibition 
 at the 2nd Annual Yellow Crane Festival
 
-http://www.yellowcranefestival.com/
+[http://www.yellowcranefestival.com/](http://www.yellowcranefestival.com/)
 
 When - August 1st, 2nd, 3rd & 4th 
 11-4pm Daily / Free Admission
@@ -64,4 +64,4 @@ Annual Yellow Crane Festival is definitely the place to see what
 these dynamic artists are producing early in their careers Ð and a 
 chance to buy their pieces at non-gallery prices. For more information 
 on the event please visit the Yellow Crane Festival website: 
-http://www.yellowcranefestival.com/
+[http://www.yellowcranefestival.com/](http://www.yellowcranefestival.com/)

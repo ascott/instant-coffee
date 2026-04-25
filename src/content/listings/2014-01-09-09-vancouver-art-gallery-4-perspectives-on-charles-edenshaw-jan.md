@@ -76,7 +76,7 @@ All tours are free for Members or with Gallery admission.
 Vancouver Art Gallery Videos Are Now Online
 Talks and lectures held at the Vancouver Art Gallery are now posted 
 on our website. You can view our talks online at 
-http://vanartgallery.bc.ca/videos/.
+[http://vanartgallery.bc.ca/videos/](http://vanartgallery.bc.ca/videos/).
 
 Vancouver Art Gallery 
 750 Hornby Street Vancouver BC V6Z 2H7 

@@ -11,7 +11,7 @@ summary: "Art Gallery at Evergreen | \"Multitudes\" Creative Writing Workshop | 
 6:30 pm - 8:00 pm
 
 Free, registration required. Register at:
-https://evergreenculturalcentre.ca/events/multitudes-creative-writing-workshop/
+[https://evergreenculturalcentre.ca/events/multitudes-creative-writing-workshop/](https://evergreenculturalcentre.ca/events/multitudes-creative-writing-workshop/)
 Join guest curator Anna Luth for an interactive creative writing workshop based on
 the group exhibition Multitudes. Take inspiration from the art in the gallery to create
 your own poetic response to the question, How can stories transform the present

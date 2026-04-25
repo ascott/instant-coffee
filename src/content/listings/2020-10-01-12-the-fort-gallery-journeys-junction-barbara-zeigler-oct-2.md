@@ -53,4 +53,4 @@ facebook.com/fortgallery
 Twitter: @fortgallery
 Instagram: @fortgallery
 ...
-http://www.fortgallery.ca
+[http://www.fortgallery.ca](http://www.fortgallery.ca)

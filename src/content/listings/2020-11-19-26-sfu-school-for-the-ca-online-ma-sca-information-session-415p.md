@@ -10,7 +10,7 @@ summary: "SFU School for the CA [ONLINE] | MA @ SCA: Information Session | 415PM
 
 November 26, 2020 | 4:15 PM - 5:30 PM (PT) | Zoom / RSVP
 
-RSVP HERE: https://www.eventbrite.ca/e/ma-info-session-sfu-school-for-the-
+RSVP HERE: [https://www.eventbrite.ca/e/ma-info-session-sfu-school-for-the-](https://www.eventbrite.ca/e/ma-info-session-sfu-school-for-the-)
 contemporary-arts-registration-128285827363
 
 Please join us for an introduction to the SCA's
@@ -41,7 +41,7 @@ the School for the Contemporary Arts at SFU provides a rich environment for scho
 of the fine and performing arts. Working in parallel with students in the MFA program,
 MA scholars are immersed in an environment of creative experimentation.
 For more information about the MA program, please click
-https://www.sfu.ca/sca/programs/ma.html
+[https://www.sfu.ca/sca/programs/ma.html](https://www.sfu.ca/sca/programs/ma.html)
 and for information about applying to the
 program, please click
-https://www.sfu.ca/sca/future-students/graduate.html
+[https://www.sfu.ca/sca/future-students/graduate.html](https://www.sfu.ca/sca/future-students/graduate.html)

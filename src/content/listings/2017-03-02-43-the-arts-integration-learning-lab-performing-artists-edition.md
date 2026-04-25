@@ -20,4 +20,4 @@ selected to participate will be fully subsidized to tuition to attend five days 
 interactive workshops (April 24-28), receive program materials, and enjoy lunch each 
 day. This opportunity is made possible through funding support from BC Arts Council 
 and the Government of British Columbia's Creative Futures program. Learn more and 
-apply by March 20, 2017 at http://artstarts.com/aill
+apply by March 20, 2017 at [http://artstarts.com/aill](http://artstarts.com/aill)

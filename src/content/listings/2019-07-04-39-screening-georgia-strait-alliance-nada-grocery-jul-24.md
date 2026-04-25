@@ -10,7 +10,7 @@ summary: "SCREENING | Georgia Strait Alliance | Nada Grocery | JUL 24"
 
 Nada Grocery x Georgia Strait Alliance Movie Night: Fractured Land
 
-Tickets:https://go.hoovie.movie/screenings/118/nada-grocery-x-georgia-strait-alliance-
+Tickets:[https://go.hoovie.movie/screenings/118/nada-grocery-x-georgia-strait-alliance-](https://go.hoovie.movie/screenings/118/nada-grocery-x-georgia-strait-alliance-)
 movie-night-fractured-land
 
 Location: 675 E Broadway, Vancouver, BC V5T 1X7, Canada

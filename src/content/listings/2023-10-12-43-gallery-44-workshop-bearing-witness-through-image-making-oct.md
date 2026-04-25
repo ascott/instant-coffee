@@ -36,4 +36,4 @@ in which vulnerability becomes intertwined with both creative expression and gro
 
 An arts-and-text resource kit will be provided to participants after the session.
 
-Register now: https://www.gallery44.org/events/radical-softness
+Register now: [https://www.gallery44.org/events/radical-softness](https://www.gallery44.org/events/radical-softness)

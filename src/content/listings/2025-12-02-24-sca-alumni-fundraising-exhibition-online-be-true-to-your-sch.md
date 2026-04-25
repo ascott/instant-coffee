@@ -16,11 +16,11 @@ Audain Gallery at the SCA
 Closing Reception: December 13 | 6:30 PM " 9:30 PM |
 
 RSVP HERE:
-https://www.eventbrite.ca/e/be-true-to-your-school-closing-reception-tickets-
+[https://www.eventbrite.ca/e/be-true-to-your-school-closing-reception-tickets-](https://www.eventbrite.ca/e/be-true-to-your-school-closing-reception-tickets-)
 1956390840669?aff=oddtdtcreator
 
 Visit the online auction HERE:
-https://can.givergy.com/ScaAlumniAuction/
+[https://can.givergy.com/ScaAlumniAuction/](https://can.givergy.com/ScaAlumniAuction/)
 
 Featuring art donated by the following SCA alumni: Francisco Berlanga, Dave Biddle, A.
 Branch, Lorna Brown, Minahil Bukhari, Sena Cleave, Brady Cranfield, Lauren Crazybull,

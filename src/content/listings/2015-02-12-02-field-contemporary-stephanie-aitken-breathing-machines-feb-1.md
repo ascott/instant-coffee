@@ -36,5 +36,5 @@ and Border Crossings. She recently designed a series of three hand knotted
 rugs that have been produced in collaboration with Burritt Bros. in
 Vancouver and weavers in the Kathmandu Valley.
 
-For more information visit http://www.field-contemporary.com/ or contact
+For more information visit [http://www.field-contemporary.com/](http://www.field-contemporary.com/) or contact
 info@field-contemporary.com

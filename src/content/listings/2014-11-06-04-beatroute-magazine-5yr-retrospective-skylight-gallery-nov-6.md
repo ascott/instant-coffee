@@ -33,7 +33,7 @@ Brad Rhadwood
 electronic music editor Andy Soloman~~
 
 RSVP 
-https://www.facebook.com/events/1476779859271908/
+[https://www.facebook.com/events/1476779859271908/](https://www.facebook.com/events/1476779859271908/)
 
 Skylight Gallery
 163 E Pender

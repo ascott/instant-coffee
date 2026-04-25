@@ -19,7 +19,7 @@ FREE
 
 Moderated by New Media Gallery
 Zoom Invitation : contact@newmediagallery.ca
-https://newmediagallery.ca/artist-talk-isea-2020/
+[https://newmediagallery.ca/artist-talk-isea-2020/](https://newmediagallery.ca/artist-talk-isea-2020/)
 
 "The decisive factor is that these rights and the human dignity they bestow should remain
 valid and real if only a single human being existed on earth; they are independent of

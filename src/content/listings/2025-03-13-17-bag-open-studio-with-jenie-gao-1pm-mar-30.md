@@ -32,4 +32,4 @@ Burnaby Art Gallery
 BC Canada
 V5G 2J3
 
-https://www.burnaby.ca/recreation-and-arts/events/bag-and-open-studio-jenie-gao
+[https://www.burnaby.ca/recreation-and-arts/events/bag-and-open-studio-jenie-gao](https://www.burnaby.ca/recreation-and-arts/events/bag-and-open-studio-jenie-gao)

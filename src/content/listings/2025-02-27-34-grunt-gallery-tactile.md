@@ -33,5 +33,5 @@ artists and audiences. Our goal is to explore tactile forms of artistic engageme
 presentation, prioritize accessibility, and challenge traditional, occular-centric
 approaches to art.
 
-Link to audio file: https://grunt.ca/wp-content/uploads/2025/01/2025-tactile-
+Link to audio file: [https://grunt.ca/wp-content/uploads/2025/01/2025-tactile-](https://grunt.ca/wp-content/uploads/2025/01/2025-tactile-)
 engagement-questions.mp3

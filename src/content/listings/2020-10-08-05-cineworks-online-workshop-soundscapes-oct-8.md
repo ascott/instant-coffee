@@ -42,11 +42,11 @@ Registration for this four-part workshop is sliding scale--starting at $15--to h
 costs. However, space is limited. Please fill out the application form first and we will
 contact you
 regarding your spot. Application form:
-https://airtable.com/shrMOeJ3R5v8rfnIH
+[https://airtable.com/shrMOeJ3R5v8rfnIH](https://airtable.com/shrMOeJ3R5v8rfnIH)
 
 Cineworks encourages applications from self-identified members of underserved or
 historically marginalized communities. We thank all who apply.
 
-Visit our event page for more details: https://bit.ly/36gvf3G
+Visit our event page for more details: [https://bit.ly/36gvf3G](https://bit.ly/36gvf3G)
 
 Have any questions? Feel free to email intern.cineworks@gmail.com

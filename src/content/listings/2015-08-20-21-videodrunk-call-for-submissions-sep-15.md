@@ -23,6 +23,6 @@ Under 20 Minutes: $10/Over 20 Minutes: $20/Feature: $25
 
 Deadline September 15th
 
-Submit via FilmFreeway: https://filmfreeway.com/festival/Videodrunk
-For more info visit: https://videodrunk.wordpress.com/ or email
+Submit via FilmFreeway: [https://filmfreeway.com/festival/Videodrunk](https://filmfreeway.com/festival/Videodrunk)
+For more info visit: [https://videodrunk.wordpress.com/](https://videodrunk.wordpress.com/) or email
 videodrunkfest@gmail.com

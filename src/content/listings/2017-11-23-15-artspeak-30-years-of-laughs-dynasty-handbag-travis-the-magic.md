@@ -46,7 +46,7 @@ and many more.
 
 Tickets can be purchased for $31 in advance here
 or $35 at the door.
-https://www.eventbrite.com/e/30-years-of-laughs-a-fundraiser-for-artspeaks-31st-year-
+[https://www.eventbrite.com/e/30-years-of-laughs-a-fundraiser-for-artspeaks-31st-year-](https://www.eventbrite.com/e/30-years-of-laughs-a-fundraiser-for-artspeaks-31st-year-)
 tickets-38671103311
 
-http://artspeak.ca/30-years-of-laughs-a-fundraiser/
+[http://artspeak.ca/30-years-of-laughs-a-fundraiser/](http://artspeak.ca/30-years-of-laughs-a-fundraiser/)

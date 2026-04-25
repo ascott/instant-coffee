@@ -19,4 +19,4 @@ All ages welcome. Cash bar.
 
 No advance registration required.
 
-https://cagvancouver.org/event/opening-reception-fall-2024
+[https://cagvancouver.org/event/opening-reception-fall-2024](https://cagvancouver.org/event/opening-reception-fall-2024)

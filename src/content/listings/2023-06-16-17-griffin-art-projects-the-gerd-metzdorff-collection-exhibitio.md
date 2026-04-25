@@ -21,5 +21,5 @@ prints.
 With the passing of this enigmatic and remarkable collector, Gerd Metzdorffs stunning
 collection is presented to the public for the first time at Griffin Art Projects.
 
-More info: https://www.griffinartprojects.ca/events/per-diem-part-ii-the-gerd-metzdorff-
+More info: [https://www.griffinartprojects.ca/events/per-diem-part-ii-the-gerd-metzdorff-](https://www.griffinartprojects.ca/events/per-diem-part-ii-the-gerd-metzdorff-)
 collection-2

@@ -25,7 +25,7 @@ mixture of multi-functional provisions.
 
 Curated by Sung Pil Yoon.
 
-Read more: http://221a.ca/and-he-built-a-crooked-house
+Read more: [http://221a.ca/and-he-built-a-crooked-house](http://221a.ca/and-he-built-a-crooked-house)
 
 221A
 100-221 E Georgia

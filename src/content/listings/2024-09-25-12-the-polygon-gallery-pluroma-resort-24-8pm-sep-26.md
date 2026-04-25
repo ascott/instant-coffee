@@ -28,7 +28,7 @@ Special music performance by Sophia Stel.
 Outdoor performance at 8pm
 Runway show starts at 9pm
 Purchase tickets here:
-https://store.thepolygon.ca/products/pluroma
+[https://store.thepolygon.ca/products/pluroma](https://store.thepolygon.ca/products/pluroma)
 
 About Liquidation World
 Liquidation World is an art collective formed in 2021 with the intention of producing
@@ -67,7 +67,7 @@ reminder to passers-by of the possibilities present all around us.
 Free and wheelchair accessible event. Family friendly, ages 12+ recommended. 45
 spots available.
 
-Register here: https://evergreenculturalcentre.my.salesforce-
+Register here: [https://evergreenculturalcentre.my.salesforce-](https://evergreenculturalcentre.my.salesforce-)
 sites.com/ticket/#/events/a0SOK000001Z5Nd2AK.
 
 Pay parking available on-site, easy access from Lafarge Lake-Douglas College

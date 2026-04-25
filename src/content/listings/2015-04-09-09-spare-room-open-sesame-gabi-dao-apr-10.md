@@ -58,4 +58,4 @@ Sesame attempts to devise a parallel discourse indulging in the colourful
 mythology and its surviving rhetoric of old-world aesthetics.
 
 More info:
-http://spare-room.ca/
+[http://spare-room.ca/](http://spare-room.ca/)

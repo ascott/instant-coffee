@@ -19,7 +19,7 @@ works. Faces and Voices, a UBC Student exhibition includes objects, images,
 text, video, and recorded sounds related to artists, collectors, critics, and 
 researchers involved in the Inuit art market.
 
-Check out our website for more details: http://www.moa.ubc.ca/exhibits. 
+Check out our website for more details: [http://www.moa.ubc.ca/exhibits](http://www.moa.ubc.ca/exhibits). 
 
 Admission $15.68 Adults; $13.44 Students & Seniors 65+ / 6393 N.W. Marine 
 Drive, Vancouver BC V6T 1Z2

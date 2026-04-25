@@ -42,7 +42,7 @@ the same day as the Filipino-Canadians Professionals Conference,
 showing a different set of artworks that depict intimate stories of 
 Filipino migration to, and Filipino integration in, Canada and the U.S. 
 The documentation photos and essays of these exhibits can be found 
-at http://​philippinestudiesseries.wor​dpress.com/2011/12/21/​mahal-art-
+at [http://​philippinestudiesseries.wor​dpress.com/2011/12/21/​mahal-art-](http://​philippinestudiesseries.wor​dpress.com/2011/12/21/​mahal-art-)
 exhibit-photos/
 
 The new project is the third installment of the mahal exhibit. It explores 
@@ -52,7 +52,7 @@ working abroad, and sent to family and friends in the Philippines. This
 collaborative project builds upon narratives depicted in the short film, 
 produced by the UBC Ethnographic Film Unit and directed by Dada 
 Docot, Almira Walde-Renaud and Daniel Smartt, “Balikabayan: Return 
-to the Nation”  (http://vimeo.com/24159140). 
+to the Nation”  ([http://vimeo.com/24159140](http://vimeo.com/24159140)). 
 
 The project, as part of the IVEFS coursework, endeavors to add to the 
 discourse involving cultural global flows associated with (im)migrant 
@@ -93,9 +93,9 @@ Filipino-Canadian friends.
 >>>>>>>>>>>>>>>>>>>>>>>
 
 Yactac Gallery | 7206 Ontario Street (@ 56th), Vancouver, BC, Canada
-http://www.yactac.com | contact us at: yactacgallery@gmail.com
+[http://www.yactac.com](http://www.yactac.com) | contact us at: yactacgallery@gmail.com
 
 Yactac are Janice and Justine Cheung, Peggy and Karen Ngan.
 
-Twitter: http://www.twitter.com/yactac 
-Facebook: http://www.facebook.com/pages/Yactac/219495644734594
+Twitter: [http://www.twitter.com/yactac](http://www.twitter.com/yactac) 
+Facebook: [http://www.facebook.com/pages/Yactac/219495644734594](http://www.facebook.com/pages/Yactac/219495644734594)

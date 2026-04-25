@@ -19,11 +19,11 @@ Monday, March 27, 6:30pm-8:30pm
 One session, 2 hours total, electronic parts included | $70, or $55 with VIVO 
 Extended Producer Membership
 
-Sign up on Eventbrite - https://light-theremin-with-moldover.eventbrite.ca
+Sign up on Eventbrite - [https://light-theremin-with-moldover.eventbrite.ca](https://light-theremin-with-moldover.eventbrite.ca)
 
 In this electronic construction workshop, Moldover (moldover.com) will take you 
 through the steps to build your own Light-Theremin CD case 
-(https://youtu.be/T8UzSVFUIc0). Even if you've never soldered before, this 
+([https://youtu.be/T8UzSVFUIc0](https://youtu.be/T8UzSVFUIc0)). Even if you've never soldered before, this 
 workshop will give you the confidence in two hours. If you do have experience, 
 you'll learn how to solder better, and walk away with a fun and unique 
 instrument, plus a copy of Moldover's album. 
@@ -41,7 +41,7 @@ Following the workshop, Moldover will give an artist presentation on his Playabl
 Packaging designs, as well as his performance instruments, The Mojo, The 
 Robocaster, and The MC1. This presentation will take place in VIVO's studio, 
 9pm-10pm. Entrance by donation. See more info about this presentation here: 
-https://www.facebook.com/events/1794236150897106/
+[https://www.facebook.com/events/1794236150897106/](https://www.facebook.com/events/1794236150897106/)
 
 Visit VIVO Education for many more details: 
-http://www.vivomediaarts.com/education/upcoming-workshops
+[http://www.vivomediaarts.com/education/upcoming-workshops](http://www.vivomediaarts.com/education/upcoming-workshops)

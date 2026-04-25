@@ -18,5 +18,5 @@ Monkman's Shame and Prejudice: A Story of Resilience.
 October 24 | 5:30 " 7 pm
 Online via Zoom
 Free, registration required
-https://moa.ubc.ca/event/online-miss-chiefs-sovereign-eroticism-queer-indigenous-
+[https://moa.ubc.ca/event/online-miss-chiefs-sovereign-eroticism-queer-indigenous-](https://moa.ubc.ca/event/online-miss-chiefs-sovereign-eroticism-queer-indigenous-)
 resilience-in-kent-monkmans-work/

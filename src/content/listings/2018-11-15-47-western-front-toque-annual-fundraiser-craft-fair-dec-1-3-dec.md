@@ -17,11 +17,11 @@ Friday 6-10PM
 Saturday 11-5PM
 Sunday 11-5PM
 
-https://www.facebook.com/events/262052267844415/
+[https://www.facebook.com/events/262052267844415/](https://www.facebook.com/events/262052267844415/)
 
 Admission by donation
 
-https://toque2018.tumblr.com
+[https://toque2018.tumblr.com](https://toque2018.tumblr.com)
 
 Featuring: Anita Sikma Design, AW by Andrea Wong, Carall St Canvas Co, Cloth 
 Tone (Sun only), Collage Collage (Fri only), Coral + Cloud, Draw Me A Lion, East 

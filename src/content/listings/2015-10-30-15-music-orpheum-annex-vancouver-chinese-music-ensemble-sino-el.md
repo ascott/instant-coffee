@@ -69,8 +69,8 @@ with the Ensemble, the Society works to introduce Canadian audiences
 to traditional Chinese music and contemporary music for Chinese
 instruments and/or based on Chinese music.
 
-VCME website: http://www.vancouverchinesemusic.ca/
-Ticket Link: http://vcme.brownpapertickets.com/​​
+VCME website: [http://www.vancouverchinesemusic.ca/](http://www.vancouverchinesemusic.ca/)
+Ticket Link: [http://vcme.brownpapertickets.com/​​](http://vcme.brownpapertickets.com/​​)
 ​​VCME Facebook page:
-http://www.facebook.com/vancouverchinesemusic
+[http://www.facebook.com/vancouverchinesemusic](http://www.facebook.com/vancouverchinesemusic)
 VCME Twitter: @VCME_BC

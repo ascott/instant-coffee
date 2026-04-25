@@ -46,7 +46,7 @@ a direct one – for example, a woodpecker perched on a wood-marking awl.
 Behind the immediate satisfaction of image-play, however, Broad's work 
 moves us to question the dynamic of the human-animal relationship, and 
 provide a closer look into the accidental relationships that living creatures form 
-with the inanimate objects that we leave behind. http://maushunt.com/
+with the inanimate objects that we leave behind. [http://maushunt.com/](http://maushunt.com/)
 
 Alex M.F. Quicho makes large-scale graphite drawings that incorporate 
 evacuated natural and architectural structures within a void of negative space. 
@@ -55,7 +55,7 @@ baggies, axes, and so on, are scattered across this inverted landscape as
 careless litter or perhaps a trail of breadcrumbs left by especially delinquent 
 adventurers. As such, these drawings become a record of not only accident 
 and abandonment, but also of depravity and delinquency - the dangerous, 
-attractive calling-cards of contemporary youth culture. http://www.amfq.net/
+attractive calling-cards of contemporary youth culture. [http://www.amfq.net/](http://www.amfq.net/)
 
 Daniel Marcus Tatterton, alias DMT, makes drawings and prints which are 
 hallucinatory, maze-like, and packed with survival structures and occult 
@@ -63,10 +63,10 @@ characters. These are often installed in altar-like format together with gathere
 materials and small hand-made objects. For Wastelands, Tatterton will be 
 creating a darkly humorous and highly psychoactive survival guide, which will 
 be displayed in both zine and spread format at the exhibition. 
-http://egodaeth.tumblr.com/
+[http://egodaeth.tumblr.com/](http://egodaeth.tumblr.com/)
 
 --
 The Gam Gallery
 110 E Hastings St. Vancouver BC, Canada, V6A 1N4
 thegam@live.com
-http://www.gamgallery.com
+[http://www.gamgallery.com](http://www.gamgallery.com)

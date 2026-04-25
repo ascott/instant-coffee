@@ -43,4 +43,4 @@ Vancouver arts community.
 
 Contact details: shootinggalleryperformance@gmail.com
 For further information, please visit: 
-https://shootinggalleryperformance.wordpress.com/
+[https://shootinggalleryperformance.wordpress.com/](https://shootinggalleryperformance.wordpress.com/)

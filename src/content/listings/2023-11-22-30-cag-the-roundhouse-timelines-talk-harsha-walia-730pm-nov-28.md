@@ -31,5 +31,5 @@ in Canadian Immigration as well as Red Women Rising: Indigenous Women
 Survivors in Vancouvers Downtown Eastside.
 Learn More:
 
-https://cagvancouver.org/event/timelines-talk-harsha-walia?
+[https://cagvancouver.org/event/timelines-talk-harsha-walia](https://cagvancouver.org/event/timelines-talk-harsha-walia)?
 mc_cid=24ff1af278&mc_eid=aea072d008

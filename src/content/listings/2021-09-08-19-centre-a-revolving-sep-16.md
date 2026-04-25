@@ -18,7 +18,7 @@ Opening Reception:
 Thursday, September 16, 5 PM " 9 PM*
 Registration is required. Register and read important information about attending
 the
-opening reception: https://www.eventbrite.ca/e/opening-reception-sona-safaei-sooreh-
+opening reception: [https://www.eventbrite.ca/e/opening-reception-sona-safaei-sooreh-](https://www.eventbrite.ca/e/opening-reception-sona-safaei-sooreh-)
 revolving-a-family-tale-registration-167501111333
 Light refreshments will be safely served
 

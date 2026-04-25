@@ -47,7 +47,7 @@ currently an instructor in ceramics at Langara College, Vancouver.
 
 For more information see:
 
-North-West Ceramics Foundation: http://north-
+North-West Ceramics Foundation: [http://north-](http://north-)
 westceramicsfoundation.weebly.com
 
-Alwyn O'Brien: http://jamesharrisgallery.com/artists/alwyn-obrien/
+Alwyn O'Brien: [http://jamesharrisgallery.com/artists/alwyn-obrien/](http://jamesharrisgallery.com/artists/alwyn-obrien/)

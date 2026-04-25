@@ -45,4 +45,4 @@ B3J 1L2
 Please visit our website at: www.centreforarttapes.ca
 Any inquiries may be emailed to the Hiring Committee: cfat.operations@ns.sympatico.ca
 
-Download a detailed Job posting. http://www.centreforarttapes.ca/downloads/EDWebPDF.pdf
+Download a detailed Job posting. [http://www.centreforarttapes.ca/downloads/EDWebPDF.pdf](http://www.centreforarttapes.ca/downloads/EDWebPDF.pdf)

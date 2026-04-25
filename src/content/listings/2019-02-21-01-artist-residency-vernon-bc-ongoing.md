@@ -35,7 +35,7 @@ Sermoneta Room: from April 10th-May 10th. Anytime between November 4th 2019 and 
 30th 2020.
 Teano Suite: from now - April 10th. 
 
-LEARN MORE + APPLY HERE: https://www.caetani.org/self-directed-residencies-for-artists-
+LEARN MORE + APPLY HERE: [https://www.caetani.org/self-directed-residencies-for-artists-](https://www.caetani.org/self-directed-residencies-for-artists-)
 and-writers/
 
 E-mail air@caetani.org with any questions.

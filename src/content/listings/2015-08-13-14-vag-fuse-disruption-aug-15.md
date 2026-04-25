@@ -17,7 +17,7 @@ FUSE: DISRUPTION
 Vancouver Art Gallery (750 Hornby St.)
 
 Admission: $20 plus tax / Free to the Vancouver Art Gallery Members
-Tickets: http://vanartgallery.bc.ca/events_and_programs/fuse.html
+Tickets: [http://vanartgallery.bc.ca/events_and_programs/fuse.html](http://vanartgallery.bc.ca/events_and_programs/fuse.html)
 
 On August 15, 2015, FUSE will celebrate its
 10th anniversary with the biggest FUSE event in its history with FUSE:
@@ -107,7 +107,7 @@ Beyond the Trees: Wallpapers in Dialogue with Emily Carr (In conjunction
 with ISEA2015)
 
 Tickets: $20 (+tax) | Free for Gallery members
-Website: http://vanartgallery.bc.ca/events_and_programs/fuse.html
+Website: [http://vanartgallery.bc.ca/events_and_programs/fuse.html](http://vanartgallery.bc.ca/events_and_programs/fuse.html)
 
 About FUSE: Since its inception in July 2005, thousands of FUSE-goers have
 converged at the Vancouver Art Gallery for this unique adult event. Live

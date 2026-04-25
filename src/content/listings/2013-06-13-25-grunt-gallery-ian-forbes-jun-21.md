@@ -93,8 +93,8 @@ Records Management.
 View this information on the grunt website.
 Arts Umbrella: Teen Visual Arts Scholarship Program Exhibition 2013
 
-Event info: http://www.artsumbrella.com/expressions
+Event info: [http://www.artsumbrella.com/expressions](http://www.artsumbrella.com/expressions)
 
-grunt gallery | karlene@grunt.ca | http://grunt.ca
+grunt gallery | karlene@grunt.ca | [http://grunt.ca](http://grunt.ca)
 350 E 2nd, Unit 116
 Vancouver, V5T 4R8

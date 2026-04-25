@@ -16,4 +16,4 @@ The survey is conducted by artist and community consultant Jenie Gao on behalf o
 Centre A. Your answers will be used to inform our 3-Year Strategic Plan and
 recommendations for the future development of the organization.
 
-To learn more and fill out the survey, please go to https://tinyurl.com/centreasurvey
+To learn more and fill out the survey, please go to [https://tinyurl.com/centreasurvey](https://tinyurl.com/centreasurvey)

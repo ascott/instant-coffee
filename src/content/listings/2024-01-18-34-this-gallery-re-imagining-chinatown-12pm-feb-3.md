@@ -48,9 +48,9 @@ Yosef Wosk Publication Grant and the Canada Council for the Arts. The paintings
 featured in this exhibition are part of a larger series that will be published as an
 illustrated history book.
 
-Artist full statement: https://thisgallery.org/project/donna-seto/
+Artist full statement: [https://thisgallery.org/project/donna-seto/](https://thisgallery.org/project/donna-seto/)
 
 Artist site:
-https://donnaseto.square.site/
+[https://donnaseto.square.site/](https://donnaseto.square.site/)
 
-Taste of Chinatown link: https://www.tasteofchinatown.ca/
+Taste of Chinatown link: [https://www.tasteofchinatown.ca/](https://www.tasteofchinatown.ca/)

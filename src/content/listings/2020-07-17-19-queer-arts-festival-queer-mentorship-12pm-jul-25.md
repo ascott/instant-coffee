@@ -19,5 +19,5 @@ as queer and poc writers. Hiromi and Erica share learnings
 and reflections from their own mentorship relationship as part of Queer Arts Festival 2020.
 
 Free event. ASL interpretation is provided. Limited spots - registration is required in advance.
-Register here: https://www.eventbrite.ca/e/a-conversation-on-queer-mentorship-qaf-2020-
+Register here: [https://www.eventbrite.ca/e/a-conversation-on-queer-mentorship-qaf-2020-](https://www.eventbrite.ca/e/a-conversation-on-queer-mentorship-qaf-2020-)
 tickets-105187001152

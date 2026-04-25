@@ -57,4 +57,4 @@ scenarios for her protagonists.
 
 livingcouchart.com
 
-Facebook Event Page: https://www.facebook.com/events/1693117604289845/
+Facebook Event Page: [https://www.facebook.com/events/1693117604289845/](https://www.facebook.com/events/1693117604289845/)

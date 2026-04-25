@@ -19,4 +19,4 @@ those who have woven tapestry on a frame loom and want to make cloth.
 Please phone the Silk Weaving Studio at (604) 687-7455 to register.
 
 Dates: May 3, 10, 17, 24, 7-9 pm
-Link: http://www.amandawoodstudio.com/events/2017/5/3/beginner-weaving
+Link: [http://www.amandawoodstudio.com/events/2017/5/3/beginner-weaving](http://www.amandawoodstudio.com/events/2017/5/3/beginner-weaving)

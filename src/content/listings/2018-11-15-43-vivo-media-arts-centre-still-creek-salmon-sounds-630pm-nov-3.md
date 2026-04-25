@@ -28,4 +28,4 @@ Pierre, and aquatic ecologist Emma Atkinson.
 
 Co-produced with Still Moon Arts Society.
 
-Let us know you're coming: https://www.facebook.com/events/356757681534735/
+Let us know you're coming: [https://www.facebook.com/events/356757681534735/](https://www.facebook.com/events/356757681534735/)

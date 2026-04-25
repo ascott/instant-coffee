@@ -26,14 +26,14 @@ What Are ATCs? Artist Trading Cards are miniature works of art measuring 2 ½" x
 made to trade. ATCs are intended to be a non-commercial, non-hierarchical avenue for artistic 
 exchange. Cards are traded one for one, and everyone is invited to participate. For more 
 information on the history and making of ATCs, please visit 
-http://www.richmondartgallery.org/atcs/atc.php.
+[http://www.richmondartgallery.org/atcs/atc.php](http://www.richmondartgallery.org/atcs/atc.php).
 
 2008 ATC Exhibition Theme:
 
 ATCs will be on display alongside the exhibitions MARGINALIA: Getting Out of the House by 
 Margaret Dragu and Pam Hall, and Patron Saint of Waterskiers by Emily Rosamond.
-(See http://www.richmondartgallery.org/marginalia.php, 
-http://www.richmondartgallery.org/rosamond.php)
+(See [http://www.richmondartgallery.org/marginalia.php](http://www.richmondartgallery.org/marginalia.php), 
+[http://www.richmondartgallery.org/rosamond.php](http://www.richmondartgallery.org/rosamond.php))
 In conjunction with these exhibitions, ATC submissions should reflect one or more of the following 
 themes which relate to the works of Dragu & Hall, and Rosamond:
 

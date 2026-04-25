@@ -23,7 +23,7 @@ September 15, 2016.
 
 Learn more about the award and how to apply on our new website, 
 which features GIF work by Vancouver-based artist Nicolas Sassoon: 
-http://edaa.equitablebank.ca/.
+[http://edaa.equitablebank.ca/](http://edaa.equitablebank.ca/).
 
 
 31. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing

@@ -8,7 +8,7 @@ venue: "The Polygon Podcast"
 summary: "The Polygon Podcast | Episode 1: Jonah Samson | APR 19"
 ---
 
-https://thepolygon.ca/news/the-polygon-podcast-episode-1-featuring-jonah-samson/?
+[https://thepolygon.ca/news/the-polygon-podcast-episode-1-featuring-jonah-samson/](https://thepolygon.ca/news/the-polygon-podcast-episode-1-featuring-jonah-samson/)?
 fbclid=IwAR08NvfYdfcmW9k8yB5gzOpy-J7YTFFUKZVu4qBb-XfPA--JSbhpEaIBTp0
 
 On the first episode of The Polygon Podcast, Audain Chief Curator Helga Pakasaar is in

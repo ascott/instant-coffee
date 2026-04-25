@@ -44,4 +44,4 @@ independent arts administrator on the traditional, ancestral, and unceded territ
 of the hn"q"min"m" and Swxw7mesh Snchim speaking peoples, known as
 Burnaby, BC.
 
-https://www.fleetstudios.org/program/sidi-chen-artist-talk-and-listening-exercise
+[https://www.fleetstudios.org/program/sidi-chen-artist-talk-and-listening-exercise](https://www.fleetstudios.org/program/sidi-chen-artist-talk-and-listening-exercise)

@@ -12,7 +12,7 @@ Curator's Talk
 Darrin Martens
 Saturday, May 29, 2010 4:15pm
 Part of the Canadian Art Foundation Gallery Hop
-http://www.canadianart.ca/microsites/vancouverhop/talks
+[http://www.canadianart.ca/microsites/vancouverhop/talks](http://www.canadianart.ca/microsites/vancouverhop/talks)
 
 Last week to visit Friend or Foe! Please join us on Saturday, May 29th at
 4:15pm for a talk by guest curator Darrin Martens. The event is part of the

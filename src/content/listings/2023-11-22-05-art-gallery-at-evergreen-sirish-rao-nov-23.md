@@ -23,7 +23,7 @@ Free and wheelchair accessible event. Doors at 6:30pm.There will be a cash bar a
 concession will be open. Free parking after 6pm, easy access from Lafarge Lake-
 Douglas Skytrain Station.
 
-Registration required: https://evergreenculturalcentre.ca/events/rise-cultural-talk/
+Registration required: [https://evergreenculturalcentre.ca/events/rise-cultural-talk/](https://evergreenculturalcentre.ca/events/rise-cultural-talk/)
 
 About the speaker:
 Sirish Rao is an internationally recognized cultural innovator, curator,publisherand

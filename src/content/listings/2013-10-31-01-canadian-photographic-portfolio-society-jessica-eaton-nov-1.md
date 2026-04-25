@@ -38,4 +38,4 @@ Follow our
 blog at: cppsonline.wordpress.com
 
 For more
-information about Jessica Eaton and CPPS: http://bit.ly/1bob7aY
+information about Jessica Eaton and CPPS: [http://bit.ly/1bob7aY](http://bit.ly/1bob7aY)

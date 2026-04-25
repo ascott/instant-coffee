@@ -16,7 +16,7 @@ We are still accepting arts submissions for our 23th issue, LUCK.
 Send in a submission of your work related to this theme (broad 
 interpretation okay) or questions to thisgreatsociety@gmail.com 
 before SEPTEMBER 1st. Find submission guidelines here: 
-http://www.thisgreatsociety.com/guidelines.html
+[http://www.thisgreatsociety.com/guidelines.html](http://www.thisgreatsociety.com/guidelines.html)
 
 Thanks!
 thisgreatsociety@gmail.com 

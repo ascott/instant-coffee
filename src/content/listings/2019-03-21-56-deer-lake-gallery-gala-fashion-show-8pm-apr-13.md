@@ -73,5 +73,5 @@ Doors Open @ 7:30 PM
 
 - Auctioneer - David C Jones
 
-Tickets NOW on Sale! https://2019galaevent.eventbrite.ca
+Tickets NOW on Sale! [https://2019galaevent.eventbrite.ca](https://2019galaevent.eventbrite.ca)
 $35 each - Fashion Show, Art Auction, Live Painting, Silent Auction & Nibbles, Cash Bar

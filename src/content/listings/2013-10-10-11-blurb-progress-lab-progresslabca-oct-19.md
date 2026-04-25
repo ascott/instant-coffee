@@ -16,7 +16,7 @@ piece based on three “obstructions” in two back-to-back boundary-
 busting shows: Theatre Replacement’s A Certain Kind of Darkness on 
 Saturday Oct. 19, 2013 and Neworld Theatre’s This Butoh is Not Political 
 on Friday, Oct. 25, 2013. PL1422 (1422 William Street, Vancouver). 
-Tickets: $16. http://Obstructionsoctober.eventbrite.ca 
+Tickets: $16. [http://Obstructionsoctober.eventbrite.ca](http://Obstructionsoctober.eventbrite.ca) 
 
 Belinda Bruce
 Publicist

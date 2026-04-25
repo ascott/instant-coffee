@@ -9,7 +9,7 @@ summary: "Griffin Art Projects [ONLINE] | Conversations on Collecting | 1PM | MA
 ---
 
 Registration:
-https://us06web.zoom.us/webinar/register/WN_1qBm8vGhQZGTHby1HWvdUA
+[https://us06web.zoom.us/webinar/register/WN_1qBm8vGhQZGTHby1HWvdUA](https://us06web.zoom.us/webinar/register/WN_1qBm8vGhQZGTHby1HWvdUA)
 
 Join Griffin Art Projects and The Contemporary Art Society of
 Vancouver in conversation with collectors Grant Mann and David

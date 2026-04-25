@@ -33,4 +33,4 @@ coined "The New Aesthetic" which considers works that often satirically
 draw on the visual language of the internet and digital technologies.
 
 Video synopses can be found here:
-https://www.facebook.com/events/121442001523507/
+[https://www.facebook.com/events/121442001523507/](https://www.facebook.com/events/121442001523507/)

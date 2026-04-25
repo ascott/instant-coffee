@@ -26,5 +26,5 @@ E-mail us and tell us about yourself and why you are interested in participating
 these workshops. Include artist statement, links, images, contact info, etc.
 Direct inquires to:
 info@livebiennale.ca
-https://www.facebook.com/livebiennale
+[https://www.facebook.com/livebiennale](https://www.facebook.com/livebiennale)
 www.livebiennale.ca

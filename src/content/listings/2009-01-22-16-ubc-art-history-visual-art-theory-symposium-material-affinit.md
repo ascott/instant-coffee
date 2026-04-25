@@ -56,7 +56,7 @@ the 'material' in the contemporary moment.
 The student speakers represent a diverse range of interdisciplinary and
 international emerging scholars and artists. Their papers and presentations
 have been organized into four sessions. For a full detailed schedule please
-visit http://www.ahva.ubc.ca, or to reach us directly please email the
+visit [http://www.ahva.ubc.ca](http://www.ahva.ubc.ca), or to reach us directly please email the
 coordinators at gradsymp@interchange.ubc.ca
 
 Saturday:

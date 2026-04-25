@@ -65,4 +65,4 @@ platforms like blogs and Twitter to share and spread ideas despite
 government persecution.
 
 details
-http://vancouverbiennale.com/events/upcoming-events/
+[http://vancouverbiennale.com/events/upcoming-events/](http://vancouverbiennale.com/events/upcoming-events/)

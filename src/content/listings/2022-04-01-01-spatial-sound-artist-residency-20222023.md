@@ -19,7 +19,7 @@ Lobes residency program is subsidized with a bursary and is recognized by most f
 bodies. The team at Lobe offers support to successful applicants towards acquiring
 funding.
 
-For more information visit https://lobestudio.ca/artist-creation
+For more information visit [https://lobestudio.ca/artist-creation](https://lobestudio.ca/artist-creation)
 
 02.
 EVENT | CAG | Events (March 28 – April 3)
@@ -36,7 +36,7 @@ accumulating, merging, manipulating, and resituating.
 "Michelle Bui: Mutable Materialism" is organized by the Contemporary Art Gallery and
 Capture Photography Festival.
 
-Learn more: https://cagvancouver.org/exhibition/michelle-bui
+Learn more: [https://cagvancouver.org/exhibition/michelle-bui](https://cagvancouver.org/exhibition/michelle-bui)
 ______________________
 
 Saturday Session with Karen Zalamea
@@ -58,5 +58,5 @@ Were looking forward to the April installment of CAG Reads, led by artist Dougla
 Watt. Douglas has chosen to read Derek McCormacks satiric novella Castle Faggot
 (2020). Copies of the novella are available in our bookstore courtesy of Massy Books.
 
-To RSVP and for more information: https://cagvancouver.org/event/cag-reads-douglas-
+To RSVP and for more information: [https://cagvancouver.org/event/cag-reads-douglas-](https://cagvancouver.org/event/cag-reads-douglas-)
 watt

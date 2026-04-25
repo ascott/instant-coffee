@@ -14,7 +14,7 @@ Kinesis Dance somatheatro: Debris
 Streaming March 9, 2021 | 5pm until March 16, 2021 | 5pm PST
 Tickets on a sliding scale: $0/$10/$20
 Details and tickets:
-https://thedancecentre.ca/event/kinesis-dance-somatheatro-2/
+[https://thedancecentre.ca/event/kinesis-dance-somatheatro-2/](https://thedancecentre.ca/event/kinesis-dance-somatheatro-2/)
 
 Debris is a contemporary dance work inspired by the increasing urgency of pollution and its
 contribution to the climate crisis. As we buckle under the weight of the accumulation of

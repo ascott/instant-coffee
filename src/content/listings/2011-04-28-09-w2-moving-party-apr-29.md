@@ -47,7 +47,7 @@ Speakers and First Nations Hip Hop MCs: Rapsure Rising
 (www.myspace.com/daniandlizzymusic); Terr azak (Nisga Nation); 
 Garret Stevens (www.facebook.com/#!/GTylerStevens)
 
-Tickets available online at http://www.w2movingparty.eventbrite.com 
+Tickets available online at [http://www.w2movingparty.eventbrite.com](http://www.w2movingparty.eventbrite.com) 
 Tickets also available at Beatstreet, Zulu, The Fall Tattoo Gallery, 
 and the People’s Co-op Bookstore. Advance $15 Door $20 [$10 
 Early Entry 7pm]

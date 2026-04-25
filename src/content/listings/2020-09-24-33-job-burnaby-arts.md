@@ -121,6 +121,6 @@ and regulations
 
 Interested candidates are encouraged to forward a cover letter and resume, in confidence,
 to info@burnabyartscouncil.org or apply on our website at
-https://burnabyartscouncil.org/organization/careers/. Application closes on October 12,
+[https://burnabyartscouncil.org/organization/careers/](https://burnabyartscouncil.org/organization/careers/). Application closes on October 12,
 2020. We thank all applicants for their interest, and those selected for an interview will be
 contacted.

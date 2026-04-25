@@ -54,4 +54,4 @@ the dance, music, and animation bring emotional responses of anger
 and despair through the body to provide fuel for future mobilization.
 
 Supported by ISEA 2015
-http://isea2015.org/schedule/
+[http://isea2015.org/schedule/](http://isea2015.org/schedule/)

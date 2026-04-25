@@ -52,8 +52,8 @@ actively challenge these invasive structures.
 Please see the attached poster and visit our Facebook event page for further details in the 
 breakdown of the schedule for the symposium:
 
-Exhibition https://www.facebook.com/events/196911120790781/
-Symposium https://www.facebook.com/events/152700648576516/
+Exhibition [https://www.facebook.com/events/196911120790781/](https://www.facebook.com/events/196911120790781/)
+Symposium [https://www.facebook.com/events/152700648576516/](https://www.facebook.com/events/152700648576516/)
 
 Additionally, there will be a seminar (by RSVP) with keynote speaker and Associate Arts 
 professor from NYU's Tisch School of the Arts, Wafaa Bilal, on March 9, 2 - 5 PM at the 

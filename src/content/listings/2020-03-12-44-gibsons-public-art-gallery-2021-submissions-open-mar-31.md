@@ -26,7 +26,7 @@ education and public events. Our mission is to present exhibitions for the purpo
 promoting and encouraging public interest in contemporary art.
 
 Deadline: March 31, 2020
-Visit http://www.gpag.ca/submissions for further information.
+Visit [http://www.gpag.ca/submissions](http://www.gpag.ca/submissions) for further information.
 
 Contact:
 Gibsons Public Art Gallery

@@ -32,4 +32,4 @@ membership, and a chance to win the coveted Queer as Fuck award at our
 volunteer appreciation party on July 9th!
 
 More information can be found on our website:
-https://queerartsfestival.com/volunteer/
+[https://queerartsfestival.com/volunteer/](https://queerartsfestival.com/volunteer/)

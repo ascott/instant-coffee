@@ -12,7 +12,7 @@ Artist Salon Webinar: Tracey-Mae Chambers on Traveling Exhibitions
 Wednesday, June 28, 2023
 7:00 PM - 8:00 PM
 
-Pre-registration required: https://us02web.zoom.us/webinar/register/WN_Ju4Cdg-
+Pre-registration required: [https://us02web.zoom.us/webinar/register/WN_Ju4Cdg-](https://us02web.zoom.us/webinar/register/WN_Ju4Cdg-)
 CT5aOuKEBIAtzzQ
 
 Chambers is traveling Canada and the USA creating site specific art installations at
@@ -52,7 +52,7 @@ European I am conscious of the privilege my whiteness affords me and bridging th
 gap is in fact a form of self education and self
 healing. I have entitled this body of
 work #hopeandhealingcanada and #hopeandhealingusa.
-Artist website " https://www.traceymae.com/
+Artist website " [https://www.traceymae.com/](https://www.traceymae.com/)
 
 ________________________________________
 The Artist Salon is an opportunity for emerging and established visual artists to learn
@@ -60,5 +60,5 @@ from arts professionals and discuss opportunities in the arts community. Each mo
 presents a different guest presenter for inspirational talks and professional
 development advice for visual artists.
 Past live sessions from 2020 onwards are recorded and may be viewed online at the
-https://www.richmondartgallery.org/rag-at-home/ragathomevideo#artistsalon.
+[https://www.richmondartgallery.org/rag-at-home/ragathomevideo#artistsalon](https://www.richmondartgallery.org/rag-at-home/ragathomevideo#artistsalon).
 Program is supported by the City of Richmond Arts and Culture grant.

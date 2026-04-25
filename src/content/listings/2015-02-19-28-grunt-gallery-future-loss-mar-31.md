@@ -38,7 +38,7 @@ is an evolving portrait of this neighbourhood, and this moment in time.
 For updates, and to see the work in process, please visit futureloss.ca.
 
 Contact Information:
-grunt.ca (http://grunt.ca/)
+grunt.ca ([http://grunt.ca/](http://grunt.ca/))
 604-875-9616
 116-350 East 2nd Ave, Vancouver, BC, V5T4R8
 
@@ -60,4 +60,4 @@ their projects onto the web.
 
 Upcoming dates : February 24, March 3, March 10
 Limited spaces per workshop. Held in Gastown.
-Sign up online: http://www.startsomething.ca/websitediy/
+Sign up online: [http://www.startsomething.ca/websitediy/](http://www.startsomething.ca/websitediy/)

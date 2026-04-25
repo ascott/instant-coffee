@@ -44,7 +44,7 @@ circumstances.
 Last Chance was curated by Barbara Cole
 
 High resolution images for print can be downloaded here:
-http://ericdeis.com/ftp/EricDeis-LastChance-Documentation.zip
+[http://ericdeis.com/ftp/EricDeis-LastChance-Documentation.zip](http://ericdeis.com/ftp/EricDeis-LastChance-Documentation.zip)
 
 Media Contact
 Barbara Cole
@@ -52,7 +52,7 @@ Executive Director, Other Sights for Artists' Projects
 E-mail: barbara@othersights.ca
 Tel: 604-254-5598
 
-http://othersights.ca/ 
+[http://othersights.ca/](http://othersights.ca/) 
 
 Other Sights gratefully acknowledges the support of the City of Vancouver. 
 The artist gratefully acknowledges the support of The Canada Council for the Arts.

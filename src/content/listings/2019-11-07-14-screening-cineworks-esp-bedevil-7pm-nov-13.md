@@ -12,7 +12,7 @@ Event Title: ESP: BeDevil
 Date & Time: Wednesday, November 13th; 7:00pm; Doors at 6:30pm
 Location: Cineworks, 1131 Howe St | Entrance
 through the back alley
-Link to event page: https://www.facebook.com/events/1764473223697620/
+Link to event page: [https://www.facebook.com/events/1764473223697620/](https://www.facebook.com/events/1764473223697620/)
 
 Blurb:
 Free event

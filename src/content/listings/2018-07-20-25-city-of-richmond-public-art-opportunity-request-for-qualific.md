@@ -50,4 +50,4 @@ Installation:
 Summer 2019
 
 For more information and to apply, please visit
-https://www.richmond.ca/culture/publicart/opportunities.htm
+[https://www.richmond.ca/culture/publicart/opportunities.htm](https://www.richmond.ca/culture/publicart/opportunities.htm)

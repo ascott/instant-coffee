@@ -13,8 +13,8 @@ de los Amantes
 (The community of lovers)
 
 Opening: November 23rd 2012 7pm until late
-http://www.topdownbottomup.ca/shows/
-https://www.facebook.com/topdownbottomup
+[http://www.topdownbottomup.ca/shows/](http://www.topdownbottomup.ca/shows/)
+[https://www.facebook.com/topdownbottomup](https://www.facebook.com/topdownbottomup)
 
 TopDown BottomUp presents work form three emergent Mexican artists:
 Paola V. Montoya (currently living and working in Barcelona, Spain),

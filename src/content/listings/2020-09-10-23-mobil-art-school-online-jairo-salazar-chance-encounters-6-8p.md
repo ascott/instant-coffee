@@ -27,4 +27,4 @@ technique that marked an artistic shift in the dawn of the 20th century. This wi
 minute Zoom event (talk 30 minutes with 30
 minute participation/discussion).
 September 18, 6:00 - 7:00 pm, Pay what you can.
-https://www.mobil-art.ca/event-info/jairo-salazar-art-history-talk-and-discussion
+[https://www.mobil-art.ca/event-info/jairo-salazar-art-history-talk-and-discussion](https://www.mobil-art.ca/event-info/jairo-salazar-art-history-talk-and-discussion)

@@ -40,7 +40,7 @@ through the critical lens of film and text.
 
 For more information and registration, please visit the KSW 
 Courses and Workshop Site, Seminar: Narrative, Cinema, 
-Literature -- or copy and paste this shortlink: http://wp.me/p1281q-15 
+Literature -- or copy and paste this shortlink: [http://wp.me/p1281q-15](http://wp.me/p1281q-15) 
 
 *
 Cavalcanti: Translation, Politics & Ethics in "Donna me prega" runs 
@@ -60,7 +60,7 @@ psychology, politics, science, atheism, woman, masculinity, and
 orientalism. For more information and registration, please visit the 
 KSW Courses and Workshop Site, Seminar: Cavalcanti: Translation, 
 Politics & Ethics in "Donna me prega" -- or copy and paste this 
-shortlink: http://wp.me/p1281q-1y **Facilitator Bios: 
+shortlink: [http://wp.me/p1281q-1y](http://wp.me/p1281q-1y) **Facilitator Bios: 
 
 Ted Byrne is a poet who has always used translation to prime the 
 pump. Current work includes translations of Louise Labé’s and 
@@ -81,7 +81,7 @@ lives in Vancouver, BC, and currently teaches Emily Carr University.
 Both seminars are part of the Kootenay School of Writing Courses 
 and Workshops Program. For more information, the schedule, 
 updates, and registration, please visit: 
-http://kswcourses.wordpress.com
+[http://kswcourses.wordpress.com](http://kswcourses.wordpress.com)
 
 
 21. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing

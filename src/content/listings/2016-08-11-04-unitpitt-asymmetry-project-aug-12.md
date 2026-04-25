@@ -31,7 +31,7 @@ others will see much more.
 
 Unit Pitt will host a selection of the numerous decks and images created,
 for a special two day event. For more information on the project:
-http://www.asymmetryproject.com/, or on instagram:@asymmetryproject
+[http://www.asymmetryproject.com/](http://www.asymmetryproject.com/), or on instagram:@asymmetryproject
 
 With collaborations by:
 

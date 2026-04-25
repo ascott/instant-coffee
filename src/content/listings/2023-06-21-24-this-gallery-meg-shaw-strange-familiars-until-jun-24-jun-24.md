@@ -35,10 +35,10 @@ Pender. THIS has a workshop/studio space as well as a gallery. The gallery curat
 a new show monthly, with openings on the first Saturday of each month.
 
 For further information, visit the following links:
-Artist website: https://www.megshawstudio.com/
+Artist website: [https://www.megshawstudio.com/](https://www.megshawstudio.com/)
 
 Gallery website:
-https://thisgallery.org/project/meg-shaw/
+[https://thisgallery.org/project/meg-shaw/](https://thisgallery.org/project/meg-shaw/)
 
 Online shop:
-https://thethisgallery.com/collections/meg-shaw
+[https://thethisgallery.com/collections/meg-shaw](https://thethisgallery.com/collections/meg-shaw)

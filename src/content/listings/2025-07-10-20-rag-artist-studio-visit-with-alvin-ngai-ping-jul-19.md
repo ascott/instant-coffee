@@ -18,7 +18,7 @@ Or
 
 Location: Steveston location to be revealed upon registration
 
-Register for one of the select times: https://www.eventbrite.ca/e/artist-studio-visit-with-
+Register for one of the select times: [https://www.eventbrite.ca/e/artist-studio-visit-with-](https://www.eventbrite.ca/e/artist-studio-visit-with-)
 alvin-ngai-ping-jang-tickets-1412877026219?aff=oddtdtcreator
 
 Meet Steveston-based artist Alvin Jang at his home studio for an informal tour and

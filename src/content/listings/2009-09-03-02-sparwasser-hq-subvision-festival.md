@@ -16,7 +16,7 @@ August 27. - September 6.
 Sunday - Thursday 2 -10 PM
 Friday - Saturday 2 -12 PM
 
-Photos of the works will be uploaded to http://www.sparwasserhq.de
+Photos of the works will be uploaded to [http://www.sparwasserhq.de](http://www.sparwasserhq.de)
 
 The Sparwasser HQ participation is the sum of projects by
 Instant Coffee,
@@ -67,11 +67,11 @@ power movement
 which was an important ingredience of artists happy teen years.
 
 read more:
-http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=493905326&b
+[http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=493905326&b](http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=493905326&b)
 logId=506602629
-<http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=493905
+<[http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=493905](http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=493905)
 326&blogId=506602629>
-or http://www.instantcoffee.org
+or [http://www.instantcoffee.org](http://www.instantcoffee.org)
 
 Detroit Tree of Heaven Woodshop is a project initiated 2005 by artists Ingo
 Vetter, Annette Weisser
@@ -89,11 +89,11 @@ produced out of the heavenly wood, and a 'tree spotting video' documenting
 potential harvesting sites
 in Detroit.
 read more:
-http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=493905326&b
+[http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=493905326&b](http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=493905326&b)
 logId=506603648
-<http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=493905
+<[http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=493905](http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=493905)
 326&blogId=506603648>
-or http://www.treeofheavenwoodshop.com
+or [http://www.treeofheavenwoodshop.com](http://www.treeofheavenwoodshop.com)
 
 Vinyl -Terror & -Horror created for the container an installation, a
 mashinery of old record players,
@@ -106,11 +106,11 @@ sentimentality of old mould is toned
 down by the beauty of ghosty perfection.
 
 read more:
-http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=493905326&b
+[http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=493905326&b](http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=493905326&b)
 logId=506603775
-<http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=493905
+<[http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=493905](http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=493905)
 326&blogId=506603775>
-or http://www.myspace.com/vinylterrorhorror
+or [http://www.myspace.com/vinylterrorhorror](http://www.myspace.com/vinylterrorhorror)
 
 "The Hamburg Hafencity: the ultimate hotspot for a total Earth makeover."
 
@@ -136,10 +136,10 @@ the world, and the way we
 live in it. Your thoughts: our world!"
 
 read more:
-http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=493905326&b
+[http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=493905326&b](http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=493905326&b)
 logId=506603989
-<http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=493905
+<[http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=493905](http://blogs.myspace.com/index.cfm?fuseaction=blog.view&friendId=493905)
 326&blogId=506603989>
-or http://www.ykon.org
+or [http://www.ykon.org](http://www.ykon.org)
 
-http://www.subvision-hamburg.com
+[http://www.subvision-hamburg.com](http://www.subvision-hamburg.com)

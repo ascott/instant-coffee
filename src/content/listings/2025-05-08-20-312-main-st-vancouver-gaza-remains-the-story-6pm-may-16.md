@@ -14,4 +14,4 @@ Exhibition Dates:
 Opening | Friday, May 16 | 6:00"8:00pm | RSVP Required
 May 17-19 | 11:00am"5:00pm | FREE Entry
 For more info and register for workshops and events here:
-https://alawdavancouver.com/gaza-remains
+[https://alawdavancouver.com/gaza-remains](https://alawdavancouver.com/gaza-remains)

@@ -42,4 +42,4 @@ Curators: The Automatic Message (Tanya Goehring and Trevor
 Jacobson)
 
 Contact: info@theautomaticmessage.com
-Website: http://www.theautomaticmessage.com/
+Website: [http://www.theautomaticmessage.com/](http://www.theautomaticmessage.com/)

@@ -17,7 +17,7 @@ Research Council.
 Doors at 6pm
 Talk at 6:30pm
 RSVPs are helpful
-RSVP Here: https://thepolygon.ca/event/hannah-darabi-and-kelly-mccormick-
+RSVP Here: [https://thepolygon.ca/event/hannah-darabi-and-kelly-mccormick-](https://thepolygon.ca/event/hannah-darabi-and-kelly-mccormick-)
 conversation/
 
 Hannah Darabi is an Iranian artist and photographer. She studied at Tehrans College

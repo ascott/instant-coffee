@@ -64,4 +64,4 @@ fourteenth installment in NEXT: A Series of Artist Projects from the
 Pacific Rim, presented by TD Bank Group. Generously Supported by: 
 Gary R. Bell
 
-http://vanartgallery.bc.ca/
+[http://vanartgallery.bc.ca/](http://vanartgallery.bc.ca/)

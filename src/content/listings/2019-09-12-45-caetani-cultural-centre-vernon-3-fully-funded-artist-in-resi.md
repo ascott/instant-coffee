@@ -28,7 +28,7 @@ backyard of the Caetani Centre grounds.
 NOT INCLUDED IN THE RESIDENCY: travel expenses, food, health insurance, writing 
 materials, shipping costs and other personal expenses.
 
-LEARN MORE + APPLY HERE: https://www.caetani.org/creative-residencies/fresh-air-
+LEARN MORE + APPLY HERE: [https://www.caetani.org/creative-residencies/fresh-air-](https://www.caetani.org/creative-residencies/fresh-air-)
 artist-residency/
 
 E-mail air@caetani.org with any questions.

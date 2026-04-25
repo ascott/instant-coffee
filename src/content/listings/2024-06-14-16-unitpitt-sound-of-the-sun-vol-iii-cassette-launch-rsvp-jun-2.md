@@ -41,6 +41,6 @@ gallery through July for future listening, and a free SoundCloud playlist will b
 after the launch event.
 
 Reserve your spot before 5:00pm, June 20th via the Eventbrite listing here:
-https://tinyurl.com/2s486xe3
+[https://tinyurl.com/2s486xe3](https://tinyurl.com/2s486xe3)
 Find more information about each artist on our website,
 www.unitpitt.ca/portfolio/sound-of-the-sun-three-artist-announcement/

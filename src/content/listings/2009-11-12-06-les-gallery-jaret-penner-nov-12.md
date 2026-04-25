@@ -28,7 +28,7 @@ landscape promises, if not transmutation, a greatly diminished agony.
 Jaret Penner, was born in Winnipeg, Manitoba, went to Capilano University
 College, and has exhibited world wide throughout Spain, Italy, USA, Canada
 and Japan. Penner currently lives and works in Lake Errock, BC.
-http://www.jaretpenner.com/
+[http://www.jaretpenner.com/](http://www.jaretpenner.com/)
 
 www.lesgallery.ca
 

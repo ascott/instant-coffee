@@ -41,7 +41,7 @@ Manifesto for Lovem(UK, 2003), Sarah Wood, 6 min, Distributed by CFMDC
 The screening will be followed by a closing reception at the Dr. Sun Yat-Sen
 Classical Chinese Garden from 2:30-4:00pm in the Hall of One Hundred Rivers.
 
-Limited $15 (NOTAFLOF) tickets: https://www.zeffy.com/ticketing/2497b90d-b2b6-
+Limited $15 (NOTAFLOF) tickets: [https://www.zeffy.com/ticketing/2497b90d-b2b6-](https://www.zeffy.com/ticketing/2497b90d-b2b6-)
 4e58-9a7c-918c30590e89
 
-More information on each film: https://www.unitpitt.ca/portfolio/light-grows-wild/
+More information on each film: [https://www.unitpitt.ca/portfolio/light-grows-wild/](https://www.unitpitt.ca/portfolio/light-grows-wild/)

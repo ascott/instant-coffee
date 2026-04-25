@@ -40,4 +40,4 @@ animation by Vancouver-based multidisciplinary artist Janet Wang. Using the allu
 of mystery, the artist explores the notion of belonging as a Chinese Canadian amid
 histories of exclusion in Canada.
 
-https://evergreenculturalcentre.ca/exhibit/
+[https://evergreenculturalcentre.ca/exhibit/](https://evergreenculturalcentre.ca/exhibit/)

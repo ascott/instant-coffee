@@ -50,4 +50,4 @@ mAIsIE (Victoria, BC)
 
 ...set times and information to follow shortly...stay tuned
 
-https://www.thejamesblack.gallery/
+[https://www.thejamesblack.gallery/](https://www.thejamesblack.gallery/)

@@ -20,4 +20,4 @@ Lawler and Catherine Opie"the exhibition runs from:
 February 16 to June 15, 2019.
 
 MORE INFO:
-https://renniemuseum.org/press-release-spring-2019-collected-works/
+[https://renniemuseum.org/press-release-spring-2019-collected-works/](https://renniemuseum.org/press-release-spring-2019-collected-works/)

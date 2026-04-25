@@ -54,7 +54,7 @@ and Theory in collaboration with the Morris and Helen Belkin Art Gallery at
 The University of British Columbia.
 
 WEBSITE:
-http://theginashow.orgallery.org
+[http://theginashow.orgallery.org](http://theginashow.orgallery.org)
 
 Or Gallery
 

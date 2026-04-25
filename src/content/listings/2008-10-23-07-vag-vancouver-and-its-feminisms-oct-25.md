@@ -52,7 +52,7 @@ Feminism, Mass Culture, and Victorian Sensationalism (Rutgers, 1992) and An
 Archive of Feelings: Trauma, Sexuality, and Lesbian Public Cultures (Duke,
 2003). She edited, with Ann Pellegrini, ’Public Sentiments,’ a special
 issue of The Scholar and Feminist Online (www.barnard.edu/sfonline
-<http://www.barnard.edu/sfonline> ). She is also editor, with Annamarie
+<[http://www.barnard.edu/sfonline](http://www.barnard.edu/sfonline)> ). She is also editor, with Annamarie
 Jagose, of GLQ: A Journal of Lesbian and Gay Studies. She is currently
 working collaboratively on the subject of Public Feelings and writing a
 book about depression.

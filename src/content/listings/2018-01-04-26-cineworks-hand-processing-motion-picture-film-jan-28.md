@@ -18,7 +18,7 @@ $40 + taxes | Member Admission
 $50 + taxes | Concessions and Community Partner Members* 
 $60 + taxes | General Admission
 
-REGISTER: https://analogue-basics-processing-jan-2018.eventbrite.ca
+REGISTER: [https://analogue-basics-processing-jan-2018.eventbrite.ca](https://analogue-basics-processing-jan-2018.eventbrite.ca)
 
 A 4 hour entry-level workshop introducing participants to the principles and practice 
 of processing 16mm black and white film by hand (also applicable to Super 8 and 
@@ -35,7 +35,7 @@ Film shot at the Analogue Basics: Introduction to the Bolex Camera workshop
 (Sunday 14 Jan) will be processed in this class. If interested in both components 
 (optional), please register for the Bolex class via the following link:
 
-https://analogue-basics-bolex-jan-2018.eventbrite.ca
+[https://analogue-basics-bolex-jan-2018.eventbrite.ca](https://analogue-basics-bolex-jan-2018.eventbrite.ca)
 
 *Community partners include VIVO, Women in Film, and Doc BC
 

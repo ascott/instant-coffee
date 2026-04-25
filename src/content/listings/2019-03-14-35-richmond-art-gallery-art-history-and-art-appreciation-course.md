@@ -31,7 +31,7 @@ of the artworks made during this time period, and learn about the role that art 
 people's lives-from larger-than-life murals in Romanesque cathedrals to intimate 
 drawings in the margins of decorated manuscripts.
 $5.00 Course Fee includes light refreshments.
-Register at Eventbrite - https://www.eventbrite.ca/e/great-pictures-art-history-course-the-
+Register at Eventbrite - [https://www.eventbrite.ca/e/great-pictures-art-history-course-the-](https://www.eventbrite.ca/e/great-pictures-art-history-course-the-)
 middle-ages-tickets-55677239121 
 
 Saturday, April 6 - Renaissance Art: Why So Many Nudes?
@@ -40,7 +40,7 @@ Renaissance and the revival of ancient Greco-Roman tradition. We will examine th
 ancient tradition, it's Renaissance revival, and how depicting images of naked human 
 bodies became standard procedure in European art.
 $5.00 Course Fee, includes light refreshments.
-Register at Eventbrite - https://www.eventbrite.ca/e/great-pictures-art-history-course-the-
+Register at Eventbrite - [https://www.eventbrite.ca/e/great-pictures-art-history-course-the-](https://www.eventbrite.ca/e/great-pictures-art-history-course-the-)
 renaissance-why-so-many-nudes-tickets-55677646339 
 
 Saturday, April 13 - The Beginnings of Modern Art: New and Shocking
@@ -48,7 +48,7 @@ What does it take to shock a 19th century Parisian in an art gallery? Find out a
 a look at some paintings from the earliest days of Modern Art, examine the historical 
 context that helped shape them, and consider why they were so shocking.
 $5.00 Course Fee includes light refreshments.
-Register at Eventbrite - https://www.eventbrite.ca/e/great-pictures-art-history-course-
+Register at Eventbrite - [https://www.eventbrite.ca/e/great-pictures-art-history-course-](https://www.eventbrite.ca/e/great-pictures-art-history-course-)
 beginnings-of-modern-art-new-and-shocking-tickets-55678850942 
 
 Presenters:

@@ -27,4 +27,4 @@ Tao.
 N.O.P.E. 2017 inaugurates the organizations new fellowship model and its primary 
 support, Pollyanna Library.
 
-http://polly-anna.ca/activity/semesters-end-conversation
+[http://polly-anna.ca/activity/semesters-end-conversation](http://polly-anna.ca/activity/semesters-end-conversation)

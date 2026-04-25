@@ -42,24 +42,24 @@ Didier Petit - cello (France) For 25 years Didier Petit has been looking at
 and listening inquisitively to the sound(s) of our environment. With his
 cello, revealed here as an extremely complete instrument of many
 unsuspected facets, he offers unusual music reflecting the world, our world.
-(http://www.myspace.com/didiersmall) Viviane Houle - voice (Roberts Creek,
+([http://www.myspace.com/didiersmall](http://www.myspace.com/didiersmall)) Viviane Houle - voice (Roberts Creek,
 BC) Viviane Houle is a vocalist, improviser and songwriter who defies
 categorization. Her versatility allows for performances that range from
 concerts with electronics to grand opera through to collaborations with
 Canada's finest improvisers, dancers, filmmakers and theatre artists.
 Recently she has released a critically acclaimed improvisation CD of duos
 on Drip-Audio that has made top ten jazz lists of 2009.
-(http://vivianehoule.ca/) Stefan Smulovitz - viola & laptop (Roberts Creek,
+([http://vivianehoule.ca/](http://vivianehoule.ca/)) Stefan Smulovitz - viola & laptop (Roberts Creek,
 BC) Stefan Smulovitz is a highly accomplished musician and an award-winning
 composer. As a software developer he created Kenaxis, a major innovation in
 the use of the computer as a real-time instrument. His virtuosic command of
 Kenaxis has resulted in an international reputation for Smulovitz, who
 regularly performs with the world’s leading improvisers and composes for
 ensembles ranging from orchestras to string
-quartets.Â (http://www.kenaxis.com/) Light Compositions is hosted by TOM
+quartets.Â ([http://www.kenaxis.com/](http://www.kenaxis.com/)) Light Compositions is hosted by TOM
 CONE, 9pm
 
-See www.instantcoffee.org <http://www.instantcoffee.org> for a growing list
+See www.instantcoffee.org <[http://www.instantcoffee.org](http://www.instantcoffee.org)> for a growing list
 of events, and for other information contact us@instantcoffee.org
 
 Where: Instant Coffee Light Bar: 33 West Cordova St. (blood alley entrance)

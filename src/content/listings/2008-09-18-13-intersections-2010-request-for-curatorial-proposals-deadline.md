@@ -36,7 +36,7 @@ panel may elect to interview up to three applicants.
 Submission Deadline: 4:00 pm, Wednesday, October 8, 2008.
 
 Download the full Call for Expressions of Interest: 
-http://vancouver.ca/commsvcs/oca/publicart/pdf/intersection201
+[http://vancouver.ca/commsvcs/oca/publicart/pdf/intersection201](http://vancouver.ca/commsvcs/oca/publicart/pdf/intersection201)
 0.pdf
 
 Send inquiries to: intersection2010@gmail.com

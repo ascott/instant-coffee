@@ -39,7 +39,7 @@ Website and/or any social media accounts
 Please email complete submissions to galleria@richmondartgallery.org with the
 subject line City Hall Galleria Submission. If you need assistance or any
 accommodations, please dont hesitate to reach out via email. For more info, please
-visit: https://www.richmondartgallery.org/galleria-submission
+visit: [https://www.richmondartgallery.org/galleria-submission](https://www.richmondartgallery.org/galleria-submission)
 
 The Annex Gallery
 Located right across the main entrance of the Richmond Cultural Centre, and on the
@@ -70,4 +70,4 @@ Website and/or any social media accounts
 Please email complete submissions to galleria@richmondartgallery.org with the
 subject line City Hall Galleria Submission. If you need assistance or any
 accommodations, please dont hesitate to reach out via email. For more info, please
-visit: https://www.richmondartgallery.org/annex-submission
+visit: [https://www.richmondartgallery.org/annex-submission](https://www.richmondartgallery.org/annex-submission)

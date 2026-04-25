@@ -11,7 +11,7 @@ summary: "Curated Tastes [ONLINE INTERACTIVE CLASS] | Women Artists from Renaiss
 Lost and Found: Women Artists from Renaissance to Impressionism.
 Thursday, March 25th, 2021
 Starting at 5 pm PDT
-Register: https://mailchi.mp/1a85a560046f/fun-and-interactive-art-history-class
+Register: [https://mailchi.mp/1a85a560046f/fun-and-interactive-art-history-class](https://mailchi.mp/1a85a560046f/fun-and-interactive-art-history-class)
 
 In honour of Womens History Month, Curated Tastes brings forward women artists that
 have been lost in history and found over the past few decades.

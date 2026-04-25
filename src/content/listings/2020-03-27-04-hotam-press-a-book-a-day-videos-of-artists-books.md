@@ -12,4 +12,4 @@ A Book A Day - Videos of Artist's Books
 Please visit Hotam Press Channel on YouTube for an online exhibition of books by
 artists.
 A different book will be uploaded each day.
-https://www.youtube.com/watch?v=wW6RKoQF9h4
+[https://www.youtube.com/watch?v=wW6RKoQF9h4](https://www.youtube.com/watch?v=wW6RKoQF9h4)

@@ -19,7 +19,7 @@ archival materials, artist Julie Pappajohn creates drawings, paintings, mixed me
 works and a narrated video/slideshow. A great July 14th article from staff reporter,
 Chris Cheung of The Tyee:
 
-https://thetyee.ca/Culture/2023/07/14/Wild-Childhood-Ditches-Richmond/
+[https://thetyee.ca/Culture/2023/07/14/Wild-Childhood-Ditches-Richmond/](https://thetyee.ca/Culture/2023/07/14/Wild-Childhood-Ditches-Richmond/)
 
 On until Sep 19
 
@@ -29,4 +29,4 @@ Two large display panels
 6911 No. 3 Road
 Hours Mon-Fri 8:15 to 5pm
 
-For more information: https://www.richmondartgallery.org/ditch
+For more information: [https://www.richmondartgallery.org/ditch](https://www.richmondartgallery.org/ditch)

@@ -11,7 +11,7 @@ summary: "[ONLINE WORKSHOP] VIVO | Playing with Soundscapes | MAR 18"
 Playing with Soundscapes -- online workshop
 
 More info and sign up at:
-https://playingwithsoundscapes.eventbrite.ca
+[https://playingwithsoundscapes.eventbrite.ca](https://playingwithsoundscapes.eventbrite.ca)
 
 A workshop on listening imaginatively through technology, with soundscape researcher &
 composer Helena Krobath.

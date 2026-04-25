@@ -17,7 +17,7 @@ you'll be proud to hang. :)
 May 3rd - 10am - 3:30pm
 208 - 1000 Parker Street
 $175 plus GST
-Register here: https://sonya-iwasiuk-art-studio.square.site/product/saturday-art-
+Register here: [https://sonya-iwasiuk-art-studio.square.site/product/saturday-art-](https://sonya-iwasiuk-art-studio.square.site/product/saturday-art-)
 workshop-paint-a-landscape-on-a-fiber-paste-skin-may-3rd/41?cs=true&cst=custom
 
 Everything included! Just bring your open mind.

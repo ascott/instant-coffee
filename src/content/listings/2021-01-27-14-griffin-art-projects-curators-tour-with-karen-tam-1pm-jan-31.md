@@ -14,7 +14,7 @@ Griffin Art Projects
 
 www.griffinartprojects.ca
 
-Zoom Link: https://zoom.us/webinar/register/WN_mJSq_h8hQtCb_Ida3goUpw
+Zoom Link: [https://zoom.us/webinar/register/WN_mJSq_h8hQtCb_Ida3goUpw](https://zoom.us/webinar/register/WN_mJSq_h8hQtCb_Ida3goUpw)
 
 oin guest curator Karen Tam for a virtual tour of Griffin Art Projects current exhibition
 Whose Chinatown? Examining Chinatown Gazes in Art, Archives, and Collections. This

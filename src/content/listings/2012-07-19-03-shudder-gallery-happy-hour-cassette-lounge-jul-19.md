@@ -25,7 +25,7 @@ FREE admission ☺
 cheap bevies!
 
 connect with us on facebook!
-http://www.facebook.com/events/1189379584536520/
+[http://www.facebook.com/events/1189379584536520/](http://www.facebook.com/events/1189379584536520/)
 
 Thursday July 19th
 433 columbia street

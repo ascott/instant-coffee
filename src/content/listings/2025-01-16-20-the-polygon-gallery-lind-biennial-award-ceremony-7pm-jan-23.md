@@ -16,7 +16,7 @@ and Casey Wei.
 7:30pm - Presentation of the Philip B. Lind Prize for Emerging Artists
 RSVP's are helpful
 
-RSVP here: https://thepolygon.ca/event/the-lind-biennial-award-ceremony/
+RSVP here: [https://thepolygon.ca/event/the-lind-biennial-award-ceremony/](https://thepolygon.ca/event/the-lind-biennial-award-ceremony/)
 
 The Lind Biennial is on view at The Polygon until February 2.
 

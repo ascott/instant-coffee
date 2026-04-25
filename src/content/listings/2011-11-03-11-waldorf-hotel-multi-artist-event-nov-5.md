@@ -26,6 +26,6 @@ Bellydance,
 Chris Murdoch, Mind of a Snail, DJ Michael Fraser with his violin, 
 Carnival Band, Four Maladies, Synthcake, Abbla Banji, Daniel Zomparelli, 
 Elizabeth Bachinsky, and Jenn Farrell.
-http://www.eastsideculturecrawl.com/events/echo-chamber. 
+[http://www.eastsideculturecrawl.com/events/echo-chamber](http://www.eastsideculturecrawl.com/events/echo-chamber). 
 
 The Waldorf Hotel | www.waldorfhotel.com | 604.253.7141 | 1489 E. Hastings St.

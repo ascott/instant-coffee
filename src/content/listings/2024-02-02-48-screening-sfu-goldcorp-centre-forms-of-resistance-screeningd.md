@@ -53,7 +53,7 @@ and highly charged. She shows us Gaza as she experienced it in the quiet pause
 before the onslaught of Israeli bombardment in the summer of 2014. Nashashibi
 travelled to Gaza with producer Kate Parker and cinematographer Emma Dalesman.
 -
-https://www.eventbrite.ca/e/forms-of-resistance-screening-discussion-tickets-
+[https://www.eventbrite.ca/e/forms-of-resistance-screening-discussion-tickets-](https://www.eventbrite.ca/e/forms-of-resistance-screening-discussion-tickets-)
 808237709747?
 aff=oddtdtcreator&_gl=1*l7zgtt*_ga*MTEwNDg1MzMzOC4xNzAxNzIxNzU3*_ga_R4
 BCVYL1QF*MTcwNjA1ODc3NC44Mi4xLjE3MDYwNTg3ODUuNDkuMC4w

@@ -51,5 +51,5 @@ Public Art Program Contact:
 Klodyne.Rodney@vancouver.ca<mailto:klodyne.Rodney@vancouver.ca>, 604 
 871 6228
 To view images of this work visit the Public Art blog at "Our City, Our 
-Art<http://ourcityourart.wordpress.com/2012/08/08/playing-cat-mouse-at-
+Art<[http://ourcityourart.wordpress.com/2012/08/08/playing-cat-mouse-at-](http://ourcityourart.wordpress.com/2012/08/08/playing-cat-mouse-at-)
 canada-line-city-centre-station/>"

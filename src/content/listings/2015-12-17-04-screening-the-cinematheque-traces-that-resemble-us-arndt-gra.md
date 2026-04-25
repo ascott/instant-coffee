@@ -37,4 +37,4 @@ On December 17 at 8:30pm, Helga Pakasaar, Curator at Presentation House
 Gallery, will introduce artist Rodney Graham's film selection, Marco
 Ferreri's unsung masterpiece Dillinger is Dead (1969).
 
-http://www.thecinematheque.ca/traces-that-resemble-us
+[http://www.thecinematheque.ca/traces-that-resemble-us](http://www.thecinematheque.ca/traces-that-resemble-us)

@@ -14,10 +14,10 @@ Danielle Graham and her new release, All We Left Behind, but due to COVID restri
 morphed into a Facebook event. You can get the book through our online museum shop or buy
 an e-version, and watch the recording here: #CanadaPerforms
 Danielle R. Graham Books
-https://www.facebook.com/drgrahambooksauthor/videos/610980306166830/
+[https://www.facebook.com/drgrahambooksauthor/videos/610980306166830/](https://www.facebook.com/drgrahambooksauthor/videos/610980306166830/)
 
 And our museum archives feature is the Spring magazine of Library & Archives Canada is now
-live. Our story is on pages 4-6 https://www.bac-lac.gc.ca/eng/about-
+live. Our story is on pages 4-6 [https://www.bac-lac.gc.ca/eng/about-](https://www.bac-lac.gc.ca/eng/about-)
 us/publications/signatures/Documents/2020-Signatures-spring-summer_en.pdf
 
 Please stay connected through our website: www.nikkeiplace.org and on Facebook, Twitter, and

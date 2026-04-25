@@ -25,7 +25,7 @@ dealing with modern day scourges such as Cancer, addiction, obesity, war, and
 environmental degradation. The series questions the "happily ever after" motif created by
 Disney and Western society.
 
-https://www.dinagoldstein.com/dina/
+[https://www.dinagoldstein.com/dina/](https://www.dinagoldstein.com/dina/)
 
 Attilio Fiumarella - Attilio is an
 Italian photographic artist who is currently based in
@@ -42,7 +42,7 @@ The 100 Swimmers - This series displays one of the first public facilities in Bi
 design of the facility as well as the resilience and cohesion of the Moseley Road Baths
 community.
 
-https://attiliofiumarella.com/home
+[https://attiliofiumarella.com/home](https://attiliofiumarella.com/home)
 
 Benjamin Lumb - Benjamin Lumb is a Vancouver based artist who intersects past and
 present. His works are conversation pieces in their most manifest form. Through tactile
@@ -63,4 +63,4 @@ Safe Explosion (light), 2019
 
 Safe Explosion (dark), 2019
 
-https://benjaminlumb.art/works
+[https://benjaminlumb.art/works](https://benjaminlumb.art/works)

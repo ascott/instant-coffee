@@ -19,7 +19,7 @@ Session will include time for Q+A with the artist and online participants.
 
 No registration required, just follow the Zoom link provided:
 
-https://emilycarru.zoom.us/j/61726305217?
+[https://emilycarru.zoom.us/j/61726305217](https://emilycarru.zoom.us/j/61726305217)?
 pwd=PUA6rsobiDdrHDORXZy0AJdJfSg4nY.1
 Meeting ID: 617 2630 5217
 Passcode: 413176
@@ -47,4 +47,4 @@ Presented by the Jake Kerr Faculty of Graduate Studies at Emily Carr University 
 Art + Design in
 partnership with the Richmond Art Gallery.
 
-More events at https://www.richmondartgallery.org/upcoming-events
+More events at [https://www.richmondartgallery.org/upcoming-events](https://www.richmondartgallery.org/upcoming-events)

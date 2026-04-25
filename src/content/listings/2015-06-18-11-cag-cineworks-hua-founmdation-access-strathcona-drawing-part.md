@@ -68,7 +68,7 @@ combination of ingredients in a satisfying stir-fry.
 
 Hua Foundation develops solutions and build movements for the Hua community
 that strengthen our connections with culture, heritage and environmental
-sustainability. http://www.huafoundation.org/
+sustainability. [http://www.huafoundation.org/](http://www.huafoundation.org/)
 
 The Chamber, Ian Johnston
 4:00 pm – 5:30 pm
@@ -101,4 +101,4 @@ We gratefully acknowledge support of Vancouver Foundation Neighborhood
 Small Grants.
 
 - See more at:
-http://www.contemporaryartgallery.ca/events/draw-down-strathcona-drawing-party-presented-by-the-cag-and-friends/#sthash.aj8bvQi3.dpuf
+[http://www.contemporaryartgallery.ca/events/draw-down-strathcona-drawing-party-presented-by-the-cag-and-friends/#sthash.aj8bvQi3.dpuf](http://www.contemporaryartgallery.ca/events/draw-down-strathcona-drawing-party-presented-by-the-cag-and-friends/#sthash.aj8bvQi3.dpuf)

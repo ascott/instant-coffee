@@ -18,4 +18,4 @@ LOCATION: Vancouver, BC. Combination of office and home work options between on-
 site
 REPORTING TO: Events, Creative Projects, or Production Department Leadership
 COMPENSATION: Starting at $20.52/hr
-LEARN MORE + APPLY: https://vanmuralfest.ca/jobs
+LEARN MORE + APPLY: [https://vanmuralfest.ca/jobs](https://vanmuralfest.ca/jobs)

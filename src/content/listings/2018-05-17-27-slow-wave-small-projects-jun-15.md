@@ -15,7 +15,7 @@ Dogwood Society for Arts and Ecology, taking part in workshops, events, and
 experiences facilitated by exceptional guest artists. This program strives
 to centre the practices of artists who are low-income, disabled, queer,
 trans, two-spirit, Black, Indigenous, or racialized. An honorarium is
-provided to all program participants. More info at https://slow-wave.org
+provided to all program participants. More info at [https://slow-wave.org](https://slow-wave.org)
 
 Slow Waves Small Projects takes place on the Coast Salish territories of
 the Lekwungen, Snaw-Naw-As (Nanoose), Scia-new (Cheanuh), TSou-ke,
@@ -30,7 +30,7 @@ week. This site is semi-forested natural terrain and not wheelchair or
 scooter accessible. Bathrooms exist in the form of composting toilets, some
 requiring a short 30-40 second walk through a forest trail to access. It is
 a 3 minute walk from parking to the guest area. More info on site
-accessibility on Old Dogwoods website. https://www.old-dogwood.com/
+accessibility on Old Dogwoods website. [https://www.old-dogwood.com/](https://www.old-dogwood.com/)
 
 Email an application in PDF format to slowwavesmallprojects@gmail.com.
 Deadline June 15 2018.

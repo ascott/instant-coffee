@@ -11,7 +11,7 @@ summary: "M:ST | Call for Streaming Artwork"
 CALL FOR SUBMISSIONS
 
 View the call and download a PDF version on our website
-https://www.mountainstandardtime.org/opportunities
+[https://www.mountainstandardtime.org/opportunities](https://www.mountainstandardtime.org/opportunities)
 
 Deadline: Ongoing. Submissions will be accepted until we run out of available
 funding for the project or until the Canadian border opens to international travelers

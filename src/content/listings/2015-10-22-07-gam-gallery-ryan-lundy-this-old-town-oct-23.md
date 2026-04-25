@@ -39,8 +39,8 @@ included in the series may seem a world apart from the Vancouver of
 today but by placing oneself in the spaces that the prints depict, our
 ties to the past may become more tangible.
 
-Visit http://www.lundyprintco.com/ to view more of Ryan's commercial
+Visit [http://www.lundyprintco.com/](http://www.lundyprintco.com/) to view more of Ryan's commercial
 work, including custom screen printed portaiture.
 
-FB event: https://www.facebook.com/events/141469532873703/
-Website: http://gamgallery.com/2015/10/10/ryan-lundy-this-old-town/
+FB event: [https://www.facebook.com/events/141469532873703/](https://www.facebook.com/events/141469532873703/)
+Website: [http://gamgallery.com/2015/10/10/ryan-lundy-this-old-town/](http://gamgallery.com/2015/10/10/ryan-lundy-this-old-town/)

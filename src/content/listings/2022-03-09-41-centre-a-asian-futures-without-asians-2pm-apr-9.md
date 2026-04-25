@@ -10,7 +10,7 @@ summary: "Centre A | Asian Futures without Asians | 2PM | APR 9"
 
 Saturday, April 9, 2022, 2:00 - 3:30 PM PDT (online)
 
-Register here: https://bit.ly/3pD0dMn
+Register here: [https://bit.ly/3pD0dMn](https://bit.ly/3pD0dMn)
 
 Centre A is pleased to announce the Canadian premiere of Asian futures, without
 Asians, a new multimedia presentation by artist and curator Astria Suparak. This

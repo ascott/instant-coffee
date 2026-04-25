@@ -58,4 +58,4 @@ They all share a deep knowledge of Canadian art while bringing diverse areas of
 expertise and perspective on submissions to a national art show.
 
 The call for submissions is open to May 31, 2017, with details found on our website at:
-http://www.saltspringartprize.ca
+[http://www.saltspringartprize.ca](http://www.saltspringartprize.ca)

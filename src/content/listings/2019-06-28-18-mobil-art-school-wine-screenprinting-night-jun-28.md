@@ -20,4 +20,4 @@ design onto your own t-shirt or tote bag. So come grab a drink and let your crea
 Materials: bring your own t-shirts for printing. 1 plain tote will be provided. Additional 
 totes available for purchase.
 19+ (sorry, no minors), cash bar, $63
-https://www.mobil-art.ca/event-info/wine-screenprinting-night-fri-jun-21
+[https://www.mobil-art.ca/event-info/wine-screenprinting-night-fri-jun-21](https://www.mobil-art.ca/event-info/wine-screenprinting-night-fri-jun-21)

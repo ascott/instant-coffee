@@ -19,7 +19,7 @@ Music Videos- and everything in between-are all welcome. Shorter works ( less th
 
 SUBMISSION DEADLINE: 11:59pm on Wednesday, January 10th, 2024
 
-Submit through this Google Form: http://tinyurl.com/3vjpupym
+Submit through this Google Form: [http://tinyurl.com/3vjpupym](http://tinyurl.com/3vjpupym)
 
 Selected works will be screened for physical experience at Red Gate on January 23rd
 at 8:00pm and screened ad infinitum at www.redgate.tv.

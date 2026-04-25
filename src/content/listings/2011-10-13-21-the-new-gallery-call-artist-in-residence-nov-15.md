@@ -11,7 +11,7 @@ summary: "The New Gallery | CALL: Artist in Residence | NOV 15"
 The New Gallery (TNG) Artist in Residence (AiR) Program 2012
 Call for Submissions
 Deadline: Nov 15
-weblink: http://www.thenewgallery.org/air
+weblink: [http://www.thenewgallery.org/air](http://www.thenewgallery.org/air)
 
 Guidelines/Eligibility:
 
@@ -57,12 +57,12 @@ As with all of TNG's programming, the Artist in Residence will be selected by ou
 peer Programming Jury. In the interest of both democratizing and 
 administratively streamlining the submission review process, TNG Programming 
 Selection Committee ONLY accepts proposals submitted online via the 
-dedicated portal at: https://tng.slideroom.com/
+dedicated portal at: [https://tng.slideroom.com/](https://tng.slideroom.com/)
 
 Please be aware that a Slideroom account will cost you $5 payable with a credit 
 card online. Please be advised that Slideroom does not accept hotmail email 
 addresses. An outline of information required from applicants can be found here: 
-http://www.thenewgallery.org/submit
+[http://www.thenewgallery.org/submit](http://www.thenewgallery.org/submit)
 
 TNG does not require letters of reference, although with permission from the 
 applicant, we may contact organizations with which the applicant has had 
@@ -94,7 +94,7 @@ JSH is a lovely example of working class housing, originally intended for
 Canadian Pacific Rail employees in the late 19th/early 20th centuries. TNG also 
 has an agreement with a local bike rental organization, so the AiR has free 
 access to bike transportation if desired. Additional information about John Snow 
-and the JSH can be found here: http://www.thenewgallery.org/jsh
+and the JSH can be found here: [http://www.thenewgallery.org/jsh](http://www.thenewgallery.org/jsh)
 
 Location:
 
@@ -102,14 +102,14 @@ Calgary is the largest city in Alberta, with a population of 1,065,455 (2009
 Census). With easy access to the Rocky Mountains via the Trans-Canada 
 Highway, Calgary is within a 4 hour drive of major art centres in Banff, Edmonton 
 and Lethbridge. Further information about the city is available here: 
-http://www.visitcalgary.com/
+[http://www.visitcalgary.com/](http://www.visitcalgary.com/)
 
-and here: http://www.calgary.ca/
+and here: [http://www.calgary.ca/](http://www.calgary.ca/)
 
 Calgary is home to a variety of artist-run centres, collectives and educational 
 institutions, including the Alberta College of Art + Design (ACAD).
 
-Visit http://calgaryculture.com/
+Visit [http://calgaryculture.com/](http://calgaryculture.com/)
 
 Climate in Calgary in August can be cool in the evenings, but very pleasant 
 during the day. August is probably the most beautiful time to spend in this city, as 

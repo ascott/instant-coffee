@@ -44,7 +44,7 @@ space and artist bumper sticker project Trunk Show (with Raven Falquez Munsell),
 programming through ACRE TV and organizing exhibitions, screenings and 
 performance events both independently and institutionally. Originally from Santa Fe, he 
 earned his BA from Bard College and his MFA from the University of Illinois at Chicago, 
-where he currently teaches. http://www.jessemalmed.net/
+where he currently teaches. [http://www.jessemalmed.net/](http://www.jessemalmed.net/)
 
 Deluge Contemporary Art
 636 Yates St, Victoria, BC, Canada V8W 1L3

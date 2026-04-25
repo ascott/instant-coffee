@@ -23,7 +23,7 @@ founding director of Publication Studio Vancouver. Slade is an alumna of Simon
 Fraser University and the European Graduate School. She is Assistant Professor at
 SFUs School for the Contemporary Arts. Slade received the VIVA Award in 2009.
 
-https://www.sfu.ca/galleries/SFUGalleriesEvents/2024/reading-and-tour--jo-cook---
+[https://www.sfu.ca/galleries/SFUGalleriesEvents/2024/reading-and-tour--jo-cook---](https://www.sfu.ca/galleries/SFUGalleriesEvents/2024/reading-and-tour--jo-cook---)
 perro-verlag-books-by-artists.html
 
 SFU GALLERY

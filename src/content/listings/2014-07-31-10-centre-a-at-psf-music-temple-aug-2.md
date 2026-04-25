@@ -33,7 +33,7 @@ video projection and audio installation elements into their live
 performances, the resulting Music Temple presents a pseudo-narrative
 culmination of all of the above.
 
-Artists' Website: http://www.elfinsaddle.com/
+Artists' Website: [http://www.elfinsaddle.com/](http://www.elfinsaddle.com/)
 
 Please check our website www.centrea.org for upcoming info regarding a
 second performance in September.

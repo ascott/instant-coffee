@@ -11,8 +11,8 @@ summary: "Dynamo Arts Association | Eschatons | NOV 14"
 Dynamo Arts Association
 103-30 East 6th Ave Vancouver, BC
 Opening Reception:Friday November 14, 7PM
-http://cargocollective.com/_DAA_
-Event Link: https://www.facebook.com/events/642064812576805/?ref=22
+[http://cargocollective.com/_DAA_](http://cargocollective.com/_DAA_)
+Event Link: [https://www.facebook.com/events/642064812576805/?ref=22](https://www.facebook.com/events/642064812576805/?ref=22)
 
 DAA Presents // Artists in Residence: Echatons: The Touch and the 
 Touched.

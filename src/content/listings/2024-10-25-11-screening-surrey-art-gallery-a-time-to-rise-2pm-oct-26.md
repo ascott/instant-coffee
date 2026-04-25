@@ -11,7 +11,7 @@ summary: "SCREENING | Surrey Art Gallery | A Time To Rise | 2PM | OCT 26"
 October 26, 2024
 2:00pm - 4:00pm
 
-https://www.surrey.ca/news-events/events/film-screening-and-conversation-anushay-
+[https://www.surrey.ca/news-events/events/film-screening-and-conversation-anushay-](https://www.surrey.ca/news-events/events/film-screening-and-conversation-anushay-)
 malik
 
 A Time To Rise, directed and produced by Anand Patwardhan and Jim Monro, captures

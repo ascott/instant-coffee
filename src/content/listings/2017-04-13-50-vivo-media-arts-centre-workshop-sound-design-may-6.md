@@ -23,7 +23,7 @@ Membership
 (+GST)
 
 Sign up on Eventbrite:
-https://sound-design-with-alexandre-klinke.eventbrite.ca
+[https://sound-design-with-alexandre-klinke.eventbrite.ca](https://sound-design-with-alexandre-klinke.eventbrite.ca)
 
 In this introductory workshop, students will get to create different sound effects 
 for film, video and multimedia as well as creating custom virtual instruments for 
@@ -33,4 +33,4 @@ such as Synth1 and TyrellN6. Learn the basics of audio synthesis, sampling and
 effects.
 
 Visit VIVO Education for many more details:
-http://www.vivomediaarts.com/education/upcoming-workshops
+[http://www.vivomediaarts.com/education/upcoming-workshops](http://www.vivomediaarts.com/education/upcoming-workshops)

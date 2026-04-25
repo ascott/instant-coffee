@@ -72,4 +72,4 @@ The Pacific
 7:00 pm | Studio D
 Buy Tickets: $10 / $12 at the door
 
-http://sfuwoodwards.ca
+[http://sfuwoodwards.ca](http://sfuwoodwards.ca)

@@ -41,7 +41,7 @@ artworks. Work on solo or collaborative collage pieces, or take a break for a qu
 casual tour of The Marble in the Basement.
 
 REGISTRATION REQUIRED due to limited seating.
-https://www.eventbrite.ca/e/world-collage-day-collage-party-for-joyce-wieland-tickets-
+[https://www.eventbrite.ca/e/world-collage-day-collage-party-for-joyce-wieland-tickets-](https://www.eventbrite.ca/e/world-collage-day-collage-party-for-joyce-wieland-tickets-)
 885214920657
 We anticipate this event will sell out - please arrive on time to ensure you do not lose
 your spot.

@@ -14,4 +14,4 @@ Local filmmaker and painter Jill Sharpe's Emmy-nominated short BONE WIND FIRE
 (2011) explores three trailblazing 20th-century artists: Georgia OKeeffe, Frida Kahlo, 
 and B.C.s own Emily Carr. Anne Wheeler's moving documentary Chi (2013) bears 
 witness to the final months in the life of actress Babz Chula, a fixture of Vancouvers film 
-and theatre scenes. Tix & Info: http://ow.ly/sgoc30o1n5J
+and theatre scenes. Tix & Info: [http://ow.ly/sgoc30o1n5J](http://ow.ly/sgoc30o1n5J)

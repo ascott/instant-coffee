@@ -34,4 +34,4 @@ NoMAD GALLERY is located at 225 East Georgia for the month ob February
 
 Gallery Hours: 12-8pm 
 
-More information at http://nomadsapien.blogspot.com/
+More information at [http://nomadsapien.blogspot.com/](http://nomadsapien.blogspot.com/)

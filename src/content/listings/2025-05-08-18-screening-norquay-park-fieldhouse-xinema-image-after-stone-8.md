@@ -14,7 +14,7 @@ Thursday, May 15, 8:30pm
 
 Norquay Park Fieldhouse (5050 Wales St.)
 
-Tickets: https://linktr.ee/xinema
+Tickets: [https://linktr.ee/xinema](https://linktr.ee/xinema)
 
 XINEMA presents Image after stone, an outdoor film screening and gathering at
 XINEMAs new Fieldhouse in Norquay Park. This extended program, composed of
@@ -36,4 +36,4 @@ This program is in conversation with the BC Premiere of Eastern Anthems, a
 collaboration between Jean-Jacques Martinod and Matthew Wolkow, screening at
 DOXA 2025 on Sunday, May 11, which includes a filmmaker Q&A that XINEMA will
 be moderating. Tickets to Eastern Anthems:
-https://doxa2025.eventive.org/schedule/67eb71cf42419ce56b58c041
+[https://doxa2025.eventive.org/schedule/67eb71cf42419ce56b58c041](https://doxa2025.eventive.org/schedule/67eb71cf42419ce56b58c041)

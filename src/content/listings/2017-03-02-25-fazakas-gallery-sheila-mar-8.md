@@ -37,5 +37,5 @@ Carollyne Yardley
 Fazakas Gallery 
 688 East Hastings Street 
 Vancouver BC V6A 1R1
-http://www.fazakasgallery.com/
-https://www.facebook.com/events/1861327467413926/
+[http://www.fazakasgallery.com/](http://www.fazakasgallery.com/)
+[https://www.facebook.com/events/1861327467413926/](https://www.facebook.com/events/1861327467413926/)

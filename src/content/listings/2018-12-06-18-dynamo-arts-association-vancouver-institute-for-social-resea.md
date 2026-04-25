@@ -48,10 +48,10 @@ nearly as incompatible as weve been led to believe. They may even, in time, give
 to monstrous new theoretical sensibilities that we are currently barely able to envision. "
 
 Youtube channel for past events:
-https://www.youtube.com/channel/UCK-Wfiov-
-HIfIJqpYbQoshg/videoshttp://www.youtube.com/channel/UCK-Wfiov-
+[https://www.youtube.com/channel/UCK-Wfiov-](https://www.youtube.com/channel/UCK-Wfiov-)
+HIfIJqpYbQoshg/videos[http://www.youtube.com/channel/UCK-Wfiov-](http://www.youtube.com/channel/UCK-Wfiov-)
 HIfIJqpYbQoshg/videos
 
 Podcast of past events:
-https://itunes.apple.com/us/podcast/visr-vancouver-institute-of-social-
+[https://itunes.apple.com/us/podcast/visr-vancouver-institute-of-social-](https://itunes.apple.com/us/podcast/visr-vancouver-institute-of-social-)
 research/id1227965025?mt=2

@@ -11,7 +11,7 @@ summary: "SFU School for the Contemporary Arts | Casper Leerink's MFA Project: a
 Casper Leerink's MFA Project: and we continue
 October 15 | 7:00 PM & October 16 | 11:00 AM | 2020 | Online | FREE
 
-Access link: https://and-we-continue.herokuapp.com/
+Access link: [https://and-we-continue.herokuapp.com/](https://and-we-continue.herokuapp.com/)
 
 Please join us for Casper Leerink's MFA Project: and we continue.
 

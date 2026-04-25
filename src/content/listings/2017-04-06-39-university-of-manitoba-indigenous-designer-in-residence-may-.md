@@ -14,7 +14,7 @@ Indigenous Designer in Residence
 Deadline May 15, 2017
 Winnipeg
 School of Art, University of Manitoba
-http://www.umanitoba.ca/schools/art/idir.html
+[http://www.umanitoba.ca/schools/art/idir.html](http://www.umanitoba.ca/schools/art/idir.html)
 
 The School of Art at the University of Manitoba is offering a six-month, paid residency 
 for an Indigenous Designer, whose work invites interdisciplinary, critical, and speculative 

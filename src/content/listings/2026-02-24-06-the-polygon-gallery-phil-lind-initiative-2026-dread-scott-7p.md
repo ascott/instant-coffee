@@ -15,7 +15,7 @@ Doors at 6:30pm
 Event at 7:00pm
 Free
 
-Find out more: https://thepolygon.ca/event/2026-phil-lind-initiative-dread-scott/
+Find out more: [https://thepolygon.ca/event/2026-phil-lind-initiative-dread-scott/](https://thepolygon.ca/event/2026-phil-lind-initiative-dread-scott/)
 
 About Dread Scott
 

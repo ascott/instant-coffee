@@ -12,7 +12,7 @@ Visual Art Forum: Sandi Hilal & Alessandro Petti / DAAR
 Visual Art Forum | Spring 2021
 February 9, 2021 | 9:30 AM | FREE | Zoom
 RSVP LINK:
-https://www.sfu.ca/sca/events---news/events/visual-art-forum--sandi-hilal---alessandro-
+[https://www.sfu.ca/sca/events---news/events/visual-art-forum--sandi-hilal---alessandro-](https://www.sfu.ca/sca/events---news/events/visual-art-forum--sandi-hilal---alessandro-)
 petti---daar.html
 
 Please join us for a FREE talk by Sandi Hilal & Alessandro Petti (Decolonizing

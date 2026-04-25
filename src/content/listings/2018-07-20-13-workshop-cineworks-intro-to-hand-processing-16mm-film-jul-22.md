@@ -15,7 +15,7 @@ Cineworks Annex, 235 Alexander St (driveway entrance),
 Vancouver, British Columbia V6Z 2L7
 $40"$60 + taxes
 
-REGISTER: https://bit.ly/2MMZG4p
+REGISTER: [https://bit.ly/2MMZG4p](https://bit.ly/2MMZG4p)
 
 A 4 hour entry-level workshop introducing participants to the principles
 and practice of processing 16mm black and white film by hand. Principles
@@ -37,11 +37,11 @@ Film shot at the Analogue Basics: Introduction to the Bolex Camera workshop
 components (optional), please register for the Bolex class via the
 following link:
 
-https://bit.ly/2tTW2i7
+[https://bit.ly/2tTW2i7](https://bit.ly/2tTW2i7)
 
 Please note: access to membership discounts can be obtained with a
 Cineworks General Membership ($40 annually). Please call 604-685-3841 for
-details, or see http://cineworks.ca/connect#join
+details, or see [http://cineworks.ca/connect#join](http://cineworks.ca/connect#join)
 
 Accessibility: this venue is wheelchair accessible, with an accessible
 washroom facility

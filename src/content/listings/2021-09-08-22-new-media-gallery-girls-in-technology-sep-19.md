@@ -21,7 +21,7 @@ Ages 7-12
 
 Sunday, Sep 19 - Oct 3
 
-https://bit.ly/3i2m7oW
+[https://bit.ly/3i2m7oW](https://bit.ly/3i2m7oW)
 
 Instructor: Hope Akello
 

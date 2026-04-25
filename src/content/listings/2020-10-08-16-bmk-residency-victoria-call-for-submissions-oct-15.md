@@ -8,7 +8,7 @@ venue: "BMK Residency (VICTORIA)"
 summary: "BMK Residency (VICTORIA) | Call for Submissions | OCT 15"
 ---
 
-https://bonniemccombkreye.com/apply/
+[https://bonniemccombkreye.com/apply/](https://bonniemccombkreye.com/apply/)
 
 The Bonnie McComb Kreye Studio Residency, which was established in 2016 in
 Victoria , BC, by the Kreye family, has partnered with the Vancouver Island

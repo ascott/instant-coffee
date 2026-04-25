@@ -23,7 +23,7 @@ International Women Day
 Friday, March 8
 10:00am - 11:00am PST
 Zoom Link
-https://newmediagallery.us9.list-manage.com/track/click?
+[https://newmediagallery.us9.list-manage.com/track/click](https://newmediagallery.us9.list-manage.com/track/click)?
 u=0d74858728ba038e91b16429d&id=159a405639&e=dd8f80e409
 
 ARTIST TALK

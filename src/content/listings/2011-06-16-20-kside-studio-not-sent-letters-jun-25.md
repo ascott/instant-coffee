@@ -102,11 +102,11 @@ Todd, Evangeline L. Lindbergh and Willing Conflators of Walter Benjamin and
 Jeremy Todd.
 
 Explore previous Not Sent Letters & Guests events & contributions here: 
-http://notsentlettersandguests.blogspot.com
+[http://notsentlettersandguests.blogspot.com](http://notsentlettersandguests.blogspot.com)
 
 For notification of upcoming events, posts and news, please "like" the new 
 facebook page for the project here: 
-http://www.facebook.com/pages/Not-Sent-Letters-Project/147882091946917 
+[http://www.facebook.com/pages/Not-Sent-Letters-Project/147882091946917](http://www.facebook.com/pages/Not-Sent-Letters-Project/147882091946917) 
 
 Email Jeremy Todd to arrange for, host or contribute to a future Not Sent Letters 
 & Guests event: jeremytodd@shaw.ca

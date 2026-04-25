@@ -20,7 +20,7 @@ specially to suit the
 festival theme of a Celestial Dance of Yin and Yang.
 
 Performance at 8:00pm on Saturday, September 14! Tickets starting at $9.85:
-https://www.eventbrite.ca/e/mid-autumn-moon-festival-2024-a-celestial-dance-of-yin-
+[https://www.eventbrite.ca/e/mid-autumn-moon-festival-2024-a-celestial-dance-of-yin-](https://www.eventbrite.ca/e/mid-autumn-moon-festival-2024-a-celestial-dance-of-yin-)
 and-yang-tickets-971033576567?aff=ebdssbdestsearch
 
 ABOUT THE EXHIBITION:
@@ -34,7 +34,7 @@ Dr. Sun Yat-Sen Classical Chinese Garden and Public Park
 578 Carrall Street, Vancouver
 
 Register to view exhibition for free:
-https://www.eventbrite.ca/e/to-carve-without-cutting-tickets-999468967587?
+[https://www.eventbrite.ca/e/to-carve-without-cutting-tickets-999468967587](https://www.eventbrite.ca/e/to-carve-without-cutting-tickets-999468967587)?
 aff=oddtdtcreator
 
 UNIT/PITT Society for Art and Critical Awareness is excited to announce the
@@ -44,4 +44,4 @@ in Vancouvers Chinatown, from August 31 to September 28, 2024.
 
 For more info:
 
-http://https://www.unitpitt.ca/portfolio/to-carve-without
+[http://https://www.unitpitt.ca/portfolio/to-carve-without](http://https://www.unitpitt.ca/portfolio/to-carve-without)

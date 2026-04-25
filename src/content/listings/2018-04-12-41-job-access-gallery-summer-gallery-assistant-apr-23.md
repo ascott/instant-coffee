@@ -35,7 +35,7 @@ Waututh) Nations.
 THE IDEAL CANDIDATE
 
 qualifies for Young Canada Works as a student returning to full-time studies in the 
-fall https://www.canada.ca/en/canadian-heritage/services/funding/young-canada-
+fall [https://www.canada.ca/en/canadian-heritage/services/funding/young-canada-](https://www.canada.ca/en/canadian-heritage/services/funding/young-canada-)
 works/students-graduates.html
 
 and has:

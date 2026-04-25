@@ -32,7 +32,7 @@ Featuring 50 local handmade artists, Got Craft is a modern twist on the
 conventional craft fair. Support Vancouver's handmade revolution and buy local!
 
 For more information and a full list of participating vendors, please visit
-our website at http://www.gotcraft.ca
+our website at [http://www.gotcraft.ca](http://www.gotcraft.ca)
 
 The Silver Lining Craft Fair
 at Antisocial 2425 Main St
@@ -54,7 +54,7 @@ Cambrian Hall 215 17th Ave E (just east of Main)
 
 Portobello Market
 Sunday November 30th.
-http://vancouver.portobellowest.com/
+[http://vancouver.portobellowest.com/](http://vancouver.portobellowest.com/)
 Sunday, November 30th
 12am-6pm
 

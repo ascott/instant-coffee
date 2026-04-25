@@ -26,4 +26,4 @@ Call for Proposals due: November 30, 2020
 Details (in English and French) can be found in the .pdf attachment, or on our Facebook
 page:
 
-https://www.facebook.com/ahgsaconcordia
+[https://www.facebook.com/ahgsaconcordia](https://www.facebook.com/ahgsaconcordia)

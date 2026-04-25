@@ -13,4 +13,4 @@ Unique, solo-format journal of fine art photography calls for portfolio submissi
 techniques invited and international submissions encouraged. Free online with print edition for 
 sale on demand The current issue, back issue archive, and complete submission guidelines are 
 at
-https://www.dekunumag.com
+[https://www.dekunumag.com](https://www.dekunumag.com)

@@ -8,7 +8,7 @@ venue: "adbusters"
 summary: "adbusters | Call: one flag | DEC 1"
 ---
 
-http://www.adbusters.org/campaigns/oneflag
+[http://www.adbusters.org/campaigns/oneflag](http://www.adbusters.org/campaigns/oneflag)
 
 A First Things First Project
 
@@ -40,4 +40,4 @@ Judges include: Jonathan Barnbrook, Michael Bierut, Vince Frost,
 Steven Heller, Kalle Lasn, Rick Poynor and Dmitri Siegel. More to be 
 announced.
 
-http://www.adbusters.org/campaigns/oneflag
+[http://www.adbusters.org/campaigns/oneflag](http://www.adbusters.org/campaigns/oneflag)

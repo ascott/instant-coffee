@@ -12,7 +12,7 @@ JUL 20
 VIVO Media Arts: 50+ Anniversary
 Saturday, July 20, 2024
 7 pm " late
-Tickets: https://www.showpass.com/vivo-media-arts-50th-year/
+Tickets: [https://www.showpass.com/vivo-media-arts-50th-year/](https://www.showpass.com/vivo-media-arts-50th-year/)
 Stay tuned for announcements on the exciting lineup of artists and performers!
 
 Join us to celebrate 50+ Years of Media Arts!
@@ -52,9 +52,9 @@ edition 50+ anniversary pin.]
 2. Showpass: Accessible Admission - $25 [Low-barrier option]
 3. At Door: Free or PWYC (Pay What You Can) [Limited tickets available on a first-
 come, first-served basis.]
-Tickets: https://www.showpass.com/vivo-media-arts-50th-year/
+Tickets: [https://www.showpass.com/vivo-media-arts-50th-year/](https://www.showpass.com/vivo-media-arts-50th-year/)
 
-Venue Accessibility: https://www.vivomediaarts.com/programming/vivo-media-arts-
+Venue Accessibility: [https://www.vivomediaarts.com/programming/vivo-media-arts-](https://www.vivomediaarts.com/programming/vivo-media-arts-)
 50th
 
 48. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
@@ -81,4 +81,4 @@ secure the space. The space is designed for visual, sculptural or textile artist
 
 Spot available immediately!
 
-http://thephoenixgallery.ca/
+[http://thephoenixgallery.ca/](http://thephoenixgallery.ca/)

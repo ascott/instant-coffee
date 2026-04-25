@@ -47,7 +47,7 @@ and the third is an 8¹ diameter circle. Please keep those dimensions in mind
 and be sure to address them in the proposal.
 
 To refer to descriptions and images of Urban Moorings 1, please view: 
-http://www.hamiltonartistsinc.on.ca/programming/programming.shtml
+[http://www.hamiltonartistsinc.on.ca/programming/programming.shtml](http://www.hamiltonartistsinc.on.ca/programming/programming.shtml)
 
 The realization of this project is dependent on funding support which will
 be determined in January 2010. 
@@ -120,4 +120,4 @@ Phone 905.529.3355
 
 Email irene@hamiltonartistsinc.on.ca 
 
-http://www.hamiltonartistsinc.on.ca
+[http://www.hamiltonartistsinc.on.ca](http://www.hamiltonartistsinc.on.ca)

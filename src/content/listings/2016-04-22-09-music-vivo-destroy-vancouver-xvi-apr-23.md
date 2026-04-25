@@ -42,7 +42,7 @@ WORKSHOP | SIGNUM: The Invisible Revealed. A two-day workshop
 on presence, perception and noise w/ Spanish media artist Victor 
 Mazon Gardoqui
 Saturday April 30 + Sunday May 1 | 12-7pm 
-https://www.facebook.com/events/980663641988045
+[https://www.facebook.com/events/980663641988045](https://www.facebook.com/events/980663641988045)
 --
 
 ALEX MOSKOS is a long-standing participant in Montreal's 
@@ -63,7 +63,7 @@ experience, feeling, memory and place. Spence has performed and
 presented her work in concerts, festivals, symposiums and galleries in 
 Australia, Canada, Ireland, Italy and France. Spence is currently a MFA 
 candidate at Simon Fraser University.
-https://afivepence.wordpress.com
+[https://afivepence.wordpress.com](https://afivepence.wordpress.com)
 
 ANNE-F JACQUES is a Montral-based sound artist. She is interested 
 in amplification, erratic sound reproduction devices and construction of 
@@ -73,7 +73,7 @@ sound installations and makes soundtracks for Julie Doucet's animated
 films. The use of low technology, trivial objects and rough sounds is 
 particularly appreciated. Anne-F is also involved with Crustacs Tapes, 
 a postal sound distribution project.
-http://anne-fff.tumblr.com
+[http://anne-fff.tumblr.com](http://anne-fff.tumblr.com)
 
 EMMA HENDRIX + JULIE GENDRON
 EMMA HENDRIX is a composer, sound designer and media artist. He 
@@ -85,7 +85,7 @@ awards for the interactive installation 'don't, stop' with Julie Gendron.He
 has worked with performance artists, dancers, theatre companies, 
 film/video artists, animators etc, creating experimental sound design for 
 their work. 
-http://www.emmahendrix.com
+[http://www.emmahendrix.com](http://www.emmahendrix.com)
 
 JULIE GENDRON is a digital strategist, interaction designer, and artist. 
 She has a special interest in creating platforms, experiences and 
@@ -99,7 +99,7 @@ Arts Council, Creative BC, Centre interuniversitaire des arts
 mediatiques, Dora and Avi Morrow Award for Excellence in Visual Arts 
 and BC Film. She has shared her work at various conferences and 
 exhibitions in Canada, Sweden, Spain, Japan, Australia and the US.
-http://desiringproductions.com
+[http://desiringproductions.com](http://desiringproductions.com)
 
 Emma and Julie have worked on various interactive installation 
 projects as the collaborative duo called "Manufacturing Entertainment". 
@@ -119,7 +119,7 @@ Paris, Scopitone in Nantes and Today's Art in The Hague). La chambre
 des machines also received a distinction at the prestigious Ars 
 Electronica (Austria). In 2010, Messier founded 14 lieux, a sound 
 production company for performing arts. 
-http://www.mmessier.com
+[http://www.mmessier.com](http://www.mmessier.com)
 
 VCTOR MAZN GARDOQUI 
 Through actions, objects and electronic devices - between - sound 
@@ -137,4 +137,4 @@ Basque Country (UPV-EHU) in 2008. His work has been performed
 and exhibited in museums, galleries, billboards, urban screens and 
 public TV/radio stations in Africa, Russia, Nepal, North America, 
 Canada Mexico and numerous other locations across Europe.
-http://victormazon.com
+[http://victormazon.com](http://victormazon.com)

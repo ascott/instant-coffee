@@ -51,7 +51,7 @@ disability
 
 For submission details, and to access different versions of the call (including an
 accessible PDF, audio versions, a simple English version, and an ASL version), visit:
-http://www.publicjournal.ca/open-call-for-artists-postscript/
+[http://www.publicjournal.ca/open-call-for-artists-postscript/](http://www.publicjournal.ca/open-call-for-artists-postscript/)
 
 We acknowledge the support of the Canada Council for the Arts.
 

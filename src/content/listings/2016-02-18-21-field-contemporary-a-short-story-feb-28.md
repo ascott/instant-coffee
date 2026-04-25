@@ -77,5 +77,5 @@ of an old closet makes it all flood back into the chest. Together the
 works excavate the home she holds in her mind's eye - transformed by 
 dreams and envisioned anew.
 
-Fore further information visit http://www.field-contemporary.com/a-
+Fore further information visit [http://www.field-contemporary.com/a-](http://www.field-contemporary.com/a-)
 short-story.html

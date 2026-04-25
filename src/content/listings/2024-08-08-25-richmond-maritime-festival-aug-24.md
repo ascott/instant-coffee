@@ -36,7 +36,7 @@ Richmond, BC V7E 6P3
 
 Website
 
-https://richmondmaritimefestival.ca/
+[https://richmondmaritimefestival.ca/](https://richmondmaritimefestival.ca/)
 
 Image
 

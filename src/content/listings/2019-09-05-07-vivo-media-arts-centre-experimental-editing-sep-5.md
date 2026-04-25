@@ -15,7 +15,7 @@ Inspiring techniques to stoke your editing process, with editor Will Ross.
 Creative editing allows you to form stunning work with the barest of resources!
 
 SIGN UP & MORE INFO:
-https://experimentalediting.eventbrite.ca
+[https://experimentalediting.eventbrite.ca](https://experimentalediting.eventbrite.ca)
 
 10.5 hours total over 3 sessions // $130, or $96 with any VIVO Producer Membership
 (+GST)
@@ -25,4 +25,4 @@ Session 2: Thur Sept 12, 6pm-9:30pm
 Session 3: Thur Sept 19, 6pm-9:30pm
 
 One Extended Subsidy available for this workshop:
-https://forms.gle/y4LNmik3aC7BMT9dA
+[https://forms.gle/y4LNmik3aC7BMT9dA](https://forms.gle/y4LNmik3aC7BMT9dA)

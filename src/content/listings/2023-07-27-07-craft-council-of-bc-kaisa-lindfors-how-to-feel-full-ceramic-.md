@@ -27,8 +27,8 @@ fragile yet long lasting nature of the material against the making of a usually 
 practice; both permanent and
 fragile, quiet and public.
 
-https://www.eventbrite.ca/e/how-to-feel-full-vases-cages-tickets-676125338087 (link to
+[https://www.eventbrite.ca/e/how-to-feel-full-vases-cages-tickets-676125338087](https://www.eventbrite.ca/e/how-to-feel-full-vases-cages-tickets-676125338087) (link to
 tickets, which are free)
 
-https://craftcouncilbc.ca/feel-full/ (link to website with more information about the
+[https://craftcouncilbc.ca/feel-full/](https://craftcouncilbc.ca/feel-full/) (link to website with more information about the
 exhibit)

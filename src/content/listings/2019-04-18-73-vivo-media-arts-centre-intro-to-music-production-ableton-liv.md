@@ -9,7 +9,7 @@ summary: "VIVO Media Arts Centre | Intro to Music Production & Ableton Live | MA
 ---
 
 Intro to Music Production & Ableton Live
-SIGN UP & MORE INFO: https://musicprod.eventbrite.ca
+SIGN UP & MORE INFO: [https://musicprod.eventbrite.ca](https://musicprod.eventbrite.ca)
 
 Expand your music performance and composition methods with this in-depth introduction to 
 the multifaceted software, Ableton Live, taught by composer-producer Alexandre Klinke!

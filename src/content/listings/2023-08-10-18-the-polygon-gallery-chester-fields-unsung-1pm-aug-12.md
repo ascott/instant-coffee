@@ -21,5 +21,5 @@ that deserves more attention.
 
 Exhibition is on view until September 10
 
-RSVP for the opening here: https://thepolygon.ca/event/chester-fields-unsung-opening-
+RSVP for the opening here: [https://thepolygon.ca/event/chester-fields-unsung-opening-](https://thepolygon.ca/event/chester-fields-unsung-opening-)
 celebration/

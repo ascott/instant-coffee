@@ -36,7 +36,7 @@ the Arts and Disability Alliance BC.
 
 Session Transcripts will be made available.
 
-Dates, details and registration can be found via this google form: https://bit.ly/3kAzDQ4
+Dates, details and registration can be found via this google form: [https://bit.ly/3kAzDQ4](https://bit.ly/3kAzDQ4)
 
 Do you have any accessibility needs?
 Our workshops are hosted on Google Meet (Free Service " Accessible by Browser)

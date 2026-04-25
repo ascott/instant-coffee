@@ -18,7 +18,7 @@ GALLERY HOURS: Tu-F: 2 pm-6 pm; Sa: 11 am-6 pm;
 Capture Photography Festival 2020 Official Selected Exhibition
 Please note that this exhibition is by appointment only.
 Book your visit here:
-https://canton-sardine.com/
+[https://canton-sardine.com/](https://canton-sardine.com/)
 
 Satellite of Love is the title of a rock n roll song composed by Lou Reed in 1970, when he
 was still part of The Velvet Underground. The song describes a man watching a satellite
@@ -75,4 +75,4 @@ atmosphere as well as the loneliness and mystery of many of his films characters
 Zhipeng offers his point of view on an alternative youth spirit and culture in an often
 conservatively Chinese cultural context.
 
-http://linzhipeng223.com/
+[http://linzhipeng223.com/](http://linzhipeng223.com/)

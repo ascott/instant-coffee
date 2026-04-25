@@ -8,7 +8,7 @@ venue: "KAMLOOPS ART GALLERY"
 summary: "KAMLOOPS ART GALLERY | Education & Public Programs Coordinator | JAN 10"
 ---
 
-Employment Opportunities - http://kag.bc.ca/employ.htm
+Employment Opportunities - [http://kag.bc.ca/employ.htm](http://kag.bc.ca/employ.htm)
 The Kamloops Art Gallery is seeking a highly-motivated person for the 
 position of Education & Public Programs Coordinator.
 The principal goal of the position is to achieve a standard of excellence 
@@ -36,7 +36,7 @@ Please do not fax your applications.
 The Kamloops Art Gallery is an equal opportunity employer and thanks 
 all applicants for their interest in the Gallery; only short-listed 
 candidates will be contacted.
-See more at: http://kag.bc.ca/employ.htm#sthash.qqLLmQCz.dpuf
+See more at: [http://kag.bc.ca/employ.htm#sthash.qqLLmQCz.dpuf](http://kag.bc.ca/employ.htm#sthash.qqLLmQCz.dpuf)
 
 When our incredible Education & Public Program Coordinator left to 
 pursue other opportunities this January, sadly it meant she will also be 

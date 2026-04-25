@@ -27,7 +27,7 @@ Please contact Michael for questions
 
 Pics can be seen at:
 
-http://vancouverclownoatmeal.wordpress.com/
+[http://vancouverclownoatmeal.wordpress.com/](http://vancouverclownoatmeal.wordpress.com/)
 
 Thank you 
 

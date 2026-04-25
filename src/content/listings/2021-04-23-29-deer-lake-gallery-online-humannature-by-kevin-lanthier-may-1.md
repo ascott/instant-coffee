@@ -28,8 +28,8 @@ Righton on May 8 starting at 2:00pm.
 
 May 8 Artist talk registration:
 
-https://zoom.us/meeting/register/tJwsd-iurTksGtaqP-RmsXXNR8vXHxyPY_UP
+[https://zoom.us/meeting/register/tJwsd-iurTksGtaqP-RmsXXNR8vXHxyPY_UP](https://zoom.us/meeting/register/tJwsd-iurTksGtaqP-RmsXXNR8vXHxyPY_UP)
 
 More info:
 
-https://burnabyartscouncil.org/event/humannature-by-kevin-lanthier/
+[https://burnabyartscouncil.org/event/humannature-by-kevin-lanthier/](https://burnabyartscouncil.org/event/humannature-by-kevin-lanthier/)

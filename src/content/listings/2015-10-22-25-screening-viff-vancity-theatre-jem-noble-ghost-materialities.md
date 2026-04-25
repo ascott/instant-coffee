@@ -26,8 +26,8 @@ Concessions: $9
 General Admission: $11
 Special Offer: Tickets for this presentation provide free entry to the
 subsequent screening of Ghosts… Of The Civil Dead, 8.45pm
-(http://bit.ly/1OQIRlY)
-Tickets: http://bit.ly/1QQ3f5P
+([http://bit.ly/1OQIRlY](http://bit.ly/1OQIRlY))
+Tickets: [http://bit.ly/1QQ3f5P](http://bit.ly/1QQ3f5P)
 
 The relationship between public and private sector interests in the
 workings of State governance and the role of market forces in everyday life
@@ -94,4 +94,4 @@ acclaimed Vancouver International Film Festival (VIFF), the annual VIFF
 Industry Conference and the year-round programming of the Vancity Theatre
 at the Vancouver International Film Centre.
 
-http://www.viff.org/
+[http://www.viff.org/](http://www.viff.org/)

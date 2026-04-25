@@ -19,7 +19,7 @@ group, You grew up in Richmond and garnered over 400 replies. Drawing from resea
 of early Richmond, archival materials and collected stories, DITCH celebrates the
 significance of memory and a deeply rooted attachment to time and place. The Tyee staff
 reporter, Chris Cheungs July 14th article includes an interview with the artist.
-https://thetyee.ca/Culture/2023/07/14/Wild-Childhood-Ditches-Richmond/
+[https://thetyee.ca/Culture/2023/07/14/Wild-Childhood-Ditches-Richmond/](https://thetyee.ca/Culture/2023/07/14/Wild-Childhood-Ditches-Richmond/)
 
 Richmond Art Gallery Offsite
 Richmond City Hall Galleria Space
@@ -37,7 +37,7 @@ workshop with teaching artist Amanda Wood. No previous weaving experience needed
 
 Sept 22 & 23, Friday 6"8pm and Saturday 10am"2
 Eastside Atelier, 1310 William Street
-More details and register through eventbrite: https://www.eventbrite.ca/e/learn-to-
+More details and register through eventbrite: [https://www.eventbrite.ca/e/learn-to-](https://www.eventbrite.ca/e/learn-to-)
 weave-cloth-for-beginners-tickets-681706140417?aff=oddtdtcreator
 
 ABOUT THE CLASS

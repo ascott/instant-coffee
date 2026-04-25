@@ -98,7 +98,7 @@ This is an ongoing call.
 
 For more details regarding submission guidelines, please visit our 
 website
-at: http://kapsula.ca/submissions/
+at: [http://kapsula.ca/submissions/](http://kapsula.ca/submissions/)
 
 ** Call for Cover Art Images:
 
@@ -112,9 +112,9 @@ articles that is posted on our official website. The topic is completely
 open to your conceptual and visual interpretation.
 For further details, please visit our official website.
 
-http://kapsula.ca
-https://twitter.com/KAPSULAMagazine
-https://www.facebook.com/kapsulamagazine
+[http://kapsula.ca](http://kapsula.ca)
+[https://twitter.com/KAPSULAMagazine](https://twitter.com/KAPSULAMagazine)
+[https://www.facebook.com/kapsulamagazine](https://www.facebook.com/kapsulamagazine)
 
 23. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.

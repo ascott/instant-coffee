@@ -27,4 +27,4 @@ A Burning Bag as a Smoke-Grey Lotus will be on view at Stroom Den Haag from
 
 More information available soon
 
-http://la-loge.be/project/a-burning-bag-as-a-s
+[http://la-loge.be/project/a-burning-bag-as-a-s](http://la-loge.be/project/a-burning-bag-as-a-s)

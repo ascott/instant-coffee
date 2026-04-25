@@ -46,4 +46,4 @@ believe the art of poetry can help connect us and hope you will leave
 this event with a rejuvenating sense of belonging!
 
 Details:
-https://www.dtvan.ca/pop-after-hours/
+[https://www.dtvan.ca/pop-after-hours/](https://www.dtvan.ca/pop-after-hours/)

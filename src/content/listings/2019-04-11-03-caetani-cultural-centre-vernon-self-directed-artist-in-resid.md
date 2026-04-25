@@ -37,7 +37,7 @@ Sermoneta Room: NOW - May 10th. Anytime between November 4th 2019 and April
 
 You can add on an art studio for $5/day.
 
-LEARN MORE + APPLY HERE: https://www.caetani.org/self-directed-residencies-for-
+LEARN MORE + APPLY HERE: [https://www.caetani.org/self-directed-residencies-for-](https://www.caetani.org/self-directed-residencies-for-)
 artists-and-writers/
 
 E-mail air@caetani.org with any questions.

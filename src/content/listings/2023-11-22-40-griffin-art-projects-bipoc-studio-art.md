@@ -13,7 +13,7 @@ BIPOC Studio Art Award
 
 Griffin Art Projects
 
-https://www.griffinartprojects.ca/residency-opportunities
+[https://www.griffinartprojects.ca/residency-opportunities](https://www.griffinartprojects.ca/residency-opportunities)
 
 RESIDENCY DATES: May and June 2024
 

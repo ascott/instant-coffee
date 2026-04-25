@@ -37,4 +37,4 @@ Moderator: Madeline Ullrich
 Ines Min
 It Is Almost That
 Moderator: Pamela Mackenzie
-http://ahva.ubc.ca/events/event/2016-winter-art-history-ccst-roundtables/
+[http://ahva.ubc.ca/events/event/2016-winter-art-history-ccst-roundtables/](http://ahva.ubc.ca/events/event/2016-winter-art-history-ccst-roundtables/)

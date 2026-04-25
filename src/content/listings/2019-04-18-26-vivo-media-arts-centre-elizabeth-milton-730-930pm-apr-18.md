@@ -18,11 +18,11 @@ VIVO Media Arts Centre
 2625 Kaslo St. (5-min walk from Renfrew Skytrain Stn)
 Free Admission
 
-VIVO Website: http://www.vivomediaarts.com/events-exhibitions/elizabeth-milton-vhs-
+VIVO Website: [http://www.vivomediaarts.com/events-exhibitions/elizabeth-milton-vhs-](http://www.vivomediaarts.com/events-exhibitions/elizabeth-milton-vhs-)
 eyelashes/
 
 Accompanying essay "Channelling the Light: Up Close and Personal with VHS by Elizabeth 
-Milton: https://capturephotofest.com/wp-
+Milton: [https://capturephotofest.com/wp-](https://capturephotofest.com/wp-)
 content/uploads/2019/02/Milton_ChannellingtheLight.pdf
 
 _

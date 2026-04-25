@@ -25,4 +25,4 @@ that helped inspire Chair for a woman.
 No reservation required. Simply just turn up!
 
 Find out more about the exhibition at 
-https://www.contemporaryartgallery.ca/exhibitions/anne-low-chair-for-a-woman/
+[https://www.contemporaryartgallery.ca/exhibitions/anne-low-chair-for-a-woman/](https://www.contemporaryartgallery.ca/exhibitions/anne-low-chair-for-a-woman/)

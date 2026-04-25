@@ -20,7 +20,7 @@ The two proposals with the highest ratings will be presented at apexart in the 2
 
 Applications are welcomed and encouraged from around the world. Visit the site for more info, guidelines and to apply:
 
-http://www.apexart.org/unsolicited.htm
+[http://www.apexart.org/unsolicited.htm](http://www.apexart.org/unsolicited.htm)
 
 Proposals accepted online until February 29.
 

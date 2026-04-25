@@ -53,7 +53,7 @@ Faculty of Arts at The University of British Columbia.
 
 For more information please contact Naomi Sawada, naomi.sawada@ubc.ca, tel:
 604-822-3640
-http://www.belkin.ubc.ca/events
+[http://www.belkin.ubc.ca/events](http://www.belkin.ubc.ca/events)
 
 Morris and Helen Belkin Art Gallery
 The University of British Columbia
@@ -100,7 +100,7 @@ College of the Arts.
 
 For more information please contact Naomi Sawada, naomi.sawada@ubc.ca, tel:
 604-822-3640
-http://www.belkin.ubc.ca/events
+[http://www.belkin.ubc.ca/events](http://www.belkin.ubc.ca/events)
 
 Morris and Helen Belkin Art Gallery
 The University of British Columbia
@@ -162,7 +162,7 @@ For more information contact Allison Collins or Naomi Sawada at (604)
 
 Morris and Helen Belkin Art Gallery | The University of British Columbia |
 1825 Main Mall | Vancouver, BC | V6T 1Z2 | Phone 604.822.2759 | Fax
-604.822.6689 | web http://www.belkin.ubc.ca | Open Tuesday to Friday 10 to
+604.822.6689 | web [http://www.belkin.ubc.ca](http://www.belkin.ubc.ca) | Open Tuesday to Friday 10 to
 5 Saturday and Sunday 12 to 5 | Close holiday
 
 Centre A

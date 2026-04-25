@@ -43,4 +43,4 @@ I Want to Grow Old (2008) and The Silk Road of Pop (2013) that he made in
 China over the past decade (2004–2014).
 
 - See more at:
-http://www.contemporaryartgallery.ca/events/film-screening-sameer-farooq-i-want-to-grow-old-the-silk-road-of-pop/#sthash.2l27QYor.dpuf
+[http://www.contemporaryartgallery.ca/events/film-screening-sameer-farooq-i-want-to-grow-old-the-silk-road-of-pop/#sthash.2l27QYor.dpuf](http://www.contemporaryartgallery.ca/events/film-screening-sameer-farooq-i-want-to-grow-old-the-silk-road-of-pop/#sthash.2l27QYor.dpuf)

@@ -29,4 +29,4 @@ Vancouver, BC V6A 4H3
 604-838-6816
 
 
-http://www.jeffreyboonegallery.com
+[http://www.jeffreyboonegallery.com](http://www.jeffreyboonegallery.com)

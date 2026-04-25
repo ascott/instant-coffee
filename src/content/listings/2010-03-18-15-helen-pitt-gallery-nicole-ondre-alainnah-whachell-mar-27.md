@@ -40,4 +40,4 @@ Exhibition runs March 27 - May 1
 Wednesday to Friday 3-7pm
 Saturday 12-4pm
 
-http://www.helenpittgallery.org/
+[http://www.helenpittgallery.org/](http://www.helenpittgallery.org/)

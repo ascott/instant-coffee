@@ -26,5 +26,5 @@ the world allows them to voice ideas that communicate across cultures.
 
 To register for the event, please visit:
 
-https://zoom.us/
+[https://zoom.us/](https://zoom.us/)
 webinar/register/WN_qxFT21SXQJyHHrxjSxRNVw

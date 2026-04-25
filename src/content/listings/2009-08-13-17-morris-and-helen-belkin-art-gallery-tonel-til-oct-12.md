@@ -57,4 +57,4 @@ For more info contact: Naomi Sawada <naomi.sawada@ubc.ca>, t: 604-822-3640
 Morris and Helen Belkin Art Gallery, University of British Columbia, 1825 Main Mall, Vancouver, 
 BC
 Gallery hours: Tue-Fri 10 to 5; Sat-Sun 12-5; closed holidays. 
-http://wwww.belkin.ubc.ca
+[http://wwww.belkin.ubc.ca](http://wwww.belkin.ubc.ca)

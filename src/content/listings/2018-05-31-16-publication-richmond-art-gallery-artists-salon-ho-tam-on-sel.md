@@ -19,13 +19,13 @@ which includes everything from editorial, design, production and distribution.
 The Artist Salon is an opportunity for emerging and established artists to
 meet other artists, share or present current work with peers and discuss
 upcoming opportunity in the arts community. Join our Richmond Art Salon
-Facebook Group: https://www.facebook.com/groups/RichmondArtistsSalon/ for
+Facebook Group: [https://www.facebook.com/groups/RichmondArtistsSalon/](https://www.facebook.com/groups/RichmondArtistsSalon/) for
 updates on arts events, open calls, residencies, courses and more.
 
 Free admission, all levels of visual artists welcome to attend.
 
 Registration required via Eventbrite:
-https://www.eventbrite.ca/e/artist-salon-with-ho-tam-tickets-45668868816
+[https://www.eventbrite.ca/e/artist-salon-with-ho-tam-tickets-45668868816](https://www.eventbrite.ca/e/artist-salon-with-ho-tam-tickets-45668868816)
 
 For more information, please visit our website:
-http://www.richmondartgallery.org/upcoming/artist-salon-with-ho-tam/
+[http://www.richmondartgallery.org/upcoming/artist-salon-with-ho-tam/](http://www.richmondartgallery.org/upcoming/artist-salon-with-ho-tam/)

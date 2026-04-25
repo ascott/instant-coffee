@@ -75,7 +75,7 @@ been exhibited at the Musée d’art contemporain de Montréal (as a
 Elegant Disorder: Perspectives on Porcelain is curated by Louis-
 Alexandre Douesnard-Malo, a candidate in the Master of Arts program 
 in Critical and Curatorial Studies at the University of British Columbia. 
-For more information please visit: http://www.curatorialstudies.ca
+For more information please visit: [http://www.curatorialstudies.ca](http://www.curatorialstudies.ca)
 This exhibition is made possible with support from the Michael O’Brian 
 Family Foundation, the Killy Foundation and the Audain Endowment for 
 Curatorial Studies through the Department of Art History, Visual Art and 

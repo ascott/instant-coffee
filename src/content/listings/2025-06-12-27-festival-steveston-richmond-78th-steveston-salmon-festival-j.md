@@ -32,4 +32,4 @@ Across Steveston Village:
 Steveston Community Centre
 4111 Moncton St, Richmond, BC V7E 3A8
 
-https://stevestonsalmonfest.ca
+[https://stevestonsalmonfest.ca](https://stevestonsalmonfest.ca)

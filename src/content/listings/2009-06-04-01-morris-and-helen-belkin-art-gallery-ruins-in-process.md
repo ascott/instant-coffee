@@ -56,4 +56,4 @@ assistance of the Canadian Broadcasting Corporation.
 
 For more information contact Naomi Sawada at naomi.sawada@ubc.ca or (tel) 604-822-3640. 
 Morris and Helen Belkin Art Gallery, 1825 Main Mall, Vancouver, BC V6T 1Z2. www.belkin.ubc.ca
-http://www.vancouverartinthesixties.com
+[http://www.vancouverartinthesixties.com](http://www.vancouverartinthesixties.com)

@@ -19,4 +19,4 @@ Local poets will participate in a live stream event, where a panel of publishers
 writers, and performers can support their work, fine tune their editing, and provide insight to
 all viewers on the editing and publishing process.
 
-This is a free event. Please register online at http://www.cacv.ca/stage-to-page/
+This is a free event. Please register online at [http://www.cacv.ca/stage-to-page/](http://www.cacv.ca/stage-to-page/)

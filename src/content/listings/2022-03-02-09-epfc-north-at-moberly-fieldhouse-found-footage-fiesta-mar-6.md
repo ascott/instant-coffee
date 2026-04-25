@@ -22,5 +22,5 @@ Vancouver 2022, presented by ECUAA Gallery Project with Arts Club Theatre Compan
 Free event; all welcome. Moberly Park Fieldhouse , 7646 Prince Albert St, Vancouver, BC
 V5X 3Z4 More info:
 
-http://www.echoparkfilmcenter.org/events/then-and-now-masked-portraits-vancouver-
+[http://www.echoparkfilmcenter.org/events/then-and-now-masked-portraits-vancouver-](http://www.echoparkfilmcenter.org/events/then-and-now-masked-portraits-vancouver-)
 2022-an-evening-at-moberly-fieldhouse-with-visiting-artist-richard-nielsen/

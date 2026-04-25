@@ -43,6 +43,6 @@ Lynching Photograph
 
 RSVP LINK (not mandatory but encouraged):
 
-https://www.facebook.com/events/171077126952413/
+[https://www.facebook.com/events/171077126952413/](https://www.facebook.com/events/171077126952413/)
 
 Follow us on Instagram: @ahsa.ubc

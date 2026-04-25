@@ -23,4 +23,4 @@ practice.
 No reservation required. Simply just turn up!
 
 Find out more about the exhibition at 
-https://www.contemporaryartgallery.ca/exhibitions/aslan-gaisumov/
+[https://www.contemporaryartgallery.ca/exhibitions/aslan-gaisumov/](https://www.contemporaryartgallery.ca/exhibitions/aslan-gaisumov/)

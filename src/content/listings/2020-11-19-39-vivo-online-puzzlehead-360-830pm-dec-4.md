@@ -12,7 +12,7 @@ VIVO LIVE IN-STUDIO PRESENTS: PUZZLEHEAD 360
 ONLINE EVENT
 Puzzlehead 360
 Friday December 4, 830pm PST
-https://www.vivomediaarts.com/programming/puzzlehead360
+[https://www.vivomediaarts.com/programming/puzzlehead360](https://www.vivomediaarts.com/programming/puzzlehead360)
 FREE
 
 Join artist Katayoon Yousefbigloo and her Puzzlehead ensemble for a live-stream, in-
@@ -27,4 +27,4 @@ With the support of Canada Councils Digital Originals Grant, Puzzlehead 360 will
 meta live-concert experience in the age of the pandemic. Power up your headset if
 youve got one, but the show will be perfectly viewable without VR. Are you ready? Are
 you experienced? Tune in on Friday, December 4th to see it all unfold:
-https://www.vivomediaarts.com/programming/puzzlehead360
+[https://www.vivomediaarts.com/programming/puzzlehead360](https://www.vivomediaarts.com/programming/puzzlehead360)

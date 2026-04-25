@@ -66,7 +66,7 @@ the internment.
 
 For a PDF version of the release with images and description information
 please visit:
-https://www.dropbox.com/sh/pwy665m4c8cjyce/AADMymm4fcc53oP8Wwx4dD0Wa?dl=0
+[https://www.dropbox.com/sh/pwy665m4c8cjyce/AADMymm4fcc53oP8Wwx4dD0Wa?dl=0](https://www.dropbox.com/sh/pwy665m4c8cjyce/AADMymm4fcc53oP8Wwx4dD0Wa?dl=0)
 
 Absence in Remembrance will run through until Saturday July 16, 2016.
 Franc Gallery is located at 1654 Franklin Street, Vancouver, British Columbia.

@@ -33,4 +33,4 @@ performing artists. They are the current Branscombe House Artist-in-Residence in
 Richmond, BC.
 
 For more information, visit:
-https://culturedays.ca/en/events/57e569f4-ccb3-4a8a-8d74-07e896e7c87e-
+[https://culturedays.ca/en/events/57e569f4-ccb3-4a8a-8d74-07e896e7c87e-](https://culturedays.ca/en/events/57e569f4-ccb3-4a8a-8d74-07e896e7c87e-)

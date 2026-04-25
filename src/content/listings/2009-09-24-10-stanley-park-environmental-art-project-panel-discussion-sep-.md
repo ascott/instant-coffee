@@ -17,4 +17,4 @@ installed in Stanley Park and the inspiration for their environmental art practi
 Tiesenhausen, Shirley Wiebe, Tania Willard, John Hemsworth, Davide Pan and Cease Wyss. Q & A 
 to follow presentation. For more information on the Stanley Park Environmental Art Project, please 
 visit: 
-http://vancouver.ca/spea
+[http://vancouver.ca/spea](http://vancouver.ca/spea)

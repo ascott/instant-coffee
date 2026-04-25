@@ -93,7 +93,7 @@ Northwest Coast Aboriginal iconography with the aesthetics of popular
 culture to challenge social and historical values that we, as a society,
 face on a daily basis. His work is an exploration of his mixed ancestry and
 creates a discourse on how and why we use items of consumer and popular
-culture to define our personal lineage. http://sonnyassu.com
+culture to define our personal lineage. [http://sonnyassu.com](http://sonnyassu.com)
 
 CONTACT US BY EMAIL
 General contact & Programming and Communications Coordinator - Demian

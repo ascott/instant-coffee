@@ -14,7 +14,7 @@ Wednesday, June 21, 2023
 Location: q" eya" (Garry Point Park, 12011 Seventh Ave, Richmond, BC)
 Hosted by Richmond Art Gallery
 
-RSVP: https://www.eventbrite.ca/e/for-ghosts-and-swallows-off-site-performance-
+RSVP: [https://www.eventbrite.ca/e/for-ghosts-and-swallows-off-site-performance-](https://www.eventbrite.ca/e/for-ghosts-and-swallows-off-site-performance-)
 tickets-648463019347
 
 Celebrate the summer solstice with a participatory performance event, a part of Amy-
@@ -28,7 +28,7 @@ acknowledging the visiting swallows and the ecological ghosts who inhabit the st
 River) estuary.
 
 Call for choir is open to the public through the BC Choral Federation website
-https://bcchoralfed.com/sign-up-for-mothlike-silvery-blue-this-june-in-richmond/ .
+[https://bcchoralfed.com/sign-up-for-mothlike-silvery-blue-this-june-in-richmond/](https://bcchoralfed.com/sign-up-for-mothlike-silvery-blue-this-june-in-richmond/) .
 
 Artists: BC Choral Federation Choir, Brigid Coult (choir director), Amy-Claire Huestis,
 Omar Zubair (composer), Rachel Harris (dance)
@@ -36,4 +36,4 @@ Omar Zubair (composer), Rachel Harris (dance)
 Free admission, everyone of all ages welcome to attend.
 
 More information on the upcoming exhibition:
-https://www.richmondartgallery.org/mothlike-silvery-blue
+[https://www.richmondartgallery.org/mothlike-silvery-blue](https://www.richmondartgallery.org/mothlike-silvery-blue)

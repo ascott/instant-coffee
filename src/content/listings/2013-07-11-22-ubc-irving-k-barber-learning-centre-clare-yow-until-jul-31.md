@@ -18,7 +18,7 @@ Level 2 Concourse
 Vancouver, BC
 V6T 1Z1
 
-http://www.ikebarberlearningcentre.ubc.ca/
+[http://www.ikebarberlearningcentre.ubc.ca/](http://www.ikebarberlearningcentre.ubc.ca/)
 
 Daily 6 am - 1 am
 Free admission

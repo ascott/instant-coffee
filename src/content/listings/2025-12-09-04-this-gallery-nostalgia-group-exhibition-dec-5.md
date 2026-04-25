@@ -29,6 +29,6 @@ Saturdays 12-5
 
 Sundays 12-4
 
-Exhibition preview: https://thisgallery.org/project/nostalgia/
+Exhibition preview: [https://thisgallery.org/project/nostalgia/](https://thisgallery.org/project/nostalgia/)
 
 ###

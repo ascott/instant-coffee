@@ -17,7 +17,7 @@ international artists and curators.
 !!DEADLINE TO APPLY: JUNE 1, 2024!!
 
 CALL FOR EXPERIMENTAL FILM & MEDIA ART:
-https://forms.gle/hmbApk86FL2y8No59
+[https://forms.gle/hmbApk86FL2y8No59](https://forms.gle/hmbApk86FL2y8No59)
 
 ~Films of any length, format, year, screening history or premiere status will be
 considered.
@@ -27,7 +27,7 @@ coincide with their film's subject matter or material practice. Applicants may a
 propose curated programs that feature or are based around their own work.
 
 CALL FOR WORKSHOPS:
-https://docs.google.com/forms/d/e/1FAIpQLSef7aKAAYOShas9uWmOVVxQ0rIQdE
+[https://docs.google.com/forms/d/e/1FAIpQLSef7aKAAYOShas9uWmOVVxQ0rIQdE](https://docs.google.com/forms/d/e/1FAIpQLSef7aKAAYOShas9uWmOVVxQ0rIQdE)
 FSkvP_uuFddKWZerKrlw/viewform?usp=sf_link
 
 ~Workshops will be presented primarily in conversation with our thematic programs
@@ -43,7 +43,7 @@ workshop proposal that relates to their film's subject matter or material practi
 ~No previous teaching experience is required to teach a workshop.
 
 CALL FOR GUEST PROGRAMS:
-https://docs.google.com/forms/d/e/1FAIpQLSforaih3uU8J-
+[https://docs.google.com/forms/d/e/1FAIpQLSforaih3uU8J-](https://docs.google.com/forms/d/e/1FAIpQLSforaih3uU8J-)
 FNcUZ_6ILlZ7XjbVrAfdp_3QIiKGy-n02agg/viewform?usp=sf_link
 
 ~Applicants are welcome and encouraged to submit workshop proposals that
@@ -78,7 +78,7 @@ within and beyond "Vancouver", BC to strengthen and preserve the experimental fi
 scene.
 
 Website: www.xinema.ca
-Instagram: https://www.instagram.com/xin3ma/
+Instagram: [https://www.instagram.com/xin3ma/](https://www.instagram.com/xin3ma/)
 
 47. SELLing/WANTing/RENTing/SUBLETing/ANNOUNCINGing
 1.
@@ -119,8 +119,8 @@ Location: downtown Vancouver near Burrard Station.
 Contact: Alecska at operations@billreidgallery.ca
 
 Photos:
-https://cdn.shopify.com/s/files/1/2457/3259/files/large_crate_PXL_20240308_20313829
+[https://cdn.shopify.com/s/files/1/2457/3259/files/large_crate_PXL_20240308_20313829](https://cdn.shopify.com/s/files/1/2457/3259/files/large_crate_PXL_20240308_20313829)
 1.jpg?v=1712793276
 
-https://cdn.shopify.com/s/files/1/2457/3259/files/large_crate_PXL_20240226_23533943
+[https://cdn.shopify.com/s/files/1/2457/3259/files/large_crate_PXL_20240226_23533943](https://cdn.shopify.com/s/files/1/2457/3259/files/large_crate_PXL_20240226_23533943)
 8.jpg?v=1712793277

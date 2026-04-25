@@ -10,7 +10,7 @@ summary: "WORKSHOP | VIVO | Audio Story-crafting and poetics | JUN 23"
 
 Audio Story-crafting & Poetics (workshop)
 
-SIGN UP & MORE INFO: https://audio-storycrafting.eventbrite.ca
+SIGN UP & MORE INFO: [https://audio-storycrafting.eventbrite.ca](https://audio-storycrafting.eventbrite.ca)
 
 Stimulate your sonic imagination and learn to use sound to evoke
 multi-dimensional storytelling with soundscape researcher & composer Helena
@@ -24,7 +24,7 @@ Session 2: Sat June 30, 1pm-5pm
 Session 3: Sat July 7, 1pm-5pm
 
 One extended subsidy is available for this workshop:
-https://goo.gl/forms/a15PkihcZ89PTIkF2
+[https://goo.gl/forms/a15PkihcZ89PTIkF2](https://goo.gl/forms/a15PkihcZ89PTIkF2)
 
 This workshop will enable you to make better use of your current sonic
 palette and enrich your storytelling ability with an expanded awareness of

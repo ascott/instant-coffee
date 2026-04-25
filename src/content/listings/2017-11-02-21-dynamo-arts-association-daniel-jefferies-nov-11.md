@@ -17,7 +17,7 @@ Saturday, November 11th, 2017
 
 Suite 103 - 30 East 6th Ave, Vancouver, BC V5T 1J4
 
-http://www.dynamoarts.ca/
+[http://www.dynamoarts.ca/](http://www.dynamoarts.ca/)
 dynamo.arts.assoc@gmail.com
 
 Hours: Wednesday, Saturday " Sunday, 12:00 - 5:00 PM

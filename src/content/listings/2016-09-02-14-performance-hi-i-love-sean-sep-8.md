@@ -14,7 +14,7 @@ Thursday Sept. 8th, 8:00pm
 Friday Sept. 9th, 8:00pm 
 Saturday Sept. 10th, 7:30 pm and 10 pm
 
-Trailer : https://www.youtube.com/watch?v=bfkz84pzwVE
+Trailer : [https://www.youtube.com/watch?v=bfkz84pzwVE](https://www.youtube.com/watch?v=bfkz84pzwVE)
 
 "Three to three hundred women in pursuit of high ground between 
 dreams, reality, and reality TV. 2016 Kilroys List Honorable 
@@ -30,7 +30,7 @@ Little, Catherine Falkner, Kimberly Ho, Karla Leon
 Stage manager Xin Xuan Song
 Lighting desing by Gabriel Raminhos 
 
-TICKETS HERE : https://www.eventbrite.ca/e/performance-hi-
+TICKETS HERE : [https://www.eventbrite.ca/e/performance-hi-](https://www.eventbrite.ca/e/performance-hi-)
 presents-i-love-sean-by-sarah-einspanier-tickets-27132082790?
 utm_term=eventurl_text
 

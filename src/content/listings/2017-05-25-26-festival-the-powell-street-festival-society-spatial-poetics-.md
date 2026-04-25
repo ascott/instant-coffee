@@ -65,7 +65,7 @@ Columbia, and the City of Vancouver.
 -30-
 
 For press materials, please visit:
-http://www.powellstreetfestival.com/festival2017/media/
+[http://www.powellstreetfestival.com/festival2017/media/](http://www.powellstreetfestival.com/festival2017/media/)
 
 For media inquiries, please contact:
 Owen Cameron

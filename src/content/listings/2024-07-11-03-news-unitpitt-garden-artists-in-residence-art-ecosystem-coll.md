@@ -40,4 +40,4 @@ gatherings, workshops and creative collaborations within the arts while members
 grow their own creative and organizational practices.
 
 More information can be found on the project page.
-http://https://www.unitpitt.ca/portfolio/artists-in-resid
+[http://https://www.unitpitt.ca/portfolio/artists-in-resid](http://https://www.unitpitt.ca/portfolio/artists-in-resid)

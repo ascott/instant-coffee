@@ -80,7 +80,7 @@ artwork from the Hatchery show sets the stage. The pictures from TOO
 TRUE provide the frame for a sound system. A video from Jump In, It’s 
 Warm projects the surface of a bar. And so on, and so...
 
-http://k007.kiwi6.com/hotlink/y8nkkzq03x/Balmoral_tone.wav
+[http://k007.kiwi6.com/hotlink/y8nkkzq03x/Balmoral_tone.wav](http://k007.kiwi6.com/hotlink/y8nkkzq03x/Balmoral_tone.wav)
 
 165 E. Hastings St.
 Vancouver, British Columbia

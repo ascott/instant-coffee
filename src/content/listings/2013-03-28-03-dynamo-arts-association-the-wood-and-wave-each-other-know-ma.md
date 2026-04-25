@@ -67,7 +67,7 @@ Alberta College of Art & Design.
 
 Presented by Ship, an exhibition series programmed by Kuh del Rosario and 
 Warren McLachlan @ Dynamo Arts Association. 
-http://cargocollective.com/_Ship_Art_
+[http://cargocollective.com/_Ship_Art_](http://cargocollective.com/_Ship_Art_)
 
 Open March 28 - 30, 12 – 5 or by appointment through to April 7th. 
 

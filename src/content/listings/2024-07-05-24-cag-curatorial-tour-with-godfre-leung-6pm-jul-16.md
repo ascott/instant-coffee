@@ -17,4 +17,4 @@ CAGs Curator Godfre Leung for a walkthrough of the current exhibitions,
 Rochelle Goldberg: Sun Moon Stars and Zoe Leonard: View from Below. No advance
 registration required.
 
-https://cagvancouver.org/event/curatorial-tour-july-16-2024
+[https://cagvancouver.org/event/curatorial-tour-july-16-2024](https://cagvancouver.org/event/curatorial-tour-july-16-2024)

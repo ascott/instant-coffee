@@ -36,7 +36,7 @@ Canada Line Station as part of Capture Photography Festival 2020. Watch the desc
 video here
 
 Read more about the artist here.
-https://accessgallery.ca/programming/wanderings?utm_source=E-
+[https://accessgallery.ca/programming/wanderings?utm_source=E-](https://accessgallery.ca/programming/wanderings?utm_source=E-)
 list&utm_campaign=0eca2c4328-
 EMAIL_CAMPAIGN_2019_11_27_06_14_COPY_01&utm_medium=email&utm_term=0_7
 4a095c09f-0eca2c4328-295247481

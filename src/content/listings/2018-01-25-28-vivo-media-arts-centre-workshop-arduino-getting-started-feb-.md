@@ -12,7 +12,7 @@ Arduino: Getting Started
 
 Buy 1 and your 13 yr old attends FREE!!
 
-SIGN UP & MORE INFO: https://arduino-getting-started.eventbrite.ca
+SIGN UP & MORE INFO: [https://arduino-getting-started.eventbrite.ca](https://arduino-getting-started.eventbrite.ca)
 
 Discover a new dimension to creative electronics in this in-depth intro to Arduino 
 microcontroller & software, taught by Maker Cube!
@@ -28,7 +28,7 @@ Session 3: Sat Mar 3, 1pm-5pm
 Session 4: Sat Mar 10, 1pm-5pm
 Session 5: Sat Mar 17, 1pm-5pm
 
-SIGN UP & MORE INFO: https://arduino-getting-started.eventbrite.ca
+SIGN UP & MORE INFO: [https://arduino-getting-started.eventbrite.ca](https://arduino-getting-started.eventbrite.ca)
 
 You won't find such a thorough intro to Arduino with materials included anywhere else!
 

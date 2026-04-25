@@ -26,8 +26,8 @@ into the longest symphony ever written, lasting from 90 to 100 minutes. The
 painting is based on the
 6th movement "What Love Tells Me" homonym to the title of the painting.
 
-http://www.brucepashak.com/
-http://www.vivariumgallery.com/
+[http://www.brucepashak.com/](http://www.brucepashak.com/)
+[http://www.vivariumgallery.com/](http://www.vivariumgallery.com/)
 
 BIO
 

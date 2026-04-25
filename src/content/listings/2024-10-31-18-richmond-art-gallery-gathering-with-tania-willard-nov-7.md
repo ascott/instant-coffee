@@ -22,7 +22,7 @@ sovereignty. In this convivial setting, she will also activate a new ceramic ves
 made in collaboration with potter Jesse Birch, for her ongoing tea series.
 
 Free admission. RSVPs appreciated.
-RSVP: https://www.eventbrite.ca/e/gathering-with-tania-willard-tickets-
+RSVP: [https://www.eventbrite.ca/e/gathering-with-tania-willard-tickets-](https://www.eventbrite.ca/e/gathering-with-tania-willard-tickets-)
 1059195224429
 
 About the Artist:
@@ -40,10 +40,10 @@ Contemporary Art. In 2020, the Shadbolt
 Foundation awarded her their VIVA Award
 for outstanding achievement and commitment in her art practice, and in 2022, she
 was named a Forge Project Fellow for her land-based, community-engaged artistic
-practice. https://www.taniawillard.ca/
+practice. [https://www.taniawillard.ca/](https://www.taniawillard.ca/)
 
 More info about the FOODWAYS exhibition:
-https://www.richmondartgallery.org/foodways
+[https://www.richmondartgallery.org/foodways](https://www.richmondartgallery.org/foodways)
 
-More Richmond Art Gallery events: https://www.richmondartgallery.org/upcoming-
+More Richmond Art Gallery events: [https://www.richmondartgallery.org/upcoming-](https://www.richmondartgallery.org/upcoming-)
 events

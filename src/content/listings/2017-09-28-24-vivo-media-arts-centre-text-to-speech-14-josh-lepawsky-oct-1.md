@@ -17,4 +17,4 @@ Lepawsky will be in attendance!
 For more details, or to request a PDF of the reading, contact 
 education@vivomediaarts.com
 
-More info here: https://www.facebook.com/events/1947235708661890/
+More info here: [https://www.facebook.com/events/1947235708661890/](https://www.facebook.com/events/1947235708661890/)

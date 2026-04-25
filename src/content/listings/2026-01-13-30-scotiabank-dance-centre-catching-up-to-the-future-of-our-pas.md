@@ -29,5 +29,5 @@ By James Gnam and Natalie LeFebvre Gnam, Plastic Orchid Factory
 Jan 30 (8 PM) & Jan 31 (4 PM) 2026
 Venue: Scotiabank Dance Centre | 677 Davie St, MST Territories
 
-Info and Tickets: Price$39/$59; https://pushfestival.ca/shows/catching-up-to-the-future-of-our-
+Info and Tickets: Price$39/$59; [https://pushfestival.ca/shows/catching-up-to-the-future-of-our-](https://pushfestival.ca/shows/catching-up-to-the-future-of-our-)
 past/

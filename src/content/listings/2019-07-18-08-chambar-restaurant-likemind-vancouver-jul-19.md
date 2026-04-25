@@ -18,4 +18,4 @@ Likemind's motto is "Skip what you do and tell us about what you love" which pre
 much sums it up: No speakers, no agenda, no selling or networking"just conversation 
 and FREE coffee!
 
-More info: https://www.facebook.com/events/845891135767066/
+More info: [https://www.facebook.com/events/845891135767066/](https://www.facebook.com/events/845891135767066/)

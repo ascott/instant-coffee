@@ -17,10 +17,10 @@ early access to our upcoming exhibitions and special events.
 
 We have many exciting opportunities coming up in July-inquire now!
 
-To learn more: https://cicavancouver.com/volunteer/
+To learn more: [https://cicavancouver.com/volunteer/](https://cicavancouver.com/volunteer/)
 
 To apply:
-https://docs.google.com/forms/d/e/1FAIpQLSfR0UZAxMyW_vU4OnXWlmSQkgZggDM
+[https://docs.google.com/forms/d/e/1FAIpQLSfR0UZAxMyW_vU4OnXWlmSQkgZggDM](https://docs.google.com/forms/d/e/1FAIpQLSfR0UZAxMyW_vU4OnXWlmSQkgZggDM)
 c4KhuCZEGNY9IuxZhSw/viewform
 
 For inquiries, please email: info@cicavancouver.com

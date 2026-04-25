@@ -40,7 +40,7 @@ Nadu and Pondicherry, plus the Andaman Islands.
 Admission: $15 per lecture. Course #52631
 
 Register at 604-925-7270 or online 
-https://ca.apm.activecommunities.com/westvanrec/Activity_Search/ultimate-traveller-
+[https://ca.apm.activecommunities.com/westvanrec/Activity_Search/ultimate-traveller-](https://ca.apm.activecommunities.com/westvanrec/Activity_Search/ultimate-traveller-)
 impressions-of-india-part-3/49598
 
 Drop-ins also welcome (space permitting).

@@ -34,7 +34,7 @@ as ‘Hanging out with Halo Jones’, with Dr Maggie Grey and ‘DMT and the God
 with a Thousand Eyes’ with Dr Dave Jones.
 
 This exhibition is presented by SHIP 
-http://cargocollective.com/_Ship_Art_/
+[http://cargocollective.com/_Ship_Art_/](http://cargocollective.com/_Ship_Art_/)
 
 Dynamo Arts Association
 Suite 103 - 30 East 6th Ave

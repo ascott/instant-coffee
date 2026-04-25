@@ -30,7 +30,7 @@ Zenith, passing through Strange Songs, eXistence, and Utopia on the way.
 Laura Lamb is an artist who enjoys the modernist mythos. She has created
 bodies of work in video and photography, which have been exhibited and
 collected nationally and internationally. Laura lives and works in
-Vancouver. http://lauralamb.ca/
+Vancouver. [http://lauralamb.ca/](http://lauralamb.ca/)
 
 Libby Leshgold Gallery and READ Books acknowledge that this event is
 located on the unceded territory of the Coast Salish Peoples, including the

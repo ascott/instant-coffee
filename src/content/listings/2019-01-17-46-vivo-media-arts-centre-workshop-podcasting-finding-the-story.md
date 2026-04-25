@@ -10,7 +10,7 @@ summary: "VIVO Media Arts Centre | WORKSHOP | Podcasting: Finding the Story | FE
 
 Podcasting: Finding the Story
 
-SIGN UP & MORE INFO: https://podcasting.eventbrite.ca/
+SIGN UP & MORE INFO: [https://podcasting.eventbrite.ca/](https://podcasting.eventbrite.ca/)
 
 Learn radio interviewing, reporting, and audio storytelling in this podcasting primer with 
 producer-journalists Madeline Taylor & Alex de Boer of UBC radio CiTR 101.9 FM!
@@ -27,4 +27,4 @@ radio story production. Youll pair up with a partner to record. Then through han
 exercises, youll practice the skills you need to create your own podcast.
 
 One extended subsidy is available for this workshop:
-https://goo.gl/forms/6AEk1dTTVmj44NT62
+[https://goo.gl/forms/6AEk1dTTVmj44NT62](https://goo.gl/forms/6AEk1dTTVmj44NT62)

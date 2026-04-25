@@ -45,4 +45,4 @@ Hours: Window gallery & online gallery available 24/7. By appointment for inside
 Contact: outsidersandothers@gmail.com
 
 
-http://www.outsidersandothers.com
+[http://www.outsidersandothers.com](http://www.outsidersandothers.com)

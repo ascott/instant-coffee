@@ -11,7 +11,7 @@ summary: "SCREENING | Centre A Gallery | Four Films by Tuan Andrew Nguyen | 7PM 
 Centre A
 268 Keefer Street
 7PM
-https://www.eventbrite.ca/e/four-films-by-tuan-andrew-nguyen-tickets-51221663374
+[https://www.eventbrite.ca/e/four-films-by-tuan-andrew-nguyen-tickets-51221663374](https://www.eventbrite.ca/e/four-films-by-tuan-andrew-nguyen-tickets-51221663374)
 
 This program will last approximately one hour and thirty minutes, including
 a short introduction to the artists work by new Centre A curator Godfre Leung

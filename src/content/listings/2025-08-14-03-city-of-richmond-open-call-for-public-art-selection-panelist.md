@@ -31,4 +31,4 @@ will receive an honorarium between $100 and $300.
 The deadline to apply is Friday, November 28, 2025.
 
 Details and an application form can be found at
-https://www.richmond.ca/culture/howartworks/publicart/artist-calls.htm.
+[https://www.richmond.ca/culture/howartworks/publicart/artist-calls.htm](https://www.richmond.ca/culture/howartworks/publicart/artist-calls.htm).

@@ -23,7 +23,7 @@ be the third selection of "letters" for a reading performance by Jeremy,
 incorporating projected images and live electronic music composed and
 performed by GRAHAM MEISNER. Jeremy is an interdisciplinary artist,
 teacher, writer, musician and curator living and working in Vancouver.
-Visit the project here: http://www.notsentletters.blogspot.com
+Visit the project here: [http://www.notsentletters.blogspot.com](http://www.notsentletters.blogspot.com)
 
 MATILDA ASLIZADEH works primarily in the mediums of video and photography
 and has exhibited her work internationally. Her video, Hero of Our Time, is

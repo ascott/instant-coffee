@@ -14,7 +14,7 @@ Exhibition Opening, June 24, 6pm-8pm
 
 CityScape Gallery, 335 Lonsdale Ave, North Vancouver, BC V7M 2G3
 
-https://northvanarts.ca/events-exhibitions/figures-faces/
+[https://northvanarts.ca/events-exhibitions/figures-faces/](https://northvanarts.ca/events-exhibitions/figures-faces/)
 
 Figures & Faces - North Van Arts
 Figures & Faces is an upcoming members exhibition celebrating the work of over 20

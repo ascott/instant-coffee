@@ -52,6 +52,6 @@ Contact:
 
 www.robertlyndsgallery.com
 
-https://www.facebook.com/robertlyndsgallery
+[https://www.facebook.com/robertlyndsgallery](https://www.facebook.com/robertlyndsgallery)
 
-http://twitter.com/rlgallery
+[http://twitter.com/rlgallery](http://twitter.com/rlgallery)

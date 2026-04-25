@@ -82,7 +82,7 @@ Please fill out an application at www.artscapegibraltarpoint.ca. Please
 remember to indicate that you are applying to Alchemy 2019 @ AGP 
 and indicate the type of accommodation you would require.
 
-To apply, fill out the online form: http://artscapegibraltarpoint.ca/artist-
+To apply, fill out the online form: [http://artscapegibraltarpoint.ca/artist-](http://artscapegibraltarpoint.ca/artist-)
 residences/book-a-residency//
 
 *include your website or link to your work and indicate you are applying 

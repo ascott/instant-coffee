@@ -43,7 +43,7 @@ Todd instigates each event as an extension of his ongoing Not Sent
 Letters Project, an entanglement with the production of meaning, self
 and cultural memory, involving image/text epistolary detours online
 (since 2005), digital shorts, interdisciplinary performance works and
-cooperatively realized public events: http://notsentlettersproject.com
+cooperatively realized public events: [http://notsentlettersproject.com](http://notsentlettersproject.com)
 
 This is the twentieth NOT SENT LETTERS & GUESTS event.
 
@@ -93,10 +93,10 @@ BRONAUGH. The work incorporates performance, projections, live
 scoring, and play, with a first letter to Clotho, Lachesis and Atropos, a
 second letter to My Waking Self and a third letter to Julia, selected and
 read from the project archive:
-http://notsentlettersproject.com/category/letters
+[http://notsentlettersproject.com/category/letters](http://notsentlettersproject.com/category/letters)
 
 EXPLORE previous Not Sent Letters & Guests events here:
-http://notsentlettersproject.com/category/events
+[http://notsentlettersproject.com/category/events](http://notsentlettersproject.com/category/events)
 
 Please email Jeremy Todd to host or contribute to a future Not Sent
 Letters & Guests event: jeremytodd@notsentlettersproject.com

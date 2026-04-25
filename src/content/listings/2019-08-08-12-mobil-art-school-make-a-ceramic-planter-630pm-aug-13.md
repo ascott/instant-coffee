@@ -25,4 +25,4 @@ Pieces will be fired and glazed and can be picked approximately 2 weeks after
 completion of the class. $63
 Sorry, we are unable to accommodate drop-ins. Please pre-register and read our FAQ.
 
-https://www.mobil-art.ca/event-info/make-a-ceramic-planter-2
+[https://www.mobil-art.ca/event-info/make-a-ceramic-planter-2](https://www.mobil-art.ca/event-info/make-a-ceramic-planter-2)

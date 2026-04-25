@@ -36,7 +36,7 @@ Lafarge Lake-Douglas Skytrain Station.
 twilight" is on view at the Art Gallery at
 Evergreen from September 5-November 17, 2024. Visit our
 website for more
-information: https://evergreenculturalcentre.ca/upcoming-exhibition/
+information: [https://evergreenculturalcentre.ca/upcoming-exhibition/](https://evergreenculturalcentre.ca/upcoming-exhibition/)
 
 About the artist:
 Cindy Mochizuki creates multimedia installations, audio fiction, performances,

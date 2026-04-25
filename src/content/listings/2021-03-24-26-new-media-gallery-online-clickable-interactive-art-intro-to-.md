@@ -17,12 +17,12 @@ and fun. Participants will learn how to lay out visual elements using the Figma 
 to create simple animations and create clickable interactions. These are all ideas we can
 explore together during this workshop.
 For this class, you will need: a computer. You can create a free account and download
-Figma before the class. https://www.figma.com/pricing/
+Figma before the class. [https://www.figma.com/pricing/](https://www.figma.com/pricing/)
 Ages 16+
 Saturdays, Apr 10 + 17
 1:00pm - 2:30pm
 Virtual - Zoom
-https://bit.ly/2Z13mYx
+[https://bit.ly/2Z13mYx](https://bit.ly/2Z13mYx)
 Fee: $20 (2 classes)
 Instructor: Sara Korzec
 REGISTER : 604.515.3834

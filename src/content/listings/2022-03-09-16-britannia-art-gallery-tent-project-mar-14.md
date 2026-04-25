@@ -25,5 +25,5 @@ Submission deadline: March 14, 2022
 Artist
 fee: $500
 
-To learn more, visit: https://www.britanniacentre.org/facilities/community_centre/carving-
+To learn more, visit: [https://www.britanniacentre.org/facilities/community_centre/carving-](https://www.britanniacentre.org/facilities/community_centre/carving-)
 centre/articles/1088.php

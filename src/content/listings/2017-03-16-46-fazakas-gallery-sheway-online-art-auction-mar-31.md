@@ -12,13 +12,13 @@ Fazakas Gallery is pleased to host an online art auction in partnership with VGH
 & UBC Hospital Foundation to benefit Sheway, a pregnancy outreach program 
 located in Vancouver's Downtown Eastside. The auction is live and ends on 
 March 31st at 6pm. Visit our auction page to bid on artworks and help support 
-this cause: http://www.fazakasgallery.com/auctions/
+this cause: [http://www.fazakasgallery.com/auctions/](http://www.fazakasgallery.com/auctions/)
 
 You can also visit the VGH & UBC Hospital Foundation's page to donate to this 
 great cause:
-http://support.vghfoundation.ca/site/TR?team_id=1180&fr_id=1100&pg=team
+[http://support.vghfoundation.ca/site/TR?team_id=1180&fr_id=1100&pg=team](http://support.vghfoundation.ca/site/TR?team_id=1180&fr_id=1100&pg=team)
 
-Learn more about Sheway at http://sheway.vcn.bc.ca/.
+Learn more about Sheway at [http://sheway.vcn.bc.ca/](http://sheway.vcn.bc.ca/).
 
 About VGH & UBC Hospital Foundation
 VGH & UBC Hospital Foundation is Vancouver Coastal Health's primary 
@@ -31,4 +31,4 @@ Services.
 Fazakas Gallery 
 688 East Hastings Street 
 Vancouver BC V6A 1R1
-http://www.fazakasgallery.com/
+[http://www.fazakasgallery.com/](http://www.fazakasgallery.com/)

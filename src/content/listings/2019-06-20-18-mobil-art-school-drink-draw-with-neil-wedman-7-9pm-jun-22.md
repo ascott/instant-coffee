@@ -17,4 +17,4 @@ Wedman. No experience necessary, just grab a pen (or bring your own), start draw
 meet new friends in a casual environment. There will be music, drinks for a fee.
 $10, Cash Bar, 19+ only, No Minors
 
-https://www.mobil-art.ca/event-info/drink-draw-saturday-june-22nd-with-neil-wedman
+[https://www.mobil-art.ca/event-info/drink-draw-saturday-june-22nd-with-neil-wedman](https://www.mobil-art.ca/event-info/drink-draw-saturday-june-22nd-with-neil-wedman)

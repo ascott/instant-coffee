@@ -25,7 +25,7 @@ friendly activities. MOAs reopening this summer coincides with the 75th annivers
 of the Museums opening to the public. For further reopening details and exhibition
 information, visit: moa.ubc.ca
 
-Link: https://moa.ubc.ca/event/moas-reopening-night/
+Link: [https://moa.ubc.ca/event/moas-reopening-night/](https://moa.ubc.ca/event/moas-reopening-night/)
 
 Venue: Museum of Anthropology at the University of British Columbia
 

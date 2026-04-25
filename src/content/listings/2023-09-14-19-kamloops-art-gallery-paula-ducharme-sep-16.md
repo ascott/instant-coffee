@@ -33,4 +33,4 @@ Tob Tob Kin is curated by Craig Willms.
 Generously sponsored by Wilson M. Beck Insurance Services Inc.
 
 Read the full exhibition text here:
-https://kag.bc.ca/all-exhibitions/tob-tob-kin
+[https://kag.bc.ca/all-exhibitions/tob-tob-kin](https://kag.bc.ca/all-exhibitions/tob-tob-kin)

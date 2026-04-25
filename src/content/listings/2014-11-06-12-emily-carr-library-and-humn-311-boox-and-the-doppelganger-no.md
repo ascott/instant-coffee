@@ -71,5 +71,5 @@ Publishing.
 Emily Carr University Library
 1400 Johnston Street
 Vancouver, BC V6H 3R9
-http://www.ecuad.ca/library
-http://blogs.eciad.ca/artistbookcollection
+[http://www.ecuad.ca/library](http://www.ecuad.ca/library)
+[http://blogs.eciad.ca/artistbookcollection](http://blogs.eciad.ca/artistbookcollection)

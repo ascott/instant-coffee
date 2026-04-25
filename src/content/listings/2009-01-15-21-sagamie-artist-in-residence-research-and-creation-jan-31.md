@@ -63,7 +63,7 @@ Québec et par le Conseil des Arts du Canada. Le Centre SAGAMIE remercie
 de stabilisation et de consolidation des arts et de la culture du Québec,
 le CRCD, Emploi Québec, le CRC, le CLD, Le Groupe A&A, Canon, ainsi que ses
 300 membres pour leur soutien financier. Le Centre SAGAMIE est membre du
-Regroupement des centres d'artistes autogérés du Québec, http://www.rcaaq.org/
+Regroupement des centres d'artistes autogérés du Québec, [http://www.rcaaq.org/](http://www.rcaaq.org/)
 
 The SAGAMIE Centre receives support from the Conseil des arts et des
 lettres du Québec and the Canada Council for the Arts. The SAGAMIE Centre
@@ -72,11 +72,11 @@ is also grateful to the City of Alma, the Conférence Régionale des Élus
 culture du Québec, the CRCD, Emploi Québec, the CRC, the CLD, Groupe A&A,
 Canon, and its 300 membres for their financial support. The SAGAMIE Centre
 is a member of the Regroupement des centres d'artistes autogérés du Québec
-http://www.rcaaq.org/
+[http://www.rcaaq.org/](http://www.rcaaq.org/)
 
 SAGAMIE
 LE CENTRE NATIONAL DE RECHERCHE ET DIFFUSION EN ARTS CONTEMPORAINS NUMÉRIQUES
 THE NATIONAL RESEARCH AND EXHIBITION CENTRE FOR CONTEMPORARY DIGITAL ART
 50, St-Joseph, C.P. 517, Alma, (Québec), G8B 5W1, téléphone et télécopie :
 (418) 662-7280
-sagamie@cgocable.ca http://www.sagamie.com/
+sagamie@cgocable.ca [http://www.sagamie.com/](http://www.sagamie.com/)

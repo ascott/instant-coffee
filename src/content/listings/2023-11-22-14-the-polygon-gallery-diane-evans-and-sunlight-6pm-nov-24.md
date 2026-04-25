@@ -16,7 +16,7 @@ Remarks at 6:30pm
 
 RSVPs are helpful
 
-RSVP here: https://thepolygon.ca/event/diane-evans-photography-opening-
+RSVP here: [https://thepolygon.ca/event/diane-evans-photography-opening-](https://thepolygon.ca/event/diane-evans-photography-opening-)
 celebration/
 
 Diane Evans and Sunlight is on view November 24 " March 10 in The Polygon's

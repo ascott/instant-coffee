@@ -82,7 +82,7 @@ infamous porn theatre at 2321 Main Street into a new kind of venue.
 The partners, who take possession on July 1st, are planning an 
 extensive renovation and are hoping for a launch in early Fall.
 
-Read more about the Fox here: http://mad.ly/0c5983
+Read more about the Fox here: [http://mad.ly/0c5983](http://mad.ly/0c5983)
 
 For more information or to request interviews please contact:
 

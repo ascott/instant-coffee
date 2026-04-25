@@ -12,7 +12,7 @@ VIVO Media Arts
 Screening: Carrying the Flame: A film night for Prisoners Justice Day
 Wednesday July 31, 2024
 6.30pm
-FREE - RSVP here: https://www.showpass.com/vivo-media-arts-carrying-the-flame/
+FREE - RSVP here: [https://www.showpass.com/vivo-media-arts-carrying-the-flame/](https://www.showpass.com/vivo-media-arts-carrying-the-flame/)
 
 Join us at VIVO Media Arts on July 31 at 6.30 for Carrying the Flame: A film night for
 Prisoners Justice Day, honouring those who have died inside prisons, jails, lockups,
@@ -50,4 +50,4 @@ television series Instead of Prisons between 1978 and 1983. Culhane, who hosted
 the program, conducted interviews with prisoners and prisoner rights advocates from
 Canada, the United States, and Ireland.
 
-Showcase Link: https://vimeo.com/showcase/8149915?share=copy.
+Showcase Link: [https://vimeo.com/showcase/8149915?share=copy](https://vimeo.com/showcase/8149915?share=copy).

@@ -25,8 +25,8 @@ Beethoven, found sounds and objects.
 
 This event is free, and all materials will be provided.
 Places are limited.
-http://www.instantcoffee.org/projects/shows/wf.phtml
-http://front.bc.ca/exhibitions/events/3427
+[http://www.instantcoffee.org/projects/shows/wf.phtml](http://www.instantcoffee.org/projects/shows/wf.phtml)
+[http://front.bc.ca/exhibitions/events/3427](http://front.bc.ca/exhibitions/events/3427)
 
 The Drawing Salon is a traveling program of drawing workshops led 
 by

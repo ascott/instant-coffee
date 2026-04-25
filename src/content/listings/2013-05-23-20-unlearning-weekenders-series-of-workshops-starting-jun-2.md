@@ -38,8 +38,8 @@ intuition, spirituality, deep connection, getting wild, dancing in the
 streets, ecstatic celebration.
 
 MORE INFO:
-http://unlearning-weekenders.tumblr.com/
-http://publicdreams.org/
+[http://unlearning-weekenders.tumblr.com/](http://unlearning-weekenders.tumblr.com/)
+[http://publicdreams.org/](http://publicdreams.org/)
 
 *contact us for details: unlearningweekenders@gmail.com
 

@@ -47,7 +47,7 @@ rsvp to info@artsassembly.ca, reading packs will be provided in a pdf.
 Please advise if you require a printed pack.
 
 Further information about tutma can be found at
-https://www.artsassembly.ca/common-ground.
+[https://www.artsassembly.ca/common-ground](https://www.artsassembly.ca/common-ground).
 
 
 ARTS ASSEMBLY acknowledges the Squamish, Musqueam, and Tsleil-Waututh

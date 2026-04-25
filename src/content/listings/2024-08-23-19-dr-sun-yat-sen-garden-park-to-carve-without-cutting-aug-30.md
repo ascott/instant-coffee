@@ -16,7 +16,7 @@ August 31 to September 28 to view the exhibition to carve without cutting, curat
 Asia Jong and presented by
 UNIT/PITT.
 
-Admission is free by reservation at the following link: https://www.eventbrite.ca/e/to-
+Admission is free by reservation at the following link: [https://www.eventbrite.ca/e/to-](https://www.eventbrite.ca/e/to-)
 carve-without-cutting-tickets-999468967587?aff=oddtdtcreator
 
 Both entrances to the Garden and the Park are located at 578 Carrall Street. Please
@@ -51,7 +51,7 @@ Amy Ching-Yan Lam & Robin Simpson
 Lou Lou Sainsbury & Gabi Dao
 Erin Skiffington & Landon Lim
 
-More information: https://www.unitpitt.ca/portfolio/to-carve-without-cutting/
+More information: [https://www.unitpitt.ca/portfolio/to-carve-without-cutting/](https://www.unitpitt.ca/portfolio/to-carve-without-cutting/)
 
 Dr. Sun Yat-Sen Classical Chinese Garden is a cultural heritage site and registered
 museum located in the heart of Vancouvers Chinatown. Managed by The Dr. Sun

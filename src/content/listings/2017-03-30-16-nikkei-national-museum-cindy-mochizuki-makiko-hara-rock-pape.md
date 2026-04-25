@@ -24,7 +24,7 @@ In 2017, as we enter Canadas 150th year, and the 75th anniversary of the
 internment of Japanese Canadians, this exhibit imagines the complexity of 
 history through a transpacific, speculative fiction.
 
-https://www.rockpaperscissors-project.com/
+[https://www.rockpaperscissors-project.com/](https://www.rockpaperscissors-project.com/)
 
 Nikkei National Museum & Cultural Centre
 6688 Southoaks Crescent, Burnaby (corner of Kingsway & Sperling)

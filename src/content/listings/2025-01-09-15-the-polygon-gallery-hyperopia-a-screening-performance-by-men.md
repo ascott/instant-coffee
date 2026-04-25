@@ -24,7 +24,7 @@ Screening performance begins at 7:00pm
 
 Please note this event takes place inside the main exhibition gallery
 RSVPs are appreciated
-RSVP Here: https://thepolygon.ca/event/hyperopia-a-screening-performance-by-
+RSVP Here: [https://thepolygon.ca/event/hyperopia-a-screening-performance-by-](https://thepolygon.ca/event/hyperopia-a-screening-performance-by-)
 mena-el-shazly/
 
 About Mena El Shazly

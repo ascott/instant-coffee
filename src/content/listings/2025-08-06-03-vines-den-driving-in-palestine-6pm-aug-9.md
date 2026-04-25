@@ -20,7 +20,7 @@ Opening night and Artist Talk: August 9th 6pm - 9pm
 
 Closing night and Auction: August 30 6pm - 9pm
 
-https://drivinginpalestine.cargo.site/
+[https://drivinginpalestine.cargo.site/](https://drivinginpalestine.cargo.site/)
 
 To drive in Palestine is to pass through a landscape cut by walls, watchtowers,
 gates, and fences"where every turn, every stretch of road, is marked by a regime of
@@ -50,14 +50,14 @@ duration of the show. All funds will go toward supporting Amani, a young
 girl from Palestine who was featured in Vibrations from Gaza (2023), Nazzals
 documentary film on the Atfaluna Society for Deaf Children.
 
-Venue Accessibility: https://docs.google.com/document/d/1v3_YYoL-
+Venue Accessibility: [https://docs.google.com/document/d/1v3_YYoL-](https://docs.google.com/document/d/1v3_YYoL-)
 MebhsDDJO2J1vDU-W-Z-KaVi280BeqKMd_k/edit?
 pli=1&tab=t.0#heading=h.2t4x7o4xj5yg
 
-Freedom School event registration: https://events.humanitix.com/host/freedom-
+Freedom School event registration: [https://events.humanitix.com/host/freedom-](https://events.humanitix.com/host/freedom-)
 school-a-people-s-university
 
-Driving in Palestine event auction: https://app.galabid.com/drivinginpalestine/items
+Driving in Palestine event auction: [https://app.galabid.com/drivinginpalestine/items](https://app.galabid.com/drivinginpalestine/items)
 
 Presented by Vines Art Society and SAW, in conjunction with the 11th Annual Vines
 Art Festival. The exhibition tour is organized by SAW and supported by the Canada

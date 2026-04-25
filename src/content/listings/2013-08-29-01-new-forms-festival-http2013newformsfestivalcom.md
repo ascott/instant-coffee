@@ -45,7 +45,7 @@ Tickets and Festival passes now available online and at Red Cat Records.
 
 For more information, ticket info and full artist schedules:
 
-http://www.newformsfestival.com/
-https://www.facebook.com/pages/New-Forms-Festival/129485095212
-https://www.facebook.com/pages/New-Forms-Festival/129485095212?
+[http://www.newformsfestival.com/](http://www.newformsfestival.com/)
+[https://www.facebook.com/pages/New-Forms-Festival/129485095212](https://www.facebook.com/pages/New-Forms-Festival/129485095212)
+[https://www.facebook.com/pages/New-Forms-Festival/129485095212](https://www.facebook.com/pages/New-Forms-Festival/129485095212)?
 id=129485095212&sk=events

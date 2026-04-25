@@ -13,10 +13,10 @@ Keep NSCAD University intact and independent!
 Share this email with your friends and colleagues around the world! 
 
 Please, if you would, read the letter below, and SIGN THE PETITION HERE: 
-http://www.change.org/petitions/keep-nscad-university-intact-and-independent
+[http://www.change.org/petitions/keep-nscad-university-intact-and-independent](http://www.change.org/petitions/keep-nscad-university-intact-and-independent)
 
 Join the Friends of NSCAD on Facebook 
-http://www.facebook.com/groups/104572689655104
+[http://www.facebook.com/groups/104572689655104](http://www.facebook.com/groups/104572689655104)
 
 A strong show of support will make the difference for NSCAD's future as an 
 autonomous educational institutions.
@@ -170,4 +170,4 @@ ARTS NOVA Cultural Research and Consulting
 www.novascotiaarts.com/artsnova.htm
 
 There are many more letters posted on the Facebook group. Check them out at 
-http://www.facebook.com/groups/104572689655104
+[http://www.facebook.com/groups/104572689655104](http://www.facebook.com/groups/104572689655104)

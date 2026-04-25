@@ -11,7 +11,7 @@ summary: "Red Gate Arts Society | Call for Submissions - Red Gate TV Show! | DEC
 Submissions are open for the inaugural Red Gate TV Show! Video Art, Short Films,
 Music Videos" and everything in between"are all welcome. Shorter works ( less than
 10min) are preferred. Submit by January 10th through this Google Form:
-https://forms.gle/hRY5chtwBv4gPqjc9. Selected works will be screened for physical
+[https://forms.gle/hRY5chtwBv4gPqjc9](https://forms.gle/hRY5chtwBv4gPqjc9). Selected works will be screened for physical
 experience on January 23rd, 2024 at 8:00pm at Red Gate (1965 Main Street) and
 screened ad infinitum at www.redgate.tv.
 

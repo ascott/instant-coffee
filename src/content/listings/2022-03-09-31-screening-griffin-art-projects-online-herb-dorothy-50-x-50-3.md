@@ -9,7 +9,7 @@ summary: "SCREENING | Griffin Art Projects [ONLINE] | Herb & Dorothy 50 x 50 | 3
 ---
 
 Registration link:
-https://us06web.zoom.us/webinar/register/WN_of7zYyLmSvODJTJK0eWOaw
+[https://us06web.zoom.us/webinar/register/WN_of7zYyLmSvODJTJK0eWOaw](https://us06web.zoom.us/webinar/register/WN_of7zYyLmSvODJTJK0eWOaw)
 
 50 works of art to 50 states. 2500 extraordinary gifts from one ordinary couple.
 

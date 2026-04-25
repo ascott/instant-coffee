@@ -21,4 +21,4 @@ youths lives today, another group jams with local musicians to create new tracks
 someone has even imagined a melodrama of conflict and romance between the notes on
 a musical scale. Episodes air weekly from 8pm-10pm on Fridays starting November 20th.
 Tune into CJSF at 90.1FM to listen:
-https://www.cjsf.ca/contents/cjsf-901fm
+[https://www.cjsf.ca/contents/cjsf-901fm](https://www.cjsf.ca/contents/cjsf-901fm)

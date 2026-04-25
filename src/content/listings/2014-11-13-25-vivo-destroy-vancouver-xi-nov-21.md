@@ -106,7 +106,7 @@ current efforts apply methods of extended technique to the digital audio
 workstation, and build material from the archival process itself. As one
 of the contributors to Soundscape on CFRO 100.5 FM, he can be heard and
 read online at Cut And Run
-(http://furiousgreencloud.whsites.net/wordpress/).
+([http://furiousgreencloud.whsites.net/wordpress/](http://furiousgreencloud.whsites.net/wordpress/)).
 soundcloud.com/vehscle
 vehscle.bandcamp.com
 

@@ -35,7 +35,7 @@ the non-human world. Michael Drebert who currently lives and works in
 Victoria, Canada, holds a BA from Emily Carr University (2006) and an MFA
 from the University of Victoria (2010).
 
-http://www.michaeldrebert.net/
+[http://www.michaeldrebert.net/](http://www.michaeldrebert.net/)
 -
 
 Lili Huston-Herterich
@@ -51,7 +51,7 @@ transferred and preserved through oral, visual and auditory methods of
 communication. Huston-Herterich obtained a BFA in Visual Arts and New Media
 from York University (2010) and is currently based in Toronto, Canada.
 
-http://www.lilihustonherterich.com/
+[http://www.lilihustonherterich.com/](http://www.lilihustonherterich.com/)
 -
 
 Rebecca Moss
@@ -70,7 +70,7 @@ holds a BA in Painting from the Camberwell College of Arts (2013), and is
 currently an MA candidate in Sculpture at the Royal College of Art. She
 lives and works in London, UK.
 
-http://www.rebeccamoss.org/
+[http://www.rebeccamoss.org/](http://www.rebeccamoss.org/)
 -
 
 Sikarnt Skoolisariyaporn
@@ -88,7 +88,7 @@ BA from Kingston University in London, UK (2012) and an MA in Fine Art from
 Goldsmiths and the University of London (2015). She lives and works in
 London and Bangkok.
 
-http://sikarntskool.blogspot.ca/
+[http://sikarntskool.blogspot.ca/](http://sikarntskool.blogspot.ca/)
 -
 
 Twenty-Three Days at Sea: A Travelling Artist Residency is produced by

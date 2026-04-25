@@ -19,7 +19,7 @@ Co-presented by VIVO Media Arts Centre, SFU's School of Communication, Free Geek
 Vancouver, SFU's Institute for the Humanities, and the SFU Faculty of Communication, 
 Art and Technology.
 
-https://www.facebook.com/events/261313324379185/
+[https://www.facebook.com/events/261313324379185/](https://www.facebook.com/events/261313324379185/)
 
 Abstract:
 "My talk addresses the global trade and traffic of discarded electronics or e-waste. It is 
@@ -46,7 +46,7 @@ degrees of uncertainty around their mitigation or remediation. Two case studies 
 his work: the international trade and traffic of discarded electronics (or e-waste) and, 
 much more recently, offworld rubbish which Lepawsky defines as the remains and 
 discards of human extraterrestrial activity. More about his work can be found at his blog, 
-Reassembling Rubbish: http://scalar.usc.edu/works/reassembling-rubbish/index.
+Reassembling Rubbish: [http://scalar.usc.edu/works/reassembling-rubbish/index](http://scalar.usc.edu/works/reassembling-rubbish/index).
 
 This event will be taking place on the unceded traditional territories of the Coast Salish 
 peoples of the xmkwy"m (Musqueam), Skwxw7mesh (Squamish), and Sl"lwta 

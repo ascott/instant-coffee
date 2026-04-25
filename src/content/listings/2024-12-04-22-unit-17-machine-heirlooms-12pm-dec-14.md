@@ -27,7 +27,7 @@ written-garment.
 
 (Roland Barthes, 'The Fashion System,' 1983)
 
-https://machineheirlooms.com
+[https://machineheirlooms.com](https://machineheirlooms.com)
 
 Unit 17
 310 - 207 West Hastings Street

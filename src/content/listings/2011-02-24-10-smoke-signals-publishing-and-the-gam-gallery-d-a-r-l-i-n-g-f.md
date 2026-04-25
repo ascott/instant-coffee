@@ -55,6 +55,6 @@ The Gam Gallery
 Vancouver, BC
 V6A 1N4
 
-w. http://www.gamgallery.com
+w. [http://www.gamgallery.com](http://www.gamgallery.com)
 p. 778-235-6928
 e. thegam@live.com

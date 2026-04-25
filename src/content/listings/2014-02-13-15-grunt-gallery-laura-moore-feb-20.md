@@ -35,7 +35,7 @@ drive tower measured to a 1:1 scale; stacked onto a wooden pallet.
 and I find its resistance stimulating. It is the monuments and sculptures that tell 
 our history, it shapes our continents while intriguingly remaining mutable." - 
 Laura Moore, Artist Statement
-(http://www.lauramoore.ca/)
+([http://www.lauramoore.ca/](http://www.lauramoore.ca/))
 
 one man's junk questions what happens when an object shifts from a prized 
 possession to a nonentity, and asks you to find value amongst junk, waste 
@@ -45,8 +45,8 @@ grunt gallery is pleased to announce that this will be Moore's first exhibition 
 Vancouver, British Columbia. The artist will be in attendance for the opening 
 reception. 
 
-http://grunt.ca/exhibitions/one-mans-junk/ 
-https://www.facebook.com/events/263033277190370/
+[http://grunt.ca/exhibitions/one-mans-junk/](http://grunt.ca/exhibitions/one-mans-junk/) 
+[https://www.facebook.com/events/263033277190370/](https://www.facebook.com/events/263033277190370/)
 
 grunt gallery: 116-350 East 2nd Ave, Vancouver, BC V5T 4R8
 

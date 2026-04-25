@@ -37,4 +37,4 @@ Nov. 20 11 am - 6 pm
 110 E Hastings St.
 Vancouver BC, Canada, V6A 1N4 
 thegam@live.com
-http://www.gamgallery.com
+[http://www.gamgallery.com](http://www.gamgallery.com)

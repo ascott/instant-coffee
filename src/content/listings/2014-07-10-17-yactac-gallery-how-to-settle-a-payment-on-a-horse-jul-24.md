@@ -19,7 +19,7 @@ Yactac Gallery
 Vancouver B.C
 V5X3B7
 
-https://www.youtube.com/watch?v=ey6uTe3mCOo
+[https://www.youtube.com/watch?v=ey6uTe3mCOo](https://www.youtube.com/watch?v=ey6uTe3mCOo)
 
 “I felt like a yak trapped in salt. Under the parched noon I felt cracked,
 and rootless. The wind whipped my my serape around me and blew across my

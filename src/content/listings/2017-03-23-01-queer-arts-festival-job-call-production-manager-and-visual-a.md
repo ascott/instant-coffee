@@ -48,4 +48,4 @@ While we thank all applicants for their interest, we apologize that we may be un
 respond to inquiries and will only be able to respond to those applicants who are 
 selected for an interview.
 
-http://queerartsfestival.com/get-involved/job-opportunities/
+[http://queerartsfestival.com/get-involved/job-opportunities/](http://queerartsfestival.com/get-involved/job-opportunities/)

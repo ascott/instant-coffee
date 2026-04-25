@@ -27,4 +27,4 @@ cultivate new ideas, access a rich library of arts resources, and focus on their
 Deadline: February 1, 2018
 
 For more information and the online application visit our website:
-http://sparkboxstudio.com/nationalaward/
+[http://sparkboxstudio.com/nationalaward/](http://sparkboxstudio.com/nationalaward/)

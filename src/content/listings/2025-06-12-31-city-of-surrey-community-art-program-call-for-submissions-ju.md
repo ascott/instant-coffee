@@ -23,5 +23,5 @@ We invite visual artists or artist groups who live in Surrey to have an exhibiti
 Historic Stewart Farm and participate as the "Farm Artist(s)" for September & October
 of 2025.
 
-https://www.surrey.ca/sites/default/files/media/documents/Historic-Stewart-Farm-Farm-
+[https://www.surrey.ca/sites/default/files/media/documents/Historic-Stewart-Farm-Farm-](https://www.surrey.ca/sites/default/files/media/documents/Historic-Stewart-Farm-Farm-)
 Artist-Call.pdf

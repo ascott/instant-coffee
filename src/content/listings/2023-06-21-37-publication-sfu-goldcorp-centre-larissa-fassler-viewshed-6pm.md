@@ -41,7 +41,7 @@ German, French) and the book is published by DISTANZ (Berlin, August 2022).
 Light refreshments and snacks will be provided, and books will be available for sale
 at the event.
 
-Find out more and RSVP: https://bit.ly/3WVVJj4
+Find out more and RSVP: [https://bit.ly/3WVVJj4](https://bit.ly/3WVVJj4)
 
 38. EVENT
 | West Vancouver Art Museum | WEST COASTMODERN WEEK| July 4-9 | JUL 4
@@ -52,7 +52,7 @@ natural setting presents unique challenges and opportunities that are reflected 
 local architecture. Presented by the West Vancouver Art Museum, West Coast Modern
 Weeks events include talks, exhibitions, parties, and a unique Home Tour offering
 access to local, architecturally-significant homes.
-https://www.westvancouverartmuseum.ca/west-coast-modern-week.
+[https://www.westvancouverartmuseum.ca/west-coast-modern-week](https://www.westvancouverartmuseum.ca/west-coast-modern-week).
 
 For questions about West Coast Modern Week, please contact Alison Powell at
 apowell@westvancouver.ca or 604 925 7296.

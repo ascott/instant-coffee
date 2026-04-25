@@ -25,7 +25,7 @@ WOVEN: Setsuko Piroches Wonderland
 
 March 16 - September 28, 2024
 
-https://centre.nikkeiplace.org/exhibits/setsuko-piroche/?
+[https://centre.nikkeiplace.org/exhibits/setsuko-piroche/](https://centre.nikkeiplace.org/exhibits/setsuko-piroche/)?
 utm_source=press+release&utm_campaign=9c6f50d969-
 EMAIL_CAMPAIGN_20230926_COPY_01&utm_medium=email&utm_term=0_-
 f52af5b6ba-%5BLIST_EMAIL_ID%5D&mc_cid=9c6f50d969&mc_eid=15436e847e

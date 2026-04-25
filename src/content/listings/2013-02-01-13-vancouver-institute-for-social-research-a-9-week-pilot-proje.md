@@ -30,7 +30,7 @@ Organized by the East Vancouver Young Hegelians Media Collective -
 Chapter 13
 
 More info:
-https://www.facebook.com/events/495903313795700/?fref=ts
+[https://www.facebook.com/events/495903313795700/?fref=ts](https://www.facebook.com/events/495903313795700/?fref=ts)
 
 The readings can be found here:
-http://visrfreeschool.wordpress.com/
+[http://visrfreeschool.wordpress.com/](http://visrfreeschool.wordpress.com/)

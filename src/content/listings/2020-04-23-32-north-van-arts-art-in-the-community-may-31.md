@@ -17,4 +17,4 @@ and build strong communities through the arts, creating an inclusive environment
 everyone. North Van Arts welcomes 2D artwork from all mediums and accepts submissions
 from local artists and the wider community.
 
-https://northvanarts.ca/events-exhibitions/call-for-artists-art-in-the-community/
+[https://northvanarts.ca/events-exhibitions/call-for-artists-art-in-the-community/](https://northvanarts.ca/events-exhibitions/call-for-artists-art-in-the-community/)

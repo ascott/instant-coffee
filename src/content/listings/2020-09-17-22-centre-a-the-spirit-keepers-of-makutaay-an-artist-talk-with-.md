@@ -13,7 +13,7 @@ THE SPIRIT KEEPERS OF MAKUTAAY: AN ARTIST TALK WITH YEN-CHAO LIN
 Friday, September 25, 2020, 6:00 PM PST via Zoom
 
 Registration HERE:
-https://us02web.zoom.us/meeting/register/tZUtdOqhpzMpGtf30jUnpgBw-
+[https://us02web.zoom.us/meeting/register/tZUtdOqhpzMpGtf30jUnpgBw-](https://us02web.zoom.us/meeting/register/tZUtdOqhpzMpGtf30jUnpgBw-)
 OT8xXZDEDMm
 
 Join us for an online artist talk by Montral-based artist Yen-Chao Lin via Zoom in
@@ -64,4 +64,4 @@ artist and the audience.
 Accessibility: Centre A is wheelchair and walker accessible. If you have specific
 accessibility needs, please contact us at (604) 683-8326 or info@centrea.org. Visit
 centrea.org for more information.
-http://www.centrea.org
+[http://www.centrea.org](http://www.centrea.org)

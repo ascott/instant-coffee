@@ -27,7 +27,7 @@ Deadline: October 3, 2023
 Duration: January " December 2024
 
 For more information and to apply:
-https://www.richmond.ca/culture/publicart/opportunities.htm
+[https://www.richmond.ca/culture/publicart/opportunities.htm](https://www.richmond.ca/culture/publicart/opportunities.htm)
 
 Public Art Program
 
