@@ -75,16 +75,28 @@ function getYear(dateStr: string): number | null {
     });
 
     // Hide email list when search is active
-    if (searchInput) {
-      const toggle = () => {
-        const hasQuery = searchInput.value.trim().length > 0;
-        yearNav.style.display = hasQuery ? 'none' : '';
-        emailList.style.display = hasQuery ? 'none' : '';
+    // Pagefind creates the input dynamically, so watch for it
+    const searchContainer = document.getElementById('search');
+    if (searchContainer) {
+      const setupToggle = (input) => {
+        const toggle = () => {
+          const hasQuery = input.value.trim().length > 0;
+          yearNav.style.display = hasQuery ? 'none' : '';
+          emailList.style.display = hasQuery ? 'none' : '';
+        };
+        input.addEventListener('input', toggle);
+        input.addEventListener('change', toggle);
+        toggle();
       };
-      searchInput.addEventListener('input', toggle);
-      searchInput.addEventListener('change', toggle);
-      // Also watch for Pagefind's clear button
-      new MutationObserver(toggle).observe(searchInput, { attributes: true, attributeFilter: ['value'] });
+
+      // Watch for Pagefind to inject its input
+      new MutationObserver((_, obs) => {
+        const input = searchContainer.querySelector('input[type="text"]');
+        if (input) {
+          setupToggle(input);
+          obs.disconnect();
+        }
+      }).observe(searchContainer, { childList: true, subtree: true });
     }
   });
 </script>
