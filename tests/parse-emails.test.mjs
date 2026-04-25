@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { extractBody, extractMetadata, parseListings, slugify, fixEncoding } from '../scripts/parse-emails.mjs';
+import { extractBody, extractMetadata, parseListings, slugify, fixEncoding, linkifyUrls } from '../scripts/parse-emails.mjs';
 import { readFile } from 'fs/promises';
 import path from 'path';
 
@@ -126,6 +126,38 @@ describe('fixEncoding', () => {
 
   it('leaves correctly-encoded UTF-8 unchanged', () => {
     expect(fixEncoding('caf\u00e9')).toBe('caf\u00e9');
+  });
+});
+
+describe('linkifyUrls', () => {
+  it('converts bare http URL to markdown link', () => {
+    expect(linkifyUrls('Visit http://example.com for info'))
+      .toBe('Visit [http://example.com](http://example.com) for info');
+  });
+
+  it('converts bare https URL to markdown link', () => {
+    expect(linkifyUrls('See https://westernfront.ca/events/image-syncers'))
+      .toBe('See [https://westernfront.ca/events/image-syncers](https://westernfront.ca/events/image-syncers)');
+  });
+
+  it('handles multiple URLs on separate lines', () => {
+    const input = 'Visit https://a.com\nAlso https://b.org/page';
+    const expected = 'Visit [https://a.com](https://a.com)\nAlso [https://b.org/page](https://b.org/page)';
+    expect(linkifyUrls(input)).toBe(expected);
+  });
+
+  it('leaves text without URLs unchanged', () => {
+    expect(linkifyUrls('No links here')).toBe('No links here');
+  });
+
+  it('does not double-linkify existing markdown links', () => {
+    const input = 'Check [site](https://example.com) for details';
+    expect(linkifyUrls(input)).toBe(input);
+  });
+
+  it('handles URL at end of line with trailing punctuation', () => {
+    expect(linkifyUrls('Info at https://example.com.'))
+      .toBe('Info at [https://example.com](https://example.com).');
   });
 });
 

@@ -125,6 +125,16 @@ export function fixEncoding(text) {
   return result;
 }
 
+export function linkifyUrls(text) {
+  // Convert bare http/https URLs to markdown links.
+  // Negative lookbehind avoids double-linkifying URLs already inside markdown [](url) syntax.
+  // Trailing punctuation (.,:;!?) is excluded from the URL.
+  return text.replace(
+    /(?<!\]\()https?:\/\/[^\s<>)\]]+[^\s<>)\].,;:!?]/g,
+    (url) => `[${url}](${url})`
+  );
+}
+
 const SEPARATOR_RE = /^-{5,}$/;
 // Match any line starting with NN. that contains at least one pipe
 const LISTING_HEADER_RE = /^(\d{1,2})\.\s+(.+\|.+)$/;
@@ -319,7 +329,7 @@ async function generateContent(rawDir, emailsDir, listingsDir) {
 
       await writeFile(
         path.join(listingsDir, `${listingSlug}.md`),
-        `${listingFrontmatter}\n\n${listing.body}`
+        `${listingFrontmatter}\n\n${linkifyUrls(listing.body)}`
       );
     }
 
