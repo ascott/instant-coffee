@@ -62,7 +62,7 @@ footer {
   font-size: 0.85rem;
 }
 
-a { color: var(--color-link); }
+a { color: var(--color-text); }
 
 /* Email body — preserve original plain text formatting */
 .email-body {
