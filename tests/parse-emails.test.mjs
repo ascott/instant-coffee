@@ -159,6 +159,18 @@ describe('linkifyUrls', () => {
     expect(linkifyUrls('Info at https://example.com.'))
       .toBe('Info at [https://example.com](https://example.com).');
   });
+
+  it('rejoins line-wrapped URLs starting with digits', () => {
+    const input = 'Link:\nhttps://smithfoundation.co/exhibitions-items/one-hundred-artists-deep-april-11th-june-20th-\n2026/?portfolioCats=59%2C60%2C58';
+    const expected = 'Link:\n[https://smithfoundation.co/exhibitions-items/one-hundred-artists-deep-april-11th-june-20th-2026/?portfolioCats=59%2C60%2C58](https://smithfoundation.co/exhibitions-items/one-hundred-artists-deep-april-11th-june-20th-2026/?portfolioCats=59%2C60%2C58)';
+    expect(linkifyUrls(input)).toBe(expected);
+  });
+
+  it('does not rejoin URL with following sentence', () => {
+    const input = 'Visit https://example.com\nAlso check this out';
+    const expected = 'Visit [https://example.com](https://example.com)\nAlso check this out';
+    expect(linkifyUrls(input)).toBe(expected);
+  });
 });
 
 describe('slugify', () => {

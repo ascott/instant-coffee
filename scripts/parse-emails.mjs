@@ -126,10 +126,18 @@ export function fixEncoding(text) {
 }
 
 export function linkifyUrls(text) {
+  // Rejoin URLs split across lines by email line-wrapping (~76 char limit).
+  // Only join when the continuation starts with a digit, /, %, ?, &, or #
+  // (not a letter, which would likely be a new sentence).
+  let result = text.replace(
+    /(https?:\/\/[^\s<>)\]]+)\n([0-9\/%?&#][^\s<>)\]]*)/g,
+    '$1$2'
+  );
+
   // Convert bare http/https URLs to markdown links.
   // Negative lookbehind avoids double-linkifying URLs already inside markdown [](url) syntax.
   // Trailing punctuation (.,:;!?) is excluded from the URL.
-  return text.replace(
+  return result.replace(
     /(?<!\]\()https?:\/\/[^\s<>)\]]+[^\s<>)\].,;:!?]/g,
     (url) => `[${url}](${url})`
   );
