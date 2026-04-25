@@ -34,7 +34,7 @@ const pageTitle = hasType
     </a>
 
     {hasType && <span class="type-badge">{listing.data.type}</span>}
-    <h1>{String(listing.data.number).padStart(2, '0')}. {listing.data.summary}</h1>
+    <h1><span data-pagefind-ignore>{String(listing.data.number).padStart(2, '0')}. </span>{listing.data.summary}</h1>
     {listing.data.venue && <p class="listing-venue">{listing.data.venue}</p>}
     <p class="listing-meta" data-pagefind-meta="date">{formatted}</p>
 
