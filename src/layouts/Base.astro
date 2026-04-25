@@ -16,8 +16,21 @@ const { title } = Astro.props;
     <header>
       <nav class="site-header">
         <a href="/instant-coffee/">Instant Coffee Archive</a>
-        <span class="site-meta">ic-vancouver &middot; 609 emails, 2008&ndash;present</span>
+        <span class="site-meta">ic-vancouver &middot; 609 emails, 2008&ndash;present &middot; <button class="about-link" id="about-open">about</button></span>
       </nav>
+
+      <dialog id="about-dialog" class="about-dialog">
+        <p>
+          <a href="https://instantcoffee.org">Instant Coffee</a> is an artist-run mailing list that has
+          documented Vancouver's art and culture scene since 2007. I've been a subscriber since the
+          beginning and wanted to make this incredible record of historic and contemporary art culture
+          searchable and browsable.
+        </p>
+        <p class="about-links">
+          <a href="https://alannascott.studio">alannascott.studio</a> / <a href="https://alanna.world">alanna.world</a>
+        </p>
+        <button class="about-close" id="about-close">&times;</button>
+      </dialog>
     </header>
     <main>
       <slot />
@@ -25,5 +38,16 @@ const { title } = Astro.props;
     <footer>
       <p>:ic: = (instant coffee loves everyone)</p>
     </footer>
+    <script is:inline>
+      document.getElementById('about-open').addEventListener('click', () => {
+        document.getElementById('about-dialog').showModal();
+      });
+      document.getElementById('about-close').addEventListener('click', () => {
+        document.getElementById('about-dialog').close();
+      });
+      document.getElementById('about-dialog').addEventListener('click', (e) => {
+        if (e.target === e.currentTarget) e.currentTarget.close();
+      });
+    </script>
   </body>
 </html>
