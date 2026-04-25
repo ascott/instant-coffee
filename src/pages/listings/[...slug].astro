@@ -17,15 +17,25 @@ const d = new Date(listing.data.emailDate);
 const formatted = isNaN(d.getTime()) ? listing.data.emailDate : d.toLocaleDateString('en-CA', {
   year: 'numeric', month: 'short', day: 'numeric'
 });
+
+const KNOWN_TYPES = new Set([
+  'OPENING', 'TALK', 'CALL', 'PERFORMANCE', 'EXHIBITION',
+  'EVENT', 'EDUCATION', 'FUNDRAISER',
+]);
+const hasType = listing.data.type && KNOWN_TYPES.has(listing.data.type);
+const pageTitle = hasType
+  ? `${listing.data.type}: ${listing.data.summary}`
+  : listing.data.summary;
 ---
-<Base title={`${listing.data.type}: ${listing.data.summary}`}>
+<Base title={pageTitle}>
   <article data-pagefind-body>
     <a class="back-link" href={`/instant-coffee/emails/${listing.data.emailSlug}`} data-pagefind-ignore>
       &larr; {listing.data.emailSubject.replace(/^\(ic-vancouver\)\s*/i, '')}
     </a>
 
-    {listing.data.type && <span class="type-badge" data-pagefind-filter="type">{listing.data.type}</span>}
+    {hasType && <span class="type-badge" data-pagefind-filter="type">{listing.data.type}</span>}
     <h1>{String(listing.data.number).padStart(2, '0')}. {listing.data.summary}</h1>
+    {listing.data.venue && <p class="listing-venue">{listing.data.venue}</p>}
     <p class="listing-meta" data-pagefind-meta="date">{formatted}</p>
 
     <hr style="margin: 1.5rem 0;" />

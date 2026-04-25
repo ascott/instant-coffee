@@ -21,6 +21,7 @@ const listings = defineCollection({
     emailDate: z.string(),
     number: z.number(),
     type: z.string(),
+    venue: z.string(),
     summary: z.string(),
   }),
 });
