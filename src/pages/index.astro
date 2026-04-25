@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import EmailCard from '../components/EmailCard.astro';
+import Search from '../components/Search.astro';
 
 const emails = await getCollection('emails');
 
@@ -16,7 +17,7 @@ emails.sort((a, b) => {
   <h1>Instant Coffee Archive</h1>
   <p>ic-vancouver mailing list &middot; {emails.length} emails</p>
 
-  <div id="search" style="margin: 1.5rem 0;"></div>
+  <Search />
 
   <ul class="email-list">
     {emails.map((email) => (
