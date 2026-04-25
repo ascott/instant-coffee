@@ -31,12 +31,23 @@ header {
   margin-bottom: 2rem;
 }
 
-header nav a {
+.site-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.site-header a {
   font-family: var(--font-heading);
   font-weight: 500;
   text-decoration: none;
   color: var(--color-text);
   font-size: 1.1rem;
+}
+
+.site-meta {
+  font-size: 0.8rem;
+  color: var(--color-muted);
 }
 
 main { min-height: 60vh; }
