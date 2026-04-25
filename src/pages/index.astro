@@ -29,7 +29,7 @@ function getYear(dateStr: string): number | null {
 ---
 <Base title="Home">
   <h1>Instant Coffee Archive</h1>
-  <p>ic-vancouver mailing list &middot; {emails.length} emails</p>
+  <p>ic-vancouver mailing list &middot; {emails.length} emails, 2008&ndash;present</p>
 
   <Search />
 
@@ -58,24 +58,33 @@ function getYear(dateStr: string): number | null {
   document.addEventListener('DOMContentLoaded', () => {
     const buttons = document.querySelectorAll('.year-btn');
     const items = document.querySelectorAll('#email-list li');
+    const yearNav = document.querySelector('.year-nav');
+    const emailList = document.getElementById('email-list');
+    const searchInput = document.querySelector('.pagefind-ui__search-input');
 
+    // Year filtering
     buttons.forEach((btn) => {
       btn.addEventListener('click', () => {
         const year = btn.dataset.year;
-
-        // Update active button
         buttons.forEach((b) => b.classList.remove('active'));
         btn.classList.add('active');
-
-        // Filter list
         items.forEach((li) => {
-          if (year === 'all' || li.dataset.year === year) {
-            li.style.display = '';
-          } else {
-            li.style.display = 'none';
-          }
+          li.style.display = (year === 'all' || li.dataset.year === year) ? '' : 'none';
         });
       });
     });
+
+    // Hide email list when search is active
+    if (searchInput) {
+      const toggle = () => {
+        const hasQuery = searchInput.value.trim().length > 0;
+        yearNav.style.display = hasQuery ? 'none' : '';
+        emailList.style.display = hasQuery ? 'none' : '';
+      };
+      searchInput.addEventListener('input', toggle);
+      searchInput.addEventListener('change', toggle);
+      // Also watch for Pagefind's clear button
+      new MutationObserver(toggle).observe(searchInput, { attributes: true, attributeFilter: ['value'] });
+    }
   });
 </script>

@@ -57,11 +57,12 @@ a { color: var(--color-link); }
 }
 
 .listing-body {
-  font-family: var(--font-mono);
-  font-size: 0.85rem;
-  white-space: pre-wrap;
-  word-wrap: break-word;
-  line-height: 1.5;
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.listing-body p {
+  margin-bottom: 0.75rem;
 }
 
 /* Type badges */

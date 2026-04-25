@@ -33,7 +33,7 @@ const pageTitle = hasType
       &larr; {listing.data.emailSubject.replace(/^\(ic-vancouver\)\s*/i, '')}
     </a>
 
-    {hasType && <span class="type-badge" data-pagefind-filter="type">{listing.data.type}</span>}
+    {hasType && <span class="type-badge">{listing.data.type}</span>}
     <h1>{String(listing.data.number).padStart(2, '0')}. {listing.data.summary}</h1>
     {listing.data.venue && <p class="listing-venue">{listing.data.venue}</p>}
     <p class="listing-meta" data-pagefind-meta="date">{formatted}</p>
