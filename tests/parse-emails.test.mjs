@@ -31,7 +31,7 @@ describe('parseListings', () => {
     expect(listings.length).toBe(3);
   });
 
-  it('extracts listing number and type', () => {
+  it('extracts listing number and type for typed listings', () => {
     const body = extractBody(fixture.payload);
     const listings = parseListings(body);
     expect(listings[0].number).toBe(1);
@@ -45,6 +45,33 @@ describe('parseListings', () => {
     const listings = parseListings(body);
     expect(listings[0].summary).toContain('Voicemail Art Thingy');
     expect(listings[1].summary).toContain('Western Front');
+  });
+
+  it('handles older format without type keyword', () => {
+    const olderBody = `
+----------------------------------------------------------------------
+01. Monte Clark Gallery | OWEN KYDD | APR 4
+----------------------------------------------------------------------
+Monte Clark Gallery presents OWEN KYDD.
+
+----------------------------------------------------------------------
+02. CSA space | Jack Brindley | APR 4
+----------------------------------------------------------------------
+CSA space presents Jack Brindley.
+
+----------------------------------------------------------------------
+instant coffee: test
+----------------------------------------------------------------------
+:ic: = (instant coffee loves everyone)
+`;
+    const listings = parseListings(olderBody);
+    expect(listings.length).toBe(2);
+    expect(listings[0].number).toBe(1);
+    expect(listings[0].type).toBe('');
+    expect(listings[0].summary).toContain('Monte Clark Gallery');
+    expect(listings[0].summary).toContain('OWEN KYDD');
+    expect(listings[0].body).toContain('Monte Clark Gallery presents');
+    expect(listings[1].summary).toContain('CSA space');
   });
 
   it('extracts listing body text', () => {

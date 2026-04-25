@@ -49,7 +49,12 @@ export function slugify(text) {
 }
 
 const SEPARATOR_RE = /^-{5,}$/;
-const LISTING_HEADER_RE = /^(\d{1,2})\.\s+([A-Z]+)\s*\|\s*(.+)$/;
+// Match any line starting with NN. that contains at least one pipe
+const LISTING_HEADER_RE = /^(\d{1,2})\.\s+(.+\|.+)$/;
+const KNOWN_TYPES = new Set([
+  'OPENING', 'TALK', 'CALL', 'PERFORMANCE', 'EXHIBITION',
+  'EVENT', 'EDUCATION', 'FUNDRAISER',
+]);
 const FOOTER_MARKERS = [
   'instant coffee:',
   'Email vancouver@instantcoffee.org to post',
@@ -89,11 +94,19 @@ export function parseListings(body) {
     const match = trimmed.match(LISTING_HEADER_RE);
     if (match) {
       if (current) listings.push(current);
-      const [, numStr, type, rest] = match;
+      const [, numStr, fullMatch] = match;
+      // Try to extract type keyword from first pipe-delimited segment
+      const segments = fullMatch.split('|').map((s) => s.trim());
+      let type = '';
+      let summary = fullMatch.trim();
+      if (KNOWN_TYPES.has(segments[0])) {
+        type = segments[0];
+        summary = segments.slice(1).join(' | ');
+      }
       current = {
         number: parseInt(numStr, 10),
         type,
-        summary: rest.trim(),
+        summary,
         bodyLines: [],
       };
       continue;
@@ -114,6 +127,29 @@ export function parseListings(body) {
     summary: l.summary,
     body: l.bodyLines.join('\n').trim(),
   }));
+}
+
+// --- Linkify listing headers in email body ---
+
+export function linkifyListingHeaders(body, listings, dateSlug) {
+  // Build map of listing number → listing page slug
+  const slugMap = {};
+  for (const l of listings) {
+    const listingSlug = `${dateSlug}-${String(l.number).padStart(2, '0')}-${slugify(l.summary).slice(0, 60)}`;
+    slugMap[l.number] = listingSlug;
+  }
+
+  // Replace every numbered header line (with a pipe) with an HTML link
+  return body.replace(
+    /^(\d{1,2})\.\s+(.+\|.+)$/gm,
+    (match, numStr) => {
+      const num = parseInt(numStr, 10);
+      if (slugMap[num]) {
+        return `<a href="/instant-coffee/listings/${slugMap[num]}">${match}</a>`;
+      }
+      return match;
+    }
+  );
 }
 
 // --- Content generation ---
@@ -171,9 +207,11 @@ async function generateContent(rawDir, emailsDir, listingsDir) {
       '---',
     ].join('\n');
 
+    const linkedBody = linkifyListingHeaders(body, listings, dateSlug);
+
     await writeFile(
       path.join(emailsDir, `${emailSlug}.md`),
-      `${emailFrontmatter}\n\n${body}`
+      `${emailFrontmatter}\n\n${linkedBody}`
     );
 
     // Write listing markdown files

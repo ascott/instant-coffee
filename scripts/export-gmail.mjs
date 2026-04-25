@@ -5,7 +5,7 @@ import path from 'path';
 import { authorize } from './auth.mjs';
 
 const RAW_DIR = path.join(process.cwd(), 'data/raw');
-const QUERY = 'list:ic-vancouver@instantcoffee.org';
+const QUERY = 'from:vancouver@instantcoffee.org';
 
 async function listAllMessages(gmail) {
   const messages = [];
@@ -29,20 +29,32 @@ async function listAllMessages(gmail) {
   return messages;
 }
 
+const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
+
 async function fetchAndSave(gmail, messageId) {
   const outPath = path.join(RAW_DIR, `${messageId}.json`);
   if (existsSync(outPath)) {
     return false; // Already exported, skip
   }
 
-  const res = await gmail.users.messages.get({
-    userId: 'me',
-    id: messageId,
-    format: 'full',
-  });
+  try {
+    const res = await gmail.users.messages.get({
+      userId: 'me',
+      id: messageId,
+      format: 'full',
+    });
 
-  await writeFile(outPath, JSON.stringify(res.data, null, 2));
-  return true;
+    await writeFile(outPath, JSON.stringify(res.data, null, 2));
+    return true;
+  } catch (err) {
+    if (err.status === 429) {
+      console.warn(`\nRate limited on ${messageId}, waiting 10s...`);
+      await sleep(10000);
+      return fetchAndSave(gmail, messageId); // retry once
+    }
+    console.error(`\nFailed to fetch ${messageId}: ${err.message}`);
+    return false;
+  }
 }
 
 async function main() {

@@ -4,8 +4,8 @@
 
 <script is:inline>
   window.addEventListener('DOMContentLoaded', async () => {
-    const { PagefindUI } = await import('/instant-coffee/pagefind/pagefind-ui.js');
-    new PagefindUI({
+    await import('/instant-coffee/pagefind/pagefind-ui.js');
+    new window.PagefindUI({
       element: '#search',
       showSubResults: true,
       baseUrl: '/instant-coffee/',
