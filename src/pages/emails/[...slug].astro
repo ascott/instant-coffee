@@ -1,0 +1,56 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import ListingCard from '../../components/ListingCard.astro';
+
+export async function getStaticPaths() {
+  const emails = await getCollection('emails');
+  return emails.map((email) => ({
+    params: { slug: email.id },
+    props: { email },
+  }));
+}
+
+const { email } = Astro.props;
+const { Content } = await render(email);
+
+// Get listings for this email
+const allListings = await getCollection('listings');
+const listings = allListings
+  .filter((l) => l.data.emailSlug === email.id)
+  .sort((a, b) => a.data.number - b.data.number);
+
+const d = new Date(email.data.date);
+const formatted = isNaN(d.getTime()) ? email.data.date : d.toLocaleDateString('en-CA', {
+  year: 'numeric', month: 'long', day: 'numeric'
+});
+---
+<Base title={email.data.subject}>
+  <a class="back-link" href="/instant-coffee/">&larr; All emails</a>
+
+  <h1>{email.data.subject.replace(/^\(ic-vancouver\)\s*/i, '')}</h1>
+  <p class="email-date">{formatted} &middot; from {email.data.from}</p>
+
+  {listings.length > 0 && (
+    <details open style="margin: 1.5rem 0;">
+      <summary><strong>{listings.length} listing{listings.length !== 1 ? 's' : ''}</strong></summary>
+      <ul class="listing-list">
+        {listings.map((listing) => (
+          <li>
+            <ListingCard
+              slug={listing.id}
+              number={listing.data.number}
+              type={listing.data.type}
+              summary={listing.data.summary}
+            />
+          </li>
+        ))}
+      </ul>
+    </details>
+  )}
+
+  <hr style="margin: 1.5rem 0;" />
+  <div class="email-body">
+    <Content />
+  </div>
+</Base>

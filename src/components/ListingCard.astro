@@ -1,0 +1,13 @@
+---
+interface Props {
+  slug: string;
+  number: number;
+  type: string;
+  summary: string;
+}
+const { slug, number, type, summary } = Astro.props;
+---
+<a href={`/instant-coffee/listings/${slug}`}>
+  <span class="type-badge">{type}</span>
+  <span>{String(number).padStart(2, '0')}. {summary}</span>
+</a>

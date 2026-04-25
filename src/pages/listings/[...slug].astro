@@ -1,0 +1,34 @@
+---
+import { getCollection, render } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+
+export async function getStaticPaths() {
+  const listings = await getCollection('listings');
+  return listings.map((listing) => ({
+    params: { slug: listing.id },
+    props: { listing },
+  }));
+}
+
+const { listing } = Astro.props;
+const { Content } = await render(listing);
+
+const d = new Date(listing.data.emailDate);
+const formatted = isNaN(d.getTime()) ? listing.data.emailDate : d.toLocaleDateString('en-CA', {
+  year: 'numeric', month: 'short', day: 'numeric'
+});
+---
+<Base title={`${listing.data.type}: ${listing.data.summary}`}>
+  <a class="back-link" href={`/instant-coffee/emails/${listing.data.emailSlug}`}>
+    &larr; {listing.data.emailSubject.replace(/^\(ic-vancouver\)\s*/i, '')}
+  </a>
+
+  <span class="type-badge">{listing.data.type}</span>
+  <h1>{String(listing.data.number).padStart(2, '0')}. {listing.data.summary}</h1>
+  <p class="listing-meta">From email dated {formatted}</p>
+
+  <hr style="margin: 1.5rem 0;" />
+  <div class="listing-body">
+    <Content />
+  </div>
+</Base>

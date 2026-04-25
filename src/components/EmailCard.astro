@@ -1,0 +1,19 @@
+---
+interface Props {
+  slug: string;
+  subject: string;
+  date: string;
+  listingCount: number;
+}
+const { slug, subject, date, listingCount } = Astro.props;
+
+// Parse and format date
+const d = new Date(date);
+const formatted = isNaN(d.getTime()) ? date : d.toLocaleDateString('en-CA', {
+  year: 'numeric', month: 'short', day: 'numeric'
+});
+---
+<a href={`/instant-coffee/emails/${slug}`}>
+  <strong>{subject.replace(/^\(ic-vancouver\)\s*/i, '')}</strong>
+  <span class="email-date">{formatted} &middot; {listingCount} listing{listingCount !== 1 ? 's' : ''}</span>
+</a>
