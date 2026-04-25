@@ -2,13 +2,12 @@
 import { getCollection } from 'astro:content';
 import Base from '../../layouts/Base.astro';
 
-const KNOWN_TYPES = [
-  'OPENING', 'TALK', 'CALL', 'PERFORMANCE', 'EXHIBITION',
-  'EVENT', 'EDUCATION', 'FUNDRAISER',
-];
-
 export function getStaticPaths() {
-  return KNOWN_TYPES.map((t) => ({
+  const types = [
+    'OPENING', 'TALK', 'CALL', 'PERFORMANCE', 'EXHIBITION',
+    'EVENT', 'EDUCATION', 'FUNDRAISER',
+  ];
+  return types.map((t) => ({
     params: { type: t.toLowerCase() },
     props: { type: t },
   }));
