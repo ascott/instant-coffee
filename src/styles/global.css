@@ -116,3 +116,34 @@ h2 { font-size: 1.1rem; margin-bottom: 0.5rem; }
   color: var(--color-muted);
   margin-bottom: 0.25rem;
 }
+
+/* Year navigation */
+.year-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.25rem;
+  margin: 1rem 0;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid var(--color-border);
+}
+
+.year-btn {
+  background: none;
+  border: 1px solid var(--color-border);
+  border-radius: 3px;
+  padding: 0.2em 0.6em;
+  font-size: 0.8rem;
+  cursor: pointer;
+  color: var(--color-text);
+  font-family: var(--font-body);
+}
+
+.year-btn:hover {
+  background: var(--color-tag-bg);
+}
+
+.year-btn.active {
+  background: var(--color-text);
+  color: var(--color-bg);
+  border-color: var(--color-text);
+}

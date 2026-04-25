@@ -12,6 +12,20 @@ emails.sort((a, b) => {
   const db = new Date(b.data.date);
   return db.getTime() - da.getTime();
 });
+
+// Extract unique years from emails
+const years = [...new Set(
+  emails.map((e) => {
+    const d = new Date(e.data.date);
+    return isNaN(d.getTime()) ? null : d.getFullYear();
+  }).filter(Boolean)
+)].sort((a, b) => b - a);
+
+// Build a year for each email (for data attribute)
+function getYear(dateStr: string): number | null {
+  const d = new Date(dateStr);
+  return isNaN(d.getTime()) ? null : d.getFullYear();
+}
 ---
 <Base title="Home">
   <h1>Instant Coffee Archive</h1>
@@ -19,9 +33,16 @@ emails.sort((a, b) => {
 
   <Search />
 
-  <ul class="email-list">
+  <nav class="year-nav" aria-label="Filter by year">
+    <button class="year-btn active" data-year="all">All</button>
+    {years.map((year) => (
+      <button class="year-btn" data-year={year}>{year}</button>
+    ))}
+  </nav>
+
+  <ul class="email-list" id="email-list">
     {emails.map((email) => (
-      <li>
+      <li data-year={getYear(email.data.date)}>
         <EmailCard
           slug={email.id}
           subject={email.data.subject}
@@ -32,3 +53,29 @@ emails.sort((a, b) => {
     ))}
   </ul>
 </Base>
+
+<script is:inline>
+  document.addEventListener('DOMContentLoaded', () => {
+    const buttons = document.querySelectorAll('.year-btn');
+    const items = document.querySelectorAll('#email-list li');
+
+    buttons.forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const year = btn.dataset.year;
+
+        // Update active button
+        buttons.forEach((b) => b.classList.remove('active'));
+        btn.classList.add('active');
+
+        // Filter list
+        items.forEach((li) => {
+          if (year === 'all' || li.dataset.year === year) {
+            li.style.display = '';
+          } else {
+            li.style.display = 'none';
+          }
+        });
+      });
+    });
+  });
+</script>
