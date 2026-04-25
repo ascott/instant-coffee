@@ -1,0 +1,51 @@
+---
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+
+const KNOWN_TYPES = [
+  'OPENING', 'TALK', 'CALL', 'PERFORMANCE', 'EXHIBITION',
+  'EVENT', 'EDUCATION', 'FUNDRAISER',
+];
+
+export function getStaticPaths() {
+  return KNOWN_TYPES.map((t) => ({
+    params: { type: t.toLowerCase() },
+    props: { type: t },
+  }));
+}
+
+const { type } = Astro.props;
+
+const allListings = await getCollection('listings');
+const listings = allListings
+  .filter((l) => l.data.type === type)
+  .sort((a, b) => {
+    const da = new Date(a.data.emailDate);
+    const db = new Date(b.data.emailDate);
+    return db.getTime() - da.getTime();
+  });
+
+function formatDate(dateStr: string): string {
+  const d = new Date(dateStr);
+  return isNaN(d.getTime()) ? dateStr : d.toLocaleDateString('en-CA', {
+    year: 'numeric', month: 'short', day: 'numeric'
+  });
+}
+---
+<Base title={type}>
+  <a class="back-link" href="/instant-coffee/">&larr; All emails</a>
+
+  <h1>{type}</h1>
+  <p class="listing-meta" style="margin-bottom: 1.5rem;">{listings.length} listings</p>
+
+  <ul class="email-list">
+    {listings.map((l) => (
+      <li>
+        <a href={`/instant-coffee/listings/${l.id}`}>
+          <strong>{String(l.data.number).padStart(2, '0')}. {l.data.summary}</strong>
+          <span class="email-date">{formatDate(l.data.emailDate)}</span>
+        </a>
+      </li>
+    ))}
+  </ul>
+</Base>
