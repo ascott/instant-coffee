@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Geist:wght@300;400;500;700&family=General+Sans:wght@300;400;500;700&family=Azeret+Mono:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Instrument+Sans:ital,wght@0,400..700;1,400..700&display=swap');
 
 :root {
   --max-width: 720px;
-  --font-body: 'General Sans', -apple-system, BlinkMacSystemFont, sans-serif;
-  --font-heading: 'Geist', -apple-system, BlinkMacSystemFont, sans-serif;
-  --font-mono: var(--font-body);
+  --font-body: 'DM Sans', sans-serif;
+  --font-heading: 'DM Sans', sans-serif;
+  --font-mono: 'DM Sans', sans-serif;
   --color-bg: #ffffff;
   --color-text: #1a1a1a;
   --color-muted: #666666;
@@ -17,6 +17,7 @@
 
 body {
   font-family: var(--font-body);
+  font-weight: 400;
   color: var(--color-text);
   background: var(--color-bg);
   line-height: 1.6;
@@ -39,7 +40,7 @@ header {
 
 .site-header a {
   font-family: var(--font-heading);
-  font-weight: 500;
+  font-weight: 600;
   text-decoration: none;
   color: var(--color-text);
   font-size: 1.1rem;
@@ -47,6 +48,7 @@ header {
 
 .site-meta {
   font-size: 0.8rem;
+  font-weight: 300;
   color: var(--color-muted);
 }
 
@@ -115,6 +117,7 @@ a { color: var(--color-link); }
   text-decoration: none;
   color: var(--color-text);
   display: block;
+  font-weight: 500;
 }
 
 .email-list a:hover, .listing-list a:hover {
@@ -123,6 +126,7 @@ a { color: var(--color-link); }
 
 .email-date, .listing-meta {
   font-size: 0.8rem;
+  font-weight: 300;
   color: var(--color-muted);
 }
 
@@ -132,7 +136,7 @@ a { color: var(--color-link); }
   font-size: 0.85rem;
 }
 
-h1 { font-family: var(--font-heading); font-size: 1.4rem; font-weight: 500; margin-bottom: 1rem; }
+h1 { font-family: var(--font-heading); font-size: 1.4rem; font-weight: 600; margin-bottom: 1rem; }
 h2 { font-family: var(--font-heading); font-size: 1.1rem; font-weight: 500; margin-bottom: 0.5rem; }
 
 .listing-venue {
