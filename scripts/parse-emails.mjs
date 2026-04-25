@@ -1,4 +1,4 @@
-import { readFile, writeFile, readdir, mkdir } from 'fs/promises';
+import { readFile, writeFile, readdir, mkdir, rm } from 'fs/promises';
 import path from 'path';
 
 // --- Exported helpers (used by tests) ---
@@ -46,6 +46,22 @@ export function slugify(text) {
     .toLowerCase()
     .replace(/\s+/g, '-')
     .replace(/-+/g, '-');
+}
+
+export function fixEncoding(text) {
+  // Fix UTF-8 text that was double-encoded (UTF-8 bytes misread as latin1/cp1252)
+  // Telltale: sequences where latin1-interpreted UTF-8 lead bytes appear in the string.
+  // 2-byte sequences start with 0xC2-0xC3 (U+00C2-U+00C3), followed by 0x80-0xBF continuation.
+  // 3-byte sequences start with 0xE0-0xEF (U+00E0-U+00EF), e.g. â (0xE2) for curly quotes/em-dash.
+  return text.split('\n').map((line) => {
+    if (!/[\u00c2-\u00c3\u00e0-\u00ef][\u0080-\u00bf]/.test(line)) return line;
+    try {
+      const bytes = Buffer.from(line, 'latin1');
+      return new TextDecoder('utf-8', { fatal: true }).decode(bytes);
+    } catch {
+      return line;
+    }
+  }).join('\n');
 }
 
 const SEPARATOR_RE = /^-{5,}$/;
@@ -98,14 +114,19 @@ export function parseListings(body) {
       // Try to extract type keyword from first pipe-delimited segment
       const segments = fullMatch.split('|').map((s) => s.trim());
       let type = '';
+      let venue = '';
       let summary = fullMatch.trim();
       if (KNOWN_TYPES.has(segments[0])) {
         type = segments[0];
         summary = segments.slice(1).join(' | ');
+        if (segments.length > 1) venue = segments[1];
+      } else {
+        venue = segments[0];
       }
       current = {
         number: parseInt(numStr, 10),
         type,
+        venue,
         summary,
         bodyLines: [],
       };
@@ -124,6 +145,7 @@ export function parseListings(body) {
   return listings.map((l) => ({
     number: l.number,
     type: l.type,
+    venue: l.venue,
     summary: l.summary,
     body: l.bodyLines.join('\n').trim(),
   }));
@@ -172,6 +194,9 @@ function emailDateSlug(dateStr, internalDate) {
 }
 
 async function generateContent(rawDir, emailsDir, listingsDir) {
+  // Clean old output to prevent stale files from previous parse runs
+  await rm(emailsDir, { recursive: true, force: true });
+  await rm(listingsDir, { recursive: true, force: true });
   await mkdir(emailsDir, { recursive: true });
   await mkdir(listingsDir, { recursive: true });
 
@@ -183,12 +208,14 @@ async function generateContent(rawDir, emailsDir, listingsDir) {
   for (const file of files) {
     const raw = JSON.parse(await readFile(path.join(rawDir, file), 'utf-8'));
     const meta = extractMetadata(raw);
-    const body = extractBody(raw.payload);
+    const rawBody = extractBody(raw.payload);
 
-    if (!body) {
+    if (!rawBody) {
       console.warn(`No plain text body in ${file}, skipping`);
       continue;
     }
+
+    const body = fixEncoding(rawBody);
 
     const dateSlug = emailDateSlug(meta.date, meta.internalDate);
     const subjectSlug = slugify(meta.subject);
@@ -224,6 +251,7 @@ async function generateContent(rawDir, emailsDir, listingsDir) {
         `emailDate: ${escapeYaml(meta.date)}`,
         `number: ${listing.number}`,
         `type: ${escapeYaml(listing.type)}`,
+        `venue: ${escapeYaml(listing.venue)}`,
         `summary: ${escapeYaml(listing.summary)}`,
         '---',
       ].join('\n');

@@ -1,5 +1,5 @@
 import { describe, it, expect } from 'vitest';
-import { extractBody, extractMetadata, parseListings, slugify } from '../scripts/parse-emails.mjs';
+import { extractBody, extractMetadata, parseListings, slugify, fixEncoding } from '../scripts/parse-emails.mjs';
 import { readFile } from 'fs/promises';
 import path from 'path';
 
@@ -86,6 +86,46 @@ instant coffee: test
     const listings = parseListings(body);
     const allBodies = listings.map(l => l.body).join('\n');
     expect(allBodies).not.toContain(':ic: = (instant coffee loves everyone)');
+  });
+
+  it('extracts venue from typed listing', () => {
+    const typedBody = `
+----------------------------------------------------------------------
+01. EXHIBITION | Western Front | Nina Davies - Image Syncers | JAN 10
+----------------------------------------------------------------------
+Join us for the opening reception.
+`;
+    const listings = parseListings(typedBody);
+    expect(listings[0].venue).toBe('Western Front');
+  });
+
+  it('extracts venue from untyped listing', () => {
+    const untypedBody = `
+----------------------------------------------------------------------
+01. Monte Clark Gallery | OWEN KYDD | APR 4
+----------------------------------------------------------------------
+Gallery presents OWEN KYDD.
+`;
+    const listings = parseListings(untypedBody);
+    expect(listings[0].venue).toBe('Monte Clark Gallery');
+  });
+});
+
+describe('fixEncoding', () => {
+  it('fixes double-encoded right single quote', () => {
+    expect(fixEncoding('Vander\u00e2\u0080\u0099s work')).toBe('Vander\u2019s work');
+  });
+
+  it('fixes double-encoded em dash', () => {
+    expect(fixEncoding('Jan 15 \u00e2\u0080\u0094 Feb 28')).toBe('Jan 15 \u2014 Feb 28');
+  });
+
+  it('leaves clean ASCII text unchanged', () => {
+    expect(fixEncoding('Hello world')).toBe('Hello world');
+  });
+
+  it('leaves correctly-encoded UTF-8 unchanged', () => {
+    expect(fixEncoding('caf\u00e9')).toBe('caf\u00e9');
   });
 });
 
