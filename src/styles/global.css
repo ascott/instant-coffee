@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&family=Instrument+Sans:ital,wght@0,400..700;1,400..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&display=swap');
 
 :root {
   --max-width: 720px;
-  --font-body: 'DM Sans', sans-serif;
-  --font-heading: 'DM Sans', sans-serif;
-  --font-mono: 'DM Sans', sans-serif;
+  --font-body: 'Instrument Sans', sans-serif;
+  --font-heading: 'Instrument Sans', sans-serif;
+  --font-mono: 'Instrument Sans', sans-serif;
   --color-bg: #ffffff;
   --color-text: #1a1a1a;
   --color-muted: #666666;
