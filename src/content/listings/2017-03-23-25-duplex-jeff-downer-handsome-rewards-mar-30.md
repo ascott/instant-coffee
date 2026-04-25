@@ -1,0 +1,40 @@
+---
+emailSlug: "2017-03-23-instant-coffee-living-or-dead"
+emailSubject: "(ic-vancouver) INSTANT COFFEE: living or dead"
+emailDate: "Thu, 23 Mar 2017 02:10:17 -0700"
+number: 25
+type: ""
+summary: "Duplex | Jeff Downer: Handsome Rewards | MAR 30"
+---
+
+*** Over 30 publications plus: paintings, prints, sculpture, and digital media
+installation ***
+
+Opening Night: Saturday March 25th, 7pm - late
+Viewing: Sunday March 26th, 12pm - 5pm
+
+Dynamo Arts Association
+30 EAST 6TH AVE VANCOUVER, BC
+
+Print Ready 2017 includes recent publications by Marc Bell & Owen Plummer, Stephane 
+Bernard, Kyle Buds, Cabin Collective, Sarah Ellis Clark, Jo Cook, Zandi Dandizette, 
+Sylvana d'Angelo, William Dereume, Ben Duncan, Carli Erin Boisjolie, Gave and Took 
+Press, Jaz Halloran, Kristen Hatfield, Cassandra Hasanov, Neoglythic Media, Miriam 
+Levine, Sarah Lowenbot, Juli Majer, Tylor MacMillan, Caitlin McDonagh, Drew Miller, 
+Cole Pauls, Perro Verlag, Laura Perry, Phaedra Harder & Stephanie McDonnell, Sonya 
+Ratkay, Sylvie Ringer, Sandra Sanchez, Joel Skavdahl, Sarah Sinner, Melanie 
+Thibodeau, Erica Wilk, & Zine Club.
+
+Neoglyphic Media (Bellingham Washington) will present their brand new issue of
+Emergence: Cover by Drew Miller, with additional contributions by Theo Ellsworth,
+Danielle, Nou, Ben Duncan, Joel Skavdahl, Wyatt Hersey, Ben Nadler, and
+Vinnie Neuberg.
+Zine Club will present an installation featuring a curated selection of international
+digital and print artists from its collective.
+
+Print Ready was started in order to promote the work of artists experimenting with
+self-publishing zines and books. The aim is to foster additional support for artists
+working within the versatile medium of self-publishing. Print Ready is a non-profit
+project that hosts book and zine launches, in addition to large group exhibitions.
+Our office is located in Vancouver at Dynamo Arts Association. Print Ready was
+founded in January 2014, by Nathan Jones and Michael Lachman.

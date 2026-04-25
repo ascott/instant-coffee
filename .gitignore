@@ -5,3 +5,4 @@ data/raw/
 scripts/credentials.json
 scripts/token.json
 .DS_Store
+.gstack/

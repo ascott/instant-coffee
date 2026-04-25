@@ -1,0 +1,28 @@
+---
+emailSlug: "2018-11-15-instant-coffee-insanely-beautiful"
+emailSubject: "(ic-vancouver) INSTANT COFFEE: Insanely Beautiful"
+emailDate: "Thu, 15 Nov 2018 08:31:46 -0800"
+number: 35
+type: "EVENT"
+summary: "VAG | FUSE: Object Lessons | 8 - Late PM | NOV 23"
+---
+
+The Vancouver Art Gallery presents FUSE: Object Lessons
+750 Hornby St, Vancouver, BC
+Friday, November 23, 2018 at 8PM until late
+
+The Vancouver Art Gallerys late-night art party returns as FUSE: Object Lessons on 
+Friday, November 23 at 8PM. Inspired by themes of the Gallerys Fall 2018 season, this 
+signature evening merging visual art, music and performance will awaken guests to a 
+new consciousness around bodies and objects as a way to transmit meaning, lessons, 
+ideas and beliefs. Featured artists will respond to the intricate works of Guo Pei: 
+Couture Beyond as well as photography, video and installation works of Dana Claxton: 
+Fringing the Cube. DJ Todd-Rod Skimmins Simmons will curate the nights sounds, 
+while Downtown Eastside independent radio station No Fun Radio animates an artist 
+bar. 
+
+Tickets $29 General/ $15 for Members available online at vanartgallery.bc.ca
+
+Doors open at 7:30PM
+
+Limited tickets available at the door

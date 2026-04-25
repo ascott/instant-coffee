@@ -1,0 +1,60 @@
+---
+emailSlug: "2025-03-26-instant-coffee-very-still-life"
+emailSubject: "(ic-vancouver) INSTANT COFFEE: Very Still Life"
+emailDate: "Tue, 25 Mar 2025 21:35:03 -0700"
+number: 42
+type: "CALL"
+summary: "Burnaby Public Art | Public Art Roster 2025-2027: Call to artists | APR 15"
+---
+
+2025-2027: Call to artists
+
+The City of Burnaby invites artists to submit portfolios for our new Public Art Roster.
+Art is essential to shaping the character of our public spaces. This program offers
+artists the chance to contribute to small-scale projects integrated into civic
+infrastructure and the public sphere. By joining the Roster, artists and designers
+express interest in collaborating with the Citys public art team or other departments
+and divisions such as Engineering, Transportation and Parks. Participants may be
+invited to contribute to projects like:
+
+- murals or surface treatments on community buildings and play areas
+
+- street installations, including decorated planter boxes, traffic barriers or crosswalk
+designs
+
+- functional design elements
+like shade canopies, seating or artistic treatments for
+civic utilities
+
+Open to both established and emerging artists and designers, including those new to
+public art, the Roster requires a statement of interest, resume and portfolio.
+Submissions will be reviewed by City staff and members of the Burnaby Art Gallery
+Public Art Advisory Committee. Selected artists will be listed for two years and may
+be contacted for specific opportunities, though placement does not guarantee a
+project offer. Apply online today!
+
+About the Public Art Roster
+
+This program builds on Burnabys ongoing efforts to integrate creativity into civic
+planning and urban design, and fostering new collaborations between public art and
+City service areas. By inviting artistic contributions to enhance essential
+infrastructure, the City aims to create vibrant, welcoming public spaces throughout
+the city. This program opens the door for artists to respond to unique sites and
+contexts, offering innovative ways to enhance
+our public spaces to strengthen the
+link between creative expression and urban development.
+
+How to apply
+
+What to include in your portfolio: we suggest an overview of the creative styles you
+use and examples of previous works you have undertaken in a public realm, or other
+accomplishments of your artistic work. Artists who are new to art in public spaces
+can contribute a portfolio with examples of artwork that demonstrate abilities, along
+with a vision of how you plan to expand your practice into public space.
+
+Deadline for applications: April 15, 2025, midnight
+
+Notification of acceptance will take place in May 2025, and project opportunities will
+be ongoing until the end of 2027
+
+https://www.burnaby.ca/our-city/about-burnaby/public-art/public-art-roster

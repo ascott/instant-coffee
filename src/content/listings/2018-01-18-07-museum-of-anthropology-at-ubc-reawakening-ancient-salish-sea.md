@@ -1,0 +1,21 @@
+---
+emailSlug: "2018-01-18-instant-coffee-staircase-of-tears"
+emailSubject: "(ic-vancouver) INSTANT COFFEE: Staircase of Tears"
+emailDate: "Thu, 18 Jan 2018 10:34:49 -0800"
+number: 7
+type: "EVENT"
+summary: "Museum of Anthropology at UBC | Reawakening Ancient Salish Sea Basketry | 7PM | JAN 18"
+---
+
+The Museum of Anthropology (MOA) at UBC invites you to celebrate the arrival of an
+Archeology Basket by Suquamish Elder and Master Basketmaker Ed Carriere into the
+museum collection on Thursday, January 18 at 7pm. 
+
+This basket embodies memories and identities from four time periods spanning 4,500 
+years of Coast Salishan basketry. Carriere will give a richly illustrated talk alongside 
+colleague Dr. Dale R. Cross, wet site archaeologist and ancient basketry researcher. 
+Carriere and Croes will also launch their new publication, Reawakening Ancient Salish 
+Sea Basketry.
+
+Free with Museum Admission. For more information visit:
+http://moa.ubc.ca/portfolio_page/salish-seabasketry

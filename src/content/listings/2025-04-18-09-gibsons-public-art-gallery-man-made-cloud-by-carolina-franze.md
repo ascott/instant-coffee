@@ -1,0 +1,35 @@
+---
+emailSlug: "2025-04-18-instant-coffee-force"
+emailSubject: "(ic-vancouver) INSTANT COFFEE: force"
+emailDate: "Thu, 17 Apr 2025 23:20:04 -0700"
+number: 9
+type: "EXHIBITION"
+summary: "Gibsons Public Art Gallery | Man Made Cloud by Carolina Franzen | APR 3"
+---
+
+CAROLINA FRANZEN | Man Made Cloud
+
+Fine, detailed, colourful linework sensually evolves into expansive landscapes which
+subtly engage with the beholder and their preconceptions. Pulp products are
+reversed into tree, sky, and seascapes. Using colourful pencil and felt pen on found
+and canvassed industrial packaging paper, Man Made Cloud is an ongoing series
+first begun in 2021. The materiality of the work and the process behind each piece
+shine through the finesse of the linework. The negative spaces of brown carton
+papers are elevated to show growth as dense and vivid as the trees which make up
+the paper may have once been.
+
+Carolina Franzen holds an MA in History of Art and a PhD focussing on genocide
+and philosophy. She has explored active and academic ways of living around the
+Salish Sea since 2013. In 2024 Franzen exhibited her sculptural work, slyly swift
+assemblages made of found objects, in GPAGs Joes Lounge; now, she returns
+through this exhibition in the Main Gallery to works representing the forms of land.
+Her drawings engage us with the quality and tranquility of a different pace,
+reminiscent of the deeper sense of geologic time. She invites us to charmingly
+clouded ice-berg tips, and to the beauty of a world void of human bodies.
+
+https://gpag.ca/
+
+www.carolinafranzen.com
+
+GPAG - located on the unceded territories of the Swxw7mesh, in Gibsons,
+Sunshine Coast

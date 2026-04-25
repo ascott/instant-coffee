@@ -1,0 +1,49 @@
+---
+emailSlug: "2008-08-22-instant-coffee-using-language-like-colour"
+emailSubject: "(ic-vancouver) Instant Coffee: using language like colour"
+emailDate: "Fri, 22 Aug 2008 08:42:36 -0700"
+number: 5
+type: "OPENING"
+summary: "GRUNT | Jake Hill | SEP 4"
+---
+
+116 - 350 East 2nd Avenue, Vancouver BC V5T 4R8
+ph: 604 877 9516 fax: 604 877 0073 email: grunt@telus.net
+web:www.grunt.bc.ca
+Jake Hill - New Work
+
+part of SWARM
+September 4th - October 11th 2008
+Opening Thursday September 4th - 8pm.
+NEW GRUNT HOURS:
+TUESDAY – SATURDAY NOON-5PM
+Jake Hill is a young emerging artist who has shown in
+local Vancouver artist-run centres. His work is rooted in
+sculpture and this new work is significantly different from
+this previous work for its minimal mass and implied rather
+than real form.
+Jake comments that, “the installation continues research
+into achieving scale and form through the use of materi-
+als that are absent, vacant or almost nothing. The work is
+inspired by drawings that depict making things – like shop
+sketches or illustrated recipes. Such devices lie or at least
+they cannot tell the whole truth. They need faith or a willful misreading
+to believe that something could exist as
+a result of them.”
+Hill’s exhibit inscribed directly into the gallery uses the cast shadow of
+a ping pong ball to carve a dent out of a
+wall and drawings to provide evidence of a new physics of presence. The
+installation deploys an artificial logic
+and an opportunity for the viewer’s willful misreading of rational evidence
+to produce an imaginary space. Jake
+Hill is a sculptor whose work investigates the construction of artificial
+relationalities.
+Jake Hill is a graduate from Emily Carr Institute of Art and Design and has
+a Masters Degree in Architecture
+from UBC. He received the Helen Pitt and the Alvin Balkind Prizes at ECIAD
+and the Kenny Charow Prize at
+UBC. Hill’s practice is informed by considerations of the body and culture
+and interests itself, particularly, in
+questions of scale
+Join the grunt gallery in welcoming Jake Hill.
+-30-

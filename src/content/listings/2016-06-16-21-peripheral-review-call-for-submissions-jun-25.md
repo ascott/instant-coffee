@@ -1,0 +1,47 @@
+---
+emailSlug: "2016-06-16-instant-coffee-keep-it-short"
+emailSubject: "(ic-vancouver) INSTANT COFFEE: Keep it short"
+emailDate: "Thu, 16 Jun 2016 12:35:34 -0700"
+number: 21
+type: "CALL"
+summary: "Peripheral Review | Call for Submissions | JUN 25"
+---
+
+Peripheral Review is a new website based out of Vancouver 
+dedicated to documentation and critical reviews of Vancouver-area 
+art exhibitions, performances (art, music, dance, theatre) and 
+events. We are currently looking for writers and artists who would 
+be interested in documenting Vancouver's independent art scene. 
+
+We are looking for:
+
+Critical reviews of Vancouver-area art exhibitions, performances 
+(art, music, dance, theatre) and events (650-1500 words max.) 
+Must include title of the show, venue name and full names of artists. 
+
+Artistic responses to art exhibitions and performances 
+poems/creative writing
+drawings/sketches/collages/creative photography/digital media 
+(GIFF, collage, etc.)
+recorded descriptions/soundscapes
+other: propose it to us!
+
+Short reviews/descriptions of exhibitions/performances/events 
+(200-300 words max.) Must include title of the show, venue name 
+and full names of artists. 
+
+Any submission MUST include an image of the 
+exhibition/performance/event for reference for the published piece, 
+with photo credit (Artist Name, title of work/exhibition title, year. 
+Photo/Image credit: name.) 
+JPEG format, if possible submit high and low quality versions
+if no photo attached please insert link for appropriate 
+source/website, etc. 
+
+Also include your preferred social media handles, link to website, 
+short bio (150 words max), and if you have previously submitted 
+article/response anywhere else
+
+Currently, as we are grassroots and unfounded, we can offer no 
+monetary compensation for submission. We will work at getting our 
+reviewers tickets to events in the future, show passes, etc.

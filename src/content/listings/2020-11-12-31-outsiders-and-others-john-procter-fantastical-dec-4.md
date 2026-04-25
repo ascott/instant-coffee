@@ -1,0 +1,43 @@
+---
+emailSlug: "2020-11-12-instant-coffee-the-remains-of-a-journey"
+emailSubject: "(ic-vancouver) INSTANT COFFEE: The Remains of a Journey"
+emailDate: "Thu, 12 Nov 2020 12:00:05 -0800"
+number: 31
+type: "OPENING"
+summary: "Outsiders and Others | John Procter - Fantastical | DEC 4"
+---
+
+John Procter - Fantastical
+December 4-27, 2020
+
+John Procter was born and raised in East Vancouver. He was the first Easter baby born
+at 12:01am on
+March 26, 1948. His mom was given a free baby carriage from the
+hospital to commemorate the occasion. Went to Templeton High School, and tried
+Simon Fraser for a semester and decided it wasn't for him. John has lived a blue collar
+life, doing what needs to be done to get by, as well as creating masterful collages,
+mobiles, and paintings, which was he real life passion.
+
+Being a self taught artist, John picked up art making skills throughout his life. And
+because money was usually scarce, John has never afforded himself the luxury to paint
+on canvas but rather inexpensive or found materials. Whatever the materials may be,
+John's finished work is made with impeccable details and craftsmanship.
+
+John's work can be very reminiscent of Alexander Calder in his mobiles because of their
+elegant use of organic shapes, balance, and colors. His collages have the precision
+and complexity of Hannah Hoch. John's artwork is not without influence as he is well
+read and keeps himself informed on who
+has come before him.
+
+John's work is a pleasant escape from the regular day to day. This exhibition will slap
+you in the face with the colour and fantastical joy you need right now!
+
+________________________________________________________________
+
+Outsiders and Others is a non-profit art society that brings nontraditional artists to the
+forefront. Our gallery is a window based experience where you can see an entire
+exhibition through a storefront window. While viewing the exhibition, to get more
+information on the artists or the exhibition you are looking at, simple scan the QR code
+on the window with your phone. It will take you directly to our website where you can
+read about the artists and buy artwork. You can visit inside the gallery by appointment
+only. PPE and social distancing is required upon visiting in person.

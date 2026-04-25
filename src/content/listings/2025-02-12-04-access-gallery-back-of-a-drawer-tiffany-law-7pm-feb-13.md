@@ -1,0 +1,33 @@
+---
+emailSlug: "2025-02-12-instant-coffee-singularity-theorems"
+emailSubject: "(ic-vancouver) INSTANT COFFEE: Singularity Theorems"
+emailDate: "Tue, 11 Feb 2025 21:40:11 -0800"
+number: 4
+type: "OPENING"
+summary: "Access Gallery | back of a drawer | Tiffany Law | 7PM | FEB 13"
+---
+
+back of a drawer | Tiffany Law
+Exhibition Opening, Access Gallery
+Curated by Kitt Peacock
+222 E Georgia Street Vancouver
+
+Please join us at 7pm on February 13th for the opening of back of a drawer, a solo
+exhibition featuring the works of Tiffany Law.
+
+back of a drawer presents a suite of new and reworked pieces, including drawings,
+intaglio prints, and sculptural drawings that allude to Laws fascination with
+geological time, land formation, and the kinship between the body and non-human
+entities in the material world. Depicting caves, voids, and ruptures, these works
+evoke poetic and metaphorical journeys"an exploration
+both above and
+underground, tracing transitional, non-linear pathways of formation and being.
+
+In this exhibition, Law examines the physical properties of the matters she has
+worked closely with. Through the cyclical and labour-intensive drawing
+and printmaking processes, graphite, paper, gypsum panel, copper plate, and rock
+gradually reveal their interiority as they transform, decompose, and reconstitute"
+constructing a reciprocal structure between image and material. The pictorial space
+becomes a palimpsest, a constellation of traces, erasures, and fragmented
+temporalities. Much like sediment compacting into rock, each mark is a grain of
+sand, a stratigraphic layer within the totality of the drawing.

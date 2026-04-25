@@ -1,0 +1,65 @@
+---
+emailSlug: "2020-03-12-instant-coffee-indigenous-brilliance"
+emailSubject: "(ic-vancouver) INSTANT COFFEE: Indigenous Brilliance"
+emailDate: "Thu, 12 Mar 2020 08:25:08 -0700"
+number: 16
+type: ""
+summary: "THEATRE | PARIS! The"
+---
+
+Show | Victoria and Vancouver Showtimes | MAR 17
+
+PARIS! THE SHOW
+
+Celebrating the best of post-WWII French musical rpertoire
+
+VICTORIA: Tuesday, March 17, 2020 | 8pm
+
+Royal Theatre
+
+805 Broughton St, Victoria
+
+Tickets: $63.50 - $73.50 | https://www.rmts.bc.ca/|250-386-6121|1-888-717-6121
+
+VANCOUVER: Wednesday, March 18, 2020 | 8pm
+
+Chan Centre
+
+6265 Crescent Road, UBC Vancouver
+
+Tickets: $66, $76.75, $87.50 | https://chancentre.com/ | 604-822-2697
+
+Following the success of Piaf! The Show starring the internationally acclaimed Anne
+Carrere - which wowed both Royal Theatre and Chan Centre audiences in March 2019
+" producer / creator Gil Marsalla delivers a sensational new show to both cities next
+week, bringing us the best repertoire of French music in the world!
+
+Paris! The Show is a spectacular evening of music and dance, and a vibrant tribute to
+the greatest French songs of the post-WWII era. It beautifully
+captures the essence and
+charm of Paris for the whole world to enjoy. An exceptional cast, spectacular live band,
+original storyline and scenic design transport audiences from Montmartre to the stages
+of the great Parisian cabarets of the time. The show features some of the greatest and
+best-loved songs of Edith Piaf, Charles Aznavour, Jacques Brel, Josephine Baker,
+Maurice Chevalier, Lucienne Boyer, Charles Trenet, Yves Montand and others.
+
+A star-studded French cast brings the music and era to life. It features Anne Carrere
+(Piaf! The Show), Stphanie Impoco (Romo & Juliette), and Jules Grison (Formidable!
+Aznavour). The touring company also includes dancers Karine Soucheire, Jeff Dubourg
+and musicians Philippe Villa (musical director, piano), Guy Giuliano (accordion), Laurent
+Sarrien (percussion), and Daniel Fabriquant (double bass).
+
+The story follows Franoise (Stphanie Impoco), a small town girl who dreams of
+moving to Paris to become a famous artist. On her journey to success,
+she becomes
+friends with Edith Piaf (Anne Carrere) and falls in love with a bohemian painter living in
+the Pigalle quarter of Paris, Charles Aznavour (Jules Grison). Romance blossoms in a
+city where love conquers all.
+
+Find full info :
+
+Vancouver https://www.youtube.com/watch?v=-HUrXvqk6mQ&feature=youtu.be |
+https://chancentre.com/events/paris-the-show/
+
+Victoria https://www.youtube.com/watch?v=NbH-gJd5oh4&feature=youtu.be |
+https://www.rmts.bc.ca/

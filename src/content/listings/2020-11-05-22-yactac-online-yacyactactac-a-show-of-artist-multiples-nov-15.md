@@ -1,0 +1,62 @@
+---
+emailSlug: "2020-11-05-instant-coffee-valuable-watermelon"
+emailSubject: "(ic-vancouver) INSTANT COFFEE: Valuable Watermelon"
+emailDate: "Thu, 05 Nov 2020 09:10:09 -0800"
+number: 22
+type: "EXHIBITION"
+summary: "Yactac [ONLINE] | YACYACTACTAC - A Show of Artist Multiples | NOV 15"
+---
+
+YACYACTACTAC
+A Show of Artist Multiples
+
+Follow us on Instagram @yactac to see the show!
+https://www.instagram.com/yactac/
+
+November 15th - 30th
+
+Featuring works by:
+
+Patrik Andersson - Trapp Projects
+Sakaya Asai
+Ben Bogart
+Nancy Boyd
+Jen Branagan
+Ghislain Brown-Kossi
+Angelica Brzyska
+Janice Cheung
+Jessica Cole
+Anthony Cooper
+Lesley DeHaan
+Steven Dragonn
+Jesse Gray
+Gillian Haigh
+Bill Jeffries
+Jack Jeffrey
+James K-M
+Sean Karemaker
+Lois Klassen
+Liz Knox
+Leslie Leong
+Anna Luth
+MAU
+Andrew McPhail
+Kate Miller
+Olusha Milley
+Amanda Nikeamp
+Helena Parriott
+Jess Portfleet
+Mudasar Rashdi
+Ellinda Siu
+Mira Song
+Weronika Stepien & Stephen Wichuk
+Garland Lam Turner
+Zhang Wei
+Yactac
+Mony Zakhour
+
+Join us for updates on facebook:
+https://www.facebook.com/events/410570306615476
+
+Because it is great, and we are YACTAC!
+https://www.yactac.com

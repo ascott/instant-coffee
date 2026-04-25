@@ -1,0 +1,78 @@
+---
+emailSlug: "2013-03-28-instant-coffee-it-is-not-the-suns-fault"
+emailSubject: "(ic-vancouver) INSTANT COFFEE: it is not the sun's fault"
+emailDate: "Thu, 28 Mar 2013 12:41:27 -0700"
+number: 9
+type: ""
+summary: "CSA space | Jack Brindley | APR 4"
+---
+
+CSA space presents :
+Blueprint
+Jack Brindley
+Guest curated by Victor Wang
+April 4th â€“April 14 2013
+Opening April 4th 6pm-9pm
+
+La Passion Est Une Chance
+Max Ruf
+Guest curated by Victor Wang
+April 18th â€“April 28th 2013
+Opening April 18th 6pm-9pm
+
+During April two solo exhibitions will be presented at CSA Space by Jack 
+Brindley and Max Ruf, guest curated by Victor Wang. The program considers 
+different approaches to the idea of exhibition-making and the development of 
+painting as an ideological framework. By approaching the exhibition as a 
+painting, both artist and curator explore how painterly techniques can be 
+applied structurally and conceptually towards the process of staging an 
+exhibition. Re-addressing the historical narrative of painting each of the two 
+artists will present work that navigates a contemporary position to painting, 
+allowing for the works, texts, press releases, and organization of space to 
+explore ideas of the â€˜painterlyâ€™.
+
+Both artists are MFA candidates at the Royal College of Art, and were 
+recently exhibited in Bloomberg New Contemporaries at the Liverpool 
+Biennale and The Institute of Contemporary Arts, London.
+
+BLUEPRINT
+Jack Brindley
+Guest curated by Victor Wang
+April 4th â€“April 14 2013
+Opening April 4th 6pm-9pm
+
+For his first solo exhibition in Canada, Brindley will present an entirely new 
+body of work, for example the paintings â€˜Blueprint (London to Vancouver, 
+2013)â€™ which will be a painting created by its travel from the artist's studio in 
+London to CSA space. The work involves shipping canvas material coated in a 
+photosensitive emulsion (Cyanotype) to the gallery. The work is â€˜developedâ€™ as 
+it travels, absorbing the light present during its transit. Mirroring this, a text 
+will be made throughout the duration of the show, exploring the processes of 
+â€˜exhibition making' and the staging of space through a dialogue with Wang. 
+The writing will exist in equivalence to the artworks present.
+
+La Passion Est Une Chance
+Max Ruf
+Guest curated by Victor Wang
+April 18th â€“April 28th 2013
+Opening April 18th 6pm-9pm
+
+A canvas turned on its side allowing for the paint to fall and address the 
+deterritorialization of autonomous pigments lost in diaspora. A â€˜rhizomaticâ€™ 
+structure containing the capacity to circumvent singular acts of color, thought, 
+and gesture. Lying in an expanded field of ahistorical happenings off the 
+â€˜network of paintingâ€™; the material reconstruction is an illusion of the market, 
+and unnecessary in the formulation of the â€˜painterlyâ€™. Where an ephemeral 
+exhibition is neither the start nor end of this division of labor â€“ but rather a 
+Promethean fire to ignite the spectacle as an independent realm of modern 
+society. Built on a hierarchy of medium specificity, and interdependence of 
+subject/object relationalism, the space beyond the frame is allowed to exist in 
+the constitutive other. A breakdown in the continuous separation in the field 
+of visual culture that allows for self-reflexivity and the appearance of pure 
+aesthetic to coexist beyond a Hegelian dimension of total history. Pursuing 
+viewing conditions responsive to the proliferation of technology and the rise of 
+inter-global connectivity.
+
+See Pulpfiction Books (2422 Main St.) for admission during regular business 
+hours: Mon-Wed 10am-8pm, Thurs-Sat 10am-9pm, Sundays and holidays 
+11am-7pm.

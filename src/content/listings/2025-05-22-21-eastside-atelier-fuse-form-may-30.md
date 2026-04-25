@@ -1,0 +1,20 @@
+---
+emailSlug: "2025-05-22-instant-coffee-jobzz"
+emailSubject: "(ic-vancouver) INSTANT COFFEE: JOBZZ"
+emailDate: "Thu, 22 May 2025 13:30:11 -0700"
+number: 21
+type: "EVENT"
+summary: "Eastside Atelier | Fuse & Form | MAY 30"
+---
+
+Eastside Atelier
+1310 William Street (at Clark), Vancouver
+Friday, May 30th, 5-9pm
+
+We are excited to invite you to a new monthly showcase in the heart of Vancouvers
+cultural district. Step into Eastside Atelier, a historic creative hub, for this evening of
+hands-on art making, demos, conversation, and discovery. Meet the artists, explore
+their work, and join us in growing this new community of creativity and connection.
+
+All are welcome. Light refreshments will be available and studios will be open to peruse
+at your leisure.

@@ -1,0 +1,11 @@
+---
+emailSlug: "2008-05-01-instant-coffee-yawning-is-encouraged"
+emailSubject: "(ic-vancouver) Instant Coffee: yawning is encouraged"
+emailDate: "Thu, 01 May 2008 09:05:07 -0700"
+number: 13
+type: ""
+summary: "Video Out | position of Coordinator, Video Out Distribution"
+---
+
+Video Out Distribution and the VIVO Media Arts Centre are seeking applications for the position of Coordinator, Video Out Distribution Deadline for Applications: Friday May 9, 2008 at 6 pm.Minimum Qualifications:&#61656; Undergraduate Degree in Film/Video/Media Arts&#61656; 3 Years experience coordinating arts/media programs and projects&#61656; 1 Year supervisory Experience&#61656; Proven project management experience in nonprofit or arts sector&#61656; Understanding of art video and its contemporary context in media arts inCanada&#61656; Proven experience in successful grant writing&#61656; Experience in financial management and in planning, writing and managingboth organizational and project budgetsPreferred:&#61656; Strong understanding of the principles of artist-run culture and communicationsskills that support artist-centered services&#61656; Understanding of independent non-profit distribution organizations in Canadaand how they interact with artists and exhibitors&#61656;
+Experience in festival programming or curatorial projects&#61656; Experience in the promotion and marketing of artworks&#61656; Experience with consensus-based decision making and collective managementstructuresThis is a salaried position at $ 21,000 per year.Additional benefits include flexible work schedule, travel and access to VIVO MediaArts Centre equipment, facilities and educational opportunities. Practicing media artists are encouraged to apply.VIVO Media Arts Centre is an equal opportunity employer and is firmly committed to activelyassuring full participation in the organization and access to its resources to all people,regardless of gender, race, language, sexual orientation, age or ability.To apply email or send a cover letter, CV and three references to Jennifer Fisher, DistributionCoordinator, at videoout@telus.netVideo Out Distribution1965 Main Street BC V5T 3C1Do not fax applications.Only short listed candidates will be contacted.

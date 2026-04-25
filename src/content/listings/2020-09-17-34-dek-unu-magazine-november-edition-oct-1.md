@@ -1,0 +1,44 @@
+---
+emailSlug: "2020-09-17-instant-coffee-murmurations"
+emailSubject: "(ic-vancouver) INSTANT COFFEE: Murmurations"
+emailDate: "Thu, 17 Sep 2020 09:30:20 -0700"
+number: 34
+type: ""
+summary: "Dek Unu Magazine | November Edition | OCT 1"
+---
+
+Unique solo-format print and online monthly journal of fine art photography calls for
+interesting art from interesting artists. Accomplished, adventurous photography in all
+genres and techniques is invited; international submissions are welcome. Each monthly
+edition features only one artist and contains both an extended portfolio with artist
+commentary and an in-depth artist interview. Dek Unu provides respectable and
+respectful publication and promotion to artists of all pedigrees and career stages.
+Dek
+Unu is not-for-profit, non-advertising, and there is never a fee to artists to submit.
+
+Application Guidelines:
+
+Deadline: October 1, 2020 | 10:30 PM US East Coast time
+
+Please submit 11 web-resolution .jpg images (< 1 MB each) as separate files attached
+to an email to dekunumag at gmail dot com. Attach a separate cv/bio as .doc, .docx, .rtf
+or plain text. Attach a third document file that tells about you and your work. We look for
+interesting artists as much as we look for interesting art so this document should cover
+material that you would want to share in the interview section of the magazine. To see
+what we are up to, the current edition of the magazine is always at
+www.dekunumag.com, and selected work from our back issue archive is always at
+www.dekunuarts.com. Complete guidelines for submission are at
+www.dekunumag.com/submit.
+
+There is never an editorial theme for an edition of the magazine; each issue is themed
+and curated by the artist alone. We receive a very large
+number of portfolios for each
+call and can only publish one artist per month so we are highly selective. Beyond an
+interest in keeping an international focus and preserving issue-to-issue variety, we never
+know what an issue of the magazine will look like until the jury's work with a month's pile
+of portfolios is finished.
+
+All respondents are notified of results no later than 7 days after the deadline.
+
+
+http://www.dekunumag.com/submit

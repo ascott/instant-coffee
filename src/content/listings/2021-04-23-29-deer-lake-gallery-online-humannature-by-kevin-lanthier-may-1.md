@@ -1,0 +1,34 @@
+---
+emailSlug: "2021-04-23-instant-coffee-after-art-school"
+emailSubject: "(ic-vancouver) INSTANT COFFEE: AFTER ART SCHOOL"
+emailDate: "Fri, 23 Apr 2021 01:25:04 -0700"
+number: 29
+type: "TALK"
+summary: "Deer Lake Gallery [ONLINE] | HUMAN:NATURE by Kevin Lanthier | MAY 1"
+---
+
+HUMAN:NATURE by Kevin Lanthier
+
+May 1 " May 30
+
+As human activity alters and controls more of the earths surface, wildlife are forced to
+adapt. Some species are displaced from these areas, some live at the fringe, and others
+become full-time residents of what we tend to think of as our spaces. As their behaviour
+adjusts, it can seem as though these non-human
+neighbours of ours take on some of our
+own patterns and characteristics, reflecting our own nature back to us. Were also forced to
+re-examine what natural habitat now even means for many of them. As such, these
+images present moments of day-to-day life for several commonly found species as seen in
+tableau, not unlike the dioramas in natural history museums, but updated for the reality of
+their new habitats.
+
+Join the upcoming artist talk with Kevin Lanthier and our other featured artist for May, David
+Righton on May 8 starting at 2:00pm.
+
+May 8 Artist talk registration:
+
+https://zoom.us/meeting/register/tJwsd-iurTksGtaqP-RmsXXNR8vXHxyPY_UP
+
+More info:
+
+https://burnabyartscouncil.org/event/humannature-by-kevin-lanthier/

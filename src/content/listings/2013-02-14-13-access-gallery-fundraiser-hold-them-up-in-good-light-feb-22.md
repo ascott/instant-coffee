@@ -1,0 +1,67 @@
+---
+emailSlug: "2013-02-14-instant-coffee-you-make-us-feel-like-we-are-watching-a-godard-film"
+emailSubject: "(ic-vancouver) INSTANT COFFEE:  you make us feel like we are watching a Godard film"
+emailDate: "Thu, 14 Feb 2013 15:30:46 -0800"
+number: 13
+type: ""
+summary: "Access Gallery | Fundraiser: Hold Them Up in Good Light | FEB 22"
+---
+
+Hold Them Up in Good Light is on Friday Feb. 22nd at 8pm. Visit 
+accessgallery.ca, become an Access member and get in for FREE!
+
+Access Gallery presents our Annual Fundraising Auction!
+
+Hold Them Up in Good Light
+
+Friday February 22nd, 8pm - 12am
+Auction Preview: Friday February 15th, 8-11pm
+222 East Georgia St.
+$15, Free for Members.
+
+Access Gallery invites you to our 2013 auction fundraiser! Join us on Friday 
+February 22nd at 8pm for Hold Them Up in Good Light. Come party the night 
+away with music provided by SWEATY BONES // Featuring DJ Pancake 
+Semester (Jenny Lee Craig), DJ Merci Beaucruz (Francis Cruz), DJ Dayglow 
+(Kara Stokowski), DJ Endless Summer (Ian Deleon), Pillowhead (Justin 
+Wright), DJ HNAGZ (Heidi Nagtegaal), and DJ Banned for Life (Nathalee 
+Paolinelli), hors d'ourves and desserts by Silvestre Gusto Latino, and 
+handcrafted cocktails by Malika Montague.
+
+Hold Them Up in Good Light will feature both live and silent auctions hosted 
+by special guests Glaze & Stipple, the Duo that Never Fails to Express 
+(Elizabeth Milton and Tara Travis). This year’s auction features over 40 works 
+from a mix of internationally renowned and locally respected artists, as well 
+as some Vancouver’s most exciting emerging talent. Artists include: Neil 
+Wedman, Nicole Ondre, Elizabeth Zvonar, Howie Tsui, Rachelle Sawatsky, 
+Ryan Peter, Anne Low, Matthew Brown, Alison Yip, Jonathan Syme, Erica 
+Stocking, Shannon Oksanen, Sydney Hermant, Kaeli Robinsong, Kate Moss, 
+Guadalupe Martinez, Jenine Marsh, Jeneen Frei Njootli, Marc Losier, Erin 
+Riley, Val Nelson, Sylvain Sailly, Mohammed Salemy, Mark DeLong, Jason 
+Gowans, Michael Love, Ali Ahadi, Sheila Spence, Hamish Buchanan, Randy 
+Grskovic, Kalli Niedoba, Marilyne Blais, Justin Patterson, Steven Hubert, Arvo 
+Leo, Aja Rose Bond, Zanette Singh and many more!
+
+Access is uniquely committed to fostering critical and emergent creative 
+practices. The support of members and donors over the past twenty years has 
+made it possible for the gallery to present a diverse range of locally and 
+internationally renowned exhibitions and programming. Help us to continue to 
+provide the Vancouver arts community with an inclusive space for the 
+presentation of some of the most compelling and engaging practices this city 
+has to offer!
+
+Event Sponsors:
+Fine Art Framing, Phillips Brewery, and the Consulate General of Peru in 
+Vancouver.
+
+Auction Image Designed by: 
+Sydney Hermant
+
+Absentee/Phone bids accepted
+Auction website with auction works and more information launching this 
+Friday Feb. 15
+
+Access Gallery
+222 E. Georgia St Vancouver, BC
+(604) 689-2907
+access@vaarc.ca

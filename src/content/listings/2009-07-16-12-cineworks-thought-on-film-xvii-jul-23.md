@@ -1,0 +1,49 @@
+---
+emailSlug: "2009-07-16-instant-coffee-the-detour-is-this-way"
+emailSubject: "(ic-vancouver) INSTANT COFFEE: the detour is this way"
+emailDate: "Thu, 16 Jul 2009 09:55:46 -0700"
+number: 12
+type: ""
+summary: "Cineworks | Thought on Film XVII | JUL 23"
+---
+
+MONTHLY READING + DISCUSSION GROUP EXPLORING CINEMA + CINEMATIC PRACTICE
+THROUGH WRITTEN WORDS
+
+A monthly reading + discussion group, Thought on Film aims to promote
+critical thought around film product and practice through community-based
+discussion. Open to the public, Thought on Film fosters the close reading
+of texts confronting issues in contemporary, cutting-edge cinematic
+practice and philosophy.
+
+In anticipation of Cineworks's SWARM exhibition, Moveable City, July's
+meeting will feature Maurice Merleau-Ponty's Â“The Intertwining Â– The
+Chiasm,Â” the last and incomplete chapter from The Visible and the
+Invisible written before his death. Moveable City is an exhibition that
+seeks to bring into reflection the layers of our subjective experience when
+moving in and through the built environment. The exhibition is interested
+in prying open the strait between perception and imagination by asking us
+to recognize the constant potentiality of time and place to become
+something radically transformed. With this in mind, we will be looking at
+the work of Merleau-Ponty whose thoughts on perception eventually
+culminated in his concept of Â“ChiasmÂ” or flesh, which is the crossing
+over between subjective experience and objective existence. Merleau-Ponty
+asks us to consider our bodies as both part of the tangible world as well
+as the world through which we perceive the tangible things that lay beyond
+our bodies.
+
+Experimenting with the form of reading groups and their discussions, this
+monthÂ’s selection will be read out loud by participants. No pre-reading
+required!
+
+Please note: July's reading will take place at Cineworks's new annex space
+at the Ironworks building [and will not be held at the regular Howe Street
+location.] If you have any questions about Thought on Film, please do not
+hesitate to contact Programs Manager + Curator cheyanne turions at
+cheyanne@cineworks.ca.
+
+Thought On Film XVIII
+reading Merleau-Ponty's Â“The Intertwining-The ChiasmÂ”
+Cineworks Annex in the Ironworks building [235 Alexander street.]
+23 July 2009, 6pm
+Free

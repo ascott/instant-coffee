@@ -1,0 +1,33 @@
+---
+emailSlug: "2024-10-02-instant-coffee-vergara"
+emailSubject: "(ic-vancouver) INSTANT COFFEE: Vergara"
+emailDate: "Tue, 01 Oct 2024 20:55:08 -0700"
+number: 1
+type: ""
+summary: "MUSIC | Benjamín"
+---
+
+Vergara
+Were very lucky to have one of Chiles finest musicians, Benjamn Vergara doing a
+week-long residency in Vancouver. His work draws inspiration from the soundscape
+of the endless life that creates the extreme south territory of Chile. Organized by
+Adrian Avendao.
+
+Oct. 2nd 2024 - Tyrant Studios
+Solo
+Duo with JP Carter
+9:00pm
+
+Oct 3rd - 8EAST
+Vergara / Miller / Avendao
+Peggy Lee / Marina Hasselberg / Meredith Bates
+Sextet
+8:00pm
+
+Oct.4th - Hypha Arts - 1410 Venables St
+Andromeda Monk - Solo Bass Clarinet and Processing
+Vergara/ Chacal del Tamborazo / Avendao
+8:00pm
+
+Oct.5th - 8EAST - Improvisation Workshop
+2:00pm - 3:30pm
