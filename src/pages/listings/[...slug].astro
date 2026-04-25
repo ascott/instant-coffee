@@ -19,16 +19,18 @@ const formatted = isNaN(d.getTime()) ? listing.data.emailDate : d.toLocaleDateSt
 });
 ---
 <Base title={`${listing.data.type}: ${listing.data.summary}`}>
-  <a class="back-link" href={`/instant-coffee/emails/${listing.data.emailSlug}`}>
-    &larr; {listing.data.emailSubject.replace(/^\(ic-vancouver\)\s*/i, '')}
-  </a>
+  <article data-pagefind-body>
+    <a class="back-link" href={`/instant-coffee/emails/${listing.data.emailSlug}`} data-pagefind-ignore>
+      &larr; {listing.data.emailSubject.replace(/^\(ic-vancouver\)\s*/i, '')}
+    </a>
 
-  <span class="type-badge">{listing.data.type}</span>
-  <h1>{String(listing.data.number).padStart(2, '0')}. {listing.data.summary}</h1>
-  <p class="listing-meta">From email dated {formatted}</p>
+    {listing.data.type && <span class="type-badge" data-pagefind-filter="type">{listing.data.type}</span>}
+    <h1>{String(listing.data.number).padStart(2, '0')}. {listing.data.summary}</h1>
+    <p class="listing-meta" data-pagefind-meta="date">{formatted}</p>
 
-  <hr style="margin: 1.5rem 0;" />
-  <div class="listing-body">
-    <Content />
-  </div>
+    <hr style="margin: 1.5rem 0;" />
+    <div class="listing-body">
+      <Content />
+    </div>
+  </article>
 </Base>
